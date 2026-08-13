@@ -1,12 +1,12 @@
 {
   "pratiquePack": 1,
   "id": "food-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "title": { "fr": "Nourriture A1", "en": "Food A1" },
   "description": {
-    "fr": "Petit pack café / marché pour débutants.",
-    "en": "Small café / market pack for beginners."
+    "fr": "Café, marché et repas du quotidien pour débutants.",
+    "en": "Café, market, and everyday meals for beginners."
   },
   "seed": [
     {
@@ -72,6 +72,102 @@
       "example": "J’aime les fruits.",
       "ipa": "fʁɥi",
       "article": "le"
+    },
+    {
+      "id": "remote-food-a1-9",
+      "fr": "œuf",
+      "en": "egg",
+      "example": "Je mange un œuf au petit déjeuner.",
+      "ipa": "œf",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-10",
+      "fr": "beurre",
+      "en": "butter",
+      "example": "Du beurre sur le pain, s’il vous plaît.",
+      "ipa": "bœʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-11",
+      "fr": "riz",
+      "en": "rice",
+      "example": "Nous mangeons du riz ce soir.",
+      "ipa": "ʁi",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-12",
+      "fr": "poulet",
+      "en": "chicken",
+      "example": "Le poulet est bon.",
+      "ipa": "pu.lɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-13",
+      "fr": "salade",
+      "en": "salad",
+      "example": "Je prends une salade.",
+      "ipa": "sa.lad",
+      "article": "la"
+    },
+    {
+      "id": "remote-food-a1-14",
+      "fr": "jus",
+      "en": "juice",
+      "example": "Un jus d’orange, s’il vous plaît.",
+      "ipa": "ʒy",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-15",
+      "fr": "thé",
+      "en": "tea",
+      "example": "Je bois du thé le soir.",
+      "ipa": "te",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-16",
+      "fr": "sucre",
+      "en": "sugar",
+      "example": "Avec du sucre ?",
+      "ipa": "sykʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-17",
+      "fr": "viande",
+      "en": "meat",
+      "example": "Je ne mange pas de viande.",
+      "ipa": "vjɑ̃d",
+      "article": "la"
+    },
+    {
+      "id": "remote-food-a1-18",
+      "fr": "poisson",
+      "en": "fish",
+      "example": "Le poisson est frais.",
+      "ipa": "pwa.sɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-19",
+      "fr": "légume",
+      "en": "vegetable",
+      "example": "J’achète des légumes au marché.",
+      "ipa": "le.ɡym",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-20",
+      "fr": "dessert",
+      "en": "dessert",
+      "example": "Quel dessert voulez-vous ?",
+      "ipa": "dɛ.sɛʁ",
+      "article": "le"
     }
   ],
   "phrases": [
@@ -80,10 +176,52 @@
       "fr": "Je voudrais un café, s’il vous plaît.",
       "en": "I’d like a coffee, please.",
       "ipa": "ʒə vu.dʁɛ œ̃ ka.fe sil vu plɛ"
+    },
+    {
+      "id": "remote-food-phrase-2",
+      "fr": "L’addition, s’il vous plaît.",
+      "en": "The bill, please.",
+      "ipa": "la.di.sjɔ̃ sil vu plɛ"
+    },
+    {
+      "id": "remote-food-phrase-3",
+      "fr": "C’est délicieux !",
+      "en": "It’s delicious!",
+      "ipa": "sɛ de.li.sjø"
+    },
+    {
+      "id": "remote-food-phrase-4",
+      "fr": "Je suis végétarien / végétarienne.",
+      "en": "I am vegetarian.",
+      "ipa": "ʒə sɥi ve.ʒe.ta.ʁjɛ̃ / ve.ʒe.ta.ʁjɛn"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-food-listen-1",
+      "fr": "Je bois un café avec du lait le matin.",
+      "en": "I drink a coffee with milk in the morning.",
+      "word": "café",
+      "wordEn": "coffee",
+      "wordIpa": "ka.fe",
+      "distractors": ["thé", "jus", "eau"]
+    },
+    {
+      "id": "remote-food-listen-2",
+      "fr": "Elle achète du pain et du fromage au marché.",
+      "en": "She buys bread and cheese at the market.",
+      "word": "fromage",
+      "wordEn": "cheese",
+      "wordIpa": "fʁɔ.maʒ",
+      "distractors": ["beurre", "lait", "sucre"]
     }
   ],
   "prompts": [
     "Qu’est-ce que tu manges le matin ?",
-    "Commande quelque chose au café."
-  ]
+    "Commande quelque chose au café.",
+    "Quels fruits aimes-tu ?",
+    "Décris ton repas préféré en trois mots."
+  ],
+  "grammar": [],
+  "skills": {}
 }

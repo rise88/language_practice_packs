@@ -1,0 +1,179 @@
+{
+  "pratiquePack": 1,
+  "id": "family-a1",
+  "version": 1,
+  "level": "a1",
+  "title": { "fr": "Famille A1", "en": "Family A1" },
+  "description": {
+    "fr": "Personnes de la famille et mots simples pour se présenter.",
+    "en": "Family members and simple words to introduce people."
+  },
+  "seed": [
+    {
+      "id": "remote-family-a1-1",
+      "fr": "mère",
+      "en": "mother",
+      "example": "Ma mère s’appelle Sophie.",
+      "ipa": "mɛʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-family-a1-2",
+      "fr": "père",
+      "en": "father",
+      "example": "Mon père travaille à Paris.",
+      "ipa": "pɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-family-a1-3",
+      "fr": "frère",
+      "en": "brother",
+      "example": "J’ai un frère.",
+      "ipa": "fʁɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-family-a1-4",
+      "fr": "sœur",
+      "en": "sister",
+      "example": "Ma sœur a dix ans.",
+      "ipa": "sœʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-family-a1-5",
+      "fr": "enfant",
+      "en": "child",
+      "example": "Ils ont deux enfants.",
+      "ipa": "ɑ̃.fɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-family-a1-6",
+      "fr": "fils",
+      "en": "son",
+      "example": "Leur fils va à l’école.",
+      "ipa": "fis",
+      "article": "le"
+    },
+    {
+      "id": "remote-family-a1-7",
+      "fr": "fille",
+      "en": "daughter / girl",
+      "example": "Sa fille aime lire.",
+      "ipa": "fij",
+      "article": "la"
+    },
+    {
+      "id": "remote-family-a1-8",
+      "fr": "ami",
+      "en": "friend (male)",
+      "example": "C’est mon ami Paul.",
+      "ipa": "a.mi",
+      "article": "le"
+    },
+    {
+      "id": "remote-family-a1-9",
+      "fr": "amie",
+      "en": "friend (female)",
+      "example": "Marie est mon amie.",
+      "ipa": "a.mi",
+      "article": "la"
+    },
+    {
+      "id": "remote-family-a1-10",
+      "fr": "grand-père",
+      "en": "grandfather",
+      "example": "Mon grand-père habite à Lyon.",
+      "ipa": "ɡʁɑ̃.pɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-family-a1-11",
+      "fr": "grand-mère",
+      "en": "grandmother",
+      "example": "Ma grand-mère cuisine bien.",
+      "ipa": "ɡʁɑ̃.mɛʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-family-a1-12",
+      "fr": "oncle",
+      "en": "uncle",
+      "example": "Mon oncle vient demain.",
+      "ipa": "ɔ̃kl",
+      "article": "le"
+    },
+    {
+      "id": "remote-family-a1-13",
+      "fr": "tante",
+      "en": "aunt",
+      "example": "Ma tante habite en Belgique.",
+      "ipa": "tɑ̃t",
+      "article": "la"
+    },
+    {
+      "id": "remote-family-a1-14",
+      "fr": "cousin",
+      "en": "cousin (male)",
+      "example": "Mon cousin a quinze ans.",
+      "ipa": "ku.zɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-family-a1-15",
+      "fr": "cousine",
+      "en": "cousin (female)",
+      "example": "Ma cousine parle anglais.",
+      "ipa": "ku.zin",
+      "article": "la"
+    },
+    {
+      "id": "remote-family-a1-16",
+      "fr": "famille",
+      "en": "family",
+      "example": "Ma famille est grande.",
+      "ipa": "fa.mij",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-family-phrase-1",
+      "fr": "Voici ma mère.",
+      "en": "This is my mother.",
+      "ipa": "vwa.si ma mɛʁ"
+    },
+    {
+      "id": "remote-family-phrase-2",
+      "fr": "J’ai un frère et une sœur.",
+      "en": "I have a brother and a sister.",
+      "ipa": "ʒe œ̃ fʁɛʁ e yn sœʁ"
+    },
+    {
+      "id": "remote-family-phrase-3",
+      "fr": "Comment s’appelle ton père ?",
+      "en": "What is your father’s name?",
+      "ipa": "kɔ.mɑ̃ sa.pɛl tɔ̃ pɛʁ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-family-listen-1",
+      "fr": "Ma sœur et mon frère habitent avec mes parents.",
+      "en": "My sister and my brother live with my parents.",
+      "word": "sœur",
+      "wordEn": "sister",
+      "wordIpa": "sœʁ",
+      "distractors": ["mère", "fille", "tante"]
+    }
+  ],
+  "prompts": [
+    "Présente ta famille en trois phrases.",
+    "As-tu des frères ou des sœurs ?",
+    "Qui habite avec toi ?"
+  ],
+  "grammar": [],
+  "skills": {}
+}

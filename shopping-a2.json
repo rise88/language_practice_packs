@@ -1,0 +1,210 @@
+{
+  "pratiquePack": 1,
+  "id": "shopping-a2",
+  "version": 1,
+  "level": "a2",
+  "title": { "fr": "Courses A2", "en": "Shopping A2" },
+  "description": {
+    "fr": "Magasins, prix et expressions utiles pour faire les courses.",
+    "en": "Shops, prices, and useful phrases for shopping."
+  },
+  "seed": [
+    {
+      "id": "remote-shopping-a2-1",
+      "fr": "magasin",
+      "en": "shop / store",
+      "example": "Ce magasin ouvre à neuf heures.",
+      "ipa": "ma.ɡa.zɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-2",
+      "fr": "supermarché",
+      "en": "supermarket",
+      "example": "Je vais au supermarché le samedi.",
+      "ipa": "sy.pɛʁ.maʁ.ʃe",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-3",
+      "fr": "prix",
+      "en": "price",
+      "example": "Quel est le prix de ce pull ?",
+      "ipa": "pʁi",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-4",
+      "fr": "réduction",
+      "en": "discount / sale reduction",
+      "example": "Il y a une réduction de vingt pour cent.",
+      "ipa": "ʁe.dyk.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-shopping-a2-5",
+      "fr": "caisse",
+      "en": "checkout / till",
+      "example": "Passez à la caisse, s’il vous plaît.",
+      "ipa": "kɛs",
+      "article": "la"
+    },
+    {
+      "id": "remote-shopping-a2-6",
+      "fr": "panier",
+      "en": "basket / cart (shopping)",
+      "example": "Mon panier est déjà plein.",
+      "ipa": "pa.nje",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-7",
+      "fr": "ticket de caisse",
+      "en": "receipt",
+      "example": "Gardez votre ticket de caisse.",
+      "ipa": "ti.kɛ də kɛs",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-8",
+      "fr": "taille",
+      "en": "size",
+      "example": "Quelle est votre taille ?",
+      "ipa": "taj",
+      "article": "la"
+    },
+    {
+      "id": "remote-shopping-a2-9",
+      "fr": "essayage",
+      "en": "fitting / trying on",
+      "example": "La cabine d’essayage est là-bas.",
+      "ipa": "e.sɛ.jaʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-10",
+      "fr": "espèces",
+      "en": "cash",
+      "example": "Je paie en espèces.",
+      "ipa": "ɛs.pɛs",
+      "article": "les"
+    },
+    {
+      "id": "remote-shopping-a2-11",
+      "fr": "carte bancaire",
+      "en": "bank / debit card",
+      "example": "Acceptez-vous la carte bancaire ?",
+      "ipa": "kaʁt bɑ̃.kɛʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-shopping-a2-12",
+      "fr": "rayon",
+      "en": "aisle / department",
+      "example": "Le rayon fruits est au fond.",
+      "ipa": "ʁɛ.jɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-13",
+      "fr": "solde",
+      "en": "sale (bargain sale)",
+      "example": "Les soldes commencent lundi.",
+      "ipa": "sɔld",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-14",
+      "fr": "vendeur",
+      "en": "salesperson (male)",
+      "example": "Le vendeur m’a aidé à choisir.",
+      "ipa": "vɑ̃.dœʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-15",
+      "fr": "vendeuse",
+      "en": "salesperson (female)",
+      "example": "La vendeuse connaît bien les produits.",
+      "ipa": "vɑ̃.døz",
+      "article": "la"
+    },
+    {
+      "id": "remote-shopping-a2-16",
+      "fr": "échange",
+      "en": "exchange",
+      "example": "Puis-je faire un échange ?",
+      "ipa": "e.ʃɑ̃ʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-17",
+      "fr": "remboursement",
+      "en": "refund",
+      "example": "Les remboursements se font sous sept jours.",
+      "ipa": "ʁɑ̃.buʁs.mə̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-18",
+      "fr": "sac",
+      "en": "bag",
+      "example": "Avez-vous besoin d’un sac ?",
+      "ipa": "sak",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-shopping-phrase-1",
+      "fr": "Combien ça coûte ?",
+      "en": "How much does it cost?",
+      "ipa": "kɔ̃.bjɛ̃ sa kut"
+    },
+    {
+      "id": "remote-shopping-phrase-2",
+      "fr": "Je peux essayer ça, s’il vous plaît ?",
+      "en": "Can I try this on, please?",
+      "ipa": "ʒə pø e.sɛ.je sa sil vu plɛ"
+    },
+    {
+      "id": "remote-shopping-phrase-3",
+      "fr": "Avez-vous ça en taille moyenne ?",
+      "en": "Do you have this in a medium size?",
+      "ipa": "a.ve vu sa ɑ̃ taj mwa.jɛn"
+    },
+    {
+      "id": "remote-shopping-phrase-4",
+      "fr": "Je paie par carte bancaire.",
+      "en": "I’ll pay by card.",
+      "ipa": "ʒə pɛ paʁ kaʁt bɑ̃.kɛʁ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-shopping-listen-1",
+      "fr": "Il y a une réduction à la caisse sur ce pull.",
+      "en": "There is a discount at checkout on this sweater.",
+      "word": "réduction",
+      "wordEn": "discount",
+      "wordIpa": "ʁe.dyk.sjɔ̃",
+      "distractors": ["prix", "solde", "rayon"]
+    },
+    {
+      "id": "remote-shopping-listen-2",
+      "fr": "Gardez votre ticket de caisse pour un éventuel échange.",
+      "en": "Keep your receipt for a possible exchange.",
+      "word": "échange",
+      "wordEn": "exchange",
+      "wordIpa": "e.ʃɑ̃ʒ",
+      "distractors": ["remboursement", "sac", "panier"]
+    }
+  ],
+  "prompts": [
+    "Décris ta dernière visite au supermarché.",
+    "Comment demandes-tu le prix d’un article ?",
+    "Préfères-tu payer en espèces ou par carte ?"
+  ],
+  "grammar": [],
+  "skills": {}
+}

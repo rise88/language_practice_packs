@@ -1,12 +1,12 @@
 {
   "pratiquePack": 1,
   "id": "travel-a2",
-  "version": 1,
+  "version": 2,
   "level": "a2",
   "title": { "fr": "Voyage A2", "en": "Travel A2" },
   "description": {
-    "fr": "Mots utiles pour le train, l’hôtel et la ville.",
-    "en": "Useful words for trains, hotels, and town."
+    "fr": "Train, hôtel, aéroport et ville pour voyager en confiance.",
+    "en": "Train, hotel, airport, and town vocabulary for confident travel."
   },
   "seed": [
     {
@@ -72,6 +72,102 @@
       "example": "Il y a une correspondance à Paris.",
       "ipa": "kɔ.ʁɛs.pɔ̃.dɑ̃s",
       "article": "la"
+    },
+    {
+      "id": "remote-travel-a2-9",
+      "fr": "aéroport",
+      "en": "airport",
+      "example": "L’aéroport est loin du centre-ville.",
+      "ipa": "a.e.ʁɔ.pɔʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-10",
+      "fr": "vol",
+      "en": "flight",
+      "example": "Mon vol part à huit heures.",
+      "ipa": "vɔl",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-11",
+      "fr": "quai",
+      "en": "platform",
+      "example": "Le train part du quai numéro trois.",
+      "ipa": "kɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-12",
+      "fr": "retard",
+      "en": "delay",
+      "example": "Le train a vingt minutes de retard.",
+      "ipa": "ʁə.taʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-13",
+      "fr": "chambre",
+      "en": "room",
+      "example": "Nous avons réservé une chambre double.",
+      "ipa": "ʃɑ̃bʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-travel-a2-14",
+      "fr": "clé",
+      "en": "key",
+      "example": "Voici la clé de votre chambre.",
+      "ipa": "kle",
+      "article": "la"
+    },
+    {
+      "id": "remote-travel-a2-15",
+      "fr": "bagage",
+      "en": "luggage / baggage",
+      "example": "Où est le contrôle des bagages ?",
+      "ipa": "ba.ɡaʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-16",
+      "fr": "itinéraire",
+      "en": "itinerary / route",
+      "example": "Pouvez-vous me donner un itinéraire ?",
+      "ipa": "i.ti.ne.ʁɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-17",
+      "fr": "touriste",
+      "en": "tourist",
+      "example": "Beaucoup de touristes visitent la vieille ville.",
+      "ipa": "tu.ʁist",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-18",
+      "fr": "métro",
+      "en": "subway / metro",
+      "example": "Prenez le métro jusqu’à la place centrale.",
+      "ipa": "me.tʁo",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-19",
+      "fr": "taxi",
+      "en": "taxi",
+      "example": "Appelez un taxi pour l’aéroport.",
+      "ipa": "tak.si",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-20",
+      "fr": "frontière",
+      "en": "border",
+      "example": "Nous passons la frontière demain matin.",
+      "ipa": "fʁɔ̃.tjɛʁ",
+      "article": "la"
     }
   ],
   "phrases": [
@@ -86,6 +182,24 @@
       "fr": "Je voudrais un billet pour demain matin.",
       "en": "I’d like a ticket for tomorrow morning.",
       "ipa": "ʒə vu.dʁɛ œ̃ bi.jɛ puʁ də.mɛ̃ ma.tɛ̃"
+    },
+    {
+      "id": "remote-travel-phrase-3",
+      "fr": "Y a-t-il une chambre libre pour ce soir ?",
+      "en": "Is there a room available for tonight?",
+      "ipa": "i a til yn ʃɑ̃bʁ libʁ puʁ sə swaʁ"
+    },
+    {
+      "id": "remote-travel-phrase-4",
+      "fr": "À quelle heure part le prochain train ?",
+      "en": "What time does the next train leave?",
+      "ipa": "a kɛl œʁ paʁ lə pʁɔ.ʃɛ̃ tʁɛ̃"
+    },
+    {
+      "id": "remote-travel-phrase-5",
+      "fr": "Combien coûte un taxi jusqu’à l’hôtel ?",
+      "en": "How much is a taxi to the hotel?",
+      "ipa": "kɔ̃.bjɛ̃ kut œ̃ tak.si ʒys.ka lo.tɛl"
     }
   ],
   "listen": [
@@ -97,10 +211,32 @@
       "wordEn": "ticket",
       "wordIpa": "bi.jɛ",
       "distractors": ["passeport", "hôtel", "plan"]
+    },
+    {
+      "id": "remote-travel-listen-2",
+      "fr": "Le vol a du retard ; attendez au quai d’embarquement.",
+      "en": "The flight is delayed; wait at the boarding gate.",
+      "word": "retard",
+      "wordEn": "delay",
+      "wordIpa": "ʁə.taʁ",
+      "distractors": ["vol", "quai", "bagage"]
+    },
+    {
+      "id": "remote-travel-listen-3",
+      "fr": "Ma réservation est pour une chambre près du métro.",
+      "en": "My booking is for a room near the metro.",
+      "word": "chambre",
+      "wordEn": "room",
+      "wordIpa": "ʃɑ̃bʁ",
+      "distractors": ["valise", "clé", "hôtel"]
     }
   ],
   "prompts": [
     "Décris ton dernier voyage en trois phrases.",
-    "Que mets-tu dans ta valise ?"
-  ]
+    "Que mets-tu dans ta valise ?",
+    "Comment vas-tu de la gare à l’hôtel ?",
+    "Que fais-tu si ton train a du retard ?"
+  ],
+  "grammar": [],
+  "skills": {}
 }
