@@ -1,0 +1,106 @@
+{
+  "pratiquePack": 1,
+  "id": "travel-a2",
+  "version": 1,
+  "level": "a2",
+  "title": { "fr": "Voyage A2", "en": "Travel A2" },
+  "description": {
+    "fr": "Mots utiles pour le train, l’hôtel et la ville.",
+    "en": "Useful words for trains, hotels, and town."
+  },
+  "seed": [
+    {
+      "id": "remote-travel-a2-1",
+      "fr": "billet",
+      "en": "ticket",
+      "example": "J’ai acheté un billet de train pour Lyon.",
+      "ipa": "bi.jɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-2",
+      "fr": "gare",
+      "en": "train station",
+      "example": "La gare est à dix minutes à pied.",
+      "ipa": "ɡaʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-travel-a2-3",
+      "fr": "hôtel",
+      "en": "hotel",
+      "example": "Nous dormons dans un hôtel près du centre.",
+      "ipa": "o.tɛl",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-4",
+      "fr": "réservation",
+      "en": "reservation / booking",
+      "example": "J’ai une réservation au nom de Martin.",
+      "ipa": "ʁe.zɛʁ.va.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-travel-a2-5",
+      "fr": "plan",
+      "en": "map",
+      "example": "Tu as un plan de la ville ?",
+      "ipa": "plɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-6",
+      "fr": "valise",
+      "en": "suitcase",
+      "example": "Ma valise est trop lourde.",
+      "ipa": "va.liz",
+      "article": "la"
+    },
+    {
+      "id": "remote-travel-a2-7",
+      "fr": "passeport",
+      "en": "passport",
+      "example": "N’oublie pas ton passeport à l’aéroport.",
+      "ipa": "pas.pɔʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-8",
+      "fr": "correspondance",
+      "en": "connection (transport)",
+      "example": "Il y a une correspondance à Paris.",
+      "ipa": "kɔ.ʁɛs.pɔ̃.dɑ̃s",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-travel-phrase-1",
+      "fr": "Où est la gare, s’il vous plaît ?",
+      "en": "Where is the station, please?",
+      "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+    },
+    {
+      "id": "remote-travel-phrase-2",
+      "fr": "Je voudrais un billet pour demain matin.",
+      "en": "I’d like a ticket for tomorrow morning.",
+      "ipa": "ʒə vu.dʁɛ œ̃ bi.jɛ puʁ də.mɛ̃ ma.tɛ̃"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-travel-listen-1",
+      "fr": "J’ai acheté un billet de train à la gare ce matin.",
+      "en": "I bought a train ticket at the station this morning.",
+      "word": "billet",
+      "wordEn": "ticket",
+      "wordIpa": "bi.jɛ",
+      "distractors": ["passeport", "hôtel", "plan"]
+    }
+  ],
+  "prompts": [
+    "Décris ton dernier voyage en trois phrases.",
+    "Que mets-tu dans ta valise ?"
+  ]
+}

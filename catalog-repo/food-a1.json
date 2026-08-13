@@ -1,0 +1,89 @@
+{
+  "pratiquePack": 1,
+  "id": "food-a1",
+  "version": 1,
+  "level": "a1",
+  "title": { "fr": "Nourriture A1", "en": "Food A1" },
+  "description": {
+    "fr": "Petit pack café / marché pour débutants.",
+    "en": "Small café / market pack for beginners."
+  },
+  "seed": [
+    {
+      "id": "remote-food-a1-1",
+      "fr": "pain",
+      "en": "bread",
+      "example": "Je mange du pain le matin.",
+      "ipa": "pɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-2",
+      "fr": "fromage",
+      "en": "cheese",
+      "example": "Le fromage est délicieux.",
+      "ipa": "fʁɔ.maʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-3",
+      "fr": "pomme",
+      "en": "apple",
+      "example": "Je prends une pomme.",
+      "ipa": "pɔm",
+      "article": "la"
+    },
+    {
+      "id": "remote-food-a1-4",
+      "fr": "eau",
+      "en": "water",
+      "example": "Une bouteille d’eau, s’il vous plaît.",
+      "ipa": "o",
+      "article": "la"
+    },
+    {
+      "id": "remote-food-a1-5",
+      "fr": "café",
+      "en": "coffee / café",
+      "example": "Je bois un café.",
+      "ipa": "ka.fe",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-6",
+      "fr": "lait",
+      "en": "milk",
+      "example": "Du lait dans le café ?",
+      "ipa": "lɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-7",
+      "fr": "soupe",
+      "en": "soup",
+      "example": "La soupe est chaude.",
+      "ipa": "sup",
+      "article": "la"
+    },
+    {
+      "id": "remote-food-a1-8",
+      "fr": "fruit",
+      "en": "fruit",
+      "example": "J’aime les fruits.",
+      "ipa": "fʁɥi",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-food-phrase-1",
+      "fr": "Je voudrais un café, s’il vous plaît.",
+      "en": "I’d like a coffee, please.",
+      "ipa": "ʒə vu.dʁɛ œ̃ ka.fe sil vu plɛ"
+    }
+  ],
+  "prompts": [
+    "Qu’est-ce que tu manges le matin ?",
+    "Commande quelque chose au café."
+  ]
+}
