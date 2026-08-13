@@ -1,0 +1,179 @@
+{
+  "pratiquePack": 1,
+  "id": "home-a1",
+  "version": 1,
+  "level": "a1",
+  "title": { "fr": "Maison A1", "en": "Home A1" },
+  "description": {
+    "fr": "Pièces, meubles et objets du quotidien à la maison.",
+    "en": "Rooms, furniture, and everyday objects at home."
+  },
+  "seed": [
+    {
+      "id": "remote-home-a1-1",
+      "fr": "maison",
+      "en": "house",
+      "example": "J’habite dans une petite maison.",
+      "ipa": "mɛ.zɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-2",
+      "fr": "appartement",
+      "en": "apartment / flat",
+      "example": "Mon appartement est au deuxième étage.",
+      "ipa": "a.paʁ.tə.mɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-home-a1-3",
+      "fr": "cuisine",
+      "en": "kitchen",
+      "example": "La cuisine est grande.",
+      "ipa": "kɥi.zin",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-4",
+      "fr": "salon",
+      "en": "living room",
+      "example": "Nous regardons la télé dans le salon.",
+      "ipa": "sa.lɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-home-a1-5",
+      "fr": "chambre",
+      "en": "bedroom",
+      "example": "Ma chambre est calme.",
+      "ipa": "ʃɑ̃bʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-6",
+      "fr": "salle de bain",
+      "en": "bathroom",
+      "example": "Où est la salle de bain ?",
+      "ipa": "sal də bɛ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-7",
+      "fr": "lit",
+      "en": "bed",
+      "example": "Je vais au lit tôt.",
+      "ipa": "li",
+      "article": "le"
+    },
+    {
+      "id": "remote-home-a1-8",
+      "fr": "table",
+      "en": "table",
+      "example": "La table est dans la cuisine.",
+      "ipa": "tabl",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-9",
+      "fr": "chaise",
+      "en": "chair",
+      "example": "Assieds-toi sur cette chaise.",
+      "ipa": "ʃɛz",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-10",
+      "fr": "fenêtre",
+      "en": "window",
+      "example": "Ouvre la fenêtre, s’il te plaît.",
+      "ipa": "fə.nɛtʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-11",
+      "fr": "porte",
+      "en": "door",
+      "example": "Ferme la porte.",
+      "ipa": "pɔʁt",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-12",
+      "fr": "lampe",
+      "en": "lamp",
+      "example": "Allume la lampe.",
+      "ipa": "lɑ̃p",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-13",
+      "fr": "canapé",
+      "en": "sofa / couch",
+      "example": "Le canapé est confortable.",
+      "ipa": "ka.na.pe",
+      "article": "le"
+    },
+    {
+      "id": "remote-home-a1-14",
+      "fr": "armoire",
+      "en": "wardrobe / cupboard",
+      "example": "Mes vêtements sont dans l’armoire.",
+      "ipa": "aʁ.mwaʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-home-a1-15",
+      "fr": "jardin",
+      "en": "garden",
+      "example": "Il y a un jardin derrière la maison.",
+      "ipa": "ʒaʁ.dɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-home-a1-16",
+      "fr": "clé",
+      "en": "key",
+      "example": "J’ai perdu ma clé.",
+      "ipa": "kle",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-home-phrase-1",
+      "fr": "Où est la cuisine ?",
+      "en": "Where is the kitchen?",
+      "ipa": "u ɛ la kɥi.zin"
+    },
+    {
+      "id": "remote-home-phrase-2",
+      "fr": "J’habite dans un appartement.",
+      "en": "I live in an apartment.",
+      "ipa": "ʒa.bit dɑ̃ zœ̃ na.paʁ.tə.mɑ̃"
+    },
+    {
+      "id": "remote-home-phrase-3",
+      "fr": "Ma chambre est petite mais agréable.",
+      "en": "My bedroom is small but pleasant.",
+      "ipa": "ma ʃɑ̃bʁ ɛ pə.tit mɛ a.ɡʁe.abl"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-home-listen-1",
+      "fr": "Nous mangeons à la table dans la cuisine.",
+      "en": "We eat at the table in the kitchen.",
+      "word": "cuisine",
+      "wordEn": "kitchen",
+      "wordIpa": "kɥi.zin",
+      "distractors": ["salon", "chambre", "jardin"]
+    }
+  ],
+  "prompts": [
+    "Décris ta maison ou ton appartement.",
+    "Qu’est-ce qu’il y a dans ton salon ?",
+    "Où dors-tu ?"
+  ],
+  "grammar": [],
+  "skills": {}
+}

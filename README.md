@@ -11,9 +11,20 @@ Hosting this repo as **public** is free. The app fetches:
 | File | Role |
 |------|------|
 | `catalog.json` | Index of available packs |
-| `travel-a2.json` | Sample Travel A2 pack |
-| `food-a1.json` | Sample Food A1 pack |
+| `food-a1.json` | Food A1 pack |
+| `home-a1.json` | Home A1 pack |
+| `family-a1.json` | Family A1 pack |
+| `travel-a2.json` | Travel A2 pack |
+| `shopping-a2.json` | Shopping A2 pack |
+| `health-a2.json` | Health A2 pack |
 | `_template.json` | Copy this to add a new pack |
+
+## Levels
+
+| Level | Packs |
+|-------|--------|
+| A1 | Food, Home, Family |
+| A2 | Travel, Shopping, Health |
 
 ## Add a pack
 
