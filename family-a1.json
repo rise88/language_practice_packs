@@ -1,9 +1,12 @@
 {
   "pratiquePack": 1,
   "id": "family-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
-  "title": { "fr": "Famille A1", "en": "Family A1" },
+  "title": {
+    "fr": "Famille A1",
+    "en": "Family A1"
+  },
   "description": {
     "fr": "Personnes de la famille et mots simples pour se présenter.",
     "en": "Family members and simple words to introduce people."
@@ -136,6 +139,38 @@
       "example": "Ma famille est grande.",
       "ipa": "fa.mij",
       "article": "la"
+    },
+    {
+      "id": "remote-family-a1-17",
+      "fr": "parents",
+      "en": "parents",
+      "example": "Mes parents habitent à Marseille.",
+      "ipa": "pa.ʁɑ̃",
+      "article": "les"
+    },
+    {
+      "id": "remote-family-a1-18",
+      "fr": "mari",
+      "en": "husband",
+      "example": "Son mari s’appelle Thomas.",
+      "ipa": "ma.ʁi",
+      "article": "le"
+    },
+    {
+      "id": "remote-family-a1-19",
+      "fr": "femme",
+      "en": "wife / woman",
+      "example": "Ma femme travaille ici.",
+      "ipa": "fam",
+      "article": "la"
+    },
+    {
+      "id": "remote-family-a1-20",
+      "fr": "bébé",
+      "en": "baby",
+      "example": "Le bébé dort dans sa chambre.",
+      "ipa": "be.be",
+      "article": "le"
     }
   ],
   "phrases": [
@@ -156,6 +191,24 @@
       "fr": "Comment s’appelle ton père ?",
       "en": "What is your father’s name?",
       "ipa": "kɔ.mɑ̃ sa.pɛl tɔ̃ pɛʁ"
+    },
+    {
+      "id": "remote-family-phrase-4",
+      "fr": "Ma famille est grande.",
+      "en": "My family is big.",
+      "ipa": "ma fa.mij ɛ ɡʁɑ̃d"
+    },
+    {
+      "id": "remote-family-phrase-5",
+      "fr": "Mes parents habitent à Marseille.",
+      "en": "My parents live in Marseille.",
+      "ipa": "me pa.ʁɑ̃ za.bit a maʁ.sɛj"
+    },
+    {
+      "id": "remote-family-phrase-6",
+      "fr": "C’est mon ami Paul.",
+      "en": "This is my friend Paul.",
+      "ipa": "sɛ mɔ̃ na.mi pɔl"
     }
   ],
   "listen": [
@@ -166,14 +219,312 @@
       "word": "sœur",
       "wordEn": "sister",
       "wordIpa": "sœʁ",
-      "distractors": ["mère", "fille", "tante"]
+      "distractors": [
+        "mère",
+        "fille",
+        "tante"
+      ]
+    },
+    {
+      "id": "remote-family-listen-2",
+      "fr": "Mon grand-père habite à Lyon avec ma grand-mère.",
+      "en": "My grandfather lives in Lyon with my grandmother.",
+      "word": "grand-père",
+      "wordEn": "grandfather",
+      "wordIpa": "ɡʁɑ̃.pɛʁ",
+      "distractors": [
+        "oncle",
+        "père",
+        "cousin"
+      ]
+    },
+    {
+      "id": "remote-family-listen-3",
+      "fr": "Leur fils va à l’école avec sa cousine.",
+      "en": "Their son goes to school with his cousin.",
+      "word": "fils",
+      "wordEn": "son",
+      "wordIpa": "fis",
+      "distractors": [
+        "fille",
+        "frère",
+        "bébé"
+      ]
+    },
+    {
+      "id": "remote-family-listen-4",
+      "fr": "Marie est mon amie ; Paul est mon ami.",
+      "en": "Marie is my friend; Paul is my friend.",
+      "word": "amie",
+      "wordEn": "friend (female)",
+      "wordIpa": "a.mi",
+      "distractors": [
+        "tante",
+        "sœur",
+        "femme"
+      ]
     }
   ],
   "prompts": [
     "Présente ta famille en trois phrases.",
     "As-tu des frères ou des sœurs ?",
-    "Qui habite avec toi ?"
+    "Qui habite avec toi ?",
+    "Comment s’appellent tes parents ?"
   ],
-  "grammar": [],
-  "skills": {}
+  "grammar": [
+    {
+      "id": "remote-family-grammar-1",
+      "title": {
+        "fr": "Mon / ma / mes",
+        "en": "My (possessive adjectives)"
+      },
+      "rule": "Les adjectifs possessifs s’accordent avec le nom possédé, pas avec le possesseur : mon (masculin), ma (féminin), mes (pluriel). Devant une voyelle, on utilise mon même au féminin : mon amie.",
+      "table": [
+        [
+          "Forme",
+          "Accord",
+          "Exemple"
+        ],
+        [
+          "mon",
+          "masculin singulier",
+          "mon père"
+        ],
+        [
+          "ma",
+          "féminin singulier",
+          "ma mère"
+        ],
+        [
+          "mes",
+          "pluriel",
+          "mes parents"
+        ],
+        [
+          "mon + voyelle",
+          "féminin devant voyelle",
+          "mon amie"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-family-gq-1",
+          "prompt": "Voici ___ frère.",
+          "answer": "mon",
+          "options": [
+            "mon",
+            "ma",
+            "mes"
+          ]
+        },
+        {
+          "id": "remote-family-gq-2",
+          "prompt": "___ sœur a dix ans.",
+          "answer": "Ma",
+          "options": [
+            "Mon",
+            "Ma",
+            "Mes"
+          ]
+        },
+        {
+          "id": "remote-family-gq-3",
+          "prompt": "___ parents habitent ici.",
+          "answer": "Mes",
+          "options": [
+            "Mon",
+            "Ma",
+            "Mes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-family-grammar-2",
+      "title": {
+        "fr": "Avoir pour la famille",
+        "en": "Using avoir for family"
+      },
+      "rule": "Pour parler de sa famille, on utilise souvent avoir : J’ai un frère. On dit aussi C’est mon / ma… pour présenter quelqu’un.",
+      "table": [
+        [
+          "Structure",
+          "Sens",
+          "Exemple"
+        ],
+        [
+          "J’ai un / une…",
+          "I have a…",
+          "J’ai une sœur."
+        ],
+        [
+          "J’ai des…",
+          "I have some…",
+          "J’ai des cousins."
+        ],
+        [
+          "C’est mon / ma…",
+          "This is my…",
+          "C’est mon oncle."
+        ],
+        [
+          "Voici…",
+          "Here is…",
+          "Voici ma tante."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-family-gq-4",
+          "prompt": "J’___ un frère.",
+          "answer": "ai",
+          "options": [
+            "ai",
+            "est",
+            "suis"
+          ]
+        },
+        {
+          "id": "remote-family-gq-5",
+          "prompt": "___ ma mère.",
+          "answer": "Voici",
+          "options": [
+            "Il y a",
+            "Voici",
+            "Dans"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-family-dict-1",
+        "fr": "J’ai un frère et une sœur.",
+        "en": "I have a brother and a sister.",
+        "ipa": "ʒe œ̃ fʁɛʁ e yn sœʁ"
+      },
+      {
+        "id": "remote-family-dict-2",
+        "fr": "Ma mère s’appelle Sophie.",
+        "en": "My mother’s name is Sophie.",
+        "ipa": "ma mɛʁ sa.pɛl sɔ.fi"
+      },
+      {
+        "id": "remote-family-dict-3",
+        "fr": "Ma famille est grande.",
+        "en": "My family is big.",
+        "ipa": "ma fa.mij ɛ ɡʁɑ̃d"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-family-mean-1",
+        "fr": "Voici ma mère.",
+        "en": "This is my mother.",
+        "choices": [
+          "This is my mother.",
+          "I have a brother.",
+          "Where is your father?"
+        ]
+      },
+      {
+        "id": "remote-family-mean-2",
+        "fr": "Ils ont deux enfants.",
+        "en": "They have two children.",
+        "choices": [
+          "They have two children.",
+          "She is my friend.",
+          "He is my uncle."
+        ]
+      },
+      {
+        "id": "remote-family-mean-3",
+        "fr": "Comment s’appelle ton père ?",
+        "en": "What is your father’s name?",
+        "choices": [
+          "What is your father’s name?",
+          "Where do you live?",
+          "How old is she?"
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-family-fren-1",
+        "fr": "mère",
+        "en": "mother"
+      },
+      {
+        "id": "remote-family-fren-2",
+        "fr": "père",
+        "en": "father"
+      },
+      {
+        "id": "remote-family-fren-3",
+        "fr": "frère",
+        "en": "brother"
+      },
+      {
+        "id": "remote-family-fren-4",
+        "fr": "sœur",
+        "en": "sister"
+      },
+      {
+        "id": "remote-family-fren-5",
+        "fr": "oncle",
+        "en": "uncle"
+      },
+      {
+        "id": "remote-family-fren-6",
+        "fr": "tante",
+        "en": "aunt"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-family-aloud-1",
+        "fr": "Voici ma mère.",
+        "en": "This is my mother.",
+        "ipa": "vwa.si ma mɛʁ"
+      },
+      {
+        "id": "remote-family-aloud-2",
+        "fr": "Mon grand-père habite à Lyon.",
+        "en": "My grandfather lives in Lyon.",
+        "ipa": "mɔ̃ ɡʁɑ̃.pɛʁ a.bit a ljɔ̃"
+      },
+      {
+        "id": "remote-family-aloud-3",
+        "fr": "C’est mon ami Paul.",
+        "en": "This is my friend Paul.",
+        "ipa": "sɛ mɔ̃ na.mi pɔl"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-family-unsc-1",
+        "fr": "J’ai un frère.",
+        "en": "I have a brother.",
+        "words": [
+          "J’ai",
+          "un",
+          "frère."
+        ]
+      },
+      {
+        "id": "remote-family-unsc-2",
+        "fr": "Ma sœur a dix ans.",
+        "en": "My sister is ten years old.",
+        "words": [
+          "Ma",
+          "sœur",
+          "a",
+          "dix",
+          "ans."
+        ]
+      }
+    ]
+  }
 }

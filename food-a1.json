@@ -1,9 +1,12 @@
 {
   "pratiquePack": 1,
   "id": "food-a1",
-  "version": 2,
+  "version": 3,
   "level": "a1",
-  "title": { "fr": "Nourriture A1", "en": "Food A1" },
+  "title": {
+    "fr": "Nourriture A1",
+    "en": "Food A1"
+  },
   "description": {
     "fr": "Café, marché et repas du quotidien pour débutants.",
     "en": "Café, market, and everyday meals for beginners."
@@ -168,6 +171,22 @@
       "example": "Quel dessert voulez-vous ?",
       "ipa": "dɛ.sɛʁ",
       "article": "le"
+    },
+    {
+      "id": "remote-food-a1-21",
+      "fr": "croissant",
+      "en": "croissant",
+      "example": "Je prends un croissant avec mon café.",
+      "ipa": "kʁwa.sɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-food-a1-22",
+      "fr": "marché",
+      "en": "market",
+      "example": "Nous allons au marché le samedi.",
+      "ipa": "maʁ.ʃe",
+      "article": "le"
     }
   ],
   "phrases": [
@@ -194,6 +213,18 @@
       "fr": "Je suis végétarien / végétarienne.",
       "en": "I am vegetarian.",
       "ipa": "ʒə sɥi ve.ʒe.ta.ʁjɛ̃ / ve.ʒe.ta.ʁjɛn"
+    },
+    {
+      "id": "remote-food-phrase-5",
+      "fr": "Qu’est-ce que vous recommandez ?",
+      "en": "What do you recommend?",
+      "ipa": "kɛs.kə vu ʁə.kɔ.mɑ̃.de"
+    },
+    {
+      "id": "remote-food-phrase-6",
+      "fr": "Je prends la salade et le poisson.",
+      "en": "I’ll have the salad and the fish.",
+      "ipa": "ʒə pʁɑ̃ la sa.lad e lə pwa.sɔ̃"
     }
   ],
   "listen": [
@@ -204,7 +235,11 @@
       "word": "café",
       "wordEn": "coffee",
       "wordIpa": "ka.fe",
-      "distractors": ["thé", "jus", "eau"]
+      "distractors": [
+        "thé",
+        "jus",
+        "eau"
+      ]
     },
     {
       "id": "remote-food-listen-2",
@@ -213,15 +248,306 @@
       "word": "fromage",
       "wordEn": "cheese",
       "wordIpa": "fʁɔ.maʒ",
-      "distractors": ["beurre", "lait", "sucre"]
+      "distractors": [
+        "beurre",
+        "lait",
+        "sucre"
+      ]
+    },
+    {
+      "id": "remote-food-listen-3",
+      "fr": "Nous mangeons du poulet avec du riz ce soir.",
+      "en": "We are eating chicken with rice tonight.",
+      "word": "poulet",
+      "wordEn": "chicken",
+      "wordIpa": "pu.lɛ",
+      "distractors": [
+        "poisson",
+        "viande",
+        "œuf"
+      ]
+    },
+    {
+      "id": "remote-food-listen-4",
+      "fr": "Tu veux un jus ou de l’eau ?",
+      "en": "Do you want juice or water?",
+      "word": "jus",
+      "wordEn": "juice",
+      "wordIpa": "ʒy",
+      "distractors": [
+        "thé",
+        "lait",
+        "café"
+      ]
     }
   ],
   "prompts": [
     "Qu’est-ce que tu manges le matin ?",
     "Commande quelque chose au café.",
     "Quels fruits aimes-tu ?",
-    "Décris ton repas préféré en trois mots."
+    "Décris ton repas préféré en trois phrases."
   ],
-  "grammar": [],
-  "skills": {}
+  "grammar": [
+    {
+      "id": "remote-food-grammar-1",
+      "title": {
+        "fr": "Les articles partitifs",
+        "en": "Partitive articles"
+      },
+      "rule": "Pour une quantité non précisée de nourriture ou de boisson, on utilise du (masculin), de la (féminin), de l’ (devant une voyelle) ou des (pluriel). Après une négation, on utilise souvent de / d’ : Je ne mange pas de viande.",
+      "table": [
+        [
+          "Forme",
+          "Genre / nombre",
+          "Exemple"
+        ],
+        [
+          "du",
+          "masculin singulier",
+          "du pain"
+        ],
+        [
+          "de la",
+          "féminin singulier",
+          "de la soupe"
+        ],
+        [
+          "de l’",
+          "devant une voyelle",
+          "de l’eau"
+        ],
+        [
+          "des",
+          "pluriel",
+          "des fruits"
+        ],
+        [
+          "de / d’",
+          "après négation",
+          "pas de sucre"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-food-gq-1",
+          "prompt": "Je voudrais ___ café.",
+          "answer": "du",
+          "options": [
+            "du",
+            "de la",
+            "des"
+          ]
+        },
+        {
+          "id": "remote-food-gq-2",
+          "prompt": "Elle boit ___ eau.",
+          "answer": "de l’",
+          "options": [
+            "du",
+            "de la",
+            "de l’"
+          ]
+        },
+        {
+          "id": "remote-food-gq-3",
+          "prompt": "Je n’achète pas ___ viande.",
+          "answer": "de",
+          "options": [
+            "du",
+            "de",
+            "des"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-food-grammar-2",
+      "title": {
+        "fr": "Commander au café",
+        "en": "Ordering at a café"
+      },
+      "rule": "Pour commander poliment, utilisez Je voudrais… ou Je prends… suivi de l’article indéfini (un / une) pour une unité, ou d’un partitif pour une quantité.",
+      "table": [
+        [
+          "Expression",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "Je voudrais…",
+          "poli, souhait",
+          "Je voudrais un thé."
+        ],
+        [
+          "Je prends…",
+          "choix / commande",
+          "Je prends une salade."
+        ],
+        [
+          "un / une",
+          "une unité",
+          "un croissant"
+        ],
+        [
+          "du / de la",
+          "une quantité",
+          "du lait"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-food-gq-4",
+          "prompt": "___ un jus d’orange, s’il vous plaît.",
+          "answer": "Je voudrais",
+          "options": [
+            "Je suis",
+            "Je voudrais",
+            "J’ai"
+          ]
+        },
+        {
+          "id": "remote-food-gq-5",
+          "prompt": "Je prends ___ pomme.",
+          "answer": "une",
+          "options": [
+            "un",
+            "une",
+            "du"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-food-dict-1",
+        "fr": "Je mange du pain le matin.",
+        "en": "I eat bread in the morning.",
+        "ipa": "ʒə mɑ̃ʒ dy pɛ̃ lə ma.tɛ̃"
+      },
+      {
+        "id": "remote-food-dict-2",
+        "fr": "Elle boit un café avec du lait.",
+        "en": "She drinks a coffee with milk.",
+        "ipa": "ɛl bwa œ̃ ka.fe a.vɛk dy lɛ"
+      },
+      {
+        "id": "remote-food-dict-3",
+        "fr": "Nous achetons des légumes au marché.",
+        "en": "We buy vegetables at the market.",
+        "ipa": "nu.z‿aʃ.tɔ̃ de le.ɡym o maʁ.ʃe"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-food-mean-1",
+        "fr": "C’est délicieux !",
+        "en": "It’s delicious!",
+        "choices": [
+          "It’s delicious!",
+          "I’m hungry.",
+          "The bill, please."
+        ]
+      },
+      {
+        "id": "remote-food-mean-2",
+        "fr": "Je ne mange pas de viande.",
+        "en": "I don’t eat meat.",
+        "choices": [
+          "I don’t eat meat.",
+          "I love fish.",
+          "I want dessert."
+        ]
+      },
+      {
+        "id": "remote-food-mean-3",
+        "fr": "L’addition, s’il vous plaît.",
+        "en": "The bill, please.",
+        "choices": [
+          "The bill, please.",
+          "More water, please.",
+          "It’s cold."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-food-fren-1",
+        "fr": "pain",
+        "en": "bread"
+      },
+      {
+        "id": "remote-food-fren-2",
+        "fr": "fromage",
+        "en": "cheese"
+      },
+      {
+        "id": "remote-food-fren-3",
+        "fr": "pomme",
+        "en": "apple"
+      },
+      {
+        "id": "remote-food-fren-4",
+        "fr": "eau",
+        "en": "water"
+      },
+      {
+        "id": "remote-food-fren-5",
+        "fr": "café",
+        "en": "coffee"
+      },
+      {
+        "id": "remote-food-fren-6",
+        "fr": "poulet",
+        "en": "chicken"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-food-aloud-1",
+        "fr": "Je voudrais un café, s’il vous plaît.",
+        "en": "I’d like a coffee, please.",
+        "ipa": "ʒə vu.dʁɛ œ̃ ka.fe sil vu plɛ"
+      },
+      {
+        "id": "remote-food-aloud-2",
+        "fr": "Un jus d’orange, s’il vous plaît.",
+        "en": "An orange juice, please.",
+        "ipa": "œ̃ ʒy dɔ.ʁɑ̃ʒ sil vu plɛ"
+      },
+      {
+        "id": "remote-food-aloud-3",
+        "fr": "Le poisson est frais.",
+        "en": "The fish is fresh.",
+        "ipa": "lə pwa.sɔ̃ ɛ fʁɛ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-food-unsc-1",
+        "fr": "Je prends une salade.",
+        "en": "I take a salad.",
+        "words": [
+          "Je",
+          "prends",
+          "une",
+          "salade."
+        ]
+      },
+      {
+        "id": "remote-food-unsc-2",
+        "fr": "Nous mangeons du riz ce soir.",
+        "en": "We eat rice tonight.",
+        "words": [
+          "Nous",
+          "mangeons",
+          "du",
+          "riz",
+          "ce",
+          "soir."
+        ]
+      }
+    ]
+  }
 }

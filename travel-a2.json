@@ -1,9 +1,12 @@
 {
   "pratiquePack": 1,
   "id": "travel-a2",
-  "version": 2,
+  "version": 3,
   "level": "a2",
-  "title": { "fr": "Voyage A2", "en": "Travel A2" },
+  "title": {
+    "fr": "Voyage A2",
+    "en": "Travel A2"
+  },
   "description": {
     "fr": "Train, hôtel, aéroport et ville pour voyager en confiance.",
     "en": "Train, hotel, airport, and town vocabulary for confident travel."
@@ -168,6 +171,22 @@
       "example": "Nous passons la frontière demain matin.",
       "ipa": "fʁɔ̃.tjɛʁ",
       "article": "la"
+    },
+    {
+      "id": "remote-travel-a2-21",
+      "fr": "guichet",
+      "en": "ticket window / counter",
+      "example": "Achetez votre billet au guichet.",
+      "ipa": "ɡi.ʃɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-travel-a2-22",
+      "fr": "embarquement",
+      "en": "boarding",
+      "example": "L’embarquement commence à dix heures.",
+      "ipa": "ɑ̃.baʁ.kə.mɑ̃",
+      "article": "le"
     }
   ],
   "phrases": [
@@ -200,6 +219,12 @@
       "fr": "Combien coûte un taxi jusqu’à l’hôtel ?",
       "en": "How much is a taxi to the hotel?",
       "ipa": "kɔ̃.bjɛ̃ kut œ̃ tak.si ʒys.ka lo.tɛl"
+    },
+    {
+      "id": "remote-travel-phrase-6",
+      "fr": "J’ai une réservation au nom de Martin.",
+      "en": "I have a reservation under the name Martin.",
+      "ipa": "ʒe yn ʁe.zɛʁ.va.sjɔ̃ o nɔ̃ də maʁ.tɛ̃"
     }
   ],
   "listen": [
@@ -210,7 +235,11 @@
       "word": "billet",
       "wordEn": "ticket",
       "wordIpa": "bi.jɛ",
-      "distractors": ["passeport", "hôtel", "plan"]
+      "distractors": [
+        "passeport",
+        "hôtel",
+        "plan"
+      ]
     },
     {
       "id": "remote-travel-listen-2",
@@ -219,7 +248,11 @@
       "word": "retard",
       "wordEn": "delay",
       "wordIpa": "ʁə.taʁ",
-      "distractors": ["vol", "quai", "bagage"]
+      "distractors": [
+        "vol",
+        "quai",
+        "bagage"
+      ]
     },
     {
       "id": "remote-travel-listen-3",
@@ -228,7 +261,24 @@
       "word": "chambre",
       "wordEn": "room",
       "wordIpa": "ʃɑ̃bʁ",
-      "distractors": ["valise", "clé", "hôtel"]
+      "distractors": [
+        "valise",
+        "clé",
+        "hôtel"
+      ]
+    },
+    {
+      "id": "remote-travel-listen-4",
+      "fr": "N’oublie pas ton passeport à l’aéroport.",
+      "en": "Don’t forget your passport at the airport.",
+      "word": "passeport",
+      "wordEn": "passport",
+      "wordIpa": "pas.pɔʁ",
+      "distractors": [
+        "billet",
+        "valise",
+        "plan"
+      ]
     }
   ],
   "prompts": [
@@ -237,6 +287,290 @@
     "Comment vas-tu de la gare à l’hôtel ?",
     "Que fais-tu si ton train a du retard ?"
   ],
-  "grammar": [],
-  "skills": {}
+  "grammar": [
+    {
+      "id": "remote-travel-grammar-1",
+      "title": {
+        "fr": "Passé composé des voyages",
+        "en": "Passé composé for travel"
+      },
+      "rule": "Pour raconter un voyage terminé, utilisez le passé composé : auxiliaire avoir ou être + participe passé. Les verbes de mouvement courants (aller, partir, arriver, venir) prennent être.",
+      "table": [
+        [
+          "Infinitif",
+          "Passé composé",
+          "Exemple"
+        ],
+        [
+          "acheter",
+          "j’ai acheté",
+          "J’ai acheté un billet."
+        ],
+        [
+          "réserver",
+          "j’ai réservé",
+          "J’ai réservé une chambre."
+        ],
+        [
+          "partir",
+          "je suis parti(e)",
+          "Je suis parti ce matin."
+        ],
+        [
+          "arriver",
+          "je suis arrivé(e)",
+          "Nous sommes arrivés à la gare."
+        ],
+        [
+          "aller",
+          "je suis allé(e)",
+          "Elle est allée à l’hôtel."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-travel-gq-1",
+          "prompt": "J’___ un billet hier.",
+          "answer": "ai acheté",
+          "options": [
+            "achète",
+            "ai acheté",
+            "acheter"
+          ]
+        },
+        {
+          "id": "remote-travel-gq-2",
+          "prompt": "Nous ___ à l’hôtel à vingt heures.",
+          "answer": "sommes arrivés",
+          "options": [
+            "arrivons",
+            "avons arrivé",
+            "sommes arrivés"
+          ]
+        },
+        {
+          "id": "remote-travel-gq-3",
+          "prompt": "Elle ___ à Paris en train.",
+          "answer": "est allée",
+          "options": [
+            "va",
+            "est allée",
+            "a allé"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-travel-grammar-2",
+      "title": {
+        "fr": "Pour / jusqu’à",
+        "en": "For / until / as far as"
+      },
+      "rule": "Pour indique la destination ou le but (un billet pour Lyon). Jusqu’à indique la limite dans l’espace ou le temps (jusqu’à l’hôtel, jusqu’à demain).",
+      "table": [
+        [
+          "Mot",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "pour",
+          "destination / purpose",
+          "un billet pour Lyon"
+        ],
+        [
+          "jusqu’à",
+          "as far as / until",
+          "jusqu’à la gare"
+        ],
+        [
+          "à",
+          "location / time",
+          "à l’aéroport"
+        ],
+        [
+          "près de",
+          "near",
+          "près du métro"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-travel-gq-4",
+          "prompt": "Je voudrais un billet ___ Nice.",
+          "answer": "pour",
+          "options": [
+            "pour",
+            "jusqu’à",
+            "dans"
+          ]
+        },
+        {
+          "id": "remote-travel-gq-5",
+          "prompt": "Prenez le métro ___ la place centrale.",
+          "answer": "jusqu’à",
+          "options": [
+            "pour",
+            "jusqu’à",
+            "avec"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-travel-dict-1",
+        "fr": "J’ai acheté un billet de train pour Lyon.",
+        "en": "I bought a train ticket to Lyon.",
+        "ipa": "ʒe aʃ.te œ̃ bi.jɛ də tʁɛ̃ puʁ ljɔ̃"
+      },
+      {
+        "id": "remote-travel-dict-2",
+        "fr": "Le train a vingt minutes de retard.",
+        "en": "The train is twenty minutes late.",
+        "ipa": "lə tʁɛ̃ a vɛ̃ mi.nyt də ʁə.taʁ"
+      },
+      {
+        "id": "remote-travel-dict-3",
+        "fr": "Nous dormons dans un hôtel près du centre.",
+        "en": "We are staying in a hotel near the centre.",
+        "ipa": "nu dɔʁ.mɔ̃ dɑ̃ zœ̃ no.tɛl pʁɛ dy sɑ̃tʁ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-travel-mean-1",
+        "fr": "À quelle heure part le prochain train ?",
+        "en": "What time does the next train leave?",
+        "choices": [
+          "What time does the next train leave?",
+          "Where is my suitcase?",
+          "How much is the hotel?"
+        ]
+      },
+      {
+        "id": "remote-travel-mean-2",
+        "fr": "Ma valise est trop lourde.",
+        "en": "My suitcase is too heavy.",
+        "choices": [
+          "My suitcase is too heavy.",
+          "My passport is lost.",
+          "The flight is early."
+        ]
+      },
+      {
+        "id": "remote-travel-mean-3",
+        "fr": "Il y a une correspondance à Paris.",
+        "en": "There is a connection in Paris.",
+        "choices": [
+          "There is a connection in Paris.",
+          "The border is closed.",
+          "Call a taxi."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-travel-fren-1",
+        "fr": "billet",
+        "en": "ticket"
+      },
+      {
+        "id": "remote-travel-fren-2",
+        "fr": "gare",
+        "en": "train station"
+      },
+      {
+        "id": "remote-travel-fren-3",
+        "fr": "hôtel",
+        "en": "hotel"
+      },
+      {
+        "id": "remote-travel-fren-4",
+        "fr": "valise",
+        "en": "suitcase"
+      },
+      {
+        "id": "remote-travel-fren-5",
+        "fr": "passeport",
+        "en": "passport"
+      },
+      {
+        "id": "remote-travel-fren-6",
+        "fr": "aéroport",
+        "en": "airport"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-travel-aloud-1",
+        "fr": "Où est la gare, s’il vous plaît ?",
+        "en": "Where is the station, please?",
+        "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+      },
+      {
+        "id": "remote-travel-aloud-2",
+        "fr": "Je voudrais un billet pour demain matin.",
+        "en": "I’d like a ticket for tomorrow morning.",
+        "ipa": "ʒə vu.dʁɛ œ̃ bi.jɛ puʁ də.mɛ̃ ma.tɛ̃"
+      },
+      {
+        "id": "remote-travel-aloud-3",
+        "fr": "Appelez un taxi pour l’aéroport.",
+        "en": "Call a taxi for the airport.",
+        "ipa": "a.ple zœ̃ tak.si puʁ la.e.ʁɔ.pɔʁ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-travel-unsc-1",
+        "fr": "Le train part du quai numéro trois.",
+        "en": "The train leaves from platform three.",
+        "words": [
+          "Le",
+          "train",
+          "part",
+          "du",
+          "quai",
+          "numéro",
+          "trois."
+        ]
+      },
+      {
+        "id": "remote-travel-unsc-2",
+        "fr": "Voici la clé de votre chambre.",
+        "en": "Here is the key to your room.",
+        "words": [
+          "Voici",
+          "la",
+          "clé",
+          "de",
+          "votre",
+          "chambre."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-travel-sign-1",
+        "fr": "sortie",
+        "en": "exit",
+        "hint": "way out of station/airport"
+      },
+      {
+        "id": "remote-travel-sign-2",
+        "fr": "entrées",
+        "en": "entrances",
+        "hint": "way in"
+      },
+      {
+        "id": "remote-travel-sign-3",
+        "fr": "guichet",
+        "en": "ticket counter",
+        "hint": "buy tickets here"
+      }
+    ]
+  }
 }

@@ -1,9 +1,12 @@
 {
   "pratiquePack": 1,
   "id": "health-a2",
-  "version": 1,
+  "version": 2,
   "level": "a2",
-  "title": { "fr": "Santé A2", "en": "Health A2" },
+  "title": {
+    "fr": "Santé A2",
+    "en": "Health A2"
+  },
   "description": {
     "fr": "Symptômes, pharmacie et rendez-vous chez le médecin.",
     "en": "Symptoms, pharmacy, and doctor’s appointment vocabulary."
@@ -152,6 +155,22 @@
       "example": "La blessure n’est pas grave.",
       "ipa": "blɛ.syʁ",
       "article": "la"
+    },
+    {
+      "id": "remote-health-a2-19",
+      "fr": "pilule",
+      "en": "pill / tablet",
+      "example": "Prenez une pilule après le repas.",
+      "ipa": "pi.lyl",
+      "article": "la"
+    },
+    {
+      "id": "remote-health-a2-20",
+      "fr": "température",
+      "en": "temperature",
+      "example": "Quelle est votre température ?",
+      "ipa": "tɑ̃.pe.ʁa.tyʁ",
+      "article": "la"
     }
   ],
   "phrases": [
@@ -178,6 +197,18 @@
       "fr": "Puis-je prendre rendez-vous pour demain ?",
       "en": "Can I make an appointment for tomorrow?",
       "ipa": "pɥi ʒə pʁɑ̃dʁ ʁɑ̃.de.vu puʁ də.mɛ̃"
+    },
+    {
+      "id": "remote-health-phrase-5",
+      "fr": "Voici mon ordonnance.",
+      "en": "Here is my prescription.",
+      "ipa": "vwa.si mɔ̃ nɔʁ.dɔ.nɑ̃s"
+    },
+    {
+      "id": "remote-health-phrase-6",
+      "fr": "J’ai une allergie aux arachides.",
+      "en": "I have a peanut allergy.",
+      "ipa": "ʒe yn a.lɛʁ.ʒi o za.ʁa.ʃid"
     }
   ],
   "listen": [
@@ -188,7 +219,11 @@
       "word": "ordonnance",
       "wordEn": "prescription",
       "wordIpa": "ɔʁ.dɔ.nɑ̃s",
-      "distractors": ["pharmacie", "fièvre", "symptôme"]
+      "distractors": [
+        "pharmacie",
+        "fièvre",
+        "symptôme"
+      ]
     },
     {
       "id": "remote-health-listen-2",
@@ -197,14 +232,313 @@
       "word": "fièvre",
       "wordEn": "fever",
       "wordIpa": "fjɛvʁ",
-      "distractors": ["rhume", "douleur", "allergie"]
+      "distractors": [
+        "rhume",
+        "douleur",
+        "allergie"
+      ]
+    },
+    {
+      "id": "remote-health-listen-3",
+      "fr": "J’ai mal à la gorge depuis hier soir.",
+      "en": "I’ve had a sore throat since last night.",
+      "word": "gorge",
+      "wordEn": "throat",
+      "wordIpa": "ɡɔʁʒ",
+      "distractors": [
+        "tête",
+        "dos",
+        "jambe"
+      ]
+    },
+    {
+      "id": "remote-health-listen-4",
+      "fr": "Mon rendez-vous chez le médecin est à quinze heures.",
+      "en": "My doctor’s appointment is at three o’clock.",
+      "word": "rendez-vous",
+      "wordEn": "appointment",
+      "wordIpa": "ʁɑ̃.de.vu",
+      "distractors": [
+        "urgence",
+        "hôpital",
+        "assurance"
+      ]
     }
   ],
   "prompts": [
     "Décris comment tu te sens aujourd’hui.",
     "Que dis-tu à la pharmacie ?",
-    "Quand vas-tu chez le médecin ?"
+    "Quand vas-tu chez le médecin ?",
+    "Quels symptômes as-tu quand tu es malade ?"
   ],
-  "grammar": [],
-  "skills": {}
+  "grammar": [
+    {
+      "id": "remote-health-grammar-1",
+      "title": {
+        "fr": "Avoir mal à",
+        "en": "Expressing pain"
+      },
+      "rule": "Pour dire où l’on a mal : avoir mal à + article + partie du corps. Attention à l’article : à la tête, au dos (à + le), aux dents (à + les).",
+      "table": [
+        [
+          "Expression",
+          "Contraction",
+          "Exemple"
+        ],
+        [
+          "avoir mal à la…",
+          "féminin",
+          "mal à la tête"
+        ],
+        [
+          "avoir mal au…",
+          "à + le",
+          "mal au dos"
+        ],
+        [
+          "avoir mal à l’…",
+          "devant voyelle",
+          "mal à l’estomac"
+        ],
+        [
+          "avoir mal aux…",
+          "à + les",
+          "mal aux dents"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-health-gq-1",
+          "prompt": "J’ai mal ___ tête.",
+          "answer": "à la",
+          "options": [
+            "à la",
+            "au",
+            "aux"
+          ]
+        },
+        {
+          "id": "remote-health-gq-2",
+          "prompt": "Il a mal ___ dos.",
+          "answer": "au",
+          "options": [
+            "à la",
+            "au",
+            "aux"
+          ]
+        },
+        {
+          "id": "remote-health-gq-3",
+          "prompt": "Elle a mal ___ dents.",
+          "answer": "aux",
+          "options": [
+            "à la",
+            "au",
+            "aux"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-health-grammar-2",
+      "title": {
+        "fr": "Depuis / pour la durée",
+        "en": "Depuis for duration"
+      },
+      "rule": "Depuis indique le début d’une situation qui continue : J’ai mal depuis ce matin. Pour une durée prévue dans le futur, on utilise pour : un rendez-vous pour demain.",
+      "table": [
+        [
+          "Mot",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "depuis",
+          "from a past point, still true",
+          "depuis hier"
+        ],
+        [
+          "pour",
+          "intended time / appointment",
+          "pour demain"
+        ],
+        [
+          "pendant",
+          "during a completed period",
+          "pendant deux jours"
+        ],
+        [
+          "il y a",
+          "ago",
+          "il y a une heure"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-health-gq-4",
+          "prompt": "J’ai de la fièvre ___ hier.",
+          "answer": "depuis",
+          "options": [
+            "pour",
+            "depuis",
+            "dans"
+          ]
+        },
+        {
+          "id": "remote-health-gq-5",
+          "prompt": "Puis-je prendre rendez-vous ___ demain ?",
+          "answer": "pour",
+          "options": [
+            "depuis",
+            "pour",
+            "pendant"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-health-dict-1",
+        "fr": "Je ne me sens pas bien.",
+        "en": "I don’t feel well.",
+        "ipa": "ʒə nə mə sɑ̃ pa bjɛ̃"
+      },
+      {
+        "id": "remote-health-dict-2",
+        "fr": "J’ai mal à la tête depuis ce matin.",
+        "en": "I’ve had a headache since this morning.",
+        "ipa": "ʒe mal a la tɛt də.pɥi sə ma.tɛ̃"
+      },
+      {
+        "id": "remote-health-dict-3",
+        "fr": "Voici mon ordonnance.",
+        "en": "Here is my prescription.",
+        "ipa": "vwa.si mɔ̃ nɔʁ.dɔ.nɑ̃s"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-health-mean-1",
+        "fr": "Où est la pharmacie la plus proche ?",
+        "en": "Where is the nearest pharmacy?",
+        "choices": [
+          "Where is the nearest pharmacy?",
+          "Do you have a fever?",
+          "Call the nurse."
+        ]
+      },
+      {
+        "id": "remote-health-mean-2",
+        "fr": "J’ai un rhume.",
+        "en": "I have a cold.",
+        "choices": [
+          "I have a cold.",
+          "I need surgery.",
+          "I broke my arm."
+        ]
+      },
+      {
+        "id": "remote-health-mean-3",
+        "fr": "Appelez les urgences si besoin.",
+        "en": "Call emergency services if needed.",
+        "choices": [
+          "Call emergency services if needed.",
+          "Take two pills.",
+          "Book a hotel."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-health-fren-1",
+        "fr": "médecin",
+        "en": "doctor"
+      },
+      {
+        "id": "remote-health-fren-2",
+        "fr": "pharmacie",
+        "en": "pharmacy"
+      },
+      {
+        "id": "remote-health-fren-3",
+        "fr": "fièvre",
+        "en": "fever"
+      },
+      {
+        "id": "remote-health-fren-4",
+        "fr": "toux",
+        "en": "cough"
+      },
+      {
+        "id": "remote-health-fren-5",
+        "fr": "hôpital",
+        "en": "hospital"
+      },
+      {
+        "id": "remote-health-fren-6",
+        "fr": "allergie",
+        "en": "allergy"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-health-aloud-1",
+        "fr": "Je ne me sens pas bien.",
+        "en": "I don’t feel well.",
+        "ipa": "ʒə nə mə sɑ̃ pa bjɛ̃"
+      },
+      {
+        "id": "remote-health-aloud-2",
+        "fr": "Puis-je prendre rendez-vous pour demain ?",
+        "en": "Can I make an appointment for tomorrow?",
+        "ipa": "pɥi ʒə pʁɑ̃dʁ ʁɑ̃.de.vu puʁ də.mɛ̃"
+      },
+      {
+        "id": "remote-health-aloud-3",
+        "fr": "J’ai une allergie aux arachides.",
+        "en": "I have a peanut allergy.",
+        "ipa": "ʒe yn a.lɛʁ.ʒi o za.ʁa.ʃid"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-health-unsc-1",
+        "fr": "J’ai un rhume.",
+        "en": "I have a cold.",
+        "words": [
+          "J’ai",
+          "un",
+          "rhume."
+        ]
+      },
+      {
+        "id": "remote-health-unsc-2",
+        "fr": "La blessure n’est pas grave.",
+        "en": "The injury is not serious.",
+        "words": [
+          "La",
+          "blessure",
+          "n’est",
+          "pas",
+          "grave."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-health-sign-1",
+        "fr": "pharmacie",
+        "en": "pharmacy",
+        "hint": "green cross / medicines"
+      },
+      {
+        "id": "remote-health-sign-2",
+        "fr": "urgences",
+        "en": "emergency",
+        "hint": "hospital emergency entrance"
+      }
+    ]
+  }
 }

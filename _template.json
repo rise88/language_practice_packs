@@ -5,8 +5,8 @@
   "level": "a2",
   "title": { "fr": "Mon thème A2", "en": "My topic A2" },
   "description": {
-    "fr": "Copie ce fichier, renomme-le, remplis les cartes, puis ajoute-le à catalog.json.",
-    "en": "Copy this file, rename it, fill the cards, then add it to catalog.json."
+    "fr": "Schéma complet : seed (Cartes + Prononcer/Mots), phrases (Prononcer/Ombre), listen (Prononcer/Écoute + Écouter/spot), prompts (Écrire), grammar (Grammaire), skills (Écouter/Parler/Lire/Sens). Optionnel : sounds (Prononcer/Sons).",
+    "en": "Full schema: seed (Cards + Prononcer/Mots), phrases (Prononcer/Ombre), listen (Prononcer/Écoute + Écouter/spot), prompts (Écrire), grammar (Grammaire), skills (Écouter/Parler/Lire/Sens). Optional: sounds (Prononcer/Sons)."
   },
   "seed": [
     {
@@ -18,9 +18,97 @@
       "article": "le"
     }
   ],
-  "phrases": [],
-  "listen": [],
-  "prompts": [],
-  "grammar": [],
-  "skills": {}
+  "phrases": [
+    {
+      "id": "remote-my-topic-phrase-1",
+      "fr": "Phrase utile pour Prononcer / Ombre.",
+      "en": "Useful phrase for Prononcer / Ombre.",
+      "ipa": "fʁaz y.til"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-my-topic-listen-1",
+      "fr": "Phrase pour Prononcer / Écoute et Écouter / spot.",
+      "en": "Sentence for Prononcer / Écoute and Écouter / spot.",
+      "word": "exemple",
+      "wordEn": "example",
+      "wordIpa": "ɛɡ.zɑ̃pl",
+      "distractors": ["autre", "mot", "choix"]
+    }
+  ],
+  "prompts": [
+    "Prompt d’écriture pour le mode Écrire.",
+    "Second prompt d’écriture.",
+    "Troisième prompt d’écriture."
+  ],
+  "grammar": [
+    {
+      "id": "remote-my-topic-grammar-1",
+      "title": { "fr": "Titre de la leçon", "en": "Lesson title" },
+      "rule": "Courte règle pour le mode Grammaire.",
+      "table": [
+        ["Colonne A", "Colonne B", "Exemple"],
+        ["forme", "usage", "exemple"]
+      ],
+      "questions": [
+        {
+          "id": "remote-my-topic-gq-1",
+          "prompt": "Complète : ___ exemple.",
+          "answer": "un",
+          "options": ["un", "une", "des"]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-my-topic-dict-1",
+        "fr": "Phrase de dictée (Écouter).",
+        "en": "Dictation sentence (Listen).",
+        "ipa": "fʁaz də dik.te"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-my-topic-mean-1",
+        "fr": "Phrase pour Sens.",
+        "en": "Sentence for Meaning.",
+        "choices": ["Sentence for Meaning.", "Wrong A.", "Wrong B."]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-my-topic-fren-1",
+        "fr": "exemple",
+        "en": "example"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-my-topic-aloud-1",
+        "fr": "Phrase à lire à voix haute (Parler).",
+        "en": "Sentence to read aloud (Speak).",
+        "ipa": "fʁaz a liʁ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-my-topic-unsc-1",
+        "fr": "Voici un exemple.",
+        "en": "Here is an example.",
+        "words": ["Voici", "un", "exemple."]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-my-topic-sign-1",
+        "fr": "sortie",
+        "en": "exit",
+        "hint": "optional signs drill"
+      }
+    ]
+  },
+  "sounds": []
 }

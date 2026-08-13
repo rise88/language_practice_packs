@@ -26,13 +26,34 @@ Hosting this repo as **public** is free. The app fetches:
 | A1 | Food, Home, Family |
 | A2 | Travel, Shopping, Health |
 
+## Pack fields → Pratique modes
+
+| Pack field | Feeds |
+|------------|--------|
+| `seed` | Cartes + Prononcer / Mots (required; each card: `fr`, `en`, `example`, `ipa`, `article`; keep `id`s stable) |
+| `phrases` | Prononcer / Ombre (3–6 useful sentences) |
+| `listen` | Prononcer / Écoute + Écouter / spot (`word` + `distractors`) |
+| `prompts` | Écrire (3–4 writing prompts) |
+| `grammar` | Grammaire (1–2 lessons with `rule`, `table`, `questions`) |
+| `skills.<drillId>` | Studio drills for Écouter / Parler / Lire / Sens |
+| `sounds` | Prononcer / Sons (optional) |
+
+### Skills drill ids
+
+Include at least: `dictation`, `meaning`, `fren`, `aloud`. Add `unscramble` or `signs` when they fit the topic.
+
+Seed `example` sentences also let the app auto-derive many drills — still ship explicit `phrases`, `listen`, `prompts`, and a light `skills` set.
+
 ## Add a pack
 
 1. Copy `_template.json` → `school-a2.json` (example)
-2. Edit `id`, titles, and `seed` cards (keep card `id`s stable)
-3. Add an entry to `catalog.json` with `"url": "./school-a2.json"`
-4. Commit and push to `main`
-5. In Pratique → **Ajouter → Packs distants → GitHub → Charger**
+2. Set `id`, `level`, titles, and description
+3. Fill `seed` cards (natural French `example` on every card; keep card `id`s stable)
+4. Add `phrases` (3–6), `listen` (2–4), `prompts` (3–4), `grammar` (1–2), and `skills` (dictation / meaning / fren / aloud at minimum)
+5. Bump `version` whenever content changes
+6. Add an entry to `catalog.json` with matching `id`, `version`, `cardCount`, and `"url": "./school-a2.json"`; set `updatedAt` to today
+7. Commit and push to `main`
+8. In Pratique → **Ajouter → Packs distants → GitHub → Charger**
 
 ## Privacy split
 
