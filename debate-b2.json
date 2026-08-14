@@ -1,0 +1,542 @@
+{
+  "pratiquePack": 1,
+  "id": "debate-b2",
+  "version": 1,
+  "level": "b2",
+  "title": {
+    "fr": "Argumentation B2",
+    "en": "Argumentation B2"
+  },
+  "description": {
+    "fr": "Thèse, contre-argument, nuance, concession et recours à la preuve.",
+    "en": "Claims, counterarguments, nuance, concession, and evidence."
+  },
+  "seed": [
+    {
+      "id": "remote-debate-b2-1",
+      "fr": "thèse",
+      "en": "claim / thesis",
+      "example": "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+      "ipa": "tɛz",
+      "article": "la"
+    },
+    {
+      "id": "remote-debate-b2-2",
+      "fr": "contre-argument",
+      "en": "counterargument",
+      "example": "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+      "ipa": "kɔ̃.tʁaʁ.ɡy.mɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-debate-b2-3",
+      "fr": "nuance",
+      "en": "nuance",
+      "example": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+      "ipa": "nɥɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-debate-b2-4",
+      "fr": "concession",
+      "en": "concession",
+      "example": "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
+      "ipa": "kɔ̃.sɛ.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-debate-b2-5",
+      "fr": "argument",
+      "en": "argument",
+      "example": "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
+      "ipa": "aʁ.ɡy.mɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-debate-b2-6",
+      "fr": "assertion",
+      "en": "assertion",
+      "example": "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
+      "ipa": "a.sɛʁ.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-debate-b2-7",
+      "fr": "réfutation",
+      "en": "rebuttal / refutation",
+      "example": "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
+      "ipa": "ʁe.fy.ta.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-debate-b2-8",
+      "fr": "présupposé",
+      "en": "assumption / presupposition",
+      "example": "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
+      "ipa": "pʁe.sy.po.ze",
+      "article": "le"
+    },
+    {
+      "id": "remote-debate-b2-9",
+      "fr": "analogie",
+      "en": "analogy",
+      "example": "L’analogie éclaire, néanmoins elle ne prouve rien si les deux situations divergent.",
+      "ipa": "a.na.lɔ.ʒi",
+      "article": "l'"
+    },
+    {
+      "id": "remote-debate-b2-10",
+      "fr": "rhétorique",
+      "en": "rhetoric",
+      "example": "La rhétorique brillante peut masquer une faiblesse de fond que l’on découvre trop tard.",
+      "ipa": "ʁe.tɔ.ʁik",
+      "article": "la"
+    },
+    {
+      "id": "remote-debate-b2-11",
+      "fr": "objection",
+      "en": "objection",
+      "example": "L’objection a été accueillie, ce qui a permis d’affiner la thèse initiale.",
+      "ipa": "ɔb.ʒɛk.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-debate-b2-12",
+      "fr": "synthèse",
+      "en": "synthesis",
+      "example": "La synthèse finale articule les points d’accord sans effacer les désaccords restants.",
+      "ipa": "sɛ̃.tɛz",
+      "article": "la"
+    },
+    {
+      "id": "remote-debate-b2-13",
+      "fr": "illustration",
+      "en": "illustration / example",
+      "example": "Cette illustration concrète rend l’argument plus saisissable pour un public non spécialiste.",
+      "ipa": "i.lys.tʁa.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-debate-b2-14",
+      "fr": "enjeu",
+      "en": "stake / issue at stake",
+      "example": "L’enjeu n’est pas de « gagner », mais de clarifier ce qui se joue réellement.",
+      "ipa": "ɑ̃.ʒø",
+      "article": "l'"
+    },
+    {
+      "id": "remote-debate-b2-15",
+      "fr": "paradoxe",
+      "en": "paradox",
+      "example": "Le paradoxe (« moins on régule, moins on est libre ») force à revoir un présupposé.",
+      "ipa": "pa.ʁa.dɔks",
+      "article": "le"
+    },
+    {
+      "id": "remote-debate-b2-16",
+      "fr": "connecteur",
+      "en": "connective / linking word",
+      "example": "Un connecteur mal choisi (donc au lieu de or) fausse toute la progression du raisonnement.",
+      "ipa": "kɔ.nɛk.tœʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-debate-b2-17",
+      "fr": "point de vue",
+      "en": "point of view",
+      "example": "Son point de vue n’est pas absurde ; il part toutefois d’un présupposé discutable.",
+      "ipa": "pwɛ̃ də vy",
+      "article": "le"
+    },
+    {
+      "id": "remote-debate-b2-18",
+      "fr": "pertinence",
+      "en": "relevance",
+      "example": "La pertinence d’un exemple se juge à ce qu’il éclaire, non à son seul caractère frappant.",
+      "ipa": "pɛʁ.ti.nɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-debate-b2-19",
+      "fr": "généralisation",
+      "en": "generalization",
+      "example": "Cette généralisation abusive repose sur trois cas, ce qui la rend fragile.",
+      "ipa": "ʒe.ne.ʁa.li.za.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-debate-b2-20",
+      "fr": "plaidoyer",
+      "en": "case / plea",
+      "example": "Son plaidoyer en faveur du compromis a déplacé le débat vers le terrain pratique.",
+      "ipa": "plɛ.dwa.je",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-debate-phrase-1",
+      "fr": "Certes, l’objection est sérieuse ; toutefois elle ne ruine pas entièrement la thèse.",
+      "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+      "ipa": "sɛʁt lɔb.ʒɛk.sjɔ̃ ɛ se.ʁjøz tu.tə.fwa ɛl nə ʁɥin pa ɑ̃.tjɛʁ.mɑ̃ la tɛz"
+    },
+    {
+      "id": "remote-debate-phrase-2",
+      "fr": "Bien que l’analogie soit séduisante, les deux situations ne sont pas comparables.",
+      "en": "Although the analogy is appealing, the two situations are not comparable.",
+      "ipa": "bjɛ̃ kə la.na.lɔ.ʒi swa se.dɥi.zɑ̃t le dø si.tɥa.sjɔ̃ nə sɔ̃ pa kɔ̃.pa.ʁabl"
+    },
+    {
+      "id": "remote-debate-phrase-3",
+      "fr": "On pourrait objecter que la rhétorique l’emporte ici sur la preuve.",
+      "en": "One might object that rhetoric is winning out over evidence here.",
+      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la ʁe.tɔ.ʁik lɑ̃.pɔʁt i.si syʁ la pʁœv"
+    },
+    {
+      "id": "remote-debate-phrase-4",
+      "fr": "Il convient de concéder ce point afin que le débat avance sur l’essentiel.",
+      "en": "It is worth conceding this point so that the debate can move on to what matters.",
+      "ipa": "il kɔ̃.vjɛ̃ də kɔ̃.se.de sə pwɛ̃ a.fɛ̃ kə lə de.ba a.vɑ̃s syʁ le.sɑ̃.sjɛl"
+    },
+    {
+      "id": "remote-debate-phrase-5",
+      "fr": "Je ne suis pas convaincu que cette généralisation soit fondée.",
+      "en": "I am not convinced that this generalization is well-founded.",
+      "ipa": "ʒə nə sɥi pa kɔ̃.vɛ̃.ky kə sɛt ʒe.ne.ʁa.li.za.sjɔ̃ swa fɔ̃.de"
+    },
+    {
+      "id": "remote-debate-phrase-6",
+      "fr": "En revanche, une nuance bien placée rend la thèse plus difficile à réfuter.",
+      "en": "By contrast, a well-placed nuance makes the claim harder to refute.",
+      "ipa": "ɑ̃ ʁə.vɑ̃ʃ yn nɥɑ̃s bjɛ̃ pla.se ʁɑ̃ la tɛz ply di.fi.sil a ʁe.fy.te"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-debate-listen-1",
+      "fr": "Sa thèse est claire, toutefois les exemples restent trop particuliers.",
+      "en": "The claim is clear; however the examples remain too specific.",
+      "word": "thèse",
+      "wordEn": "claim",
+      "wordIpa": "tɛz",
+      "distractors": [
+        "assertion",
+        "synthèse",
+        "plaidoyer"
+      ]
+    },
+    {
+      "id": "remote-debate-listen-2",
+      "fr": "Le contre-argument le plus sérieux porte sur le manque de données.",
+      "en": "The most serious counterargument concerns the lack of comparable data.",
+      "word": "contre-argument",
+      "wordEn": "counterargument",
+      "wordIpa": "kɔ̃.tʁaʁ.ɡy.mɑ̃",
+      "distractors": [
+        "objection",
+        "réfutation",
+        "concession"
+      ]
+    },
+    {
+      "id": "remote-debate-listen-3",
+      "fr": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+      "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+      "word": "nuance",
+      "wordEn": "nuance",
+      "wordIpa": "nɥɑ̃s",
+      "distractors": [
+        "pertinence",
+        "connecteur",
+        "rhétorique"
+      ]
+    },
+    {
+      "id": "remote-debate-listen-4",
+      "fr": "Cette généralisation abusive repose sur trois cas seulement.",
+      "en": "This careless generalization rests on only three cases.",
+      "word": "généralisation",
+      "wordEn": "generalization",
+      "wordIpa": "ʒe.ne.ʁa.li.za.sjɔ̃",
+      "distractors": [
+        "analogie",
+        "présupposé",
+        "illustration"
+      ]
+    }
+  ],
+  "prompts": [
+    "Pourquoi concéder un point peut-il renforcer une thèse plutôt que l’affaiblir ?",
+    "Compare un contre-argument solide et une simple attaque personnelle.",
+    "Selon toi, une analogie peut-elle vraiment servir de preuve ? Justifie.",
+    "Si tu devais nuancer une opinion trop tranchée, comment t’y prendrais-tu ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-debate-grammar-1",
+      "title": {
+        "fr": "La concession : certes, bien que, toutefois",
+        "en": "Concession: certes, bien que, toutefois"
+      },
+      "rule": "Pour intégrer l’objection sans abandonner sa thèse : Certes… toutefois… ; Bien que + subjonctif… ; néanmoins. Certes, l’objection est sérieuse ; toutefois elle ne ruine pas la thèse. Bien que l’analogie soit séduisante, les situations divergent. La concession rend l’argument plus honnête, donc plus solide.",
+      "table": [
+        [
+          "Outil",
+          "Construction",
+          "Exemple"
+        ],
+        [
+          "certes… toutefois…",
+          "indicatif + indicatif",
+          "Certes c’est juste ; toutefois cela ne suffit pas."
+        ],
+        [
+          "bien que",
+          "subjonctif",
+          "bien que l’analogie soit séduisante"
+        ],
+        [
+          "néanmoins / cependant",
+          "après une concession",
+          "néanmoins les situations divergent"
+        ],
+        [
+          "même si",
+          "indicatif",
+          "même si l’on n’est pas d’accord"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-debate-gq-1",
+          "prompt": "Complète : Certes l’objection est sérieuse ; ___ elle ne ruine pas la thèse.",
+          "answer": "toutefois",
+          "options": [
+            "afin que",
+            "toutefois",
+            "dont"
+          ]
+        },
+        {
+          "id": "remote-debate-gq-2",
+          "prompt": "Complète : Bien que l’analogie ___ séduisante, les situations ne sont pas comparables.",
+          "answer": "soit",
+          "options": [
+            "est",
+            "soit",
+            "sera"
+          ]
+        },
+        {
+          "id": "remote-debate-gq-3",
+          "prompt": "Complète : ___ l’on n’est pas d’accord, on peut clarifier l’enjeu.",
+          "answer": "Même si",
+          "options": [
+            "Bien que",
+            "Même si",
+            "Afin que"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-debate-grammar-2",
+      "title": {
+        "fr": "Le conditionnel pour atténuer",
+        "en": "The conditional for hedging"
+      },
+      "rule": "Dans un débat, le conditionnel adoucit l’attaque : On pourrait objecter que… ; Je serais tenté de répondre que… Il évite le ton péremptoire de l’indicatif. On l’emploie aussi pour une conséquence hypothétique : Si l’on concédait ce point, le débat avancerait.",
+      "table": [
+        [
+          "Forme",
+          "Effet",
+          "Exemple"
+        ],
+        [
+          "on pourrait objecter que",
+          "introduire un contre-argument",
+          "On pourrait objecter que la rhétorique l’emporte."
+        ],
+        [
+          "je serais tenté de",
+          "atténuer un désaccord",
+          "Je serais tenté de nuancer…"
+        ],
+        [
+          "si + imparfait → conditionnel",
+          "hypothèse",
+          "Si l’on concédait ce point, le débat avancerait."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-debate-gq-4",
+          "prompt": "Complète : On ___ objecter que la rhétorique l’emporte sur la preuve.",
+          "answer": "pourrait",
+          "options": [
+            "peut",
+            "pourrait",
+            "pourra"
+          ]
+        },
+        {
+          "id": "remote-debate-gq-5",
+          "prompt": "Complète : Si l’on concédait ce point, le débat ___.",
+          "answer": "avancerait",
+          "options": [
+            "avance",
+            "avancerait",
+            "a avancé"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-debate-dict-1",
+        "fr": "Certes, l’objection est sérieuse ; toutefois elle ne ruine pas entièrement la thèse.",
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "ipa": "sɛʁt lɔb.ʒɛk.sjɔ̃ ɛ se.ʁjøz tu.tə.fwa ɛl nə ʁɥin pa ɑ̃.tjɛʁ.mɑ̃ la tɛz"
+      },
+      {
+        "id": "remote-debate-dict-2",
+        "fr": "Bien que l’analogie soit séduisante, les deux situations ne sont pas comparables.",
+        "en": "Although the analogy is appealing, the two situations are not comparable.",
+        "ipa": "bjɛ̃ kə la.na.lɔ.ʒi swa se.dɥi.zɑ̃t le dø si.tɥa.sjɔ̃ nə sɔ̃ pa kɔ̃.pa.ʁabl"
+      },
+      {
+        "id": "remote-debate-dict-3",
+        "fr": "On pourrait objecter que la rhétorique l’emporte ici sur la preuve.",
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la ʁe.tɔ.ʁik lɑ̃.pɔʁt i.si syʁ la pʁœv"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-debate-mean-1",
+        "fr": "Certes, l’objection est sérieuse ; toutefois elle ne ruine pas entièrement la thèse.",
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "choices": [
+          "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "A good analogy is enough to prove that two situations are identical.",
+          "Rhetoric never hides a weakness in the reasoning."
+        ]
+      },
+      {
+        "id": "remote-debate-mean-2",
+        "fr": "Bien que l’analogie soit séduisante, les deux situations ne sont pas comparables.",
+        "en": "Although the analogy is appealing, the two situations are not comparable.",
+        "choices": [
+          "Although the analogy is appealing, the two situations are not comparable.",
+          "Conceding a point always means abandoning your thesis.",
+          "Generalizations are stronger when they rest on three striking cases."
+        ]
+      },
+      {
+        "id": "remote-debate-mean-3",
+        "fr": "On pourrait objecter que la rhétorique l’emporte ici sur la preuve.",
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "choices": [
+          "One might object that rhetoric is winning out over evidence here.",
+          "Connectives have no effect on how an argument unfolds.",
+          "A synthesis must erase remaining disagreements."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-debate-fren-1",
+        "fr": "thèse",
+        "en": "claim"
+      },
+      {
+        "id": "remote-debate-fren-2",
+        "fr": "contre-argument",
+        "en": "counterargument"
+      },
+      {
+        "id": "remote-debate-fren-3",
+        "fr": "nuance",
+        "en": "nuance"
+      },
+      {
+        "id": "remote-debate-fren-4",
+        "fr": "concession",
+        "en": "concession"
+      },
+      {
+        "id": "remote-debate-fren-5",
+        "fr": "argument",
+        "en": "argument"
+      },
+      {
+        "id": "remote-debate-fren-6",
+        "fr": "assertion",
+        "en": "assertion"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-debate-aloud-1",
+        "fr": "Certes, l’objection est sérieuse ; toutefois elle ne ruine pas entièrement la thèse.",
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "ipa": "sɛʁt lɔb.ʒɛk.sjɔ̃ ɛ se.ʁjøz tu.tə.fwa ɛl nə ʁɥin pa ɑ̃.tjɛʁ.mɑ̃ la tɛz"
+      },
+      {
+        "id": "remote-debate-aloud-2",
+        "fr": "On pourrait objecter que la rhétorique l’emporte ici sur la preuve.",
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la ʁe.tɔ.ʁik lɑ̃.pɔʁt i.si syʁ la pʁœv"
+      },
+      {
+        "id": "remote-debate-aloud-3",
+        "fr": "Je ne suis pas convaincu que cette généralisation soit fondée.",
+        "en": "I am not convinced that this generalization is well-founded.",
+        "ipa": "ʒə nə sɥi pa kɔ̃.vɛ̃.ky kə sɛt ʒe.ne.ʁa.li.za.sjɔ̃ swa fɔ̃.de"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-debate-unsc-1",
+        "fr": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+        "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+        "words": [
+          "Une",
+          "nuance",
+          "bien",
+          "placée",
+          "n’affaiblit",
+          "pas",
+          "la",
+          "thèse,",
+          "elle",
+          "la",
+          "rend",
+          "plus",
+          "crédible."
+        ]
+      },
+      {
+        "id": "remote-debate-unsc-2",
+        "fr": "Cette généralisation abusive repose sur trois cas, ce qui la rend fragile.",
+        "en": "This careless generalization rests on three cases, which makes it fragile.",
+        "words": [
+          "Cette",
+          "généralisation",
+          "abusive",
+          "repose",
+          "sur",
+          "trois",
+          "cas,",
+          "ce",
+          "qui",
+          "la",
+          "rend",
+          "fragile."
+        ]
+      }
+    ]
+  }
+}

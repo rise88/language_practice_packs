@@ -1,0 +1,539 @@
+{
+  "pratiquePack": 1,
+  "id": "economy-b2",
+  "version": 1,
+  "level": "b2",
+  "title": {
+    "fr": "Économie B2",
+    "en": "Economy B2"
+  },
+  "description": {
+    "fr": "Croissance, inflation, chômage, marchés et investissement.",
+    "en": "Growth, inflation, unemployment, markets, and investment."
+  },
+  "seed": [
+    {
+      "id": "remote-economy-b2-1",
+      "fr": "croissance",
+      "en": "growth",
+      "example": "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+      "ipa": "kʁwa.sɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-economy-b2-2",
+      "fr": "inflation",
+      "en": "inflation",
+      "example": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+      "ipa": "ɛ̃.fla.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-economy-b2-3",
+      "fr": "chômage",
+      "en": "unemployment",
+      "example": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+      "ipa": "ʃo.maʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-economy-b2-4",
+      "fr": "marché",
+      "en": "market",
+      "example": "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
+      "ipa": "maʁ.ʃe",
+      "article": "le"
+    },
+    {
+      "id": "remote-economy-b2-5",
+      "fr": "investissement",
+      "en": "investment",
+      "example": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+      "ipa": "ɛ̃.vɛs.tis.mɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-economy-b2-6",
+      "fr": "PIB",
+      "en": "GDP",
+      "example": "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
+      "ipa": "pe.i.be",
+      "article": "le"
+    },
+    {
+      "id": "remote-economy-b2-7",
+      "fr": "récession",
+      "en": "recession",
+      "example": "Une récession technique n’implique pas forcément une crise sociale durable.",
+      "ipa": "ʁe.sɛ.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-economy-b2-8",
+      "fr": "dette",
+      "en": "debt",
+      "example": "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
+      "ipa": "dɛt",
+      "article": "la"
+    },
+    {
+      "id": "remote-economy-b2-9",
+      "fr": "pouvoir d’achat",
+      "en": "purchasing power",
+      "example": "Le pouvoir d’achat stagne malgré la légère reprise de la croissance.",
+      "ipa": "pu.vwaʁ da.ʃa",
+      "article": "le"
+    },
+    {
+      "id": "remote-economy-b2-10",
+      "fr": "conjoncture",
+      "en": "economic climate",
+      "example": "La conjoncture internationale pèse davantage que les mesures nationales à court terme.",
+      "ipa": "kɔ̃.ʒɔ̃k.tyʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-economy-b2-11",
+      "fr": "offre",
+      "en": "supply",
+      "example": "L’offre de logements ne suit pas la demande dans les grandes métropoles.",
+      "ipa": "ɔfʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-economy-b2-12",
+      "fr": "demande",
+      "en": "demand",
+      "example": "Lorsque la demande se contracte, les entreprises reportent leurs embauches.",
+      "ipa": "də.mɑ̃d",
+      "article": "la"
+    },
+    {
+      "id": "remote-economy-b2-13",
+      "fr": "taux",
+      "en": "rate",
+      "example": "Le taux d’intérêt a été relevé afin de freiner l’inflation persistante.",
+      "ipa": "to",
+      "article": "le"
+    },
+    {
+      "id": "remote-economy-b2-14",
+      "fr": "déficit",
+      "en": "deficit",
+      "example": "Le déficit budgétaire se creuse, néanmoins le gouvernement refuse l’austérité brutale.",
+      "ipa": "de.fi.sit",
+      "article": "le"
+    },
+    {
+      "id": "remote-economy-b2-15",
+      "fr": "actionnaire",
+      "en": "shareholder",
+      "example": "Les actionnaires exigent un rendement que la direction juge trop élevé.",
+      "ipa": "ak.sjɔ.nɛʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-economy-b2-16",
+      "fr": "budget",
+      "en": "budget",
+      "example": "Le budget de l’année prochaine devra arbitrer entre transition écologique et pouvoir d’achat.",
+      "ipa": "byd.ʒɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-economy-b2-17",
+      "fr": "exportation",
+      "en": "export",
+      "example": "Les exportations ont résisté, en revanche la consommation intérieure s’essouffle.",
+      "ipa": "ɛk.spɔʁ.ta.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-economy-b2-18",
+      "fr": "concurrence",
+      "en": "competition",
+      "example": "La concurrence internationale pousse les industriels à innover plus vite.",
+      "ipa": "kɔ̃.ky.ʁɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-economy-b2-19",
+      "fr": "fiscalité",
+      "en": "taxation",
+      "example": "Une fiscalité plus progressive pourrait corriger une partie des inégalités.",
+      "ipa": "fis.ka.li.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-economy-b2-20",
+      "fr": "indicateur",
+      "en": "indicator",
+      "example": "Cet indicateur avancé laisse entrevoir un retournement du marché du travail.",
+      "ipa": "ɛ̃.di.ka.tœʁ",
+      "article": "l'"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-economy-phrase-1",
+      "fr": "Si l’inflation persistait, le pouvoir d’achat reculerait encore davantage.",
+      "en": "If inflation persisted, purchasing power would fall even further.",
+      "ipa": "si lɛ̃.fla.sjɔ̃ pɛʁ.sis.tɛ lə pu.vwaʁ da.ʃa ʁə.ky.lə.ʁɛ ɑ̃.kɔʁ da.vɑ̃.taʒ"
+    },
+    {
+      "id": "remote-economy-phrase-2",
+      "fr": "La croissance reprend, toutefois le chômage des jeunes reste préoccupant.",
+      "en": "Growth is picking up; however youth unemployment remains worrying.",
+      "ipa": "la kʁwa.sɑ̃s ʁə.pʁɑ̃ tu.tə.fwa lə ʃo.maʒ de ʒœn ʁɛst pʁe.ɔ.ky.pɑ̃"
+    },
+    {
+      "id": "remote-economy-phrase-3",
+      "fr": "Il est souhaitable que l’investissement public cible les secteurs d’avenir.",
+      "en": "It is desirable that public investment target future-oriented sectors.",
+      "ipa": "il ɛ su.ɛ.tabl kə lɛ̃.vɛs.tis.mɑ̃ py.blik sib lə sɛk.tœʁ da.və.niʁ"
+    },
+    {
+      "id": "remote-economy-phrase-4",
+      "fr": "En revanche, une hausse trop brutale des taux risquerait d’étouffer la demande.",
+      "en": "By contrast, too sharp a rise in rates would risk stifling demand.",
+      "ipa": "ɑ̃ ʁə.vɑ̃ʃ yn os tʁo bʁy.tal de to ʁis.kə.ʁɛ de.tu.fe la də.mɑ̃d"
+    },
+    {
+      "id": "remote-economy-phrase-5",
+      "fr": "Bien que le PIB ait légèrement progressé, beaucoup de ménages ne le ressentent pas.",
+      "en": "Although GDP has risen slightly, many households do not feel it.",
+      "ipa": "bjɛ̃ kə lə pe.i.be ɛ le.ʒɛʁ.mɑ̃ pʁɔ.ɡʁe.se bo.ku də me.naʒ nə lə ʁə.sɑ̃ pa"
+    },
+    {
+      "id": "remote-economy-phrase-6",
+      "fr": "On pourrait objecter que la dette finance aujourd’hui l’activité de demain.",
+      "en": "One might object that debt is financing tomorrow’s activity today.",
+      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la dɛt fi.nɑ̃s o.ʒuʁ.dɥi lak.ti.vi.te də də.mɛ̃"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-economy-listen-1",
+      "fr": "L’inflation pèse sur le pouvoir d’achat des ménages modestes.",
+      "en": "Inflation is weighing on the purchasing power of modest households.",
+      "word": "inflation",
+      "wordEn": "inflation",
+      "wordIpa": "ɛ̃.fla.sjɔ̃",
+      "distractors": [
+        "croissance",
+        "récession",
+        "conjoncture"
+      ]
+    },
+    {
+      "id": "remote-economy-listen-2",
+      "fr": "Le chômage des jeunes demeure plus élevé que la moyenne.",
+      "en": "Youth unemployment remains higher than the average.",
+      "word": "chômage",
+      "wordEn": "unemployment",
+      "wordIpa": "ʃo.maʒ",
+      "distractors": [
+        "déficit",
+        "taux",
+        "indicateur"
+      ]
+    },
+    {
+      "id": "remote-economy-listen-3",
+      "fr": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+      "en": "Public investment in infrastructure could revive activity.",
+      "word": "investissement",
+      "wordEn": "investment",
+      "wordIpa": "ɛ̃.vɛs.tis.mɑ̃",
+      "distractors": [
+        "exportation",
+        "budget",
+        "fiscalité"
+      ]
+    },
+    {
+      "id": "remote-economy-listen-4",
+      "fr": "Le marché de l’emploi se tend dans plusieurs secteurs.",
+      "en": "The job market is tightening in several sectors.",
+      "word": "marché",
+      "wordEn": "market",
+      "wordIpa": "maʁ.ʃe",
+      "distractors": [
+        "concurrence",
+        "actionnaire",
+        "offre"
+      ]
+    }
+  ],
+  "prompts": [
+    "L’inflation est-elle plus préoccupante que le chômage ? Justifie ton avis.",
+    "Compare une politique de relance et une politique d’austérité.",
+    "Selon toi, la croissance économique suffit-elle à améliorer le pouvoir d’achat ?",
+    "Si tu devais arbitrer le budget, que prioriserais-tu, et pourquoi ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-economy-grammar-1",
+      "title": {
+        "fr": "La nominalisation économique",
+        "en": "Economic nominalization"
+      },
+      "rule": "En français soutenu, on transforme souvent un verbe en nom : croître → la croissance, inflater → l’inflation, investir → l’investissement, chômer → le chômage. Le nom permet de condenser un raisonnement : La croissance a ralenti plutôt que L’économie croît moins vite.",
+      "table": [
+        [
+          "Verbe",
+          "Nom",
+          "Exemple"
+        ],
+        [
+          "croître",
+          "la croissance",
+          "la croissance a ralenti"
+        ],
+        [
+          "investir",
+          "l’investissement",
+          "l’investissement public"
+        ],
+        [
+          "chômer",
+          "le chômage",
+          "le chômage des jeunes"
+        ],
+        [
+          "s’endetter",
+          "la dette",
+          "la dette publique"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-economy-gq-1",
+          "prompt": "Complète : croître → la ___.",
+          "answer": "croissance",
+          "options": [
+            "croissance",
+            "croissant",
+            "croissance économique"
+          ]
+        },
+        {
+          "id": "remote-economy-gq-2",
+          "prompt": "Complète : investir → l’___.",
+          "answer": "investissement",
+          "options": [
+            "investisseur",
+            "investissement",
+            "investi"
+          ]
+        },
+        {
+          "id": "remote-economy-gq-3",
+          "prompt": "Complète : On dit le ___ des jeunes, et non le chômer des jeunes.",
+          "answer": "chômage",
+          "options": [
+            "chômage",
+            "chômé",
+            "chômeur"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-economy-grammar-2",
+      "title": {
+        "fr": "En revanche, toutefois, cependant",
+        "en": "Contrast markers in economic argument"
+      },
+      "rule": "Pour nuancer un indicateur : toutefois et cependant concèdent sans annuler. En revanche oppose deux secteurs ou deux grandeurs. La croissance reprend, toutefois le chômage reste élevé. Le marché de l’emploi se tend ; en revanche certains secteurs manquent de personnel.",
+      "table": [
+        [
+          "Marqueur",
+          "Fonction",
+          "Exemple"
+        ],
+        [
+          "toutefois",
+          "concession",
+          "La croissance reprend, toutefois le chômage reste élevé."
+        ],
+        [
+          "en revanche",
+          "contraste",
+          "En revanche, la consommation s’essouffle."
+        ],
+        [
+          "cependant",
+          "opposition",
+          "Le PIB progresse ; cependant les ménages ne le ressentent pas."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-economy-gq-4",
+          "prompt": "Complète : La croissance reprend, ___ le chômage des jeunes reste préoccupant.",
+          "answer": "toutefois",
+          "options": [
+            "afin que",
+            "toutefois",
+            "parce que"
+          ]
+        },
+        {
+          "id": "remote-economy-gq-5",
+          "prompt": "Complète : Les exportations résistent. ___ la consommation intérieure s’essouffle.",
+          "answer": "En revanche",
+          "options": [
+            "En revanche",
+            "Bien que",
+            "Si"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-economy-dict-1",
+        "fr": "Si l’inflation persistait, le pouvoir d’achat reculerait encore davantage.",
+        "en": "If inflation persisted, purchasing power would fall even further.",
+        "ipa": "si lɛ̃.fla.sjɔ̃ pɛʁ.sis.tɛ lə pu.vwaʁ da.ʃa ʁə.ky.lə.ʁɛ ɑ̃.kɔʁ da.vɑ̃.taʒ"
+      },
+      {
+        "id": "remote-economy-dict-2",
+        "fr": "La croissance reprend, toutefois le chômage des jeunes reste préoccupant.",
+        "en": "Growth is picking up; however youth unemployment remains worrying.",
+        "ipa": "la kʁwa.sɑ̃s ʁə.pʁɑ̃ tu.tə.fwa lə ʃo.maʒ de ʒœn ʁɛst pʁe.ɔ.ky.pɑ̃"
+      },
+      {
+        "id": "remote-economy-dict-3",
+        "fr": "Il est souhaitable que l’investissement public cible les secteurs d’avenir.",
+        "en": "It is desirable that public investment target future-oriented sectors.",
+        "ipa": "il ɛ su.ɛ.tabl kə lɛ̃.vɛs.tis.mɑ̃ py.blik sib lə sɛk.tœʁ da.və.niʁ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-economy-mean-1",
+        "fr": "Si l’inflation persistait, le pouvoir d’achat reculerait encore davantage.",
+        "en": "If inflation persisted, purchasing power would fall even further.",
+        "choices": [
+          "If inflation persisted, purchasing power would fall even further.",
+          "Unemployment among young people has already disappeared.",
+          "Shareholders have refused any return on investment."
+        ]
+      },
+      {
+        "id": "remote-economy-mean-2",
+        "fr": "La croissance reprend, toutefois le chômage des jeunes reste préoccupant.",
+        "en": "Growth is picking up; however youth unemployment remains worrying.",
+        "choices": [
+          "Growth is picking up; however youth unemployment remains worrying.",
+          "The budget surplus will finance a sharp tax cut.",
+          "Exports collapsed while domestic demand soared."
+        ]
+      },
+      {
+        "id": "remote-economy-mean-3",
+        "fr": "Il est souhaitable que l’investissement public cible les secteurs d’avenir.",
+        "en": "It is desirable that public investment target future-oriented sectors.",
+        "choices": [
+          "It is desirable that public investment target future-oriented sectors.",
+          "Interest rates should be raised to boost inflation.",
+          "Public debt never finances future activity."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-economy-fren-1",
+        "fr": "croissance",
+        "en": "growth"
+      },
+      {
+        "id": "remote-economy-fren-2",
+        "fr": "inflation",
+        "en": "inflation"
+      },
+      {
+        "id": "remote-economy-fren-3",
+        "fr": "chômage",
+        "en": "unemployment"
+      },
+      {
+        "id": "remote-economy-fren-4",
+        "fr": "marché",
+        "en": "market"
+      },
+      {
+        "id": "remote-economy-fren-5",
+        "fr": "investissement",
+        "en": "investment"
+      },
+      {
+        "id": "remote-economy-fren-6",
+        "fr": "PIB",
+        "en": "GDP"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-economy-aloud-1",
+        "fr": "Si l’inflation persistait, le pouvoir d’achat reculerait encore davantage.",
+        "en": "If inflation persisted, purchasing power would fall even further.",
+        "ipa": "si lɛ̃.fla.sjɔ̃ pɛʁ.sis.tɛ lə pu.vwaʁ da.ʃa ʁə.ky.lə.ʁɛ ɑ̃.kɔʁ da.vɑ̃.taʒ"
+      },
+      {
+        "id": "remote-economy-aloud-2",
+        "fr": "Il est souhaitable que l’investissement public cible les secteurs d’avenir.",
+        "en": "It is desirable that public investment target future-oriented sectors.",
+        "ipa": "il ɛ su.ɛ.tabl kə lɛ̃.vɛs.tis.mɑ̃ py.blik sib lə sɛk.tœʁ da.və.niʁ"
+      },
+      {
+        "id": "remote-economy-aloud-3",
+        "fr": "Bien que le PIB ait légèrement progressé, beaucoup de ménages ne le ressentent pas.",
+        "en": "Although GDP has risen slightly, many households do not feel it.",
+        "ipa": "bjɛ̃ kə lə pe.i.be ɛ le.ʒɛʁ.mɑ̃ pʁɔ.ɡʁe.se bo.ku də me.naʒ nə lə ʁə.sɑ̃ pa"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-economy-unsc-1",
+        "fr": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+        "en": "Inflation is weighing on purchasing power, especially for modest households.",
+        "words": [
+          "L’inflation",
+          "pèse",
+          "sur",
+          "le",
+          "pouvoir",
+          "d’achat,",
+          "surtout",
+          "pour",
+          "les",
+          "ménages",
+          "modestes."
+        ]
+      },
+      {
+        "id": "remote-economy-unsc-2",
+        "fr": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+        "en": "Youth unemployment remains higher than the national average.",
+        "words": [
+          "Le",
+          "chômage",
+          "des",
+          "jeunes",
+          "demeure",
+          "plus",
+          "élevé",
+          "que",
+          "la",
+          "moyenne",
+          "nationale."
+        ]
+      }
+    ]
+  }
+}
