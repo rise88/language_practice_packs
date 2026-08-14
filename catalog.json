@@ -1,6 +1,6 @@
 {
   "pratiquePacks": 1,
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "packs": [
     {
       "id": "food-a1",
@@ -39,6 +39,42 @@
       "url": "./family-a1.json"
     },
     {
+      "id": "school-a1",
+      "version": 1,
+      "level": "a1",
+      "title": { "fr": "École A1", "en": "School A1" },
+      "description": {
+        "fr": "Classe, matériel scolaire et vie à l’école pour débutants.",
+        "en": "Classroom, school supplies, and everyday school life for beginners."
+      },
+      "cardCount": 20,
+      "url": "./school-a1.json"
+    },
+    {
+      "id": "weather-a1",
+      "version": 1,
+      "level": "a1",
+      "title": { "fr": "Météo A1", "en": "Weather A1" },
+      "description": {
+        "fr": "Soleil, pluie, saisons et expressions simples sur le temps qu’il fait.",
+        "en": "Sun, rain, seasons, and simple expressions about the weather."
+      },
+      "cardCount": 20,
+      "url": "./weather-a1.json"
+    },
+    {
+      "id": "animals-a1",
+      "version": 1,
+      "level": "a1",
+      "title": { "fr": "Animaux A1", "en": "Animals A1" },
+      "description": {
+        "fr": "Animaux domestiques, de la ferme et de la nature pour débutants.",
+        "en": "Pets, farm animals, and wildlife vocabulary for beginners."
+      },
+      "cardCount": 20,
+      "url": "./animals-a1.json"
+    },
+    {
       "id": "travel-a2",
       "version": 3,
       "level": "a2",
@@ -73,6 +109,30 @@
       },
       "cardCount": 20,
       "url": "./health-a2.json"
+    },
+    {
+      "id": "restaurant-a2",
+      "version": 1,
+      "level": "a2",
+      "title": { "fr": "Restaurant A2", "en": "Restaurant A2" },
+      "description": {
+        "fr": "Commander, réserver et manger au restaurant avec confiance.",
+        "en": "Order, book a table, and dine out with confidence."
+      },
+      "cardCount": 20,
+      "url": "./restaurant-a2.json"
+    },
+    {
+      "id": "hobbies-a2",
+      "version": 1,
+      "level": "a2",
+      "title": { "fr": "Loisirs A2", "en": "Hobbies A2" },
+      "description": {
+        "fr": "Sports, musique, lecture et activités de temps libre.",
+        "en": "Sports, music, reading, and free-time activities."
+      },
+      "cardCount": 20,
+      "url": "./hobbies-a2.json"
     }
   ]
 }
