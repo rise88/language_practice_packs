@@ -6,7 +6,10 @@
       "id": "food-a1",
       "version": 3,
       "level": "a1",
-      "title": { "fr": "Nourriture A1", "en": "Food A1" },
+      "title": {
+        "fr": "Nourriture A1",
+        "en": "Food A1"
+      },
       "description": {
         "fr": "Café, marché et repas du quotidien pour débutants.",
         "en": "Café, market, and everyday meals for beginners."
@@ -18,7 +21,10 @@
       "id": "home-a1",
       "version": 2,
       "level": "a1",
-      "title": { "fr": "Maison A1", "en": "Home A1" },
+      "title": {
+        "fr": "Maison A1",
+        "en": "Home A1"
+      },
       "description": {
         "fr": "Pièces, meubles et objets du quotidien à la maison.",
         "en": "Rooms, furniture, and everyday objects at home."
@@ -30,7 +36,10 @@
       "id": "family-a1",
       "version": 2,
       "level": "a1",
-      "title": { "fr": "Famille A1", "en": "Family A1" },
+      "title": {
+        "fr": "Famille A1",
+        "en": "Family A1"
+      },
       "description": {
         "fr": "Personnes de la famille et mots simples pour se présenter.",
         "en": "Family members and simple words to introduce people."
@@ -42,7 +51,10 @@
       "id": "school-a1",
       "version": 1,
       "level": "a1",
-      "title": { "fr": "École A1", "en": "School A1" },
+      "title": {
+        "fr": "École A1",
+        "en": "School A1"
+      },
       "description": {
         "fr": "Classe, matériel scolaire et vie à l’école pour débutants.",
         "en": "Classroom, school supplies, and everyday school life for beginners."
@@ -54,7 +66,10 @@
       "id": "weather-a1",
       "version": 1,
       "level": "a1",
-      "title": { "fr": "Météo A1", "en": "Weather A1" },
+      "title": {
+        "fr": "Météo A1",
+        "en": "Weather A1"
+      },
       "description": {
         "fr": "Soleil, pluie, saisons et expressions simples sur le temps qu’il fait.",
         "en": "Sun, rain, seasons, and simple expressions about the weather."
@@ -66,7 +81,10 @@
       "id": "animals-a1",
       "version": 1,
       "level": "a1",
-      "title": { "fr": "Animaux A1", "en": "Animals A1" },
+      "title": {
+        "fr": "Animaux A1",
+        "en": "Animals A1"
+      },
       "description": {
         "fr": "Animaux domestiques, de la ferme et de la nature pour débutants.",
         "en": "Pets, farm animals, and wildlife vocabulary for beginners."
@@ -75,10 +93,73 @@
       "url": "./animals-a1.json"
     },
     {
+      "id": "clothes-a1",
+      "version": 1,
+      "level": "a1",
+      "title": {
+        "fr": "Vêtements A1",
+        "en": "Clothes A1"
+      },
+      "description": {
+        "fr": "Habits, couleurs et expressions simples pour s’habiller au quotidien.",
+        "en": "Clothes, colors, and simple phrases for getting dressed every day."
+      },
+      "cardCount": 20,
+      "url": "./clothes-a1.json"
+    },
+    {
+      "id": "time-a1",
+      "version": 1,
+      "level": "a1",
+      "title": {
+        "fr": "L’heure A1",
+        "en": "Time A1"
+      },
+      "description": {
+        "fr": "Heures, jours et moments de la journée pour débutants.",
+        "en": "Hours, days, and times of day for beginners."
+      },
+      "cardCount": 20,
+      "url": "./time-a1.json"
+    },
+    {
+      "id": "city-a1",
+      "version": 1,
+      "level": "a1",
+      "title": {
+        "fr": "En ville A1",
+        "en": "In town A1"
+      },
+      "description": {
+        "fr": "Lieux de la ville et phrases simples pour se déplacer.",
+        "en": "Town places and simple phrases for getting around."
+      },
+      "cardCount": 20,
+      "url": "./city-a1.json"
+    },
+    {
+      "id": "daily-a1",
+      "version": 1,
+      "level": "a1",
+      "title": {
+        "fr": "Routine A1",
+        "en": "Daily routine A1"
+      },
+      "description": {
+        "fr": "Levers, repas et habitudes simples de la journée.",
+        "en": "Getting up, meals, and simple daily habits."
+      },
+      "cardCount": 20,
+      "url": "./daily-a1.json"
+    },
+    {
       "id": "travel-a2",
       "version": 3,
       "level": "a2",
-      "title": { "fr": "Voyage A2", "en": "Travel A2" },
+      "title": {
+        "fr": "Voyage A2",
+        "en": "Travel A2"
+      },
       "description": {
         "fr": "Train, hôtel, aéroport et ville pour voyager en confiance.",
         "en": "Train, hotel, airport, and town vocabulary for confident travel."
@@ -90,7 +171,10 @@
       "id": "shopping-a2",
       "version": 2,
       "level": "a2",
-      "title": { "fr": "Courses A2", "en": "Shopping A2" },
+      "title": {
+        "fr": "Courses A2",
+        "en": "Shopping A2"
+      },
       "description": {
         "fr": "Magasins, prix et expressions utiles pour faire les courses.",
         "en": "Shops, prices, and useful phrases for shopping."
@@ -102,7 +186,10 @@
       "id": "health-a2",
       "version": 2,
       "level": "a2",
-      "title": { "fr": "Santé A2", "en": "Health A2" },
+      "title": {
+        "fr": "Santé A2",
+        "en": "Health A2"
+      },
       "description": {
         "fr": "Symptômes, pharmacie et rendez-vous chez le médecin.",
         "en": "Symptoms, pharmacy, and doctor’s appointment vocabulary."
@@ -114,7 +201,10 @@
       "id": "restaurant-a2",
       "version": 1,
       "level": "a2",
-      "title": { "fr": "Restaurant A2", "en": "Restaurant A2" },
+      "title": {
+        "fr": "Restaurant A2",
+        "en": "Restaurant A2"
+      },
       "description": {
         "fr": "Commander, réserver et manger au restaurant avec confiance.",
         "en": "Order, book a table, and dine out with confidence."
@@ -126,13 +216,691 @@
       "id": "hobbies-a2",
       "version": 1,
       "level": "a2",
-      "title": { "fr": "Loisirs A2", "en": "Hobbies A2" },
+      "title": {
+        "fr": "Loisirs A2",
+        "en": "Hobbies A2"
+      },
       "description": {
         "fr": "Sports, musique, lecture et activités de temps libre.",
         "en": "Sports, music, reading, and free-time activities."
       },
       "cardCount": 20,
       "url": "./hobbies-a2.json"
+    },
+    {
+      "id": "work-a2",
+      "version": 1,
+      "level": "a2",
+      "title": {
+        "fr": "Travail A2",
+        "en": "Work A2"
+      },
+      "description": {
+        "fr": "Bureau, collègues et phrases utiles pour parler du travail.",
+        "en": "Office, colleagues, and useful phrases for talking about work."
+      },
+      "cardCount": 20,
+      "url": "./work-a2.json"
+    },
+    {
+      "id": "directions-a2",
+      "version": 1,
+      "level": "a2",
+      "title": {
+        "fr": "Itinéraire A2",
+        "en": "Directions A2"
+      },
+      "description": {
+        "fr": "Demander et indiquer le chemin en ville avec confiance.",
+        "en": "Ask for and give directions in town with confidence."
+      },
+      "cardCount": 20,
+      "url": "./directions-a2.json"
+    },
+    {
+      "id": "housing-a2",
+      "version": 1,
+      "level": "a2",
+      "title": {
+        "fr": "Logement A2",
+        "en": "Housing A2"
+      },
+      "description": {
+        "fr": "Louer, emménager et parler de son appartement.",
+        "en": "Renting, moving in, and talking about your flat."
+      },
+      "cardCount": 20,
+      "url": "./housing-a2.json"
+    },
+    {
+      "id": "phone-a2",
+      "version": 1,
+      "level": "a2",
+      "title": {
+        "fr": "Téléphone A2",
+        "en": "Phone A2"
+      },
+      "description": {
+        "fr": "Appels, messages et internet au quotidien.",
+        "en": "Calls, messages, and everyday internet use."
+      },
+      "cardCount": 20,
+      "url": "./phone-a2.json"
+    },
+    {
+      "id": "celebrations-a2",
+      "version": 1,
+      "level": "a2",
+      "title": {
+        "fr": "Fêtes A2",
+        "en": "Celebrations A2"
+      },
+      "description": {
+        "fr": "Anniversaires, fêtes et invitations pour la vie sociale.",
+        "en": "Birthdays, holidays, and invitations for social life."
+      },
+      "cardCount": 20,
+      "url": "./celebrations-a2.json"
+    },
+    {
+      "id": "environment-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Environnement B1",
+        "en": "Environment B1"
+      },
+      "description": {
+        "fr": "Pollution, tri et gestes écologiques pour donner son avis au quotidien.",
+        "en": "Pollution, recycling, and everyday eco habits for giving an opinion."
+      },
+      "cardCount": 20,
+      "url": "./environment-b1.json"
+    },
+    {
+      "id": "education-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Études B1",
+        "en": "Studies B1"
+      },
+      "description": {
+        "fr": "Cours, examens et orientation pour parler de son parcours scolaire.",
+        "en": "Courses, exams, and guidance for talking about your studies."
+      },
+      "cardCount": 20,
+      "url": "./education-b1.json"
+    },
+    {
+      "id": "relationships-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Relations B1",
+        "en": "Relationships B1"
+      },
+      "description": {
+        "fr": "Amitié, couple et conflits pour parler des relations avec nuance.",
+        "en": "Friendship, couple life, and conflict — talking about relationships with nuance."
+      },
+      "cardCount": 20,
+      "url": "./relationships-b1.json"
+    },
+    {
+      "id": "money-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Argent B1",
+        "en": "Money B1"
+      },
+      "description": {
+        "fr": "Banque, budget et paiements pour gérer l’argent au quotidien.",
+        "en": "Banking, budgets, and payments for everyday money matters."
+      },
+      "cardCount": 20,
+      "url": "./money-b1.json"
+    },
+    {
+      "id": "technology-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Technologie B1",
+        "en": "Technology B1"
+      },
+      "description": {
+        "fr": "Outils numériques, réseaux et problèmes techniques du quotidien.",
+        "en": "Digital tools, networks, and everyday tech problems."
+      },
+      "cardCount": 20,
+      "url": "./technology-b1.json"
+    },
+    {
+      "id": "news-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Actualités B1",
+        "en": "News B1"
+      },
+      "description": {
+        "fr": "Titres, sources et débats pour parler de l’actualité avec un avis.",
+        "en": "Headlines, sources, and debate for talking about the news with an opinion."
+      },
+      "cardCount": 20,
+      "url": "./news-b1.json"
+    },
+    {
+      "id": "culture-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Culture B1",
+        "en": "Culture B1"
+      },
+      "description": {
+        "fr": "Spectacles, musées et sorties pour parler de la vie culturelle.",
+        "en": "Shows, museums, and nights out for talking about cultural life."
+      },
+      "cardCount": 20,
+      "url": "./culture-b1.json"
+    },
+    {
+      "id": "opinions-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Avis B1",
+        "en": "Opinions B1"
+      },
+      "description": {
+        "fr": "Accord, désaccord et nuances pour donner son avis clairement.",
+        "en": "Agreement, disagreement, and nuance for giving a clear opinion."
+      },
+      "cardCount": 20,
+      "url": "./opinions-b1.json"
+    },
+    {
+      "id": "nature-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Nature B1",
+        "en": "Nature B1"
+      },
+      "description": {
+        "fr": "Paysages, randonnée et plein air pour raconter une sortie en nature.",
+        "en": "Landscapes, hiking, and the outdoors for narrating a trip in nature."
+      },
+      "cardCount": 20,
+      "url": "./nature-b1.json"
+    },
+    {
+      "id": "admin-b1",
+      "version": 1,
+      "level": "b1",
+      "title": {
+        "fr": "Démarches B1",
+        "en": "Admin B1"
+      },
+      "description": {
+        "fr": "Papiers, rendez-vous et formulaires pour les démarches du quotidien.",
+        "en": "Paperwork, appointments, and forms for everyday administration."
+      },
+      "cardCount": 20,
+      "url": "./admin-b1.json"
+    },
+    {
+      "id": "workplace-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Vie professionnelle B2",
+        "en": "Workplace B2"
+      },
+      "description": {
+        "fr": "Réunions, carrière, hiérarchie, télétravail et évaluation de la performance.",
+        "en": "Meetings, career, hierarchy, remote work, and performance reviews."
+      },
+      "cardCount": 20,
+      "url": "./workplace-b2.json"
+    },
+    {
+      "id": "media-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Médias et information B2",
+        "en": "Media and news B2"
+      },
+      "description": {
+        "fr": "Presse, biais, sources, titres et débats sur les réseaux sociaux.",
+        "en": "Press, bias, sources, headlines, and debate on social media."
+      },
+      "cardCount": 20,
+      "url": "./media-b2.json"
+    },
+    {
+      "id": "politics-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Politique et citoyenneté B2",
+        "en": "Politics and citizenship B2"
+      },
+      "description": {
+        "fr": "Élections, institutions, devoir civique, contestation et représentation.",
+        "en": "Elections, institutions, civic duty, protest, and representation."
+      },
+      "cardCount": 20,
+      "url": "./politics-b2.json"
+    },
+    {
+      "id": "science-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Sciences B2",
+        "en": "Science B2"
+      },
+      "description": {
+        "fr": "Recherche, expérience, hypothèse, preuves et travail de laboratoire.",
+        "en": "Research, experiments, hypotheses, evidence, and lab work."
+      },
+      "cardCount": 20,
+      "url": "./science-b2.json"
+    },
+    {
+      "id": "economy-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Économie B2",
+        "en": "Economy B2"
+      },
+      "description": {
+        "fr": "Croissance, inflation, chômage, marchés et investissement.",
+        "en": "Growth, inflation, unemployment, markets, and investment."
+      },
+      "cardCount": 20,
+      "url": "./economy-b2.json"
+    },
+    {
+      "id": "law-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Droit et justice B2",
+        "en": "Law and justice B2"
+      },
+      "description": {
+        "fr": "Procès, droits, avocats, verdicts et législation.",
+        "en": "Trials, rights, lawyers, verdicts, and legislation."
+      },
+      "cardCount": 20,
+      "url": "./law-b2.json"
+    },
+    {
+      "id": "climate-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Climat et énergie B2",
+        "en": "Climate and energy B2"
+      },
+      "description": {
+        "fr": "Émissions, énergies renouvelables, sécheresse et politiques climatiques.",
+        "en": "Emissions, renewable energy, drought, and climate policy."
+      },
+      "cardCount": 20,
+      "url": "./climate-b2.json"
+    },
+    {
+      "id": "psychology-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Psychologie B2",
+        "en": "Psychology B2"
+      },
+      "description": {
+        "fr": "Émotions, comportement, stress, thérapie et biais cognitifs.",
+        "en": "Emotion, behaviour, stress, therapy, and cognitive bias."
+      },
+      "cardCount": 20,
+      "url": "./psychology-b2.json"
+    },
+    {
+      "id": "arts-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Arts et cinéma B2",
+        "en": "Arts and film B2"
+      },
+      "description": {
+        "fr": "Cinéma, critique, expositions, récit et questions d’esthétique.",
+        "en": "Film, criticism, exhibitions, narrative, and aesthetic questions."
+      },
+      "cardCount": 20,
+      "url": "./arts-b2.json"
+    },
+    {
+      "id": "debate-b2",
+      "version": 1,
+      "level": "b2",
+      "title": {
+        "fr": "Argumentation B2",
+        "en": "Argumentation B2"
+      },
+      "description": {
+        "fr": "Thèse, contre-argument, nuance, concession et recours à la preuve.",
+        "en": "Claims, counterarguments, nuance, concession, and evidence."
+      },
+      "cardCount": 20,
+      "url": "./debate-b2.json"
+    },
+    {
+      "id": "academic-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Discours académique C1",
+        "en": "Academic discourse C1"
+      },
+      "description": {
+        "fr": "Thèse, méthodologie, citation, résumé et relecture par les pairs.",
+        "en": "Thesis, methodology, citation, abstract, and peer review."
+      },
+      "cardCount": 20,
+      "url": "./academic-c1.json"
+    },
+    {
+      "id": "diplomacy-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Relations internationales C1",
+        "en": "International relations C1"
+      },
+      "description": {
+        "fr": "Négociation, traité, souveraineté, multilatéralisme et diplomatie d’envoyés.",
+        "en": "Negotiation, treaties, sovereignty, multilateralism, and envoy diplomacy."
+      },
+      "cardCount": 20,
+      "url": "./diplomacy-c1.json"
+    },
+    {
+      "id": "philosophy-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Philosophie C1",
+        "en": "Philosophy C1"
+      },
+      "description": {
+        "fr": "Concept, prémisse, paradoxe, éthique et métaphysique.",
+        "en": "Concept, premise, paradox, ethics, and metaphysics."
+      },
+      "cardCount": 20,
+      "url": "./philosophy-c1.json"
+    },
+    {
+      "id": "sustainability-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Transition écologique C1",
+        "en": "Ecological transition C1"
+      },
+      "description": {
+        "fr": "Décarbonation, économie circulaire, biodiversité et externalités.",
+        "en": "Decarbonization, circular economy, biodiversity, and externalities."
+      },
+      "cardCount": 20,
+      "url": "./sustainability-c1.json"
+    },
+    {
+      "id": "ethics-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Éthique C1",
+        "en": "Ethics C1"
+      },
+      "description": {
+        "fr": "Consentement, dilemme, responsabilité, intégrité et lanceurs d’alerte.",
+        "en": "Consent, dilemmas, responsibility, integrity, and whistleblowing."
+      },
+      "cardCount": 20,
+      "url": "./ethics-c1.json"
+    },
+    {
+      "id": "innovation-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Innovation et recherche C1",
+        "en": "Innovation and research C1"
+      },
+      "description": {
+        "fr": "Disruption, prototype, brevet, passage à l’échelle et recherche-développement.",
+        "en": "Disruption, prototypes, patents, scaling, and R&D."
+      },
+      "cardCount": 20,
+      "url": "./innovation-c1.json"
+    },
+    {
+      "id": "society-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Enjeux sociaux C1",
+        "en": "Social issues C1"
+      },
+      "description": {
+        "fr": "Inégalités, inclusion, polarisation, État-providence et stigmates.",
+        "en": "Inequality, inclusion, polarization, welfare, and stigma."
+      },
+      "cardCount": 20,
+      "url": "./society-c1.json"
+    },
+    {
+      "id": "contemporary-arts-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Arts contemporains C1",
+        "en": "Contemporary arts C1"
+      },
+      "description": {
+        "fr": "Installation, commissariat, canon, appropriation et réception.",
+        "en": "Installation, curating, canon, appropriation, and reception."
+      },
+      "cardCount": 20,
+      "url": "./contemporary-arts-c1.json"
+    },
+    {
+      "id": "linguistics-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Langue et discours C1",
+        "en": "Language and discourse C1"
+      },
+      "description": {
+        "fr": "Registre, implicature, pragmatique, marqueurs discursifs et actes de langage.",
+        "en": "Register, implicature, pragmatics, discourse markers, and speech acts."
+      },
+      "cardCount": 20,
+      "url": "./linguistics-c1.json"
+    },
+    {
+      "id": "journalism-c1",
+      "version": 1,
+      "level": "c1",
+      "title": {
+        "fr": "Journalisme C1",
+        "en": "Journalism C1"
+      },
+      "description": {
+        "fr": "Investigation, protection des sources, cadrage, éditorial et vérification des faits.",
+        "en": "Investigation, source protection, framing, editorials, and fact-checking."
+      },
+      "cardCount": 20,
+      "url": "./journalism-c1.json"
+    },
+    {
+      "id": "rhetoric-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Rhétorique C2",
+        "en": "Rhetoric C2"
+      },
+      "description": {
+        "fr": "Tropes, preuves oratoires et figures de construction pour l’analyse du discours savant.",
+        "en": "Tropes, oratorical proofs, and figures of construction for analysing learned discourse."
+      },
+      "cardCount": 20,
+      "url": "./rhetoric-c2.json"
+    },
+    {
+      "id": "literary-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Analyse littéraire C2",
+        "en": "Literary analysis C2"
+      },
+      "description": {
+        "fr": "Focalisation, diégèse et intertextualité pour une lecture immanente des textes.",
+        "en": "Focalization, diegesis, and intertextuality for immanent close reading of texts."
+      },
+      "cardCount": 20,
+      "url": "./literary-c2.json"
+    },
+    {
+      "id": "geopolitics-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Géopolitique C2",
+        "en": "Geopolitics C2"
+      },
+      "description": {
+        "fr": "Hégémonie, dissuasion et multipolarité pour lire les rapports de puissance.",
+        "en": "Hegemony, deterrence, and multipolarity for reading power relations."
+      },
+      "cardCount": 20,
+      "url": "./geopolitics-c2.json"
+    },
+    {
+      "id": "epistemology-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Épistémologie C2",
+        "en": "Epistemology C2"
+      },
+      "description": {
+        "fr": "Justification, falsifiabilité et paradigmes pour penser les conditions du savoir.",
+        "en": "Justification, falsifiability, and paradigms for thinking the conditions of knowledge."
+      },
+      "cardCount": 20,
+      "url": "./epistemology-c2.json"
+    },
+    {
+      "id": "satire-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Ironie et satire C2",
+        "en": "Irony and satire C2"
+      },
+      "description": {
+        "fr": "Méiose, parodie, invective et pastiche pour démêler les régimes du second degré.",
+        "en": "Understatement, parody, invective, and pastiche for untangling second-degree regimes."
+      },
+      "cardCount": 20,
+      "url": "./satire-c2.json"
+    },
+    {
+      "id": "identity-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Identité et altérité C2",
+        "en": "Identity and otherness C2"
+      },
+      "description": {
+        "fr": "Altérité, hybridité et reconnaissance pour penser l’appartenance et la diaspora.",
+        "en": "Otherness, hybridity, and recognition for thinking belonging and diaspora."
+      },
+      "cardCount": 20,
+      "url": "./identity-c2.json"
+    },
+    {
+      "id": "aesthetics-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Esthétique C2",
+        "en": "Aesthetics C2"
+      },
+      "description": {
+        "fr": "Sublime, mimèsis, goût et aura pour une critique des régimes du sensible.",
+        "en": "The sublime, mimesis, taste, and aura for a critique of regimes of the sensible."
+      },
+      "cardCount": 20,
+      "url": "./aesthetics-c2.json"
+    },
+    {
+      "id": "rights-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Droits fondamentaux C2",
+        "en": "Fundamental rights C2"
+      },
+      "description": {
+        "fr": "Habeas corpus, proportionnalité et dignité pour lire la jurisprudence des libertés.",
+        "en": "Habeas corpus, proportionality, and dignity for reading the case law of liberties."
+      },
+      "cardCount": 20,
+      "url": "./rights-c2.json"
+    },
+    {
+      "id": "science-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Savoir scientifique C2",
+        "en": "Scientific knowledge C2"
+      },
+      "description": {
+        "fr": "Incommensurabilité, réplication et modèles pour une épistémologie des sciences en acte.",
+        "en": "Incommensurability, replication, and models for an epistemology of science in practice."
+      },
+      "cardCount": 20,
+      "url": "./science-c2.json"
+    },
+    {
+      "id": "register-c2",
+      "version": 1,
+      "level": "c2",
+      "title": {
+        "fr": "Registres et nuances C2",
+        "en": "Registers and nuances C2"
+      },
+      "description": {
+        "fr": "Connotation, euphémisme, litote et sociolecte pour une pragmatique de l’énonciation.",
+        "en": "Connotation, euphemism, litotes, and sociolect for a pragmatics of utterance."
+      },
+      "cardCount": 20,
+      "url": "./register-c2.json"
     }
   ]
 }

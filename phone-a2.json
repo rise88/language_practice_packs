@@ -1,0 +1,544 @@
+{
+  "pratiquePack": 1,
+  "id": "phone-a2",
+  "version": 1,
+  "level": "a2",
+  "title": {
+    "fr": "Téléphone A2",
+    "en": "Phone A2"
+  },
+  "description": {
+    "fr": "Appels, messages et internet au quotidien.",
+    "en": "Calls, messages, and everyday internet use."
+  },
+  "seed": [
+    {
+      "id": "remote-phone-a2-1",
+      "fr": "téléphone",
+      "en": "phone",
+      "example": "Mon téléphone est déchargé.",
+      "ipa": "te.le.fɔn",
+      "article": "le"
+    },
+    {
+      "id": "remote-phone-a2-2",
+      "fr": "appel",
+      "en": "call",
+      "example": "J’ai raté un appel.",
+      "ipa": "a.pɛl",
+      "article": "l'"
+    },
+    {
+      "id": "remote-phone-a2-3",
+      "fr": "message",
+      "en": "message",
+      "example": "Je t’envoie un message.",
+      "ipa": "me.saʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-phone-a2-4",
+      "fr": "numéro",
+      "en": "number",
+      "example": "Quel est ton numéro ?",
+      "ipa": "ny.me.ʁo",
+      "article": "le"
+    },
+    {
+      "id": "remote-phone-a2-5",
+      "fr": "réseau",
+      "en": "network / signal",
+      "example": "Il n’y a pas de réseau ici.",
+      "ipa": "ʁe.zo",
+      "article": "le"
+    },
+    {
+      "id": "remote-phone-a2-6",
+      "fr": "wifi",
+      "en": "Wi-Fi",
+      "example": "Le wifi est gratuit.",
+      "ipa": "wi.fi",
+      "article": "le"
+    },
+    {
+      "id": "remote-phone-a2-7",
+      "fr": "batterie",
+      "en": "battery",
+      "example": "La batterie est presque vide.",
+      "ipa": "ba.tʁi",
+      "article": "la"
+    },
+    {
+      "id": "remote-phone-a2-8",
+      "fr": "chargeur",
+      "en": "charger",
+      "example": "J’ai oublié mon chargeur.",
+      "ipa": "ʃaʁ.ʒœʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-phone-a2-9",
+      "fr": "écran",
+      "en": "screen",
+      "example": "L’écran est cassé.",
+      "ipa": "e.kʁɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-phone-a2-10",
+      "fr": "application",
+      "en": "app",
+      "example": "J’ouvre une application de cartes.",
+      "ipa": "a.pli.ka.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-phone-a2-11",
+      "fr": "mot de passe",
+      "en": "password",
+      "example": "J’ai oublié mon mot de passe.",
+      "ipa": "mo də pas",
+      "article": "le"
+    },
+    {
+      "id": "remote-phone-a2-12",
+      "fr": "compte",
+      "en": "account",
+      "example": "Je crée un compte.",
+      "ipa": "kɔ̃t",
+      "article": "le"
+    },
+    {
+      "id": "remote-phone-a2-13",
+      "fr": "photo",
+      "en": "photo",
+      "example": "Je t’envoie une photo.",
+      "ipa": "fɔ.to",
+      "article": "la"
+    },
+    {
+      "id": "remote-phone-a2-14",
+      "fr": "vidéo",
+      "en": "video",
+      "example": "On regarde une vidéo.",
+      "ipa": "vi.de.o",
+      "article": "la"
+    },
+    {
+      "id": "remote-phone-a2-15",
+      "fr": "notification",
+      "en": "notification",
+      "example": "J’ai trop de notifications.",
+      "ipa": "nɔ.ti.fi.ka.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-phone-a2-16",
+      "fr": "messagerie",
+      "en": "voicemail / messaging",
+      "example": "Laissez un message sur la messagerie.",
+      "ipa": "me.saʒ.ʁi",
+      "article": "la"
+    },
+    {
+      "id": "remote-phone-a2-17",
+      "fr": "forfait",
+      "en": "phone plan",
+      "example": "Mon forfait inclut les données.",
+      "ipa": "fɔʁ.fɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-phone-a2-18",
+      "fr": "données",
+      "en": "mobile data",
+      "example": "Je n’ai plus de données.",
+      "ipa": "dɔ.ne",
+      "article": "les"
+    },
+    {
+      "id": "remote-phone-a2-19",
+      "fr": "sonnerie",
+      "en": "ringtone / ringing",
+      "example": "Je ne reconnais pas cette sonnerie.",
+      "ipa": "sɔn.ʁi",
+      "article": "la"
+    },
+    {
+      "id": "remote-phone-a2-20",
+      "fr": "contact",
+      "en": "contact",
+      "example": "J’ajoute son numéro dans mes contacts.",
+      "ipa": "kɔ̃.takt",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-phone-phrase-1",
+      "fr": "Allô, je voudrais parler à Marie.",
+      "en": "Hello, I’d like to speak to Marie.",
+      "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi"
+    },
+    {
+      "id": "remote-phone-phrase-2",
+      "fr": "Je te rappelle dans cinq minutes.",
+      "en": "I’ll call you back in five minutes.",
+      "ipa": "ʒə tə ʁa.pɛl dɑ̃ sɛ̃ mi.nyt"
+    },
+    {
+      "id": "remote-phone-phrase-3",
+      "fr": "Il n’y a pas de réseau ici.",
+      "en": "There’s no signal here.",
+      "ipa": "il nja pa də ʁe.zo i.si"
+    },
+    {
+      "id": "remote-phone-phrase-4",
+      "fr": "Tu peux m’envoyer un message ?",
+      "en": "Can you send me a message?",
+      "ipa": "ty pø mɑ̃.vwa.je œ̃ me.saʒ"
+    },
+    {
+      "id": "remote-phone-phrase-5",
+      "fr": "J’ai oublié mon mot de passe.",
+      "en": "I’ve forgotten my password.",
+      "ipa": "ʒe u.bli.je mɔ̃ mo də pas"
+    },
+    {
+      "id": "remote-phone-phrase-6",
+      "fr": "Le wifi ne marche pas.",
+      "en": "The Wi-Fi isn’t working.",
+      "ipa": "lə wi.fi nə maʁʃ pa"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-phone-listen-1",
+      "fr": "Allô, je voudrais parler à Marie, s’il vous plaît.",
+      "en": "Hello, I’d like to speak to Marie, please.",
+      "word": "Allô",
+      "wordEn": "hello (phone)",
+      "wordIpa": "a.lo",
+      "distractors": [
+        "Salut",
+        "Merci",
+        "Bonjour"
+      ]
+    },
+    {
+      "id": "remote-phone-listen-2",
+      "fr": "Il n’y a pas de réseau dans le métro.",
+      "en": "There’s no signal on the metro.",
+      "word": "réseau",
+      "wordEn": "signal",
+      "wordIpa": "ʁe.zo",
+      "distractors": [
+        "wifi",
+        "forfait",
+        "écran"
+      ]
+    },
+    {
+      "id": "remote-phone-listen-3",
+      "fr": "J’ai oublié mon chargeur à la maison.",
+      "en": "I forgot my charger at home.",
+      "word": "chargeur",
+      "wordEn": "charger",
+      "wordIpa": "ʃaʁ.ʒœʁ",
+      "distractors": [
+        "batterie",
+        "écran",
+        "téléphone"
+      ]
+    },
+    {
+      "id": "remote-phone-listen-4",
+      "fr": "Le wifi ne marche pas dans cette salle.",
+      "en": "The Wi-Fi isn’t working in this room.",
+      "word": "wifi",
+      "wordEn": "Wi-Fi",
+      "wordIpa": "wi.fi",
+      "distractors": [
+        "données",
+        "forfait",
+        "compte"
+      ]
+    }
+  ],
+  "prompts": [
+    "Que dis-tu quand tu appelles un ami ?",
+    "Décris un problème avec ton téléphone.",
+    "Tu préfères appeler ou envoyer un message ? Pourquoi ?",
+    "Explique comment te connecter au wifi."
+  ],
+  "grammar": [
+    {
+      "id": "remote-phone-grammar-1",
+      "title": {
+        "fr": "Pouvoir / vouloir au téléphone",
+        "en": "Pouvoir and vouloir on the phone"
+      },
+      "rule": "Pouvoir et vouloir sont très utiles : Tu peux me rappeler ? Je voudrais parler à… Formes : je peux, tu peux, il peut ; je veux / je voudrais (plus poli).",
+      "table": [
+        [
+          "Verbe",
+          "Présent",
+          "Exemple"
+        ],
+        [
+          "pouvoir",
+          "je peux / tu peux",
+          "Tu peux m’envoyer un message ?"
+        ],
+        [
+          "vouloir",
+          "je veux",
+          "Je veux un nouveau forfait."
+        ],
+        [
+          "je voudrais",
+          "poli",
+          "Je voudrais parler au directeur."
+        ],
+        [
+          "rappeler",
+          "call back",
+          "Je te rappelle."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-phone-gq-1",
+          "prompt": "Tu ___ me rappeler plus tard ?",
+          "answer": "peux",
+          "options": [
+            "peux",
+            "veux",
+            "dois"
+          ]
+        },
+        {
+          "id": "remote-phone-gq-2",
+          "prompt": "Je ___ parler à Léa.",
+          "answer": "voudrais",
+          "options": [
+            "voudrais",
+            "peux",
+            "marche"
+          ]
+        },
+        {
+          "id": "remote-phone-gq-3",
+          "prompt": "Je te ___ dans cinq minutes.",
+          "answer": "rappelle",
+          "options": [
+            "rappelle",
+            "décroche",
+            "raccroche"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-phone-grammar-2",
+      "title": {
+        "fr": "Ne… pas avec les appareils",
+        "en": "Negation with devices"
+      },
+      "rule": "Ne… pas encadre le verbe : Le wifi ne marche pas. Je n’ai pas de réseau. Devant une voyelle, ne devient n’ : Je n’ai pas.",
+      "table": [
+        [
+          "Phrase",
+          "Négation",
+          "Exemple"
+        ],
+        [
+          "marche",
+          "ne marche pas",
+          "Le wifi ne marche pas."
+        ],
+        [
+          "avoir",
+          "n’ai pas",
+          "Je n’ai pas de données."
+        ],
+        [
+          "pouvoir",
+          "ne peux pas",
+          "Je ne peux pas décrocher."
+        ],
+        [
+          "il y a",
+          "il n’y a pas",
+          "Il n’y a pas de réseau."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-phone-gq-4",
+          "prompt": "Le téléphone ___ marche pas.",
+          "answer": "ne",
+          "options": [
+            "ne",
+            "pas",
+            "n’"
+          ]
+        },
+        {
+          "id": "remote-phone-gq-5",
+          "prompt": "Je ___ pas de réseau.",
+          "answer": "n’ai",
+          "options": [
+            "n’ai",
+            "ne ai",
+            "pas ai"
+          ]
+        },
+        {
+          "id": "remote-phone-gq-6",
+          "prompt": "Il ___ pas de wifi ici.",
+          "answer": "n’y a",
+          "options": [
+            "n’y a",
+            "y a",
+            "n’a"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-phone-dict-1",
+        "fr": "Allô, je voudrais parler à Marie.",
+        "en": "Hello, I’d like to speak to Marie.",
+        "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi"
+      },
+      {
+        "id": "remote-phone-dict-2",
+        "fr": "Je te rappelle dans cinq minutes.",
+        "en": "I’ll call you back in five minutes.",
+        "ipa": "ʒə tə ʁa.pɛl dɑ̃ sɛ̃ mi.nyt"
+      },
+      {
+        "id": "remote-phone-dict-3",
+        "fr": "Il n’y a pas de réseau ici.",
+        "en": "There’s no signal here.",
+        "ipa": "il nja pa də ʁe.zo i.si"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-phone-mean-1",
+        "fr": "Allô, je voudrais parler à Marie.",
+        "en": "Hello, I’d like to speak to Marie.",
+        "choices": [
+          "Hello, I’d like to speak to Marie.",
+          "I’ll call you back in five minutes.",
+          "There’s no signal here."
+        ]
+      },
+      {
+        "id": "remote-phone-mean-2",
+        "fr": "Je te rappelle dans cinq minutes.",
+        "en": "I’ll call you back in five minutes.",
+        "choices": [
+          "I’ll call you back in five minutes.",
+          "Hello, I’d like to speak to Marie.",
+          "There’s no signal here."
+        ]
+      },
+      {
+        "id": "remote-phone-mean-3",
+        "fr": "Il n’y a pas de réseau ici.",
+        "en": "There’s no signal here.",
+        "choices": [
+          "There’s no signal here.",
+          "Hello, I’d like to speak to Marie.",
+          "I’ll call you back in five minutes."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-phone-fren-1",
+        "fr": "téléphone",
+        "en": "phone"
+      },
+      {
+        "id": "remote-phone-fren-2",
+        "fr": "appel",
+        "en": "call"
+      },
+      {
+        "id": "remote-phone-fren-3",
+        "fr": "message",
+        "en": "message"
+      },
+      {
+        "id": "remote-phone-fren-4",
+        "fr": "numéro",
+        "en": "number"
+      },
+      {
+        "id": "remote-phone-fren-5",
+        "fr": "réseau",
+        "en": "network"
+      },
+      {
+        "id": "remote-phone-fren-6",
+        "fr": "wifi",
+        "en": "Wi-Fi"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-phone-aloud-1",
+        "fr": "Allô, je voudrais parler à Marie.",
+        "en": "Hello, I’d like to speak to Marie.",
+        "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi"
+      },
+      {
+        "id": "remote-phone-aloud-2",
+        "fr": "Il n’y a pas de réseau ici.",
+        "en": "There’s no signal here.",
+        "ipa": "il nja pa də ʁe.zo i.si"
+      },
+      {
+        "id": "remote-phone-aloud-3",
+        "fr": "J’ai oublié mon mot de passe.",
+        "en": "I’ve forgotten my password.",
+        "ipa": "ʒe u.bli.je mɔ̃ mo də pas"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-phone-unsc-1",
+        "fr": "Tu peux m’envoyer un message ?",
+        "en": "Can you send me a message?",
+        "words": [
+          "Tu",
+          "peux",
+          "m’envoyer",
+          "un",
+          "message",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-phone-unsc-2",
+        "fr": "J’ai oublié mon mot de passe.",
+        "en": "I’ve forgotten my password.",
+        "words": [
+          "J’ai",
+          "oublié",
+          "mon",
+          "mot",
+          "de",
+          "passe."
+        ]
+      }
+    ]
+  }
+}

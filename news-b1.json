@@ -1,0 +1,536 @@
+{
+  "pratiquePack": 1,
+  "id": "news-b1",
+  "version": 1,
+  "level": "b1",
+  "title": {
+    "fr": "Actualités B1",
+    "en": "News B1"
+  },
+  "description": {
+    "fr": "Titres, sources et débats pour parler de l’actualité avec un avis.",
+    "en": "Headlines, sources, and debate for talking about the news with an opinion."
+  },
+  "seed": [
+    {
+      "id": "remote-news-b1-1",
+      "fr": "actualité",
+      "en": "current events / news",
+      "example": "Je suis l’actualité le matin à la radio.",
+      "ipa": "ak.tɥa.li.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-news-b1-2",
+      "fr": "titre",
+      "en": "headline",
+      "example": "Le titre de l’article est trompeur.",
+      "ipa": "titʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-news-b1-3",
+      "fr": "journal",
+      "en": "newspaper / news programme",
+      "example": "Le journal de vingt heures commence.",
+      "ipa": "ʒuʁ.nal",
+      "article": "le"
+    },
+    {
+      "id": "remote-news-b1-4",
+      "fr": "article",
+      "en": "article",
+      "example": "Cet article présente plusieurs points de vue.",
+      "ipa": "aʁ.tikl",
+      "article": "l'"
+    },
+    {
+      "id": "remote-news-b1-5",
+      "fr": "source",
+      "en": "source",
+      "example": "Il faut vérifier la source avant de partager.",
+      "ipa": "suʁs",
+      "article": "la"
+    },
+    {
+      "id": "remote-news-b1-6",
+      "fr": "journaliste",
+      "en": "journalist",
+      "example": "La journaliste pose une question précise.",
+      "ipa": "ʒuʁ.na.list",
+      "article": "le"
+    },
+    {
+      "id": "remote-news-b1-7",
+      "fr": "interview",
+      "en": "interview",
+      "example": "L’interview a duré vingt minutes.",
+      "ipa": "ɛ̃.tɛʁ.vju",
+      "article": "l'"
+    },
+    {
+      "id": "remote-news-b1-8",
+      "fr": "débat",
+      "en": "debate",
+      "example": "Le débat est devenu trop agressif.",
+      "ipa": "de.ba",
+      "article": "le"
+    },
+    {
+      "id": "remote-news-b1-9",
+      "fr": "rumeur",
+      "en": "rumour",
+      "example": "Cette rumeur circule depuis hier.",
+      "ipa": "ʁy.mœʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-news-b1-10",
+      "fr": "fake news",
+      "en": "fake news",
+      "example": "Les fake news se répandent très vite.",
+      "ipa": "fɛk nuz",
+      "article": "les"
+    },
+    {
+      "id": "remote-news-b1-11",
+      "fr": "direct",
+      "en": "live (broadcast)",
+      "example": "Nous regardons l’émission en direct.",
+      "ipa": "di.ʁɛkt",
+      "article": "le"
+    },
+    {
+      "id": "remote-news-b1-12",
+      "fr": "une",
+      "en": "front page",
+      "example": "L’affaire est à la une ce matin.",
+      "ipa": "yn",
+      "article": "la"
+    },
+    {
+      "id": "remote-news-b1-13",
+      "fr": "sondage",
+      "en": "poll / survey",
+      "example": "Le sondage donne une légère avance.",
+      "ipa": "sɔ̃.daʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-news-b1-14",
+      "fr": "manifestation",
+      "en": "protest / demonstration",
+      "example": "La manifestation a rassemblé des milliers de personnes.",
+      "ipa": "ma.ni.fɛs.ta.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-news-b1-15",
+      "fr": "grève",
+      "en": "strike",
+      "example": "La grève des transports bloque la ville.",
+      "ipa": "ɡʁɛv",
+      "article": "la"
+    },
+    {
+      "id": "remote-news-b1-16",
+      "fr": "catastrophe",
+      "en": "disaster",
+      "example": "La catastrophe a fait plusieurs blessés.",
+      "ipa": "ka.tas.tʁɔf",
+      "article": "la"
+    },
+    {
+      "id": "remote-news-b1-17",
+      "fr": "élection",
+      "en": "election",
+      "example": "Les élections ont lieu dimanche.",
+      "ipa": "e.lɛk.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-news-b1-18",
+      "fr": "gouvernement",
+      "en": "government",
+      "example": "Le gouvernement a annoncé une mesure.",
+      "ipa": "ɡu.vɛʁ.nə.mɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-news-b1-19",
+      "fr": "commentaire",
+      "en": "comment",
+      "example": "Les commentaires sous l’article sont violents.",
+      "ipa": "kɔ.mɑ̃.tɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-news-b1-20",
+      "fr": "rédaction",
+      "en": "newsroom / editorial team",
+      "example": "La rédaction a corrigé l’erreur.",
+      "ipa": "ʁe.dak.sjɔ̃",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-news-phrase-1",
+      "fr": "Tu as vu les infos ce matin ?",
+      "en": "Did you see the news this morning?",
+      "ipa": "ty a vy lez ɛ̃.fo sə ma.tɛ̃"
+    },
+    {
+      "id": "remote-news-phrase-2",
+      "fr": "Il faut vérifier la source avant de partager.",
+      "en": "You have to check the source before sharing.",
+      "ipa": "il fo ve.ʁi.fje la suʁs a.vɑ̃ də paʁ.ta.ʒe"
+    },
+    {
+      "id": "remote-news-phrase-3",
+      "fr": "Le titre est un peu exagéré, à mon avis.",
+      "en": "The headline is a bit exaggerated, in my view.",
+      "ipa": "lə titʁ ɛ tœ̃ pø ɛɡ.za.ʒe.ʁe a mɔ̃ n‿a.vi"
+    },
+    {
+      "id": "remote-news-phrase-4",
+      "fr": "Je n’ai pas encore d’avis, j’attends plus d’informations.",
+      "en": "I don’t have an opinion yet; I’m waiting for more information.",
+      "ipa": "ʒe pa ɑ̃.kɔʁ da.vi ʒa.tɑ̃ ply dɛ̃.fɔʁ.ma.sjɔ̃"
+    },
+    {
+      "id": "remote-news-phrase-5",
+      "fr": "La grève va durer jusqu’à mercredi.",
+      "en": "The strike will last until Wednesday.",
+      "ipa": "la ɡʁɛv va dy.ʁe ʒys.ka mɛʁ.kʁə.di"
+    },
+    {
+      "id": "remote-news-phrase-6",
+      "fr": "On en parle beaucoup, mais les faits restent flous.",
+      "en": "People talk about it a lot, but the facts remain unclear.",
+      "ipa": "ɔ̃ nɑ̃ paʁl bo.ku mɛ le fɛ ʁɛst flu"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-news-listen-1",
+      "fr": "Il faut vérifier la source avant de partager.",
+      "en": "You have to check the source before sharing.",
+      "word": "source",
+      "wordEn": "source",
+      "wordIpa": "suʁs",
+      "distractors": [
+        "rumeur",
+        "titre",
+        "sondage"
+      ]
+    },
+    {
+      "id": "remote-news-listen-2",
+      "fr": "La manifestation a rassemblé des milliers de personnes.",
+      "en": "The protest brought together thousands of people.",
+      "word": "manifestation",
+      "wordEn": "protest",
+      "wordIpa": "ma.ni.fɛs.ta.sjɔ̃",
+      "distractors": [
+        "grève",
+        "élection",
+        "débat"
+      ]
+    },
+    {
+      "id": "remote-news-listen-3",
+      "fr": "Le titre de l’article est trompeur.",
+      "en": "The article’s headline is misleading.",
+      "word": "titre",
+      "wordEn": "headline",
+      "wordIpa": "titʁ",
+      "distractors": [
+        "une",
+        "commentaire",
+        "journal"
+      ]
+    },
+    {
+      "id": "remote-news-listen-4",
+      "fr": "Les élections ont lieu dimanche prochain.",
+      "en": "The elections are on Sunday.",
+      "word": "élection",
+      "wordEn": "election",
+      "wordIpa": "e.lɛk.sjɔ̃",
+      "distractors": [
+        "sondage",
+        "gouvernement",
+        "rédaction"
+      ]
+    }
+  ],
+  "prompts": [
+    "Quelle actualité t’a marqué récemment ?",
+    "Comment vérifies-tu une information ?",
+    "Les réseaux sociaux remplacent-ils les journaux ? Donne ton avis.",
+    "Résume une news et dis ce que tu en penses."
+  ],
+  "grammar": [
+    {
+      "id": "remote-news-grammar-1",
+      "title": {
+        "fr": "On dit que / d’après",
+        "en": "Reporting what people say"
+      },
+      "rule": "Pour rapporter une info : On dit que + indicatif. D’après le journal, … Selon la journaliste, … Attention : au subjonctif après je ne pense pas que.",
+      "table": [
+        [
+          "Expression",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "on dit que",
+          "rumeur / info générale",
+          "On dit que ça va durer."
+        ],
+        [
+          "d’après",
+          "selon une source",
+          "d’après le journal"
+        ],
+        [
+          "selon",
+          "source nommée",
+          "selon le sondage"
+        ],
+        [
+          "il paraît que",
+          "on entend dire",
+          "Il paraît que c’est faux."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-news-gq-1",
+          "prompt": "___ le journal, la grève continue.",
+          "answer": "D’après",
+          "options": [
+            "D’après",
+            "Parce que",
+            "Pendant"
+          ]
+        },
+        {
+          "id": "remote-news-gq-2",
+          "prompt": "On dit ___ ça va durer.",
+          "answer": "que",
+          "options": [
+            "que",
+            "qui",
+            "dont"
+          ]
+        },
+        {
+          "id": "remote-news-gq-3",
+          "prompt": "Je ne pense pas que ce ___ vrai.",
+          "answer": "soit",
+          "options": [
+            "est",
+            "soit",
+            "sera"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-news-grammar-2",
+      "title": {
+        "fr": "Le futur simple pour l’actualité",
+        "en": "Futur simple in the news"
+      },
+      "rule": "Le futur simple annonce une décision ou une prévision : Le gouvernement annoncera une mesure. La grève durera jusqu’à mercredi.",
+      "table": [
+        [
+          "Infinitif",
+          "Futur (il)",
+          "Exemple"
+        ],
+        [
+          "durer",
+          "durera",
+          "ça durera"
+        ],
+        [
+          "annoncer",
+          "annoncera",
+          "il annoncera"
+        ],
+        [
+          "avoir lieu",
+          "aura lieu",
+          "l’élection aura lieu"
+        ],
+        [
+          "être",
+          "sera",
+          "ce sera long"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-news-gq-4",
+          "prompt": "La grève ___ jusqu’à mercredi.",
+          "answer": "durera",
+          "options": [
+            "dure",
+            "durera",
+            "a duré"
+          ]
+        },
+        {
+          "id": "remote-news-gq-5",
+          "prompt": "L’élection ___ lieu dimanche.",
+          "answer": "aura",
+          "options": [
+            "a",
+            "aura",
+            "avait"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-news-dict-1",
+        "fr": "Tu as vu les infos ce matin ?",
+        "en": "Did you see the news this morning?",
+        "ipa": "ty a vy lez ɛ̃.fo sə ma.tɛ̃"
+      },
+      {
+        "id": "remote-news-dict-2",
+        "fr": "Il faut vérifier la source avant de partager.",
+        "en": "You have to check the source before sharing.",
+        "ipa": "il fo ve.ʁi.fje la suʁs a.vɑ̃ də paʁ.ta.ʒe"
+      },
+      {
+        "id": "remote-news-dict-3",
+        "fr": "Le titre est un peu exagéré, à mon avis.",
+        "en": "The headline is a bit exaggerated, in my view.",
+        "ipa": "lə titʁ ɛ tœ̃ pø ɛɡ.za.ʒe.ʁe a mɔ̃ n‿a.vi"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-news-mean-1",
+        "fr": "Tu as vu les infos ce matin ?",
+        "en": "Did you see the news this morning?",
+        "choices": [
+          "Did you see the news this morning?",
+          "You have to check the source before sharing.",
+          "The headline is a bit exaggerated, in my view."
+        ]
+      },
+      {
+        "id": "remote-news-mean-2",
+        "fr": "Il faut vérifier la source avant de partager.",
+        "en": "You have to check the source before sharing.",
+        "choices": [
+          "You have to check the source before sharing.",
+          "Did you see the news this morning?",
+          "The headline is a bit exaggerated, in my view."
+        ]
+      },
+      {
+        "id": "remote-news-mean-3",
+        "fr": "Le titre est un peu exagéré, à mon avis.",
+        "en": "The headline is a bit exaggerated, in my view.",
+        "choices": [
+          "The headline is a bit exaggerated, in my view.",
+          "Did you see the news this morning?",
+          "You have to check the source before sharing."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-news-fren-1",
+        "fr": "actualité",
+        "en": "current events"
+      },
+      {
+        "id": "remote-news-fren-2",
+        "fr": "titre",
+        "en": "headline"
+      },
+      {
+        "id": "remote-news-fren-3",
+        "fr": "journal",
+        "en": "newspaper"
+      },
+      {
+        "id": "remote-news-fren-4",
+        "fr": "article",
+        "en": "article"
+      },
+      {
+        "id": "remote-news-fren-5",
+        "fr": "source",
+        "en": "source"
+      },
+      {
+        "id": "remote-news-fren-6",
+        "fr": "journaliste",
+        "en": "journalist"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-news-aloud-1",
+        "fr": "Tu as vu les infos ce matin ?",
+        "en": "Did you see the news this morning?",
+        "ipa": "ty a vy lez ɛ̃.fo sə ma.tɛ̃"
+      },
+      {
+        "id": "remote-news-aloud-2",
+        "fr": "Le titre est un peu exagéré, à mon avis.",
+        "en": "The headline is a bit exaggerated, in my view.",
+        "ipa": "lə titʁ ɛ tœ̃ pø ɛɡ.za.ʒe.ʁe a mɔ̃ n‿a.vi"
+      },
+      {
+        "id": "remote-news-aloud-3",
+        "fr": "La grève va durer jusqu’à mercredi.",
+        "en": "The strike will last until Wednesday.",
+        "ipa": "la ɡʁɛv va dy.ʁe ʒys.ka mɛʁ.kʁə.di"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-news-unsc-1",
+        "fr": "Je n’ai pas encore d’avis, j’attends plus d’informations.",
+        "en": "I don’t have an opinion yet; I’m waiting for more information.",
+        "words": [
+          "Je",
+          "n’ai",
+          "pas",
+          "encore",
+          "d’avis,",
+          "j’attends",
+          "plus",
+          "d’informations."
+        ]
+      },
+      {
+        "id": "remote-news-unsc-2",
+        "fr": "La grève va durer jusqu’à mercredi.",
+        "en": "The strike will last until Wednesday.",
+        "words": [
+          "La",
+          "grève",
+          "va",
+          "durer",
+          "jusqu’à",
+          "mercredi."
+        ]
+      }
+    ]
+  }
+}

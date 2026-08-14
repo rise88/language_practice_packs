@@ -1,0 +1,538 @@
+{
+  "pratiquePack": 1,
+  "id": "opinions-b1",
+  "version": 1,
+  "level": "b1",
+  "title": {
+    "fr": "Avis B1",
+    "en": "Opinions B1"
+  },
+  "description": {
+    "fr": "Accord, désaccord et nuances pour donner son avis clairement.",
+    "en": "Agreement, disagreement, and nuance for giving a clear opinion."
+  },
+  "seed": [
+    {
+      "id": "remote-opinions-b1-1",
+      "fr": "avis",
+      "en": "opinion",
+      "example": "À mon avis, cette idée est trop simple.",
+      "ipa": "a.vi",
+      "article": "l'"
+    },
+    {
+      "id": "remote-opinions-b1-2",
+      "fr": "opinion",
+      "en": "opinion",
+      "example": "Son opinion a changé après le débat.",
+      "ipa": "ɔ.pi.njɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-opinions-b1-3",
+      "fr": "argument",
+      "en": "argument (reason)",
+      "example": "Donne au moins un argument solide.",
+      "ipa": "aʁ.ɡy.mɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-opinions-b1-4",
+      "fr": "accord",
+      "en": "agreement",
+      "example": "Nous sommes d’accord sur l’essentiel.",
+      "ipa": "a.kɔʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-opinions-b1-5",
+      "fr": "désaccord",
+      "en": "disagreement",
+      "example": "Le désaccord porte surtout sur le budget.",
+      "ipa": "de.za.kɔʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-opinions-b1-6",
+      "fr": "point de vue",
+      "en": "point of view",
+      "example": "Essayons de voir un autre point de vue.",
+      "ipa": "pwɛ̃ də vy",
+      "article": "le"
+    },
+    {
+      "id": "remote-opinions-b1-7",
+      "fr": "avantage",
+      "en": "advantage",
+      "example": "L’avantage, c’est le gain de temps.",
+      "ipa": "a.vɑ̃.taʒ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-opinions-b1-8",
+      "fr": "inconvénient",
+      "en": "drawback",
+      "example": "L’inconvénient, c’est le prix.",
+      "ipa": "ɛ̃.kɔ̃.ve.njɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-opinions-b1-9",
+      "fr": "preuve",
+      "en": "proof / evidence",
+      "example": "Tu n’as pas de preuve pour dire ça.",
+      "ipa": "pʁœv",
+      "article": "la"
+    },
+    {
+      "id": "remote-opinions-b1-10",
+      "fr": "exemple",
+      "en": "example",
+      "example": "Un exemple concret aiderait le débat.",
+      "ipa": "ɛɡ.zɑ̃pl",
+      "article": "l'"
+    },
+    {
+      "id": "remote-opinions-b1-11",
+      "fr": "nuance",
+      "en": "nuance",
+      "example": "Il manque une nuance importante.",
+      "ipa": "nɥɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-opinions-b1-12",
+      "fr": "certitude",
+      "en": "certainty",
+      "example": "Je n’ai aucune certitude là-dessus.",
+      "ipa": "sɛʁ.ti.tyd",
+      "article": "la"
+    },
+    {
+      "id": "remote-opinions-b1-13",
+      "fr": "doute",
+      "en": "doubt",
+      "example": "J’ai un doute sur ces chiffres.",
+      "ipa": "dut",
+      "article": "le"
+    },
+    {
+      "id": "remote-opinions-b1-14",
+      "fr": "préjugé",
+      "en": "prejudice",
+      "example": "Ce préjugé revient souvent dans la discussion.",
+      "ipa": "pʁe.ʒy.ʒe",
+      "article": "le"
+    },
+    {
+      "id": "remote-opinions-b1-15",
+      "fr": "compromis",
+      "en": "compromise",
+      "example": "On a trouvé un compromis à la fin.",
+      "ipa": "kɔ̃.pʁɔ.mi",
+      "article": "le"
+    },
+    {
+      "id": "remote-opinions-b1-16",
+      "fr": "priorité",
+      "en": "priority",
+      "example": "Quelle est ta priorité dans ce choix ?",
+      "ipa": "pʁi.jɔ.ʁi.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-opinions-b1-17",
+      "fr": "conséquence",
+      "en": "consequence",
+      "example": "Il faut penser aux conséquences.",
+      "ipa": "kɔ̃.se.kɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-opinions-b1-18",
+      "fr": "solution",
+      "en": "solution",
+      "example": "Cette solution ne convient pas à tout le monde.",
+      "ipa": "sɔ.ly.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-opinions-b1-19",
+      "fr": "critique",
+      "en": "criticism",
+      "example": "Sa critique était dure, mais juste.",
+      "ipa": "kʁi.tik",
+      "article": "la"
+    },
+    {
+      "id": "remote-opinions-b1-20",
+      "fr": "débat",
+      "en": "debate",
+      "example": "Le débat reste ouvert.",
+      "ipa": "de.ba",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-opinions-phrase-1",
+      "fr": "À mon avis, ce n’est pas si simple.",
+      "en": "In my opinion, it’s not that simple.",
+      "ipa": "a mɔ̃ n‿a.vi sə nɛ pa si sɛ̃pl"
+    },
+    {
+      "id": "remote-opinions-phrase-2",
+      "fr": "Je ne suis pas d’accord, et voici pourquoi.",
+      "en": "I disagree, and here’s why.",
+      "ipa": "ʒə nə sɥi pa da.kɔʁ e vwa.si puʁ.kwa"
+    },
+    {
+      "id": "remote-opinions-phrase-3",
+      "fr": "D’un côté c’est pratique, de l’autre c’est cher.",
+      "en": "On the one hand it’s practical, on the other it’s expensive.",
+      "ipa": "dœ̃ ko.te sɛ pʁa.tik də lotʁ sɛ ʃɛʁ"
+    },
+    {
+      "id": "remote-opinions-phrase-4",
+      "fr": "Tu as peut-être raison, mais j’ai un doute.",
+      "en": "You may be right, but I have a doubt.",
+      "ipa": "ty a pø.tɛtʁ ʁɛ.zɔ̃ mɛ ʒe œ̃ dut"
+    },
+    {
+      "id": "remote-opinions-phrase-5",
+      "fr": "Il faut nuancer : ça dépend du contexte.",
+      "en": "You have to qualify that: it depends on the context.",
+      "ipa": "il fo nɥɑ̃.se sa de.pɑ̃ dy kɔ̃.tɛkst"
+    },
+    {
+      "id": "remote-opinions-phrase-6",
+      "fr": "On peut être d’accord sans penser exactement la même chose.",
+      "en": "You can agree without thinking exactly the same thing.",
+      "ipa": "ɔ̃ pø ɛtʁ da.kɔʁ sɑ̃ pɑ̃.se ɛɡ.zak.tə.mɑ̃ la mɛm ʃoz"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-opinions-listen-1",
+      "fr": "À mon avis, cette idée est trop simple.",
+      "en": "In my opinion, this idea is too simple.",
+      "word": "avis",
+      "wordEn": "opinion",
+      "wordIpa": "a.vi",
+      "distractors": [
+        "doute",
+        "preuve",
+        "exemple"
+      ]
+    },
+    {
+      "id": "remote-opinions-listen-2",
+      "fr": "Donne au moins un argument solide.",
+      "en": "Give at least one solid argument.",
+      "word": "argument",
+      "wordEn": "argument",
+      "wordIpa": "aʁ.ɡy.mɑ̃",
+      "distractors": [
+        "avantage",
+        "préjugé",
+        "compromis"
+      ]
+    },
+    {
+      "id": "remote-opinions-listen-3",
+      "fr": "J’ai un doute sur ces chiffres.",
+      "en": "I have a doubt about these figures.",
+      "word": "doute",
+      "wordEn": "doubt",
+      "wordIpa": "dut",
+      "distractors": [
+        "certitude",
+        "nuance",
+        "preuve"
+      ]
+    },
+    {
+      "id": "remote-opinions-listen-4",
+      "fr": "On a trouvé un compromis à la fin.",
+      "en": "We found a compromise in the end.",
+      "word": "compromis",
+      "wordEn": "compromise",
+      "wordIpa": "kɔ̃.pʁɔ.mi",
+      "distractors": [
+        "désaccord",
+        "priorité",
+        "solution"
+      ]
+    }
+  ],
+  "prompts": [
+    "Donne ton avis sur un sujet d’actualité, avec un argument.",
+    "Explique un avantage et un inconvénient d’une décision.",
+    "Tu n’es pas d’accord avec un ami : que dis-tu ?",
+    "Nuance une opinion trop générale."
+  ],
+  "grammar": [
+    {
+      "id": "remote-opinions-grammar-1",
+      "title": {
+        "fr": "Je pense que / je ne pense pas que",
+        "en": "Indicative vs subjunctive after opinion"
+      },
+      "rule": "Je pense que + indicatif : Je pense que c’est juste. Je ne pense pas que + subjonctif : Je ne pense pas que ce soit juste. Il me semble que reste à l’indicatif.",
+      "table": [
+        [
+          "Expression",
+          "Mode",
+          "Exemple"
+        ],
+        [
+          "je pense que",
+          "indicatif",
+          "je pense que c’est vrai"
+        ],
+        [
+          "je ne pense pas que",
+          "subjonctif",
+          "je ne pense pas que ce soit vrai"
+        ],
+        [
+          "il me semble que",
+          "indicatif",
+          "il me semble que tu as raison"
+        ],
+        [
+          "je doute que",
+          "subjonctif",
+          "je doute que ce soit simple"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-opinions-gq-1",
+          "prompt": "Je pense que c’___ une bonne idée.",
+          "answer": "est",
+          "options": [
+            "est",
+            "soit",
+            "sera"
+          ]
+        },
+        {
+          "id": "remote-opinions-gq-2",
+          "prompt": "Je ne pense pas que ce ___ si simple.",
+          "answer": "soit",
+          "options": [
+            "est",
+            "soit",
+            "était"
+          ]
+        },
+        {
+          "id": "remote-opinions-gq-3",
+          "prompt": "Je doute que tu ___ raison.",
+          "answer": "aies",
+          "options": [
+            "as",
+            "aies",
+            "auras"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-opinions-grammar-2",
+      "title": {
+        "fr": "D’un côté / de l’autre",
+        "en": "Weighing two sides"
+      },
+      "rule": "Pour peser le pour et le contre : D’un côté… de l’autre… En revanche introduit un contraste. Certes… mais… concède puis oppose.",
+      "table": [
+        [
+          "Connecteur",
+          "Rôle",
+          "Exemple"
+        ],
+        [
+          "d’un côté / de l’autre",
+          "balancer",
+          "d’un côté c’est utile"
+        ],
+        [
+          "en revanche",
+          "contraste",
+          "en revanche c’est cher"
+        ],
+        [
+          "certes… mais",
+          "concession",
+          "certes, mais…"
+        ],
+        [
+          "cependant",
+          "opposition",
+          "cependant je doute"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-opinions-gq-4",
+          "prompt": "___ c’est pratique, de l’autre c’est cher.",
+          "answer": "D’un côté",
+          "options": [
+            "D’un côté",
+            "Parce que",
+            "Alors"
+          ]
+        },
+        {
+          "id": "remote-opinions-gq-5",
+          "prompt": "C’est utile, ___ c’est cher.",
+          "answer": "en revanche",
+          "options": [
+            "en revanche",
+            "parce que",
+            "donc"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-opinions-dict-1",
+        "fr": "À mon avis, ce n’est pas si simple.",
+        "en": "In my opinion, it’s not that simple.",
+        "ipa": "a mɔ̃ n‿a.vi sə nɛ pa si sɛ̃pl"
+      },
+      {
+        "id": "remote-opinions-dict-2",
+        "fr": "Je ne suis pas d’accord, et voici pourquoi.",
+        "en": "I disagree, and here’s why.",
+        "ipa": "ʒə nə sɥi pa da.kɔʁ e vwa.si puʁ.kwa"
+      },
+      {
+        "id": "remote-opinions-dict-3",
+        "fr": "D’un côté c’est pratique, de l’autre c’est cher.",
+        "en": "On the one hand it’s practical, on the other it’s expensive.",
+        "ipa": "dœ̃ ko.te sɛ pʁa.tik də lotʁ sɛ ʃɛʁ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-opinions-mean-1",
+        "fr": "À mon avis, ce n’est pas si simple.",
+        "en": "In my opinion, it’s not that simple.",
+        "choices": [
+          "In my opinion, it’s not that simple.",
+          "I disagree, and here’s why.",
+          "On the one hand it’s practical, on the other it’s expensive."
+        ]
+      },
+      {
+        "id": "remote-opinions-mean-2",
+        "fr": "Je ne suis pas d’accord, et voici pourquoi.",
+        "en": "I disagree, and here’s why.",
+        "choices": [
+          "I disagree, and here’s why.",
+          "In my opinion, it’s not that simple.",
+          "On the one hand it’s practical, on the other it’s expensive."
+        ]
+      },
+      {
+        "id": "remote-opinions-mean-3",
+        "fr": "D’un côté c’est pratique, de l’autre c’est cher.",
+        "en": "On the one hand it’s practical, on the other it’s expensive.",
+        "choices": [
+          "On the one hand it’s practical, on the other it’s expensive.",
+          "In my opinion, it’s not that simple.",
+          "I disagree, and here’s why."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-opinions-fren-1",
+        "fr": "avis",
+        "en": "opinion"
+      },
+      {
+        "id": "remote-opinions-fren-2",
+        "fr": "opinion",
+        "en": "opinion"
+      },
+      {
+        "id": "remote-opinions-fren-3",
+        "fr": "argument",
+        "en": "argument (reason)"
+      },
+      {
+        "id": "remote-opinions-fren-4",
+        "fr": "accord",
+        "en": "agreement"
+      },
+      {
+        "id": "remote-opinions-fren-5",
+        "fr": "désaccord",
+        "en": "disagreement"
+      },
+      {
+        "id": "remote-opinions-fren-6",
+        "fr": "point de vue",
+        "en": "point of view"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-opinions-aloud-1",
+        "fr": "À mon avis, ce n’est pas si simple.",
+        "en": "In my opinion, it’s not that simple.",
+        "ipa": "a mɔ̃ n‿a.vi sə nɛ pa si sɛ̃pl"
+      },
+      {
+        "id": "remote-opinions-aloud-2",
+        "fr": "D’un côté c’est pratique, de l’autre c’est cher.",
+        "en": "On the one hand it’s practical, on the other it’s expensive.",
+        "ipa": "dœ̃ ko.te sɛ pʁa.tik də lotʁ sɛ ʃɛʁ"
+      },
+      {
+        "id": "remote-opinions-aloud-3",
+        "fr": "Il faut nuancer : ça dépend du contexte.",
+        "en": "You have to qualify that: it depends on the context.",
+        "ipa": "il fo nɥɑ̃.se sa de.pɑ̃ dy kɔ̃.tɛkst"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-opinions-unsc-1",
+        "fr": "Tu as peut-être raison, mais j’ai un doute.",
+        "en": "You may be right, but I have a doubt.",
+        "words": [
+          "Tu",
+          "as",
+          "peut-être",
+          "raison,",
+          "mais",
+          "j’ai",
+          "un",
+          "doute."
+        ]
+      },
+      {
+        "id": "remote-opinions-unsc-2",
+        "fr": "Il faut nuancer : ça dépend du contexte.",
+        "en": "You have to qualify that: it depends on the context.",
+        "words": [
+          "Il",
+          "faut",
+          "nuancer",
+          ":",
+          "ça",
+          "dépend",
+          "du",
+          "contexte."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "pratiquePack": 1,
+  "id": "housing-a2",
+  "version": 1,
+  "level": "a2",
+  "title": {
+    "fr": "Logement A2",
+    "en": "Housing A2"
+  },
+  "description": {
+    "fr": "Louer, emménager et parler de son appartement.",
+    "en": "Renting, moving in, and talking about your flat."
+  },
+  "seed": [
+    {
+      "id": "remote-housing-a2-1",
+      "fr": "logement",
+      "en": "housing / accommodation",
+      "example": "Je cherche un logement en centre-ville.",
+      "ipa": "lɔʒ.mɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-2",
+      "fr": "appartement",
+      "en": "apartment / flat",
+      "example": "L’appartement a deux chambres.",
+      "ipa": "a.paʁ.tə.mɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-housing-a2-3",
+      "fr": "loyer",
+      "en": "rent",
+      "example": "Le loyer est trop élevé.",
+      "ipa": "lwa.je",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-4",
+      "fr": "propriétaire",
+      "en": "landlord / owner",
+      "example": "Le propriétaire vient demain.",
+      "ipa": "pʁɔ.pʁi.je.tɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-5",
+      "fr": "locataire",
+      "en": "tenant",
+      "example": "Je suis locataire depuis un an.",
+      "ipa": "lɔ.ka.tɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-6",
+      "fr": "bail",
+      "en": "lease",
+      "example": "Le bail dure un an.",
+      "ipa": "baj",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-7",
+      "fr": "charges",
+      "en": "service charges",
+      "example": "Les charges comprennent l’eau.",
+      "ipa": "ʃaʁʒ",
+      "article": "les"
+    },
+    {
+      "id": "remote-housing-a2-8",
+      "fr": "caution",
+      "en": "deposit",
+      "example": "Il faut verser une caution.",
+      "ipa": "ko.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-housing-a2-9",
+      "fr": "annonce",
+      "en": "listing / advert",
+      "example": "J’ai vu une annonce en ligne.",
+      "ipa": "a.nɔ̃s",
+      "article": "l'"
+    },
+    {
+      "id": "remote-housing-a2-10",
+      "fr": "visite",
+      "en": "viewing",
+      "example": "La visite est à dix-huit heures.",
+      "ipa": "vi.zit",
+      "article": "la"
+    },
+    {
+      "id": "remote-housing-a2-11",
+      "fr": "mezzanine",
+      "en": "mezzanine",
+      "example": "Il y a une mezzanine dans le studio.",
+      "ipa": "mɛ.za.nin",
+      "article": "la"
+    },
+    {
+      "id": "remote-housing-a2-12",
+      "fr": "studio",
+      "en": "studio flat",
+      "example": "Le studio est petit mais lumineux.",
+      "ipa": "sty.djo",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-13",
+      "fr": "colocataire",
+      "en": "flatmate",
+      "example": "Mon colocataire fait la cuisine.",
+      "ipa": "kɔ.lɔ.ka.tɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-14",
+      "fr": "déménagement",
+      "en": "move (house)",
+      "example": "Le déménagement est samedi.",
+      "ipa": "de.me.naʒ.mɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-15",
+      "fr": "carton",
+      "en": "cardboard box",
+      "example": "Les cartons sont dans le couloir.",
+      "ipa": "kaʁ.tɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-16",
+      "fr": "ascenseur",
+      "en": "lift / elevator",
+      "example": "L’ascenseur est en panne.",
+      "ipa": "a.sɑ̃.sœʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-housing-a2-17",
+      "fr": "cave",
+      "en": "cellar",
+      "example": "La cave est au sous-sol.",
+      "ipa": "kav",
+      "article": "la"
+    },
+    {
+      "id": "remote-housing-a2-18",
+      "fr": "grenier",
+      "en": "attic",
+      "example": "Le grenier est poussiéreux.",
+      "ipa": "ɡʁə.nje",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-19",
+      "fr": "voisinage",
+      "en": "neighborhood (people)",
+      "example": "Le voisinage est calme.",
+      "ipa": "vwa.zi.naʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-housing-a2-20",
+      "fr": "état des lieux",
+      "en": "inventory (move-in)",
+      "example": "On fait l’état des lieux aujourd’hui.",
+      "ipa": "e.ta de ljø",
+      "article": "l'"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-housing-phrase-1",
+      "fr": "Je cherche un appartement à louer.",
+      "en": "I’m looking for a flat to rent.",
+      "ipa": "ʒə ʃɛʁʃ œ̃ n‿a.paʁ.tə.mɑ̃ a lwe"
+    },
+    {
+      "id": "remote-housing-phrase-2",
+      "fr": "Le loyer est de huit cents euros par mois.",
+      "en": "The rent is eight hundred euros a month.",
+      "ipa": "lə lwa.je ɛ də ɥi sɑ̃ ø.ʁo paʁ mwa"
+    },
+    {
+      "id": "remote-housing-phrase-3",
+      "fr": "Est-ce que les charges sont comprises ?",
+      "en": "Are the charges included?",
+      "ipa": "ɛs.kə le ʃaʁʒ sɔ̃ kɔ̃.pʁiz"
+    },
+    {
+      "id": "remote-housing-phrase-4",
+      "fr": "On peut visiter cet après-midi ?",
+      "en": "Can we view it this afternoon?",
+      "ipa": "ɔ̃ pø vi.zi.te sɛt a.pʁɛ.mi.di"
+    },
+    {
+      "id": "remote-housing-phrase-5",
+      "fr": "L’ascenseur est en panne.",
+      "en": "The lift is out of order.",
+      "ipa": "la.sɑ̃.sœʁ ɛ tɑ̃ pan"
+    },
+    {
+      "id": "remote-housing-phrase-6",
+      "fr": "Je vais emménager le mois prochain.",
+      "en": "I’m going to move in next month.",
+      "ipa": "ʒə vɛ ɑ̃.me.na.ʒe lə mwa pʁɔ.ʃɛ̃"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-housing-listen-1",
+      "fr": "Je cherche un appartement à louer en centre-ville.",
+      "en": "I’m looking for a flat to rent in the center.",
+      "word": "appartement",
+      "wordEn": "flat",
+      "wordIpa": "a.paʁ.tə.mɑ̃",
+      "distractors": [
+        "studio",
+        "cave",
+        "grenier"
+      ]
+    },
+    {
+      "id": "remote-housing-listen-2",
+      "fr": "Le loyer est trop élevé pour moi.",
+      "en": "The rent is too high for me.",
+      "word": "loyer",
+      "wordEn": "rent",
+      "wordIpa": "lwa.je",
+      "distractors": [
+        "caution",
+        "charges",
+        "bail"
+      ]
+    },
+    {
+      "id": "remote-housing-listen-3",
+      "fr": "Mon colocataire fait la cuisine ce soir.",
+      "en": "My flatmate is cooking tonight.",
+      "word": "colocataire",
+      "wordEn": "flatmate",
+      "wordIpa": "kɔ.lɔ.ka.tɛʁ",
+      "distractors": [
+        "propriétaire",
+        "locataire",
+        "voisinage"
+      ]
+    },
+    {
+      "id": "remote-housing-listen-4",
+      "fr": "L’ascenseur est en panne depuis hier.",
+      "en": "The lift has been out of order since yesterday.",
+      "word": "ascenseur",
+      "wordEn": "lift",
+      "wordIpa": "a.sɑ̃.sœʁ",
+      "distractors": [
+        "grenier",
+        "cave",
+        "carton"
+      ]
+    }
+  ],
+  "prompts": [
+    "Décris ton logement actuel.",
+    "Tu préfères un studio ou un appartement ? Pourquoi ?",
+    "Quelles questions poses-tu au propriétaire ?",
+    "Raconte un déménagement (réel ou imaginaire)."
+  ],
+  "grammar": [
+    {
+      "id": "remote-housing-grammar-1",
+      "title": {
+        "fr": "Louer / location / locataire",
+        "en": "Renting vocabulary family"
+      },
+      "rule": "Louer = to rent. Une location = a rental. Le locataire paie le loyer au propriétaire. Attention : louer peut aussi vouloir dire « hire » un vélo.",
+      "table": [
+        [
+          "Mot",
+          "Sens",
+          "Exemple"
+        ],
+        [
+          "louer",
+          "rent / hire",
+          "Je loue un studio."
+        ],
+        [
+          "la location",
+          "rental",
+          "une location meublée"
+        ],
+        [
+          "le locataire",
+          "tenant",
+          "le locataire paie"
+        ],
+        [
+          "le propriétaire",
+          "owner",
+          "le propriétaire vient"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-housing-gq-1",
+          "prompt": "Je ___ un appartement en ville.",
+          "answer": "loue",
+          "options": [
+            "loue",
+            "location",
+            "loyer"
+          ]
+        },
+        {
+          "id": "remote-housing-gq-2",
+          "prompt": "Le ___ paie le loyer.",
+          "answer": "locataire",
+          "options": [
+            "locataire",
+            "propriétaire",
+            "bail"
+          ]
+        },
+        {
+          "id": "remote-housing-gq-3",
+          "prompt": "Le ___ est de 700 euros.",
+          "answer": "loyer",
+          "options": [
+            "loyer",
+            "louer",
+            "location"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-housing-grammar-2",
+      "title": {
+        "fr": "Trop / assez / pas assez",
+        "en": "Too / enough"
+      },
+      "rule": "Trop + adjectif = too (Le loyer est trop élevé). Assez + adjectif = enough. Pas assez = not enough. Trop de + nom : trop de bruit.",
+      "table": [
+        [
+          "Forme",
+          "Sens",
+          "Exemple"
+        ],
+        [
+          "trop + adj.",
+          "too",
+          "trop petit"
+        ],
+        [
+          "assez + adj.",
+          "enough",
+          "assez grand"
+        ],
+        [
+          "pas assez",
+          "not enough",
+          "pas assez lumineux"
+        ],
+        [
+          "trop de + nom",
+          "too much/many",
+          "trop de charges"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-housing-gq-4",
+          "prompt": "Le studio est ___ petit.",
+          "answer": "trop",
+          "options": [
+            "trop",
+            "assez",
+            "très de"
+          ]
+        },
+        {
+          "id": "remote-housing-gq-5",
+          "prompt": "Il n’est ___ lumineux.",
+          "answer": "pas assez",
+          "options": [
+            "trop",
+            "pas assez",
+            "assez de"
+          ]
+        },
+        {
+          "id": "remote-housing-gq-6",
+          "prompt": "Il y a ___ de bruit.",
+          "answer": "trop",
+          "options": [
+            "trop",
+            "assez",
+            "très"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-housing-dict-1",
+        "fr": "Je cherche un appartement à louer.",
+        "en": "I’m looking for a flat to rent.",
+        "ipa": "ʒə ʃɛʁʃ œ̃ n‿a.paʁ.tə.mɑ̃ a lwe"
+      },
+      {
+        "id": "remote-housing-dict-2",
+        "fr": "Le loyer est de huit cents euros par mois.",
+        "en": "The rent is eight hundred euros a month.",
+        "ipa": "lə lwa.je ɛ də ɥi sɑ̃ ø.ʁo paʁ mwa"
+      },
+      {
+        "id": "remote-housing-dict-3",
+        "fr": "Est-ce que les charges sont comprises ?",
+        "en": "Are the charges included?",
+        "ipa": "ɛs.kə le ʃaʁʒ sɔ̃ kɔ̃.pʁiz"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-housing-mean-1",
+        "fr": "Je cherche un appartement à louer.",
+        "en": "I’m looking for a flat to rent.",
+        "choices": [
+          "I’m looking for a flat to rent.",
+          "The rent is eight hundred euros a month.",
+          "Are the charges included?"
+        ]
+      },
+      {
+        "id": "remote-housing-mean-2",
+        "fr": "Le loyer est de huit cents euros par mois.",
+        "en": "The rent is eight hundred euros a month.",
+        "choices": [
+          "The rent is eight hundred euros a month.",
+          "I’m looking for a flat to rent.",
+          "Are the charges included?"
+        ]
+      },
+      {
+        "id": "remote-housing-mean-3",
+        "fr": "Est-ce que les charges sont comprises ?",
+        "en": "Are the charges included?",
+        "choices": [
+          "Are the charges included?",
+          "I’m looking for a flat to rent.",
+          "The rent is eight hundred euros a month."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-housing-fren-1",
+        "fr": "logement",
+        "en": "housing"
+      },
+      {
+        "id": "remote-housing-fren-2",
+        "fr": "appartement",
+        "en": "apartment"
+      },
+      {
+        "id": "remote-housing-fren-3",
+        "fr": "loyer",
+        "en": "rent"
+      },
+      {
+        "id": "remote-housing-fren-4",
+        "fr": "propriétaire",
+        "en": "landlord"
+      },
+      {
+        "id": "remote-housing-fren-5",
+        "fr": "locataire",
+        "en": "tenant"
+      },
+      {
+        "id": "remote-housing-fren-6",
+        "fr": "bail",
+        "en": "lease"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-housing-aloud-1",
+        "fr": "Je cherche un appartement à louer.",
+        "en": "I’m looking for a flat to rent.",
+        "ipa": "ʒə ʃɛʁʃ œ̃ n‿a.paʁ.tə.mɑ̃ a lwe"
+      },
+      {
+        "id": "remote-housing-aloud-2",
+        "fr": "Est-ce que les charges sont comprises ?",
+        "en": "Are the charges included?",
+        "ipa": "ɛs.kə le ʃaʁʒ sɔ̃ kɔ̃.pʁiz"
+      },
+      {
+        "id": "remote-housing-aloud-3",
+        "fr": "L’ascenseur est en panne.",
+        "en": "The lift is out of order.",
+        "ipa": "la.sɑ̃.sœʁ ɛ tɑ̃ pan"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-housing-unsc-1",
+        "fr": "On peut visiter cet après-midi ?",
+        "en": "Can we view it this afternoon?",
+        "words": [
+          "On",
+          "peut",
+          "visiter",
+          "cet",
+          "après-midi",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-housing-unsc-2",
+        "fr": "L’ascenseur est en panne.",
+        "en": "The lift is out of order.",
+        "words": [
+          "L’ascenseur",
+          "est",
+          "en",
+          "panne."
+        ]
+      }
+    ]
+  }
+}

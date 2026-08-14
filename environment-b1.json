@@ -1,0 +1,537 @@
+{
+  "pratiquePack": 1,
+  "id": "environment-b1",
+  "version": 1,
+  "level": "b1",
+  "title": {
+    "fr": "Environnement B1",
+    "en": "Environment B1"
+  },
+  "description": {
+    "fr": "Pollution, tri et gestes écologiques pour donner son avis au quotidien.",
+    "en": "Pollution, recycling, and everyday eco habits for giving an opinion."
+  },
+  "seed": [
+    {
+      "id": "remote-environment-b1-1",
+      "fr": "environnement",
+      "en": "environment",
+      "example": "Il faut protéger l’environnement autour de chez nous.",
+      "ipa": "ɑ̃.vi.ʁɔn.mɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-environment-b1-2",
+      "fr": "pollution",
+      "en": "pollution",
+      "example": "La pollution de l’air augmente en ville.",
+      "ipa": "pɔ.ly.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-environment-b1-3",
+      "fr": "déchet",
+      "en": "waste / rubbish",
+      "example": "Nous produisons trop de déchets plastiques.",
+      "ipa": "de.ʃɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-environment-b1-4",
+      "fr": "recyclage",
+      "en": "recycling",
+      "example": "Le recyclage n’est pas encore automatique partout.",
+      "ipa": "ʁə.si.klaʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-environment-b1-5",
+      "fr": "tri",
+      "en": "sorting (waste)",
+      "example": "Le tri sélectif commence dans la cuisine.",
+      "ipa": "tʁi",
+      "article": "le"
+    },
+    {
+      "id": "remote-environment-b1-6",
+      "fr": "énergie",
+      "en": "energy",
+      "example": "Cette énergie vient du vent et du soleil.",
+      "ipa": "e.nɛʁ.ʒi",
+      "article": "l'"
+    },
+    {
+      "id": "remote-environment-b1-7",
+      "fr": "renouvelable",
+      "en": "renewable (energy)",
+      "example": "Les énergies renouvelables se développent vite.",
+      "ipa": "ʁə.nu.və.labl",
+      "article": "l'"
+    },
+    {
+      "id": "remote-environment-b1-8",
+      "fr": "émission",
+      "en": "emission",
+      "example": "Les émissions de CO2 restent trop élevées.",
+      "ipa": "e.mi.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-environment-b1-9",
+      "fr": "climat",
+      "en": "climate",
+      "example": "Le climat change plus vite qu’avant.",
+      "ipa": "kli.ma",
+      "article": "le"
+    },
+    {
+      "id": "remote-environment-b1-10",
+      "fr": "sécheresse",
+      "en": "drought",
+      "example": "La sécheresse a duré tout l’été.",
+      "ipa": "seʃ.ʁɛs",
+      "article": "la"
+    },
+    {
+      "id": "remote-environment-b1-11",
+      "fr": "inondation",
+      "en": "flood",
+      "example": "L’inondation a fermé plusieurs routes.",
+      "ipa": "i.nɔ̃.da.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-environment-b1-12",
+      "fr": "biodiversité",
+      "en": "biodiversity",
+      "example": "La biodiversité disparaît dans cette région.",
+      "ipa": "bi.jɔ.di.vɛʁ.si.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-environment-b1-13",
+      "fr": "espèce",
+      "en": "species",
+      "example": "Cette espèce d’oiseau est menacée.",
+      "ipa": "ɛ.spɛs",
+      "article": "l'"
+    },
+    {
+      "id": "remote-environment-b1-14",
+      "fr": "forêt",
+      "en": "forest",
+      "example": "La forêt absorbe une partie du carbone.",
+      "ipa": "fɔ.ʁɛ",
+      "article": "la"
+    },
+    {
+      "id": "remote-environment-b1-15",
+      "fr": "océan",
+      "en": "ocean",
+      "example": "L’océan se réchauffe et s’acidifie.",
+      "ipa": "ɔ.se.ɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-environment-b1-16",
+      "fr": "pesticide",
+      "en": "pesticide",
+      "example": "Les pesticides contaminent les rivières.",
+      "ipa": "pɛs.ti.sid",
+      "article": "le"
+    },
+    {
+      "id": "remote-environment-b1-17",
+      "fr": "compost",
+      "en": "compost",
+      "example": "Nous mettons les épluchures dans le compost.",
+      "ipa": "kɔ̃.pɔst",
+      "article": "le"
+    },
+    {
+      "id": "remote-environment-b1-18",
+      "fr": "transport",
+      "en": "transport",
+      "example": "Le transport en commun pollue moins que la voiture.",
+      "ipa": "tʁɑ̃s.pɔʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-environment-b1-19",
+      "fr": "empreinte",
+      "en": "footprint (carbon)",
+      "example": "Mon empreinte carbone a baissé cette année.",
+      "ipa": "ɑ̃.pʁɛ̃t",
+      "article": "l'"
+    },
+    {
+      "id": "remote-environment-b1-20",
+      "fr": "sensibilisation",
+      "en": "awareness-raising",
+      "example": "La sensibilisation à l’école change les habitudes.",
+      "ipa": "sɑ̃.si.bi.li.za.sjɔ̃",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-environment-phrase-1",
+      "fr": "À mon avis, il faut réduire nos déchets.",
+      "en": "In my opinion, we need to reduce our waste.",
+      "ipa": "a mɔ̃ n‿a.vi il fo ʁe.dɥiʁ no de.ʃɛ"
+    },
+    {
+      "id": "remote-environment-phrase-2",
+      "fr": "Si tout le monde triait, ce serait plus simple.",
+      "en": "If everyone sorted waste, it would be simpler.",
+      "ipa": "si tu lə mɔ̃d tʁi.jɛ sə sə.ʁɛ ply sɛ̃pl"
+    },
+    {
+      "id": "remote-environment-phrase-3",
+      "fr": "La pollution de l’air devient un vrai problème.",
+      "en": "Air pollution is becoming a real problem.",
+      "ipa": "la pɔ.ly.sjɔ̃ də lɛʁ də.vjɛ̃ tœ̃ vʁɛ pʁɔ.blɛm"
+    },
+    {
+      "id": "remote-environment-phrase-4",
+      "fr": "Je prends le train pour polluer moins.",
+      "en": "I take the train to pollute less.",
+      "ipa": "ʒə pʁɑ̃ lə tʁɛ̃ puʁ pɔ.lɥe mwɛ̃"
+    },
+    {
+      "id": "remote-environment-phrase-5",
+      "fr": "On devrait interdire les pesticides les plus dangereux.",
+      "en": "We should ban the most dangerous pesticides.",
+      "ipa": "ɔ̃ də.vʁɛ ɛ̃.tɛʁ.diʁ le pɛs.ti.sid le ply dɑ̃.ʒə.ʁø"
+    },
+    {
+      "id": "remote-environment-phrase-6",
+      "fr": "Chacun peut faire un geste, même petit.",
+      "en": "Everyone can do something, even something small.",
+      "ipa": "ʃa.kœ̃ pø fɛʁ œ̃ ʒɛst mɛm pə.ti"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-environment-listen-1",
+      "fr": "La pollution de l’air augmente en centre-ville.",
+      "en": "Air pollution is increasing in the city centre.",
+      "word": "pollution",
+      "wordEn": "pollution",
+      "wordIpa": "pɔ.ly.sjɔ̃",
+      "distractors": [
+        "recyclage",
+        "sécheresse",
+        "forêt"
+      ]
+    },
+    {
+      "id": "remote-environment-listen-2",
+      "fr": "Le tri sélectif n’est pas encore automatique.",
+      "en": "Selective sorting is not automatic yet.",
+      "word": "tri",
+      "wordEn": "sorting",
+      "wordIpa": "tʁi",
+      "distractors": [
+        "compost",
+        "déchet",
+        "transport"
+      ]
+    },
+    {
+      "id": "remote-environment-listen-3",
+      "fr": "La sécheresse a duré tout l’été dernier.",
+      "en": "The drought lasted all last summer.",
+      "word": "sécheresse",
+      "wordEn": "drought",
+      "wordIpa": "seʃ.ʁɛs",
+      "distractors": [
+        "inondation",
+        "océan",
+        "forêt"
+      ]
+    },
+    {
+      "id": "remote-environment-listen-4",
+      "fr": "Les énergies renouvelables se développent vite.",
+      "en": "Renewable energy is developing quickly.",
+      "word": "renouvelable",
+      "wordEn": "renewable",
+      "wordIpa": "ʁə.nu.və.labl",
+      "distractors": [
+        "pesticide",
+        "émission",
+        "espèce"
+      ]
+    }
+  ],
+  "prompts": [
+    "Quels gestes fais-tu pour l’environnement ?",
+    "La voiture en ville : avantages et inconvénients.",
+    "Explique un problème écologique de ta région.",
+    "Que devrait faire le gouvernement, selon toi ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-environment-grammar-1",
+      "title": {
+        "fr": "Il faut / on devrait",
+        "en": "Il faut and on devrait"
+      },
+      "rule": "Il faut + infinitif exprime une nécessité : Il faut trier. On devrait + infinitif est un conseil plus doux : On devrait prendre le train. Au passé : il a fallu.",
+      "table": [
+        [
+          "Forme",
+          "Nuance",
+          "Exemple"
+        ],
+        [
+          "il faut + inf.",
+          "nécessité",
+          "Il faut recycler."
+        ],
+        [
+          "on devrait + inf.",
+          "conseil",
+          "On devrait moins conduire."
+        ],
+        [
+          "il faudrait",
+          "hypothèse",
+          "Il faudrait interdire ça."
+        ],
+        [
+          "il a fallu",
+          "passé",
+          "Il a fallu changer nos habitudes."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-environment-gq-1",
+          "prompt": "___ réduire nos déchets.",
+          "answer": "Il faut",
+          "options": [
+            "Il faut",
+            "On a",
+            "C’est"
+          ]
+        },
+        {
+          "id": "remote-environment-gq-2",
+          "prompt": "On ___ prendre le train.",
+          "answer": "devrait",
+          "options": [
+            "devrait",
+            "faut",
+            "doit de"
+          ]
+        },
+        {
+          "id": "remote-environment-gq-3",
+          "prompt": "Il ___ interdire ces pesticides.",
+          "answer": "faudrait",
+          "options": [
+            "faudrait",
+            "fautait",
+            "fallait de"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-environment-grammar-2",
+      "title": {
+        "fr": "Si + imparfait + conditionnel",
+        "en": "Hypothetical si clauses"
+      },
+      "rule": "Pour une hypothèse peu réelle : Si + imparfait, conditionnel présent. Si tout le monde triait, ce serait plus simple.",
+      "table": [
+        [
+          "Si-clause",
+          "Résultat",
+          "Exemple"
+        ],
+        [
+          "si + imparfait",
+          "conditionnel",
+          "Si je pouvais, je le ferais."
+        ],
+        [
+          "si + présent",
+          "présent / futur",
+          "Si tu tries, ça aide."
+        ],
+        [
+          "ce serait",
+          "résultat imaginé",
+          "ce serait mieux"
+        ],
+        [
+          "on polluerait moins",
+          "conséquence",
+          "on polluerait moins"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-environment-gq-4",
+          "prompt": "Si tout le monde ___, ce serait plus simple.",
+          "answer": "triait",
+          "options": [
+            "trie",
+            "triait",
+            "triera"
+          ]
+        },
+        {
+          "id": "remote-environment-gq-5",
+          "prompt": "Si on prenait le train, on ___ moins.",
+          "answer": "polluerait",
+          "options": [
+            "pollue",
+            "polluerait",
+            "a pollué"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-environment-dict-1",
+        "fr": "À mon avis, il faut réduire nos déchets.",
+        "en": "In my opinion, we need to reduce our waste.",
+        "ipa": "a mɔ̃ n‿a.vi il fo ʁe.dɥiʁ no de.ʃɛ"
+      },
+      {
+        "id": "remote-environment-dict-2",
+        "fr": "Si tout le monde triait, ce serait plus simple.",
+        "en": "If everyone sorted waste, it would be simpler.",
+        "ipa": "si tu lə mɔ̃d tʁi.jɛ sə sə.ʁɛ ply sɛ̃pl"
+      },
+      {
+        "id": "remote-environment-dict-3",
+        "fr": "La pollution de l’air devient un vrai problème.",
+        "en": "Air pollution is becoming a real problem.",
+        "ipa": "la pɔ.ly.sjɔ̃ də lɛʁ də.vjɛ̃ tœ̃ vʁɛ pʁɔ.blɛm"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-environment-mean-1",
+        "fr": "À mon avis, il faut réduire nos déchets.",
+        "en": "In my opinion, we need to reduce our waste.",
+        "choices": [
+          "In my opinion, we need to reduce our waste.",
+          "If everyone sorted waste, it would be simpler.",
+          "Air pollution is becoming a real problem."
+        ]
+      },
+      {
+        "id": "remote-environment-mean-2",
+        "fr": "Si tout le monde triait, ce serait plus simple.",
+        "en": "If everyone sorted waste, it would be simpler.",
+        "choices": [
+          "If everyone sorted waste, it would be simpler.",
+          "In my opinion, we need to reduce our waste.",
+          "Air pollution is becoming a real problem."
+        ]
+      },
+      {
+        "id": "remote-environment-mean-3",
+        "fr": "La pollution de l’air devient un vrai problème.",
+        "en": "Air pollution is becoming a real problem.",
+        "choices": [
+          "Air pollution is becoming a real problem.",
+          "In my opinion, we need to reduce our waste.",
+          "If everyone sorted waste, it would be simpler."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-environment-fren-1",
+        "fr": "environnement",
+        "en": "environment"
+      },
+      {
+        "id": "remote-environment-fren-2",
+        "fr": "pollution",
+        "en": "pollution"
+      },
+      {
+        "id": "remote-environment-fren-3",
+        "fr": "déchet",
+        "en": "waste"
+      },
+      {
+        "id": "remote-environment-fren-4",
+        "fr": "recyclage",
+        "en": "recycling"
+      },
+      {
+        "id": "remote-environment-fren-5",
+        "fr": "tri",
+        "en": "sorting (waste)"
+      },
+      {
+        "id": "remote-environment-fren-6",
+        "fr": "énergie",
+        "en": "energy"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-environment-aloud-1",
+        "fr": "À mon avis, il faut réduire nos déchets.",
+        "en": "In my opinion, we need to reduce our waste.",
+        "ipa": "a mɔ̃ n‿a.vi il fo ʁe.dɥiʁ no de.ʃɛ"
+      },
+      {
+        "id": "remote-environment-aloud-2",
+        "fr": "La pollution de l’air devient un vrai problème.",
+        "en": "Air pollution is becoming a real problem.",
+        "ipa": "la pɔ.ly.sjɔ̃ də lɛʁ də.vjɛ̃ tœ̃ vʁɛ pʁɔ.blɛm"
+      },
+      {
+        "id": "remote-environment-aloud-3",
+        "fr": "On devrait interdire les pesticides les plus dangereux.",
+        "en": "We should ban the most dangerous pesticides.",
+        "ipa": "ɔ̃ də.vʁɛ ɛ̃.tɛʁ.diʁ le pɛs.ti.sid le ply dɑ̃.ʒə.ʁø"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-environment-unsc-1",
+        "fr": "Je prends le train pour polluer moins.",
+        "en": "I take the train to pollute less.",
+        "words": [
+          "Je",
+          "prends",
+          "le",
+          "train",
+          "pour",
+          "polluer",
+          "moins."
+        ]
+      },
+      {
+        "id": "remote-environment-unsc-2",
+        "fr": "On devrait interdire les pesticides les plus dangereux.",
+        "en": "We should ban the most dangerous pesticides.",
+        "words": [
+          "On",
+          "devrait",
+          "interdire",
+          "les",
+          "pesticides",
+          "les",
+          "plus",
+          "dangereux."
+        ]
+      }
+    ]
+  }
+}

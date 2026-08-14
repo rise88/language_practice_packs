@@ -1,0 +1,538 @@
+{
+  "pratiquePack": 1,
+  "id": "science-b2",
+  "version": 1,
+  "level": "b2",
+  "title": {
+    "fr": "Sciences B2",
+    "en": "Science B2"
+  },
+  "description": {
+    "fr": "Recherche, expérience, hypothèse, preuves et travail de laboratoire.",
+    "en": "Research, experiments, hypotheses, evidence, and lab work."
+  },
+  "seed": [
+    {
+      "id": "remote-science-b2-1",
+      "fr": "hypothèse",
+      "en": "hypothesis",
+      "example": "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+      "ipa": "i.pɔ.tɛz",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-b2-2",
+      "fr": "expérience",
+      "en": "experiment",
+      "example": "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+      "ipa": "ɛk.spe.ʁjɑ̃s",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-b2-3",
+      "fr": "preuve",
+      "en": "evidence / proof",
+      "example": "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+      "ipa": "pʁœv",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-b2-4",
+      "fr": "laboratoire",
+      "en": "laboratory",
+      "example": "Le laboratoire manque de personnel qualifié pour analyser tous les échantillons.",
+      "ipa": "la.bɔ.ʁa.twaʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-science-b2-5",
+      "fr": "recherche",
+      "en": "research",
+      "example": "La recherche fondamentale avance lentement, toutefois ses applications peuvent être soudaines.",
+      "ipa": "ʁə.ʃɛʁʃ",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-b2-6",
+      "fr": "protocole",
+      "en": "protocol",
+      "example": "Le protocole impose de noter chaque écart, même minime, dans le cahier.",
+      "ipa": "pʁɔ.tɔ.kɔl",
+      "article": "le"
+    },
+    {
+      "id": "remote-science-b2-7",
+      "fr": "échantillon",
+      "en": "sample",
+      "example": "L’échantillon était trop restreint pour qu’on généralise à l’ensemble de la population.",
+      "ipa": "e.ʃɑ̃.tijɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-b2-8",
+      "fr": "variable",
+      "en": "variable",
+      "example": "Une variable non contrôlée a probablement faussé les premières mesures.",
+      "ipa": "va.ʁjabl",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-b2-9",
+      "fr": "publication",
+      "en": "publication",
+      "example": "La publication a été retirée après qu’une erreur méthodologique a été signalée.",
+      "ipa": "py.bli.ka.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-b2-10",
+      "fr": "résultat",
+      "en": "result",
+      "example": "Les résultats divergent selon que l’on inclut ou non ce groupe témoin.",
+      "ipa": "ʁe.zyl.ta",
+      "article": "le"
+    },
+    {
+      "id": "remote-science-b2-11",
+      "fr": "observation",
+      "en": "observation",
+      "example": "Une observation fortuite a relancé une piste que l’équipe avait abandonnée.",
+      "ipa": "ɔp.sɛʁ.va.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-b2-12",
+      "fr": "théorie",
+      "en": "theory",
+      "example": "Cette théorie explique une partie des données, cependant elle laisse des anomalies.",
+      "ipa": "te.ɔ.ʁi",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-b2-13",
+      "fr": "données",
+      "en": "data",
+      "example": "Les données brutes seront déposées en accès ouvert après la publication.",
+      "ipa": "dɔ.ne",
+      "article": "les"
+    },
+    {
+      "id": "remote-science-b2-14",
+      "fr": "conclusion",
+      "en": "conclusion",
+      "example": "La conclusion reste prudente, car l’échantillon demeure trop limité.",
+      "ipa": "kɔ̃.kly.zjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-b2-15",
+      "fr": "chercheur",
+      "en": "researcher",
+      "example": "Le chercheur a présenté ses travaux lors d’un colloque international.",
+      "ipa": "ʃɛʁ.ʃœʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-science-b2-16",
+      "fr": "méthode",
+      "en": "method",
+      "example": "Une méthode plus rigoureuse aurait permis d’éviter cet artefact.",
+      "ipa": "me.tɔd",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-b2-17",
+      "fr": "mesure",
+      "en": "measurement",
+      "example": "Chaque mesure a été répétée trois fois afin de réduire l’incertitude.",
+      "ipa": "mə.zyʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-b2-18",
+      "fr": "corrélation",
+      "en": "correlation",
+      "example": "Une corrélation n’établit pas un lien de cause à effet, quoi qu’on en dise.",
+      "ipa": "kɔ.ʁe.la.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-b2-19",
+      "fr": "groupe témoin",
+      "en": "control group",
+      "example": "Le groupe témoin n’a reçu aucun traitement, contrairement au groupe testé.",
+      "ipa": "ɡʁup te.mwɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-science-b2-20",
+      "fr": "validité",
+      "en": "validity",
+      "example": "La validité de l’étude dépend de la qualité du protocole et de l’échantillon.",
+      "ipa": "va.li.di.te",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-science-phrase-1",
+      "fr": "Il est essentiel que l’expérience soit reproductible par une équipe indépendante.",
+      "en": "It is essential that the experiment be reproducible by an independent team.",
+      "ipa": "il ɛ tɛ.sɑ̃.sjɛl kə lɛk.spe.ʁjɑ̃s swa ʁə.pʁɔ.dɥi.zibl paʁ yn e.kip ɛ̃.de.pɑ̃.dɑ̃t"
+    },
+    {
+      "id": "remote-science-phrase-2",
+      "fr": "Les chercheurs avaient déjà collecté les données avant de formuler l’hypothèse finale.",
+      "en": "The researchers had already collected the data before formulating the final hypothesis.",
+      "ipa": "le ʃɛʁ.ʃœʁ a.vɛ de.ʒa kɔ.lɛk.te le dɔ.ne a.vɑ̃ də fɔʁ.my.le li.pɔ.tɛz fi.nal"
+    },
+    {
+      "id": "remote-science-phrase-3",
+      "fr": "Si le protocole était plus strict, on réduirait le risque d’erreur de mesure.",
+      "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+      "ipa": "si lə pʁɔ.tɔ.kɔl e.tɛ ply stʁikt ɔ̃ ʁe.dɥi.ʁɛ lə ʁisk dɛ.ʁœʁ də mə.zyʁ"
+    },
+    {
+      "id": "remote-science-phrase-4",
+      "fr": "Une corrélation n’implique pas une causalité, néanmoins elle peut guider la recherche.",
+      "en": "A correlation does not imply causation; nevertheless it can guide the research.",
+      "ipa": "yn kɔ.ʁe.la.sjɔ̃ nɛ̃.plik pa yn ko.za.li.te ne.ɑ̃.mwɛ̃ ɛl pø ɡi.de la ʁə.ʃɛʁʃ"
+    },
+    {
+      "id": "remote-science-phrase-5",
+      "fr": "Bien que le résultat soit prometteur, l’échantillon demeure trop restreint.",
+      "en": "Although the result is promising, the sample remains too limited.",
+      "ipa": "bjɛ̃ kə lə ʁe.zyl.ta swa pʁɔ.mɛ.tœʁ le.ʃɑ̃.tijɔ̃ də.mœʁ tʁo ʁə.stʁɛ̃"
+    },
+    {
+      "id": "remote-science-phrase-6",
+      "fr": "On pourrait objecter que la théorie n’explique pas encore toutes les anomalies.",
+      "en": "One might object that the theory does not yet explain all the anomalies.",
+      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la te.ɔ.ʁi nɛk.splik pa ɑ̃.kɔʁ tut le za.nɔ.ma.li"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-science-listen-1",
+      "fr": "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+      "en": "The initial hypothesis did not withstand the second series of measurements.",
+      "word": "hypothèse",
+      "wordEn": "hypothesis",
+      "wordIpa": "i.pɔ.tɛz",
+      "distractors": [
+        "théorie",
+        "conclusion",
+        "méthode"
+      ]
+    },
+    {
+      "id": "remote-science-listen-2",
+      "fr": "Le protocole impose de noter chaque écart dans le cahier.",
+      "en": "The protocol requires every discrepancy to be recorded in the notebook.",
+      "word": "protocole",
+      "wordEn": "protocol",
+      "wordIpa": "pʁɔ.tɔ.kɔl",
+      "distractors": [
+        "laboratoire",
+        "publication",
+        "validité"
+      ]
+    },
+    {
+      "id": "remote-science-listen-3",
+      "fr": "L’échantillon était trop restreint pour qu’on généralise.",
+      "en": "The sample was too limited for the findings to be generalised.",
+      "word": "échantillon",
+      "wordEn": "sample",
+      "wordIpa": "e.ʃɑ̃.tijɔ̃",
+      "distractors": [
+        "groupe témoin",
+        "variable",
+        "mesure"
+      ]
+    },
+    {
+      "id": "remote-science-listen-4",
+      "fr": "Une corrélation n’établit pas un lien de cause à effet.",
+      "en": "A correlation does not establish a causal link.",
+      "word": "corrélation",
+      "wordEn": "correlation",
+      "wordIpa": "kɔ.ʁe.la.sjɔ̃",
+      "distractors": [
+        "preuve",
+        "observation",
+        "recherche"
+      ]
+    }
+  ],
+  "prompts": [
+    "Pourquoi une expérience doit-elle être reproductible ? Illustre ton propos.",
+    "Explique la différence entre une corrélation et un lien de cause à effet.",
+    "Si tu dirigeais un laboratoire, comment garantirais-tu la validité des résultats ?",
+    "Compare une hypothèse solide et une simple intuition : qu’est-ce qui les distingue ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-science-grammar-1",
+      "title": {
+        "fr": "Le plus-que-parfait dans le récit scientifique",
+        "en": "The pluperfect in scientific narrative"
+      },
+      "rule": "Le plus-que-parfait (avoir/être à l’imparfait + participe passé) situe une action avant une autre dans le passé : Les chercheurs avaient déjà collecté les données avant de formuler l’hypothèse. Il sert à reconstituer la chronologie d’une expérience.",
+      "table": [
+        [
+          "Temps",
+          "Formation",
+          "Exemple"
+        ],
+        [
+          "plus-que-parfait",
+          "imparfait de l’auxiliaire + participe",
+          "ils avaient mesuré"
+        ],
+        [
+          "passé composé",
+          "présent de l’auxiliaire + participe",
+          "ils ont mesuré"
+        ],
+        [
+          "imparfait",
+          "description / habitude",
+          "ils mesuraient chaque jour"
+        ],
+        [
+          "avant de + inf.",
+          "antériorité",
+          "avant de conclure"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-science-gq-1",
+          "prompt": "Complète : Les chercheurs ___ déjà collecté les données avant de formuler l’hypothèse.",
+          "answer": "avaient",
+          "options": [
+            "ont",
+            "avaient",
+            "auraient"
+          ]
+        },
+        {
+          "id": "remote-science-gq-2",
+          "prompt": "Complète : Une observation fortuite a relancé une piste que l’équipe ___ abandonnée.",
+          "answer": "avait",
+          "options": [
+            "a",
+            "avait",
+            "aurait"
+          ]
+        },
+        {
+          "id": "remote-science-gq-3",
+          "prompt": "Complète : Ils ___ déjà noté chaque écart avant de conclure.",
+          "answer": "avaient",
+          "options": [
+            "ont",
+            "avaient",
+            "auraient"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-science-grammar-2",
+      "title": {
+        "fr": "Hypothèse : si + imparfait + conditionnel",
+        "en": "Scientific hypothesis with si-clauses"
+      },
+      "rule": "Pour envisager un autre protocole : Si le protocole était plus strict, on réduirait le risque d’erreur. Si + imparfait ouvre une hypothèse non réalisée ; le conditionnel exprime la conséquence imaginaire.",
+      "table": [
+        [
+          "Condition",
+          "Conséquence",
+          "Exemple"
+        ],
+        [
+          "Si + imparfait",
+          "conditionnel présent",
+          "Si l’échantillon était plus large, on généraliserait."
+        ],
+        [
+          "Si + plus-que-parfait",
+          "conditionnel passé",
+          "Si l’on avait contrôlé la variable, on n’aurait pas faussé les mesures."
+        ],
+        [
+          "si + présent",
+          "présent / futur (réel)",
+          "Si l’on répète l’expérience, on verra."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-science-gq-4",
+          "prompt": "Complète : Si le protocole ___ plus strict, on réduirait le risque d’erreur.",
+          "answer": "était",
+          "options": [
+            "est",
+            "était",
+            "sera"
+          ]
+        },
+        {
+          "id": "remote-science-gq-5",
+          "prompt": "Complète : Si l’échantillon était plus large, on ___.",
+          "answer": "généraliserait",
+          "options": [
+            "généralise",
+            "généraliserait",
+            "a généralisé"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-science-dict-1",
+        "fr": "Il est essentiel que l’expérience soit reproductible par une équipe indépendante.",
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "ipa": "il ɛ tɛ.sɑ̃.sjɛl kə lɛk.spe.ʁjɑ̃s swa ʁə.pʁɔ.dɥi.zibl paʁ yn e.kip ɛ̃.de.pɑ̃.dɑ̃t"
+      },
+      {
+        "id": "remote-science-dict-2",
+        "fr": "Les chercheurs avaient déjà collecté les données avant de formuler l’hypothèse finale.",
+        "en": "The researchers had already collected the data before formulating the final hypothesis.",
+        "ipa": "le ʃɛʁ.ʃœʁ a.vɛ de.ʒa kɔ.lɛk.te le dɔ.ne a.vɑ̃ də fɔʁ.my.le li.pɔ.tɛz fi.nal"
+      },
+      {
+        "id": "remote-science-dict-3",
+        "fr": "Si le protocole était plus strict, on réduirait le risque d’erreur de mesure.",
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "ipa": "si lə pʁɔ.tɔ.kɔl e.tɛ ply stʁikt ɔ̃ ʁe.dɥi.ʁɛ lə ʁisk dɛ.ʁœʁ də mə.zyʁ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-science-mean-1",
+        "fr": "Il est essentiel que l’expérience soit reproductible par une équipe indépendante.",
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "choices": [
+          "It is essential that the experiment be reproducible by an independent team.",
+          "The laboratory has already published the raw data.",
+          "A correlation is enough to prove a causal link."
+        ]
+      },
+      {
+        "id": "remote-science-mean-2",
+        "fr": "Les chercheurs avaient déjà collecté les données avant de formuler l’hypothèse finale.",
+        "en": "The researchers had already collected the data before formulating the final hypothesis.",
+        "choices": [
+          "The researchers had already collected the data before formulating the final hypothesis.",
+          "The control group received the same treatment as the others.",
+          "The theory has been withdrawn after a measurement error."
+        ]
+      },
+      {
+        "id": "remote-science-mean-3",
+        "fr": "Si le protocole était plus strict, on réduirait le risque d’erreur de mesure.",
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "choices": [
+          "If the protocol were stricter, the risk of measurement error would be reduced.",
+          "The sample was large enough to generalise the findings.",
+          "Researchers never record minor discrepancies."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-science-fren-1",
+        "fr": "hypothèse",
+        "en": "hypothesis"
+      },
+      {
+        "id": "remote-science-fren-2",
+        "fr": "expérience",
+        "en": "experiment"
+      },
+      {
+        "id": "remote-science-fren-3",
+        "fr": "preuve",
+        "en": "evidence"
+      },
+      {
+        "id": "remote-science-fren-4",
+        "fr": "laboratoire",
+        "en": "laboratory"
+      },
+      {
+        "id": "remote-science-fren-5",
+        "fr": "recherche",
+        "en": "research"
+      },
+      {
+        "id": "remote-science-fren-6",
+        "fr": "protocole",
+        "en": "protocol"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-science-aloud-1",
+        "fr": "Il est essentiel que l’expérience soit reproductible par une équipe indépendante.",
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "ipa": "il ɛ tɛ.sɑ̃.sjɛl kə lɛk.spe.ʁjɑ̃s swa ʁə.pʁɔ.dɥi.zibl paʁ yn e.kip ɛ̃.de.pɑ̃.dɑ̃t"
+      },
+      {
+        "id": "remote-science-aloud-2",
+        "fr": "Si le protocole était plus strict, on réduirait le risque d’erreur de mesure.",
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "ipa": "si lə pʁɔ.tɔ.kɔl e.tɛ ply stʁikt ɔ̃ ʁe.dɥi.ʁɛ lə ʁisk dɛ.ʁœʁ də mə.zyʁ"
+      },
+      {
+        "id": "remote-science-aloud-3",
+        "fr": "Bien que le résultat soit prometteur, l’échantillon demeure trop restreint.",
+        "en": "Although the result is promising, the sample remains too limited.",
+        "ipa": "bjɛ̃ kə lə ʁe.zyl.ta swa pʁɔ.mɛ.tœʁ le.ʃɑ̃.tijɔ̃ də.mœʁ tʁo ʁə.stʁɛ̃"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-science-unsc-1",
+        "fr": "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+        "en": "This single piece of evidence is not enough; nevertheless it guides the research.",
+        "words": [
+          "Cette",
+          "seule",
+          "preuve",
+          "ne",
+          "suffit",
+          "pas,",
+          "néanmoins",
+          "elle",
+          "oriente",
+          "la",
+          "recherche."
+        ]
+      },
+      {
+        "id": "remote-science-unsc-2",
+        "fr": "Une corrélation n’établit pas un lien de cause à effet.",
+        "en": "A correlation does not establish a cause-and-effect link.",
+        "words": [
+          "Une",
+          "corrélation",
+          "n’établit",
+          "pas",
+          "un",
+          "lien",
+          "de",
+          "cause",
+          "à",
+          "effet."
+        ]
+      }
+    ]
+  }
+}

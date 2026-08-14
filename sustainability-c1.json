@@ -1,0 +1,542 @@
+{
+  "pratiquePack": 1,
+  "id": "sustainability-c1",
+  "version": 1,
+  "level": "c1",
+  "title": {
+    "fr": "Transition écologique C1",
+    "en": "Ecological transition C1"
+  },
+  "description": {
+    "fr": "Décarbonation, économie circulaire, biodiversité et externalités.",
+    "en": "Decarbonization, circular economy, biodiversity, and externalities."
+  },
+  "seed": [
+    {
+      "id": "remote-sustainability-c1-1",
+      "fr": "décarbonation",
+      "en": "decarbonization",
+      "example": "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+      "ipa": "de.kaʁ.bɔ.na.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-sustainability-c1-2",
+      "fr": "économie circulaire",
+      "en": "circular economy",
+      "example": "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+      "ipa": "e.kɔ.nɔ.mi siʁ.ky.lɛʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-sustainability-c1-3",
+      "fr": "biodiversité",
+      "en": "biodiversity",
+      "example": "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés.",
+      "ipa": "bjɔ.di.vɛʁ.si.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-sustainability-c1-4",
+      "fr": "externalité",
+      "en": "externality",
+      "example": "Cette externalité négative, quitte à n’apparaître dans aucun prix, pèse sur des tiers que le marché ignore.",
+      "ipa": "ɛk.stɛʁ.na.li.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-sustainability-c1-5",
+      "fr": "transition",
+      "en": "transition",
+      "example": "La transition écologique, à moins qu’elle ne soit juste, risque de reproduire les inégalités qu’elle prétend corriger.",
+      "ipa": "tʁɑ̃.zi.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-sustainability-c1-6",
+      "fr": "empreinte",
+      "en": "footprint",
+      "example": "L’empreinte carbone, dont le calcul reste un cadrage contesté, oriente néanmoins l’atténuation des organisations.",
+      "ipa": "ɑ̃.pʁɛ̃t",
+      "article": "l'"
+    },
+    {
+      "id": "remote-sustainability-c1-7",
+      "fr": "atténuation",
+      "en": "mitigation",
+      "example": "L’atténuation, loin de dispenser de l’adaptation, demeure prioritaire tant que les seuils critiques ne sont pas franchis.",
+      "ipa": "a.te.nɥa.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-sustainability-c1-8",
+      "fr": "résilience",
+      "en": "resilience",
+      "example": "La résilience d’un écosystème, encore qu’elle soit célébrée, a des limites que le réchauffement peut faire basculer.",
+      "ipa": "ʁe.zi.ljɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-sustainability-c1-9",
+      "fr": "sobriété",
+      "en": "sufficiency",
+      "example": "La sobriété, quitte à heurter le récit de la croissance, constitue un levier que la seule compensation ne remplace pas.",
+      "ipa": "sɔ.bʁi.e.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-sustainability-c1-10",
+      "fr": "compensation",
+      "en": "offsetting",
+      "example": "La compensation carbone, à moins d’être additionnelle et vérifiée, n’est souvent qu’un corollaire comptable de l’inaction.",
+      "ipa": "kɔ̃.pɑ̃.sa.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-sustainability-c1-11",
+      "fr": "écosystème",
+      "en": "ecosystem",
+      "example": "L’écosystème, dont les services restent des externalités, s’effondre dès que les seuils de biodiversité sont franchis.",
+      "ipa": "e.kɔ.sis.tɛm",
+      "article": "l'"
+    },
+    {
+      "id": "remote-sustainability-c1-12",
+      "fr": "réchauffement",
+      "en": "warming",
+      "example": "Le réchauffement, loin d’être linéaire, produit des bascules dont la portée échappe aux modèles d’atténuation.",
+      "ipa": "ʁe.ʃo.fə.mɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-sustainability-c1-13",
+      "fr": "neutralité",
+      "en": "neutrality (carbon)",
+      "example": "La neutralité affichée, encore qu’elle rassure les investisseurs, dépend d’une compensation dont l’intégrité est fragile.",
+      "ipa": "nø.tʁa.li.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-sustainability-c1-14",
+      "fr": "extractivisme",
+      "en": "extractivism",
+      "example": "L’extractivisme, quitte à financer la transition ailleurs, déplace les externalités vers des territoires déjà vulnérables.",
+      "ipa": "ɛk.stʁak.ti.vism",
+      "article": "l'"
+    },
+    {
+      "id": "remote-sustainability-c1-15",
+      "fr": "agroécologie",
+      "en": "agroecology",
+      "example": "L’agroécologie, à moins qu’on n’en fasse un label vide, articule biodiversité, sobriété et gouvernance alimentaire.",
+      "ipa": "a.ɡʁɔ.e.kɔ.lɔ.ʒi",
+      "article": "l'"
+    },
+    {
+      "id": "remote-sustainability-c1-16",
+      "fr": "obsolescence",
+      "en": "obsolescence",
+      "example": "L’obsolescence programmée, dont le corollaire est l’empreinte matière, contredit l’économie circulaire proclamée.",
+      "ipa": "ɔb.sɔ.lɛ.sɑ̃s",
+      "article": "l'"
+    },
+    {
+      "id": "remote-sustainability-c1-17",
+      "fr": "gouvernance",
+      "en": "governance",
+      "example": "La gouvernance climatique, encore que multilatérale, bute sur l’arbitrage entre atténuation immédiate et adaptation.",
+      "ipa": "ɡu.vɛʁ.nɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-sustainability-c1-18",
+      "fr": "adaptation",
+      "en": "adaptation",
+      "example": "L’adaptation, loin de remplacer la décarbonation, devient inévitable dès lors que certains seuils sont dépassés.",
+      "ipa": "a.dap.ta.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-sustainability-c1-19",
+      "fr": "seuil",
+      "en": "threshold",
+      "example": "Le seuil critique, à moins qu’il ne soit respecté, transforme une externalité gérable en bascule irréversible.",
+      "ipa": "sœj",
+      "article": "le"
+    },
+    {
+      "id": "remote-sustainability-c1-20",
+      "fr": "puits de carbone",
+      "en": "carbon sink",
+      "example": "Le puits de carbone forestier, dont la résilience dépend de la biodiversité, n’est pas un droit à émettre davantage.",
+      "ipa": "pɥi də kaʁ.bɔn",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-sustainability-phrase-1",
+      "fr": "Encore que la compensation rassure, elle ne saurait remplacer la décarbonation.",
+      "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+      "ipa": "ɑ̃.kɔʁ kə la kɔ̃.pɑ̃.sa.sjɔ̃ ʁa.syʁ ɛl nə so.ʁɛ ʁɑ̃.pla.se la de.kaʁ.bɔ.na.sjɔ̃"
+    },
+    {
+      "id": "remote-sustainability-phrase-2",
+      "fr": "Loin d’être un simple recyclage, l’économie circulaire vise à réduire l’obsolescence.",
+      "en": "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+      "ipa": "lwɛ̃ dɛtʁ œ̃ sɛ̃pl ʁe.si.klaʒ le.kɔ.nɔ.mi siʁ.ky.lɛʁ viz a ʁe.dɥiʁ lɔb.sɔ.lɛ.sɑ̃s"
+    },
+    {
+      "id": "remote-sustainability-phrase-3",
+      "fr": "À moins que les seuils ne soient respectés, la résilience de l’écosystème basculera.",
+      "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+      "ipa": "a mwɛ̃ kə le sœj nə swa ʁə.spɛk.te la ʁe.zi.ljɑ̃s də le.kɔ.sis.tɛm bas.ky.lə.ʁa"
+    },
+    {
+      "id": "remote-sustainability-phrase-4",
+      "fr": "Quitte à heurter le récit de la croissance, la sobriété demeure un levier décisif.",
+      "en": "Even if it clashes with the growth narrative, sufficiency remains a decisive lever.",
+      "ipa": "kit a œʁ.te lə ʁe.si də la kʁwa.sɑ̃s la sɔ.bʁi.e.te də.mœʁ œ̃ lə.vje de.si.zif"
+    },
+    {
+      "id": "remote-sustainability-phrase-5",
+      "fr": "Si l’atténuation avait été plus rapide, l’adaptation pèserait moins sur les plus vulnérables.",
+      "en": "If mitigation had been faster, adaptation would weigh less on the most vulnerable.",
+      "ipa": "si la.te.nɥa.sjɔ̃ a.vɛ e.te ply ʁa.pid la.dap.ta.sjɔ̃ pɛ.sə.ʁɛ mwɛ̃ syʁ le ply vyl.ne.ʁabl"
+    },
+    {
+      "id": "remote-sustainability-phrase-6",
+      "fr": "La biodiversité, dont on fait une externalité, conditionne pourtant toute résilience.",
+      "en": "Biodiversity, which is treated as an externality, nevertheless conditions all resilience.",
+      "ipa": "la bjɔ.di.vɛʁ.si.te dɔ̃ nɔ̃ fɛ yn ɛk.stɛʁ.na.li.te kɔ̃.di.sjɔn puʁ.tɑ̃ tut ʁe.zi.ljɑ̃s"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-sustainability-listen-1",
+      "fr": "Cette externalité négative pèse sur des tiers que le marché ignore.",
+      "en": "This negative externality weighs on third parties the market ignores.",
+      "word": "externalité",
+      "wordEn": "externality",
+      "wordIpa": "ɛk.stɛʁ.na.li.te",
+      "distractors": [
+        "compensation",
+        "neutralité",
+        "seuil"
+      ]
+    },
+    {
+      "id": "remote-sustainability-listen-2",
+      "fr": "La décarbonation suppose un arbitrage entre compétitivité et sobriété.",
+      "en": "Decarbonization requires a trade-off between competitiveness and sufficiency.",
+      "word": "décarbonation",
+      "wordEn": "decarbonization",
+      "wordIpa": "de.kaʁ.bɔ.na.sjɔ̃",
+      "distractors": [
+        "adaptation",
+        "extractivisme",
+        "gouvernance"
+      ]
+    },
+    {
+      "id": "remote-sustainability-listen-3",
+      "fr": "L’obsolescence programmée contredit l’économie circulaire proclamée.",
+      "en": "Planned obsolescence contradicts the proclaimed circular economy.",
+      "word": "obsolescence",
+      "wordEn": "obsolescence",
+      "wordIpa": "ɔb.sɔ.lɛ.sɑ̃s",
+      "distractors": [
+        "empreinte",
+        "puits de carbone",
+        "agroécologie"
+      ]
+    },
+    {
+      "id": "remote-sustainability-listen-4",
+      "fr": "Le réchauffement produit des bascules dont la portée échappe aux modèles.",
+      "en": "Warming produces tipping points whose scope eludes the models.",
+      "word": "réchauffement",
+      "wordEn": "warming",
+      "wordIpa": "ʁe.ʃo.fə.mɑ̃",
+      "distractors": [
+        "résilience",
+        "transition",
+        "atténuation"
+      ]
+    }
+  ],
+  "prompts": [
+    "Nuancez l’idée selon laquelle la compensation suffirait à atteindre la neutralité.",
+    "Concédez un coût économique à la sobriété, puis reformulez son enjeu climatique.",
+    "Dans quelle mesure l’économie circulaire peut-elle réduire les externalités de l’extractivisme ?",
+    "Reformulez l’argument selon lequel l’adaptation dispenserait d’une atténuation rapide."
+  ],
+  "grammar": [
+    {
+      "id": "remote-sustainability-grammar-1",
+      "title": {
+        "fr": "À moins que et le ne explétif",
+        "en": "À moins que and expletive ne"
+      },
+      "rule": "À moins que régit le subjonctif et s’accompagne souvent d’un ne explétif, sans valeur négative : à moins que les seuils ne soient respectés. Ne pas le confondre avec la négation vraie ne… pas.",
+      "table": [
+        [
+          "Construction",
+          "Mode",
+          "Exemple"
+        ],
+        [
+          "à moins que … ne + subj.",
+          "explétif",
+          "à moins que le seuil ne soit franchi"
+        ],
+        [
+          "avant que … ne + subj.",
+          "explétif",
+          "avant que l’écosystème ne bascule"
+        ],
+        [
+          "à moins de + inf.",
+          "sans ne",
+          "à moins d’être vérifiée"
+        ],
+        [
+          "sauf si + ind.",
+          "condition",
+          "sauf si le seuil est respecté"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-sustainability-gq-1",
+          "prompt": "À moins que les seuils ___ respectés, la résilience basculera.",
+          "answer": "ne soient",
+          "options": [
+            "ne soient",
+            "sont",
+            "ne sont pas"
+          ]
+        },
+        {
+          "id": "remote-sustainability-gq-2",
+          "prompt": "La compensation, à moins ___ additionnelle, reste cosmétique.",
+          "answer": "d’être",
+          "options": [
+            "d’être",
+            "qu’elle est",
+            "de soit"
+          ]
+        },
+        {
+          "id": "remote-sustainability-gq-3",
+          "prompt": "Avant que l’écosystème ___ , il faut réduire l’empreinte.",
+          "answer": "ne bascule",
+          "options": [
+            "ne bascule",
+            "bascule pas",
+            "basculera"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-sustainability-grammar-2",
+      "title": {
+        "fr": "Concordance : si + plus-que-parfait",
+        "en": "Tense harmony: si + pluperfect"
+      },
+      "rule": "Pour un irréel du passé : si + plus-que-parfait, la principale se met au conditionnel passé. Si l’atténuation avait été plus rapide, l’adaptation aurait pesé moins. Le conditionnel présent dans la principale évoque une conséquence encore actuelle.",
+      "table": [
+        [
+          "Si-clause",
+          "Principale",
+          "Valeur"
+        ],
+        [
+          "si + p.-q.-parfait",
+          "conditionnel passé",
+          "irréel passé"
+        ],
+        [
+          "si + p.-q.-parfait",
+          "conditionnel présent",
+          "séquelle actuelle"
+        ],
+        [
+          "si + imparfait",
+          "conditionnel présent",
+          "irréel présent"
+        ],
+        [
+          "si + présent",
+          "futur",
+          "hypothèse ouverte"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-sustainability-gq-4",
+          "prompt": "Si l’atténuation ___ plus rapide, l’adaptation pèserait moins.",
+          "answer": "avait été",
+          "options": [
+            "avait été",
+            "aurait été",
+            "était été"
+          ]
+        },
+        {
+          "id": "remote-sustainability-gq-5",
+          "prompt": "Si les seuils ___ respectés, la bascule n’aurait pas eu lieu.",
+          "answer": "avaient été",
+          "options": [
+            "avaient été",
+            "auraient été",
+            "soient"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-sustainability-dict-1",
+        "fr": "Encore que la compensation rassure, elle ne saurait remplacer la décarbonation.",
+        "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+        "ipa": "ɑ̃.kɔʁ kə la kɔ̃.pɑ̃.sa.sjɔ̃ ʁa.syʁ ɛl nə so.ʁɛ ʁɑ̃.pla.se la de.kaʁ.bɔ.na.sjɔ̃"
+      },
+      {
+        "id": "remote-sustainability-dict-2",
+        "fr": "Loin d’être un simple recyclage, l’économie circulaire vise à réduire l’obsolescence.",
+        "en": "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+        "ipa": "lwɛ̃ dɛtʁ œ̃ sɛ̃pl ʁe.si.klaʒ le.kɔ.nɔ.mi siʁ.ky.lɛʁ viz a ʁe.dɥiʁ lɔb.sɔ.lɛ.sɑ̃s"
+      },
+      {
+        "id": "remote-sustainability-dict-3",
+        "fr": "À moins que les seuils ne soient respectés, la résilience de l’écosystème basculera.",
+        "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+        "ipa": "a mwɛ̃ kə le sœj nə swa ʁə.spɛk.te la ʁe.zi.ljɑ̃s də le.kɔ.sis.tɛm bas.ky.lə.ʁa"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-sustainability-mean-1",
+        "fr": "Encore que la compensation rassure, elle ne saurait remplacer la décarbonation.",
+        "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+        "choices": [
+          "Even though offsetting is reassuring, it cannot replace decarbonization.",
+          "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+          "Unless the thresholds are respected, the ecosystem’s resilience will tip over."
+        ]
+      },
+      {
+        "id": "remote-sustainability-mean-2",
+        "fr": "Loin d’être un simple recyclage, l’économie circulaire vise à réduire l’obsolescence.",
+        "en": "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+        "choices": [
+          "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+          "Even though offsetting is reassuring, it cannot replace decarbonization.",
+          "Unless the thresholds are respected, the ecosystem’s resilience will tip over."
+        ]
+      },
+      {
+        "id": "remote-sustainability-mean-3",
+        "fr": "À moins que les seuils ne soient respectés, la résilience de l’écosystème basculera.",
+        "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+        "choices": [
+          "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+          "Even though offsetting is reassuring, it cannot replace decarbonization.",
+          "Far from being mere recycling, the circular economy aims to reduce obsolescence."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-sustainability-fren-1",
+        "fr": "décarbonation",
+        "en": "decarbonization"
+      },
+      {
+        "id": "remote-sustainability-fren-2",
+        "fr": "économie circulaire",
+        "en": "circular economy"
+      },
+      {
+        "id": "remote-sustainability-fren-3",
+        "fr": "biodiversité",
+        "en": "biodiversity"
+      },
+      {
+        "id": "remote-sustainability-fren-4",
+        "fr": "externalité",
+        "en": "externality"
+      },
+      {
+        "id": "remote-sustainability-fren-5",
+        "fr": "transition",
+        "en": "transition"
+      },
+      {
+        "id": "remote-sustainability-fren-6",
+        "fr": "empreinte",
+        "en": "footprint"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-sustainability-aloud-1",
+        "fr": "Encore que la compensation rassure, elle ne saurait remplacer la décarbonation.",
+        "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+        "ipa": "ɑ̃.kɔʁ kə la kɔ̃.pɑ̃.sa.sjɔ̃ ʁa.syʁ ɛl nə so.ʁɛ ʁɑ̃.pla.se la de.kaʁ.bɔ.na.sjɔ̃"
+      },
+      {
+        "id": "remote-sustainability-aloud-2",
+        "fr": "À moins que les seuils ne soient respectés, la résilience de l’écosystème basculera.",
+        "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+        "ipa": "a mwɛ̃ kə le sœj nə swa ʁə.spɛk.te la ʁe.zi.ljɑ̃s də le.kɔ.sis.tɛm bas.ky.lə.ʁa"
+      },
+      {
+        "id": "remote-sustainability-aloud-3",
+        "fr": "Si l’atténuation avait été plus rapide, l’adaptation pèserait moins sur les plus vulnérables.",
+        "en": "If mitigation had been faster, adaptation would weigh less on the most vulnerable.",
+        "ipa": "si la.te.nɥa.sjɔ̃ a.vɛ e.te ply ʁa.pid la.dap.ta.sjɔ̃ pɛ.sə.ʁɛ mwɛ̃ syʁ le ply vyl.ne.ʁabl"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-sustainability-unsc-1",
+        "fr": "Encore que la compensation rassure, elle ne remplace pas la décarbonation.",
+        "en": "Even though offsetting is reassuring, it does not replace decarbonization.",
+        "words": [
+          "Encore",
+          "que",
+          "la",
+          "compensation",
+          "rassure,",
+          "elle",
+          "ne",
+          "remplace",
+          "pas",
+          "la",
+          "décarbonation."
+        ]
+      },
+      {
+        "id": "remote-sustainability-unsc-2",
+        "fr": "Loin d’être un simple recyclage, l’économie circulaire réduit l’obsolescence.",
+        "en": "Far from being mere recycling, the circular economy reduces obsolescence.",
+        "words": [
+          "Loin",
+          "d’être",
+          "un",
+          "simple",
+          "recyclage,",
+          "l’économie",
+          "circulaire",
+          "réduit",
+          "l’obsolescence."
+        ]
+      }
+    ]
+  }
+}
