@@ -1,0 +1,559 @@
+{
+  "pratiquePack": 1,
+  "id": "directions-a2",
+  "version": 1,
+  "level": "a2",
+  "title": {
+    "fr": "Itinéraire A2",
+    "en": "Directions A2"
+  },
+  "description": {
+    "fr": "Demander et indiquer le chemin en ville avec confiance.",
+    "en": "Ask for and give directions in town with confidence."
+  },
+  "seed": [
+    {
+      "id": "remote-directions-a2-1",
+      "fr": "chemin",
+      "en": "way / path",
+      "example": "Quel est le plus court chemin ?",
+      "ipa": "ʃə.mɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-2",
+      "fr": "itinéraire",
+      "en": "route",
+      "example": "Voici l’itinéraire jusqu’à l’hôtel.",
+      "ipa": "i.ti.ne.ʁɛʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-directions-a2-3",
+      "fr": "carrefour",
+      "en": "crossroads",
+      "example": "Tournez à droite au carrefour.",
+      "ipa": "kaʁ.fuʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-4",
+      "fr": "feu",
+      "en": "traffic light",
+      "example": "Arrêtez-vous au feu rouge.",
+      "ipa": "fø",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-5",
+      "fr": "piéton",
+      "en": "pedestrian",
+      "example": "Les piétons traversent ici.",
+      "ipa": "pje.tɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-6",
+      "fr": "passage",
+      "en": "crossing / passage",
+      "example": "Le passage piéton est devant vous.",
+      "ipa": "pa.saʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-7",
+      "fr": "coin",
+      "en": "corner",
+      "example": "Le café est au coin de la rue.",
+      "ipa": "kwɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-8",
+      "fr": "rond-point",
+      "en": "roundabout",
+      "example": "Prenez la deuxième sortie au rond-point.",
+      "ipa": "ʁɔ̃.pwɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-9",
+      "fr": "nord",
+      "en": "north",
+      "example": "Allez vers le nord.",
+      "ipa": "nɔʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-10",
+      "fr": "sud",
+      "en": "south",
+      "example": "La gare est au sud de la ville.",
+      "ipa": "syd",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-11",
+      "fr": "est",
+      "en": "east",
+      "example": "L’aéroport est à l’est.",
+      "ipa": "ɛst",
+      "article": "l'"
+    },
+    {
+      "id": "remote-directions-a2-12",
+      "fr": "ouest",
+      "en": "west",
+      "example": "Le stade est à l’ouest.",
+      "ipa": "wɛst",
+      "article": "l'"
+    },
+    {
+      "id": "remote-directions-a2-13",
+      "fr": "distance",
+      "en": "distance",
+      "example": "La distance est d’environ deux kilomètres.",
+      "ipa": "dis.tɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-directions-a2-14",
+      "fr": "plan",
+      "en": "map",
+      "example": "Je n’ai pas de plan.",
+      "ipa": "plɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-15",
+      "fr": "gps",
+      "en": "GPS",
+      "example": "Le GPS indique une autre route.",
+      "ipa": "ʒe.pe.ɛs",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-16",
+      "fr": "sortie",
+      "en": "exit",
+      "example": "La sortie est à gauche.",
+      "ipa": "sɔʁ.ti",
+      "article": "la"
+    },
+    {
+      "id": "remote-directions-a2-17",
+      "fr": "entrée",
+      "en": "entrance",
+      "example": "L’entrée du musée est derrière.",
+      "ipa": "ɑ̃.tʁe",
+      "article": "l'"
+    },
+    {
+      "id": "remote-directions-a2-18",
+      "fr": "trottoir",
+      "en": "pavement / sidewalk",
+      "example": "Marchez sur le trottoir.",
+      "ipa": "tʁɔ.twaʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-19",
+      "fr": "sens unique",
+      "en": "one-way street",
+      "example": "C’est une rue en sens unique.",
+      "ipa": "sɑ̃s y.nik",
+      "article": "le"
+    },
+    {
+      "id": "remote-directions-a2-20",
+      "fr": "embouteillage",
+      "en": "traffic jam",
+      "example": "Il y a un embouteillage sur le pont.",
+      "ipa": "ɑ̃.bu.tɛ.jaʒ",
+      "article": "l'"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-directions-phrase-1",
+      "fr": "Pour aller à la gare, s’il vous plaît ?",
+      "en": "How do I get to the station, please?",
+      "ipa": "puʁ a.le a la ɡaʁ sil vu plɛ"
+    },
+    {
+      "id": "remote-directions-phrase-2",
+      "fr": "Tournez à gauche au prochain feu.",
+      "en": "Turn left at the next lights.",
+      "ipa": "tuʁ.ne a ɡoʃ o pʁɔ.ʃɛ̃ fø"
+    },
+    {
+      "id": "remote-directions-phrase-3",
+      "fr": "C’est à cinq minutes à pied.",
+      "en": "It’s a five-minute walk.",
+      "ipa": "sɛ ta sɛ̃ mi.nyt a pje"
+    },
+    {
+      "id": "remote-directions-phrase-4",
+      "fr": "Vous êtes arrivé : c’est juste en face.",
+      "en": "You’ve arrived: it’s right opposite.",
+      "ipa": "vu.z‿ɛt a.ʁi.ve sɛ ʒyst ɑ̃ fas"
+    },
+    {
+      "id": "remote-directions-phrase-5",
+      "fr": "Je suis perdu / perdue.",
+      "en": "I’m lost.",
+      "ipa": "ʒə sɥi pɛʁ.dy / pɛʁ.dy"
+    },
+    {
+      "id": "remote-directions-phrase-6",
+      "fr": "Prenez la deuxième rue à droite.",
+      "en": "Take the second street on the right.",
+      "ipa": "pʁə.ne la dø.zjɛm ʁy a dʁwat"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-directions-listen-1",
+      "fr": "Tournez à gauche au prochain feu rouge.",
+      "en": "Turn left at the next red light.",
+      "word": "feu",
+      "wordEn": "traffic light",
+      "wordIpa": "fø",
+      "distractors": [
+        "pont",
+        "parc",
+        "plan"
+      ]
+    },
+    {
+      "id": "remote-directions-listen-2",
+      "fr": "Le café est au coin de la rue.",
+      "en": "The café is on the street corner.",
+      "word": "coin",
+      "wordEn": "corner",
+      "wordIpa": "kwɛ̃",
+      "distractors": [
+        "carrefour",
+        "trottoir",
+        "sortie"
+      ]
+    },
+    {
+      "id": "remote-directions-listen-3",
+      "fr": "Prenez la deuxième sortie au rond-point.",
+      "en": "Take the second exit at the roundabout.",
+      "word": "rond-point",
+      "wordEn": "roundabout",
+      "wordIpa": "ʁɔ̃.pwɛ̃",
+      "distractors": [
+        "carrefour",
+        "passage",
+        "embouteillage"
+      ]
+    },
+    {
+      "id": "remote-directions-listen-4",
+      "fr": "Il y a un embouteillage sur le pont.",
+      "en": "There’s a traffic jam on the bridge.",
+      "word": "embouteillage",
+      "wordEn": "traffic jam",
+      "wordIpa": "ɑ̃.bu.tɛ.jaʒ",
+      "distractors": [
+        "itinéraire",
+        "distance",
+        "gps"
+      ]
+    }
+  ],
+  "prompts": [
+    "Explique le chemin de chez toi jusqu’à la gare.",
+    "Tu es perdu : que demandes-tu ?",
+    "Décris un itinéraire pour un ami.",
+    "Préfères-tu marcher, prendre le bus ou le métro ? Pourquoi ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-directions-grammar-1",
+      "title": {
+        "fr": "L’impératif pour indiquer le chemin",
+        "en": "Imperative for directions"
+      },
+      "rule": "Pour donner un ordre poli : impératif. Tournez à droite. Prenez la première rue. Allez tout droit. Forme vous pour parler à un inconnu.",
+      "table": [
+        [
+          "Infinitif",
+          "vous",
+          "tu"
+        ],
+        [
+          "tourner",
+          "tournez",
+          "tourne"
+        ],
+        [
+          "prendre",
+          "prenez",
+          "prends"
+        ],
+        [
+          "aller",
+          "allez",
+          "va"
+        ],
+        [
+          "traverser",
+          "traversez",
+          "traverse"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-directions-gq-1",
+          "prompt": "___ à gauche au feu.",
+          "answer": "Tournez",
+          "options": [
+            "Tournez",
+            "Tourner",
+            "Tournons"
+          ]
+        },
+        {
+          "id": "remote-directions-gq-2",
+          "prompt": "___ la deuxième rue à droite.",
+          "answer": "Prenez",
+          "options": [
+            "Prenez",
+            "Prendre",
+            "Prends"
+          ]
+        },
+        {
+          "id": "remote-directions-gq-3",
+          "prompt": "___ tout droit.",
+          "answer": "Allez",
+          "options": [
+            "Aller",
+            "Allez",
+            "Allons"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-directions-grammar-2",
+      "title": {
+        "fr": "En face / à côté / au bout",
+        "en": "Location prepositions"
+      },
+      "rule": "en face de = opposite; à côté de = next to; au bout de = at the end of; près de = near; loin de = far from.",
+      "table": [
+        [
+          "Expression",
+          "Sens",
+          "Exemple"
+        ],
+        [
+          "en face de",
+          "opposite",
+          "en face de la banque"
+        ],
+        [
+          "à côté de",
+          "next to",
+          "à côté de la poste"
+        ],
+        [
+          "au bout de",
+          "at the end of",
+          "au bout de la rue"
+        ],
+        [
+          "près de / loin de",
+          "near / far",
+          "près de la gare"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-directions-gq-4",
+          "prompt": "Le musée est ___ de l’hôtel.",
+          "answer": "en face",
+          "options": [
+            "en face",
+            "au bout",
+            "loin"
+          ]
+        },
+        {
+          "id": "remote-directions-gq-5",
+          "prompt": "La pharmacie est ___ de la boulangerie.",
+          "answer": "à côté",
+          "options": [
+            "à côté",
+            "en face",
+            "au nord"
+          ]
+        },
+        {
+          "id": "remote-directions-gq-6",
+          "prompt": "Le parc est ___ de la rue.",
+          "answer": "au bout",
+          "options": [
+            "au bout",
+            "en face",
+            "à pied"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-directions-dict-1",
+        "fr": "Pour aller à la gare, s’il vous plaît ?",
+        "en": "How do I get to the station, please?",
+        "ipa": "puʁ a.le a la ɡaʁ sil vu plɛ"
+      },
+      {
+        "id": "remote-directions-dict-2",
+        "fr": "Tournez à gauche au prochain feu.",
+        "en": "Turn left at the next lights.",
+        "ipa": "tuʁ.ne a ɡoʃ o pʁɔ.ʃɛ̃ fø"
+      },
+      {
+        "id": "remote-directions-dict-3",
+        "fr": "C’est à cinq minutes à pied.",
+        "en": "It’s a five-minute walk.",
+        "ipa": "sɛ ta sɛ̃ mi.nyt a pje"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-directions-mean-1",
+        "fr": "Pour aller à la gare, s’il vous plaît ?",
+        "en": "How do I get to the station, please?",
+        "choices": [
+          "How do I get to the station, please?",
+          "Turn left at the next lights.",
+          "It’s a five-minute walk."
+        ]
+      },
+      {
+        "id": "remote-directions-mean-2",
+        "fr": "Tournez à gauche au prochain feu.",
+        "en": "Turn left at the next lights.",
+        "choices": [
+          "Turn left at the next lights.",
+          "How do I get to the station, please?",
+          "It’s a five-minute walk."
+        ]
+      },
+      {
+        "id": "remote-directions-mean-3",
+        "fr": "C’est à cinq minutes à pied.",
+        "en": "It’s a five-minute walk.",
+        "choices": [
+          "It’s a five-minute walk.",
+          "How do I get to the station, please?",
+          "Turn left at the next lights."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-directions-fren-1",
+        "fr": "chemin",
+        "en": "way"
+      },
+      {
+        "id": "remote-directions-fren-2",
+        "fr": "itinéraire",
+        "en": "route"
+      },
+      {
+        "id": "remote-directions-fren-3",
+        "fr": "carrefour",
+        "en": "crossroads"
+      },
+      {
+        "id": "remote-directions-fren-4",
+        "fr": "feu",
+        "en": "traffic light"
+      },
+      {
+        "id": "remote-directions-fren-5",
+        "fr": "piéton",
+        "en": "pedestrian"
+      },
+      {
+        "id": "remote-directions-fren-6",
+        "fr": "passage",
+        "en": "crossing"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-directions-aloud-1",
+        "fr": "Pour aller à la gare, s’il vous plaît ?",
+        "en": "How do I get to the station, please?",
+        "ipa": "puʁ a.le a la ɡaʁ sil vu plɛ"
+      },
+      {
+        "id": "remote-directions-aloud-2",
+        "fr": "C’est à cinq minutes à pied.",
+        "en": "It’s a five-minute walk.",
+        "ipa": "sɛ ta sɛ̃ mi.nyt a pje"
+      },
+      {
+        "id": "remote-directions-aloud-3",
+        "fr": "Je suis perdu / perdue.",
+        "en": "I’m lost.",
+        "ipa": "ʒə sɥi pɛʁ.dy / pɛʁ.dy"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-directions-unsc-1",
+        "fr": "Vous êtes arrivé : c’est juste en face.",
+        "en": "You’ve arrived: it’s right opposite.",
+        "words": [
+          "Vous",
+          "êtes",
+          "arrivé",
+          ":",
+          "c’est",
+          "juste",
+          "en",
+          "face."
+        ]
+      },
+      {
+        "id": "remote-directions-unsc-2",
+        "fr": "Je suis perdu / perdue.",
+        "en": "I’m lost.",
+        "words": [
+          "Je",
+          "suis",
+          "perdu",
+          "/",
+          "perdue."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-directions-sign-1",
+        "fr": "sens unique",
+        "en": "one way",
+        "hint": "one-way traffic sign"
+      },
+      {
+        "id": "remote-directions-sign-2",
+        "fr": "sortie",
+        "en": "exit",
+        "hint": "exit sign"
+      }
+    ]
+  }
+}

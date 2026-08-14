@@ -1,0 +1,554 @@
+{
+  "pratiquePack": 1,
+  "id": "city-a1",
+  "version": 1,
+  "level": "a1",
+  "title": {
+    "fr": "En ville A1",
+    "en": "In town A1"
+  },
+  "description": {
+    "fr": "Lieux de la ville et phrases simples pour se déplacer.",
+    "en": "Town places and simple phrases for getting around."
+  },
+  "seed": [
+    {
+      "id": "remote-city-a1-1",
+      "fr": "ville",
+      "en": "town / city",
+      "example": "J’habite en ville.",
+      "ipa": "vil",
+      "article": "la"
+    },
+    {
+      "id": "remote-city-a1-2",
+      "fr": "rue",
+      "en": "street",
+      "example": "Ma rue est calme.",
+      "ipa": "ʁy",
+      "article": "la"
+    },
+    {
+      "id": "remote-city-a1-3",
+      "fr": "place",
+      "en": "square",
+      "example": "La place est au centre.",
+      "ipa": "plas",
+      "article": "la"
+    },
+    {
+      "id": "remote-city-a1-4",
+      "fr": "magasin",
+      "en": "shop",
+      "example": "Le magasin ouvre à neuf heures.",
+      "ipa": "ma.ɡa.zɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-city-a1-5",
+      "fr": "banque",
+      "en": "bank",
+      "example": "La banque est fermée.",
+      "ipa": "bɑ̃k",
+      "article": "la"
+    },
+    {
+      "id": "remote-city-a1-6",
+      "fr": "poste",
+      "en": "post office",
+      "example": "J’envoie une lettre à la poste.",
+      "ipa": "pɔst",
+      "article": "la"
+    },
+    {
+      "id": "remote-city-a1-7",
+      "fr": "cinéma",
+      "en": "cinema",
+      "example": "Nous allons au cinéma.",
+      "ipa": "si.ne.ma",
+      "article": "le"
+    },
+    {
+      "id": "remote-city-a1-8",
+      "fr": "parc",
+      "en": "park",
+      "example": "Les enfants jouent dans le parc.",
+      "ipa": "paʁk",
+      "article": "le"
+    },
+    {
+      "id": "remote-city-a1-9",
+      "fr": "musée",
+      "en": "museum",
+      "example": "Le musée est intéressant.",
+      "ipa": "my.ze",
+      "article": "le"
+    },
+    {
+      "id": "remote-city-a1-10",
+      "fr": "gare",
+      "en": "train station",
+      "example": "Le train part de la gare.",
+      "ipa": "ɡaʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-city-a1-11",
+      "fr": "arrêt",
+      "en": "stop (bus)",
+      "example": "L’arrêt de bus est là.",
+      "ipa": "a.ʁɛ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-city-a1-12",
+      "fr": "pont",
+      "en": "bridge",
+      "example": "Le pont traverse la rivière.",
+      "ipa": "pɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-city-a1-13",
+      "fr": "église",
+      "en": "church",
+      "example": "L’église est ancienne.",
+      "ipa": "e.ɡliz",
+      "article": "l'"
+    },
+    {
+      "id": "remote-city-a1-14",
+      "fr": "bibliothèque",
+      "en": "library",
+      "example": "Je lis à la bibliothèque.",
+      "ipa": "bi.bli.jɔ.tɛk",
+      "article": "la"
+    },
+    {
+      "id": "remote-city-a1-15",
+      "fr": "quartier",
+      "en": "neighborhood",
+      "example": "Mon quartier est vivant.",
+      "ipa": "kaʁ.tje",
+      "article": "le"
+    },
+    {
+      "id": "remote-city-a1-16",
+      "fr": "centre-ville",
+      "en": "town center",
+      "example": "Le centre-ville est animé.",
+      "ipa": "sɑ̃tʁ.vil",
+      "article": "le"
+    },
+    {
+      "id": "remote-city-a1-17",
+      "fr": "mairie",
+      "en": "town hall",
+      "example": "La mairie est sur la place.",
+      "ipa": "mɛ.ʁi",
+      "article": "la"
+    },
+    {
+      "id": "remote-city-a1-18",
+      "fr": "pharmacie",
+      "en": "pharmacy",
+      "example": "La pharmacie est ouverte.",
+      "ipa": "faʁ.ma.si",
+      "article": "la"
+    },
+    {
+      "id": "remote-city-a1-19",
+      "fr": "café",
+      "en": "café",
+      "example": "On se retrouve au café.",
+      "ipa": "ka.fe",
+      "article": "le"
+    },
+    {
+      "id": "remote-city-a1-20",
+      "fr": "plan",
+      "en": "map",
+      "example": "Voici un plan de la ville.",
+      "ipa": "plɑ̃",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-city-phrase-1",
+      "fr": "Où est la gare, s’il vous plaît ?",
+      "en": "Where is the station, please?",
+      "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+    },
+    {
+      "id": "remote-city-phrase-2",
+      "fr": "C’est près d’ici ?",
+      "en": "Is it near here?",
+      "ipa": "sɛ pʁɛ di.si"
+    },
+    {
+      "id": "remote-city-phrase-3",
+      "fr": "Le magasin est fermé aujourd’hui.",
+      "en": "The shop is closed today.",
+      "ipa": "lə ma.ɡa.zɛ̃ ɛ fɛʁ.me o.ʒuʁ.dɥi"
+    },
+    {
+      "id": "remote-city-phrase-4",
+      "fr": "Nous allons au parc.",
+      "en": "We’re going to the park.",
+      "ipa": "nu.z‿a.lɔ̃ o paʁk"
+    },
+    {
+      "id": "remote-city-phrase-5",
+      "fr": "J’habite dans ce quartier.",
+      "en": "I live in this neighborhood.",
+      "ipa": "ʒa.bit dɑ̃ sə kaʁ.tje"
+    },
+    {
+      "id": "remote-city-phrase-6",
+      "fr": "Tournez à gauche.",
+      "en": "Turn left.",
+      "ipa": "tuʁ.ne a ɡoʃ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-city-listen-1",
+      "fr": "Où est la gare, s’il vous plaît ?",
+      "en": "Where is the station, please?",
+      "word": "gare",
+      "wordEn": "station",
+      "wordIpa": "ɡaʁ",
+      "distractors": [
+        "poste",
+        "mairie",
+        "banque"
+      ]
+    },
+    {
+      "id": "remote-city-listen-2",
+      "fr": "Nous allons au cinéma ce soir.",
+      "en": "We’re going to the cinema tonight.",
+      "word": "cinéma",
+      "wordEn": "cinema",
+      "wordIpa": "si.ne.ma",
+      "distractors": [
+        "musée",
+        "parc",
+        "café"
+      ]
+    },
+    {
+      "id": "remote-city-listen-3",
+      "fr": "La bibliothèque ouvre à dix heures.",
+      "en": "The library opens at ten o’clock.",
+      "word": "bibliothèque",
+      "wordEn": "library",
+      "wordIpa": "bi.bli.jɔ.tɛk",
+      "distractors": [
+        "pharmacie",
+        "mairie",
+        "église"
+      ]
+    },
+    {
+      "id": "remote-city-listen-4",
+      "fr": "Mon quartier est calme.",
+      "en": "My neighborhood is quiet.",
+      "word": "quartier",
+      "wordEn": "neighborhood",
+      "wordIpa": "kaʁ.tje",
+      "distractors": [
+        "pont",
+        "plan",
+        "arrêt"
+      ]
+    }
+  ],
+  "prompts": [
+    "Où habites-tu ? En ville ou à la campagne ?",
+    "Quels lieux aimes-tu dans ta ville ?",
+    "Demande le chemin vers la gare.",
+    "Décris ton quartier en trois phrases."
+  ],
+  "grammar": [
+    {
+      "id": "remote-city-grammar-1",
+      "title": {
+        "fr": "À / au / à la / à l’",
+        "en": "Going to a place"
+      },
+      "rule": "Pour aller quelque part : à + ville (à Paris), au (à + le) cinéma, à la gare, à l’église. On dit aussi dans le parc, dans la rue.",
+      "table": [
+        [
+          "Forme",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "à",
+          "ville / lieu féminin sans article fusionné",
+          "à Paris / à la poste"
+        ],
+        [
+          "au",
+          "à + le",
+          "au cinéma"
+        ],
+        [
+          "à la",
+          "féminin",
+          "à la gare"
+        ],
+        [
+          "à l’",
+          "devant voyelle",
+          "à l’église"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-city-gq-1",
+          "prompt": "Nous allons ___ cinéma.",
+          "answer": "au",
+          "options": [
+            "à",
+            "au",
+            "à la"
+          ]
+        },
+        {
+          "id": "remote-city-gq-2",
+          "prompt": "Je vais ___ gare.",
+          "answer": "à la",
+          "options": [
+            "au",
+            "à la",
+            "à l’"
+          ]
+        },
+        {
+          "id": "remote-city-gq-3",
+          "prompt": "Il va ___ église.",
+          "answer": "à l’",
+          "options": [
+            "au",
+            "à la",
+            "à l’"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-city-grammar-2",
+      "title": {
+        "fr": "Où est… ?",
+        "en": "Asking where something is"
+      },
+      "rule": "Pour demander un lieu : Où est + le / la / l’… ? Réponses utiles : à gauche, à droite, tout droit, près d’ici, loin.",
+      "table": [
+        [
+          "Question / réponse",
+          "Sens",
+          "Exemple"
+        ],
+        [
+          "Où est… ?",
+          "where is",
+          "Où est la banque ?"
+        ],
+        [
+          "à gauche",
+          "left",
+          "C’est à gauche."
+        ],
+        [
+          "à droite",
+          "right",
+          "Tournez à droite."
+        ],
+        [
+          "tout droit",
+          "straight on",
+          "Allez tout droit."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-city-gq-4",
+          "prompt": "___ est la poste ?",
+          "answer": "Où",
+          "options": [
+            "Qui",
+            "Où",
+            "Quand"
+          ]
+        },
+        {
+          "id": "remote-city-gq-5",
+          "prompt": "Tournez ___ gauche.",
+          "answer": "à",
+          "options": [
+            "à",
+            "au",
+            "de"
+          ]
+        },
+        {
+          "id": "remote-city-gq-6",
+          "prompt": "Allez tout ___.",
+          "answer": "droit",
+          "options": [
+            "droite",
+            "droit",
+            "gauche"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-city-dict-1",
+        "fr": "Où est la gare, s’il vous plaît ?",
+        "en": "Where is the station, please?",
+        "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+      },
+      {
+        "id": "remote-city-dict-2",
+        "fr": "C’est près d’ici ?",
+        "en": "Is it near here?",
+        "ipa": "sɛ pʁɛ di.si"
+      },
+      {
+        "id": "remote-city-dict-3",
+        "fr": "Le magasin est fermé aujourd’hui.",
+        "en": "The shop is closed today.",
+        "ipa": "lə ma.ɡa.zɛ̃ ɛ fɛʁ.me o.ʒuʁ.dɥi"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-city-mean-1",
+        "fr": "Où est la gare, s’il vous plaît ?",
+        "en": "Where is the station, please?",
+        "choices": [
+          "Where is the station, please?",
+          "Is it near here?",
+          "The shop is closed today."
+        ]
+      },
+      {
+        "id": "remote-city-mean-2",
+        "fr": "C’est près d’ici ?",
+        "en": "Is it near here?",
+        "choices": [
+          "Is it near here?",
+          "Where is the station, please?",
+          "The shop is closed today."
+        ]
+      },
+      {
+        "id": "remote-city-mean-3",
+        "fr": "Le magasin est fermé aujourd’hui.",
+        "en": "The shop is closed today.",
+        "choices": [
+          "The shop is closed today.",
+          "Where is the station, please?",
+          "Is it near here?"
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-city-fren-1",
+        "fr": "ville",
+        "en": "town"
+      },
+      {
+        "id": "remote-city-fren-2",
+        "fr": "rue",
+        "en": "street"
+      },
+      {
+        "id": "remote-city-fren-3",
+        "fr": "place",
+        "en": "square"
+      },
+      {
+        "id": "remote-city-fren-4",
+        "fr": "magasin",
+        "en": "shop"
+      },
+      {
+        "id": "remote-city-fren-5",
+        "fr": "banque",
+        "en": "bank"
+      },
+      {
+        "id": "remote-city-fren-6",
+        "fr": "poste",
+        "en": "post office"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-city-aloud-1",
+        "fr": "Où est la gare, s’il vous plaît ?",
+        "en": "Where is the station, please?",
+        "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+      },
+      {
+        "id": "remote-city-aloud-2",
+        "fr": "Le magasin est fermé aujourd’hui.",
+        "en": "The shop is closed today.",
+        "ipa": "lə ma.ɡa.zɛ̃ ɛ fɛʁ.me o.ʒuʁ.dɥi"
+      },
+      {
+        "id": "remote-city-aloud-3",
+        "fr": "J’habite dans ce quartier.",
+        "en": "I live in this neighborhood.",
+        "ipa": "ʒa.bit dɑ̃ sə kaʁ.tje"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-city-unsc-1",
+        "fr": "Nous allons au parc.",
+        "en": "We’re going to the park.",
+        "words": [
+          "Nous",
+          "allons",
+          "au",
+          "parc."
+        ]
+      },
+      {
+        "id": "remote-city-unsc-2",
+        "fr": "J’habite dans ce quartier.",
+        "en": "I live in this neighborhood.",
+        "words": [
+          "J’habite",
+          "dans",
+          "ce",
+          "quartier."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-city-sign-1",
+        "fr": "centre-ville",
+        "en": "town center",
+        "hint": "city-center sign"
+      },
+      {
+        "id": "remote-city-sign-2",
+        "fr": "gare",
+        "en": "station",
+        "hint": "train station sign"
+      }
+    ]
+  }
+}

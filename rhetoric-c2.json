@@ -1,0 +1,555 @@
+{
+  "pratiquePack": 1,
+  "id": "rhetoric-c2",
+  "version": 1,
+  "level": "c2",
+  "title": {
+    "fr": "Rhétorique C2",
+    "en": "Rhetoric C2"
+  },
+  "description": {
+    "fr": "Tropes, preuves oratoires et figures de construction pour l’analyse du discours savant.",
+    "en": "Tropes, oratorical proofs, and figures of construction for analysing learned discourse."
+  },
+  "seed": [
+    {
+      "id": "remote-rhetoric-c2-1",
+      "fr": "trope",
+      "en": "trope",
+      "example": "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+      "ipa": "tʁɔp",
+      "article": "le"
+    },
+    {
+      "id": "remote-rhetoric-c2-2",
+      "fr": "éthos",
+      "en": "ethos",
+      "example": "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+      "ipa": "e.tos",
+      "article": "l'"
+    },
+    {
+      "id": "remote-rhetoric-c2-3",
+      "fr": "pathos",
+      "en": "pathos",
+      "example": "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement.",
+      "ipa": "pa.tos",
+      "article": "le"
+    },
+    {
+      "id": "remote-rhetoric-c2-4",
+      "fr": "chiasme",
+      "en": "chiasmus",
+      "example": "Par un chiasme serré, la maxime se referme sur elle-même et force l’attention.",
+      "ipa": "kjasm",
+      "article": "le"
+    },
+    {
+      "id": "remote-rhetoric-c2-5",
+      "fr": "péroraison",
+      "en": "peroration",
+      "example": "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+      "ipa": "pe.ʁɔ.ʁɛ.zɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-rhetoric-c2-6",
+      "fr": "métaphore",
+      "en": "metaphor",
+      "example": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+      "ipa": "me.ta.fɔʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-rhetoric-c2-7",
+      "fr": "métonymie",
+      "en": "metonymy",
+      "example": "Par métonymie, le palais désigne le souverain, et le sceptre le pouvoir.",
+      "ipa": "me.tɔ.ni.mi",
+      "article": "la"
+    },
+    {
+      "id": "remote-rhetoric-c2-8",
+      "fr": "anaphore",
+      "en": "anaphora",
+      "example": "L’anaphore martèle l’accusation jusqu’à ce que l’oreille n’en puisse plus douter.",
+      "ipa": "a.na.fɔʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-rhetoric-c2-9",
+      "fr": "antithèse",
+      "en": "antithesis",
+      "example": "L’antithèse oppose moins deux thèses qu’elle n’en révèle la complicité secrète.",
+      "ipa": "ɑ̃.ti.tɛz",
+      "article": "l'"
+    },
+    {
+      "id": "remote-rhetoric-c2-10",
+      "fr": "exorde",
+      "en": "exordium",
+      "example": "L’exorde, d’une retenue calculée, ménageait déjà la voie de la captation.",
+      "ipa": "ɛɡ.zɔʁd",
+      "article": "l'"
+    },
+    {
+      "id": "remote-rhetoric-c2-11",
+      "fr": "enthymème",
+      "en": "enthymeme",
+      "example": "L’enthymème passe sous silence la prémisse que l’auditoire est déjà disposé à accorder.",
+      "ipa": "ɑ̃.ti.mɛm",
+      "article": "l'"
+    },
+    {
+      "id": "remote-rhetoric-c2-12",
+      "fr": "hypotypose",
+      "en": "hypotyposis",
+      "example": "L’hypotypose fait voir la scène comme si elle se déroulait sous les yeux.",
+      "ipa": "i.pɔ.ti.poz",
+      "article": "l'"
+    },
+    {
+      "id": "remote-rhetoric-c2-13",
+      "fr": "catachrèse",
+      "en": "catachresis",
+      "example": "La catachrèse comble un manque lexical : on dit les pieds de la table faute d’un terme propre.",
+      "ipa": "ka.ta.kʁɛz",
+      "article": "la"
+    },
+    {
+      "id": "remote-rhetoric-c2-14",
+      "fr": "prétérition",
+      "en": "apophasis",
+      "example": "Par prétérition, il affirmait ne point vouloir rappeler ce qu’il s’apprêtait à détailler.",
+      "ipa": "pʁe.te.ʁi.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-rhetoric-c2-15",
+      "fr": "oxymore",
+      "en": "oxymoron",
+      "example": "L’oxymore « silence éloquent » condense la contradiction sans la résoudre.",
+      "ipa": "ɔk.si.mɔʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-rhetoric-c2-16",
+      "fr": "apostrophe",
+      "en": "apostrophe (rhetoric)",
+      "example": "L’apostrophe, soudain adressée aux absents, rompt le pacte de la tribune.",
+      "ipa": "a.pɔs.tʁɔf",
+      "article": "l'"
+    },
+    {
+      "id": "remote-rhetoric-c2-17",
+      "fr": "gradation",
+      "en": "climax / gradation",
+      "example": "La gradation accumule les charges jusqu’au terme où l’accusation bascule.",
+      "ipa": "ɡʁa.da.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-rhetoric-c2-18",
+      "fr": "logos",
+      "en": "logos",
+      "example": "Le logos, ici, ne désigne pas la raison pure, mais l’enchaînement des preuves.",
+      "ipa": "lɔ.ɡos",
+      "article": "le"
+    },
+    {
+      "id": "remote-rhetoric-c2-19",
+      "fr": "asyndète",
+      "en": "asyndeton",
+      "example": "L’asyndète hache la phrase : on accuse, on prouve, on condamne, sans conjonction qui relâche.",
+      "ipa": "a.sɛ̃.dɛt",
+      "article": "l'"
+    },
+    {
+      "id": "remote-rhetoric-c2-20",
+      "fr": "hypotaxe",
+      "en": "hypotaxis",
+      "example": "L’hypotaxe, par l’enchâssement des subordonnées, mimait la prudence même du raisonnement.",
+      "ipa": "i.pɔ.taks",
+      "article": "l'"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-rhetoric-phrase-1",
+      "fr": "Aussi l’éthos se révèle-t-il plus décisif, en l’espèce, que le pathos le plus habilement dosé.",
+      "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+      "ipa": "o.si le.tos sə ʁə.vɛl til ply de.si.zif ɑ̃ lɛs.pɛs kə lə pa.tos"
+    },
+    {
+      "id": "remote-rhetoric-phrase-2",
+      "fr": "Je crains que cette péroraison ne soit trop ample pour l’auditoire déjà las.",
+      "en": "I fear this peroration may be too ample for an audience already weary.",
+      "ipa": "ʒə kʁɛ̃ kə sɛt pe.ʁɔ.ʁɛ.zɔ̃ nə swa tʁo ɑ̃pl puʁ lo.di.twaʁ de.ʒa lɑ"
+    },
+    {
+      "id": "remote-rhetoric-phrase-3",
+      "fr": "Le chiasme, loin d’être un ornement, referme l’argument sur sa propre nécessité.",
+      "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+      "ipa": "lə kjasm lwɛ̃ dɛtʁ œ̃ nɔʁ.nə.mɑ̃ ʁə.fɛʁm laʁ.ɡy.mɑ̃ syʁ sa pʁɔpʁ ne.se.si.te"
+    },
+    {
+      "id": "remote-rhetoric-phrase-4",
+      "fr": "Encore que le trope parût usé, l’orateur en tira une vigueur inattendue.",
+      "en": "Even though the trope seemed worn, the orator drew from it an unexpected vigour.",
+      "ipa": "ɑ̃.kɔʁ kə lə tʁɔp pa.ʁy y.ze lɔ.ʁa.tœʁ ɑ̃ ti.ʁa yn vi.ɡœʁ i.na.tɑ̃.dy"
+    },
+    {
+      "id": "remote-rhetoric-phrase-5",
+      "fr": "À peine eut-il ouvert l’exorde que l’assemblée, contre toute attente, se tut.",
+      "en": "Hardly had he opened the exordium when the assembly, against all expectation, fell silent.",
+      "ipa": "a pɛn y til u.vɛʁ ɛɡ.zɔʁd kə la.sɑ̃.ble kɔ̃tʁ tut a.tɑ̃t sə ty"
+    },
+    {
+      "id": "remote-rhetoric-phrase-6",
+      "fr": "L’enthymème passe sous silence ce que l’auditoire est déjà disposé à concéder.",
+      "en": "The enthymeme leaves unsaid what the audience is already disposed to concede.",
+      "ipa": "ɑ̃.ti.mɛm pas su si.lɑ̃s sə kə lo.di.twaʁ ɛ de.ʒa dis.po.ze a kɔ̃.se.de"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-rhetoric-listen-1",
+      "fr": "La péroraison ne reprit des arguments que ce qui pouvait emporter la décision.",
+      "en": "The peroration retained of the arguments only what could still carry the decision.",
+      "word": "péroraison",
+      "wordEn": "peroration",
+      "wordIpa": "pe.ʁɔ.ʁɛ.zɔ̃",
+      "distractors": [
+        "exorde",
+        "anaphore",
+        "hypotypose"
+      ]
+    },
+    {
+      "id": "remote-rhetoric-listen-2",
+      "fr": "L’éthos de l’orateur précède et conditionne l’adhésion de l’auditoire.",
+      "en": "The speaker’s ethos precedes and conditions the audience’s assent.",
+      "word": "éthos",
+      "wordEn": "ethos",
+      "wordIpa": "e.tos",
+      "distractors": [
+        "pathos",
+        "logos",
+        "trope"
+      ]
+    },
+    {
+      "id": "remote-rhetoric-listen-3",
+      "fr": "Par un chiasme serré, la maxime se referme sur elle-même.",
+      "en": "Through a tight chiasmus, the maxim closes upon itself.",
+      "word": "chiasme",
+      "wordEn": "chiasmus",
+      "wordIpa": "kjasm",
+      "distractors": [
+        "oxymore",
+        "antithèse",
+        "gradation"
+      ]
+    },
+    {
+      "id": "remote-rhetoric-listen-4",
+      "fr": "L’hypotypose fait voir la scène comme si elle se déroulait sous les yeux.",
+      "en": "Hypotyposis makes the scene visible as if it were unfolding before one’s eyes.",
+      "word": "hypotypose",
+      "wordEn": "hypotyposis",
+      "wordIpa": "i.pɔ.ti.poz",
+      "distractors": [
+        "catachrèse",
+        "prétérition",
+        "apostrophe"
+      ]
+    }
+  ],
+  "prompts": [
+    "Analysez, dans un discours politique contemporain, le dosage de l’éthos, du pathos et du logos : laquelle de ces preuves l’emporte, et à quel prix argumentatif ?",
+    "Montrez comment un chiasme ou une anaphore peut, selon le registre, passer de l’ornement à la contrainte logique.",
+    "Critiquez une péroraison trop ample : en quoi la clôture oratoire trahit-elle, parfois, la faiblesse des preuves qui la précèdent ?",
+    "À partir d’un tropaire (métaphore, métonymie ou oxymore), évaluez si la figure éclaire l’argument ou le dissimule."
+  ],
+  "grammar": [
+    {
+      "id": "remote-rhetoric-grammar-1",
+      "title": {
+        "fr": "L’inversion stylistique",
+        "en": "Stylistic inversion"
+      },
+      "rule": "Après aussi, peut-être, à peine, sans doute, encore, l’inversion du clitique marque un tour soutenu : Aussi conclut-il… Peut-être cède-t-on… À peine eut-il parlé que… Ce n’est pas un interrogatif, mais un relief rhétorique.",
+      "table": [
+        [
+          "Déclencheur",
+          "Tour",
+          "Exemple"
+        ],
+        [
+          "aussi",
+          "aussi + V-t-il",
+          "Aussi l’éthos se révèle-t-il décisif."
+        ],
+        [
+          "peut-être",
+          "peut-être + V-t-on",
+          "Peut-être cède-t-on trop au pathos."
+        ],
+        [
+          "à peine",
+          "à peine + V-il que",
+          "À peine eut-il ouvert l’exorde que…"
+        ],
+        [
+          "sans doute",
+          "sans doute + V-elle",
+          "Sans doute visait-elle l’auditoire."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-rhetoric-gq-1",
+          "prompt": "Aussi l’orateur ___ par une péroraison brève.",
+          "answer": "conclut-il",
+          "options": [
+            "conclut-il",
+            "il conclut",
+            "conclut"
+          ]
+        },
+        {
+          "id": "remote-rhetoric-gq-2",
+          "prompt": "Peut-être ___ trop au pathos.",
+          "answer": "cède-t-on",
+          "options": [
+            "cède-t-on",
+            "on cède",
+            "cède-on"
+          ]
+        },
+        {
+          "id": "remote-rhetoric-gq-3",
+          "prompt": "À peine ___ commencé l’exorde que l’assemblée se tut.",
+          "answer": "eut-il",
+          "options": [
+            "eut-il",
+            "il eut",
+            "avait"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-rhetoric-grammar-2",
+      "title": {
+        "fr": "Le ne explétif",
+        "en": "Expletive ne"
+      },
+      "rule": "Après craindre que, avant que, à moins que, et dans les comparatives d’inégalité, un ne explétif apparaît sans valeur négative : Je crains que ce trope ne soit usé. Il n’équivaut pas à ne… pas.",
+      "table": [
+        [
+          "Contexte",
+          "Tour",
+          "Exemple"
+        ],
+        [
+          "craindre que",
+          "ne + subj.",
+          "Je crains qu’il ne cède."
+        ],
+        [
+          "avant que",
+          "ne + subj.",
+          "avant que l’orateur ne conclue"
+        ],
+        [
+          "comparatif",
+          "plus… que je ne",
+          "plus habile que l’on ne croit"
+        ],
+        [
+          "à moins que",
+          "ne + subj.",
+          "à moins que l’éthos ne suffise"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-rhetoric-gq-4",
+          "prompt": "Je crains que ce trope ___ soit trop convenu.",
+          "answer": "ne",
+          "options": [
+            "ne",
+            "pas",
+            "n’en"
+          ]
+        },
+        {
+          "id": "remote-rhetoric-gq-5",
+          "prompt": "L’orateur est plus habile que l’on ___ croirait.",
+          "answer": "ne",
+          "options": [
+            "ne",
+            "pas",
+            "n’"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-rhetoric-dict-1",
+        "fr": "Aussi l’éthos se révèle-t-il plus décisif, en l’espèce, que le pathos le plus habilement dosé.",
+        "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+        "ipa": "o.si le.tos sə ʁə.vɛl til ply de.si.zif ɑ̃ lɛs.pɛs kə lə pa.tos"
+      },
+      {
+        "id": "remote-rhetoric-dict-2",
+        "fr": "Je crains que cette péroraison ne soit trop ample pour l’auditoire déjà las.",
+        "en": "I fear this peroration may be too ample for an audience already weary.",
+        "ipa": "ʒə kʁɛ̃ kə sɛt pe.ʁɔ.ʁɛ.zɔ̃ nə swa tʁo ɑ̃pl puʁ lo.di.twaʁ de.ʒa lɑ"
+      },
+      {
+        "id": "remote-rhetoric-dict-3",
+        "fr": "Le chiasme, loin d’être un ornement, referme l’argument sur sa propre nécessité.",
+        "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+        "ipa": "lə kjasm lwɛ̃ dɛtʁ œ̃ nɔʁ.nə.mɑ̃ ʁə.fɛʁm laʁ.ɡy.mɑ̃ syʁ sa pʁɔpʁ ne.se.si.te"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-rhetoric-mean-1",
+        "fr": "Aussi l’éthos se révèle-t-il plus décisif, en l’espèce, que le pathos le plus habilement dosé.",
+        "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+        "choices": [
+          "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+          "I fear this peroration may be too ample for an audience already weary.",
+          "Chiasmus, far from being an ornament, closes the argument upon its own necessity."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-mean-2",
+        "fr": "Je crains que cette péroraison ne soit trop ample pour l’auditoire déjà las.",
+        "en": "I fear this peroration may be too ample for an audience already weary.",
+        "choices": [
+          "I fear this peroration may be too ample for an audience already weary.",
+          "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+          "Chiasmus, far from being an ornament, closes the argument upon its own necessity."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-mean-3",
+        "fr": "Le chiasme, loin d’être un ornement, referme l’argument sur sa propre nécessité.",
+        "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+        "choices": [
+          "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+          "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+          "I fear this peroration may be too ample for an audience already weary."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-rhetoric-fren-1",
+        "fr": "trope",
+        "en": "trope"
+      },
+      {
+        "id": "remote-rhetoric-fren-2",
+        "fr": "éthos",
+        "en": "ethos"
+      },
+      {
+        "id": "remote-rhetoric-fren-3",
+        "fr": "pathos",
+        "en": "pathos"
+      },
+      {
+        "id": "remote-rhetoric-fren-4",
+        "fr": "chiasme",
+        "en": "chiasmus"
+      },
+      {
+        "id": "remote-rhetoric-fren-5",
+        "fr": "péroraison",
+        "en": "peroration"
+      },
+      {
+        "id": "remote-rhetoric-fren-6",
+        "fr": "métaphore",
+        "en": "metaphor"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-rhetoric-aloud-1",
+        "fr": "Aussi l’éthos se révèle-t-il plus décisif, en l’espèce, que le pathos le plus habilement dosé.",
+        "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+        "ipa": "o.si le.tos sə ʁə.vɛl til ply de.si.zif ɑ̃ lɛs.pɛs kə lə pa.tos"
+      },
+      {
+        "id": "remote-rhetoric-aloud-2",
+        "fr": "Le chiasme, loin d’être un ornement, referme l’argument sur sa propre nécessité.",
+        "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+        "ipa": "lə kjasm lwɛ̃ dɛtʁ œ̃ nɔʁ.nə.mɑ̃ ʁə.fɛʁm laʁ.ɡy.mɑ̃ syʁ sa pʁɔpʁ ne.se.si.te"
+      },
+      {
+        "id": "remote-rhetoric-aloud-3",
+        "fr": "À peine eut-il ouvert l’exorde que l’assemblée, contre toute attente, se tut.",
+        "en": "Hardly had he opened the exordium when the assembly, against all expectation, fell silent.",
+        "ipa": "a pɛn y til u.vɛʁ ɛɡ.zɔʁd kə la.sɑ̃.ble kɔ̃tʁ tut a.tɑ̃t sə ty"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-rhetoric-unsc-1",
+        "fr": "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+        "en": "The peroration, brief and cutting, kept from the arguments only what could carry the decision.",
+        "words": [
+          "La",
+          "péroraison,",
+          "brève",
+          "et",
+          "cinglante,",
+          "ne",
+          "retint",
+          "des",
+          "arguments",
+          "que",
+          "ce",
+          "qui",
+          "pouvait",
+          "emporter",
+          "la",
+          "décision."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-unsc-2",
+        "fr": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+        "en": "Metaphor, here, does not compare: it substitutes a regime of images for a regime of proofs.",
+        "words": [
+          "La",
+          "métaphore,",
+          "ici,",
+          "ne",
+          "compare",
+          "point",
+          ":",
+          "elle",
+          "substitue",
+          "un",
+          "régime",
+          "d’images",
+          "à",
+          "un",
+          "régime",
+          "de",
+          "preuves."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "pratiquePack": 1,
+  "id": "ethics-c1",
+  "version": 1,
+  "level": "c1",
+  "title": {
+    "fr": "Éthique C1",
+    "en": "Ethics C1"
+  },
+  "description": {
+    "fr": "Consentement, dilemme, responsabilité, intégrité et lanceurs d’alerte.",
+    "en": "Consent, dilemmas, responsibility, integrity, and whistleblowing."
+  },
+  "seed": [
+    {
+      "id": "remote-ethics-c1-1",
+      "fr": "consentement",
+      "en": "consent",
+      "example": "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+      "ipa": "kɔ̃.sɑ̃t.mɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-ethics-c1-2",
+      "fr": "dilemme",
+      "en": "dilemma",
+      "example": "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+      "ipa": "di.lɛm",
+      "article": "le"
+    },
+    {
+      "id": "remote-ethics-c1-3",
+      "fr": "responsabilité",
+      "en": "responsibility",
+      "example": "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
+      "ipa": "ʁɛs.pɔ̃.sa.bi.li.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-4",
+      "fr": "intégrité",
+      "en": "integrity",
+      "example": "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
+      "ipa": "ɛ̃.te.ɡʁi.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-ethics-c1-5",
+      "fr": "lanceur d’alerte",
+      "en": "whistleblower",
+      "example": "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
+      "ipa": "lɑ̃.sœʁ da.lɛʁt",
+      "article": "le"
+    },
+    {
+      "id": "remote-ethics-c1-6",
+      "fr": "impartialité",
+      "en": "impartiality",
+      "example": "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
+      "ipa": "ɛ̃.paʁ.sja.li.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-ethics-c1-7",
+      "fr": "conflit d’intérêts",
+      "en": "conflict of interest",
+      "example": "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
+      "ipa": "kɔ̃.fli dɛ̃.te.ʁɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-ethics-c1-8",
+      "fr": "déontologie",
+      "en": "professional ethics",
+      "example": "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
+      "ipa": "de.ɔ̃.tɔ.lɔ.ʒi",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-9",
+      "fr": "redevabilité",
+      "en": "accountability",
+      "example": "La redevabilité, à moins d’être opposable, reste un slogan dont les victimes ne peuvent rien tirer.",
+      "ipa": "ʁə.də.va.bi.li.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-10",
+      "fr": "bienfaisance",
+      "en": "beneficence",
+      "example": "La bienfaisance, dont le corollaire est le primum non nocere, peut justifier une tutelle qui érode l’autonomie.",
+      "ipa": "bjɛ̃.fə.zɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-11",
+      "fr": "autonomie",
+      "en": "autonomy",
+      "example": "L’autonomie, loin de signifier l’isolement de l’individu, suppose des conditions sociales du consentement éclairé.",
+      "ipa": "o.tɔ.nɔ.mi",
+      "article": "l'"
+    },
+    {
+      "id": "remote-ethics-c1-12",
+      "fr": "préjudice",
+      "en": "harm",
+      "example": "Le préjudice, encore qu’il soit difficile à chiffrer, fonde l’obligation de réparer et celle de prévenir.",
+      "ipa": "pʁe.ʒy.dis",
+      "article": "le"
+    },
+    {
+      "id": "remote-ethics-c1-13",
+      "fr": "confidentialité",
+      "en": "confidentiality",
+      "example": "La confidentialité, quitte à protéger l’institution, ne saurait faire obstacle à une alerte proportionnée.",
+      "ipa": "kɔ̃.fi.dɑ̃.sja.li.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-14",
+      "fr": "équité",
+      "en": "equity",
+      "example": "L’équité, à moins qu’on ne la confonde avec l’égalité formelle, corrige des asymétries que la règle ignore.",
+      "ipa": "e.ki.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-ethics-c1-15",
+      "fr": "vertu",
+      "en": "virtue",
+      "example": "La vertu, dont on fait trop vite un substitut au dispositif, n’exonère pas de la redevabilité publique.",
+      "ipa": "vɛʁ.ty",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-16",
+      "fr": "transparence",
+      "en": "transparency",
+      "example": "La transparence, loin de tout résoudre, peut exposer des personnes vulnérables si le cadrage n’est pas maîtrisé.",
+      "ipa": "tʁɑ̃s.pa.ʁɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-17",
+      "fr": "complicité",
+      "en": "complicity",
+      "example": "La complicité par omission, encore qu’elle soit plus difficile à établir, engage ceux qui pouvaient empêcher le préjudice.",
+      "ipa": "kɔ̃.pli.si.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-18",
+      "fr": "dignité",
+      "en": "dignity",
+      "example": "La dignité, quitte à demeurer un concept disputé, fonctionne comme un seuil que nulle utilité ne devrait franchir.",
+      "ipa": "di.ɲi.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-19",
+      "fr": "vulnérabilité",
+      "en": "vulnerability",
+      "example": "La vulnérabilité, à moins d’être essentialisée, désigne une situation que l’institution a le devoir de ne pas aggraver.",
+      "ipa": "vyl.ne.ʁa.bi.li.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-ethics-c1-20",
+      "fr": "obligation",
+      "en": "obligation",
+      "example": "L’obligation de signaler, dont le lanceur d’alerte est le visage, entre en tension avec le devoir de confidentialité.",
+      "ipa": "ɔ.bli.ɡa.sjɔ̃",
+      "article": "l'"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-ethics-phrase-1",
+      "fr": "Encore que le consentement ait été signé, sa portée réelle demeure contestable.",
+      "en": "Even though consent was signed, its real scope remains questionable.",
+      "ipa": "ɑ̃.kɔʁ kə lə kɔ̃.sɑ̃t.mɑ̃ ɛ e.te si.ɲe sa pɔʁ.te ʁe.ɛl də.mœʁ kɔ̃.tɛs.tabl"
+    },
+    {
+      "id": "remote-ethics-phrase-2",
+      "fr": "Loin d’absoudre l’institution, l’intégrité individuelle n’exonère pas la redevabilité.",
+      "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+      "ipa": "lwɛ̃ dab.sudʁ lɛ̃s.ti.ty.sjɔ̃ lɛ̃.te.ɡʁi.te ɛ̃.di.vi.dɥɛl neɡ.zɔ.nɛʁ pa la ʁə.də.va.bi.li.te"
+    },
+    {
+      "id": "remote-ethics-phrase-3",
+      "fr": "À moins que le conflit d’intérêts ne soit tranché, l’impartialité restera de façade.",
+      "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+      "ipa": "a mwɛ̃ kə lə kɔ̃.fli dɛ̃.te.ʁɛ nə swa tʁɑ̃.ʃe lɛ̃.paʁ.sja.li.te ʁɛs.tə.ʁa də fa.sad"
+    },
+    {
+      "id": "remote-ethics-phrase-4",
+      "fr": "Quitte à rompre la confidentialité, le lanceur d’alerte prévient un préjudice grave.",
+      "en": "Even at the cost of breaking confidentiality, the whistleblower prevents serious harm.",
+      "ipa": "kit a ʁɔ̃pʁ la kɔ̃.fi.dɑ̃.sja.li.te lə lɑ̃.sœʁ da.lɛʁt pʁe.vjɛ̃ œ̃ pʁe.ʒy.dis ɡʁav"
+    },
+    {
+      "id": "remote-ethics-phrase-5",
+      "fr": "Il convient de distinguer le dilemme tragique d’un simple arbitrage d’intérêts.",
+      "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
+      "ipa": "il kɔ̃.vjɛ̃ də dis.tɛ̃.ɡe lə di.lɛm tʁa.ʒik dœ̃ sɛ̃pl aʁ.bi.tʁaʒ dɛ̃.te.ʁɛ"
+    },
+    {
+      "id": "remote-ethics-phrase-6",
+      "fr": "Bien que la déontologie encadre la pratique, elle ne dispense pas de l’équité.",
+      "en": "Although professional ethics frames practice, it does not dispense with equity.",
+      "ipa": "bjɛ̃ kə la de.ɔ̃.tɔ.lɔ.ʒi ɑ̃.kadʁ la pʁa.tik ɛl nə dis.pɑ̃s pa də le.ki.te"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-ethics-listen-1",
+      "fr": "Le consentement suppose une information dont la portée réelle reste saisissable.",
+      "en": "Consent requires information whose real implications remain graspable.",
+      "word": "consentement",
+      "wordEn": "consent",
+      "wordIpa": "kɔ̃.sɑ̃t.mɑ̃",
+      "distractors": [
+        "équité",
+        "vertu",
+        "dignité"
+      ]
+    },
+    {
+      "id": "remote-ethics-listen-2",
+      "fr": "Le lanceur d’alerte dépend d’un dispositif de protection contre les représailles.",
+      "en": "The whistleblower depends on a protection mechanism against retaliation.",
+      "word": "lanceur d’alerte",
+      "wordEn": "whistleblower",
+      "wordIpa": "lɑ̃.sœʁ da.lɛʁt",
+      "distractors": [
+        "conflit d’intérêts",
+        "préjudice",
+        "complicité"
+      ]
+    },
+    {
+      "id": "remote-ethics-listen-3",
+      "fr": "Ce dilemme dissimule souvent un arbitrage de responsabilités plutôt qu’une aporie.",
+      "en": "This dilemma often conceals a trade-off of responsibilities rather than an aporia.",
+      "word": "dilemme",
+      "wordEn": "dilemma",
+      "wordIpa": "di.lɛm",
+      "distractors": [
+        "intégrité",
+        "autonomie",
+        "obligation"
+      ]
+    },
+    {
+      "id": "remote-ethics-listen-4",
+      "fr": "La confidentialité ne saurait faire obstacle à une alerte proportionnée.",
+      "en": "Confidentiality cannot stand in the way of a proportionate alert.",
+      "word": "confidentialité",
+      "wordEn": "confidentiality",
+      "wordIpa": "kɔ̃.fi.dɑ̃.sja.li.te",
+      "distractors": [
+        "transparence",
+        "bienfaisance",
+        "redevabilité"
+      ]
+    }
+  ],
+  "prompts": [
+    "Nuancez l’idée selon laquelle le consentement signé suffirait à écarter tout préjudice.",
+    "Concédez la valeur de la confidentialité, puis reformulez le devoir du lanceur d’alerte.",
+    "Dans quelle mesure l’impartialité exige-t-elle plus qu’une déclaration de conflit d’intérêts ?",
+    "Reformulez l’opposition entre bienfaisance et autonomie sans les caricaturer."
+  ],
+  "grammar": [
+    {
+      "id": "remote-ethics-grammar-1",
+      "title": {
+        "fr": "Glissements de registre",
+        "en": "Register shifts"
+      },
+      "rule": "L’éthique professionnelle oscille entre registre juridique (il incombe de), académique (il convient de) et ordinaire (il faut). Le nous de modestie et le on de généralité masquent l’agent ; le je assume une responsabilité.",
+      "table": [
+        [
+          "Tour",
+          "Registre",
+          "Effet"
+        ],
+        [
+          "il convient de + inf.",
+          "soutenu",
+          "recommandation impersonnelle"
+        ],
+        [
+          "il incombe à X de",
+          "juridique",
+          "obligation assignée"
+        ],
+        [
+          "on + présent",
+          "général",
+          "agent dilué"
+        ],
+        [
+          "je + présent",
+          "engagé",
+          "responsabilité assumée"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ethics-gq-1",
+          "prompt": "___ de distinguer le dilemme d’un simple arbitrage.",
+          "answer": "Il convient",
+          "options": [
+            "Il convient",
+            "Il faut que tu",
+            "On kiffe"
+          ]
+        },
+        {
+          "id": "remote-ethics-gq-2",
+          "prompt": "Il ___ à l’institution de protéger le lanceur d’alerte.",
+          "answer": "incombe",
+          "options": [
+            "incombe",
+            "convient",
+            "faut"
+          ]
+        },
+        {
+          "id": "remote-ethics-gq-3",
+          "prompt": "___ assume cette décision, plutôt que de la diluer dans le on.",
+          "answer": "Je",
+          "options": [
+            "Je",
+            "On",
+            "Ça"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-ethics-grammar-2",
+      "title": {
+        "fr": "Loin de / quitte à en argumentation éthique",
+        "en": "Loin de / quitte à in ethical argument"
+      },
+      "rule": "Loin de + infinitif écarte une lecture simpliste. Quitte à + infinitif assume un coût moral. Les deux permettent de nuancer sans renoncer à la thèse.",
+      "table": [
+        [
+          "Connecteur",
+          "Construction",
+          "Effet"
+        ],
+        [
+          "loin de",
+          "infinitif",
+          "écarter un malentendu"
+        ],
+        [
+          "quitte à",
+          "infinitif",
+          "assumer un coût"
+        ],
+        [
+          "encore que",
+          "subjonctif",
+          "concéder un point"
+        ],
+        [
+          "sans pour autant",
+          "infinitif / que",
+          "limiter la concession"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ethics-gq-4",
+          "prompt": "Loin ___absoudre l’institution, l’intégrité individuelle ne suffit pas.",
+          "answer": "d’",
+          "options": [
+            "d’",
+            "de",
+            "à"
+          ]
+        },
+        {
+          "id": "remote-ethics-gq-5",
+          "prompt": "___ rompre la confidentialité, l’alerte prévient un préjudice grave.",
+          "answer": "Quitte à",
+          "options": [
+            "Quitte à",
+            "Loin de",
+            "À moins que"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-ethics-dict-1",
+        "fr": "Encore que le consentement ait été signé, sa portée réelle demeure contestable.",
+        "en": "Even though consent was signed, its real scope remains questionable.",
+        "ipa": "ɑ̃.kɔʁ kə lə kɔ̃.sɑ̃t.mɑ̃ ɛ e.te si.ɲe sa pɔʁ.te ʁe.ɛl də.mœʁ kɔ̃.tɛs.tabl"
+      },
+      {
+        "id": "remote-ethics-dict-2",
+        "fr": "Loin d’absoudre l’institution, l’intégrité individuelle n’exonère pas la redevabilité.",
+        "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+        "ipa": "lwɛ̃ dab.sudʁ lɛ̃s.ti.ty.sjɔ̃ lɛ̃.te.ɡʁi.te ɛ̃.di.vi.dɥɛl neɡ.zɔ.nɛʁ pa la ʁə.də.va.bi.li.te"
+      },
+      {
+        "id": "remote-ethics-dict-3",
+        "fr": "À moins que le conflit d’intérêts ne soit tranché, l’impartialité restera de façade.",
+        "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+        "ipa": "a mwɛ̃ kə lə kɔ̃.fli dɛ̃.te.ʁɛ nə swa tʁɑ̃.ʃe lɛ̃.paʁ.sja.li.te ʁɛs.tə.ʁa də fa.sad"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-ethics-mean-1",
+        "fr": "Encore que le consentement ait été signé, sa portée réelle demeure contestable.",
+        "en": "Even though consent was signed, its real scope remains questionable.",
+        "choices": [
+          "Even though consent was signed, its real scope remains questionable.",
+          "Far from absolving the institution, individual integrity does not cancel accountability.",
+          "Unless the conflict of interest is resolved, impartiality will remain a façade."
+        ]
+      },
+      {
+        "id": "remote-ethics-mean-2",
+        "fr": "Loin d’absoudre l’institution, l’intégrité individuelle n’exonère pas la redevabilité.",
+        "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+        "choices": [
+          "Far from absolving the institution, individual integrity does not cancel accountability.",
+          "Even though consent was signed, its real scope remains questionable.",
+          "Unless the conflict of interest is resolved, impartiality will remain a façade."
+        ]
+      },
+      {
+        "id": "remote-ethics-mean-3",
+        "fr": "À moins que le conflit d’intérêts ne soit tranché, l’impartialité restera de façade.",
+        "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+        "choices": [
+          "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+          "Even though consent was signed, its real scope remains questionable.",
+          "Far from absolving the institution, individual integrity does not cancel accountability."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-ethics-fren-1",
+        "fr": "consentement",
+        "en": "consent"
+      },
+      {
+        "id": "remote-ethics-fren-2",
+        "fr": "dilemme",
+        "en": "dilemma"
+      },
+      {
+        "id": "remote-ethics-fren-3",
+        "fr": "responsabilité",
+        "en": "responsibility"
+      },
+      {
+        "id": "remote-ethics-fren-4",
+        "fr": "intégrité",
+        "en": "integrity"
+      },
+      {
+        "id": "remote-ethics-fren-5",
+        "fr": "lanceur d’alerte",
+        "en": "whistleblower"
+      },
+      {
+        "id": "remote-ethics-fren-6",
+        "fr": "impartialité",
+        "en": "impartiality"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-ethics-aloud-1",
+        "fr": "Encore que le consentement ait été signé, sa portée réelle demeure contestable.",
+        "en": "Even though consent was signed, its real scope remains questionable.",
+        "ipa": "ɑ̃.kɔʁ kə lə kɔ̃.sɑ̃t.mɑ̃ ɛ e.te si.ɲe sa pɔʁ.te ʁe.ɛl də.mœʁ kɔ̃.tɛs.tabl"
+      },
+      {
+        "id": "remote-ethics-aloud-2",
+        "fr": "À moins que le conflit d’intérêts ne soit tranché, l’impartialité restera de façade.",
+        "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+        "ipa": "a mwɛ̃ kə lə kɔ̃.fli dɛ̃.te.ʁɛ nə swa tʁɑ̃.ʃe lɛ̃.paʁ.sja.li.te ʁɛs.tə.ʁa də fa.sad"
+      },
+      {
+        "id": "remote-ethics-aloud-3",
+        "fr": "Il convient de distinguer le dilemme tragique d’un simple arbitrage d’intérêts.",
+        "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
+        "ipa": "il kɔ̃.vjɛ̃ də dis.tɛ̃.ɡe lə di.lɛm tʁa.ʒik dœ̃ sɛ̃pl aʁ.bi.tʁaʒ dɛ̃.te.ʁɛ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-ethics-unsc-1",
+        "fr": "Encore que le consentement soit signé, sa portée demeure contestable.",
+        "en": "Even though consent is signed, its scope remains questionable.",
+        "words": [
+          "Encore",
+          "que",
+          "le",
+          "consentement",
+          "soit",
+          "signé,",
+          "sa",
+          "portée",
+          "demeure",
+          "contestable."
+        ]
+      },
+      {
+        "id": "remote-ethics-unsc-2",
+        "fr": "Quitte à rompre la confidentialité, l’alerte prévient un préjudice grave.",
+        "en": "Even at the cost of breaking confidentiality, the alert prevents serious harm.",
+        "words": [
+          "Quitte",
+          "à",
+          "rompre",
+          "la",
+          "confidentialité,",
+          "l’alerte",
+          "prévient",
+          "un",
+          "préjudice",
+          "grave."
+        ]
+      }
+    ]
+  }
+}

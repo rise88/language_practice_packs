@@ -1,0 +1,536 @@
+{
+  "pratiquePack": 1,
+  "id": "nature-b1",
+  "version": 1,
+  "level": "b1",
+  "title": {
+    "fr": "Nature B1",
+    "en": "Nature B1"
+  },
+  "description": {
+    "fr": "Paysages, randonnée et plein air pour raconter une sortie en nature.",
+    "en": "Landscapes, hiking, and the outdoors for narrating a trip in nature."
+  },
+  "seed": [
+    {
+      "id": "remote-nature-b1-1",
+      "fr": "paysage",
+      "en": "landscape",
+      "example": "Le paysage change après le col.",
+      "ipa": "pe.i.zaʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-nature-b1-2",
+      "fr": "randonnée",
+      "en": "hike",
+      "example": "La randonnée a duré quatre heures.",
+      "ipa": "ʁɑ̃.dɔ.ne",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-3",
+      "fr": "sentier",
+      "en": "trail / path",
+      "example": "Le sentier longe la rivière.",
+      "ipa": "sɑ̃.tje",
+      "article": "le"
+    },
+    {
+      "id": "remote-nature-b1-4",
+      "fr": "sommet",
+      "en": "summit",
+      "example": "Nous avons atteint le sommet vers midi.",
+      "ipa": "sɔ.mɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-nature-b1-5",
+      "fr": "vallée",
+      "en": "valley",
+      "example": "La vallée est encore dans le brouillard.",
+      "ipa": "va.le",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-6",
+      "fr": "lac",
+      "en": "lake",
+      "example": "Le lac est gelé en janvier.",
+      "ipa": "lak",
+      "article": "le"
+    },
+    {
+      "id": "remote-nature-b1-7",
+      "fr": "rivière",
+      "en": "river",
+      "example": "La rivière est trop froide pour nager.",
+      "ipa": "ʁi.vjɛʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-8",
+      "fr": "cascade",
+      "en": "waterfall",
+      "example": "La cascade se voit depuis le pont.",
+      "ipa": "kas.kad",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-9",
+      "fr": "rocher",
+      "en": "rock / boulder",
+      "example": "Un rocher bloque une partie du chemin.",
+      "ipa": "ʁɔ.ʃe",
+      "article": "le"
+    },
+    {
+      "id": "remote-nature-b1-10",
+      "fr": "forêt",
+      "en": "forest",
+      "example": "La forêt sent l’humus après la pluie.",
+      "ipa": "fɔ.ʁɛ",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-11",
+      "fr": "clairière",
+      "en": "clearing",
+      "example": "On a pique-niqué dans une clairière.",
+      "ipa": "klɛ.ʁjɛʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-12",
+      "fr": "brouillard",
+      "en": "fog",
+      "example": "Le brouillard rendait la visibilité mauvaise.",
+      "ipa": "bʁu.jaʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-nature-b1-13",
+      "fr": "altitude",
+      "en": "altitude",
+      "example": "À cette altitude, le vent se lève vite.",
+      "ipa": "al.ti.tyd",
+      "article": "l'"
+    },
+    {
+      "id": "remote-nature-b1-14",
+      "fr": "boussole",
+      "en": "compass",
+      "example": "J’ai sorti la boussole quand le GPS a lâché.",
+      "ipa": "bu.sɔl",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-15",
+      "fr": "refuge",
+      "en": "mountain hut",
+      "example": "Le refuge était complet, malheureusement.",
+      "ipa": "ʁə.fyʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-nature-b1-16",
+      "fr": "faune",
+      "en": "wildlife / fauna",
+      "example": "La faune est protégée dans ce parc.",
+      "ipa": "fon",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-17",
+      "fr": "flore",
+      "en": "flora",
+      "example": "La flore alpine est fragile au printemps.",
+      "ipa": "flɔʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-18",
+      "fr": "marée",
+      "en": "tide",
+      "example": "Il faut rentrer avant la marée haute.",
+      "ipa": "ma.ʁe",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-19",
+      "fr": "dune",
+      "en": "dune",
+      "example": "Les dunes bougent un peu chaque année.",
+      "ipa": "dyn",
+      "article": "la"
+    },
+    {
+      "id": "remote-nature-b1-20",
+      "fr": "panorama",
+      "en": "panorama / view",
+      "example": "Le panorama valait vraiment l’effort.",
+      "ipa": "pa.nɔ.ʁa.ma",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-nature-phrase-1",
+      "fr": "On a marché quatre heures avant d’arriver au sommet.",
+      "en": "We walked for four hours before reaching the summit.",
+      "ipa": "ɔ̃ n‿a maʁ.ʃe katʁ œʁ a.vɑ̃ da.ʁi.ve o sɔ.mɛ"
+    },
+    {
+      "id": "remote-nature-phrase-2",
+      "fr": "Le sentier était glissant après la pluie.",
+      "en": "The trail was slippery after the rain.",
+      "ipa": "lə sɑ̃.tje e.tɛ ɡli.sɑ̃ a.pʁɛ la plɥi"
+    },
+    {
+      "id": "remote-nature-phrase-3",
+      "fr": "Il vaut mieux partir tôt à cause de la chaleur.",
+      "en": "It’s better to leave early because of the heat.",
+      "ipa": "il vo mjø paʁ.tiʁ to a koz də la ʃa.lœʁ"
+    },
+    {
+      "id": "remote-nature-phrase-4",
+      "fr": "Le panorama valait vraiment l’effort.",
+      "en": "The view was really worth the effort.",
+      "ipa": "lə pa.nɔ.ʁa.ma va.lɛ vʁɛ.mɑ̃ le.fɔʁ"
+    },
+    {
+      "id": "remote-nature-phrase-5",
+      "fr": "On a dû faire demi-tour à cause du brouillard.",
+      "en": "We had to turn back because of the fog.",
+      "ipa": "ɔ̃ n‿a dy fɛʁ də.mi.tuʁ a koz dy bʁu.jaʁ"
+    },
+    {
+      "id": "remote-nature-phrase-6",
+      "fr": "N’oublie pas de l’eau et d’une carte du sentier.",
+      "en": "Don’t forget water and a trail map.",
+      "ipa": "nu.bli pa də lo e dyn kaʁt dy sɑ̃.tje"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-nature-listen-1",
+      "fr": "Nous avons atteint le sommet vers midi.",
+      "en": "We reached the summit around noon.",
+      "word": "sommet",
+      "wordEn": "summit",
+      "wordIpa": "sɔ.mɛ",
+      "distractors": [
+        "lac",
+        "refuge",
+        "rocher"
+      ]
+    },
+    {
+      "id": "remote-nature-listen-2",
+      "fr": "Le sentier longe la rivière.",
+      "en": "The trail follows the river.",
+      "word": "sentier",
+      "wordEn": "trail",
+      "wordIpa": "sɑ̃.tje",
+      "distractors": [
+        "cascade",
+        "clairière",
+        "dune"
+      ]
+    },
+    {
+      "id": "remote-nature-listen-3",
+      "fr": "On a dû faire demi-tour à cause du brouillard.",
+      "en": "We had to turn back because of the fog.",
+      "word": "brouillard",
+      "wordEn": "fog",
+      "wordIpa": "bʁu.jaʁ",
+      "distractors": [
+        "marée",
+        "altitude",
+        "panorama"
+      ]
+    },
+    {
+      "id": "remote-nature-listen-4",
+      "fr": "Le panorama valait vraiment l’effort.",
+      "en": "The view was really worth the effort.",
+      "word": "panorama",
+      "wordEn": "view",
+      "wordIpa": "pa.nɔ.ʁa.ma",
+      "distractors": [
+        "paysage",
+        "vallée",
+        "forêt"
+      ]
+    }
+  ],
+  "prompts": [
+    "Raconte une randonnée ou une sortie en nature.",
+    "Tu préfères la mer, la montagne ou la forêt ? Pourquoi ?",
+    "Quels conseils donnerais-tu avant une randonnée ?",
+    "Décris un paysage qui t’a marqué."
+  ],
+  "grammar": [
+    {
+      "id": "remote-nature-grammar-1",
+      "title": {
+        "fr": "Imparfait et passé composé dans un récit",
+        "en": "Mixing tenses in a story"
+      },
+      "rule": "L’imparfait décrit : Le sentier était glissant. Le passé composé avance l’histoire : On a atteint le sommet. On a dû + infinitif = we had to.",
+      "table": [
+        [
+          "Temps",
+          "Rôle",
+          "Exemple"
+        ],
+        [
+          "imparfait",
+          "décor",
+          "il faisait froid"
+        ],
+        [
+          "passé composé",
+          "action",
+          "on a marché"
+        ],
+        [
+          "on a dû + inf.",
+          "obligation passée",
+          "on a dû rentrer"
+        ],
+        [
+          "venir de",
+          "passé récent",
+          "on vient d’arriver"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-nature-gq-1",
+          "prompt": "Le sentier ___ glissant.",
+          "answer": "était",
+          "options": [
+            "était",
+            "a été",
+            "est été"
+          ]
+        },
+        {
+          "id": "remote-nature-gq-2",
+          "prompt": "On ___ le sommet vers midi.",
+          "answer": "a atteint",
+          "options": [
+            "atteignait",
+            "a atteint",
+            "atteint"
+          ]
+        },
+        {
+          "id": "remote-nature-gq-3",
+          "prompt": "On a ___ faire demi-tour.",
+          "answer": "dû",
+          "options": [
+            "dû",
+            "doit",
+            "devait"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-nature-grammar-2",
+      "title": {
+        "fr": "À cause de / grâce à",
+        "en": "À cause de vs grâce à"
+      },
+      "rule": "À cause de introduit une cause négative : à cause du brouillard. Grâce à une cause positive : grâce au guide. Parce que + proposition.",
+      "table": [
+        [
+          "Forme",
+          "Nuance",
+          "Exemple"
+        ],
+        [
+          "à cause de",
+          "cause négative",
+          "à cause de la pluie"
+        ],
+        [
+          "grâce à",
+          "cause positive",
+          "grâce au sentier"
+        ],
+        [
+          "parce que",
+          "proposition",
+          "parce qu’il pleuvait"
+        ],
+        [
+          "en raison de",
+          "soutenu",
+          "en raison du vent"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-nature-gq-4",
+          "prompt": "On est rentrés ___ du brouillard.",
+          "answer": "à cause",
+          "options": [
+            "à cause",
+            "grâce",
+            "parce"
+          ]
+        },
+        {
+          "id": "remote-nature-gq-5",
+          "prompt": "On a trouvé le refuge ___ à la carte.",
+          "answer": "grâce",
+          "options": [
+            "grâce",
+            "à cause",
+            "pour"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-nature-dict-1",
+        "fr": "On a marché quatre heures avant d’arriver au sommet.",
+        "en": "We walked for four hours before reaching the summit.",
+        "ipa": "ɔ̃ n‿a maʁ.ʃe katʁ œʁ a.vɑ̃ da.ʁi.ve o sɔ.mɛ"
+      },
+      {
+        "id": "remote-nature-dict-2",
+        "fr": "Le sentier était glissant après la pluie.",
+        "en": "The trail was slippery after the rain.",
+        "ipa": "lə sɑ̃.tje e.tɛ ɡli.sɑ̃ a.pʁɛ la plɥi"
+      },
+      {
+        "id": "remote-nature-dict-3",
+        "fr": "Il vaut mieux partir tôt à cause de la chaleur.",
+        "en": "It’s better to leave early because of the heat.",
+        "ipa": "il vo mjø paʁ.tiʁ to a koz də la ʃa.lœʁ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-nature-mean-1",
+        "fr": "On a marché quatre heures avant d’arriver au sommet.",
+        "en": "We walked for four hours before reaching the summit.",
+        "choices": [
+          "We walked for four hours before reaching the summit.",
+          "The trail was slippery after the rain.",
+          "It’s better to leave early because of the heat."
+        ]
+      },
+      {
+        "id": "remote-nature-mean-2",
+        "fr": "Le sentier était glissant après la pluie.",
+        "en": "The trail was slippery after the rain.",
+        "choices": [
+          "The trail was slippery after the rain.",
+          "We walked for four hours before reaching the summit.",
+          "It’s better to leave early because of the heat."
+        ]
+      },
+      {
+        "id": "remote-nature-mean-3",
+        "fr": "Il vaut mieux partir tôt à cause de la chaleur.",
+        "en": "It’s better to leave early because of the heat.",
+        "choices": [
+          "It’s better to leave early because of the heat.",
+          "We walked for four hours before reaching the summit.",
+          "The trail was slippery after the rain."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-nature-fren-1",
+        "fr": "paysage",
+        "en": "landscape"
+      },
+      {
+        "id": "remote-nature-fren-2",
+        "fr": "randonnée",
+        "en": "hike"
+      },
+      {
+        "id": "remote-nature-fren-3",
+        "fr": "sentier",
+        "en": "trail"
+      },
+      {
+        "id": "remote-nature-fren-4",
+        "fr": "sommet",
+        "en": "summit"
+      },
+      {
+        "id": "remote-nature-fren-5",
+        "fr": "vallée",
+        "en": "valley"
+      },
+      {
+        "id": "remote-nature-fren-6",
+        "fr": "lac",
+        "en": "lake"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-nature-aloud-1",
+        "fr": "On a marché quatre heures avant d’arriver au sommet.",
+        "en": "We walked for four hours before reaching the summit.",
+        "ipa": "ɔ̃ n‿a maʁ.ʃe katʁ œʁ a.vɑ̃ da.ʁi.ve o sɔ.mɛ"
+      },
+      {
+        "id": "remote-nature-aloud-2",
+        "fr": "Il vaut mieux partir tôt à cause de la chaleur.",
+        "en": "It’s better to leave early because of the heat.",
+        "ipa": "il vo mjø paʁ.tiʁ to a koz də la ʃa.lœʁ"
+      },
+      {
+        "id": "remote-nature-aloud-3",
+        "fr": "On a dû faire demi-tour à cause du brouillard.",
+        "en": "We had to turn back because of the fog.",
+        "ipa": "ɔ̃ n‿a dy fɛʁ də.mi.tuʁ a koz dy bʁu.jaʁ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-nature-unsc-1",
+        "fr": "Le panorama valait vraiment l’effort.",
+        "en": "The view was really worth the effort.",
+        "words": [
+          "Le",
+          "panorama",
+          "valait",
+          "vraiment",
+          "l’effort."
+        ]
+      },
+      {
+        "id": "remote-nature-unsc-2",
+        "fr": "On a dû faire demi-tour à cause du brouillard.",
+        "en": "We had to turn back because of the fog.",
+        "words": [
+          "On",
+          "a",
+          "dû",
+          "faire",
+          "demi-tour",
+          "à",
+          "cause",
+          "du",
+          "brouillard."
+        ]
+      }
+    ]
+  }
+}

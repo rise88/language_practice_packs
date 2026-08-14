@@ -1,0 +1,554 @@
+{
+  "pratiquePack": 1,
+  "id": "science-c2",
+  "version": 1,
+  "level": "c2",
+  "title": {
+    "fr": "Savoir scientifique C2",
+    "en": "Scientific knowledge C2"
+  },
+  "description": {
+    "fr": "Incommensurabilité, réplication et modèles pour une épistémologie des sciences en acte.",
+    "en": "Incommensurability, replication, and models for an epistemology of science in practice."
+  },
+  "seed": [
+    {
+      "id": "remote-science-c2-1",
+      "fr": "incommensurabilité",
+      "en": "incommensurability",
+      "example": "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+      "ipa": "ɛ̃.kɔ.mɑ̃.sy.ʁa.bi.li.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-c2-2",
+      "fr": "réplication",
+      "en": "replication",
+      "example": "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+      "ipa": "ʁe.pli.ka.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-c2-3",
+      "fr": "modèle",
+      "en": "model",
+      "example": "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable.",
+      "ipa": "mɔ.dɛl",
+      "article": "le"
+    },
+    {
+      "id": "remote-science-c2-4",
+      "fr": "incertitude",
+      "en": "uncertainty",
+      "example": "L’incertitude, loin d’être un aveu d’échec, est la forme quantitative de la prudence scientifique.",
+      "ipa": "ɛ̃.sɛʁ.ti.tyd",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-c2-5",
+      "fr": "consensus",
+      "en": "consensus",
+      "example": "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+      "ipa": "kɔ̃.sɛ̃.sys",
+      "article": "le"
+    },
+    {
+      "id": "remote-science-c2-6",
+      "fr": "reproductibilité",
+      "en": "reproducibility",
+      "example": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+      "ipa": "ʁə.pʁɔ.dyk.ti.bi.li.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-c2-7",
+      "fr": "anomalie",
+      "en": "anomaly",
+      "example": "L’anomalie, d’abord absorbée par le paradigme, peut, en s’accumulant, en précipiter la crise.",
+      "ipa": "a.nɔ.ma.li",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-c2-8",
+      "fr": "réductionnisme",
+      "en": "reductionism",
+      "example": "Le réductionnisme, s’il se fait ontologique, affirme que le tout n’est rien que la somme de ses parties.",
+      "ipa": "ʁe.dyk.sjɔ.nism",
+      "article": "le"
+    },
+    {
+      "id": "remote-science-c2-9",
+      "fr": "émergence",
+      "en": "emergence",
+      "example": "L’émergence soutient, à l’inverse, que certains niveaux de description ne se laissent pas ramener aux inférieurs.",
+      "ipa": "e.mɛʁ.ʒɑ̃s",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-c2-10",
+      "fr": "robustesse",
+      "en": "robustness",
+      "example": "La robustesse d’un résultat se juge à sa survie sous des protocoles et des modèles différents.",
+      "ipa": "ʁɔ.bys.tɛs",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-c2-11",
+      "fr": "biais",
+      "en": "bias",
+      "example": "Le biais, s’il n’est pas corrigé, incline la preuve du côté de ce que l’on souhaitait trouver.",
+      "ipa": "bjɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-science-c2-12",
+      "fr": "méta-analyse",
+      "en": "meta-analysis",
+      "example": "La méta-analyse agrège des études, non pour abolir l’incertitude, mais pour en dresser la carte.",
+      "ipa": "me.ta.a.na.liz",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-c2-13",
+      "fr": "réfutation",
+      "en": "refutation",
+      "example": "La réfutation, plus rare qu’on ne le dit, suppose que les hypothèses auxiliaires aient été contrôlées.",
+      "ipa": "ʁe.fy.ta.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-c2-14",
+      "fr": "hypothèse nulle",
+      "en": "null hypothesis",
+      "example": "L’hypothèse nulle, que l’on cherche à rejeter, n’est pas l’hypothèse que l’on croit vraie.",
+      "ipa": "i.pɔ.tɛz nyl",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-c2-15",
+      "fr": "consilience",
+      "en": "consilience",
+      "example": "La consilience, convergence d’indices indépendants, fortifie une thèse mieux qu’une preuve unique.",
+      "ipa": "kɔ̃.si.ljɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-c2-16",
+      "fr": "opérationnalisme",
+      "en": "operationalism",
+      "example": "L’opérationnalisme identifie le concept aux opérations de mesure qui le définissent.",
+      "ipa": "ɔ.pe.ʁa.sjɔ.na.lism",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-c2-17",
+      "fr": "instrumentation",
+      "en": "instrumentation",
+      "example": "L’instrumentation, loin d’être neutre, théorise déjà ce qu’elle donne à voir.",
+      "ipa": "ɛ̃s.tʁy.mɑ̃.ta.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-c2-18",
+      "fr": "théorie",
+      "en": "theory",
+      "example": "La théorie, plus qu’un résumé de faits, est un réseau d’hypothèses qui rend les faits parlants.",
+      "ipa": "te.ɔ.ʁi",
+      "article": "la"
+    },
+    {
+      "id": "remote-science-c2-19",
+      "fr": "adéquation",
+      "en": "empirical adequacy",
+      "example": "L’adéquation empirique, chez van Fraassen, demande que le modèle sauve les phénomènes, non qu’il soit vrai.",
+      "ipa": "a.de.kwa.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-science-c2-20",
+      "fr": "bayésianisme",
+      "en": "Bayesianism",
+      "example": "Le bayésianisme révise les degrés de croyance à la lumière des données, sans prétendre à la certitude.",
+      "ipa": "ba.je.zja.nism",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-science-phrase-1",
+      "fr": "L’incommensurabilité veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+      "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+      "ipa": "lɛ̃.kɔ.mɑ̃.sy.ʁa.bi.li.te vø kə dø pa.ʁa.diɡm nɛ pa də mə.zyʁ kɔ.myn puʁ tʁɑ̃.ʃe"
+    },
+    {
+      "id": "remote-science-phrase-2",
+      "fr": "On réplique moins souvent qu’on ne le devrait ; aussi le consensus demeure-t-il plus fragile qu’il n’y paraît.",
+      "en": "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+      "ipa": "ɔ̃ ʁe.plik mwɛ̃ su.vɑ̃ kɔ̃ nə lə də.vʁɛ o.si lə kɔ̃.sɛ̃.sys də.mœʁ til ply fʁa.ʒil kil ni pa.ʁɛ"
+    },
+    {
+      "id": "remote-science-phrase-3",
+      "fr": "Le modèle, volontairement appauvri, rend le réel calculable sans s’y substituer.",
+      "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+      "ipa": "lə mɔ.dɛl vɔ.lɔ̃.tɛʁ.mɑ̃ a.po.vʁi ʁɑ̃ lə ʁe.ɛl kal.ky.labl sɑ̃ si syb.sti.tɥe"
+    },
+    {
+      "id": "remote-science-phrase-4",
+      "fr": "L’incertitude, plus qu’un aveu, est la forme quantitative de la prudence.",
+      "en": "Uncertainty, more than an admission, is the quantitative form of prudence.",
+      "ipa": "lɛ̃.sɛʁ.ti.tyd ply kœ̃ na.vø ɛ la fɔʁm kɑ̃.ti.ta.tiv də la pʁy.dɑ̃s"
+    },
+    {
+      "id": "remote-science-phrase-5",
+      "fr": "Encore que la réplication eût échoué, on n’invalida pas d’emblée l’étude princeps.",
+      "en": "Even though replication had failed, the original study was not invalidated at once.",
+      "ipa": "ɑ̃.kɔʁ kə la ʁe.pli.ka.sjɔ̃ y e.ʃwe ɔ̃ nɛ̃.va.li.da pa dɑ̃.ble let.yd pʁɛ̃.sɛps"
+    },
+    {
+      "id": "remote-science-phrase-6",
+      "fr": "La réfutation suppose que les hypothèses auxiliaires aient été contrôlées plus qu’on ne le dit.",
+      "en": "Refutation presupposes that auxiliary hypotheses have been controlled more than is usually said.",
+      "ipa": "la ʁe.fy.ta.sjɔ̃ sy.poz kə le zi.pɔ.tɛz ok.si.ljɛʁ ɛ te kɔ̃.tʁo.le ply kɔ̃ nə lə di"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-science-listen-1",
+      "fr": "L’incommensurabilité veut que deux paradigmes n’aient pas de mesure commune.",
+      "en": "Incommensurability has it that two paradigms have no common measure.",
+      "word": "incommensurabilité",
+      "wordEn": "incommensurability",
+      "wordIpa": "ɛ̃.kɔ.mɑ̃.sy.ʁa.bi.li.te",
+      "distractors": [
+        "réfutation",
+        "anomalie",
+        "consilience"
+      ]
+    },
+    {
+      "id": "remote-science-listen-2",
+      "fr": "La réplication, lorsqu’elle échoue, ouvre le dossier des conditions auxiliaires.",
+      "en": "Replication, when it fails, opens the file of auxiliary conditions.",
+      "word": "réplication",
+      "wordEn": "replication",
+      "wordIpa": "ʁe.pli.ka.sjɔ̃",
+      "distractors": [
+        "reproductibilité",
+        "méta-analyse",
+        "robustesse"
+      ]
+    },
+    {
+      "id": "remote-science-listen-3",
+      "fr": "Le modèle est une médiation appauvrie qui rend le réel calculable.",
+      "en": "The model is an impoverished mediation that makes the real calculable.",
+      "word": "modèle",
+      "wordEn": "model",
+      "wordIpa": "mɔ.dɛl",
+      "distractors": [
+        "théorie",
+        "instrumentation",
+        "hypothèse nulle"
+      ]
+    },
+    {
+      "id": "remote-science-listen-4",
+      "fr": "Le consensus est l’accord provisoire sur ce qui résiste encore à la réfutation.",
+      "en": "Consensus is the provisional agreement on what still resists refutation.",
+      "word": "consensus",
+      "wordEn": "consensus",
+      "wordIpa": "kɔ̃.sɛ̃.sys",
+      "distractors": [
+        "incertitude",
+        "bayésianisme",
+        "adéquation"
+      ]
+    }
+  ],
+  "prompts": [
+    "Critiquez la thèse de l’incommensurabilité : deux théories rivales sont-elles vraiment sans mesure commune, ou la consilience en fournit-elle une ?",
+    "Analysez un échec de réplication : départagez biais, hypothèses auxiliaires et véritable réfutation.",
+    "Un modèle est-il une fiction utile ou une prétention à la vérité ? Discutez à partir de l’adéquation empirique.",
+    "Le consensus scientifique est-il un argument d’autorité, ou le dépôt provisoire d’épreuves accumulées ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-science-grammar-1",
+      "title": {
+        "fr": "On, le passif et le se dans le discours scientifique",
+        "en": "On, the passive, and se in scientific prose"
+      },
+      "rule": "Le français savant efface le je : on réplique, le résultat est obtenu, l’hypothèse se trouve rejetée. On n’est pas un anonymat lâche : c’est la communauté. Le passif insiste sur le procès ; le se moyen sur le phénomène.",
+      "table": [
+        [
+          "Voix",
+          "Effet",
+          "Exemple"
+        ],
+        [
+          "on",
+          "communauté",
+          "On réplique moins souvent…"
+        ],
+        [
+          "passif",
+          "procès",
+          "L’étude ne fut pas invalidée."
+        ],
+        [
+          "se moyen",
+          "phénomène",
+          "L’hypothèse se trouve rejetée."
+        ],
+        [
+          "nous de modestie",
+          "équipe",
+          "Nous proposons un modèle."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-science-gq-1",
+          "prompt": "Dans « On réplique moins souvent », on désigne ___.",
+          "answer": "la communauté scientifique",
+          "options": [
+            "la communauté scientifique",
+            "un auteur unique",
+            "le lecteur"
+          ]
+        },
+        {
+          "id": "remote-science-gq-2",
+          "prompt": "« L’étude ne fut pas invalidée » est au ___.",
+          "answer": "passif",
+          "options": [
+            "passif",
+            "se moyen",
+            "impératif"
+          ]
+        },
+        {
+          "id": "remote-science-gq-3",
+          "prompt": "« L’hypothèse se trouve rejetée » illustre ___.",
+          "answer": "le se moyen",
+          "options": [
+            "le se moyen",
+            "le passif périphrastique seulement",
+            "l’impératif"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-science-grammar-2",
+      "title": {
+        "fr": "Le ne explétif dans les comparatives savantes",
+        "en": "Expletive ne in learned comparatives"
+      },
+      "rule": "Plus rare qu’on ne le dit, moins souvent qu’on ne le devrait, plus fragile qu’il n’y paraît : le ne explétif, après comparatif, appartient au registre de l’essai scientifique. Il n’ajoute pas une négation.",
+      "table": [
+        [
+          "Tour",
+          "Explétif",
+          "Exemple"
+        ],
+        [
+          "plus… que",
+          "qu’on ne",
+          "plus rare qu’on ne le dit"
+        ],
+        [
+          "moins… que",
+          "qu’on ne",
+          "moins souvent qu’on ne le devrait"
+        ],
+        [
+          "plus… que",
+          "qu’il n’y",
+          "plus fragile qu’il n’y paraît"
+        ],
+        [
+          "autre que",
+          "que l’on ne",
+          "autre que ce que l’on ne prévoyait"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-science-gq-4",
+          "prompt": "On réplique moins souvent qu’on ___ le devrait.",
+          "answer": "ne",
+          "options": [
+            "ne",
+            "pas",
+            "n’en"
+          ]
+        },
+        {
+          "id": "remote-science-gq-5",
+          "prompt": "La réfutation est plus rare qu’on ___ le dit.",
+          "answer": "ne",
+          "options": [
+            "ne",
+            "pas",
+            "n’"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-science-dict-1",
+        "fr": "L’incommensurabilité veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+        "ipa": "lɛ̃.kɔ.mɑ̃.sy.ʁa.bi.li.te vø kə dø pa.ʁa.diɡm nɛ pa də mə.zyʁ kɔ.myn puʁ tʁɑ̃.ʃe"
+      },
+      {
+        "id": "remote-science-dict-2",
+        "fr": "On réplique moins souvent qu’on ne le devrait ; aussi le consensus demeure-t-il plus fragile qu’il n’y paraît.",
+        "en": "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+        "ipa": "ɔ̃ ʁe.plik mwɛ̃ su.vɑ̃ kɔ̃ nə lə də.vʁɛ o.si lə kɔ̃.sɛ̃.sys də.mœʁ til ply fʁa.ʒil kil ni pa.ʁɛ"
+      },
+      {
+        "id": "remote-science-dict-3",
+        "fr": "Le modèle, volontairement appauvri, rend le réel calculable sans s’y substituer.",
+        "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+        "ipa": "lə mɔ.dɛl vɔ.lɔ̃.tɛʁ.mɑ̃ a.po.vʁi ʁɑ̃ lə ʁe.ɛl kal.ky.labl sɑ̃ si syb.sti.tɥe"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-science-mean-1",
+        "fr": "L’incommensurabilité veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+        "choices": [
+          "Incommensurability has it that two paradigms have no common measure by which to decide.",
+          "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+          "The model, deliberately impoverished, makes the real calculable without replacing it."
+        ]
+      },
+      {
+        "id": "remote-science-mean-2",
+        "fr": "On réplique moins souvent qu’on ne le devrait ; aussi le consensus demeure-t-il plus fragile qu’il n’y paraît.",
+        "en": "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+        "choices": [
+          "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+          "Incommensurability has it that two paradigms have no common measure by which to decide.",
+          "The model, deliberately impoverished, makes the real calculable without replacing it."
+        ]
+      },
+      {
+        "id": "remote-science-mean-3",
+        "fr": "Le modèle, volontairement appauvri, rend le réel calculable sans s’y substituer.",
+        "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+        "choices": [
+          "The model, deliberately impoverished, makes the real calculable without replacing it.",
+          "Incommensurability has it that two paradigms have no common measure by which to decide.",
+          "One replicates less often than one ought to; thus consensus remains more fragile than it appears."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-science-fren-1",
+        "fr": "incommensurabilité",
+        "en": "incommensurability"
+      },
+      {
+        "id": "remote-science-fren-2",
+        "fr": "réplication",
+        "en": "replication"
+      },
+      {
+        "id": "remote-science-fren-3",
+        "fr": "modèle",
+        "en": "model"
+      },
+      {
+        "id": "remote-science-fren-4",
+        "fr": "incertitude",
+        "en": "uncertainty"
+      },
+      {
+        "id": "remote-science-fren-5",
+        "fr": "consensus",
+        "en": "consensus"
+      },
+      {
+        "id": "remote-science-fren-6",
+        "fr": "reproductibilité",
+        "en": "reproducibility"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-science-aloud-1",
+        "fr": "L’incommensurabilité veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+        "ipa": "lɛ̃.kɔ.mɑ̃.sy.ʁa.bi.li.te vø kə dø pa.ʁa.diɡm nɛ pa də mə.zyʁ kɔ.myn puʁ tʁɑ̃.ʃe"
+      },
+      {
+        "id": "remote-science-aloud-2",
+        "fr": "Le modèle, volontairement appauvri, rend le réel calculable sans s’y substituer.",
+        "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+        "ipa": "lə mɔ.dɛl vɔ.lɔ̃.tɛʁ.mɑ̃ a.po.vʁi ʁɑ̃ lə ʁe.ɛl kal.ky.labl sɑ̃ si syb.sti.tɥe"
+      },
+      {
+        "id": "remote-science-aloud-3",
+        "fr": "Encore que la réplication eût échoué, on n’invalida pas d’emblée l’étude princeps.",
+        "en": "Even though replication had failed, the original study was not invalidated at once.",
+        "ipa": "ɑ̃.kɔʁ kə la ʁe.pli.ka.sjɔ̃ y e.ʃwe ɔ̃ nɛ̃.va.li.da pa dɑ̃.ble let.yd pʁɛ̃.sɛps"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-science-unsc-1",
+        "fr": "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+        "en": "Consensus is not unanimity: it is a community’s provisional agreement on what still resists refutation.",
+        "words": [
+          "Le",
+          "consensus",
+          "n’est",
+          "pas",
+          "l’unanimité",
+          ":",
+          "c’est",
+          "l’accord",
+          "provisoire",
+          "d’une",
+          "communauté",
+          "sur",
+          "ce",
+          "qui",
+          "résiste",
+          "encore",
+          "à",
+          "la",
+          "réfutation."
+        ]
+      },
+      {
+        "id": "remote-science-unsc-2",
+        "fr": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+        "en": "Reproducibility requires that others, with the same protocols, obtain converging results.",
+        "words": [
+          "La",
+          "reproductibilité",
+          "exige",
+          "que",
+          "d’autres,",
+          "avec",
+          "les",
+          "mêmes",
+          "protocoles,",
+          "obtiennent",
+          "des",
+          "résultats",
+          "convergents."
+        ]
+      }
+    ]
+  }
+}

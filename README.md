@@ -14,22 +14,75 @@ Hosting this repo as **public** is free. The app fetches:
 | `food-a1.json` | Food A1 pack |
 | `home-a1.json` | Home A1 pack |
 | `family-a1.json` | Family A1 pack |
-| `travel-a2.json` | Travel A2 pack |
-| `shopping-a2.json` | Shopping A2 pack |
-| `health-a2.json` | Health A2 pack |
 | `school-a1.json` | School A1 pack |
 | `weather-a1.json` | Weather A1 pack |
 | `animals-a1.json` | Animals A1 pack |
+| `clothes-a1.json` | Clothes A1 pack |
+| `time-a1.json` | Time A1 pack |
+| `city-a1.json` | In town A1 pack |
+| `daily-a1.json` | Daily routine A1 pack |
+| `travel-a2.json` | Travel A2 pack |
+| `shopping-a2.json` | Shopping A2 pack |
+| `health-a2.json` | Health A2 pack |
 | `restaurant-a2.json` | Restaurant A2 pack |
 | `hobbies-a2.json` | Hobbies A2 pack |
+| `work-a2.json` | Work A2 pack |
+| `directions-a2.json` | Directions A2 pack |
+| `housing-a2.json` | Housing A2 pack |
+| `phone-a2.json` | Phone A2 pack |
+| `celebrations-a2.json` | Celebrations A2 pack |
+| `environment-b1.json` | Environment B1 pack |
+| `education-b1.json` | Studies B1 pack |
+| `relationships-b1.json` | Relationships B1 pack |
+| `money-b1.json` | Money B1 pack |
+| `technology-b1.json` | Technology B1 pack |
+| `news-b1.json` | News B1 pack |
+| `culture-b1.json` | Culture B1 pack |
+| `opinions-b1.json` | Opinions B1 pack |
+| `nature-b1.json` | Nature B1 pack |
+| `admin-b1.json` | Admin B1 pack |
+| `workplace-b2.json` | Workplace B2 pack |
+| `media-b2.json` | Media and news B2 pack |
+| `politics-b2.json` | Politics and citizenship B2 pack |
+| `science-b2.json` | Science B2 pack |
+| `economy-b2.json` | Economy B2 pack |
+| `law-b2.json` | Law and justice B2 pack |
+| `climate-b2.json` | Climate and energy B2 pack |
+| `psychology-b2.json` | Psychology B2 pack |
+| `arts-b2.json` | Arts and film B2 pack |
+| `debate-b2.json` | Argumentation B2 pack |
+| `academic-c1.json` | Academic discourse C1 pack |
+| `diplomacy-c1.json` | International relations C1 pack |
+| `philosophy-c1.json` | Philosophy C1 pack |
+| `sustainability-c1.json` | Ecological transition C1 pack |
+| `ethics-c1.json` | Ethics C1 pack |
+| `innovation-c1.json` | Innovation and research C1 pack |
+| `society-c1.json` | Social issues C1 pack |
+| `contemporary-arts-c1.json` | Contemporary arts C1 pack |
+| `linguistics-c1.json` | Language and discourse C1 pack |
+| `journalism-c1.json` | Journalism C1 pack |
+| `rhetoric-c2.json` | Rhetoric C2 pack |
+| `literary-c2.json` | Literary analysis C2 pack |
+| `geopolitics-c2.json` | Geopolitics C2 pack |
+| `epistemology-c2.json` | Epistemology C2 pack |
+| `satire-c2.json` | Irony and satire C2 pack |
+| `identity-c2.json` | Identity and otherness C2 pack |
+| `aesthetics-c2.json` | Aesthetics C2 pack |
+| `rights-c2.json` | Fundamental rights C2 pack |
+| `science-c2.json` | Scientific knowledge C2 pack |
+| `register-c2.json` | Registers and nuances C2 pack |
 | `_template.json` | Copy this to add a new pack |
 
 ## Levels
 
 | Level | Packs |
 |-------|--------|
-| A1 | Food, Home, Family, School, Weather, Animals |
-| A2 | Travel, Shopping, Health, Restaurant, Hobbies |
+| A1 | Food, Home, Family, School, Weather, Animals, Clothes, Time, In town, Daily routine |
+| A2 | Travel, Shopping, Health, Restaurant, Hobbies, Work, Directions, Housing, Phone, Celebrations |
+| B1 | Environment, Studies, Relationships, Money, Technology, News, Culture, Opinions, Nature, Admin |
+| B2 | Workplace, Media and news, Politics and citizenship, Science, Economy, Law and justice, Climate and energy, Psychology, Arts and film, Argumentation |
+| C1 | Academic discourse, International relations, Philosophy, Ecological transition, Ethics, Innovation and research, Social issues, Contemporary arts, Language and discourse, Journalism |
+| C2 | Rhetoric, Literary analysis, Geopolitics, Epistemology, Irony and satire, Identity and otherness, Aesthetics, Fundamental rights, Scientific knowledge, Registers and nuances |
 
 ## Pack fields → Pratique modes
 

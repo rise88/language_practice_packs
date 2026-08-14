@@ -1,0 +1,551 @@
+{
+  "pratiquePack": 1,
+  "id": "climate-b2",
+  "version": 1,
+  "level": "b2",
+  "title": {
+    "fr": "Climat et énergie B2",
+    "en": "Climate and energy B2"
+  },
+  "description": {
+    "fr": "Émissions, énergies renouvelables, sécheresse et politiques climatiques.",
+    "en": "Emissions, renewable energy, drought, and climate policy."
+  },
+  "seed": [
+    {
+      "id": "remote-climate-b2-1",
+      "fr": "émission",
+      "en": "emission",
+      "example": "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+      "ipa": "e.mi.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-climate-b2-2",
+      "fr": "énergie renouvelable",
+      "en": "renewable energy",
+      "example": "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+      "ipa": "e.nɛʁ.ʒi ʁə.nu.və.labl",
+      "article": "l'"
+    },
+    {
+      "id": "remote-climate-b2-3",
+      "fr": "sécheresse",
+      "en": "drought",
+      "example": "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+      "ipa": "seʃ.ʁɛs",
+      "article": "la"
+    },
+    {
+      "id": "remote-climate-b2-4",
+      "fr": "politique climatique",
+      "en": "climate policy",
+      "example": "Cette politique climatique articule tarification du carbone et aides à la rénovation.",
+      "ipa": "pɔ.li.tik kli.ma.tik",
+      "article": "la"
+    },
+    {
+      "id": "remote-climate-b2-5",
+      "fr": "carbone",
+      "en": "carbon",
+      "example": "Le prix du carbone devrait augmenter afin que les industriels accélèrent la transition.",
+      "ipa": "kaʁ.bɔn",
+      "article": "le"
+    },
+    {
+      "id": "remote-climate-b2-6",
+      "fr": "gaz à effet de serre",
+      "en": "greenhouse gas",
+      "example": "Les gaz à effet de serre s’accumulent plus vite que les puits de carbone naturels.",
+      "ipa": "ɡaz a ɛ.fɛ də sɛʁ",
+      "article": "les"
+    },
+    {
+      "id": "remote-climate-b2-7",
+      "fr": "transition",
+      "en": "transition",
+      "example": "La transition énergétique exige des investissements que le marché seul ne fournit pas.",
+      "ipa": "tʁɑ̃.zi.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-climate-b2-8",
+      "fr": "biodiversité",
+      "en": "biodiversity",
+      "example": "La biodiversité s’érode, en revanche certaines espèces protégées recolonisent des milieux.",
+      "ipa": "bjo.di.vɛʁ.si.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-climate-b2-9",
+      "fr": "canicule",
+      "en": "heatwave",
+      "example": "La canicule de l’été dernier a mis sous tension le réseau électrique national.",
+      "ipa": "ka.ni.kyl",
+      "article": "la"
+    },
+    {
+      "id": "remote-climate-b2-10",
+      "fr": "déforestation",
+      "en": "deforestation",
+      "example": "La déforestation se poursuit, bien que des moratoires aient été signés.",
+      "ipa": "de.fɔ.ʁɛs.ta.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-climate-b2-11",
+      "fr": "empreinte",
+      "en": "footprint",
+      "example": "L’empreinte carbone d’un vol long-courrier dépasse celle de nombreux trajets ferroviaires.",
+      "ipa": "ɑ̃.pʁɛ̃t",
+      "article": "l'"
+    },
+    {
+      "id": "remote-climate-b2-12",
+      "fr": "réduction",
+      "en": "reduction",
+      "example": "Une réduction de moitié des émissions d’ici 2030 paraît encore hors d’atteinte.",
+      "ipa": "ʁe.dyk.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-climate-b2-13",
+      "fr": "adaptation",
+      "en": "adaptation",
+      "example": "L’adaptation aux canicules suppose des villes plus végétalisées et mieux ventilées.",
+      "ipa": "a.dap.ta.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-climate-b2-14",
+      "fr": "éolienne",
+      "en": "wind turbine",
+      "example": "L’éolienne offshore produit davantage, toutefois elle soulève des conflits d’usage en mer.",
+      "ipa": "e.ɔ.ljɛn",
+      "article": "l'"
+    },
+    {
+      "id": "remote-climate-b2-15",
+      "fr": "panneau solaire",
+      "en": "solar panel",
+      "example": "Les panneaux solaires ont vu leur coût chuter, ce qui accélère leur déploiement.",
+      "ipa": "pa.no sɔ.lɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-climate-b2-16",
+      "fr": "inondation",
+      "en": "flood",
+      "example": "L’inondation a contraint des milliers de foyers à quitter une zone pourtant connue comme vulnérable.",
+      "ipa": "i.nɔ̃.da.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-climate-b2-17",
+      "fr": "accord",
+      "en": "agreement",
+      "example": "L’accord de Paris fixe un cadre, néanmoins sa mise en œuvre reste inégale.",
+      "ipa": "a.kɔʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-climate-b2-18",
+      "fr": "combustible fossile",
+      "en": "fossil fuel",
+      "example": "Le combustible fossile demeure dominant, malgré les engagements de sortie progressive.",
+      "ipa": "kɔ̃.bys.tibl fɔ.sil",
+      "article": "le"
+    },
+    {
+      "id": "remote-climate-b2-19",
+      "fr": "neutralité",
+      "en": "neutrality (carbon)",
+      "example": "La neutralité carbone en 2050 suppose des efforts que peu de pays ont encore engagés.",
+      "ipa": "nø.tʁa.li.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-climate-b2-20",
+      "fr": "vulnérabilité",
+      "en": "vulnerability",
+      "example": "La vulnérabilité des littoraux s’accroît à mesure que le niveau de la mer monte.",
+      "ipa": "vy.lne.ʁa.bi.li.te",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-climate-phrase-1",
+      "fr": "Il faudrait que les émissions baissent bien plus vite qu’aujourd’hui.",
+      "en": "Emissions would need to fall much faster than they do today.",
+      "ipa": "il fɔ.dʁɛ kə le ze.mi.sjɔ̃ bɛs bjɛ̃ ply vit ko.ʒuʁ.dɥi"
+    },
+    {
+      "id": "remote-climate-phrase-2",
+      "fr": "Bien que les renouvelables progressent, le combustible fossile reste dominant.",
+      "en": "Although renewables are advancing, fossil fuel remains dominant.",
+      "ipa": "bjɛ̃ kə le ʁə.nu.və.labl pʁɔ.ɡʁɛs lə kɔ̃.bys.tibl fɔ.sil ʁɛst dɔ.mi.nɑ̃"
+    },
+    {
+      "id": "remote-climate-phrase-3",
+      "fr": "Si l’on végétalisait davantage les villes, on atténuerait l’effet des canicules.",
+      "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+      "ipa": "si lɔ̃ ve.ʒe.ta.li.zɛ da.vɑ̃.taʒ le vil ɔ̃ na.te.nɥə.ʁɛ le.fɛ de ka.ni.kyl"
+    },
+    {
+      "id": "remote-climate-phrase-4",
+      "fr": "Afin que l’accord soit crédible, chaque État devrait publier une trajectoire chiffrée.",
+      "en": "For the agreement to be credible, each state should publish a quantified pathway.",
+      "ipa": "a.fɛ̃ kə la.kɔʁ swa kʁe.dibl ʃak e.ta də.vʁɛ py.bli.je yn tʁa.ʒɛk.twaʁ ʃi.fʁe"
+    },
+    {
+      "id": "remote-climate-phrase-5",
+      "fr": "En revanche, l’adaptation ne dispense pas d’une réduction rapide des émissions.",
+      "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+      "ipa": "ɑ̃ ʁə.vɑ̃ʃ la.dap.ta.sjɔ̃ nə dis.pɑ̃s pa dyn ʁe.dyk.sjɔ̃ ʁa.pid de ze.mi.sjɔ̃"
+    },
+    {
+      "id": "remote-climate-phrase-6",
+      "fr": "On pourrait objecter que la transition pèse d’abord sur les ménages les plus modestes.",
+      "en": "One might object that the transition first weighs on the most modest households.",
+      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la tʁɑ̃.zi.sjɔ̃ pɛz da.bɔʁ syʁ le me.naʒ le ply mɔ.dɛst"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-climate-listen-1",
+      "fr": "La sécheresse a réduit les rendements agricoles trois années de suite.",
+      "en": "The drought has cut agricultural yields for three years running.",
+      "word": "sécheresse",
+      "wordEn": "drought",
+      "wordIpa": "seʃ.ʁɛs",
+      "distractors": [
+        "canicule",
+        "inondation",
+        "déforestation"
+      ]
+    },
+    {
+      "id": "remote-climate-listen-2",
+      "fr": "L’énergie renouvelable couvre une part croissante de la production.",
+      "en": "Renewable energy covers a growing share of production.",
+      "word": "énergie renouvelable",
+      "wordEn": "renewable energy",
+      "wordIpa": "e.nɛʁ.ʒi ʁə.nu.və.labl",
+      "distractors": [
+        "combustible fossile",
+        "éolienne",
+        "panneau solaire"
+      ]
+    },
+    {
+      "id": "remote-climate-listen-3",
+      "fr": "Les gaz à effet de serre s’accumulent plus vite que les puits naturels.",
+      "en": "Greenhouse gases are accumulating faster than natural carbon sinks.",
+      "word": "gaz à effet de serre",
+      "wordEn": "greenhouse gas",
+      "wordIpa": "ɡaz a ɛ.fɛ də sɛʁ",
+      "distractors": [
+        "carbone",
+        "émission",
+        "empreinte"
+      ]
+    },
+    {
+      "id": "remote-climate-listen-4",
+      "fr": "La canicule a mis sous tension le réseau électrique national.",
+      "en": "The heatwave put the national electricity grid under strain.",
+      "word": "canicule",
+      "wordEn": "heatwave",
+      "wordIpa": "ka.ni.kyl",
+      "distractors": [
+        "adaptation",
+        "neutralité",
+        "vulnérabilité"
+      ]
+    }
+  ],
+  "prompts": [
+    "La transition énergétique doit-elle aller plus vite, quitte à coûter plus cher ? Justifie.",
+    "Compare réduction des émissions et adaptation : pourquoi les deux sont-elles nécessaires ?",
+    "Selon toi, qui doit porter l’effort climatique : États, entreprises ou citoyens ?",
+    "Si tu concevais une politique climatique, quelle mesure prioriserais-tu, et pourquoi ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-climate-grammar-1",
+      "title": {
+        "fr": "Le conditionnel pour préconiser",
+        "en": "The conditional for recommendations"
+      },
+      "rule": "Pour formuler une politique sans l’imposer : conditionnel. Il faudrait que les émissions baissent. Le prix du carbone devrait augmenter. On l’emploie aussi après si + imparfait : Si l’on végétalisait les villes, on atténuerait les canicules.",
+      "table": [
+        [
+          "Forme",
+          "Valeur",
+          "Exemple"
+        ],
+        [
+          "il faudrait que + subj.",
+          "recommandation",
+          "il faudrait que les émissions baissent"
+        ],
+        [
+          "devrait",
+          "souhait / prévision prudente",
+          "le prix devrait augmenter"
+        ],
+        [
+          "si + imparfait → conditionnel",
+          "hypothèse",
+          "si l’on agissait, on gagnerait du temps"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-climate-gq-1",
+          "prompt": "Complète : Il ___ que les émissions baissent plus vite.",
+          "answer": "faudrait",
+          "options": [
+            "faut",
+            "faudrait",
+            "fallait"
+          ]
+        },
+        {
+          "id": "remote-climate-gq-2",
+          "prompt": "Complète : Le prix du carbone ___ augmenter pour accélérer la transition.",
+          "answer": "devrait",
+          "options": [
+            "doit",
+            "devrait",
+            "devra"
+          ]
+        },
+        {
+          "id": "remote-climate-gq-3",
+          "prompt": "Complète : Si l’on végétalisait les villes, on ___ l’effet des canicules.",
+          "answer": "atténuerait",
+          "options": [
+            "atténue",
+            "atténuerait",
+            "a atténué"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-climate-grammar-2",
+      "title": {
+        "fr": "Afin que + subjonctif",
+        "en": "Purpose clauses with afin que"
+      },
+      "rule": "Afin que (ou pour que) exprime le but et se construit avec le subjonctif : Afin que l’accord soit crédible, chaque État devrait publier une trajectoire. Ne pas confondre avec afin de + infinitif, possible lorsque le sujet est le même : afin de réduire les émissions.",
+      "table": [
+        [
+          "Structure",
+          "Suite",
+          "Exemple"
+        ],
+        [
+          "afin que",
+          "subjonctif (sujets différents)",
+          "afin que l’accord soit crédible"
+        ],
+        [
+          "pour que",
+          "subjonctif",
+          "pour que les émissions baissent"
+        ],
+        [
+          "afin de",
+          "infinitif (même sujet)",
+          "afin de réduire l’empreinte"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-climate-gq-4",
+          "prompt": "Complète : Afin que l’accord ___ crédible, publions une trajectoire chiffrée.",
+          "answer": "soit",
+          "options": [
+            "est",
+            "soit",
+            "sera"
+          ]
+        },
+        {
+          "id": "remote-climate-gq-5",
+          "prompt": "Complète : Les villes végétalisent ___ réduire l’effet des canicules.",
+          "answer": "afin de",
+          "options": [
+            "afin que",
+            "afin de",
+            "bien que"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-climate-dict-1",
+        "fr": "Il faudrait que les émissions baissent bien plus vite qu’aujourd’hui.",
+        "en": "Emissions would need to fall much faster than they do today.",
+        "ipa": "il fɔ.dʁɛ kə le ze.mi.sjɔ̃ bɛs bjɛ̃ ply vit ko.ʒuʁ.dɥi"
+      },
+      {
+        "id": "remote-climate-dict-2",
+        "fr": "Bien que les renouvelables progressent, le combustible fossile reste dominant.",
+        "en": "Although renewables are advancing, fossil fuel remains dominant.",
+        "ipa": "bjɛ̃ kə le ʁə.nu.və.labl pʁɔ.ɡʁɛs lə kɔ̃.bys.tibl fɔ.sil ʁɛst dɔ.mi.nɑ̃"
+      },
+      {
+        "id": "remote-climate-dict-3",
+        "fr": "Si l’on végétalisait davantage les villes, on atténuerait l’effet des canicules.",
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "ipa": "si lɔ̃ ve.ʒe.ta.li.zɛ da.vɑ̃.taʒ le vil ɔ̃ na.te.nɥə.ʁɛ le.fɛ de ka.ni.kyl"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-climate-mean-1",
+        "fr": "Il faudrait que les émissions baissent bien plus vite qu’aujourd’hui.",
+        "en": "Emissions would need to fall much faster than they do today.",
+        "choices": [
+          "Emissions would need to fall much faster than they do today.",
+          "Drought has already been eliminated by the Paris agreement.",
+          "Wind turbines never raise any conflict of use."
+        ]
+      },
+      {
+        "id": "remote-climate-mean-2",
+        "fr": "Bien que les renouvelables progressent, le combustible fossile reste dominant.",
+        "en": "Although renewables are advancing, fossil fuel remains dominant.",
+        "choices": [
+          "Although renewables are advancing, fossil fuel remains dominant.",
+          "Carbon neutrality was reached by most countries in 2020.",
+          "Adaptation can fully replace a cut in emissions."
+        ]
+      },
+      {
+        "id": "remote-climate-mean-3",
+        "fr": "Si l’on végétalisait davantage les villes, on atténuerait l’effet des canicules.",
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "choices": [
+          "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+          "Floods only affect areas that were never known to be vulnerable.",
+          "Solar panels have become more expensive, which slows deployment."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-climate-fren-1",
+        "fr": "émission",
+        "en": "emission"
+      },
+      {
+        "id": "remote-climate-fren-2",
+        "fr": "énergie renouvelable",
+        "en": "renewable energy"
+      },
+      {
+        "id": "remote-climate-fren-3",
+        "fr": "sécheresse",
+        "en": "drought"
+      },
+      {
+        "id": "remote-climate-fren-4",
+        "fr": "politique climatique",
+        "en": "climate policy"
+      },
+      {
+        "id": "remote-climate-fren-5",
+        "fr": "carbone",
+        "en": "carbon"
+      },
+      {
+        "id": "remote-climate-fren-6",
+        "fr": "gaz à effet de serre",
+        "en": "greenhouse gas"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-climate-aloud-1",
+        "fr": "Il faudrait que les émissions baissent bien plus vite qu’aujourd’hui.",
+        "en": "Emissions would need to fall much faster than they do today.",
+        "ipa": "il fɔ.dʁɛ kə le ze.mi.sjɔ̃ bɛs bjɛ̃ ply vit ko.ʒuʁ.dɥi"
+      },
+      {
+        "id": "remote-climate-aloud-2",
+        "fr": "Si l’on végétalisait davantage les villes, on atténuerait l’effet des canicules.",
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "ipa": "si lɔ̃ ve.ʒe.ta.li.zɛ da.vɑ̃.taʒ le vil ɔ̃ na.te.nɥə.ʁɛ le.fɛ de ka.ni.kyl"
+      },
+      {
+        "id": "remote-climate-aloud-3",
+        "fr": "En revanche, l’adaptation ne dispense pas d’une réduction rapide des émissions.",
+        "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+        "ipa": "ɑ̃ ʁə.vɑ̃ʃ la.dap.ta.sjɔ̃ nə dis.pɑ̃s pa dyn ʁe.dyk.sjɔ̃ ʁa.pid de ze.mi.sjɔ̃"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-climate-unsc-1",
+        "fr": "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+        "en": "The drought has reduced agricultural yields for the third consecutive year.",
+        "words": [
+          "La",
+          "sécheresse",
+          "a",
+          "réduit",
+          "les",
+          "rendements",
+          "agricoles",
+          "pour",
+          "la",
+          "troisième",
+          "année",
+          "consécutive."
+        ]
+      },
+      {
+        "id": "remote-climate-unsc-2",
+        "fr": "L’accord de Paris fixe un cadre, néanmoins sa mise en œuvre reste inégale.",
+        "en": "The Paris agreement sets a framework; nevertheless its implementation remains uneven.",
+        "words": [
+          "L’accord",
+          "de",
+          "Paris",
+          "fixe",
+          "un",
+          "cadre,",
+          "néanmoins",
+          "sa",
+          "mise",
+          "en",
+          "œuvre",
+          "reste",
+          "inégale."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-climate-sign-1",
+        "fr": "zone inondable",
+        "en": "flood zone",
+        "hint": "water hazard, low-lying land"
+      },
+      {
+        "id": "remote-climate-sign-2",
+        "fr": "tri sélectif",
+        "en": "recycling / sorted waste",
+        "hint": "coloured bins, sorting instructions"
+      }
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "pratiquePack": 1,
+  "id": "work-a2",
+  "version": 1,
+  "level": "a2",
+  "title": {
+    "fr": "Travail A2",
+    "en": "Work A2"
+  },
+  "description": {
+    "fr": "Bureau, collègues et phrases utiles pour parler du travail.",
+    "en": "Office, colleagues, and useful phrases for talking about work."
+  },
+  "seed": [
+    {
+      "id": "remote-work-a2-1",
+      "fr": "travail",
+      "en": "work / job",
+      "example": "J’aime mon travail.",
+      "ipa": "tʁa.vaj",
+      "article": "le"
+    },
+    {
+      "id": "remote-work-a2-2",
+      "fr": "bureau",
+      "en": "office / desk",
+      "example": "Mon bureau est au troisième étage.",
+      "ipa": "by.ʁo",
+      "article": "le"
+    },
+    {
+      "id": "remote-work-a2-3",
+      "fr": "collègue",
+      "en": "colleague",
+      "example": "Ma collègue est très gentille.",
+      "ipa": "kɔ.lɛɡ",
+      "article": "le"
+    },
+    {
+      "id": "remote-work-a2-4",
+      "fr": "réunion",
+      "en": "meeting",
+      "example": "La réunion commence à dix heures.",
+      "ipa": "ʁe.y.njɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-work-a2-5",
+      "fr": "patron",
+      "en": "boss",
+      "example": "Le patron est en déplacement.",
+      "ipa": "pa.tʁɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-work-a2-6",
+      "fr": "employé",
+      "en": "employee",
+      "example": "Les employés prennent une pause.",
+      "ipa": "ɑ̃.plwa.je",
+      "article": "l'"
+    },
+    {
+      "id": "remote-work-a2-7",
+      "fr": "horaire",
+      "en": "schedule / hours",
+      "example": "Mes horaires sont flexibles.",
+      "ipa": "ɔ.ʁɛʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-work-a2-8",
+      "fr": "salaire",
+      "en": "salary",
+      "example": "Le salaire est versé à la fin du mois.",
+      "ipa": "sa.lɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-work-a2-9",
+      "fr": "contrat",
+      "en": "contract",
+      "example": "J’ai signé un nouveau contrat.",
+      "ipa": "kɔ̃.tʁa",
+      "article": "le"
+    },
+    {
+      "id": "remote-work-a2-10",
+      "fr": "pause-café",
+      "en": "coffee break",
+      "example": "On se retrouve à la pause-café.",
+      "ipa": "poz.ka.fe",
+      "article": "la"
+    },
+    {
+      "id": "remote-work-a2-11",
+      "fr": "ordinateur",
+      "en": "computer",
+      "example": "Mon ordinateur est lent aujourd’hui.",
+      "ipa": "ɔʁ.di.na.tœʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-work-a2-12",
+      "fr": "e-mail",
+      "en": "email",
+      "example": "J’envoie un e-mail au client.",
+      "ipa": "i.mɛl",
+      "article": "l'"
+    },
+    {
+      "id": "remote-work-a2-13",
+      "fr": "client",
+      "en": "client / customer",
+      "example": "Le client attend une réponse.",
+      "ipa": "kli.jɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-work-a2-14",
+      "fr": "projet",
+      "en": "project",
+      "example": "Ce projet est important.",
+      "ipa": "pʁɔ.ʒɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-work-a2-15",
+      "fr": "deadline",
+      "en": "deadline",
+      "example": "La deadline est vendredi.",
+      "ipa": "dɛd.lajn",
+      "article": "la"
+    },
+    {
+      "id": "remote-work-a2-16",
+      "fr": "entretien",
+      "en": "interview",
+      "example": "J’ai un entretien d’embauche demain.",
+      "ipa": "ɑ̃.tʁə.tjɛ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-work-a2-17",
+      "fr": "cv",
+      "en": "CV / résumé",
+      "example": "Voici mon CV.",
+      "ipa": "se.ve",
+      "article": "le"
+    },
+    {
+      "id": "remote-work-a2-18",
+      "fr": "équipe",
+      "en": "team",
+      "example": "Notre équipe travaille bien ensemble.",
+      "ipa": "e.kip",
+      "article": "l'"
+    },
+    {
+      "id": "remote-work-a2-19",
+      "fr": "congés",
+      "en": "time off / leave",
+      "example": "Je prends des congés en août.",
+      "ipa": "kɔ̃.ʒe",
+      "article": "les"
+    },
+    {
+      "id": "remote-work-a2-20",
+      "fr": "retraite",
+      "en": "retirement",
+      "example": "Il part à la retraite l’année prochaine.",
+      "ipa": "ʁə.tʁɛt",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-work-phrase-1",
+      "fr": "Je travaille dans un bureau.",
+      "en": "I work in an office.",
+      "ipa": "ʒə tʁa.vaj dɑ̃ zœ̃ by.ʁo"
+    },
+    {
+      "id": "remote-work-phrase-2",
+      "fr": "On a une réunion à onze heures.",
+      "en": "We have a meeting at eleven o’clock.",
+      "ipa": "ɔ̃ n‿a yn ʁe.y.njɔ̃ a ɔ̃z œʁ"
+    },
+    {
+      "id": "remote-work-phrase-3",
+      "fr": "Je cherche un emploi.",
+      "en": "I’m looking for a job.",
+      "ipa": "ʒə ʃɛʁʃ œ̃ nɑ̃.plwa"
+    },
+    {
+      "id": "remote-work-phrase-4",
+      "fr": "Pouvez-vous m’envoyer un e-mail ?",
+      "en": "Can you send me an email?",
+      "ipa": "pu.ve vu mɑ̃.vwa.je œ̃ n‿i.mɛl"
+    },
+    {
+      "id": "remote-work-phrase-5",
+      "fr": "Je suis en congés la semaine prochaine.",
+      "en": "I’m on leave next week.",
+      "ipa": "ʒə sɥi ɑ̃ kɔ̃.ʒe la sə.mɛn pʁɔ.ʃɛn"
+    },
+    {
+      "id": "remote-work-phrase-6",
+      "fr": "C’est un travail à temps partiel.",
+      "en": "It’s a part-time job.",
+      "ipa": "sɛ tœ̃ tʁa.vaj a tɑ̃ paʁ.sjɛl"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-work-listen-1",
+      "fr": "La réunion commence à dix heures précises.",
+      "en": "The meeting starts at ten o’clock sharp.",
+      "word": "réunion",
+      "wordEn": "meeting",
+      "wordIpa": "ʁe.y.njɔ̃",
+      "distractors": [
+        "pause-café",
+        "entretien",
+        "projet"
+      ]
+    },
+    {
+      "id": "remote-work-listen-2",
+      "fr": "J’envoie un e-mail au client ce matin.",
+      "en": "I’m sending an email to the client this morning.",
+      "word": "e-mail",
+      "wordEn": "email",
+      "wordIpa": "i.mɛl",
+      "distractors": [
+        "contrat",
+        "cv",
+        "salaire"
+      ]
+    },
+    {
+      "id": "remote-work-listen-3",
+      "fr": "Ma collègue prépare le projet.",
+      "en": "My colleague is preparing the project.",
+      "word": "collègue",
+      "wordEn": "colleague",
+      "wordIpa": "kɔ.lɛɡ",
+      "distractors": [
+        "patron",
+        "employé",
+        "équipe"
+      ]
+    },
+    {
+      "id": "remote-work-listen-4",
+      "fr": "Je prends des congés en août.",
+      "en": "I’m taking time off in August.",
+      "word": "congés",
+      "wordEn": "leave",
+      "wordIpa": "kɔ̃.ʒe",
+      "distractors": [
+        "retraite",
+        "horaire",
+        "salaire"
+      ]
+    }
+  ],
+  "prompts": [
+    "Où travailles-tu et qu’est-ce que tu fais ?",
+    "Décris une journée au bureau.",
+    "Tu préfères travailler le matin ou l’après-midi ? Pourquoi ?",
+    "Quels sont tes horaires cette semaine ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-work-grammar-1",
+      "title": {
+        "fr": "Travailler / un travail / un emploi",
+        "en": "Work as verb and noun"
+      },
+      "rule": "Travailler est un verbe : Je travaille à Paris. Un travail ou un emploi est un nom : J’ai un travail intéressant. On dit aussi un métier.",
+      "table": [
+        [
+          "Mot",
+          "Nature",
+          "Exemple"
+        ],
+        [
+          "travailler",
+          "verbe",
+          "Elle travaille le lundi."
+        ],
+        [
+          "un travail",
+          "nom",
+          "C’est un travail difficile."
+        ],
+        [
+          "un emploi",
+          "nom (poste)",
+          "Il cherche un emploi."
+        ],
+        [
+          "un métier",
+          "nom (profession)",
+          "Quel est ton métier ?"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-work-gq-1",
+          "prompt": "Je ___ dans une banque.",
+          "answer": "travaille",
+          "options": [
+            "travail",
+            "travaille",
+            "emploi"
+          ]
+        },
+        {
+          "id": "remote-work-gq-2",
+          "prompt": "Elle cherche ___ emploi.",
+          "answer": "un",
+          "options": [
+            "un",
+            "une",
+            "du"
+          ]
+        },
+        {
+          "id": "remote-work-gq-3",
+          "prompt": "C’est ___ travail à temps plein.",
+          "answer": "un",
+          "options": [
+            "un",
+            "une",
+            "le"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-work-grammar-2",
+      "title": {
+        "fr": "Le futur proche au bureau",
+        "en": "Near future at work"
+      },
+      "rule": "Pour parler d’un projet proche : aller + infinitif. Je vais envoyer un e-mail. Nous allons commencer la réunion.",
+      "table": [
+        [
+          "Personne",
+          "aller",
+          "Exemple"
+        ],
+        [
+          "je",
+          "vais",
+          "Je vais signer le contrat."
+        ],
+        [
+          "tu",
+          "vas",
+          "Tu vas finir le projet ?"
+        ],
+        [
+          "il / elle",
+          "va",
+          "Elle va appeler le client."
+        ],
+        [
+          "nous",
+          "allons",
+          "Nous allons partir à dix-huit heures."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-work-gq-4",
+          "prompt": "Je ___ envoyer un e-mail.",
+          "answer": "vais",
+          "options": [
+            "vais",
+            "va",
+            "allez"
+          ]
+        },
+        {
+          "id": "remote-work-gq-5",
+          "prompt": "Nous ___ commencer à neuf heures.",
+          "answer": "allons",
+          "options": [
+            "allons",
+            "allez",
+            "vont"
+          ]
+        },
+        {
+          "id": "remote-work-gq-6",
+          "prompt": "Elle ___ appeler le patron.",
+          "answer": "va",
+          "options": [
+            "vais",
+            "va",
+            "vas"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-work-dict-1",
+        "fr": "Je travaille dans un bureau.",
+        "en": "I work in an office.",
+        "ipa": "ʒə tʁa.vaj dɑ̃ zœ̃ by.ʁo"
+      },
+      {
+        "id": "remote-work-dict-2",
+        "fr": "On a une réunion à onze heures.",
+        "en": "We have a meeting at eleven o’clock.",
+        "ipa": "ɔ̃ n‿a yn ʁe.y.njɔ̃ a ɔ̃z œʁ"
+      },
+      {
+        "id": "remote-work-dict-3",
+        "fr": "Je cherche un emploi.",
+        "en": "I’m looking for a job.",
+        "ipa": "ʒə ʃɛʁʃ œ̃ nɑ̃.plwa"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-work-mean-1",
+        "fr": "Je travaille dans un bureau.",
+        "en": "I work in an office.",
+        "choices": [
+          "I work in an office.",
+          "We have a meeting at eleven o’clock.",
+          "I’m looking for a job."
+        ]
+      },
+      {
+        "id": "remote-work-mean-2",
+        "fr": "On a une réunion à onze heures.",
+        "en": "We have a meeting at eleven o’clock.",
+        "choices": [
+          "We have a meeting at eleven o’clock.",
+          "I work in an office.",
+          "I’m looking for a job."
+        ]
+      },
+      {
+        "id": "remote-work-mean-3",
+        "fr": "Je cherche un emploi.",
+        "en": "I’m looking for a job.",
+        "choices": [
+          "I’m looking for a job.",
+          "I work in an office.",
+          "We have a meeting at eleven o’clock."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-work-fren-1",
+        "fr": "travail",
+        "en": "work"
+      },
+      {
+        "id": "remote-work-fren-2",
+        "fr": "bureau",
+        "en": "office"
+      },
+      {
+        "id": "remote-work-fren-3",
+        "fr": "collègue",
+        "en": "colleague"
+      },
+      {
+        "id": "remote-work-fren-4",
+        "fr": "réunion",
+        "en": "meeting"
+      },
+      {
+        "id": "remote-work-fren-5",
+        "fr": "patron",
+        "en": "boss"
+      },
+      {
+        "id": "remote-work-fren-6",
+        "fr": "employé",
+        "en": "employee"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-work-aloud-1",
+        "fr": "Je travaille dans un bureau.",
+        "en": "I work in an office.",
+        "ipa": "ʒə tʁa.vaj dɑ̃ zœ̃ by.ʁo"
+      },
+      {
+        "id": "remote-work-aloud-2",
+        "fr": "Je cherche un emploi.",
+        "en": "I’m looking for a job.",
+        "ipa": "ʒə ʃɛʁʃ œ̃ nɑ̃.plwa"
+      },
+      {
+        "id": "remote-work-aloud-3",
+        "fr": "Je suis en congés la semaine prochaine.",
+        "en": "I’m on leave next week.",
+        "ipa": "ʒə sɥi ɑ̃ kɔ̃.ʒe la sə.mɛn pʁɔ.ʃɛn"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-work-unsc-1",
+        "fr": "Pouvez-vous m’envoyer un e-mail ?",
+        "en": "Can you send me an email?",
+        "words": [
+          "Pouvez-vous",
+          "m’envoyer",
+          "un",
+          "e-mail",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-work-unsc-2",
+        "fr": "Je suis en congés la semaine prochaine.",
+        "en": "I’m on leave next week.",
+        "words": [
+          "Je",
+          "suis",
+          "en",
+          "congés",
+          "la",
+          "semaine",
+          "prochaine."
+        ]
+      }
+    ]
+  }
+}

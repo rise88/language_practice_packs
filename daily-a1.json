@@ -1,0 +1,544 @@
+{
+  "pratiquePack": 1,
+  "id": "daily-a1",
+  "version": 1,
+  "level": "a1",
+  "title": {
+    "fr": "Routine A1",
+    "en": "Daily routine A1"
+  },
+  "description": {
+    "fr": "Levers, repas et habitudes simples de la journée.",
+    "en": "Getting up, meals, and simple daily habits."
+  },
+  "seed": [
+    {
+      "id": "remote-daily-a1-1",
+      "fr": "réveil",
+      "en": "alarm clock",
+      "example": "Le réveil sonne à sept heures.",
+      "ipa": "ʁe.vɛj",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-2",
+      "fr": "douche",
+      "en": "shower",
+      "example": "Je prends une douche le matin.",
+      "ipa": "duʃ",
+      "article": "la"
+    },
+    {
+      "id": "remote-daily-a1-3",
+      "fr": "petit-déjeuner",
+      "en": "breakfast",
+      "example": "Le petit-déjeuner est à huit heures.",
+      "ipa": "pə.ti.de.ʒœ.ne",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-4",
+      "fr": "brosse",
+      "en": "brush",
+      "example": "Je prends ma brosse à dents.",
+      "ipa": "bʁɔs",
+      "article": "la"
+    },
+    {
+      "id": "remote-daily-a1-5",
+      "fr": "savon",
+      "en": "soap",
+      "example": "Le savon est dans la salle de bain.",
+      "ipa": "sa.vɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-6",
+      "fr": "serviette",
+      "en": "towel",
+      "example": "Passe-moi une serviette, s’il te plaît.",
+      "ipa": "sɛʁ.vjɛt",
+      "article": "la"
+    },
+    {
+      "id": "remote-daily-a1-7",
+      "fr": "pause",
+      "en": "break",
+      "example": "On prend une pause à dix heures.",
+      "ipa": "poz",
+      "article": "la"
+    },
+    {
+      "id": "remote-daily-a1-8",
+      "fr": "déjeuner",
+      "en": "lunch",
+      "example": "Le déjeuner est à midi.",
+      "ipa": "de.ʒœ.ne",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-9",
+      "fr": "dîner",
+      "en": "dinner",
+      "example": "Nous dînons à dix-neuf heures.",
+      "ipa": "di.ne",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-10",
+      "fr": "lit",
+      "en": "bed",
+      "example": "Je vais au lit tôt.",
+      "ipa": "li",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-11",
+      "fr": "sommeil",
+      "en": "sleep",
+      "example": "J’ai besoin de sommeil.",
+      "ipa": "sɔ.mɛj",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-12",
+      "fr": "journée",
+      "en": "day (daytime)",
+      "example": "Bonne journée !",
+      "ipa": "ʒuʁ.ne",
+      "article": "la"
+    },
+    {
+      "id": "remote-daily-a1-13",
+      "fr": "habitude",
+      "en": "habit",
+      "example": "C’est une bonne habitude.",
+      "ipa": "a.bi.tyd",
+      "article": "l'"
+    },
+    {
+      "id": "remote-daily-a1-14",
+      "fr": "copain",
+      "en": "friend (male)",
+      "example": "Mon copain arrive à huit heures.",
+      "ipa": "kɔ.pɛ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-15",
+      "fr": "copine",
+      "en": "friend (female)",
+      "example": "Ma copine prend le bus.",
+      "ipa": "kɔ.pin",
+      "article": "la"
+    },
+    {
+      "id": "remote-daily-a1-16",
+      "fr": "sac",
+      "en": "bag",
+      "example": "Mon sac est trop lourd.",
+      "ipa": "sak",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-17",
+      "fr": "clé",
+      "en": "key",
+      "example": "Où sont mes clés ?",
+      "ipa": "kle",
+      "article": "la"
+    },
+    {
+      "id": "remote-daily-a1-18",
+      "fr": "portefeuille",
+      "en": "wallet",
+      "example": "Mon portefeuille est dans ma poche.",
+      "ipa": "pɔʁt.fœj",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-19",
+      "fr": "bureau",
+      "en": "desk / office",
+      "example": "Je travaille au bureau.",
+      "ipa": "by.ʁo",
+      "article": "le"
+    },
+    {
+      "id": "remote-daily-a1-20",
+      "fr": "fatigue",
+      "en": "tiredness",
+      "example": "J’ai de la fatigue ce soir.",
+      "ipa": "fa.tiɡ",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-daily-phrase-1",
+      "fr": "Je me lève à sept heures.",
+      "en": "I get up at seven o’clock.",
+      "ipa": "ʒə mə lɛv a sɛt œʁ"
+    },
+    {
+      "id": "remote-daily-phrase-2",
+      "fr": "Je prends une douche le matin.",
+      "en": "I take a shower in the morning.",
+      "ipa": "ʒə pʁɑ̃ yn duʃ lə ma.tɛ̃"
+    },
+    {
+      "id": "remote-daily-phrase-3",
+      "fr": "À quelle heure tu dînes ?",
+      "en": "What time do you have dinner?",
+      "ipa": "a kɛl œʁ ty din"
+    },
+    {
+      "id": "remote-daily-phrase-4",
+      "fr": "Je vais au lit tôt.",
+      "en": "I go to bed early.",
+      "ipa": "ʒə vɛ o li to"
+    },
+    {
+      "id": "remote-daily-phrase-5",
+      "fr": "On prend une pause à dix heures.",
+      "en": "We take a break at ten o’clock.",
+      "ipa": "ɔ̃ pʁɑ̃ yn poz a diz œʁ"
+    },
+    {
+      "id": "remote-daily-phrase-6",
+      "fr": "Bonne journée !",
+      "en": "Have a good day!",
+      "ipa": "bɔn ʒuʁ.ne"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-daily-listen-1",
+      "fr": "Le réveil sonne à sept heures tous les jours.",
+      "en": "The alarm clock rings at seven every day.",
+      "word": "réveil",
+      "wordEn": "alarm clock",
+      "wordIpa": "ʁe.vɛj",
+      "distractors": [
+        "douche",
+        "lit",
+        "pause"
+      ]
+    },
+    {
+      "id": "remote-daily-listen-2",
+      "fr": "Je prends une douche après le sport.",
+      "en": "I take a shower after sport.",
+      "word": "douche",
+      "wordEn": "shower",
+      "wordIpa": "duʃ",
+      "distractors": [
+        "savon",
+        "serviette",
+        "brosse"
+      ]
+    },
+    {
+      "id": "remote-daily-listen-3",
+      "fr": "Le déjeuner est à midi.",
+      "en": "Lunch is at noon.",
+      "word": "déjeuner",
+      "wordEn": "lunch",
+      "wordIpa": "de.ʒœ.ne",
+      "distractors": [
+        "dîner",
+        "petit-déjeuner",
+        "pause"
+      ]
+    },
+    {
+      "id": "remote-daily-listen-4",
+      "fr": "Je vais au lit tôt ce soir.",
+      "en": "I’m going to bed early tonight.",
+      "word": "lit",
+      "wordEn": "bed",
+      "wordIpa": "li",
+      "distractors": [
+        "bureau",
+        "sac",
+        "sommeil"
+      ]
+    }
+  ],
+  "prompts": [
+    "À quelle heure tu te lèves ?",
+    "Décris ta matinée.",
+    "Que fais-tu le soir ?",
+    "Quelles sont tes habitudes le week-end ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-daily-grammar-1",
+      "title": {
+        "fr": "Les verbes pronominaux du quotidien",
+        "en": "Reflexive verbs in daily life"
+      },
+      "rule": "Beaucoup d’actions quotidiennes sont pronominales : se lever, se laver, se coucher. Au présent : je me lève, tu te lèves, il se lève.",
+      "table": [
+        [
+          "Personne",
+          "se lever",
+          "se coucher"
+        ],
+        [
+          "je",
+          "me lève",
+          "me couche"
+        ],
+        [
+          "tu",
+          "te lèves",
+          "te couches"
+        ],
+        [
+          "il / elle",
+          "se lève",
+          "se couche"
+        ],
+        [
+          "nous",
+          "nous levons",
+          "nous couchons"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-daily-gq-1",
+          "prompt": "Je ___ à sept heures.",
+          "answer": "me lève",
+          "options": [
+            "me lève",
+            "lève",
+            "se lève"
+          ]
+        },
+        {
+          "id": "remote-daily-gq-2",
+          "prompt": "Elle ___ tôt.",
+          "answer": "se couche",
+          "options": [
+            "couche",
+            "se couche",
+            "me couche"
+          ]
+        },
+        {
+          "id": "remote-daily-gq-3",
+          "prompt": "Nous ___ à six heures.",
+          "answer": "nous levons",
+          "options": [
+            "nous levons",
+            "se levons",
+            "levons"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-daily-grammar-2",
+      "title": {
+        "fr": "À quelle heure… ?",
+        "en": "Asking what time"
+      },
+      "rule": "Pour demander l’heure d’une habitude : À quelle heure tu te lèves ? Réponse : À sept heures. / Vers huit heures.",
+      "table": [
+        [
+          "Expression",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "À quelle heure… ?",
+          "demander l’heure",
+          "À quelle heure tu dînes ?"
+        ],
+        [
+          "à + heure",
+          "heure précise",
+          "à midi"
+        ],
+        [
+          "vers",
+          "environ",
+          "vers huit heures"
+        ],
+        [
+          "tous les jours",
+          "habitude",
+          "tous les jours"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-daily-gq-4",
+          "prompt": "___ heure tu te lèves ?",
+          "answer": "À quelle",
+          "options": [
+            "Quelle",
+            "À quelle",
+            "Quand"
+          ]
+        },
+        {
+          "id": "remote-daily-gq-5",
+          "prompt": "Je dîne ___ dix-neuf heures.",
+          "answer": "à",
+          "options": [
+            "à",
+            "de",
+            "en"
+          ]
+        },
+        {
+          "id": "remote-daily-gq-6",
+          "prompt": "Je me lève ___ sept heures.",
+          "answer": "vers",
+          "options": [
+            "dans",
+            "vers",
+            "pour"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-daily-dict-1",
+        "fr": "Je me lève à sept heures.",
+        "en": "I get up at seven o’clock.",
+        "ipa": "ʒə mə lɛv a sɛt œʁ"
+      },
+      {
+        "id": "remote-daily-dict-2",
+        "fr": "Je prends une douche le matin.",
+        "en": "I take a shower in the morning.",
+        "ipa": "ʒə pʁɑ̃ yn duʃ lə ma.tɛ̃"
+      },
+      {
+        "id": "remote-daily-dict-3",
+        "fr": "À quelle heure tu dînes ?",
+        "en": "What time do you have dinner?",
+        "ipa": "a kɛl œʁ ty din"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-daily-mean-1",
+        "fr": "Je me lève à sept heures.",
+        "en": "I get up at seven o’clock.",
+        "choices": [
+          "I get up at seven o’clock.",
+          "I take a shower in the morning.",
+          "What time do you have dinner?"
+        ]
+      },
+      {
+        "id": "remote-daily-mean-2",
+        "fr": "Je prends une douche le matin.",
+        "en": "I take a shower in the morning.",
+        "choices": [
+          "I take a shower in the morning.",
+          "I get up at seven o’clock.",
+          "What time do you have dinner?"
+        ]
+      },
+      {
+        "id": "remote-daily-mean-3",
+        "fr": "À quelle heure tu dînes ?",
+        "en": "What time do you have dinner?",
+        "choices": [
+          "What time do you have dinner?",
+          "I get up at seven o’clock.",
+          "I take a shower in the morning."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-daily-fren-1",
+        "fr": "réveil",
+        "en": "alarm clock"
+      },
+      {
+        "id": "remote-daily-fren-2",
+        "fr": "douche",
+        "en": "shower"
+      },
+      {
+        "id": "remote-daily-fren-3",
+        "fr": "petit-déjeuner",
+        "en": "breakfast"
+      },
+      {
+        "id": "remote-daily-fren-4",
+        "fr": "brosse",
+        "en": "brush"
+      },
+      {
+        "id": "remote-daily-fren-5",
+        "fr": "savon",
+        "en": "soap"
+      },
+      {
+        "id": "remote-daily-fren-6",
+        "fr": "serviette",
+        "en": "towel"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-daily-aloud-1",
+        "fr": "Je me lève à sept heures.",
+        "en": "I get up at seven o’clock.",
+        "ipa": "ʒə mə lɛv a sɛt œʁ"
+      },
+      {
+        "id": "remote-daily-aloud-2",
+        "fr": "À quelle heure tu dînes ?",
+        "en": "What time do you have dinner?",
+        "ipa": "a kɛl œʁ ty din"
+      },
+      {
+        "id": "remote-daily-aloud-3",
+        "fr": "On prend une pause à dix heures.",
+        "en": "We take a break at ten o’clock.",
+        "ipa": "ɔ̃ pʁɑ̃ yn poz a diz œʁ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-daily-unsc-1",
+        "fr": "Je vais au lit tôt.",
+        "en": "I go to bed early.",
+        "words": [
+          "Je",
+          "vais",
+          "au",
+          "lit",
+          "tôt."
+        ]
+      },
+      {
+        "id": "remote-daily-unsc-2",
+        "fr": "On prend une pause à dix heures.",
+        "en": "We take a break at ten o’clock.",
+        "words": [
+          "On",
+          "prend",
+          "une",
+          "pause",
+          "à",
+          "dix",
+          "heures."
+        ]
+      }
+    ]
+  }
+}

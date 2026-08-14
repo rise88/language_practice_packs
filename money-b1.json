@@ -1,0 +1,538 @@
+{
+  "pratiquePack": 1,
+  "id": "money-b1",
+  "version": 1,
+  "level": "b1",
+  "title": {
+    "fr": "Argent B1",
+    "en": "Money B1"
+  },
+  "description": {
+    "fr": "Banque, budget et paiements pour gérer l’argent au quotidien.",
+    "en": "Banking, budgets, and payments for everyday money matters."
+  },
+  "seed": [
+    {
+      "id": "remote-money-b1-1",
+      "fr": "argent",
+      "en": "money",
+      "example": "Je n’ai pas assez d’argent ce mois-ci.",
+      "ipa": "aʁ.ʒɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-money-b1-2",
+      "fr": "budget",
+      "en": "budget",
+      "example": "Mon budget alimentaire a augmenté.",
+      "ipa": "byd.ʒɛ",
+      "article": "le"
+    },
+    {
+      "id": "remote-money-b1-3",
+      "fr": "compte",
+      "en": "account",
+      "example": "Je consulte mon compte en ligne.",
+      "ipa": "kɔ̃t",
+      "article": "le"
+    },
+    {
+      "id": "remote-money-b1-4",
+      "fr": "virement",
+      "en": "transfer",
+      "example": "J’ai fait un virement hier.",
+      "ipa": "viʁ.mɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-money-b1-5",
+      "fr": "découvert",
+      "en": "overdraft",
+      "example": "Le découvert est autorisé jusqu’à 200 euros.",
+      "ipa": "de.ku.vɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-money-b1-6",
+      "fr": "épargne",
+      "en": "savings",
+      "example": "Je mets un peu d’épargne chaque mois.",
+      "ipa": "e.paʁɲ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-money-b1-7",
+      "fr": "crédit",
+      "en": "credit / loan",
+      "example": "Le crédit immobilier dure vingt ans.",
+      "ipa": "kʁe.di",
+      "article": "le"
+    },
+    {
+      "id": "remote-money-b1-8",
+      "fr": "intérêt",
+      "en": "interest (finance)",
+      "example": "Les intérêts du prêt sont élevés.",
+      "ipa": "ɛ̃.te.ʁɛ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-money-b1-9",
+      "fr": "facture",
+      "en": "bill / invoice",
+      "example": "J’ai payé la facture d’électricité.",
+      "ipa": "fak.tyʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-money-b1-10",
+      "fr": "reçu",
+      "en": "receipt",
+      "example": "Garde le reçu, au cas où.",
+      "ipa": "ʁə.sy",
+      "article": "le"
+    },
+    {
+      "id": "remote-money-b1-11",
+      "fr": "espèces",
+      "en": "cash",
+      "example": "Ils n’acceptent plus les espèces.",
+      "ipa": "ɛ.spɛs",
+      "article": "les"
+    },
+    {
+      "id": "remote-money-b1-12",
+      "fr": "carte bancaire",
+      "en": "bank card",
+      "example": "Ma carte bancaire a été refusée.",
+      "ipa": "kaʁt bɑ̃.kɛʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-money-b1-13",
+      "fr": "distributeur",
+      "en": "cash machine / ATM",
+      "example": "Le distributeur est en panne.",
+      "ipa": "dis.tʁi.by.tœʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-money-b1-14",
+      "fr": "impôt",
+      "en": "tax",
+      "example": "Les impôts se paient en ligne.",
+      "ipa": "ɛ̃.po",
+      "article": "l'"
+    },
+    {
+      "id": "remote-money-b1-15",
+      "fr": "salaire",
+      "en": "salary",
+      "example": "Le salaire arrive le vingt-huit.",
+      "ipa": "sa.lɛʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-money-b1-16",
+      "fr": "dette",
+      "en": "debt",
+      "example": "La dette l’inquiète depuis des mois.",
+      "ipa": "dɛt",
+      "article": "la"
+    },
+    {
+      "id": "remote-money-b1-17",
+      "fr": "investissement",
+      "en": "investment",
+      "example": "Cet investissement est risqué.",
+      "ipa": "ɛ̃.vɛs.tis.mɑ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-money-b1-18",
+      "fr": "assurance",
+      "en": "insurance",
+      "example": "Mon assurance habitation a augmenté.",
+      "ipa": "a.sy.ʁɑ̃s",
+      "article": "l'"
+    },
+    {
+      "id": "remote-money-b1-19",
+      "fr": "pourboire",
+      "en": "tip",
+      "example": "Le pourboire n’est pas obligatoire ici.",
+      "ipa": "puʁ.bwaʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-money-b1-20",
+      "fr": "solde",
+      "en": "balance / sale",
+      "example": "Le solde du compte est positif.",
+      "ipa": "sɔld",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-money-phrase-1",
+      "fr": "Je voudrais faire un virement, s’il vous plaît.",
+      "en": "I’d like to make a transfer, please.",
+      "ipa": "ʒə vu.dʁɛ fɛʁ œ̃ viʁ.mɑ̃ sil vu plɛ"
+    },
+    {
+      "id": "remote-money-phrase-2",
+      "fr": "Ma carte a été refusée au magasin.",
+      "en": "My card was declined in the shop.",
+      "ipa": "ma kaʁt a e.te ʁə.fy.ze o ma.ɡa.zɛ̃"
+    },
+    {
+      "id": "remote-money-phrase-3",
+      "fr": "J’essaie de mettre de l’argent de côté.",
+      "en": "I try to put money aside.",
+      "ipa": "ʒe.sɛ də mɛtʁ də laʁ.ʒɑ̃ də ko.te"
+    },
+    {
+      "id": "remote-money-phrase-4",
+      "fr": "Le loyer prend une grande partie de mon budget.",
+      "en": "Rent takes up a large part of my budget.",
+      "ipa": "lə lwa.je pʁɑ̃ yn ɡʁɑ̃d paʁ.ti də mɔ̃ byd.ʒɛ"
+    },
+    {
+      "id": "remote-money-phrase-5",
+      "fr": "Est-ce que vous acceptez les espèces ?",
+      "en": "Do you take cash?",
+      "ipa": "ɛs.kə vu zak.sɛp.te lez ɛ.spɛs"
+    },
+    {
+      "id": "remote-money-phrase-6",
+      "fr": "Il faut que je paie cette facture aujourd’hui.",
+      "en": "I have to pay this bill today.",
+      "ipa": "il fo kə ʒə pɛ sɛt fak.tyʁ o.ʒuʁ.dɥi"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-money-listen-1",
+      "fr": "J’ai fait un virement hier soir.",
+      "en": "I made a transfer last night.",
+      "word": "virement",
+      "wordEn": "transfer",
+      "wordIpa": "viʁ.mɑ̃",
+      "distractors": [
+        "découvert",
+        "impôt",
+        "pourboire"
+      ]
+    },
+    {
+      "id": "remote-money-listen-2",
+      "fr": "Ma carte bancaire a été refusée.",
+      "en": "My bank card was declined.",
+      "word": "carte bancaire",
+      "wordEn": "bank card",
+      "wordIpa": "kaʁt bɑ̃.kɛʁ",
+      "distractors": [
+        "espèces",
+        "reçu",
+        "solde"
+      ]
+    },
+    {
+      "id": "remote-money-listen-3",
+      "fr": "Je mets un peu d’épargne chaque mois.",
+      "en": "I put a bit into savings each month.",
+      "word": "épargne",
+      "wordEn": "savings",
+      "wordIpa": "e.paʁɲ",
+      "distractors": [
+        "dette",
+        "intérêt",
+        "crédit"
+      ]
+    },
+    {
+      "id": "remote-money-listen-4",
+      "fr": "J’ai payé la facture d’électricité.",
+      "en": "I paid the electricity bill.",
+      "word": "facture",
+      "wordEn": "bill",
+      "wordIpa": "fak.tyʁ",
+      "distractors": [
+        "reçu",
+        "impôt",
+        "assurance"
+      ]
+    }
+  ],
+  "prompts": [
+    "Comment gères-tu ton budget chaque mois ?",
+    "Préfères-tu payer en carte ou en espèces ? Pourquoi ?",
+    "Raconte un problème avec une banque ou une facture.",
+    "Qu’est-ce qui coûte le plus cher dans ta vie quotidienne ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-money-grammar-1",
+      "title": {
+        "fr": "Il faut que + subjonctif",
+        "en": "Il faut que + subjunctive"
+      },
+      "rule": "Après il faut que, on utilise le subjonctif : Il faut que je paie. Il faut que tu fasses un virement. Radical souvent = 3e pers. pluriel du présent (ils paient → que je paie).",
+      "table": [
+        [
+          "Infinitif",
+          "Il faut que je…",
+          "Il faut que tu…"
+        ],
+        [
+          "payer",
+          "paie",
+          "paies"
+        ],
+        [
+          "faire",
+          "fasse",
+          "fasses"
+        ],
+        [
+          "mettre",
+          "mette",
+          "mettes"
+        ],
+        [
+          "avoir",
+          "aie",
+          "aies"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-money-gq-1",
+          "prompt": "Il faut que je ___ cette facture.",
+          "answer": "paie",
+          "options": [
+            "paie",
+            "payeais",
+            "payer"
+          ]
+        },
+        {
+          "id": "remote-money-gq-2",
+          "prompt": "Il faut que tu ___ un virement.",
+          "answer": "fasses",
+          "options": [
+            "fais",
+            "fasses",
+            "feras"
+          ]
+        },
+        {
+          "id": "remote-money-gq-3",
+          "prompt": "Il faut que nous ___ de l’argent de côté.",
+          "answer": "mettions",
+          "options": [
+            "mettons",
+            "mettions",
+            "mettre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-money-grammar-2",
+      "title": {
+        "fr": "Assez de / trop de / peu de",
+        "en": "Quantities of money"
+      },
+      "rule": "Assez d’argent, trop de dettes, peu d’épargne : de s’élide devant une voyelle (d’). Après la négation : Je n’ai pas d’argent (pas de).",
+      "table": [
+        [
+          "Forme",
+          "Sens",
+          "Exemple"
+        ],
+        [
+          "assez de",
+          "enough",
+          "assez d’argent"
+        ],
+        [
+          "trop de",
+          "too much",
+          "trop de dettes"
+        ],
+        [
+          "peu de",
+          "little / few",
+          "peu d’épargne"
+        ],
+        [
+          "pas de",
+          "none after negation",
+          "pas d’espèces"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-money-gq-4",
+          "prompt": "Je n’ai pas assez ___ argent.",
+          "answer": "d’",
+          "options": [
+            "de",
+            "d’",
+            "du"
+          ]
+        },
+        {
+          "id": "remote-money-gq-5",
+          "prompt": "Il a trop ___ dettes.",
+          "answer": "de",
+          "options": [
+            "de",
+            "des",
+            "du"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-money-dict-1",
+        "fr": "Je voudrais faire un virement, s’il vous plaît.",
+        "en": "I’d like to make a transfer, please.",
+        "ipa": "ʒə vu.dʁɛ fɛʁ œ̃ viʁ.mɑ̃ sil vu plɛ"
+      },
+      {
+        "id": "remote-money-dict-2",
+        "fr": "Ma carte a été refusée au magasin.",
+        "en": "My card was declined in the shop.",
+        "ipa": "ma kaʁt a e.te ʁə.fy.ze o ma.ɡa.zɛ̃"
+      },
+      {
+        "id": "remote-money-dict-3",
+        "fr": "J’essaie de mettre de l’argent de côté.",
+        "en": "I try to put money aside.",
+        "ipa": "ʒe.sɛ də mɛtʁ də laʁ.ʒɑ̃ də ko.te"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-money-mean-1",
+        "fr": "Je voudrais faire un virement, s’il vous plaît.",
+        "en": "I’d like to make a transfer, please.",
+        "choices": [
+          "I’d like to make a transfer, please.",
+          "My card was declined in the shop.",
+          "I try to put money aside."
+        ]
+      },
+      {
+        "id": "remote-money-mean-2",
+        "fr": "Ma carte a été refusée au magasin.",
+        "en": "My card was declined in the shop.",
+        "choices": [
+          "My card was declined in the shop.",
+          "I’d like to make a transfer, please.",
+          "I try to put money aside."
+        ]
+      },
+      {
+        "id": "remote-money-mean-3",
+        "fr": "J’essaie de mettre de l’argent de côté.",
+        "en": "I try to put money aside.",
+        "choices": [
+          "I try to put money aside.",
+          "I’d like to make a transfer, please.",
+          "My card was declined in the shop."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-money-fren-1",
+        "fr": "argent",
+        "en": "money"
+      },
+      {
+        "id": "remote-money-fren-2",
+        "fr": "budget",
+        "en": "budget"
+      },
+      {
+        "id": "remote-money-fren-3",
+        "fr": "compte",
+        "en": "account"
+      },
+      {
+        "id": "remote-money-fren-4",
+        "fr": "virement",
+        "en": "transfer"
+      },
+      {
+        "id": "remote-money-fren-5",
+        "fr": "découvert",
+        "en": "overdraft"
+      },
+      {
+        "id": "remote-money-fren-6",
+        "fr": "épargne",
+        "en": "savings"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-money-aloud-1",
+        "fr": "Je voudrais faire un virement, s’il vous plaît.",
+        "en": "I’d like to make a transfer, please.",
+        "ipa": "ʒə vu.dʁɛ fɛʁ œ̃ viʁ.mɑ̃ sil vu plɛ"
+      },
+      {
+        "id": "remote-money-aloud-2",
+        "fr": "J’essaie de mettre de l’argent de côté.",
+        "en": "I try to put money aside.",
+        "ipa": "ʒe.sɛ də mɛtʁ də laʁ.ʒɑ̃ də ko.te"
+      },
+      {
+        "id": "remote-money-aloud-3",
+        "fr": "Est-ce que vous acceptez les espèces ?",
+        "en": "Do you take cash?",
+        "ipa": "ɛs.kə vu zak.sɛp.te lez ɛ.spɛs"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-money-unsc-1",
+        "fr": "Le loyer prend une grande partie de mon budget.",
+        "en": "Rent takes up a large part of my budget.",
+        "words": [
+          "Le",
+          "loyer",
+          "prend",
+          "une",
+          "grande",
+          "partie",
+          "de",
+          "mon",
+          "budget."
+        ]
+      },
+      {
+        "id": "remote-money-unsc-2",
+        "fr": "Est-ce que vous acceptez les espèces ?",
+        "en": "Do you take cash?",
+        "words": [
+          "Est-ce",
+          "que",
+          "vous",
+          "acceptez",
+          "les",
+          "espèces",
+          "?"
+        ]
+      }
+    ]
+  }
+}

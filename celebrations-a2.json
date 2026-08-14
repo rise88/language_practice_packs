@@ -1,0 +1,544 @@
+{
+  "pratiquePack": 1,
+  "id": "celebrations-a2",
+  "version": 1,
+  "level": "a2",
+  "title": {
+    "fr": "Fêtes A2",
+    "en": "Celebrations A2"
+  },
+  "description": {
+    "fr": "Anniversaires, fêtes et invitations pour la vie sociale.",
+    "en": "Birthdays, holidays, and invitations for social life."
+  },
+  "seed": [
+    {
+      "id": "remote-celebrations-a2-1",
+      "fr": "fête",
+      "en": "party / celebration",
+      "example": "On organise une fête samedi.",
+      "ipa": "fɛt",
+      "article": "la"
+    },
+    {
+      "id": "remote-celebrations-a2-2",
+      "fr": "anniversaire",
+      "en": "birthday",
+      "example": "C’est mon anniversaire demain.",
+      "ipa": "a.ni.vɛʁ.sɛʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-celebrations-a2-3",
+      "fr": "invitation",
+      "en": "invitation",
+      "example": "J’ai reçu une invitation.",
+      "ipa": "ɛ̃.vi.ta.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-celebrations-a2-4",
+      "fr": "cadeau",
+      "en": "present / gift",
+      "example": "J’apporte un cadeau.",
+      "ipa": "ka.do",
+      "article": "le"
+    },
+    {
+      "id": "remote-celebrations-a2-5",
+      "fr": "gâteau",
+      "en": "cake",
+      "example": "Le gâteau au chocolat est délicieux.",
+      "ipa": "ɡa.to",
+      "article": "le"
+    },
+    {
+      "id": "remote-celebrations-a2-6",
+      "fr": "bougie",
+      "en": "candle",
+      "example": "Il y a vingt bougies sur le gâteau.",
+      "ipa": "bu.ʒi",
+      "article": "la"
+    },
+    {
+      "id": "remote-celebrations-a2-7",
+      "fr": "invité",
+      "en": "guest",
+      "example": "Les invités arrivent à vingt heures.",
+      "ipa": "ɛ̃.vi.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-celebrations-a2-8",
+      "fr": "mariage",
+      "en": "wedding",
+      "example": "Le mariage a lieu en juin.",
+      "ipa": "ma.ʁjaʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-celebrations-a2-9",
+      "fr": "réveillon",
+      "en": "Christmas / New Year’s Eve dinner",
+      "example": "Nous dînons au réveillon en famille.",
+      "ipa": "ʁe.vɛ.jɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-celebrations-a2-10",
+      "fr": "Nouvel An",
+      "en": "New Year",
+      "example": "Bonne année pour le Nouvel An !",
+      "ipa": "nu.vɛl ɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-celebrations-a2-11",
+      "fr": "vacances",
+      "en": "holidays",
+      "example": "Les vacances commencent vendredi.",
+      "ipa": "va.kɑ̃s",
+      "article": "les"
+    },
+    {
+      "id": "remote-celebrations-a2-12",
+      "fr": "feux d’artifice",
+      "en": "fireworks",
+      "example": "Les feux d’artifice sont à minuit.",
+      "ipa": "fø daʁ.ti.fis",
+      "article": "les"
+    },
+    {
+      "id": "remote-celebrations-a2-13",
+      "fr": "costume",
+      "en": "costume",
+      "example": "Elle porte un costume pour Carnaval.",
+      "ipa": "kɔs.tym",
+      "article": "le"
+    },
+    {
+      "id": "remote-celebrations-a2-14",
+      "fr": "toast",
+      "en": "toast (speech)",
+      "example": "On lève nos verres pour le toast.",
+      "ipa": "tost",
+      "article": "le"
+    },
+    {
+      "id": "remote-celebrations-a2-15",
+      "fr": "carte",
+      "en": "card",
+      "example": "J’écris une carte d’anniversaire.",
+      "ipa": "kaʁt",
+      "article": "la"
+    },
+    {
+      "id": "remote-celebrations-a2-16",
+      "fr": "surprise",
+      "en": "surprise",
+      "example": "C’est une fête surprise.",
+      "ipa": "syʁ.pʁiz",
+      "article": "la"
+    },
+    {
+      "id": "remote-celebrations-a2-17",
+      "fr": "danse",
+      "en": "dance",
+      "example": "Tout le monde danse.",
+      "ipa": "dɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-celebrations-a2-18",
+      "fr": "musique",
+      "en": "music",
+      "example": "La musique est trop forte.",
+      "ipa": "my.zik",
+      "article": "la"
+    },
+    {
+      "id": "remote-celebrations-a2-19",
+      "fr": "souvenir",
+      "en": "memory / souvenir",
+      "example": "C’est un beau souvenir.",
+      "ipa": "su.və.niʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-celebrations-a2-20",
+      "fr": "tradition",
+      "en": "tradition",
+      "example": "C’est une tradition familiale.",
+      "ipa": "tʁa.di.sjɔ̃",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-celebrations-phrase-1",
+      "fr": "Tu es libre samedi soir ?",
+      "en": "Are you free Saturday evening?",
+      "ipa": "ty ɛ li.bʁ sa.mɛ.di swaʁ"
+    },
+    {
+      "id": "remote-celebrations-phrase-2",
+      "fr": "Joyeux anniversaire !",
+      "en": "Happy birthday!",
+      "ipa": "ʒwa.jø za.ni.vɛʁ.sɛʁ"
+    },
+    {
+      "id": "remote-celebrations-phrase-3",
+      "fr": "J’aimerais t’inviter à dîner.",
+      "en": "I’d like to invite you to dinner.",
+      "ipa": "ʒɛ.mə.ʁɛ tɛ̃.vi.te a di.ne"
+    },
+    {
+      "id": "remote-celebrations-phrase-4",
+      "fr": "Merci pour l’invitation, j’accepte avec plaisir.",
+      "en": "Thanks for the invitation, I’d love to come.",
+      "ipa": "mɛʁ.si puʁ lɛ̃.vi.ta.sjɔ̃ ʒak.sɛpt a.vɛk plɛ.ziʁ"
+    },
+    {
+      "id": "remote-celebrations-phrase-5",
+      "fr": "Désolé, je ne peux pas venir.",
+      "en": "Sorry, I can’t come.",
+      "ipa": "de.zɔ.le ʒə nə pø pa və.niʁ"
+    },
+    {
+      "id": "remote-celebrations-phrase-6",
+      "fr": "On se retrouve à vingt heures chez moi.",
+      "en": "We’ll meet at my place at eight o’clock.",
+      "ipa": "ɔ̃ sə ʁə.tʁuv a vɛ̃ tœʁ ʃe mwa"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-celebrations-listen-1",
+      "fr": "C’est mon anniversaire demain soir.",
+      "en": "It’s my birthday tomorrow evening.",
+      "word": "anniversaire",
+      "wordEn": "birthday",
+      "wordIpa": "a.ni.vɛʁ.sɛʁ",
+      "distractors": [
+        "mariage",
+        "Noël",
+        "vacances"
+      ]
+    },
+    {
+      "id": "remote-celebrations-listen-2",
+      "fr": "J’ai reçu une invitation pour samedi.",
+      "en": "I received an invitation for Saturday.",
+      "word": "invitation",
+      "wordEn": "invitation",
+      "wordIpa": "ɛ̃.vi.ta.sjɔ̃",
+      "distractors": [
+        "carte",
+        "surprise",
+        "tradition"
+      ]
+    },
+    {
+      "id": "remote-celebrations-listen-3",
+      "fr": "J’apporte un cadeau et un gâteau.",
+      "en": "I’m bringing a present and a cake.",
+      "word": "cadeau",
+      "wordEn": "present",
+      "wordIpa": "ka.do",
+      "distractors": [
+        "toast",
+        "costume",
+        "souvenir"
+      ]
+    },
+    {
+      "id": "remote-celebrations-listen-4",
+      "fr": "Les feux d’artifice commencent à minuit.",
+      "en": "The fireworks start at midnight.",
+      "word": "feux d’artifice",
+      "wordEn": "fireworks",
+      "wordIpa": "fø daʁ.ti.fis",
+      "distractors": [
+        "bougies",
+        "danse",
+        "musique"
+      ]
+    }
+  ],
+  "prompts": [
+    "Invite un ami à une fête.",
+    "Décris ta fête préférée.",
+    "Que fais-tu pour un anniversaire ?",
+    "Accepte ou refuse une invitation (explique pourquoi)."
+  ],
+  "grammar": [
+    {
+      "id": "remote-celebrations-grammar-1",
+      "title": {
+        "fr": "Inviter : tu veux / on peut",
+        "en": "Inviting someone"
+      },
+      "rule": "Pour inviter : Tu veux venir samedi ? On peut se retrouver à vingt heures. Pour refuser poliment : Désolé, je ne peux pas. J’aimerais + infinitif est plus doux.",
+      "table": [
+        [
+          "Expression",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "Tu veux… ?",
+          "invitation directe",
+          "Tu veux venir ?"
+        ],
+        [
+          "On peut… ?",
+          "suggestion",
+          "On peut dîner ensemble ?"
+        ],
+        [
+          "J’aimerais…",
+          "souhait poli",
+          "J’aimerais t’inviter."
+        ],
+        [
+          "Désolé(e)…",
+          "refus poli",
+          "Désolé, je suis occupé."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-celebrations-gq-1",
+          "prompt": "___ venir à ma fête ?",
+          "answer": "Tu veux",
+          "options": [
+            "Tu veux",
+            "Tu es",
+            "Tu as"
+          ]
+        },
+        {
+          "id": "remote-celebrations-gq-2",
+          "prompt": "J’___ t’inviter à dîner.",
+          "answer": "aimerais",
+          "options": [
+            "aimerais",
+            "aime",
+            "aimais"
+          ]
+        },
+        {
+          "id": "remote-celebrations-gq-3",
+          "prompt": "Désolé, je ne ___ pas venir.",
+          "answer": "peux",
+          "options": [
+            "peux",
+            "veux",
+            "dois"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-celebrations-grammar-2",
+      "title": {
+        "fr": "C’est / ce sont pour les fêtes",
+        "en": "C’est and ce sont"
+      },
+      "rule": "C’est + nom singulier : C’est mon anniversaire. Ce sont + nom pluriel : Ce sont mes amis. On dit aussi C’est une fête surprise.",
+      "table": [
+        [
+          "Forme",
+          "Nombre",
+          "Exemple"
+        ],
+        [
+          "c’est",
+          "singulier",
+          "C’est Noël."
+        ],
+        [
+          "ce sont",
+          "pluriel",
+          "Ce sont des invités."
+        ],
+        [
+          "c’est une / un",
+          "présentation",
+          "C’est une tradition."
+        ],
+        [
+          "voilà",
+          "désigner",
+          "Voilà le gâteau."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-celebrations-gq-4",
+          "prompt": "___ mon anniversaire.",
+          "answer": "C’est",
+          "options": [
+            "C’est",
+            "Ce sont",
+            "Il est"
+          ]
+        },
+        {
+          "id": "remote-celebrations-gq-5",
+          "prompt": "___ mes collègues.",
+          "answer": "Ce sont",
+          "options": [
+            "C’est",
+            "Ce sont",
+            "Ils est"
+          ]
+        },
+        {
+          "id": "remote-celebrations-gq-6",
+          "prompt": "___ une fête surprise.",
+          "answer": "C’est",
+          "options": [
+            "C’est",
+            "Ce sont",
+            "Il y a"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-celebrations-dict-1",
+        "fr": "Tu es libre samedi soir ?",
+        "en": "Are you free Saturday evening?",
+        "ipa": "ty ɛ li.bʁ sa.mɛ.di swaʁ"
+      },
+      {
+        "id": "remote-celebrations-dict-2",
+        "fr": "Joyeux anniversaire !",
+        "en": "Happy birthday!",
+        "ipa": "ʒwa.jø za.ni.vɛʁ.sɛʁ"
+      },
+      {
+        "id": "remote-celebrations-dict-3",
+        "fr": "J’aimerais t’inviter à dîner.",
+        "en": "I’d like to invite you to dinner.",
+        "ipa": "ʒɛ.mə.ʁɛ tɛ̃.vi.te a di.ne"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-celebrations-mean-1",
+        "fr": "Tu es libre samedi soir ?",
+        "en": "Are you free Saturday evening?",
+        "choices": [
+          "Are you free Saturday evening?",
+          "Happy birthday!",
+          "I’d like to invite you to dinner."
+        ]
+      },
+      {
+        "id": "remote-celebrations-mean-2",
+        "fr": "Joyeux anniversaire !",
+        "en": "Happy birthday!",
+        "choices": [
+          "Happy birthday!",
+          "Are you free Saturday evening?",
+          "I’d like to invite you to dinner."
+        ]
+      },
+      {
+        "id": "remote-celebrations-mean-3",
+        "fr": "J’aimerais t’inviter à dîner.",
+        "en": "I’d like to invite you to dinner.",
+        "choices": [
+          "I’d like to invite you to dinner.",
+          "Are you free Saturday evening?",
+          "Happy birthday!"
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-celebrations-fren-1",
+        "fr": "fête",
+        "en": "party"
+      },
+      {
+        "id": "remote-celebrations-fren-2",
+        "fr": "anniversaire",
+        "en": "birthday"
+      },
+      {
+        "id": "remote-celebrations-fren-3",
+        "fr": "invitation",
+        "en": "invitation"
+      },
+      {
+        "id": "remote-celebrations-fren-4",
+        "fr": "cadeau",
+        "en": "present"
+      },
+      {
+        "id": "remote-celebrations-fren-5",
+        "fr": "gâteau",
+        "en": "cake"
+      },
+      {
+        "id": "remote-celebrations-fren-6",
+        "fr": "bougie",
+        "en": "candle"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-celebrations-aloud-1",
+        "fr": "Tu es libre samedi soir ?",
+        "en": "Are you free Saturday evening?",
+        "ipa": "ty ɛ li.bʁ sa.mɛ.di swaʁ"
+      },
+      {
+        "id": "remote-celebrations-aloud-2",
+        "fr": "J’aimerais t’inviter à dîner.",
+        "en": "I’d like to invite you to dinner.",
+        "ipa": "ʒɛ.mə.ʁɛ tɛ̃.vi.te a di.ne"
+      },
+      {
+        "id": "remote-celebrations-aloud-3",
+        "fr": "Désolé, je ne peux pas venir.",
+        "en": "Sorry, I can’t come.",
+        "ipa": "de.zɔ.le ʒə nə pø pa və.niʁ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-celebrations-unsc-1",
+        "fr": "Merci pour l’invitation, j’accepte avec plaisir.",
+        "en": "Thanks for the invitation, I’d love to come.",
+        "words": [
+          "Merci",
+          "pour",
+          "l’invitation,",
+          "j’accepte",
+          "avec",
+          "plaisir."
+        ]
+      },
+      {
+        "id": "remote-celebrations-unsc-2",
+        "fr": "Désolé, je ne peux pas venir.",
+        "en": "Sorry, I can’t come.",
+        "words": [
+          "Désolé,",
+          "je",
+          "ne",
+          "peux",
+          "pas",
+          "venir."
+        ]
+      }
+    ]
+  }
+}

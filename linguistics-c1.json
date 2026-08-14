@@ -1,0 +1,542 @@
+{
+  "pratiquePack": 1,
+  "id": "linguistics-c1",
+  "version": 1,
+  "level": "c1",
+  "title": {
+    "fr": "Langue et discours C1",
+    "en": "Language and discourse C1"
+  },
+  "description": {
+    "fr": "Registre, implicature, pragmatique, marqueurs discursifs et actes de langage.",
+    "en": "Register, implicature, pragmatics, discourse markers, and speech acts."
+  },
+  "seed": [
+    {
+      "id": "remote-linguistics-c1-1",
+      "fr": "registre",
+      "en": "register",
+      "example": "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+      "ipa": "ʁə.ʒistʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-linguistics-c1-2",
+      "fr": "implicature",
+      "en": "implicature",
+      "example": "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+      "ipa": "ɛ̃.pli.ka.tyʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-linguistics-c1-3",
+      "fr": "pragmatique",
+      "en": "pragmatics",
+      "example": "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre.",
+      "ipa": "pʁaɡ.ma.tik",
+      "article": "la"
+    },
+    {
+      "id": "remote-linguistics-c1-4",
+      "fr": "marqueur",
+      "en": "discourse marker",
+      "example": "Le marqueur discursif, à moins qu’on n’y voie un tic, oriente l’inférence et cadre le registre de l’échange.",
+      "ipa": "maʁ.kœʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-linguistics-c1-5",
+      "fr": "acte de langage",
+      "en": "speech act",
+      "example": "L’acte de langage, dont la force illocutoire déborde le contenu propositionnel, peut blesser tout en demeurant « poli ».",
+      "ipa": "akt də lɑ̃.ɡaʒ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-linguistics-c1-6",
+      "fr": "énonciation",
+      "en": "enunciation",
+      "example": "L’énonciation, loin d’être un arrière-plan, inscrit dans l’énoncé les traces du locuteur, du temps et de l’allocutaire.",
+      "ipa": "e.nɔ̃.sja.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-linguistics-c1-7",
+      "fr": "deixis",
+      "en": "deixis",
+      "example": "La deixis, encore qu’elle paraisse triviale, ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+      "ipa": "dɛk.sis",
+      "article": "la"
+    },
+    {
+      "id": "remote-linguistics-c1-8",
+      "fr": "présupposition",
+      "en": "presupposition",
+      "example": "La présupposition, quitte à passer inaperçue, survit à la négation et contraint l’espace des réponses possibles.",
+      "ipa": "pʁe.sy.pɔ.zi.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-linguistics-c1-9",
+      "fr": "modalité",
+      "en": "modality",
+      "example": "La modalité, à moins d’être réduite à pouvoir et devoir, inclut aussi le degré d’engagement du locuteur envers sa thèse.",
+      "ipa": "mɔ.da.li.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-linguistics-c1-10",
+      "fr": "polyphonie",
+      "en": "polyphony",
+      "example": "La polyphonie, dont Bakhtine a fait un concept, désigne les voix que le discours rapporte, ironise ou prend à son compte.",
+      "ipa": "pɔ.li.fɔ.ni",
+      "article": "la"
+    },
+    {
+      "id": "remote-linguistics-c1-11",
+      "fr": "anaphore",
+      "en": "anaphora",
+      "example": "L’anaphore, loin de n’être qu’un renvoi grammatical, construit la continuité référentielle du texte et de ses implicatures.",
+      "ipa": "a.na.fɔʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-linguistics-c1-12",
+      "fr": "énoncé",
+      "en": "utterance",
+      "example": "L’énoncé, encore qu’on le cite hors situation, n’a de force que dans le cotexte et le registre où il a été produit.",
+      "ipa": "e.nɔ̃.se",
+      "article": "l'"
+    },
+    {
+      "id": "remote-linguistics-c1-13",
+      "fr": "connecteur",
+      "en": "connective",
+      "example": "Le connecteur, quitte à paraître transparent, impose une inférence : donc ne dit pas la même chose que or ou pourtant.",
+      "ipa": "kɔ.nɛk.tœʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-linguistics-c1-14",
+      "fr": "variation",
+      "en": "variation",
+      "example": "La variation, à moins de la stigmatiser, est le mode ordinaire de la langue, non l’écart par rapport à un registre unique.",
+      "ipa": "va.ʁja.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-linguistics-c1-15",
+      "fr": "diachronie",
+      "en": "diachrony",
+      "example": "La diachronie, dont Saussure a limité la portée, reste indispensable pour comprendre un changement de registre sédimenté.",
+      "ipa": "dja.kʁɔ.ni",
+      "article": "la"
+    },
+    {
+      "id": "remote-linguistics-c1-16",
+      "fr": "synchronie",
+      "en": "synchrony",
+      "example": "La synchronie, loin d’être un instantané naïf, est une coupe méthodologique que la pragmatique vient néanmoins historiciser.",
+      "ipa": "sɛ̃.kʁɔ.ni",
+      "article": "la"
+    },
+    {
+      "id": "remote-linguistics-c1-17",
+      "fr": "cotexte",
+      "en": "co-text",
+      "example": "Le cotexte, encore qu’on le confonde avec le contexte, désigne la chaîne verbale sans laquelle l’anaphore reste indécidable.",
+      "ipa": "kɔ.tɛkst",
+      "article": "le"
+    },
+    {
+      "id": "remote-linguistics-c1-18",
+      "fr": "inférence",
+      "en": "inference",
+      "example": "L’inférence, quitte à n’être pas garantie, est ce que le locuteur invite l’allocutaire à calculer à partir de l’implicature.",
+      "ipa": "ɛ̃.fe.ʁɑ̃s",
+      "article": "l'"
+    },
+    {
+      "id": "remote-linguistics-c1-19",
+      "fr": "allocutaire",
+      "en": "addressee",
+      "example": "L’allocutaire, à moins d’être une fiction du texte, oriente le choix du registre, des marqueurs et de la politesse.",
+      "ipa": "a.lɔ.ky.tɛʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-linguistics-c1-20",
+      "fr": "politesse",
+      "en": "politeness",
+      "example": "La politesse, dont la face positive et négative se négocient, peut masquer un acte de langage hautement impositif.",
+      "ipa": "pɔ.li.tɛs",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-linguistics-phrase-1",
+      "fr": "Encore que l’implicature ne soit pas dite, elle accomplit l’essentiel de l’acte de langage.",
+      "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+      "ipa": "ɑ̃.kɔʁ kə lɛ̃.pli.ka.tyʁ nə swa pa dit ɛl a.kɔ̃.pli lɛ.sɑ̃.sjɛl də lakt də lɑ̃.ɡaʒ"
+    },
+    {
+      "id": "remote-linguistics-phrase-2",
+      "fr": "Loin d’être un tic, le marqueur discursif oriente l’inférence et cadre le registre.",
+      "en": "Far from being a tic, the discourse marker steers inference and frames register.",
+      "ipa": "lwɛ̃ dɛtʁ œ̃ tik lə maʁ.kœʁ dis.kuʁ.sif ɔ.ʁjɑ̃t lɛ̃.fe.ʁɑ̃s e kadʁ lə ʁə.ʒistʁ"
+    },
+    {
+      "id": "remote-linguistics-phrase-3",
+      "fr": "À moins que la présupposition ne soit levée, elle survit à la négation de l’énoncé.",
+      "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+      "ipa": "a mwɛ̃ kə la pʁe.sy.pɔ.zi.sjɔ̃ nə swa lə.ve ɛl syʁ.vi a la ne.ɡa.sjɔ̃ də le.nɔ̃.se"
+    },
+    {
+      "id": "remote-linguistics-phrase-4",
+      "fr": "Quitte à sembler ancillaire, la pragmatique explique ce que le cotexte ne rend pas.",
+      "en": "Even if it seems ancillary, pragmatics explains what co-text does not capture.",
+      "ipa": "kit a sɑ̃.ble ɑ̃.si.lɛʁ la pʁaɡ.ma.tik ɛks.plik sə kə lə kɔ.tɛkst nə ʁɑ̃ pa"
+    },
+    {
+      "id": "remote-linguistics-phrase-5",
+      "fr": "Je crains que cet acte de langage ne blesse l’allocutaire, encore qu’il soit « poli ».",
+      "en": "I fear this speech act may wound the addressee, even though it is “polite.”",
+      "ipa": "ʒə kʁɛ̃ kə sɛt akt də lɑ̃.ɡaʒ nə blɛs la.lɔ.ky.tɛʁ ɑ̃.kɔʁ kil swa pɔ.li"
+    },
+    {
+      "id": "remote-linguistics-phrase-6",
+      "fr": "La deixis ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+      "en": "Deixis anchors discourse in a situation without which the utterance becomes opaque.",
+      "ipa": "la dɛk.sis ɑ̃kʁ lə dis.kuʁ dɑ̃ yn si.tɥa.sjɔ̃ sɑ̃ la.kɛl le.nɔ̃.se də.vjɛ̃ ɔ.pak"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-linguistics-listen-1",
+      "fr": "L’implicature constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+      "en": "Implicature constitutes what the speech act actually accomplishes.",
+      "word": "implicature",
+      "wordEn": "implicature",
+      "wordIpa": "ɛ̃.pli.ka.tyʁ",
+      "distractors": [
+        "anaphore",
+        "deixis",
+        "modalité"
+      ]
+    },
+    {
+      "id": "remote-linguistics-listen-2",
+      "fr": "Le registre indexe une relation sociale que l’allocutaire décode d’emblée.",
+      "en": "Register indexes a social relation that the addressee decodes at once.",
+      "word": "registre",
+      "wordEn": "register",
+      "wordIpa": "ʁə.ʒistʁ",
+      "distractors": [
+        "variation",
+        "politesse",
+        "synchronie"
+      ]
+    },
+    {
+      "id": "remote-linguistics-listen-3",
+      "fr": "La présupposition survit à la négation et contraint l’espace des réponses possibles.",
+      "en": "Presupposition survives negation and constrains the space of possible replies.",
+      "word": "présupposition",
+      "wordEn": "presupposition",
+      "wordIpa": "pʁe.sy.pɔ.zi.sjɔ̃",
+      "distractors": [
+        "inférence",
+        "polyphonie",
+        "énonciation"
+      ]
+    },
+    {
+      "id": "remote-linguistics-listen-4",
+      "fr": "Le connecteur impose une inférence : donc ne dit pas la même chose que pourtant.",
+      "en": "The connective imposes an inference: donc does not mean the same as pourtant.",
+      "word": "connecteur",
+      "wordEn": "connective",
+      "wordIpa": "kɔ.nɛk.tœʁ",
+      "distractors": [
+        "marqueur",
+        "cotexte",
+        "énoncé"
+      ]
+    }
+  ],
+  "prompts": [
+    "Nuancez l’idée selon laquelle un énoncé poli ne saurait accomplir un acte impositif.",
+    "Concédez que le marqueur discursif peut sembler vide, puis reformulez sa fonction inférentielle.",
+    "Dans quelle mesure la présupposition survit-elle à la négation, contrairement à l’implicature ?",
+    "Reformulez, pour un public non spécialiste, la distinction entre cotexte et contexte."
+  ],
+  "grammar": [
+    {
+      "id": "remote-linguistics-grammar-1",
+      "title": {
+        "fr": "Le ne explétif",
+        "en": "Expletive ne"
+      },
+      "rule": "Après craindre que, éviter que, avant que, à moins que, plus… que, un ne explétif apparaît souvent, sans negation réelle : Je crains que cet acte ne blesse. Il disparaît à l’oral familier. Ne… pas, lui, nie réellement.",
+      "table": [
+        [
+          "Déclencheur",
+          "Ne explétif",
+          "Exemple"
+        ],
+        [
+          "craindre que",
+          "oui (soutenu)",
+          "Je crains qu’il ne refuse."
+        ],
+        [
+          "à moins que",
+          "oui",
+          "à moins que l’implicature ne soit calculée"
+        ],
+        [
+          "avant que",
+          "oui",
+          "avant que l’allocutaire ne réponde"
+        ],
+        [
+          "ne… pas",
+          "négation vraie",
+          "l’implicature n’est pas dite"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-linguistics-gq-1",
+          "prompt": "Je crains que cet acte de langage ___ l’allocutaire.",
+          "answer": "ne blesse",
+          "options": [
+            "ne blesse",
+            "blesse pas",
+            "ne blesse pas"
+          ]
+        },
+        {
+          "id": "remote-linguistics-gq-2",
+          "prompt": "À moins que la présupposition ___ levée, elle survit à la négation.",
+          "answer": "ne soit",
+          "options": [
+            "ne soit",
+            "est",
+            "ne soit pas"
+          ]
+        },
+        {
+          "id": "remote-linguistics-gq-3",
+          "prompt": "L’implicature ___ dite, et c’est précisément ce qui fait sa force.",
+          "answer": "n’est pas",
+          "options": [
+            "n’est pas",
+            "ne soit",
+            "n’est"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-linguistics-grammar-2",
+      "title": {
+        "fr": "Connecteurs avancés : or / encore que / pour autant que",
+        "en": "Advanced connectors: or / encore que / pour autant que"
+      },
+      "rule": "Or introduit un fait qui relance le raisonnement, sans être un simple mais. Encore que concède au subjonctif. Pour autant que + subjonctif restreint la validité d’une assertion. Pour autant, en fin de mouvement, nie la conséquence attendue.",
+      "table": [
+        [
+          "Connecteur",
+          "Mode / place",
+          "Effet"
+        ],
+        [
+          "or",
+          "indicatif",
+          "relance argumentative"
+        ],
+        [
+          "encore que",
+          "subjonctif",
+          "concession littéraire"
+        ],
+        [
+          "pour autant que",
+          "subjonctif",
+          "restriction de portée"
+        ],
+        [
+          "pour autant",
+          "indépendant",
+          "la conséquence ne suit pas"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-linguistics-gq-4",
+          "prompt": "L’énoncé est poli ; ___ il accomplit un acte impositif.",
+          "answer": "or",
+          "options": [
+            "or",
+            "donc",
+            "car"
+          ]
+        },
+        {
+          "id": "remote-linguistics-gq-5",
+          "prompt": "L’analyse tient, ___ l’on accepte cette définition de l’implicature.",
+          "answer": "pour autant que",
+          "options": [
+            "pour autant que",
+            "parce que",
+            "alors que"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-linguistics-dict-1",
+        "fr": "Encore que l’implicature ne soit pas dite, elle accomplit l’essentiel de l’acte de langage.",
+        "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+        "ipa": "ɑ̃.kɔʁ kə lɛ̃.pli.ka.tyʁ nə swa pa dit ɛl a.kɔ̃.pli lɛ.sɑ̃.sjɛl də lakt də lɑ̃.ɡaʒ"
+      },
+      {
+        "id": "remote-linguistics-dict-2",
+        "fr": "Loin d’être un tic, le marqueur discursif oriente l’inférence et cadre le registre.",
+        "en": "Far from being a tic, the discourse marker steers inference and frames register.",
+        "ipa": "lwɛ̃ dɛtʁ œ̃ tik lə maʁ.kœʁ dis.kuʁ.sif ɔ.ʁjɑ̃t lɛ̃.fe.ʁɑ̃s e kadʁ lə ʁə.ʒistʁ"
+      },
+      {
+        "id": "remote-linguistics-dict-3",
+        "fr": "À moins que la présupposition ne soit levée, elle survit à la négation de l’énoncé.",
+        "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+        "ipa": "a mwɛ̃ kə la pʁe.sy.pɔ.zi.sjɔ̃ nə swa lə.ve ɛl syʁ.vi a la ne.ɡa.sjɔ̃ də le.nɔ̃.se"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-linguistics-mean-1",
+        "fr": "Encore que l’implicature ne soit pas dite, elle accomplit l’essentiel de l’acte de langage.",
+        "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+        "choices": [
+          "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+          "Far from being a tic, the discourse marker steers inference and frames register.",
+          "Unless the presupposition is cancelled, it survives the negation of the utterance."
+        ]
+      },
+      {
+        "id": "remote-linguistics-mean-2",
+        "fr": "Loin d’être un tic, le marqueur discursif oriente l’inférence et cadre le registre.",
+        "en": "Far from being a tic, the discourse marker steers inference and frames register.",
+        "choices": [
+          "Far from being a tic, the discourse marker steers inference and frames register.",
+          "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+          "Unless the presupposition is cancelled, it survives the negation of the utterance."
+        ]
+      },
+      {
+        "id": "remote-linguistics-mean-3",
+        "fr": "À moins que la présupposition ne soit levée, elle survit à la négation de l’énoncé.",
+        "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+        "choices": [
+          "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+          "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+          "Far from being a tic, the discourse marker steers inference and frames register."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-linguistics-fren-1",
+        "fr": "registre",
+        "en": "register"
+      },
+      {
+        "id": "remote-linguistics-fren-2",
+        "fr": "implicature",
+        "en": "implicature"
+      },
+      {
+        "id": "remote-linguistics-fren-3",
+        "fr": "pragmatique",
+        "en": "pragmatics"
+      },
+      {
+        "id": "remote-linguistics-fren-4",
+        "fr": "marqueur",
+        "en": "discourse marker"
+      },
+      {
+        "id": "remote-linguistics-fren-5",
+        "fr": "acte de langage",
+        "en": "speech act"
+      },
+      {
+        "id": "remote-linguistics-fren-6",
+        "fr": "énonciation",
+        "en": "enunciation"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-linguistics-aloud-1",
+        "fr": "Encore que l’implicature ne soit pas dite, elle accomplit l’essentiel de l’acte de langage.",
+        "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+        "ipa": "ɑ̃.kɔʁ kə lɛ̃.pli.ka.tyʁ nə swa pa dit ɛl a.kɔ̃.pli lɛ.sɑ̃.sjɛl də lakt də lɑ̃.ɡaʒ"
+      },
+      {
+        "id": "remote-linguistics-aloud-2",
+        "fr": "À moins que la présupposition ne soit levée, elle survit à la négation de l’énoncé.",
+        "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+        "ipa": "a mwɛ̃ kə la pʁe.sy.pɔ.zi.sjɔ̃ nə swa lə.ve ɛl syʁ.vi a la ne.ɡa.sjɔ̃ də le.nɔ̃.se"
+      },
+      {
+        "id": "remote-linguistics-aloud-3",
+        "fr": "Je crains que cet acte de langage ne blesse l’allocutaire, encore qu’il soit « poli ».",
+        "en": "I fear this speech act may wound the addressee, even though it is “polite.”",
+        "ipa": "ʒə kʁɛ̃ kə sɛt akt də lɑ̃.ɡaʒ nə blɛs la.lɔ.ky.tɛʁ ɑ̃.kɔʁ kil swa pɔ.li"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-linguistics-unsc-1",
+        "fr": "Encore que l’implicature ne soit pas dite, elle accomplit l’acte essentiel.",
+        "en": "Even though the implicature is not stated, it accomplishes the essential act.",
+        "words": [
+          "Encore",
+          "que",
+          "l’implicature",
+          "ne",
+          "soit",
+          "pas",
+          "dite,",
+          "elle",
+          "accomplit",
+          "l’acte",
+          "essentiel."
+        ]
+      },
+      {
+        "id": "remote-linguistics-unsc-2",
+        "fr": "Loin d’être un tic, le marqueur discursif oriente l’inférence.",
+        "en": "Far from being a tic, the discourse marker steers inference.",
+        "words": [
+          "Loin",
+          "d’être",
+          "un",
+          "tic,",
+          "le",
+          "marqueur",
+          "discursif",
+          "oriente",
+          "l’inférence."
+        ]
+      }
+    ]
+  }
+}

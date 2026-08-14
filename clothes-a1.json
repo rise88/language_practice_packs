@@ -1,0 +1,541 @@
+{
+  "pratiquePack": 1,
+  "id": "clothes-a1",
+  "version": 1,
+  "level": "a1",
+  "title": {
+    "fr": "Vêtements A1",
+    "en": "Clothes A1"
+  },
+  "description": {
+    "fr": "Habits, couleurs et expressions simples pour s’habiller au quotidien.",
+    "en": "Clothes, colors, and simple phrases for getting dressed every day."
+  },
+  "seed": [
+    {
+      "id": "remote-clothes-a1-1",
+      "fr": "pantalon",
+      "en": "trousers / pants",
+      "example": "Je porte un pantalon bleu.",
+      "ipa": "pɑ̃.ta.lɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-clothes-a1-2",
+      "fr": "chemise",
+      "en": "shirt",
+      "example": "Cette chemise est blanche.",
+      "ipa": "ʃə.miz",
+      "article": "la"
+    },
+    {
+      "id": "remote-clothes-a1-3",
+      "fr": "robe",
+      "en": "dress",
+      "example": "Elle porte une robe rouge.",
+      "ipa": "ʁɔb",
+      "article": "la"
+    },
+    {
+      "id": "remote-clothes-a1-4",
+      "fr": "jupe",
+      "en": "skirt",
+      "example": "La jupe est trop courte.",
+      "ipa": "ʒyp",
+      "article": "la"
+    },
+    {
+      "id": "remote-clothes-a1-5",
+      "fr": "manteau",
+      "en": "coat",
+      "example": "Je mets mon manteau.",
+      "ipa": "mɑ̃.to",
+      "article": "le"
+    },
+    {
+      "id": "remote-clothes-a1-6",
+      "fr": "chaussure",
+      "en": "shoe",
+      "example": "Mes chaussures sont noires.",
+      "ipa": "ʃo.syʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-clothes-a1-7",
+      "fr": "chapeau",
+      "en": "hat",
+      "example": "Il a un chapeau gris.",
+      "ipa": "ʃa.po",
+      "article": "le"
+    },
+    {
+      "id": "remote-clothes-a1-8",
+      "fr": "pull",
+      "en": "sweater / jumper",
+      "example": "J’ai un pull chaud.",
+      "ipa": "pyl",
+      "article": "le"
+    },
+    {
+      "id": "remote-clothes-a1-9",
+      "fr": "veste",
+      "en": "jacket",
+      "example": "Sa veste est élégante.",
+      "ipa": "vɛst",
+      "article": "la"
+    },
+    {
+      "id": "remote-clothes-a1-10",
+      "fr": "chaussette",
+      "en": "sock",
+      "example": "J’ai perdu une chaussette.",
+      "ipa": "ʃo.sɛt",
+      "article": "la"
+    },
+    {
+      "id": "remote-clothes-a1-11",
+      "fr": "écharpe",
+      "en": "scarf",
+      "example": "L’écharpe est en laine.",
+      "ipa": "e.ʃaʁp",
+      "article": "l'"
+    },
+    {
+      "id": "remote-clothes-a1-12",
+      "fr": "gant",
+      "en": "glove",
+      "example": "Mets tes gants, il fait froid.",
+      "ipa": "ɡɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-clothes-a1-13",
+      "fr": "jean",
+      "en": "jeans",
+      "example": "Je mets un jean le week-end.",
+      "ipa": "dʒin",
+      "article": "le"
+    },
+    {
+      "id": "remote-clothes-a1-14",
+      "fr": "t-shirt",
+      "en": "t-shirt",
+      "example": "Mon t-shirt est blanc.",
+      "ipa": "ti.ʃœʁt",
+      "article": "le"
+    },
+    {
+      "id": "remote-clothes-a1-15",
+      "fr": "couleur",
+      "en": "color",
+      "example": "Quelle est ta couleur préférée ?",
+      "ipa": "ku.lœʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-clothes-a1-16",
+      "fr": "taille",
+      "en": "size",
+      "example": "Quelle est votre taille ?",
+      "ipa": "taj",
+      "article": "la"
+    },
+    {
+      "id": "remote-clothes-a1-17",
+      "fr": "ceinture",
+      "en": "belt",
+      "example": "La ceinture est en cuir.",
+      "ipa": "sɛ̃.tyʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-clothes-a1-18",
+      "fr": "lunettes",
+      "en": "glasses",
+      "example": "J’ai des lunettes de soleil.",
+      "ipa": "ly.nɛt",
+      "article": "les"
+    },
+    {
+      "id": "remote-clothes-a1-19",
+      "fr": "pyjama",
+      "en": "pyjamas / pajamas",
+      "example": "Je mets mon pyjama.",
+      "ipa": "pi.ʒa.ma",
+      "article": "le"
+    },
+    {
+      "id": "remote-clothes-a1-20",
+      "fr": "vêtement",
+      "en": "item of clothing",
+      "example": "J’achète des vêtements.",
+      "ipa": "vɛt.mɑ̃",
+      "article": "le"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-clothes-phrase-1",
+      "fr": "Je porte un pantalon et une chemise.",
+      "en": "I’m wearing trousers and a shirt.",
+      "ipa": "ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ e yn ʃə.miz"
+    },
+    {
+      "id": "remote-clothes-phrase-2",
+      "fr": "Quelle est ta couleur préférée ?",
+      "en": "What’s your favorite color?",
+      "ipa": "kɛl ɛ ta ku.lœʁ pʁe.fe.ʁe"
+    },
+    {
+      "id": "remote-clothes-phrase-3",
+      "fr": "Il fait froid : mets ton manteau.",
+      "en": "It’s cold: put on your coat.",
+      "ipa": "il fɛ fʁwa mɛ tɔ̃ mɑ̃.to"
+    },
+    {
+      "id": "remote-clothes-phrase-4",
+      "fr": "Ces chaussures sont trop petites.",
+      "en": "These shoes are too small.",
+      "ipa": "se ʃo.syʁ sɔ̃ tʁo pə.tit"
+    },
+    {
+      "id": "remote-clothes-phrase-5",
+      "fr": "J’aime cette robe rouge.",
+      "en": "I like this red dress.",
+      "ipa": "ʒɛm sɛt ʁɔb ʁuʒ"
+    },
+    {
+      "id": "remote-clothes-phrase-6",
+      "fr": "Quelle est votre taille ?",
+      "en": "What is your size?",
+      "ipa": "kɛl ɛ vɔtʁ taj"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-clothes-listen-1",
+      "fr": "Je mets mon manteau parce qu’il fait froid.",
+      "en": "I put on my coat because it’s cold.",
+      "word": "manteau",
+      "wordEn": "coat",
+      "wordIpa": "mɑ̃.to",
+      "distractors": [
+        "pantalon",
+        "chapeau",
+        "pull"
+      ]
+    },
+    {
+      "id": "remote-clothes-listen-2",
+      "fr": "Elle porte une robe rouge pour la fête.",
+      "en": "She’s wearing a red dress for the party.",
+      "word": "robe",
+      "wordEn": "dress",
+      "wordIpa": "ʁɔb",
+      "distractors": [
+        "jupe",
+        "veste",
+        "chemise"
+      ]
+    },
+    {
+      "id": "remote-clothes-listen-3",
+      "fr": "Mes chaussures sont trop petites.",
+      "en": "My shoes are too small.",
+      "word": "chaussures",
+      "wordEn": "shoes",
+      "wordIpa": "ʃo.syʁ",
+      "distractors": [
+        "chaussettes",
+        "gants",
+        "lunettes"
+      ]
+    },
+    {
+      "id": "remote-clothes-listen-4",
+      "fr": "Quelle est ta couleur préférée ?",
+      "en": "What’s your favorite color?",
+      "word": "couleur",
+      "wordEn": "color",
+      "wordIpa": "ku.lœʁ",
+      "distractors": [
+        "taille",
+        "veste",
+        "ceinture"
+      ]
+    }
+  ],
+  "prompts": [
+    "Qu’est-ce que tu portes aujourd’hui ?",
+    "Quelle est ta couleur préférée ? Pourquoi ?",
+    "Décris les vêtements d’un ami.",
+    "Que mets-tu quand il fait froid ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-clothes-grammar-1",
+      "title": {
+        "fr": "Porter / mettre",
+        "en": "Porter and mettre"
+      },
+      "rule": "Porter décrit ce que l’on a sur soi : Je porte une robe. Mettre indique l’action de s’habiller : Je mets mon manteau.",
+      "table": [
+        [
+          "Verbe",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "porter",
+          "avoir sur soi",
+          "Je porte un jean."
+        ],
+        [
+          "mettre",
+          "action de s’habiller",
+          "Je mets un pull."
+        ],
+        [
+          "enlever",
+          "retirer",
+          "J’enlève mes chaussures."
+        ],
+        [
+          "essayer",
+          "tester un vêtement",
+          "J’essaie cette chemise."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-clothes-gq-1",
+          "prompt": "Je ___ un pantalon noir.",
+          "answer": "porte",
+          "options": [
+            "porte",
+            "mets",
+            "enlève"
+          ]
+        },
+        {
+          "id": "remote-clothes-gq-2",
+          "prompt": "Il fait froid : je ___ mon manteau.",
+          "answer": "mets",
+          "options": [
+            "porte",
+            "mets",
+            "essaie"
+          ]
+        },
+        {
+          "id": "remote-clothes-gq-3",
+          "prompt": "___ tes gants avant de sortir.",
+          "answer": "Mets",
+          "options": [
+            "Porte",
+            "Mets",
+            "Essaie"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-clothes-grammar-2",
+      "title": {
+        "fr": "Les adjectifs de couleur",
+        "en": "Color adjectives"
+      },
+      "rule": "Les adjectifs de couleur s’accordent souvent : un pantalon bleu, une robe rouge, des chaussures noires. Ils se placent après le nom.",
+      "table": [
+        [
+          "Masculin",
+          "Féminin",
+          "Pluriel"
+        ],
+        [
+          "bleu",
+          "bleue",
+          "bleus / bleues"
+        ],
+        [
+          "blanc",
+          "blanche",
+          "blancs / blanches"
+        ],
+        [
+          "noir",
+          "noire",
+          "noirs / noires"
+        ],
+        [
+          "rouge",
+          "rouge",
+          "rouges"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-clothes-gq-4",
+          "prompt": "Une chemise ___.",
+          "answer": "blanche",
+          "options": [
+            "blanc",
+            "blanche",
+            "blancs"
+          ]
+        },
+        {
+          "id": "remote-clothes-gq-5",
+          "prompt": "Des chaussures ___.",
+          "answer": "noires",
+          "options": [
+            "noir",
+            "noire",
+            "noires"
+          ]
+        },
+        {
+          "id": "remote-clothes-gq-6",
+          "prompt": "Un pull ___.",
+          "answer": "bleu",
+          "options": [
+            "bleu",
+            "bleue",
+            "bleues"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-clothes-dict-1",
+        "fr": "Je porte un pantalon et une chemise.",
+        "en": "I’m wearing trousers and a shirt.",
+        "ipa": "ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ e yn ʃə.miz"
+      },
+      {
+        "id": "remote-clothes-dict-2",
+        "fr": "Quelle est ta couleur préférée ?",
+        "en": "What’s your favorite color?",
+        "ipa": "kɛl ɛ ta ku.lœʁ pʁe.fe.ʁe"
+      },
+      {
+        "id": "remote-clothes-dict-3",
+        "fr": "Il fait froid : mets ton manteau.",
+        "en": "It’s cold: put on your coat.",
+        "ipa": "il fɛ fʁwa mɛ tɔ̃ mɑ̃.to"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-clothes-mean-1",
+        "fr": "Je porte un pantalon et une chemise.",
+        "en": "I’m wearing trousers and a shirt.",
+        "choices": [
+          "I’m wearing trousers and a shirt.",
+          "What’s your favorite color?",
+          "It’s cold: put on your coat."
+        ]
+      },
+      {
+        "id": "remote-clothes-mean-2",
+        "fr": "Quelle est ta couleur préférée ?",
+        "en": "What’s your favorite color?",
+        "choices": [
+          "What’s your favorite color?",
+          "I’m wearing trousers and a shirt.",
+          "It’s cold: put on your coat."
+        ]
+      },
+      {
+        "id": "remote-clothes-mean-3",
+        "fr": "Il fait froid : mets ton manteau.",
+        "en": "It’s cold: put on your coat.",
+        "choices": [
+          "It’s cold: put on your coat.",
+          "I’m wearing trousers and a shirt.",
+          "What’s your favorite color?"
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-clothes-fren-1",
+        "fr": "pantalon",
+        "en": "trousers"
+      },
+      {
+        "id": "remote-clothes-fren-2",
+        "fr": "chemise",
+        "en": "shirt"
+      },
+      {
+        "id": "remote-clothes-fren-3",
+        "fr": "robe",
+        "en": "dress"
+      },
+      {
+        "id": "remote-clothes-fren-4",
+        "fr": "jupe",
+        "en": "skirt"
+      },
+      {
+        "id": "remote-clothes-fren-5",
+        "fr": "manteau",
+        "en": "coat"
+      },
+      {
+        "id": "remote-clothes-fren-6",
+        "fr": "chaussure",
+        "en": "shoe"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-clothes-aloud-1",
+        "fr": "Je porte un pantalon et une chemise.",
+        "en": "I’m wearing trousers and a shirt.",
+        "ipa": "ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ e yn ʃə.miz"
+      },
+      {
+        "id": "remote-clothes-aloud-2",
+        "fr": "Il fait froid : mets ton manteau.",
+        "en": "It’s cold: put on your coat.",
+        "ipa": "il fɛ fʁwa mɛ tɔ̃ mɑ̃.to"
+      },
+      {
+        "id": "remote-clothes-aloud-3",
+        "fr": "J’aime cette robe rouge.",
+        "en": "I like this red dress.",
+        "ipa": "ʒɛm sɛt ʁɔb ʁuʒ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-clothes-unsc-1",
+        "fr": "Ces chaussures sont trop petites.",
+        "en": "These shoes are too small.",
+        "words": [
+          "Ces",
+          "chaussures",
+          "sont",
+          "trop",
+          "petites."
+        ]
+      },
+      {
+        "id": "remote-clothes-unsc-2",
+        "fr": "J’aime cette robe rouge.",
+        "en": "I like this red dress.",
+        "words": [
+          "J’aime",
+          "cette",
+          "robe",
+          "rouge."
+        ]
+      }
+    ]
+  }
+}
