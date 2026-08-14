@@ -1,0 +1,548 @@
+{
+  "pratiquePack": 1,
+  "id": "register-c2",
+  "version": 1,
+  "level": "c2",
+  "title": {
+    "fr": "Registres et nuances C2",
+    "en": "Registers and nuances C2"
+  },
+  "description": {
+    "fr": "Connotation, euphémisme, litote et sociolecte pour une pragmatique de l’énonciation.",
+    "en": "Connotation, euphemism, litotes, and sociolect for a pragmatics of utterance."
+  },
+  "seed": [
+    {
+      "id": "remote-register-c2-1",
+      "fr": "connotation",
+      "en": "connotation",
+      "example": "La connotation, halo sémantique, oriente le mot au-delà de sa dénotation.",
+      "ipa": "kɔ.nɔ.ta.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-register-c2-2",
+      "fr": "euphémisme",
+      "en": "euphemism",
+      "example": "L’euphémisme adoucit le réel ; encore faut-il qu’il ne le travestisse pas jusqu’à le nier.",
+      "ipa": "ø.fe.mism",
+      "article": "l'"
+    },
+    {
+      "id": "remote-register-c2-3",
+      "fr": "litote",
+      "en": "litotes",
+      "example": "La litote affirme en niant l’inverse : « ce n’est pas inintéressant » pour un éloge.",
+      "ipa": "li.tɔt",
+      "article": "la"
+    },
+    {
+      "id": "remote-register-c2-4",
+      "fr": "sociolecte",
+      "en": "sociolect",
+      "example": "Le sociolecte, variété liée au groupe, trahit une position plus sûrement qu’une carte d’identité.",
+      "ipa": "sɔ.sjɔ.lɛkt",
+      "article": "le"
+    },
+    {
+      "id": "remote-register-c2-5",
+      "fr": "illocution",
+      "en": "illocution",
+      "example": "L’illocution, chez Austin, est l’acte accompli en parlant : promettre, ordonner, excuser.",
+      "ipa": "i.lɔ.ky.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-register-c2-6",
+      "fr": "dénotation",
+      "en": "denotation",
+      "example": "La dénotation, contenu stable, n’épuise pas ce que le mot fait dans une situation.",
+      "ipa": "de.nɔ.ta.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-register-c2-7",
+      "fr": "perlocution",
+      "en": "perlocution",
+      "example": "La perlocution désigne l’effet produit sur l’allocutaire, hors de la seule convention.",
+      "ipa": "pɛʁ.lɔ.ky.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-register-c2-8",
+      "fr": "idiolecte",
+      "en": "idiolect",
+      "example": "L’idiolecte, signature d’un locuteur, n’est pas un sociolecte réduit à l’individu.",
+      "ipa": "i.djɔ.lɛkt",
+      "article": "l'"
+    },
+    {
+      "id": "remote-register-c2-9",
+      "fr": "diastratie",
+      "en": "diastratic variation",
+      "example": "La diastratie nomme la variation selon les strates sociales, distincte de la diatopie.",
+      "ipa": "djas.tʁa.si",
+      "article": "la"
+    },
+    {
+      "id": "remote-register-c2-10",
+      "fr": "dysphémisme",
+      "en": "dysphemism",
+      "example": "Le dysphémisme, inverse de l’euphémisme, durcit à dessein ce que l’on pourrait nommer plus doux.",
+      "ipa": "dis.fe.mism",
+      "article": "le"
+    },
+    {
+      "id": "remote-register-c2-11",
+      "fr": "métalangage",
+      "en": "metalanguage",
+      "example": "Le métalangage parle de la langue ; encore faut-il qu’il ne se prenne pour l’objet même.",
+      "ipa": "me.ta.lɑ̃.ɡaʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-register-c2-12",
+      "fr": "implicature",
+      "en": "implicature",
+      "example": "L’implicature, chez Grice, est ce que l’on donne à entendre sans le dire, en violant une maxime.",
+      "ipa": "ɛ̃.pli.ka.tyʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-register-c2-13",
+      "fr": "présupposition",
+      "en": "presupposition",
+      "example": "La présupposition survit à la négation : « Il n’a pas cessé de mentir » présuppose qu’il mentait.",
+      "ipa": "pʁe.sy.pɔ.zi.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-register-c2-14",
+      "fr": "modalisation",
+      "en": "modalization",
+      "example": "La modalisation, par l’incise ou l’adverbe, inscrit le degré d’adhésion du locuteur à son dire.",
+      "ipa": "mɔ.da.li.za.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-register-c2-15",
+      "fr": "énonciation",
+      "en": "enunciation",
+      "example": "L’énonciation, distincte de l’énoncé, est l’acte situé par lequel un locuteur s’approprie la langue.",
+      "ipa": "e.nɔ̃.sja.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-register-c2-16",
+      "fr": "allocutaire",
+      "en": "addressee",
+      "example": "L’allocutaire, celui à qui l’on parle, n’est pas nécessairement le destinataire visé par l’implicite.",
+      "ipa": "a.lɔ.ky.tɛʁ",
+      "article": "l'"
+    },
+    {
+      "id": "remote-register-c2-17",
+      "fr": "diaphasie",
+      "en": "diaphasic variation",
+      "example": "La diaphasie désigne la variation selon la situation : du soutenu au familier, du sacré au profane.",
+      "ipa": "dja.fa.zi",
+      "article": "la"
+    },
+    {
+      "id": "remote-register-c2-18",
+      "fr": "xénisme",
+      "en": "xenism (unassimilated loan)",
+      "example": "Le xénisme, emprunt non assimilé, garde sa morphologie étrangère et signale un ailleurs.",
+      "ipa": "ɡze.nism",
+      "article": "le"
+    },
+    {
+      "id": "remote-register-c2-19",
+      "fr": "hypocoristique",
+      "en": "hypocoristic",
+      "example": "L’hypocoristique, forme câline, réduit la distance ; hors de l’intimité, il peut blesser.",
+      "ipa": "i.pɔ.kɔ.ʁis.tik",
+      "article": "l'"
+    },
+    {
+      "id": "remote-register-c2-20",
+      "fr": "deixis",
+      "en": "deixis",
+      "example": "La deixis ancre l’énoncé dans la situation : je, ici, maintenant n’ont de référence que par l’énonciation.",
+      "ipa": "dɛk.sis",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-register-phrase-1",
+      "fr": "La connotation, plus glissante que la dénotation, oriente le mot bien au-delà de ce qu’il nomme.",
+      "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+      "ipa": "la kɔ.nɔ.ta.sjɔ̃ ply ɡli.sɑ̃t kə la de.nɔ.ta.sjɔ̃ ɔ.ʁjɑ̃t lə mo bjɛ̃ o.də.la də sə kil nɔm"
+    },
+    {
+      "id": "remote-register-phrase-2",
+      "fr": "L’euphémisme, encore qu’il adoucisse, peut aller jusqu’à travestir le réel.",
+      "en": "Euphemism, even though it softens, may go so far as to disguise the real.",
+      "ipa": "lø.fe.mism ɑ̃.kɔʁ kil a.du.sis pø a.le ʒys.ka tʁa.vɛs.tiʁ lə ʁe.ɛl"
+    },
+    {
+      "id": "remote-register-phrase-3",
+      "fr": "Ce n’est pas inintéressant, dit-il — et la litote en dit plus long que l’éloge direct.",
+      "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+      "ipa": "sə nɛ pa zɛ̃.ɛ̃.te.ʁɛ.sɑ̃ di til e la li.tɔt ɑ̃ di ply lɔ̃ kə le.lɔʒ di.ʁɛkt"
+    },
+    {
+      "id": "remote-register-phrase-4",
+      "fr": "Aussi le sociolecte trahit-il une position plus sûrement qu’une déclaration d’appartenance.",
+      "en": "Thus a sociolect betrays a position more surely than a declaration of belonging.",
+      "ipa": "o.si lə sɔ.sjɔ.lɛkt tʁa.i til yn pɔ.zi.sjɔ̃ ply syʁ.mɑ̃ kyn de.kla.ʁa.sjɔ̃ da.paʁ.tə.nɑ̃s"
+    },
+    {
+      "id": "remote-register-phrase-5",
+      "fr": "L’illocution, disait Austin, n’est pas le contenu : c’est l’acte accompli en parlant.",
+      "en": "Illocution, Austin said, is not the content: it is the act accomplished in speaking.",
+      "ipa": "lil.lɔ.ky.sjɔ̃ di.zɛ os.tin nɛ pa lə kɔ̃.tə.ny sɛ lakt a.kɔ̃.pli ɑ̃ paʁ.lɑ̃"
+    },
+    {
+      "id": "remote-register-phrase-6",
+      "fr": "Je crains que cette implicature ne passe inaperçue auprès d’un allocutaire trop littéral.",
+      "en": "I fear this implicature may go unnoticed by an overly literal addressee.",
+      "ipa": "ʒə kʁɛ̃ kə sɛt ɛ̃.pli.ka.tyʁ nə pas i.na.pɛʁ.sy o.pʁɛ dœ̃ na.lɔ.ky.tɛʁ tʁo li.te.ʁal"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-register-listen-1",
+      "fr": "La connotation oriente le mot au-delà de sa dénotation.",
+      "en": "Connotation steers the word beyond its denotation.",
+      "word": "connotation",
+      "wordEn": "connotation",
+      "wordIpa": "kɔ.nɔ.ta.sjɔ̃",
+      "distractors": [
+        "dénotation",
+        "modalisation",
+        "présupposition"
+      ]
+    },
+    {
+      "id": "remote-register-listen-2",
+      "fr": "L’euphémisme adoucit le réel sans toujours le nommer.",
+      "en": "Euphemism softens the real without always naming it.",
+      "word": "euphémisme",
+      "wordEn": "euphemism",
+      "wordIpa": "ø.fe.mism",
+      "distractors": [
+        "dysphémisme",
+        "litote",
+        "hypocoristique"
+      ]
+    },
+    {
+      "id": "remote-register-listen-3",
+      "fr": "La litote affirme en niant l’inverse.",
+      "en": "Litotes affirms by denying the opposite.",
+      "word": "litote",
+      "wordEn": "litotes",
+      "wordIpa": "li.tɔt",
+      "distractors": [
+        "implicature",
+        "dysphémisme",
+        "euphémisme"
+      ]
+    },
+    {
+      "id": "remote-register-listen-4",
+      "fr": "L’illocution est l’acte accompli en parlant : promettre, ordonner, excuser.",
+      "en": "Illocution is the act accomplished in speaking: promising, ordering, apologising.",
+      "word": "illocution",
+      "wordEn": "illocution",
+      "wordIpa": "i.lɔ.ky.sjɔ̃",
+      "distractors": [
+        "perlocution",
+        "énonciation",
+        "deixis"
+      ]
+    }
+  ],
+  "prompts": [
+    "Analysez, dans un même énoncé, dénotation et connotation : que gagne le locuteur à laisser entendre plus qu’il ne dit ?",
+    "Critiquez un euphémisme institutionnel : adoucit-il le réel, ou le rend-il inattaquable en le déplaçant ?",
+    "Montrez comment une litote et un dysphémisme, sur le même objet, imposent deux rapports de force à l’allocutaire.",
+    "À partir d’un écart de sociolecte ou de diaphasie, évaluez l’illocution réelle (promesse, ordre, excuse) sous le contenu apparent."
+  ],
+  "grammar": [
+    {
+      "id": "remote-register-grammar-1",
+      "title": {
+        "fr": "Le basculement de registre énonciatif",
+        "en": "Enunciative register switching"
+      },
+      "rule": "Le C2 maîtrise le heurt calculé : inversion et passé simple (soutenu), tutoiement et troncation (familier), xénisme non glosé (savant). Changer de registre en cours de phrase n’est pas une faute : c’est une illocution, à condition que l’écart soit lisible.",
+      "table": [
+        [
+          "Registre",
+          "Marques",
+          "Exemple"
+        ],
+        [
+          "soutenu",
+          "inversion, ne explétif",
+          "Aussi trahit-il une position…"
+        ],
+        [
+          "familier",
+          "tutoiement, troncation",
+          "T’as vu le truc."
+        ],
+        [
+          "savant",
+          "xénisme, nominalisation",
+          "l’implicature gricéenne"
+        ],
+        [
+          "hypocoristique",
+          "suffixe câlin",
+          "un petit mensonge"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-register-gq-1",
+          "prompt": "« Aussi le sociolecte trahit-il une position » appartient au registre ___.",
+          "answer": "soutenu",
+          "options": [
+            "soutenu",
+            "familier",
+            "hypocoristique"
+          ]
+        },
+        {
+          "id": "remote-register-gq-2",
+          "prompt": "Un xénisme non glosé signale plutôt un registre ___.",
+          "answer": "savant",
+          "options": [
+            "savant",
+            "familier",
+            "neutre"
+          ]
+        },
+        {
+          "id": "remote-register-gq-3",
+          "prompt": "Le tutoiement soudain dans une démonstration produit ___.",
+          "answer": "un basculement de registre",
+          "options": [
+            "un basculement de registre",
+            "une présupposition",
+            "une deixis spatiale"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-register-grammar-2",
+      "title": {
+        "fr": "Indicatif, subjonctif et force illocutoire",
+        "en": "Indicative, subjunctive, and illocutionary force"
+      },
+      "rule": "Le mode n’est pas seulement grammatical : il module l’illocution. Je promets que + indicatif ancre un engagement ; je veux que + subjonctif ordonne ou souhaite ; je crains que + ne + subjonctif atténue. Confondre les modes, c’est manquer l’acte.",
+      "table": [
+        [
+          "Tour",
+          "Mode",
+          "Illocution"
+        ],
+        [
+          "je promets que",
+          "indicatif",
+          "engagement"
+        ],
+        [
+          "je veux que",
+          "subjonctif",
+          "directive / souhait"
+        ],
+        [
+          "je crains que… ne",
+          "subjonctif + explétif",
+          "atténuation"
+        ],
+        [
+          "encore que",
+          "subjonctif",
+          "concession"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-register-gq-4",
+          "prompt": "« Je veux que » appelle le ___.",
+          "answer": "subjonctif",
+          "options": [
+            "subjonctif",
+            "indicatif",
+            "impératif"
+          ]
+        },
+        {
+          "id": "remote-register-gq-5",
+          "prompt": "Dans « Je crains que cette implicature ne passe inaperçue », le ne est ___.",
+          "answer": "explétif",
+          "options": [
+            "explétif",
+            "négatif (ne… pas)",
+            "restrictif (ne… que)"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-register-dict-1",
+        "fr": "La connotation, plus glissante que la dénotation, oriente le mot bien au-delà de ce qu’il nomme.",
+        "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+        "ipa": "la kɔ.nɔ.ta.sjɔ̃ ply ɡli.sɑ̃t kə la de.nɔ.ta.sjɔ̃ ɔ.ʁjɑ̃t lə mo bjɛ̃ o.də.la də sə kil nɔm"
+      },
+      {
+        "id": "remote-register-dict-2",
+        "fr": "L’euphémisme, encore qu’il adoucisse, peut aller jusqu’à travestir le réel.",
+        "en": "Euphemism, even though it softens, may go so far as to disguise the real.",
+        "ipa": "lø.fe.mism ɑ̃.kɔʁ kil a.du.sis pø a.le ʒys.ka tʁa.vɛs.tiʁ lə ʁe.ɛl"
+      },
+      {
+        "id": "remote-register-dict-3",
+        "fr": "Ce n’est pas inintéressant, dit-il — et la litote en dit plus long que l’éloge direct.",
+        "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+        "ipa": "sə nɛ pa zɛ̃.ɛ̃.te.ʁɛ.sɑ̃ di til e la li.tɔt ɑ̃ di ply lɔ̃ kə le.lɔʒ di.ʁɛkt"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-register-mean-1",
+        "fr": "La connotation, plus glissante que la dénotation, oriente le mot bien au-delà de ce qu’il nomme.",
+        "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+        "choices": [
+          "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+          "Euphemism, even though it softens, may go so far as to disguise the real.",
+          "It’s not uninteresting, he said — and the litotes says more than direct praise."
+        ]
+      },
+      {
+        "id": "remote-register-mean-2",
+        "fr": "L’euphémisme, encore qu’il adoucisse, peut aller jusqu’à travestir le réel.",
+        "en": "Euphemism, even though it softens, may go so far as to disguise the real.",
+        "choices": [
+          "Euphemism, even though it softens, may go so far as to disguise the real.",
+          "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+          "It’s not uninteresting, he said — and the litotes says more than direct praise."
+        ]
+      },
+      {
+        "id": "remote-register-mean-3",
+        "fr": "Ce n’est pas inintéressant, dit-il — et la litote en dit plus long que l’éloge direct.",
+        "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+        "choices": [
+          "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+          "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+          "Euphemism, even though it softens, may go so far as to disguise the real."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-register-fren-1",
+        "fr": "connotation",
+        "en": "connotation"
+      },
+      {
+        "id": "remote-register-fren-2",
+        "fr": "euphémisme",
+        "en": "euphemism"
+      },
+      {
+        "id": "remote-register-fren-3",
+        "fr": "litote",
+        "en": "litotes"
+      },
+      {
+        "id": "remote-register-fren-4",
+        "fr": "sociolecte",
+        "en": "sociolect"
+      },
+      {
+        "id": "remote-register-fren-5",
+        "fr": "illocution",
+        "en": "illocution"
+      },
+      {
+        "id": "remote-register-fren-6",
+        "fr": "dénotation",
+        "en": "denotation"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-register-aloud-1",
+        "fr": "La connotation, plus glissante que la dénotation, oriente le mot bien au-delà de ce qu’il nomme.",
+        "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+        "ipa": "la kɔ.nɔ.ta.sjɔ̃ ply ɡli.sɑ̃t kə la de.nɔ.ta.sjɔ̃ ɔ.ʁjɑ̃t lə mo bjɛ̃ o.də.la də sə kil nɔm"
+      },
+      {
+        "id": "remote-register-aloud-2",
+        "fr": "Ce n’est pas inintéressant, dit-il — et la litote en dit plus long que l’éloge direct.",
+        "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+        "ipa": "sə nɛ pa zɛ̃.ɛ̃.te.ʁɛ.sɑ̃ di til e la li.tɔt ɑ̃ di ply lɔ̃ kə le.lɔʒ di.ʁɛkt"
+      },
+      {
+        "id": "remote-register-aloud-3",
+        "fr": "L’illocution, disait Austin, n’est pas le contenu : c’est l’acte accompli en parlant.",
+        "en": "Illocution, Austin said, is not the content: it is the act accomplished in speaking.",
+        "ipa": "lil.lɔ.ky.sjɔ̃ di.zɛ os.tin nɛ pa lə kɔ̃.tə.ny sɛ lakt a.kɔ̃.pli ɑ̃ paʁ.lɑ̃"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-register-unsc-1",
+        "fr": "L’illocution, chez Austin, est l’acte accompli en parlant : promettre, ordonner, excuser.",
+        "en": "illocution",
+        "words": [
+          "L’illocution,",
+          "chez",
+          "Austin,",
+          "est",
+          "l’acte",
+          "accompli",
+          "en",
+          "parlant",
+          ":",
+          "promettre,",
+          "ordonner,",
+          "excuser."
+        ]
+      },
+      {
+        "id": "remote-register-unsc-2",
+        "fr": "La dénotation, contenu stable, n’épuise pas ce que le mot fait dans une situation.",
+        "en": "denotation",
+        "words": [
+          "La",
+          "dénotation,",
+          "contenu",
+          "stable,",
+          "n’épuise",
+          "pas",
+          "ce",
+          "que",
+          "le",
+          "mot",
+          "fait",
+          "dans",
+          "une",
+          "situation."
+        ]
+      }
+    ]
+  }
+}

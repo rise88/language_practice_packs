@@ -1,0 +1,548 @@
+{
+  "pratiquePack": 1,
+  "id": "identity-c2",
+  "version": 1,
+  "level": "c2",
+  "title": {
+    "fr": "Identité et altérité C2",
+    "en": "Identity and otherness C2"
+  },
+  "description": {
+    "fr": "Altérité, hybridité et reconnaissance pour penser l’appartenance et la diaspora.",
+    "en": "Otherness, hybridity, and recognition for thinking belonging and diaspora."
+  },
+  "seed": [
+    {
+      "id": "remote-identity-c2-1",
+      "fr": "altérité",
+      "en": "otherness",
+      "example": "L’altérité, irréductible, n’est pas un défaut d’identité : elle en est la condition.",
+      "ipa": "al.te.ʁi.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-2",
+      "fr": "hybridité",
+      "en": "hybridity",
+      "example": "L’hybridité, chez Bhabha, n’est pas un mélange tranquille : c’est une zone de friction où les identités se négocient.",
+      "ipa": "i.bʁi.di.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-3",
+      "fr": "appartenance",
+      "en": "belonging",
+      "example": "L’appartenance, dès qu’on l’essentialise, exclut ceux-là mêmes qu’elle prétend rassembler.",
+      "ipa": "a.paʁ.tə.nɑ̃s",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-4",
+      "fr": "reconnaissance",
+      "en": "recognition",
+      "example": "La reconnaissance, hégélienne, n’est pas un regard bienveillant : c’est une lutte pour être tenu pour sujet.",
+      "ipa": "ʁə.kɔ.nɛ.sɑ̃s",
+      "article": "la"
+    },
+    {
+      "id": "remote-identity-c2-5",
+      "fr": "diaspora",
+      "en": "diaspora",
+      "example": "La diaspora maintient, par-delà le territoire perdu, une mémoire et des réseaux.",
+      "ipa": "dja.spɔ.ʁa",
+      "article": "la"
+    },
+    {
+      "id": "remote-identity-c2-6",
+      "fr": "essentialisation",
+      "en": "essentialization",
+      "example": "L’essentialisation fige une identité en nature, et clôt le débat avant qu’il n’ait lieu.",
+      "ipa": "e.sɑ̃.sja.li.za.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-7",
+      "fr": "assignation",
+      "en": "ascription / assignment",
+      "example": "L’assignation identitaire précède souvent le consentement de celui qu’elle nomme.",
+      "ipa": "a.si.ɲa.sjɔ̃",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-8",
+      "fr": "métissage",
+      "en": "métissage / mixing",
+      "example": "Le métissage, contre l’obsession de la pureté, affirme une généalogie plurielle.",
+      "ipa": "me.ti.saʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-identity-c2-9",
+      "fr": "exil",
+      "en": "exile",
+      "example": "L’exil, fût-il choisi, déplace le centre : on n’habite plus le lieu, on l’emporte.",
+      "ipa": "ɛɡ.zil",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-10",
+      "fr": "hétérotopie",
+      "en": "heterotopia",
+      "example": "L’hétérotopie, chez Foucault, est un lieu réel qui conteste, en les reflétant, tous les autres lieux.",
+      "ipa": "e.te.ʁɔ.tɔ.pi",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-11",
+      "fr": "entre-deux",
+      "en": "in-between",
+      "example": "L’entre-deux n’est pas un manque : c’est l’espace où l’hybridité se travaille.",
+      "ipa": "ɑ̃.tʁə.dø",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-12",
+      "fr": "subalternité",
+      "en": "subalternity",
+      "example": "La subalternité, Spivak l’a rappelé, n’est pas seulement d’être dominé : c’est de n’être pas entendu.",
+      "ipa": "sy.bal.tɛʁ.ni.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-identity-c2-13",
+      "fr": "créolisation",
+      "en": "creolization",
+      "example": "La créolisation, chez Glissant, nomme un devenir imprévisible, non un métissage déjà cadré.",
+      "ipa": "kʁe.ɔ.li.za.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-identity-c2-14",
+      "fr": "décentrement",
+      "en": "decentring",
+      "example": "Le décentrement ôte à l’Occident le privilège d’être la mesure de toute altérité.",
+      "ipa": "de.sɑ̃.tʁə.mɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-identity-c2-15",
+      "fr": "autochtonie",
+      "en": "indigeneity",
+      "example": "L’autochtonie revendique un lien antérieur à la conquête, non une essence hors de l’histoire.",
+      "ipa": "o.tɔk.tɔ.ni",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-16",
+      "fr": "cosmopolitisme",
+      "en": "cosmopolitanism",
+      "example": "Le cosmopolitisme, s’il oublie les ancrages, se réduit à une élégance de passants.",
+      "ipa": "kɔs.mɔ.pɔ.li.tism",
+      "article": "le"
+    },
+    {
+      "id": "remote-identity-c2-17",
+      "fr": "communautarisme",
+      "en": "communalism",
+      "example": "Le communautarisme, dans le débat français, sert trop souvent d’anathème à toute allégeance minoritaire.",
+      "ipa": "kɔ.my.no.ta.ʁism",
+      "article": "le"
+    },
+    {
+      "id": "remote-identity-c2-18",
+      "fr": "intersectionnalité",
+      "en": "intersectionality",
+      "example": "L’intersectionnalité refuse que race, genre et classe s’additionnent sans s’entrelacer.",
+      "ipa": "ɛ̃.tɛʁ.sɛk.sjɔ.na.li.te",
+      "article": "l'"
+    },
+    {
+      "id": "remote-identity-c2-19",
+      "fr": "performativité",
+      "en": "performativity",
+      "example": "La performativité, chez Butler, veut que l’identité se fasse en s’énonçant, non qu’elle précède l’énoncé.",
+      "ipa": "pɛʁ.fɔʁ.ma.ti.vi.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-identity-c2-20",
+      "fr": "enracinement",
+      "en": "rootedness",
+      "example": "L’enracinement, Weil le savait, n’est pas le nationalisme : c’est le besoin d’un milieu vivant.",
+      "ipa": "ɑ̃.ʁa.si.nə.mɑ̃",
+      "article": "l'"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-identity-phrase-1",
+      "fr": "L’altérité, qui n’est pas un défaut, demeure la condition même de toute identité.",
+      "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+      "ipa": "al.te.ʁi.te ki nɛ pa œ̃ de.fɛ də.mœʁ la kɔ̃.di.sjɔ̃ mɛm də tut i.dɑ̃.ti.te"
+    },
+    {
+      "id": "remote-identity-phrase-2",
+      "fr": "Les diasporas que l’histoire a dispersées maintiennent, par-delà le territoire, une mémoire commune.",
+      "en": "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+      "ipa": "le dja.spɔ.ʁa kə lis.twaʁ a dis.pɛʁ.se mɛ̃.tjɛn paʁ.de.la lə tɛ.ʁi.twaʁ yn me.mwaʁ kɔ.myn"
+    },
+    {
+      "id": "remote-identity-phrase-3",
+      "fr": "Quand bien même l’appartenance serait chaleureuse, elle n’autorise pas l’essentialisation.",
+      "en": "Even if belonging were warm, it would not licence essentialization.",
+      "ipa": "kɑ̃ bjɛ̃ mɛm la.paʁ.tə.nɑ̃s sə.ʁɛ ʃa.lə.ʁøz ɛl no.tɔ.ʁiz pa le.sɑ̃.sja.li.za.sjɔ̃"
+    },
+    {
+      "id": "remote-identity-phrase-4",
+      "fr": "La reconnaissance, hégélienne, est une lutte pour être tenu pour sujet, non un regard bienveillant.",
+      "en": "Hegelian recognition is a struggle to be held as a subject, not a kindly gaze.",
+      "ipa": "la ʁə.kɔ.nɛ.sɑ̃s e.ɡe.ljɛn ɛt yn lyt puʁ ɛtʁ tə.ny puʁ sy.ʒɛ nɔ̃ œ̃ ʁə.ɡaʁ bjɛ̃.vɛ.jɑ̃"
+    },
+    {
+      "id": "remote-identity-phrase-5",
+      "fr": "Encore que l’hybridité fût célébrée, elle reste une zone de friction, non un abri.",
+      "en": "Even though hybridity was celebrated, it remains a zone of friction, not a shelter.",
+      "ipa": "ɑ̃.kɔʁ kə li.bʁi.di.te fy se.le.bʁe ɛl ʁɛst yn zon də fʁik.sjɔ̃ nɔ̃ œ̃ na.bʁi"
+    },
+    {
+      "id": "remote-identity-phrase-6",
+      "fr": "Aussi l’assignation précède-t-elle souvent le consentement de celui qu’elle nomme.",
+      "en": "Thus ascription often precedes the consent of the one it names.",
+      "ipa": "o.si la.si.ɲa.sjɔ̃ pʁe.sɛd tɛl su.vɑ̃ lə kɔ̃.sɑ̃.tə.mɑ̃ də sə.lɥi kɛl nɔm"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-identity-listen-1",
+      "fr": "L’altérité n’est pas un défaut d’identité : elle en est la condition.",
+      "en": "Otherness is not a defect of identity: it is its condition.",
+      "word": "altérité",
+      "wordEn": "otherness",
+      "wordIpa": "al.te.ʁi.te",
+      "distractors": [
+        "hybridité",
+        "appartenance",
+        "exil"
+      ]
+    },
+    {
+      "id": "remote-identity-listen-2",
+      "fr": "L’hybridité est une zone de friction où les identités se négocient.",
+      "en": "Hybridity is a zone of friction where identities are negotiated.",
+      "word": "hybridité",
+      "wordEn": "hybridity",
+      "wordIpa": "i.bʁi.di.te",
+      "distractors": [
+        "métissage",
+        "créolisation",
+        "entre-deux"
+      ]
+    },
+    {
+      "id": "remote-identity-listen-3",
+      "fr": "La reconnaissance est une lutte pour être tenu pour sujet.",
+      "en": "Recognition is a struggle to be held as a subject.",
+      "word": "reconnaissance",
+      "wordEn": "recognition",
+      "wordIpa": "ʁə.kɔ.nɛ.sɑ̃s",
+      "distractors": [
+        "appartenance",
+        "performativité",
+        "enracinement"
+      ]
+    },
+    {
+      "id": "remote-identity-listen-4",
+      "fr": "La diaspora maintient une mémoire par-delà le territoire perdu.",
+      "en": "The diaspora maintains a memory beyond the lost territory.",
+      "word": "diaspora",
+      "wordEn": "diaspora",
+      "wordIpa": "dja.spɔ.ʁa",
+      "distractors": [
+        "exil",
+        "autochtonie",
+        "cosmopolitisme"
+      ]
+    }
+  ],
+  "prompts": [
+    "Analysez la différence de registre entre hybridité, métissage et créolisation : lequel de ces termes refuse le plus nettement le modèle de la pureté ?",
+    "Critiquez un discours d’appartenance qui essentialise : que fait-il de l’altérité interne au groupe ?",
+    "La reconnaissance peut-elle se passer de lutte, ou n’est-elle, hégéliennement, qu’un rapport de forces symboliques ?",
+    "À partir d’une expérience diasporique (littéraire ou historique), évaluez ce que l’exil déplace dans le sentiment du lieu."
+  ],
+  "grammar": [
+    {
+      "id": "remote-identity-grammar-1",
+      "title": {
+        "fr": "Relatives restrictives et appositives",
+        "en": "Restrictive vs appositive relatives"
+      },
+      "rule": "La relative sans virgule restreint le nom : Les diasporas que l’histoire a dispersées (celles-là seulement). Avec virgules, elle s’ajoute, sans sélectionner : L’altérité, qui n’est pas un défaut, demeure… Confondre les deux change la portée de l’assertion.",
+      "table": [
+        [
+          "Type",
+          "Ponctuation",
+          "Exemple"
+        ],
+        [
+          "restrictive",
+          "sans virgule",
+          "les diasporas que l’histoire a dispersées"
+        ],
+        [
+          "appositive",
+          "virgules",
+          "l’altérité, qui n’est pas un défaut,"
+        ],
+        [
+          "restrictive",
+          "sélection",
+          "ceux qui refusent l’assignation"
+        ],
+        [
+          "appositive",
+          "commentaire",
+          "Glissant, qui pensait la créolisation,"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-identity-gq-1",
+          "prompt": "« Les diasporas que l’histoire a dispersées » est une relative ___.",
+          "answer": "restrictive",
+          "options": [
+            "restrictive",
+            "appositive",
+            "interrogative"
+          ]
+        },
+        {
+          "id": "remote-identity-gq-2",
+          "prompt": "Dans « L’altérité, qui n’est pas un défaut, demeure », la relative est ___.",
+          "answer": "appositive",
+          "options": [
+            "appositive",
+            "restrictive",
+            "consécutive"
+          ]
+        },
+        {
+          "id": "remote-identity-gq-3",
+          "prompt": "Sans virgules, « ceux qui refusent l’assignation » ___ le nom.",
+          "answer": "restreint",
+          "options": [
+            "restreint",
+            "commente seulement",
+            "appose"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-identity-grammar-2",
+      "title": {
+        "fr": "L’hypotaxe concessive",
+        "en": "Concessive hypotaxis"
+      },
+      "rule": "Quand bien même + conditionnel, encore que / bien que + subjonctif, fût-il : autant de subordinations qui accordent l’obstacle sans renoncer à la thèse. L’essai identitaire en use pour éviter l’essentialisation tout en tenant une position.",
+      "table": [
+        [
+          "Tour",
+          "Mode",
+          "Exemple"
+        ],
+        [
+          "quand bien même",
+          "conditionnel",
+          "Quand bien même serait-elle chaleureuse…"
+        ],
+        [
+          "encore que",
+          "subjonctif",
+          "Encore que l’hybridité fût célébrée…"
+        ],
+        [
+          "fût-il",
+          "imparfait du subj.",
+          "L’exil, fût-il choisi…"
+        ],
+        [
+          "pour autant",
+          "assertion maintenue",
+          "…elle n’autorise pas l’essentialisation."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-identity-gq-4",
+          "prompt": "Encore que l’hybridité ___ célébrée, elle reste une zone de friction.",
+          "answer": "fût",
+          "options": [
+            "fût",
+            "était",
+            "sera"
+          ]
+        },
+        {
+          "id": "remote-identity-gq-5",
+          "prompt": "L’exil, ___ choisi, déplace le centre.",
+          "answer": "fût-il",
+          "options": [
+            "fût-il",
+            "est-il",
+            "soit il"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-identity-dict-1",
+        "fr": "L’altérité, qui n’est pas un défaut, demeure la condition même de toute identité.",
+        "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+        "ipa": "al.te.ʁi.te ki nɛ pa œ̃ de.fɛ də.mœʁ la kɔ̃.di.sjɔ̃ mɛm də tut i.dɑ̃.ti.te"
+      },
+      {
+        "id": "remote-identity-dict-2",
+        "fr": "Les diasporas que l’histoire a dispersées maintiennent, par-delà le territoire, une mémoire commune.",
+        "en": "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+        "ipa": "le dja.spɔ.ʁa kə lis.twaʁ a dis.pɛʁ.se mɛ̃.tjɛn paʁ.de.la lə tɛ.ʁi.twaʁ yn me.mwaʁ kɔ.myn"
+      },
+      {
+        "id": "remote-identity-dict-3",
+        "fr": "Quand bien même l’appartenance serait chaleureuse, elle n’autorise pas l’essentialisation.",
+        "en": "Even if belonging were warm, it would not licence essentialization.",
+        "ipa": "kɑ̃ bjɛ̃ mɛm la.paʁ.tə.nɑ̃s sə.ʁɛ ʃa.lə.ʁøz ɛl no.tɔ.ʁiz pa le.sɑ̃.sja.li.za.sjɔ̃"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-identity-mean-1",
+        "fr": "L’altérité, qui n’est pas un défaut, demeure la condition même de toute identité.",
+        "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+        "choices": [
+          "Otherness, which is not a defect, remains the very condition of any identity.",
+          "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+          "Even if belonging were warm, it would not licence essentialization."
+        ]
+      },
+      {
+        "id": "remote-identity-mean-2",
+        "fr": "Les diasporas que l’histoire a dispersées maintiennent, par-delà le territoire, une mémoire commune.",
+        "en": "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+        "choices": [
+          "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+          "Otherness, which is not a defect, remains the very condition of any identity.",
+          "Even if belonging were warm, it would not licence essentialization."
+        ]
+      },
+      {
+        "id": "remote-identity-mean-3",
+        "fr": "Quand bien même l’appartenance serait chaleureuse, elle n’autorise pas l’essentialisation.",
+        "en": "Even if belonging were warm, it would not licence essentialization.",
+        "choices": [
+          "Even if belonging were warm, it would not licence essentialization.",
+          "Otherness, which is not a defect, remains the very condition of any identity.",
+          "The diasporas that history has scattered maintain, beyond territory, a shared memory."
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-identity-fren-1",
+        "fr": "altérité",
+        "en": "otherness"
+      },
+      {
+        "id": "remote-identity-fren-2",
+        "fr": "hybridité",
+        "en": "hybridity"
+      },
+      {
+        "id": "remote-identity-fren-3",
+        "fr": "appartenance",
+        "en": "belonging"
+      },
+      {
+        "id": "remote-identity-fren-4",
+        "fr": "reconnaissance",
+        "en": "recognition"
+      },
+      {
+        "id": "remote-identity-fren-5",
+        "fr": "diaspora",
+        "en": "diaspora"
+      },
+      {
+        "id": "remote-identity-fren-6",
+        "fr": "essentialisation",
+        "en": "essentialization"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-identity-aloud-1",
+        "fr": "L’altérité, qui n’est pas un défaut, demeure la condition même de toute identité.",
+        "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+        "ipa": "al.te.ʁi.te ki nɛ pa œ̃ de.fɛ də.mœʁ la kɔ̃.di.sjɔ̃ mɛm də tut i.dɑ̃.ti.te"
+      },
+      {
+        "id": "remote-identity-aloud-2",
+        "fr": "Quand bien même l’appartenance serait chaleureuse, elle n’autorise pas l’essentialisation.",
+        "en": "Even if belonging were warm, it would not licence essentialization.",
+        "ipa": "kɑ̃ bjɛ̃ mɛm la.paʁ.tə.nɑ̃s sə.ʁɛ ʃa.lə.ʁøz ɛl no.tɔ.ʁiz pa le.sɑ̃.sja.li.za.sjɔ̃"
+      },
+      {
+        "id": "remote-identity-aloud-3",
+        "fr": "Encore que l’hybridité fût célébrée, elle reste une zone de friction, non un abri.",
+        "en": "Even though hybridity was celebrated, it remains a zone of friction, not a shelter.",
+        "ipa": "ɑ̃.kɔʁ kə li.bʁi.di.te fy se.le.bʁe ɛl ʁɛst yn zon də fʁik.sjɔ̃ nɔ̃ œ̃ na.bʁi"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-identity-unsc-1",
+        "fr": "La diaspora maintient, par-delà le territoire perdu, une mémoire et des réseaux.",
+        "en": "diaspora",
+        "words": [
+          "La",
+          "diaspora",
+          "maintient,",
+          "par-delà",
+          "le",
+          "territoire",
+          "perdu,",
+          "une",
+          "mémoire",
+          "et",
+          "des",
+          "réseaux."
+        ]
+      },
+      {
+        "id": "remote-identity-unsc-2",
+        "fr": "L’essentialisation fige une identité en nature, et clôt le débat avant qu’il n’ait lieu.",
+        "en": "essentialization",
+        "words": [
+          "L’essentialisation",
+          "fige",
+          "une",
+          "identité",
+          "en",
+          "nature,",
+          "et",
+          "clôt",
+          "le",
+          "débat",
+          "avant",
+          "qu’il",
+          "n’ait",
+          "lieu."
+        ]
+      }
+    ]
+  }
+}
