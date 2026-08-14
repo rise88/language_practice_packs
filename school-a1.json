@@ -1,0 +1,409 @@
+{
+  "pratiquePack": 1,
+  "id": "school-a1",
+  "version": 1,
+  "level": "a1",
+  "title": {
+    "fr": "École A1",
+    "en": "School A1"
+  },
+  "description": {
+    "fr": "Classe, matériel scolaire et vie à l’école pour débutants.",
+    "en": "Classroom, school supplies, and everyday school life for beginners."
+  },
+  "seed": [
+    {
+      "id": "remote-school-a1-1",
+      "fr": "école",
+      "en": "school",
+      "example": "Mon école est près de la maison.",
+      "ipa": "e.kɔl",
+      "article": "la"
+    },
+    {
+      "id": "remote-school-a1-2",
+      "fr": "classe",
+      "en": "classroom / class",
+      "example": "La classe commence à huit heures.",
+      "ipa": "klas",
+      "article": "la"
+    },
+    {
+      "id": "remote-school-a1-3",
+      "fr": "professeur",
+      "en": "teacher (male)",
+      "example": "Le professeur explique la leçon.",
+      "ipa": "pʁɔ.fɛ.sœʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-school-a1-4",
+      "fr": "professeure",
+      "en": "teacher (female)",
+      "example": "La professeure est très gentille.",
+      "ipa": "pʁɔ.fɛ.sœʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-school-a1-5",
+      "fr": "élève",
+      "en": "student / pupil",
+      "example": "Chaque élève a un cahier.",
+      "ipa": "e.lɛv",
+      "article": "l'"
+    },
+    {
+      "id": "remote-school-a1-6",
+      "fr": "cahier",
+      "en": "notebook",
+      "example": "J’écris dans mon cahier.",
+      "ipa": "ka.je",
+      "article": "le"
+    },
+    {
+      "id": "remote-school-a1-7",
+      "fr": "stylo",
+      "en": "pen",
+      "example": "Tu as un stylo bleu ?",
+      "ipa": "sti.lo",
+      "article": "le"
+    },
+    {
+      "id": "remote-school-a1-8",
+      "fr": "crayon",
+      "en": "pencil",
+      "example": "Je dessine avec un crayon.",
+      "ipa": "kʁɛ.jɔ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-school-a1-9",
+      "fr": "livre",
+      "en": "book",
+      "example": "Ouvre ton livre de français.",
+      "ipa": "livʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-school-a1-10",
+      "fr": "cartable",
+      "en": "school bag",
+      "example": "Mon cartable est lourd.",
+      "ipa": "kaʁ.tabl",
+      "article": "le"
+    },
+    {
+      "id": "remote-school-a1-11",
+      "fr": "tableau",
+      "en": "board / blackboard",
+      "example": "Le professeur écrit au tableau.",
+      "ipa": "ta.blo",
+      "article": "le"
+    },
+    {
+      "id": "remote-school-a1-12",
+      "fr": "bureau",
+      "en": "desk",
+      "example": "Mon bureau est près de la fenêtre.",
+      "ipa": "by.ʁo",
+      "article": "le"
+    },
+    {
+      "id": "remote-school-a1-13",
+      "fr": "leçon",
+      "en": "lesson",
+      "example": "La leçon de maths est difficile.",
+      "ipa": "lə.sɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-school-a1-14",
+      "fr": "devoir",
+      "en": "homework",
+      "example": "J’ai des devoirs ce soir.",
+      "ipa": "də.vwaʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-school-a1-15",
+      "fr": "examen",
+      "en": "exam / test",
+      "example": "L’examen est vendredi.",
+      "ipa": "ɛɡ.za.mɛ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-school-a1-16",
+      "fr": "récréation",
+      "en": "break / recess",
+      "example": "On joue pendant la récréation.",
+      "ipa": "ʁe.kʁe.a.sjɔ̃",
+      "article": "la"
+    },
+    {
+      "id": "remote-school-a1-17",
+      "fr": "cantine",
+      "en": "cafeteria",
+      "example": "Je mange à la cantine le midi.",
+      "ipa": "kɑ̃.tin",
+      "article": "la"
+    },
+    {
+      "id": "remote-school-a1-18",
+      "fr": "gomme",
+      "en": "eraser",
+      "example": "Prête-moi ta gomme, s’il te plaît.",
+      "ipa": "ɡɔm",
+      "article": "la"
+    },
+    {
+      "id": "remote-school-a1-19",
+      "fr": "règle",
+      "en": "ruler",
+      "example": "J’utilise une règle pour tracer une ligne.",
+      "ipa": "ʁɛɡl",
+      "article": "la"
+    },
+    {
+      "id": "remote-school-a1-20",
+      "fr": "cour",
+      "en": "schoolyard / playground",
+      "example": "Les élèves jouent dans la cour.",
+      "ipa": "kuʁ",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-school-phrase-1",
+      "fr": "Quelle heure commence le cours ?",
+      "en": "What time does class start?",
+      "ipa": "kɛl œʁ kɔ.mɑ̃s lə kuʁ"
+    },
+    {
+      "id": "remote-school-phrase-2",
+      "fr": "J’ai oublié mon cahier à la maison.",
+      "en": "I forgot my notebook at home.",
+      "ipa": "ʒe u.bli.je mɔ̃ ka.je a la mɛ.zɔ̃"
+    },
+    {
+      "id": "remote-school-phrase-3",
+      "fr": "Puis-je emprunter un stylo ?",
+      "en": "Can I borrow a pen?",
+      "ipa": "pɥi ʒə ɑ̃.pʁœ̃.te œ̃ sti.lo"
+    },
+    {
+      "id": "remote-school-phrase-4",
+      "fr": "Le professeur donne les devoirs.",
+      "en": "The teacher gives homework.",
+      "ipa": "lə pʁɔ.fɛ.sœʁ dɔn le də.vwaʁ"
+    },
+    {
+      "id": "remote-school-phrase-5",
+      "fr": "Silence, s’il vous plaît !",
+      "en": "Quiet, please!",
+      "ipa": "si.lɑ̃s sil vu plɛ"
+    },
+    {
+      "id": "remote-school-phrase-6",
+      "fr": "Je ne comprends pas la leçon.",
+      "en": "I don’t understand the lesson.",
+      "ipa": "ʒə nə kɔ̃.pʁɑ̃ pa la lə.sɔ̃"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-school-listen-1",
+      "fr": "J’écris dans mon cahier avec un stylo bleu.",
+      "en": "I write in my notebook with a blue pen.",
+      "word": "cahier",
+      "wordEn": "notebook",
+      "wordIpa": "ka.je",
+      "distractors": ["livre", "cartable", "bureau"]
+    },
+    {
+      "id": "remote-school-listen-2",
+      "fr": "Le professeur écrit la leçon au tableau.",
+      "en": "The teacher writes the lesson on the board.",
+      "word": "tableau",
+      "wordEn": "board",
+      "wordIpa": "ta.blo",
+      "distractors": ["bureau", "cour", "classe"]
+    },
+    {
+      "id": "remote-school-listen-3",
+      "fr": "Les élèves jouent dans la cour pendant la récréation.",
+      "en": "The students play in the schoolyard during recess.",
+      "word": "récréation",
+      "wordEn": "recess",
+      "wordIpa": "ʁe.kʁe.a.sjɔ̃",
+      "distractors": ["cantine", "examen", "devoir"]
+    },
+    {
+      "id": "remote-school-listen-4",
+      "fr": "J’ai des devoirs de maths pour demain.",
+      "en": "I have math homework for tomorrow.",
+      "word": "devoirs",
+      "wordEn": "homework",
+      "wordIpa": "də.vwaʁ",
+      "distractors": ["leçon", "examen", "livre"]
+    }
+  ],
+  "prompts": [
+    "Décris ta classe en trois phrases.",
+    "Qu’est-ce que tu as dans ton cartable ?",
+    "Quelle matière préfères-tu à l’école ?",
+    "Que fais-tu pendant la récréation ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-school-grammar-1",
+      "title": {
+        "fr": "Avoir pour le matériel scolaire",
+        "en": "Avoir for school supplies"
+      },
+      "rule": "Pour dire ce que l’on possède, on utilise avoir + article + nom : J’ai un stylo. Tu as un cahier ? Il a des devoirs.",
+      "table": [
+        ["Sujet", "Avoir", "Exemple"],
+        ["je", "ai", "J’ai un crayon."],
+        ["tu", "as", "Tu as un livre ?"],
+        ["il / elle", "a", "Elle a des devoirs."],
+        ["nous", "avons", "Nous avons un examen."],
+        ["vous", "avez", "Vous avez une gomme ?"]
+      ],
+      "questions": [
+        {
+          "id": "remote-school-gq-1",
+          "prompt": "J’___ un cahier.",
+          "answer": "ai",
+          "options": ["ai", "as", "a"]
+        },
+        {
+          "id": "remote-school-gq-2",
+          "prompt": "Tu ___ des devoirs ce soir ?",
+          "answer": "as",
+          "options": ["ai", "as", "avez"]
+        },
+        {
+          "id": "remote-school-gq-3",
+          "prompt": "Il ___ un cartable rouge.",
+          "answer": "a",
+          "options": ["as", "a", "avons"]
+        }
+      ]
+    },
+    {
+      "id": "remote-school-grammar-2",
+      "title": {
+        "fr": "Les prépositions à l’école",
+        "en": "Prepositions at school"
+      },
+      "rule": "On utilise dans pour un espace fermé (dans la classe, dans le cartable), à pour un lieu ou un service (à l’école, à la cantine), au pour à + le (au tableau).",
+      "table": [
+        ["Préposition", "Usage", "Exemple"],
+        ["dans", "à l’intérieur", "dans la cour"],
+        ["à", "lieu / service", "à l’école"],
+        ["au", "à + le", "au tableau"],
+        ["sur", "surface", "sur le bureau"]
+      ],
+      "questions": [
+        {
+          "id": "remote-school-gq-4",
+          "prompt": "Je mange ___ cantine.",
+          "answer": "à la",
+          "options": ["à la", "au", "dans"]
+        },
+        {
+          "id": "remote-school-gq-5",
+          "prompt": "Le professeur écrit ___ tableau.",
+          "answer": "au",
+          "options": ["au", "à la", "dans"]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-school-dict-1",
+        "fr": "Mon école est près de la maison.",
+        "en": "My school is near my home.",
+        "ipa": "mɔ̃ ne.kɔl ɛ pʁɛ də la mɛ.zɔ̃"
+      },
+      {
+        "id": "remote-school-dict-2",
+        "fr": "J’ai oublié mon cahier à la maison.",
+        "en": "I forgot my notebook at home.",
+        "ipa": "ʒe u.bli.je mɔ̃ ka.je a la mɛ.zɔ̃"
+      },
+      {
+        "id": "remote-school-dict-3",
+        "fr": "La classe commence à huit heures.",
+        "en": "Class starts at eight o’clock.",
+        "ipa": "la klas kɔ.mɑ̃s a ɥit œʁ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-school-mean-1",
+        "fr": "Puis-je emprunter un stylo ?",
+        "en": "Can I borrow a pen?",
+        "choices": ["Can I borrow a pen?", "Where is the cafeteria?", "Class is over."]
+      },
+      {
+        "id": "remote-school-mean-2",
+        "fr": "Je ne comprends pas la leçon.",
+        "en": "I don’t understand the lesson.",
+        "choices": ["I don’t understand the lesson.", "I love math.", "The exam is easy."]
+      },
+      {
+        "id": "remote-school-mean-3",
+        "fr": "Silence, s’il vous plaît !",
+        "en": "Quiet, please!",
+        "choices": ["Quiet, please!", "Open your book.", "Good luck on the test."]
+      }
+    ],
+    "fren": [
+      { "id": "remote-school-fren-1", "fr": "école", "en": "school" },
+      { "id": "remote-school-fren-2", "fr": "cahier", "en": "notebook" },
+      { "id": "remote-school-fren-3", "fr": "stylo", "en": "pen" },
+      { "id": "remote-school-fren-4", "fr": "professeur", "en": "teacher" },
+      { "id": "remote-school-fren-5", "fr": "devoir", "en": "homework" },
+      { "id": "remote-school-fren-6", "fr": "classe", "en": "classroom" }
+    ],
+    "aloud": [
+      {
+        "id": "remote-school-aloud-1",
+        "fr": "Quelle heure commence le cours ?",
+        "en": "What time does class start?",
+        "ipa": "kɛl œʁ kɔ.mɑ̃s lə kuʁ"
+      },
+      {
+        "id": "remote-school-aloud-2",
+        "fr": "Ouvre ton livre de français.",
+        "en": "Open your French book.",
+        "ipa": "uvʁ tɔ̃ livʁ də fʁɑ̃.sɛ"
+      },
+      {
+        "id": "remote-school-aloud-3",
+        "fr": "Les élèves jouent dans la cour.",
+        "en": "The students play in the schoolyard.",
+        "ipa": "le.z‿e.lɛv ʒwɛ̃ dɑ̃ la kuʁ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-school-unsc-1",
+        "fr": "J’écris dans mon cahier.",
+        "en": "I write in my notebook.",
+        "words": ["J’écris", "dans", "mon", "cahier."]
+      },
+      {
+        "id": "remote-school-unsc-2",
+        "fr": "Le professeur donne les devoirs.",
+        "en": "The teacher gives homework.",
+        "words": ["Le", "professeur", "donne", "les", "devoirs."]
+      }
+    ]
+  }
+}

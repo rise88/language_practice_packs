@@ -17,14 +17,19 @@ Hosting this repo as **public** is free. The app fetches:
 | `travel-a2.json` | Travel A2 pack |
 | `shopping-a2.json` | Shopping A2 pack |
 | `health-a2.json` | Health A2 pack |
+| `school-a1.json` | School A1 pack |
+| `weather-a1.json` | Weather A1 pack |
+| `animals-a1.json` | Animals A1 pack |
+| `restaurant-a2.json` | Restaurant A2 pack |
+| `hobbies-a2.json` | Hobbies A2 pack |
 | `_template.json` | Copy this to add a new pack |
 
 ## Levels
 
 | Level | Packs |
 |-------|--------|
-| A1 | Food, Home, Family |
-| A2 | Travel, Shopping, Health |
+| A1 | Food, Home, Family, School, Weather, Animals |
+| A2 | Travel, Shopping, Health, Restaurant, Hobbies |
 
 ## Pack fields → Pratique modes
 

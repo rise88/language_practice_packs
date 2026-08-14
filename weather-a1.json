@@ -1,0 +1,408 @@
+{
+  "pratiquePack": 1,
+  "id": "weather-a1",
+  "version": 1,
+  "level": "a1",
+  "title": {
+    "fr": "Météo A1",
+    "en": "Weather A1"
+  },
+  "description": {
+    "fr": "Soleil, pluie, saisons et expressions simples sur le temps qu’il fait.",
+    "en": "Sun, rain, seasons, and simple expressions about the weather."
+  },
+  "seed": [
+    {
+      "id": "remote-weather-a1-1",
+      "fr": "soleil",
+      "en": "sun",
+      "example": "Il y a du soleil aujourd’hui.",
+      "ipa": "sɔ.lɛj",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-2",
+      "fr": "pluie",
+      "en": "rain",
+      "example": "La pluie tombe depuis ce matin.",
+      "ipa": "plɥi",
+      "article": "la"
+    },
+    {
+      "id": "remote-weather-a1-3",
+      "fr": "nuage",
+      "en": "cloud",
+      "example": "Le ciel est couvert de nuages.",
+      "ipa": "nɥaʒ",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-4",
+      "fr": "vent",
+      "en": "wind",
+      "example": "Il y a beaucoup de vent aujourd’hui.",
+      "ipa": "vɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-5",
+      "fr": "neige",
+      "en": "snow",
+      "example": "La neige recouvre les montagnes.",
+      "ipa": "nɛʒ",
+      "article": "la"
+    },
+    {
+      "id": "remote-weather-a1-6",
+      "fr": "chaud",
+      "en": "hot / warm",
+      "example": "Il fait chaud en été.",
+      "ipa": "ʃo",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-7",
+      "fr": "froid",
+      "en": "cold",
+      "example": "Il fait froid en hiver.",
+      "ipa": "fʁwa",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-8",
+      "fr": "printemps",
+      "en": "spring",
+      "example": "Les fleurs poussent au printemps.",
+      "ipa": "pʁɛ̃.tɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-9",
+      "fr": "été",
+      "en": "summer",
+      "example": "En été, nous allons à la plage.",
+      "ipa": "e.te",
+      "article": "la"
+    },
+    {
+      "id": "remote-weather-a1-10",
+      "fr": "automne",
+      "en": "autumn / fall",
+      "example": "Les feuilles tombent en automne.",
+      "ipa": "o.tɔn",
+      "article": "la"
+    },
+    {
+      "id": "remote-weather-a1-11",
+      "fr": "hiver",
+      "en": "winter",
+      "example": "En hiver, je porte un manteau.",
+      "ipa": "i.vɛʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-weather-a1-12",
+      "fr": "ciel",
+      "en": "sky",
+      "example": "Le ciel est bleu ce matin.",
+      "ipa": "sjɛl",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-13",
+      "fr": "tempête",
+      "en": "storm",
+      "example": "Une tempête arrive ce soir.",
+      "ipa": "tɑ̃.pɛt",
+      "article": "la"
+    },
+    {
+      "id": "remote-weather-a1-14",
+      "fr": "parapluie",
+      "en": "umbrella",
+      "example": "Prends ton parapluie, il pleut.",
+      "ipa": "pa.ʁa.plɥi",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-15",
+      "fr": "température",
+      "en": "temperature",
+      "example": "La température est de vingt degrés.",
+      "ipa": "tɑ̃.pe.ʁa.tyʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-weather-a1-16",
+      "fr": "orage",
+      "en": "thunderstorm",
+      "example": "Un orage éclate dans la nuit.",
+      "ipa": "ɔ.ʁaʒ",
+      "article": "la"
+    },
+    {
+      "id": "remote-weather-a1-17",
+      "fr": "brouillard",
+      "en": "fog",
+      "example": "Il y a du brouillard ce matin.",
+      "ipa": "bʁu.jaʁ",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-18",
+      "fr": "éclair",
+      "en": "lightning",
+      "example": "J’ai vu un éclair dans le ciel.",
+      "ipa": "e.klɛʁ",
+      "article": "la"
+    },
+    {
+      "id": "remote-weather-a1-19",
+      "fr": "manteau",
+      "en": "coat",
+      "example": "Mets ton manteau, il fait froid.",
+      "ipa": "mɑ̃.to",
+      "article": "le"
+    },
+    {
+      "id": "remote-weather-a1-20",
+      "fr": "météo",
+      "en": "weather forecast",
+      "example": "Quelle est la météo pour demain ?",
+      "ipa": "me.te.o",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-weather-phrase-1",
+      "fr": "Quel temps fait-il aujourd’hui ?",
+      "en": "What’s the weather like today?",
+      "ipa": "kɛl tɑ̃ fɛ til o.ʒuʁ.dɥi"
+    },
+    {
+      "id": "remote-weather-phrase-2",
+      "fr": "Il fait beau aujourd’hui.",
+      "en": "The weather is nice today.",
+      "ipa": "il fɛ bo o.ʒuʁ.dɥi"
+    },
+    {
+      "id": "remote-weather-phrase-3",
+      "fr": "Il pleut, prends un parapluie.",
+      "en": "It’s raining, take an umbrella.",
+      "ipa": "il plø pʁɑ̃ œ̃ pa.ʁa.plɥi"
+    },
+    {
+      "id": "remote-weather-phrase-4",
+      "fr": "Il fait très froid ce matin.",
+      "en": "It’s very cold this morning.",
+      "ipa": "il fɛ tʁɛ fʁwa sə ma.tɛ̃"
+    },
+    {
+      "id": "remote-weather-phrase-5",
+      "fr": "Le ciel est couvert.",
+      "en": "The sky is overcast.",
+      "ipa": "lə sjɛl ɛ ku.vɛʁ"
+    },
+    {
+      "id": "remote-weather-phrase-6",
+      "fr": "Demain, il fera plus chaud.",
+      "en": "Tomorrow it will be warmer.",
+      "ipa": "də.mɛ̃ il fə.ʁa ply ʃo"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-weather-listen-1",
+      "fr": "Il y a du soleil et le ciel est bleu.",
+      "en": "There is sun and the sky is blue.",
+      "word": "soleil",
+      "wordEn": "sun",
+      "wordIpa": "sɔ.lɛj",
+      "distractors": ["pluie", "neige", "vent"]
+    },
+    {
+      "id": "remote-weather-listen-2",
+      "fr": "Prends ton parapluie, la pluie va commencer.",
+      "en": "Take your umbrella, the rain is going to start.",
+      "word": "parapluie",
+      "wordEn": "umbrella",
+      "wordIpa": "pa.ʁa.plɥi",
+      "distractors": ["manteau", "nuage", "tempête"]
+    },
+    {
+      "id": "remote-weather-listen-3",
+      "fr": "En hiver, il neige souvent dans les montagnes.",
+      "en": "In winter, it often snows in the mountains.",
+      "word": "neige",
+      "wordEn": "snow",
+      "wordIpa": "nɛʒ",
+      "distractors": ["pluie", "vent", "orage"]
+    },
+    {
+      "id": "remote-weather-listen-4",
+      "fr": "La température est de vingt-cinq degrés aujourd’hui.",
+      "en": "The temperature is twenty-five degrees today.",
+      "word": "température",
+      "wordEn": "temperature",
+      "wordIpa": "tɑ̃.pe.ʁa.tyʁ",
+      "distractors": ["météo", "ciel", "automne"]
+    }
+  ],
+  "prompts": [
+    "Quel temps fait-il chez toi aujourd’hui ?",
+    "Quelle saison préfères-tu ? Pourquoi ?",
+    "Que portes-tu quand il fait froid ?",
+    "Décris la météo de demain."
+  ],
+  "grammar": [
+    {
+      "id": "remote-weather-grammar-1",
+      "title": {
+        "fr": "Il fait / Il y a",
+        "en": "Describing the weather"
+      },
+      "rule": "Pour décrire le temps qu’il fait, on utilise Il fait + adjectif (Il fait chaud, Il fait froid, Il fait beau) ou Il y a + nom (Il y a du soleil, Il y a du vent). Pour la pluie et la neige, on utilise Il pleut / Il neige.",
+      "table": [
+        ["Expression", "Usage", "Exemple"],
+        ["Il fait + adj.", "température / conditions", "Il fait chaud."],
+        ["Il y a + nom", "présence", "Il y a du vent."],
+        ["Il pleut", "pluie", "Il pleut ce matin."],
+        ["Il neige", "neige", "Il neige en hiver."]
+      ],
+      "questions": [
+        {
+          "id": "remote-weather-gq-1",
+          "prompt": "___ fait froid en hiver.",
+          "answer": "Il",
+          "options": ["Il", "Elle", "Ils"]
+        },
+        {
+          "id": "remote-weather-gq-2",
+          "prompt": "Il ___ du soleil aujourd’hui.",
+          "answer": "y a",
+          "options": ["fait", "y a", "pleut"]
+        },
+        {
+          "id": "remote-weather-gq-3",
+          "prompt": "Il ___ ce matin.",
+          "answer": "pleut",
+          "options": ["fait", "neige", "pleut"]
+        }
+      ]
+    },
+    {
+      "id": "remote-weather-grammar-2",
+      "title": {
+        "fr": "Les saisons avec en",
+        "en": "Seasons with en"
+      },
+      "rule": "Pour dire à quelle saison quelque chose se passe, on utilise en + saison : en été, en hiver, au printemps, en automne. Attention : au printemps est une exception (en + le → au).",
+      "table": [
+        ["Saison", "Préposition", "Exemple"],
+        ["printemps", "au", "au printemps"],
+        ["été", "en", "en été"],
+        ["automne", "en", "en automne"],
+        ["hiver", "en", "en hiver"]
+      ],
+      "questions": [
+        {
+          "id": "remote-weather-gq-4",
+          "prompt": "Les fleurs poussent ___ printemps.",
+          "answer": "au",
+          "options": ["en", "au", "à la"]
+        },
+        {
+          "id": "remote-weather-gq-5",
+          "prompt": "Il fait chaud ___ été.",
+          "answer": "en",
+          "options": ["en", "au", "à l’"]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-weather-dict-1",
+        "fr": "Il fait beau aujourd’hui.",
+        "en": "The weather is nice today.",
+        "ipa": "il fɛ bo o.ʒuʁ.dɥi"
+      },
+      {
+        "id": "remote-weather-dict-2",
+        "fr": "Il pleut, prends un parapluie.",
+        "en": "It’s raining, take an umbrella.",
+        "ipa": "il plø pʁɑ̃ œ̃ pa.ʁa.plɥi"
+      },
+      {
+        "id": "remote-weather-dict-3",
+        "fr": "En hiver, je porte un manteau.",
+        "en": "In winter, I wear a coat.",
+        "ipa": "ɑ̃ i.vɛʁ ʒə pɔʁt œ̃ mɑ̃.to"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-weather-mean-1",
+        "fr": "Quel temps fait-il aujourd’hui ?",
+        "en": "What’s the weather like today?",
+        "choices": ["What’s the weather like today?", "What time is it?", "Where is the sun?"]
+      },
+      {
+        "id": "remote-weather-mean-2",
+        "fr": "Le ciel est couvert.",
+        "en": "The sky is overcast.",
+        "choices": ["The sky is overcast.", "It’s very hot.", "It’s snowing."]
+      },
+      {
+        "id": "remote-weather-mean-3",
+        "fr": "Demain, il fera plus chaud.",
+        "en": "Tomorrow it will be warmer.",
+        "choices": ["Tomorrow it will be warmer.", "It rained yesterday.", "Spring is here."]
+      }
+    ],
+    "fren": [
+      { "id": "remote-weather-fren-1", "fr": "soleil", "en": "sun" },
+      { "id": "remote-weather-fren-2", "fr": "pluie", "en": "rain" },
+      { "id": "remote-weather-fren-3", "fr": "neige", "en": "snow" },
+      { "id": "remote-weather-fren-4", "fr": "chaud", "en": "hot" },
+      { "id": "remote-weather-fren-5", "fr": "froid", "en": "cold" },
+      { "id": "remote-weather-fren-6", "fr": "parapluie", "en": "umbrella" }
+    ],
+    "aloud": [
+      {
+        "id": "remote-weather-aloud-1",
+        "fr": "Quel temps fait-il aujourd’hui ?",
+        "en": "What’s the weather like today?",
+        "ipa": "kɛl tɑ̃ fɛ til o.ʒuʁ.dɥi"
+      },
+      {
+        "id": "remote-weather-aloud-2",
+        "fr": "Il fait très froid ce matin.",
+        "en": "It’s very cold this morning.",
+        "ipa": "il fɛ tʁɛ fʁwa sə ma.tɛ̃"
+      },
+      {
+        "id": "remote-weather-aloud-3",
+        "fr": "Les feuilles tombent en automne.",
+        "en": "The leaves fall in autumn.",
+        "ipa": "le fœj tɔ̃b ɑ̃ n‿o.tɔn"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-weather-unsc-1",
+        "fr": "Il y a du soleil aujourd’hui.",
+        "en": "There is sun today.",
+        "words": ["Il", "y", "a", "du", "soleil", "aujourd’hui."]
+      },
+      {
+        "id": "remote-weather-unsc-2",
+        "fr": "Mets ton manteau, il fait froid.",
+        "en": "Put on your coat, it’s cold.",
+        "words": ["Mets", "ton", "manteau,", "il", "fait", "froid."]
+      }
+    ]
+  }
+}
