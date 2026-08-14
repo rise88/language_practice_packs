@@ -1,9 +1,12 @@
 {
   "pratiquePack": 1,
   "id": "shopping-a2",
-  "version": 1,
+  "version": 2,
   "level": "a2",
-  "title": { "fr": "Courses A2", "en": "Shopping A2" },
+  "title": {
+    "fr": "Courses A2",
+    "en": "Shopping A2"
+  },
   "description": {
     "fr": "Magasins, prix et expressions utiles pour faire les courses.",
     "en": "Shops, prices, and useful phrases for shopping."
@@ -152,6 +155,22 @@
       "example": "Avez-vous besoin d’un sac ?",
       "ipa": "sak",
       "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-19",
+      "fr": "client",
+      "en": "customer (male)",
+      "example": "Le client attend à la caisse.",
+      "ipa": "kli.jɑ̃",
+      "article": "le"
+    },
+    {
+      "id": "remote-shopping-a2-20",
+      "fr": "promo",
+      "en": "special offer / promo",
+      "example": "Cette promo est valable jusqu’à dimanche.",
+      "ipa": "pʁɔ.mo",
+      "article": "la"
     }
   ],
   "phrases": [
@@ -178,6 +197,18 @@
       "fr": "Je paie par carte bancaire.",
       "en": "I’ll pay by card.",
       "ipa": "ʒə pɛ paʁ kaʁt bɑ̃.kɛʁ"
+    },
+    {
+      "id": "remote-shopping-phrase-5",
+      "fr": "Où est le rayon fruits ?",
+      "en": "Where is the fruit aisle?",
+      "ipa": "u ɛ lə ʁɛ.jɔ̃ fʁɥi"
+    },
+    {
+      "id": "remote-shopping-phrase-6",
+      "fr": "Puis-je faire un échange ?",
+      "en": "Can I make an exchange?",
+      "ipa": "pɥi ʒə fɛʁ œ̃ ne.ʃɑ̃ʒ"
     }
   ],
   "listen": [
@@ -188,7 +219,11 @@
       "word": "réduction",
       "wordEn": "discount",
       "wordIpa": "ʁe.dyk.sjɔ̃",
-      "distractors": ["prix", "solde", "rayon"]
+      "distractors": [
+        "prix",
+        "solde",
+        "rayon"
+      ]
     },
     {
       "id": "remote-shopping-listen-2",
@@ -197,14 +232,301 @@
       "word": "échange",
       "wordEn": "exchange",
       "wordIpa": "e.ʃɑ̃ʒ",
-      "distractors": ["remboursement", "sac", "panier"]
+      "distractors": [
+        "remboursement",
+        "sac",
+        "panier"
+      ]
+    },
+    {
+      "id": "remote-shopping-listen-3",
+      "fr": "Je paie en espèces à la caisse.",
+      "en": "I’m paying in cash at the checkout.",
+      "word": "espèces",
+      "wordEn": "cash",
+      "wordIpa": "ɛs.pɛs",
+      "distractors": [
+        "carte bancaire",
+        "prix",
+        "sac"
+      ]
+    },
+    {
+      "id": "remote-shopping-listen-4",
+      "fr": "La cabine d’essayage est près du rayon.",
+      "en": "The fitting room is near the aisle.",
+      "word": "essayage",
+      "wordEn": "fitting",
+      "wordIpa": "e.sɛ.jaʒ",
+      "distractors": [
+        "solde",
+        "promo",
+        "vendeur"
+      ]
     }
   ],
   "prompts": [
     "Décris ta dernière visite au supermarché.",
     "Comment demandes-tu le prix d’un article ?",
-    "Préfères-tu payer en espèces ou par carte ?"
+    "Préfères-tu payer en espèces ou par carte ?",
+    "Que fais-tu si un vêtement est trop grand ?"
   ],
-  "grammar": [],
-  "skills": {}
+  "grammar": [
+    {
+      "id": "remote-shopping-grammar-1",
+      "title": {
+        "fr": "Combien / quel prix",
+        "en": "Asking about price"
+      },
+      "rule": "Pour demander le prix : Combien ça coûte ? / Quel est le prix de… ? Les nombres et pour cent (vingt pour cent) sont fréquents dans les réductions.",
+      "table": [
+        [
+          "Question",
+          "Réponse type",
+          "Exemple"
+        ],
+        [
+          "Combien ça coûte ?",
+          "Ça coûte…",
+          "Ça coûte vingt euros."
+        ],
+        [
+          "Quel est le prix de… ?",
+          "Le prix est…",
+          "Le prix est de quinze euros."
+        ],
+        [
+          "Il y a une réduction de…",
+          "discount amount",
+          "une réduction de dix pour cent"
+        ],
+        [
+          "C’est en solde.",
+          "it’s on sale",
+          "Ce pull est en solde."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-shopping-gq-1",
+          "prompt": "___ ça coûte ?",
+          "answer": "Combien",
+          "options": [
+            "Quel",
+            "Combien",
+            "Où"
+          ]
+        },
+        {
+          "id": "remote-shopping-gq-2",
+          "prompt": "Il y a une réduction ___ vingt pour cent.",
+          "answer": "de",
+          "options": [
+            "de",
+            "à",
+            "pour"
+          ]
+        },
+        {
+          "id": "remote-shopping-gq-3",
+          "prompt": "Quel est ___ prix de ce sac ?",
+          "answer": "le",
+          "options": [
+            "la",
+            "le",
+            "des"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-shopping-grammar-2",
+      "title": {
+        "fr": "Pouvoir et politesse",
+        "en": "Pouvoir for polite requests"
+      },
+      "rule": "Au magasin, utilisez pouvoir au présent pour demander poliment : Je peux essayer ça ? / Puis-je faire un échange ? Puis-je est plus formel que Je peux.",
+      "table": [
+        [
+          "Forme",
+          "Niveau",
+          "Exemple"
+        ],
+        [
+          "Je peux… ?",
+          "courant",
+          "Je peux essayer ça ?"
+        ],
+        [
+          "Puis-je… ?",
+          "formel",
+          "Puis-je faire un échange ?"
+        ],
+        [
+          "Est-ce que je peux… ?",
+          "neutre",
+          "Est-ce que je peux payer par carte ?"
+        ],
+        [
+          "Avez-vous… ?",
+          "stock / size",
+          "Avez-vous ça en taille M ?"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-shopping-gq-4",
+          "prompt": "Je ___ essayer ça, s’il vous plaît ?",
+          "answer": "peux",
+          "options": [
+            "peux",
+            "dois",
+            "vais"
+          ]
+        },
+        {
+          "id": "remote-shopping-gq-5",
+          "prompt": "___ faire un remboursement ?",
+          "answer": "Puis-je",
+          "options": [
+            "Je suis",
+            "Puis-je",
+            "Il y a"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-shopping-dict-1",
+        "fr": "Combien ça coûte ?",
+        "en": "How much does it cost?",
+        "ipa": "kɔ̃.bjɛ̃ sa kut"
+      },
+      {
+        "id": "remote-shopping-dict-2",
+        "fr": "Je paie par carte bancaire.",
+        "en": "I pay by bank card.",
+        "ipa": "ʒə pɛ paʁ kaʁt bɑ̃.kɛʁ"
+      },
+      {
+        "id": "remote-shopping-dict-3",
+        "fr": "Les soldes commencent lundi.",
+        "en": "The sales start on Monday.",
+        "ipa": "le sɔld kɔ.mɑ̃s lœ̃.di"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-shopping-mean-1",
+        "fr": "Passez à la caisse, s’il vous plaît.",
+        "en": "Please go to the checkout.",
+        "choices": [
+          "Please go to the checkout.",
+          "Try this on.",
+          "Keep the bag."
+        ]
+      },
+      {
+        "id": "remote-shopping-mean-2",
+        "fr": "Quelle est votre taille ?",
+        "en": "What is your size?",
+        "choices": [
+          "What is your size?",
+          "Where is the receipt?",
+          "Do you take cash?"
+        ]
+      },
+      {
+        "id": "remote-shopping-mean-3",
+        "fr": "Puis-je faire un échange ?",
+        "en": "Can I make an exchange?",
+        "choices": [
+          "Can I make an exchange?",
+          "Is there a discount?",
+          "Where is the aisle?"
+        ]
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-shopping-fren-1",
+        "fr": "magasin",
+        "en": "shop"
+      },
+      {
+        "id": "remote-shopping-fren-2",
+        "fr": "prix",
+        "en": "price"
+      },
+      {
+        "id": "remote-shopping-fren-3",
+        "fr": "caisse",
+        "en": "checkout"
+      },
+      {
+        "id": "remote-shopping-fren-4",
+        "fr": "taille",
+        "en": "size"
+      },
+      {
+        "id": "remote-shopping-fren-5",
+        "fr": "espèces",
+        "en": "cash"
+      },
+      {
+        "id": "remote-shopping-fren-6",
+        "fr": "sac",
+        "en": "bag"
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-shopping-aloud-1",
+        "fr": "Je peux essayer ça, s’il vous plaît ?",
+        "en": "Can I try this on, please?",
+        "ipa": "ʒə pø e.sɛ.je sa sil vu plɛ"
+      },
+      {
+        "id": "remote-shopping-aloud-2",
+        "fr": "Avez-vous ça en taille moyenne ?",
+        "en": "Do you have this in a medium size?",
+        "ipa": "a.ve vu sa ɑ̃ taj mwa.jɛn"
+      },
+      {
+        "id": "remote-shopping-aloud-3",
+        "fr": "Acceptez-vous la carte bancaire ?",
+        "en": "Do you accept bank cards?",
+        "ipa": "ak.sɛp.te vu la kaʁt bɑ̃.kɛʁ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-shopping-unsc-1",
+        "fr": "Mon panier est déjà plein.",
+        "en": "My basket is already full.",
+        "words": [
+          "Mon",
+          "panier",
+          "est",
+          "déjà",
+          "plein."
+        ]
+      },
+      {
+        "id": "remote-shopping-unsc-2",
+        "fr": "Gardez votre ticket de caisse.",
+        "en": "Keep your receipt.",
+        "words": [
+          "Gardez",
+          "votre",
+          "ticket",
+          "de",
+          "caisse."
+        ]
+      }
+    ]
+  }
 }
