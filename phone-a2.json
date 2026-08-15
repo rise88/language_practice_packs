@@ -1,15 +1,19 @@
 {
   "pratiquePack": 2,
   "id": "phone-a2",
-  "version": 1,
+  "version": 2,
   "level": "a2",
   "title": {
     "fr": "Téléphone A2",
-    "en": "Phone A2"
+    "en": "Phone A2",
+    "es": "Teléfono A2",
+    "ru": "Телефон А2"
   },
   "description": {
     "fr": "Appels, messages et internet au quotidien.",
-    "en": "Calls, messages, and everyday internet use."
+    "en": "Calls, messages, and everyday internet use.",
+    "es": "Llamadas, mensajes y uso diario de Internet.",
+    "ru": "Звонки, сообщения и повседневное использование Интернета."
   },
   "seed": [
     {
@@ -20,7 +24,9 @@
       "ipa": "te.le.fɔn",
       "article": "le",
       "gloss": {
-        "en": "phone"
+        "en": "phone",
+        "es": "teléfono",
+        "ru": "телефон"
       }
     },
     {
@@ -31,7 +37,9 @@
       "ipa": "a.pɛl",
       "article": "l'",
       "gloss": {
-        "en": "call"
+        "en": "call",
+        "es": "llamar",
+        "ru": "вызов"
       }
     },
     {
@@ -42,7 +50,9 @@
       "ipa": "me.saʒ",
       "article": "le",
       "gloss": {
-        "en": "message"
+        "en": "message",
+        "es": "mensaje",
+        "ru": "сообщение"
       }
     },
     {
@@ -53,7 +63,9 @@
       "ipa": "ny.me.ʁo",
       "article": "le",
       "gloss": {
-        "en": "number"
+        "en": "number",
+        "es": "número",
+        "ru": "число"
       }
     },
     {
@@ -64,7 +76,9 @@
       "ipa": "ʁe.zo",
       "article": "le",
       "gloss": {
-        "en": "network / signal"
+        "en": "network / signal",
+        "es": "red / señal",
+        "ru": "сеть/сигнал"
       }
     },
     {
@@ -75,7 +89,9 @@
       "ipa": "wi.fi",
       "article": "le",
       "gloss": {
-        "en": "Wi-Fi"
+        "en": "Wi-Fi",
+        "es": "Wifi",
+        "ru": "Wi-Fi"
       }
     },
     {
@@ -86,7 +102,9 @@
       "ipa": "ba.tʁi",
       "article": "la",
       "gloss": {
-        "en": "battery"
+        "en": "battery",
+        "es": "batería",
+        "ru": "батарея"
       }
     },
     {
@@ -97,7 +115,9 @@
       "ipa": "ʃaʁ.ʒœʁ",
       "article": "le",
       "gloss": {
-        "en": "charger"
+        "en": "charger",
+        "es": "cargador",
+        "ru": "зарядное устройство"
       }
     },
     {
@@ -108,7 +128,9 @@
       "ipa": "e.kʁɑ̃",
       "article": "l'",
       "gloss": {
-        "en": "screen"
+        "en": "screen",
+        "es": "pantalla",
+        "ru": "экран"
       }
     },
     {
@@ -119,7 +141,9 @@
       "ipa": "a.pli.ka.sjɔ̃",
       "article": "l'",
       "gloss": {
-        "en": "app"
+        "en": "app",
+        "es": "aplicación",
+        "ru": "приложение"
       }
     },
     {
@@ -130,7 +154,9 @@
       "ipa": "mo də pas",
       "article": "le",
       "gloss": {
-        "en": "password"
+        "en": "password",
+        "es": "contraseña",
+        "ru": "пароль"
       }
     },
     {
@@ -141,7 +167,9 @@
       "ipa": "kɔ̃t",
       "article": "le",
       "gloss": {
-        "en": "account"
+        "en": "account",
+        "es": "cuenta",
+        "ru": "счет"
       }
     },
     {
@@ -152,7 +180,9 @@
       "ipa": "fɔ.to",
       "article": "la",
       "gloss": {
-        "en": "photo"
+        "en": "photo",
+        "es": "foto",
+        "ru": "фото"
       }
     },
     {
@@ -163,7 +193,9 @@
       "ipa": "vi.de.o",
       "article": "la",
       "gloss": {
-        "en": "video"
+        "en": "video",
+        "es": "video",
+        "ru": "видео"
       }
     },
     {
@@ -174,7 +206,9 @@
       "ipa": "nɔ.ti.fi.ka.sjɔ̃",
       "article": "la",
       "gloss": {
-        "en": "notification"
+        "en": "notification",
+        "es": "notificación",
+        "ru": "уведомление"
       }
     },
     {
@@ -185,7 +219,9 @@
       "ipa": "me.saʒ.ʁi",
       "article": "la",
       "gloss": {
-        "en": "voicemail / messaging"
+        "en": "voicemail / messaging",
+        "es": "correo de voz/mensajería",
+        "ru": "голосовая почта/сообщения"
       }
     },
     {
@@ -196,7 +232,9 @@
       "ipa": "fɔʁ.fɛ",
       "article": "le",
       "gloss": {
-        "en": "phone plan"
+        "en": "phone plan",
+        "es": "plan telefonico",
+        "ru": "тарифный план телефона"
       }
     },
     {
@@ -207,7 +245,9 @@
       "ipa": "dɔ.ne",
       "article": "les",
       "gloss": {
-        "en": "mobile data"
+        "en": "mobile data",
+        "es": "datos moviles",
+        "ru": "мобильные данные"
       }
     },
     {
@@ -218,7 +258,9 @@
       "ipa": "sɔn.ʁi",
       "article": "la",
       "gloss": {
-        "en": "ringtone / ringing"
+        "en": "ringtone / ringing",
+        "es": "tono de llamada / timbre",
+        "ru": "рингтон / звонок"
       }
     },
     {
@@ -229,7 +271,9 @@
       "ipa": "kɔ̃.takt",
       "article": "le",
       "gloss": {
-        "en": "contact"
+        "en": "contact",
+        "es": "contacto",
+        "ru": "контакт"
       }
     }
   ],
@@ -240,7 +284,9 @@
       "en": "Hello, I’d like to speak to Marie.",
       "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi",
       "gloss": {
-        "en": "Hello, I’d like to speak to Marie."
+        "en": "Hello, I’d like to speak to Marie.",
+        "es": "Hola, me gustaría hablar con Marie.",
+        "ru": "Здравствуйте, я хотел бы поговорить с Марией."
       }
     },
     {
@@ -249,7 +295,9 @@
       "en": "I’ll call you back in five minutes.",
       "ipa": "ʒə tə ʁa.pɛl dɑ̃ sɛ̃ mi.nyt",
       "gloss": {
-        "en": "I’ll call you back in five minutes."
+        "en": "I’ll call you back in five minutes.",
+        "es": "Te llamaré en cinco minutos.",
+        "ru": "Я перезвоню тебе через пять минут."
       }
     },
     {
@@ -258,7 +306,9 @@
       "en": "There’s no signal here.",
       "ipa": "il nja pa də ʁe.zo i.si",
       "gloss": {
-        "en": "There’s no signal here."
+        "en": "There’s no signal here.",
+        "es": "Aquí no hay señal.",
+        "ru": "Здесь нет сигнала."
       }
     },
     {
@@ -267,7 +317,9 @@
       "en": "Can you send me a message?",
       "ipa": "ty pø mɑ̃.vwa.je œ̃ me.saʒ",
       "gloss": {
-        "en": "Can you send me a message?"
+        "en": "Can you send me a message?",
+        "es": "¿Puedes enviarme un mensaje?",
+        "ru": "Можете ли вы отправить мне сообщение?"
       }
     },
     {
@@ -276,7 +328,9 @@
       "en": "I’ve forgotten my password.",
       "ipa": "ʒe u.bli.je mɔ̃ mo də pas",
       "gloss": {
-        "en": "I’ve forgotten my password."
+        "en": "I’ve forgotten my password.",
+        "es": "He olvidado mi contraseña.",
+        "ru": "Я забыл свой пароль."
       }
     },
     {
@@ -285,7 +339,9 @@
       "en": "The Wi-Fi isn’t working.",
       "ipa": "lə wi.fi nə maʁʃ pa",
       "gloss": {
-        "en": "The Wi-Fi isn’t working."
+        "en": "The Wi-Fi isn’t working.",
+        "es": "El wifi no funciona.",
+        "ru": "Wi-Fi не работает."
       }
     }
   ],
@@ -303,10 +359,14 @@
         "Bonjour"
       ],
       "gloss": {
-        "en": "Hello, I’d like to speak to Marie, please."
+        "en": "Hello, I’d like to speak to Marie, please.",
+        "es": "Hola, me gustaría hablar con Marie, por favor.",
+        "ru": "Здравствуйте, я хотел бы поговорить с Мари, пожалуйста."
       },
       "wordGloss": {
-        "en": "hello (phone)"
+        "en": "hello (phone)",
+        "es": "hola (teléfono)",
+        "ru": "здравствуйте (телефон)"
       }
     },
     {
@@ -322,10 +382,14 @@
         "écran"
       ],
       "gloss": {
-        "en": "There’s no signal on the metro."
+        "en": "There’s no signal on the metro.",
+        "es": "No hay señal en el metro.",
+        "ru": "В метро нет сигнала."
       },
       "wordGloss": {
-        "en": "signal"
+        "en": "signal",
+        "es": "señal",
+        "ru": "сигнал"
       }
     },
     {
@@ -341,10 +405,14 @@
         "téléphone"
       ],
       "gloss": {
-        "en": "I forgot my charger at home."
+        "en": "I forgot my charger at home.",
+        "es": "Olvidé mi cargador en casa.",
+        "ru": "Я забыл зарядное устройство дома."
       },
       "wordGloss": {
-        "en": "charger"
+        "en": "charger",
+        "es": "cargador",
+        "ru": "зарядное устройство"
       }
     },
     {
@@ -360,10 +428,14 @@
         "compte"
       ],
       "gloss": {
-        "en": "The Wi-Fi isn’t working in this room."
+        "en": "The Wi-Fi isn’t working in this room.",
+        "es": "El Wi-Fi no funciona en esta habitación.",
+        "ru": "В этой комнате не работает Wi-Fi."
       },
       "wordGloss": {
-        "en": "Wi-Fi"
+        "en": "Wi-Fi",
+        "es": "Wifi",
+        "ru": "Wi-Fi"
       }
     }
   ],
@@ -378,10 +450,15 @@
       "id": "remote-phone-grammar-1",
       "title": {
         "fr": "Pouvoir / vouloir au téléphone",
-        "en": "Pouvoir and vouloir on the phone"
+        "en": "Pouvoir and vouloir on the phone",
+        "es": "Pouvoir y vouloir al teléfono",
+        "ru": "Пувуар и вуруар по телефону"
       },
       "rule": {
-        "fr": "Pouvoir et vouloir sont très utiles : Tu peux me rappeler ? Je voudrais parler à… Formes : je peux, tu peux, il peut ; je veux / je voudrais (plus poli)."
+        "fr": "Pouvoir et vouloir sont très utiles : Tu peux me rappeler ? Je voudrais parler à… Formes : je peux, tu peux, il peut ; je veux / je voudrais (plus poli).",
+        "en": "Being able and wanting are very useful: Can you call me back? I would like to speak to... Forms: I can, you can, he can; I want / I would like (more polite).",
+        "es": "Poder y querer son muy útiles: ¿Puedes devolverme la llamada? Me gustaría hablar con... Formas: Yo puedo, tú puedes, él puede; Quiero/me gustaría (más educado).",
+        "ru": "Уметь и хотеть очень полезно: Ты можешь мне перезвонить? Я хотел бы поговорить с... Формы: Я могу, ты можешь, он может; Я хочу/мне хотелось бы (более вежливо)."
       },
       "table": [
         [
@@ -442,16 +519,25 @@
           ]
         }
       ],
-      "why": {}
+      "why": {
+        "en": "Useful when you need to apply: Pouvoir and vouloir on the phone.",
+        "es": "Útil cuando necesitas aplicar: Pouvoir y vouloir en el teléfono.",
+        "ru": "Полезно, когда нужно подать заявку: Pouvoir и vuloir по телефону."
+      }
     },
     {
       "id": "remote-phone-grammar-2",
       "title": {
         "fr": "Ne… pas avec les appareils",
-        "en": "Negation with devices"
+        "en": "Negation with devices",
+        "es": "Negación con dispositivos",
+        "ru": "Отрицание с устройствами"
       },
       "rule": {
-        "fr": "Ne… pas encadre le verbe : Le wifi ne marche pas. Je n’ai pas de réseau. Devant une voyelle, ne devient n’ : Je n’ai pas."
+        "fr": "Ne… pas encadre le verbe : Le wifi ne marche pas. Je n’ai pas de réseau. Devant une voyelle, ne devient n’ : Je n’ai pas.",
+        "en": "Don’t… frame the verb: The wifi doesn’t work. I don't have a network. Before a vowel, ne becomes n’: I don’t have.",
+        "es": "No… encuadres el verbo: El wifi no funciona. No tengo una red. Antes de vocal, ne se convierte en n’: no tengo.",
+        "ru": "Не… формулируйте глагол: Wi-Fi не работает. У меня нет сети. Перед гласной ne превращается в n’: у меня нет."
       },
       "table": [
         [
@@ -512,7 +598,11 @@
           ]
         }
       ],
-      "why": {}
+      "why": {
+        "en": "Useful when you need to apply: Negation with devices.",
+        "es": "Útil cuando necesitas aplicar: Negación con dispositivos.",
+        "ru": "Полезно, когда нужно применить: Отрицание с устройствами."
+      }
     }
   ],
   "skills": {
@@ -523,7 +613,9 @@
         "en": "Hello, I’d like to speak to Marie.",
         "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi",
         "gloss": {
-          "en": "Hello, I’d like to speak to Marie."
+          "en": "Hello, I’d like to speak to Marie.",
+          "es": "Hola, me gustaría hablar con Marie.",
+          "ru": "Здравствуйте, я хотел бы поговорить с Марией."
         }
       },
       {
@@ -532,7 +624,9 @@
         "en": "I’ll call you back in five minutes.",
         "ipa": "ʒə tə ʁa.pɛl dɑ̃ sɛ̃ mi.nyt",
         "gloss": {
-          "en": "I’ll call you back in five minutes."
+          "en": "I’ll call you back in five minutes.",
+          "es": "Te llamaré en cinco minutos.",
+          "ru": "Я перезвоню тебе через пять минут."
         }
       },
       {
@@ -541,7 +635,9 @@
         "en": "There’s no signal here.",
         "ipa": "il nja pa də ʁe.zo i.si",
         "gloss": {
-          "en": "There’s no signal here."
+          "en": "There’s no signal here.",
+          "es": "Aquí no hay señal.",
+          "ru": "Здесь нет сигнала."
         }
       }
     ],
@@ -551,7 +647,9 @@
         "fr": "Allô, je voudrais parler à Marie.",
         "en": "Hello, I’d like to speak to Marie.",
         "gloss": {
-          "en": "Hello, I’d like to speak to Marie."
+          "en": "Hello, I’d like to speak to Marie.",
+          "es": "Hola, me gustaría hablar con Marie.",
+          "ru": "Здравствуйте, я хотел бы поговорить с Марией."
         }
       },
       {
@@ -559,7 +657,9 @@
         "fr": "Je te rappelle dans cinq minutes.",
         "en": "I’ll call you back in five minutes.",
         "gloss": {
-          "en": "I’ll call you back in five minutes."
+          "en": "I’ll call you back in five minutes.",
+          "es": "Te llamaré en cinco minutos.",
+          "ru": "Я перезвоню тебе через пять минут."
         }
       },
       {
@@ -567,7 +667,9 @@
         "fr": "Il n’y a pas de réseau ici.",
         "en": "There’s no signal here.",
         "gloss": {
-          "en": "There’s no signal here."
+          "en": "There’s no signal here.",
+          "es": "Aquí no hay señal.",
+          "ru": "Здесь нет сигнала."
         }
       }
     ],
@@ -577,7 +679,9 @@
         "fr": "téléphone",
         "en": "phone",
         "gloss": {
-          "en": "phone"
+          "en": "phone",
+          "es": "teléfono",
+          "ru": "телефон"
         }
       },
       {
@@ -585,7 +689,9 @@
         "fr": "appel",
         "en": "call",
         "gloss": {
-          "en": "call"
+          "en": "call",
+          "es": "llamar",
+          "ru": "вызов"
         }
       },
       {
@@ -593,7 +699,9 @@
         "fr": "message",
         "en": "message",
         "gloss": {
-          "en": "message"
+          "en": "message",
+          "es": "mensaje",
+          "ru": "сообщение"
         }
       },
       {
@@ -601,7 +709,9 @@
         "fr": "numéro",
         "en": "number",
         "gloss": {
-          "en": "number"
+          "en": "number",
+          "es": "número",
+          "ru": "число"
         }
       },
       {
@@ -609,7 +719,9 @@
         "fr": "réseau",
         "en": "network",
         "gloss": {
-          "en": "network"
+          "en": "network",
+          "es": "red",
+          "ru": "сеть"
         }
       },
       {
@@ -617,7 +729,9 @@
         "fr": "wifi",
         "en": "Wi-Fi",
         "gloss": {
-          "en": "Wi-Fi"
+          "en": "Wi-Fi",
+          "es": "Wifi",
+          "ru": "Wi-Fi"
         }
       }
     ],
@@ -628,7 +742,9 @@
         "en": "Hello, I’d like to speak to Marie.",
         "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi",
         "gloss": {
-          "en": "Hello, I’d like to speak to Marie."
+          "en": "Hello, I’d like to speak to Marie.",
+          "es": "Hola, me gustaría hablar con Marie.",
+          "ru": "Здравствуйте, я хотел бы поговорить с Марией."
         }
       },
       {
@@ -637,7 +753,9 @@
         "en": "There’s no signal here.",
         "ipa": "il nja pa də ʁe.zo i.si",
         "gloss": {
-          "en": "There’s no signal here."
+          "en": "There’s no signal here.",
+          "es": "Aquí no hay señal.",
+          "ru": "Здесь нет сигнала."
         }
       },
       {
@@ -646,7 +764,9 @@
         "en": "I’ve forgotten my password.",
         "ipa": "ʒe u.bli.je mɔ̃ mo də pas",
         "gloss": {
-          "en": "I’ve forgotten my password."
+          "en": "I’ve forgotten my password.",
+          "es": "He olvidado mi contraseña.",
+          "ru": "Я забыл свой пароль."
         }
       }
     ],
@@ -664,7 +784,9 @@
           "?"
         ],
         "gloss": {
-          "en": "Can you send me a message?"
+          "en": "Can you send me a message?",
+          "es": "¿Puedes enviarme un mensaje?",
+          "ru": "Можете ли вы отправить мне сообщение?"
         }
       },
       {
@@ -680,7 +802,9 @@
           "passe."
         ],
         "gloss": {
-          "en": "I’ve forgotten my password."
+          "en": "I’ve forgotten my password.",
+          "es": "He olvidado mi contraseña.",
+          "ru": "Я забыл свой пароль."
         }
       }
     ]
