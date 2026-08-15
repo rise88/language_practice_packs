@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "geopolitics-c2",
-  "version": 1,
+  "version": 2,
   "level": "c2",
   "title": {
     "fr": "Géopolitique C2",
-    "en": "Geopolitics C2"
+    "en": "Geopolitics C2",
+    "es": "Geopolítica C2",
+    "ru": "Геополитика C2"
   },
   "description": {
     "fr": "Hégémonie, dissuasion et multipolarité pour lire les rapports de puissance.",
-    "en": "Hegemony, deterrence, and multipolarity for reading power relations."
+    "en": "Hegemony, deterrence, and multipolarity for reading power relations.",
+    "es": "Hegemonía, disuasión y multipolaridad para leer las relaciones de poder.",
+    "ru": "Гегемония, сдерживание и многополярность для прочтения властных отношений."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "hegemony",
       "example": "L’hégémonie, Gramsci l’avait vu, ne se réduit pas à la contrainte : elle exige le consentement.",
       "ipa": "e.ʒe.mɔ.ni",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "hegemony",
+        "es": "hegemonía",
+        "ru": "гегемония"
+      }
     },
     {
       "id": "remote-geopolitics-c2-2",
@@ -26,7 +35,12 @@
       "en": "sphere of influence",
       "example": "Aussi cette sphère d’influence ne saurait-elle se concevoir hors des voies commerciales qui la nourrissent.",
       "ipa": "sfɛʁ dɛ̃.fly.ɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "sphere of influence",
+        "es": "esfera de influencia",
+        "ru": "сфера влияния"
+      }
     },
     {
       "id": "remote-geopolitics-c2-3",
@@ -34,7 +48,12 @@
       "en": "realpolitik",
       "example": "La realpolitik, indifférente aux professions de foi, ne pèse que les rapports de force.",
       "ipa": "ʁe.al.pɔ.li.tik",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "realpolitik",
+        "es": "realpolitik",
+        "ru": "реальная политика"
+      }
     },
     {
       "id": "remote-geopolitics-c2-4",
@@ -42,7 +61,12 @@
       "en": "deterrence",
       "example": "La dissuasion nucléaire repose moins sur l’emploi de la force que sur la crédibilité de sa menace.",
       "ipa": "di.sɥa.zjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "deterrence",
+        "es": "disuasión",
+        "ru": "сдерживание"
+      }
     },
     {
       "id": "remote-geopolitics-c2-5",
@@ -50,7 +74,12 @@
       "en": "multipolarity",
       "example": "La multipolarité, loin d’apaiser le système, en multiplie les lignes de friction.",
       "ipa": "myl.ti.pɔ.la.ʁi.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "multipolarity",
+        "es": "multipolaridad",
+        "ru": "многополярность"
+      }
     },
     {
       "id": "remote-geopolitics-c2-6",
@@ -58,7 +87,12 @@
       "en": "sovereignty",
       "example": "La souveraineté westphalienne, fissurée par les régimes de sanctions, n’en demeure pas moins le langage du droit.",
       "ipa": "su.vʁɛ.nə.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "sovereignty",
+        "es": "soberanía",
+        "ru": "суверенитет"
+      }
     },
     {
       "id": "remote-geopolitics-c2-7",
@@ -66,7 +100,12 @@
       "en": "irredentism",
       "example": "L’irrédentisme revendique, au nom d’une continuité ethnique, des territoires déjà constitués en États.",
       "ipa": "i.ʁe.dɑ̃.tism",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "irredentism",
+        "es": "irredentismo",
+        "ru": "ирредентизм"
+      }
     },
     {
       "id": "remote-geopolitics-c2-8",
@@ -74,7 +113,12 @@
       "en": "thalassocracy",
       "example": "La thalassocratie projette sa puissance par la maîtrise des détroits et des routes maritimes.",
       "ipa": "ta.la.sɔ.kʁa.si",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "thalassocracy",
+        "es": "talasocracia",
+        "ru": "талассократия"
+      }
     },
     {
       "id": "remote-geopolitics-c2-9",
@@ -82,7 +126,12 @@
       "en": "containment",
       "example": "L’endiguement, doctrine de guerre froide, visait à circonscrire une influence sans l’affronter de front.",
       "ipa": "ɑ̃.diɡ.mɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "containment",
+        "es": "contención",
+        "ru": "сдерживание"
+      }
     },
     {
       "id": "remote-geopolitics-c2-10",
@@ -90,7 +139,12 @@
       "en": "buffer glacis",
       "example": "Le glacis, chaîne d’États soumis, protégeait le centre impérial d’une invasion trop brusque.",
       "ipa": "ɡla.si",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "buffer glacis",
+        "es": "glacis amortiguador",
+        "ru": "буферный гласис"
+      }
     },
     {
       "id": "remote-geopolitics-c2-11",
@@ -98,7 +152,12 @@
       "en": "unipolarity",
       "example": "L’unipolarité, moment bref après 1991, donna le change d’un ordre sans rival.",
       "ipa": "y.ni.pɔ.la.ʁi.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "unipolarity",
+        "es": "unipolaridad",
+        "ru": "однополярность"
+      }
     },
     {
       "id": "remote-geopolitics-c2-12",
@@ -106,7 +165,12 @@
       "en": "doctrine",
       "example": "La doctrine, une fois proclamée, lie autant qu’elle éclaire : on en juge aux exceptions qu’elle tolère.",
       "ipa": "dɔk.tʁin",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "doctrine",
+        "es": "doctrina",
+        "ru": "доктрина"
+      }
     },
     {
       "id": "remote-geopolitics-c2-13",
@@ -114,7 +178,12 @@
       "en": "encirclement",
       "example": "L’encerclement, réel ou fantasmé, fournit à la puissance assiégée l’alibi de sa militarisation.",
       "ipa": "ɑ̃.sɛʁ.klə.mɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "encirclement",
+        "es": "circunvalación",
+        "ru": "окружение"
+      }
     },
     {
       "id": "remote-geopolitics-c2-14",
@@ -122,7 +191,12 @@
       "en": "non-alignment",
       "example": "Le non-alignement, loin d’être une neutralité molle, fut une stratégie d’autonomie dans un monde bipolaire.",
       "ipa": "nɔ̃.na.liɲ.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "non-alignment",
+        "es": "no alineación",
+        "ru": "неприсоединение"
+      }
     },
     {
       "id": "remote-geopolitics-c2-15",
@@ -130,7 +204,12 @@
       "en": "Westphalian order",
       "example": "L’ordre westphalien pose l’égalité formelle des souverains, fussent-ils inégaux en puissance.",
       "ipa": "ɔʁdʁ vɛst.fa.ljɛ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "Westphalian order",
+        "es": "Orden de Westfalia",
+        "ru": "Вестфальский орден"
+      }
     },
     {
       "id": "remote-geopolitics-c2-16",
@@ -138,7 +217,12 @@
       "en": "hinterland",
       "example": "Le hinterland, profondeur territoriale, nourrit la façade maritime qui le met au monde.",
       "ipa": "in.tɛʁ.lɑ̃d",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "hinterland",
+        "es": "retaguardia",
+        "ru": "внутренние районы"
+      }
     },
     {
       "id": "remote-geopolitics-c2-17",
@@ -146,7 +230,12 @@
       "en": "bipolarity",
       "example": "La bipolarité organisait le conflit en deux camps, fût-ce au prix de guerres périphériques.",
       "ipa": "bi.pɔ.la.ʁi.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "bipolarity",
+        "es": "bipolaridad",
+        "ru": "биполярность"
+      }
     },
     {
       "id": "remote-geopolitics-c2-18",
@@ -154,7 +243,12 @@
       "en": "power projection",
       "example": "La projection de puissance exige des bases, des flottes et une logistique que peu d’États maîtrisent.",
       "ipa": "pʁɔ.ʒɛk.sjɔ̃ də pɥi.sɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "power projection",
+        "es": "proyección de poder",
+        "ru": "проекция силы"
+      }
     },
     {
       "id": "remote-geopolitics-c2-19",
@@ -162,7 +256,12 @@
       "en": "buffer state",
       "example": "L’État tampon, coincé entre deux puissances, survit tant que leur équilibre tient.",
       "ipa": "e.ta tɑ̃.pɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "buffer state",
+        "es": "estado del buffer",
+        "ru": "состояние буфера"
+      }
     },
     {
       "id": "remote-geopolitics-c2-20",
@@ -170,7 +269,12 @@
       "en": "vassalization",
       "example": "La vassalisation, plus insidieuse que l’annexion, laisse subsister les apparences de la souveraineté.",
       "ipa": "va.sa.li.za.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "vassalization",
+        "es": "vasallaje",
+        "ru": "вассализация"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-geopolitics-phrase-1",
       "fr": "Aussi l’hégémonie de cette puissance ne saurait-elle se concevoir hors de sa sphère d’influence.",
       "en": "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
-      "ipa": "o.si le.ʒe.mɔ.ni də sɛt pɥi.sɑ̃s nə sɔ.ʁɛ tɛl sə kɔ̃.sə.vwaʁ ɔʁ də sa sfɛʁ dɛ̃.fly.ɑ̃s"
+      "ipa": "o.si le.ʒe.mɔ.ni də sɛt pɥi.sɑ̃s nə sɔ.ʁɛ tɛl sə kɔ̃.sə.vwaʁ ɔʁ də sa sfɛʁ dɛ̃.fly.ɑ̃s",
+      "gloss": {
+        "en": "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
+        "es": "Por tanto, la hegemonía de esta potencia difícilmente puede concebirse fuera de su esfera de influencia.",
+        "ru": "Таким образом, гегемонию этой державы вряд ли можно мыслить вне сферы ее влияния."
+      }
     },
     {
       "id": "remote-geopolitics-phrase-2",
       "fr": "Quand bien même la dissuasion resterait crédible, elle n’abolirait pas les conflits périphériques.",
       "en": "Even if deterrence remained credible, it would not abolish peripheral conflicts.",
-      "ipa": "kɑ̃ bjɛ̃ mɛm la di.sɥa.zjɔ̃ ʁɛs.tə.ʁɛ kʁe.dibl ɛl na.bɔ.li.ʁɛ pa le kɔ̃.fli pe.ʁi.fe.ʁik"
+      "ipa": "kɑ̃ bjɛ̃ mɛm la di.sɥa.zjɔ̃ ʁɛs.tə.ʁɛ kʁe.dibl ɛl na.bɔ.li.ʁɛ pa le kɔ̃.fli pe.ʁi.fe.ʁik",
+      "gloss": {
+        "en": "Even if deterrence remained credible, it would not abolish peripheral conflicts.",
+        "es": "Incluso si la disuasión siguiera siendo creíble, no aboliría los conflictos periféricos.",
+        "ru": "Даже если сдерживание останется заслуживающим доверия, оно не устранит периферийные конфликты."
+      }
     },
     {
       "id": "remote-geopolitics-phrase-3",
       "fr": "La realpolitik, objectera-t-on, n’est que le nom savant de l’opportunisme.",
       "en": "Realpolitik, one will object, is merely the learned name of opportunism.",
-      "ipa": "la ʁe.al.pɔ.li.tik ɔb.ʒɛk.tə.ʁa tɔ̃ nɛ kə lə nɔ̃ sa.vɑ̃ də lɔ.pɔʁ.ty.nism"
+      "ipa": "la ʁe.al.pɔ.li.tik ɔb.ʒɛk.tə.ʁa tɔ̃ nɛ kə lə nɔ̃ sa.vɑ̃ də lɔ.pɔʁ.ty.nism",
+      "gloss": {
+        "en": "Realpolitik, one will object, is merely the learned name of opportunism.",
+        "es": "Se objetará que la realpolitik es simplemente el nombre erudito del oportunismo.",
+        "ru": "Кто-то может возразить, что Realpolitik — это всего лишь ученое название оппортунизма."
+      }
     },
     {
       "id": "remote-geopolitics-phrase-4",
       "fr": "Encore que la multipolarité fût célébrée comme un progrès, elle en multiplia les lignes de friction.",
       "en": "Even though multipolarity was celebrated as progress, it multiplied the lines of friction.",
-      "ipa": "ɑ̃.kɔʁ kə la myl.ti.pɔ.la.ʁi.te fy se.le.bʁe kɔ.mœ̃ pʁɔ.ɡʁɛ ɛl ɑ̃ myl.ti.plja le liɲ də fʁik.sjɔ̃"
+      "ipa": "ɑ̃.kɔʁ kə la myl.ti.pɔ.la.ʁi.te fy se.le.bʁe kɔ.mœ̃ pʁɔ.ɡʁɛ ɛl ɑ̃ myl.ti.plja le liɲ də fʁik.sjɔ̃",
+      "gloss": {
+        "en": "Even though multipolarity was celebrated as progress, it multiplied the lines of friction.",
+        "es": "Aunque la multipolaridad fue celebrada como un progreso, multiplicó las líneas de fricción.",
+        "ru": "Несмотря на то, что многополярность прославлялась как прогресс, она увеличивала количество линий трения."
+      }
     },
     {
       "id": "remote-geopolitics-phrase-5",
       "fr": "Sans doute l’endiguement visait-il moins la victoire que la circonscription d’une influence.",
       "en": "Doubtless containment aimed less at victory than at fencing in an influence.",
-      "ipa": "sɑ̃ dut ɑ̃.diɡ.mɑ̃ vi.zɛ til mwɛ̃ la vik.twaʁ kə la siʁ.kɔ̃s.kʁip.sjɔ̃ dyn ɛ̃.fly.ɑ̃s"
+      "ipa": "sɑ̃ dut ɑ̃.diɡ.mɑ̃ vi.zɛ til mwɛ̃ la vik.twaʁ kə la siʁ.kɔ̃s.kʁip.sjɔ̃ dyn ɛ̃.fly.ɑ̃s",
+      "gloss": {
+        "en": "Doubtless containment aimed less at victory than at fencing in an influence.",
+        "es": "Sin duda, la contención apuntaba menos a la victoria que a proteger una influencia.",
+        "ru": "Несомненно, сдерживание было направлено не столько на победу, сколько на ограждение влияния."
+      }
     },
     {
       "id": "remote-geopolitics-phrase-6",
       "fr": "L’État tampon ne survit qu’aussi longtemps que l’équilibre des puissances voisines tient.",
       "en": "The buffer state survives only as long as the neighbouring powers’ balance holds.",
-      "ipa": "le.ta tɑ̃.pɔ̃ nə syʁ.vi ko.si lɔ̃.tɑ̃ kə le.ki.libʁ de pɥi.sɑ̃s vwa.zin tjɛ̃"
+      "ipa": "le.ta tɑ̃.pɔ̃ nə syʁ.vi ko.si lɔ̃.tɑ̃ kə le.ki.libʁ de pɥi.sɑ̃s vwa.zin tjɛ̃",
+      "gloss": {
+        "en": "The buffer state survives only as long as the neighbouring powers’ balance holds.",
+        "es": "El Estado tapón sobrevive sólo mientras se mantenga el equilibrio entre las potencias vecinas.",
+        "ru": "Буферное государство существует только до тех пор, пока сохраняется баланс соседних держав."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "dissuasion",
         "vassalisation",
         "unipolarité"
-      ]
+      ],
+      "gloss": {
+        "en": "Hegemony does not require coercion alone: it requires consent.",
+        "es": "La hegemonía no requiere sólo coerción: requiere consentimiento.",
+        "ru": "Гегемония требует не только принуждения: она требует согласия."
+      },
+      "wordGloss": {
+        "en": "hegemony",
+        "es": "hegemonía",
+        "ru": "гегемония"
+      }
     },
     {
       "id": "remote-geopolitics-listen-2",
@@ -236,7 +380,17 @@
         "projection de puissance",
         "doctrine",
         "encerclement"
-      ]
+      ],
+      "gloss": {
+        "en": "Nuclear deterrence rests on the credibility of the threat, not on its use.",
+        "es": "La disuasión nuclear se basa en la credibilidad de la amenaza, no en su uso.",
+        "ru": "Ядерное сдерживание основывается на достоверности угрозы, а не на ее использовании."
+      },
+      "wordGloss": {
+        "en": "deterrence",
+        "es": "disuasión",
+        "ru": "сдерживание"
+      }
     },
     {
       "id": "remote-geopolitics-listen-3",
@@ -249,7 +403,17 @@
         "bipolarité",
         "unipolarité",
         "souveraineté"
-      ]
+      ],
+      "gloss": {
+        "en": "Multipolarity multiplies lines of friction more than it soothes the system.",
+        "es": "La multipolaridad multiplica las líneas de fricción más de lo que calma el sistema.",
+        "ru": "Многополярность больше умножает линии трения, чем успокаивает систему."
+      },
+      "wordGloss": {
+        "en": "multipolarity",
+        "es": "multipolaridad",
+        "ru": "многополярность"
+      }
     },
     {
       "id": "remote-geopolitics-listen-4",
@@ -262,7 +426,17 @@
         "hinterland",
         "glacis",
         "thalassocratie"
-      ]
+      ],
+      "gloss": {
+        "en": "This sphere of influence cannot be conceived apart from the trade routes that feed it.",
+        "es": "Esta esfera de influencia no puede concebirse al margen de las rutas comerciales que la alimentan.",
+        "ru": "Эту сферу влияния невозможно представить отдельно от торговых путей, которые ее питают."
+      },
+      "wordGloss": {
+        "en": "sphere of influence",
+        "es": "esfera de influencia",
+        "ru": "сфера влияния"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-geopolitics-grammar-1",
       "title": {
         "fr": "Le subjonctif concessif et le conditionnel",
-        "en": "Concessive subjunctive and conditional"
+        "en": "Concessive subjunctive and conditional",
+        "es": "Subjuntivo y condicional concesivo",
+        "ru": "Уступительное сослагательное наклонение и условное наклонение"
       },
-      "rule": "Bien que, encore que régissent le subjonctif : Encore que la dissuasion fût crédible… Quand bien même s’emploie souvent avec le conditionnel : Quand bien même elle resterait crédible… Le tour concessif n’annule pas l’assertion principale.",
+      "rule": {
+        "fr": "Bien que, encore que régissent le subjonctif : Encore que la dissuasion fût crédible… Quand bien même s’emploie souvent avec le conditionnel : Quand bien même elle resterait crédible… Le tour concessif n’annule pas l’assertion principale.",
+        "en": "Although, even though the subjunctive governs: Even though the deterrence was credible... Even though it is often used with the conditional: Even though it would remain credible... The concessive turn does not cancel the main assertion.",
+        "es": "Aunque, aunque rige el subjuntivo: Aunque la disuasión fuera creíble... Aunque se suele utilizar con el condicional: Aunque seguiría siendo creíble... El giro concesivo no anula la afirmación principal.",
+        "ru": "Хотя, хотя сослагательное наклонение правит: Даже если сдерживание было правдоподобным... Хотя оно часто используется с условным: Даже если оно останется правдоподобным... Уступительный поворот не отменяет основного утверждения."
+      },
       "table": [
         [
           "Tour",
@@ -337,15 +518,27 @@
             "saura"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Concessive subjunctive and conditional.",
+        "es": "Útil cuando necesitas aplicar: Subjuntivo concesivo y condicional.",
+        "ru": "Полезно, когда нужно применить: Уступительное сослагательное наклонение и условное наклонение."
+      }
     },
     {
       "id": "remote-geopolitics-grammar-2",
       "title": {
         "fr": "L’inversion après aussi, sans doute, peut-être",
-        "en": "Inversion after aussi, sans doute, peut-être"
+        "en": "Inversion after aussi, sans doute, peut-être",
+        "es": "Inversión después de aussi, sans doute, peut-être",
+        "ru": "Инверсия после aussi, sans doute, peut-etre"
       },
-      "rule": "Dans le registre soutenu de l’essai géopolitique, aussi, sans doute, peut-être déclenchent l’inversion du sujet clitique : Aussi ne saurait-elle… Sans doute visait-il… Ce tour n’est pas une question.",
+      "rule": {
+        "fr": "Dans le registre soutenu de l’essai géopolitique, aussi, sans doute, peut-être déclenchent l’inversion du sujet clitique : Aussi ne saurait-elle… Sans doute visait-il… Ce tour n’est pas une question.",
+        "en": "In the sustained register of the geopolitical essay, also, without doubt, perhaps trigger the inversion of the clitic subject: So she could not know... No doubt he was aiming... This turn is not a question.",
+        "es": "En el registro sostenido del ensayo geopolítico, también, sin duda, quizás desencadene la inversión del sujeto clítico: Entonces ella no podía saber... Sin duda él apuntaba... Este giro no es una pregunta.",
+        "ru": "В устойчивом регистре геополитического эссе, без сомнения, также может возникнуть инверсия клитического субъекта: Значит, она не могла знать... Без сомнения, он целился... Этот поворот не является вопросом."
+      },
       "table": [
         [
           "Amorce",
@@ -394,7 +587,12 @@
             "ne peut pas"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Inversion after aussi, sans doute, peut-être.",
+        "es": "Útil cuando es necesario aplicar: Inversión después de aussi, sans doute, peut-être.",
+        "ru": "Полезно, когда нужно применить: Инверсию после aussi, sans doute, peut-être."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-geopolitics-dict-1",
         "fr": "Aussi l’hégémonie de cette puissance ne saurait-elle se concevoir hors de sa sphère d’influence.",
         "en": "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
-        "ipa": "o.si le.ʒe.mɔ.ni də sɛt pɥi.sɑ̃s nə sɔ.ʁɛ tɛl sə kɔ̃.sə.vwaʁ ɔʁ də sa sfɛʁ dɛ̃.fly.ɑ̃s"
+        "ipa": "o.si le.ʒe.mɔ.ni də sɛt pɥi.sɑ̃s nə sɔ.ʁɛ tɛl sə kɔ̃.sə.vwaʁ ɔʁ də sa sfɛʁ dɛ̃.fly.ɑ̃s",
+        "gloss": {
+          "en": "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
+          "es": "Por tanto, la hegemonía de esta potencia difícilmente puede concebirse fuera de su esfera de influencia.",
+          "ru": "Таким образом, гегемонию этой державы вряд ли можно мыслить вне сферы ее влияния."
+        }
       },
       {
         "id": "remote-geopolitics-dict-2",
         "fr": "Quand bien même la dissuasion resterait crédible, elle n’abolirait pas les conflits périphériques.",
         "en": "Even if deterrence remained credible, it would not abolish peripheral conflicts.",
-        "ipa": "kɑ̃ bjɛ̃ mɛm la di.sɥa.zjɔ̃ ʁɛs.tə.ʁɛ kʁe.dibl ɛl na.bɔ.li.ʁɛ pa le kɔ̃.fli pe.ʁi.fe.ʁik"
+        "ipa": "kɑ̃ bjɛ̃ mɛm la di.sɥa.zjɔ̃ ʁɛs.tə.ʁɛ kʁe.dibl ɛl na.bɔ.li.ʁɛ pa le kɔ̃.fli pe.ʁi.fe.ʁik",
+        "gloss": {
+          "en": "Even if deterrence remained credible, it would not abolish peripheral conflicts.",
+          "es": "Incluso si la disuasión siguiera siendo creíble, no aboliría los conflictos periféricos.",
+          "ru": "Даже если сдерживание останется заслуживающим доверия, оно не устранит периферийные конфликты."
+        }
       },
       {
         "id": "remote-geopolitics-dict-3",
         "fr": "La realpolitik, objectera-t-on, n’est que le nom savant de l’opportunisme.",
         "en": "Realpolitik, one will object, is merely the learned name of opportunism.",
-        "ipa": "la ʁe.al.pɔ.li.tik ɔb.ʒɛk.tə.ʁa tɔ̃ nɛ kə lə nɔ̃ sa.vɑ̃ də lɔ.pɔʁ.ty.nism"
+        "ipa": "la ʁe.al.pɔ.li.tik ɔb.ʒɛk.tə.ʁa tɔ̃ nɛ kə lə nɔ̃ sa.vɑ̃ də lɔ.pɔʁ.ty.nism",
+        "gloss": {
+          "en": "Realpolitik, one will object, is merely the learned name of opportunism.",
+          "es": "Se objetará que la realpolitik es simplemente el nombre erudito del oportunismo.",
+          "ru": "Кто-то может возразить, что Realpolitik — это всего лишь ученое название оппортунизма."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-geopolitics-mean-1",
         "fr": "Aussi l’hégémonie de cette puissance ne saurait-elle se concevoir hors de sa sphère d’influence.",
         "en": "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
-        "choices": [
-          "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
-          "Even if deterrence remained credible, it would not abolish peripheral conflicts.",
-          "Realpolitik, one will object, is merely the learned name of opportunism."
-        ]
+        "gloss": {
+          "en": "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
+          "es": "Por tanto, la hegemonía de esta potencia difícilmente puede concebirse fuera de su esfera de influencia.",
+          "ru": "Таким образом, гегемонию этой державы вряд ли можно мыслить вне сферы ее влияния."
+        }
       },
       {
         "id": "remote-geopolitics-mean-2",
         "fr": "Quand bien même la dissuasion resterait crédible, elle n’abolirait pas les conflits périphériques.",
         "en": "Even if deterrence remained credible, it would not abolish peripheral conflicts.",
-        "choices": [
-          "Even if deterrence remained credible, it would not abolish peripheral conflicts.",
-          "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
-          "Realpolitik, one will object, is merely the learned name of opportunism."
-        ]
+        "gloss": {
+          "en": "Even if deterrence remained credible, it would not abolish peripheral conflicts.",
+          "es": "Incluso si la disuasión siguiera siendo creíble, no aboliría los conflictos periféricos.",
+          "ru": "Даже если сдерживание останется заслуживающим доверия, оно не устранит периферийные конфликты."
+        }
       },
       {
         "id": "remote-geopolitics-mean-3",
         "fr": "La realpolitik, objectera-t-on, n’est que le nom savant de l’opportunisme.",
         "en": "Realpolitik, one will object, is merely the learned name of opportunism.",
-        "choices": [
-          "Realpolitik, one will object, is merely the learned name of opportunism.",
-          "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
-          "Even if deterrence remained credible, it would not abolish peripheral conflicts."
-        ]
+        "gloss": {
+          "en": "Realpolitik, one will object, is merely the learned name of opportunism.",
+          "es": "Se objetará que la realpolitik es simplemente el nombre erudito del oportunismo.",
+          "ru": "Кто-то может возразить, что Realpolitik — это всего лишь ученое название оппортунизма."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-geopolitics-fren-1",
         "fr": "hégémonie",
-        "en": "hegemony"
+        "en": "hegemony",
+        "gloss": {
+          "en": "hegemony",
+          "es": "hegemonía",
+          "ru": "гегемония"
+        }
       },
       {
         "id": "remote-geopolitics-fren-2",
         "fr": "sphère d’influence",
-        "en": "sphere of influence"
+        "en": "sphere of influence",
+        "gloss": {
+          "en": "sphere of influence",
+          "es": "esfera de influencia",
+          "ru": "сфера влияния"
+        }
       },
       {
         "id": "remote-geopolitics-fren-3",
         "fr": "realpolitik",
-        "en": "realpolitik"
+        "en": "realpolitik",
+        "gloss": {
+          "en": "realpolitik",
+          "es": "realpolitik",
+          "ru": "реальная политика"
+        }
       },
       {
         "id": "remote-geopolitics-fren-4",
         "fr": "dissuasion",
-        "en": "deterrence"
+        "en": "deterrence",
+        "gloss": {
+          "en": "deterrence",
+          "es": "disuasión",
+          "ru": "сдерживание"
+        }
       },
       {
         "id": "remote-geopolitics-fren-5",
         "fr": "multipolarité",
-        "en": "multipolarity"
+        "en": "multipolarity",
+        "gloss": {
+          "en": "multipolarity",
+          "es": "multipolaridad",
+          "ru": "многополярность"
+        }
       },
       {
         "id": "remote-geopolitics-fren-6",
         "fr": "souveraineté",
-        "en": "sovereignty"
+        "en": "sovereignty",
+        "gloss": {
+          "en": "sovereignty",
+          "es": "soberanía",
+          "ru": "суверенитет"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-geopolitics-aloud-1",
         "fr": "Aussi l’hégémonie de cette puissance ne saurait-elle se concevoir hors de sa sphère d’influence.",
         "en": "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
-        "ipa": "o.si le.ʒe.mɔ.ni də sɛt pɥi.sɑ̃s nə sɔ.ʁɛ tɛl sə kɔ̃.sə.vwaʁ ɔʁ də sa sfɛʁ dɛ̃.fly.ɑ̃s"
+        "ipa": "o.si le.ʒe.mɔ.ni də sɛt pɥi.sɑ̃s nə sɔ.ʁɛ tɛl sə kɔ̃.sə.vwaʁ ɔʁ də sa sfɛʁ dɛ̃.fly.ɑ̃s",
+        "gloss": {
+          "en": "Thus this power’s hegemony can hardly be conceived outside its sphere of influence.",
+          "es": "Por tanto, la hegemonía de esta potencia difícilmente puede concebirse fuera de su esfera de influencia.",
+          "ru": "Таким образом, гегемонию этой державы вряд ли можно мыслить вне сферы ее влияния."
+        }
       },
       {
         "id": "remote-geopolitics-aloud-2",
         "fr": "La realpolitik, objectera-t-on, n’est que le nom savant de l’opportunisme.",
         "en": "Realpolitik, one will object, is merely the learned name of opportunism.",
-        "ipa": "la ʁe.al.pɔ.li.tik ɔb.ʒɛk.tə.ʁa tɔ̃ nɛ kə lə nɔ̃ sa.vɑ̃ də lɔ.pɔʁ.ty.nism"
+        "ipa": "la ʁe.al.pɔ.li.tik ɔb.ʒɛk.tə.ʁa tɔ̃ nɛ kə lə nɔ̃ sa.vɑ̃ də lɔ.pɔʁ.ty.nism",
+        "gloss": {
+          "en": "Realpolitik, one will object, is merely the learned name of opportunism.",
+          "es": "Se objetará que la realpolitik es simplemente el nombre erudito del oportunismo.",
+          "ru": "Кто-то может возразить, что Realpolitik — это всего лишь ученое название оппортунизма."
+        }
       },
       {
         "id": "remote-geopolitics-aloud-3",
         "fr": "Sans doute l’endiguement visait-il moins la victoire que la circonscription d’une influence.",
         "en": "Doubtless containment aimed less at victory than at fencing in an influence.",
-        "ipa": "sɑ̃ dut ɑ̃.diɡ.mɑ̃ vi.zɛ til mwɛ̃ la vik.twaʁ kə la siʁ.kɔ̃s.kʁip.sjɔ̃ dyn ɛ̃.fly.ɑ̃s"
+        "ipa": "sɑ̃ dut ɑ̃.diɡ.mɑ̃ vi.zɛ til mwɛ̃ la vik.twaʁ kə la siʁ.kɔ̃s.kʁip.sjɔ̃ dyn ɛ̃.fly.ɑ̃s",
+        "gloss": {
+          "en": "Doubtless containment aimed less at victory than at fencing in an influence.",
+          "es": "Sin duda, la contención apuntaba menos a la victoria que a proteger una influencia.",
+          "ru": "Несомненно, сдерживание было направлено не столько на победу, сколько на ограждение влияния."
+        }
       }
     ],
     "unscramble": [
@@ -520,7 +778,12 @@
           "lignes",
           "de",
           "friction."
-        ]
+        ],
+        "gloss": {
+          "en": "Multipolarity, far from calming the system, multiplies its lines of friction.",
+          "es": "La multipolaridad, lejos de calmar el sistema, multiplica sus líneas de fricción.",
+          "ru": "Многополярность не только не успокаивает систему, но и умножает линии трения."
+        }
       },
       {
         "id": "remote-geopolitics-unsc-2",
@@ -544,7 +807,12 @@
           "langage",
           "du",
           "droit."
-        ]
+        ],
+        "gloss": {
+          "en": "Westphalian sovereignty, cracked by sanctions regimes, remains nonetheless the language of law.",
+          "es": "La soberanía de Westfalia, quebrantada por los regímenes de sanciones, sigue siendo, no obstante, el lenguaje de la ley.",
+          "ru": "Вестфальский суверенитет, подорванный санкционными режимами, тем не менее, остается языком закона."
+        }
       }
     ]
   }

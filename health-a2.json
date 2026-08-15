@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "health-a2",
-  "version": 2,
+  "version": 3,
   "level": "a2",
   "title": {
     "fr": "Santé A2",
-    "en": "Health A2"
+    "en": "Health A2",
+    "es": "Salud A2",
+    "ru": "Здоровье А2"
   },
   "description": {
     "fr": "Symptômes, pharmacie et rendez-vous chez le médecin.",
-    "en": "Symptoms, pharmacy, and doctor’s appointment vocabulary."
+    "en": "Symptoms, pharmacy, and doctor’s appointment vocabulary.",
+    "es": "Síntomas, farmacia y vocabulario de citas médicas.",
+    "ru": "Симптомы, аптечный словарь и запись на прием к врачу."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "doctor",
       "example": "Je prends rendez-vous chez le médecin.",
       "ipa": "med.sɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "doctor",
+        "es": "doctor",
+        "ru": "врач"
+      }
     },
     {
       "id": "remote-health-a2-2",
@@ -26,7 +35,12 @@
       "en": "pharmacy",
       "example": "La pharmacie est ouverte jusqu’à vingt heures.",
       "ipa": "faʁ.ma.si",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "pharmacy",
+        "es": "farmacia",
+        "ru": "аптека"
+      }
     },
     {
       "id": "remote-health-a2-3",
@@ -34,7 +48,12 @@
       "en": "prescription",
       "example": "Voici mon ordonnance.",
       "ipa": "ɔʁ.dɔ.nɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "prescription",
+        "es": "prescripción",
+        "ru": "рецепт"
+      }
     },
     {
       "id": "remote-health-a2-4",
@@ -42,7 +61,12 @@
       "en": "medicine / medication",
       "example": "Ce médicament se prend trois fois par jour.",
       "ipa": "me.di.ka.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "medicine / medication",
+        "es": "medicina / medicación",
+        "ru": "лекарство / лекарство"
+      }
     },
     {
       "id": "remote-health-a2-5",
@@ -50,7 +74,12 @@
       "en": "pain",
       "example": "J’ai une douleur dans le dos.",
       "ipa": "du.lœʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "pain",
+        "es": "dolor",
+        "ru": "боль"
+      }
     },
     {
       "id": "remote-health-a2-6",
@@ -58,7 +87,12 @@
       "en": "fever",
       "example": "Il a de la fièvre depuis hier.",
       "ipa": "fjɛvʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "fever",
+        "es": "fiebre",
+        "ru": "высокая температура"
+      }
     },
     {
       "id": "remote-health-a2-7",
@@ -66,7 +100,12 @@
       "en": "cold (illness)",
       "example": "J’ai un rhume.",
       "ipa": "ʁym",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "cold (illness)",
+        "es": "resfriado (enfermedad)",
+        "ru": "простуда (болезнь)"
+      }
     },
     {
       "id": "remote-health-a2-8",
@@ -74,7 +113,12 @@
       "en": "cough",
       "example": "Cette toux me réveille la nuit.",
       "ipa": "tu",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "cough",
+        "es": "tos",
+        "ru": "кашель"
+      }
     },
     {
       "id": "remote-health-a2-9",
@@ -82,7 +126,12 @@
       "en": "headache",
       "example": "J’ai mal à la tête.",
       "ipa": "mal də tɛt",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "headache",
+        "es": "dolor de cabeza",
+        "ru": "головная боль"
+      }
     },
     {
       "id": "remote-health-a2-10",
@@ -90,7 +139,12 @@
       "en": "sore throat",
       "example": "Elle a mal à la gorge.",
       "ipa": "mal də ɡɔʁʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "sore throat",
+        "es": "dolor de garganta",
+        "ru": "больное горло"
+      }
     },
     {
       "id": "remote-health-a2-11",
@@ -98,7 +152,12 @@
       "en": "hospital",
       "example": "L’hôpital est à côté de la gare.",
       "ipa": "o.pi.tal",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "hospital",
+        "es": "hospital",
+        "ru": "больница"
+      }
     },
     {
       "id": "remote-health-a2-12",
@@ -106,7 +165,12 @@
       "en": "emergency",
       "example": "Appelez les urgences si besoin.",
       "ipa": "yʁ.ʒɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "emergency",
+        "es": "emergencia",
+        "ru": "чрезвычайная ситуация"
+      }
     },
     {
       "id": "remote-health-a2-13",
@@ -114,7 +178,12 @@
       "en": "appointment",
       "example": "Mon rendez-vous est à quinze heures.",
       "ipa": "ʁɑ̃.de.vu",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "appointment",
+        "es": "cita",
+        "ru": "встреча"
+      }
     },
     {
       "id": "remote-health-a2-14",
@@ -122,7 +191,12 @@
       "en": "symptom",
       "example": "Quels sont vos symptômes ?",
       "ipa": "sɛ̃p.tom",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "symptom",
+        "es": "síntoma",
+        "ru": "симптом"
+      }
     },
     {
       "id": "remote-health-a2-15",
@@ -130,7 +204,12 @@
       "en": "allergy",
       "example": "J’ai une allergie aux arachides.",
       "ipa": "a.lɛʁ.ʒi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "allergy",
+        "es": "alergia",
+        "ru": "аллергия"
+      }
     },
     {
       "id": "remote-health-a2-16",
@@ -138,7 +217,12 @@
       "en": "insurance",
       "example": "Avez-vous une assurance maladie ?",
       "ipa": "a.sy.ʁɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "insurance",
+        "es": "seguro",
+        "ru": "страхование"
+      }
     },
     {
       "id": "remote-health-a2-17",
@@ -146,7 +230,12 @@
       "en": "nurse (female)",
       "example": "L’infirmière prend ma tension.",
       "ipa": "ɛ̃.fiʁ.mjɛʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "nurse (female)",
+        "es": "enfermera (mujer)",
+        "ru": "медсестра (женщина)"
+      }
     },
     {
       "id": "remote-health-a2-18",
@@ -154,7 +243,12 @@
       "en": "injury / wound",
       "example": "La blessure n’est pas grave.",
       "ipa": "blɛ.syʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "injury / wound",
+        "es": "lesión/herida",
+        "ru": "травма/ранение"
+      }
     },
     {
       "id": "remote-health-a2-19",
@@ -162,7 +256,12 @@
       "en": "pill / tablet",
       "example": "Prenez une pilule après le repas.",
       "ipa": "pi.lyl",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "pill / tablet",
+        "es": "pastilla/tableta",
+        "ru": "таблетка/таблетка"
+      }
     },
     {
       "id": "remote-health-a2-20",
@@ -170,7 +269,12 @@
       "en": "temperature",
       "example": "Quelle est votre température ?",
       "ipa": "tɑ̃.pe.ʁa.tyʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "temperature",
+        "es": "temperatura",
+        "ru": "температура"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-health-phrase-1",
       "fr": "Je ne me sens pas bien.",
       "en": "I don’t feel well.",
-      "ipa": "ʒə nə mə sɑ̃ pa bjɛ̃"
+      "ipa": "ʒə nə mə sɑ̃ pa bjɛ̃",
+      "gloss": {
+        "en": "I don’t feel well.",
+        "es": "No me siento bien.",
+        "ru": "Я плохо себя чувствую."
+      }
     },
     {
       "id": "remote-health-phrase-2",
       "fr": "J’ai mal à la tête depuis ce matin.",
       "en": "I’ve had a headache since this morning.",
-      "ipa": "ʒe mal a la tɛt də.pɥi sə ma.tɛ̃"
+      "ipa": "ʒe mal a la tɛt də.pɥi sə ma.tɛ̃",
+      "gloss": {
+        "en": "I’ve had a headache since this morning.",
+        "es": "Tengo dolor de cabeza desde esta mañana.",
+        "ru": "С утра у меня болит голова."
+      }
     },
     {
       "id": "remote-health-phrase-3",
       "fr": "Où est la pharmacie la plus proche ?",
       "en": "Where is the nearest pharmacy?",
-      "ipa": "u ɛ la faʁ.ma.si la ply pʁɔʃ"
+      "ipa": "u ɛ la faʁ.ma.si la ply pʁɔʃ",
+      "gloss": {
+        "en": "Where is the nearest pharmacy?",
+        "es": "¿Dónde está la farmacia más cercana?",
+        "ru": "Где находится ближайшая аптека?"
+      }
     },
     {
       "id": "remote-health-phrase-4",
       "fr": "Puis-je prendre rendez-vous pour demain ?",
       "en": "Can I make an appointment for tomorrow?",
-      "ipa": "pɥi ʒə pʁɑ̃dʁ ʁɑ̃.de.vu puʁ də.mɛ̃"
+      "ipa": "pɥi ʒə pʁɑ̃dʁ ʁɑ̃.de.vu puʁ də.mɛ̃",
+      "gloss": {
+        "en": "Can I make an appointment for tomorrow?",
+        "es": "¿Puedo concertar una cita para mañana?",
+        "ru": "Могу ли я записаться на завтра?"
+      }
     },
     {
       "id": "remote-health-phrase-5",
       "fr": "Voici mon ordonnance.",
       "en": "Here is my prescription.",
-      "ipa": "vwa.si mɔ̃ nɔʁ.dɔ.nɑ̃s"
+      "ipa": "vwa.si mɔ̃ nɔʁ.dɔ.nɑ̃s",
+      "gloss": {
+        "en": "Here is my prescription.",
+        "es": "Aquí está mi receta.",
+        "ru": "Вот мой рецепт."
+      }
     },
     {
       "id": "remote-health-phrase-6",
       "fr": "J’ai une allergie aux arachides.",
       "en": "I have a peanut allergy.",
-      "ipa": "ʒe yn a.lɛʁ.ʒi o za.ʁa.ʃid"
+      "ipa": "ʒe yn a.lɛʁ.ʒi o za.ʁa.ʃid",
+      "gloss": {
+        "en": "I have a peanut allergy.",
+        "es": "Tengo alergia al maní.",
+        "ru": "У меня аллергия на арахис."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "pharmacie",
         "fièvre",
         "symptôme"
-      ]
+      ],
+      "gloss": {
+        "en": "The doctor gave me a prescription for this medicine.",
+        "es": "El médico me recetó este medicamento.",
+        "ru": "Врач выписал мне рецепт на это лекарство."
+      },
+      "wordGloss": {
+        "en": "prescription",
+        "es": "prescripción",
+        "ru": "рецепт"
+      }
     },
     {
       "id": "remote-health-listen-2",
@@ -236,7 +380,17 @@
         "rhume",
         "douleur",
         "allergie"
-      ]
+      ],
+      "gloss": {
+        "en": "She has a fever and a bad cough.",
+        "es": "Tiene fiebre y tos fuerte.",
+        "ru": "У нее температура и сильный кашель."
+      },
+      "wordGloss": {
+        "en": "fever",
+        "es": "fiebre",
+        "ru": "высокая температура"
+      }
     },
     {
       "id": "remote-health-listen-3",
@@ -249,7 +403,17 @@
         "tête",
         "dos",
         "jambe"
-      ]
+      ],
+      "gloss": {
+        "en": "I’ve had a sore throat since last night.",
+        "es": "Tengo dolor de garganta desde anoche.",
+        "ru": "Со вчерашнего вечера у меня болит горло."
+      },
+      "wordGloss": {
+        "en": "throat",
+        "es": "garganta",
+        "ru": "горло"
+      }
     },
     {
       "id": "remote-health-listen-4",
@@ -262,7 +426,17 @@
         "urgence",
         "hôpital",
         "assurance"
-      ]
+      ],
+      "gloss": {
+        "en": "My doctor’s appointment is at three o’clock.",
+        "es": "La cita con mi médico es a las tres.",
+        "ru": "Прием у моего врача назначен на три часа."
+      },
+      "wordGloss": {
+        "en": "appointment",
+        "es": "cita",
+        "ru": "встреча"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-health-grammar-1",
       "title": {
         "fr": "Avoir mal à",
-        "en": "Expressing pain"
+        "en": "Expressing pain",
+        "es": "expresando dolor",
+        "ru": "Выражение боли"
       },
-      "rule": "Pour dire où l’on a mal : avoir mal à + article + partie du corps. Attention à l’article : à la tête, au dos (à + le), aux dents (à + les).",
+      "rule": {
+        "fr": "Pour dire où l’on a mal : avoir mal à + article + partie du corps. Attention à l’article : à la tête, au dos (à + le), aux dents (à + les).",
+        "en": "To say where it hurts: to have pain in + article + part of the body. Pay attention to the article: the head, the back (to + the), the teeth (to + the).",
+        "es": "Decir dónde duele: tener dolor en + artículo + parte del cuerpo. Presta atención al artículo: la cabeza, la espalda (a + la), los dientes (a + la).",
+        "ru": "Сказать, где болит: болеть +статья + часть тела. Обратите внимание на артикль: голова, спина (к + the), зубы (к + the)."
+      },
       "table": [
         [
           "Expression",
@@ -337,15 +518,27 @@
             "aux"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Expressing pain.",
+        "es": "Útil cuando es necesario aplicar: Expresar dolor.",
+        "ru": "Полезно, когда нужно применить: Выражение боли."
+      }
     },
     {
       "id": "remote-health-grammar-2",
       "title": {
         "fr": "Depuis / pour la durée",
-        "en": "Depuis for duration"
+        "en": "Depuis for duration",
+        "es": "Después de duración",
+        "ru": "Депюи на время"
       },
-      "rule": "Depuis indique le début d’une situation qui continue : J’ai mal depuis ce matin. Pour une durée prévue dans le futur, on utilise pour : un rendez-vous pour demain.",
+      "rule": {
+        "fr": "Depuis indique le début d’une situation qui continue : J’ai mal depuis ce matin. Pour une durée prévue dans le futur, on utilise pour : un rendez-vous pour demain.",
+        "en": "Since indicates the beginning of a situation which continues: I have been in pain since this morning. For a duration planned in the future, we use for: an appointment for tomorrow.",
+        "es": "Desde entonces indica el comienzo de una situación que continúa: tengo dolores desde esta mañana. Para una duración prevista en el futuro, utilizamos para: una cita para mañana.",
+        "ru": "Поскольку указывает на начало ситуации, которая продолжается: с сегодняшнего утра я испытываю боль. Для продолжительности, запланированной на будущее, мы используем: назначение встречи на завтра."
+      },
       "table": [
         [
           "Mot",
@@ -394,7 +587,12 @@
             "pendant"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Depuis for duration.",
+        "es": "Útil cuando es necesario aplicar: Depuis por duración.",
+        "ru": "Полезно, когда нужно применить: Депюи на время действия."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-health-dict-1",
         "fr": "Je ne me sens pas bien.",
         "en": "I don’t feel well.",
-        "ipa": "ʒə nə mə sɑ̃ pa bjɛ̃"
+        "ipa": "ʒə nə mə sɑ̃ pa bjɛ̃",
+        "gloss": {
+          "en": "I don’t feel well.",
+          "es": "No me siento bien.",
+          "ru": "Я плохо себя чувствую."
+        }
       },
       {
         "id": "remote-health-dict-2",
         "fr": "J’ai mal à la tête depuis ce matin.",
         "en": "I’ve had a headache since this morning.",
-        "ipa": "ʒe mal a la tɛt də.pɥi sə ma.tɛ̃"
+        "ipa": "ʒe mal a la tɛt də.pɥi sə ma.tɛ̃",
+        "gloss": {
+          "en": "I’ve had a headache since this morning.",
+          "es": "Tengo dolor de cabeza desde esta mañana.",
+          "ru": "С утра у меня болит голова."
+        }
       },
       {
         "id": "remote-health-dict-3",
         "fr": "Voici mon ordonnance.",
         "en": "Here is my prescription.",
-        "ipa": "vwa.si mɔ̃ nɔʁ.dɔ.nɑ̃s"
+        "ipa": "vwa.si mɔ̃ nɔʁ.dɔ.nɑ̃s",
+        "gloss": {
+          "en": "Here is my prescription.",
+          "es": "Aquí está mi receta.",
+          "ru": "Вот мой рецепт."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-health-mean-1",
         "fr": "Où est la pharmacie la plus proche ?",
         "en": "Where is the nearest pharmacy?",
-        "choices": [
-          "Where is the nearest pharmacy?",
-          "Do you have a fever?",
-          "Call the nurse."
-        ]
+        "gloss": {
+          "en": "Where is the nearest pharmacy?",
+          "es": "¿Dónde está la farmacia más cercana?",
+          "ru": "Где находится ближайшая аптека?"
+        }
       },
       {
         "id": "remote-health-mean-2",
         "fr": "J’ai un rhume.",
         "en": "I have a cold.",
-        "choices": [
-          "I have a cold.",
-          "I need surgery.",
-          "I broke my arm."
-        ]
+        "gloss": {
+          "en": "I have a cold.",
+          "es": "Tengo un resfrío.",
+          "ru": "Я простудился."
+        }
       },
       {
         "id": "remote-health-mean-3",
         "fr": "Appelez les urgences si besoin.",
         "en": "Call emergency services if needed.",
-        "choices": [
-          "Call emergency services if needed.",
-          "Take two pills.",
-          "Book a hotel."
-        ]
+        "gloss": {
+          "en": "Call emergency services if needed.",
+          "es": "Llame a los servicios de emergencia si es necesario.",
+          "ru": "При необходимости позвоните в службу экстренной помощи."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-health-fren-1",
         "fr": "médecin",
-        "en": "doctor"
+        "en": "doctor",
+        "gloss": {
+          "en": "doctor",
+          "es": "doctor",
+          "ru": "врач"
+        }
       },
       {
         "id": "remote-health-fren-2",
         "fr": "pharmacie",
-        "en": "pharmacy"
+        "en": "pharmacy",
+        "gloss": {
+          "en": "pharmacy",
+          "es": "farmacia",
+          "ru": "аптека"
+        }
       },
       {
         "id": "remote-health-fren-3",
         "fr": "fièvre",
-        "en": "fever"
+        "en": "fever",
+        "gloss": {
+          "en": "fever",
+          "es": "fiebre",
+          "ru": "высокая температура"
+        }
       },
       {
         "id": "remote-health-fren-4",
         "fr": "toux",
-        "en": "cough"
+        "en": "cough",
+        "gloss": {
+          "en": "cough",
+          "es": "tos",
+          "ru": "кашель"
+        }
       },
       {
         "id": "remote-health-fren-5",
         "fr": "hôpital",
-        "en": "hospital"
+        "en": "hospital",
+        "gloss": {
+          "en": "hospital",
+          "es": "hospital",
+          "ru": "больница"
+        }
       },
       {
         "id": "remote-health-fren-6",
         "fr": "allergie",
-        "en": "allergy"
+        "en": "allergy",
+        "gloss": {
+          "en": "allergy",
+          "es": "alergia",
+          "ru": "аллергия"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-health-aloud-1",
         "fr": "Je ne me sens pas bien.",
         "en": "I don’t feel well.",
-        "ipa": "ʒə nə mə sɑ̃ pa bjɛ̃"
+        "ipa": "ʒə nə mə sɑ̃ pa bjɛ̃",
+        "gloss": {
+          "en": "I don’t feel well.",
+          "es": "No me siento bien.",
+          "ru": "Я плохо себя чувствую."
+        }
       },
       {
         "id": "remote-health-aloud-2",
         "fr": "Puis-je prendre rendez-vous pour demain ?",
         "en": "Can I make an appointment for tomorrow?",
-        "ipa": "pɥi ʒə pʁɑ̃dʁ ʁɑ̃.de.vu puʁ də.mɛ̃"
+        "ipa": "pɥi ʒə pʁɑ̃dʁ ʁɑ̃.de.vu puʁ də.mɛ̃",
+        "gloss": {
+          "en": "Can I make an appointment for tomorrow?",
+          "es": "¿Puedo concertar una cita para mañana?",
+          "ru": "Могу ли я записаться на завтра?"
+        }
       },
       {
         "id": "remote-health-aloud-3",
         "fr": "J’ai une allergie aux arachides.",
         "en": "I have a peanut allergy.",
-        "ipa": "ʒe yn a.lɛʁ.ʒi o za.ʁa.ʃid"
+        "ipa": "ʒe yn a.lɛʁ.ʒi o za.ʁa.ʃid",
+        "gloss": {
+          "en": "I have a peanut allergy.",
+          "es": "Tengo alergia al maní.",
+          "ru": "У меня аллергия на арахис."
+        }
       }
     ],
     "unscramble": [
@@ -511,7 +769,12 @@
           "J’ai",
           "un",
           "rhume."
-        ]
+        ],
+        "gloss": {
+          "en": "I have a cold.",
+          "es": "Tengo un resfrío.",
+          "ru": "Я простудился."
+        }
       },
       {
         "id": "remote-health-unsc-2",
@@ -523,7 +786,12 @@
           "n’est",
           "pas",
           "grave."
-        ]
+        ],
+        "gloss": {
+          "en": "The injury is not serious.",
+          "es": "La lesión no es grave.",
+          "ru": "Травма несерьезная."
+        }
       }
     ],
     "signs": [
@@ -531,13 +799,23 @@
         "id": "remote-health-sign-1",
         "fr": "pharmacie",
         "en": "pharmacy",
-        "hint": "green cross / medicines"
+        "hint": "green cross / medicines",
+        "gloss": {
+          "en": "pharmacy",
+          "es": "farmacia",
+          "ru": "аптека"
+        }
       },
       {
         "id": "remote-health-sign-2",
         "fr": "urgences",
         "en": "emergency",
-        "hint": "hospital emergency entrance"
+        "hint": "hospital emergency entrance",
+        "gloss": {
+          "en": "emergency",
+          "es": "emergencia",
+          "ru": "чрезвычайная ситуация"
+        }
       }
     ]
   }

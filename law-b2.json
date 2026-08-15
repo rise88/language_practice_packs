@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "law-b2",
-  "version": 1,
+  "version": 2,
   "level": "b2",
   "title": {
     "fr": "Droit et justice B2",
-    "en": "Law and justice B2"
+    "en": "Law and justice B2",
+    "es": "Ley y justicia B2",
+    "ru": "Закон и справедливость B2"
   },
   "description": {
     "fr": "Procès, droits, avocats, verdicts et législation.",
-    "en": "Trials, rights, lawyers, verdicts, and legislation."
+    "en": "Trials, rights, lawyers, verdicts, and legislation.",
+    "es": "Juicios, derechos, abogados, sentencias y legislación.",
+    "ru": "Суды, права, адвокаты, приговоры и законодательство."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "trial",
       "example": "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
       "ipa": "pʁɔ.sɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "trial",
+        "es": "ensayo",
+        "ru": "пробный"
+      }
     },
     {
       "id": "remote-law-b2-2",
@@ -26,7 +35,12 @@
       "en": "lawyer",
       "example": "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
       "ipa": "a.vɔ.ka",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "lawyer",
+        "es": "abogado",
+        "ru": "адвокат"
+      }
     },
     {
       "id": "remote-law-b2-3",
@@ -34,7 +48,12 @@
       "en": "verdict",
       "example": "Le verdict d’acquittement a surpris une partie de l’opinion publique.",
       "ipa": "vɛʁ.dikt",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "verdict",
+        "es": "veredicto",
+        "ru": "приговор"
+      }
     },
     {
       "id": "remote-law-b2-4",
@@ -42,7 +61,12 @@
       "en": "legislation",
       "example": "Cette législation encadre désormais le droit à un procès équitable.",
       "ipa": "le.ʒis.la.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "legislation",
+        "es": "legislación",
+        "ru": "законодательство"
+      }
     },
     {
       "id": "remote-law-b2-5",
@@ -50,7 +74,12 @@
       "en": "right / law",
       "example": "Ce droit fondamental ne peut être restreint que dans des conditions strictement définies.",
       "ipa": "dʁwa",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "right / law",
+        "es": "derecho / ley",
+        "ru": "право / закон"
+      }
     },
     {
       "id": "remote-law-b2-6",
@@ -58,7 +87,12 @@
       "en": "defendant",
       "example": "Le prévenu a nié les faits, bien que plusieurs témoins l’aient reconnu.",
       "ipa": "pʁe.və.ny",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "defendant",
+        "es": "acusado",
+        "ru": "ответчик"
+      }
     },
     {
       "id": "remote-law-b2-7",
@@ -66,7 +100,12 @@
       "en": "witness",
       "example": "Le témoin a hésité, toutefois son récit a été jugé cohérent par le tribunal.",
       "ipa": "te.mwɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "witness",
+        "es": "testigo",
+        "ru": "свидетель"
+      }
     },
     {
       "id": "remote-law-b2-8",
@@ -74,7 +113,12 @@
       "en": "hearing / court session",
       "example": "L’audience a été reportée afin que la défense puisse consulter le dossier.",
       "ipa": "o.djɑ̃s",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "hearing / court session",
+        "es": "audiencia / sesión judicial",
+        "ru": "слушание/судебное заседание"
+      }
     },
     {
       "id": "remote-law-b2-9",
@@ -82,7 +126,12 @@
       "en": "case law",
       "example": "La jurisprudence récente oriente les tribunaux vers une interprétation plus souple.",
       "ipa": "ʒy.ʁis.pʁy.dɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "case law",
+        "es": "jurisprudencia",
+        "ru": "прецедентное право"
+      }
     },
     {
       "id": "remote-law-b2-10",
@@ -90,7 +139,12 @@
       "en": "offence / offense",
       "example": "L’infraction reprochée n’était pas assez caractérisée pour justifier une peine lourde.",
       "ipa": "ɛ̃.fʁak.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "offence / offense",
+        "es": "ofensa / ofensa",
+        "ru": "обида / обида"
+      }
     },
     {
       "id": "remote-law-b2-11",
@@ -98,7 +152,12 @@
       "en": "sentence / penalty",
       "example": "La peine prononcée a été jugée disproportionnée par une partie de la doctrine.",
       "ipa": "pɛn",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "sentence / penalty",
+        "es": "sentencia / pena",
+        "ru": "приговор / наказание"
+      }
     },
     {
       "id": "remote-law-b2-12",
@@ -106,7 +165,12 @@
       "en": "constitution",
       "example": "La constitution garantit la présomption d’innocence jusqu’au jugement définitif.",
       "ipa": "kɔ̃s.ti.ty.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "constitution",
+        "es": "constitución",
+        "ru": "конституция"
+      }
     },
     {
       "id": "remote-law-b2-13",
@@ -114,7 +178,12 @@
       "en": "court",
       "example": "Le tribunal a entendu les plaidoiries avant de se retirer pour délibérer.",
       "ipa": "tʁi.by.nal",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "court",
+        "es": "corte",
+        "ru": "суд"
+      }
     },
     {
       "id": "remote-law-b2-14",
@@ -122,7 +191,12 @@
       "en": "closing argument",
       "example": "Sa plaidoirie a mis en doute la fiabilité des preuves présentées par l’accusation.",
       "ipa": "plɛ.dwa.ʁi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "closing argument",
+        "es": "argumento final",
+        "ru": "заключительный аргумент"
+      }
     },
     {
       "id": "remote-law-b2-15",
@@ -130,7 +204,12 @@
       "en": "charge",
       "example": "La charge principale repose sur un enregistrement dont l’authenticité est contestée.",
       "ipa": "ʃaʁʒ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "charge",
+        "es": "cargar",
+        "ru": "заряжать"
+      }
     },
     {
       "id": "remote-law-b2-16",
@@ -138,7 +217,12 @@
       "en": "acquittal",
       "example": "L’acquittement signifie seulement que la preuve a manqué au procès.",
       "ipa": "a.kit.mɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "acquittal",
+        "es": "absolución",
+        "ru": "оправдание"
+      }
     },
     {
       "id": "remote-law-b2-17",
@@ -146,7 +230,12 @@
       "en": "appeal",
       "example": "Un recours a été formé dès le lendemain du jugement de première instance.",
       "ipa": "ʁə.kuʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "appeal",
+        "es": "apelar",
+        "ru": "обращаться"
+      }
     },
     {
       "id": "remote-law-b2-18",
@@ -154,7 +243,12 @@
       "en": "justice",
       "example": "L’accès à la justice demeure inégal selon les ressources des justiciables.",
       "ipa": "ʒys.tis",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "justice",
+        "es": "justicia",
+        "ru": "справедливость"
+      }
     },
     {
       "id": "remote-law-b2-19",
@@ -162,7 +256,12 @@
       "en": "summons",
       "example": "L’assignation a été délivrée, toutefois le prévenu ne s’est pas présenté.",
       "ipa": "a.si.ɲa.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "summons",
+        "es": "citación",
+        "ru": "вызов"
+      }
     },
     {
       "id": "remote-law-b2-20",
@@ -170,7 +269,12 @@
       "en": "liability / responsibility",
       "example": "La responsabilité civile du prestataire a été retenue malgré ses dénégations.",
       "ipa": "ʁə.spɔ̃.sa.bi.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "liability / responsibility",
+        "es": "responsabilidad / responsabilidad",
+        "ru": "ответственность / ответственность"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-law-phrase-1",
       "fr": "Il est essentiel que le prévenu puisse se défendre dans des conditions équitables.",
       "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
-      "ipa": "il ɛ tɛ.sɑ̃.sjɛl kə lə pʁe.və.ny pɥis sə de.fɑ̃dʁ dɑ̃ de kɔ̃.di.sjɔ̃ e.ki.tabl"
+      "ipa": "il ɛ tɛ.sɑ̃.sjɛl kə lə pʁe.və.ny pɥis sə de.fɑ̃dʁ dɑ̃ de kɔ̃.di.sjɔ̃ e.ki.tabl",
+      "gloss": {
+        "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+        "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+        "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+      }
     },
     {
       "id": "remote-law-phrase-2",
       "fr": "Bien que les charges soient lourdes, la présomption d’innocence demeure la règle.",
       "en": "Although the charges are serious, the presumption of innocence remains the rule.",
-      "ipa": "bjɛ̃ kə le ʃaʁʒ swa luʁd la pʁe.zɔ̃p.sjɔ̃ di.nɔ.sɑ̃s də.mœʁ la ʁɛɡl"
+      "ipa": "bjɛ̃ kə le ʃaʁʒ swa luʁd la pʁe.zɔ̃p.sjɔ̃ di.nɔ.sɑ̃s də.mœʁ la ʁɛɡl",
+      "gloss": {
+        "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+        "es": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+        "ru": "Хотя обвинения серьезны, презумпция невиновности остается правилом."
+      }
     },
     {
       "id": "remote-law-phrase-3",
       "fr": "Si le témoin avait parlé plus tôt, le verdict aurait peut-être été différent.",
       "en": "If the witness had spoken earlier, the verdict might have been different.",
-      "ipa": "si lə te.mwɛ̃ a.vɛ paʁ.le ply to lə vɛʁ.dikt o.ʁɛ pø.tɛtʁ e.te di.fe.ʁɑ̃"
+      "ipa": "si lə te.mwɛ̃ a.vɛ paʁ.le ply to lə vɛʁ.dikt o.ʁɛ pø.tɛtʁ e.te di.fe.ʁɑ̃",
+      "gloss": {
+        "en": "If the witness had spoken earlier, the verdict might have been different.",
+        "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+        "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+      }
     },
     {
       "id": "remote-law-phrase-4",
       "fr": "L’avocat a demandé un délai, néanmoins le tribunal a maintenu l’audience.",
       "en": "The lawyer asked for more time; nevertheless the court kept the hearing.",
-      "ipa": "la.vɔ.ka a də.mɑ̃.de œ̃ də.lɛ ne.ɑ̃.mwɛ̃ lə tʁi.by.nal a mɛ̃.tə.ny lo.djɑ̃s"
+      "ipa": "la.vɔ.ka a də.mɑ̃.de œ̃ də.lɛ ne.ɑ̃.mwɛ̃ lə tʁi.by.nal a mɛ̃.tə.ny lo.djɑ̃s",
+      "gloss": {
+        "en": "The lawyer asked for more time; nevertheless the court kept the hearing.",
+        "es": "El abogado pidió más tiempo; sin embargo, el tribunal mantuvo la audiencia.",
+        "ru": "Адвокат попросил больше времени; тем не менее суд продолжил слушание."
+      }
     },
     {
       "id": "remote-law-phrase-5",
       "fr": "On pourrait objecter que la législation évolue plus vite que la jurisprudence.",
       "en": "One might object that legislation is evolving faster than case law.",
-      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la le.ʒis.la.sjɔ̃ e.vɔ.ly ply vit kə la ʒy.ʁis.pʁy.dɑ̃s"
+      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la le.ʒis.la.sjɔ̃ e.vɔ.ly ply vit kə la ʒy.ʁis.pʁy.dɑ̃s",
+      "gloss": {
+        "en": "One might object that legislation is evolving faster than case law.",
+        "es": "Se podría objetar que la legislación está evolucionando más rápidamente que la jurisprudencia.",
+        "ru": "Можно возразить, что законодательство развивается быстрее, чем прецедентное право."
+      }
     },
     {
       "id": "remote-law-phrase-6",
       "fr": "Afin que le procès reste équitable, chaque pièce doit être communiquée à la défense.",
       "en": "So that the trial remains fair, every exhibit must be disclosed to the defence.",
-      "ipa": "a.fɛ̃ kə lə pʁɔ.sɛ ʁɛst e.ki.tabl ʃak pjɛs dwa ɛtʁ kɔ.my.ni.ke a la de.fɑ̃s"
+      "ipa": "a.fɛ̃ kə lə pʁɔ.sɛ ʁɛst e.ki.tabl ʃak pjɛs dwa ɛtʁ kɔ.my.ni.ke a la de.fɑ̃s",
+      "gloss": {
+        "en": "So that the trial remains fair, every exhibit must be disclosed to the defence.",
+        "es": "Para que el juicio siga siendo justo, todas las pruebas deben ser comunicadas a la defensa.",
+        "ru": "Чтобы суд оставался справедливым, защите необходимо предоставить все улики."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "prévenu",
         "témoin",
         "tribunal"
-      ]
+      ],
+      "gloss": {
+        "en": "The defence lawyer asked for time to examine the file.",
+        "es": "El abogado defensor pidió tiempo para examinar el expediente.",
+        "ru": "Адвокат защиты попросил время для ознакомления с материалами дела."
+      },
+      "wordGloss": {
+        "en": "lawyer",
+        "es": "abogado",
+        "ru": "адвокат"
+      }
     },
     {
       "id": "remote-law-listen-2",
@@ -236,7 +380,17 @@
         "peine",
         "recours",
         "plaidoirie"
-      ]
+      ],
+      "gloss": {
+        "en": "The acquittal verdict surprised part of public opinion.",
+        "es": "La sentencia absolutoria sorprendió a parte de la opinión pública.",
+        "ru": "Оправдательный приговор удивил часть общественного мнения."
+      },
+      "wordGloss": {
+        "en": "verdict",
+        "es": "veredicto",
+        "ru": "приговор"
+      }
     },
     {
       "id": "remote-law-listen-3",
@@ -249,7 +403,17 @@
         "législation",
         "constitution",
         "justice"
-      ]
+      ],
+      "gloss": {
+        "en": "Recent case law is steering the courts towards a more flexible interpretation.",
+        "es": "La jurisprudencia reciente está llevando a los tribunales hacia una interpretación más flexible.",
+        "ru": "Недавнее прецедентное право подталкивает суды к более гибкому толкованию."
+      },
+      "wordGloss": {
+        "en": "case law",
+        "es": "jurisprudencia",
+        "ru": "прецедентное право"
+      }
     },
     {
       "id": "remote-law-listen-4",
@@ -262,7 +426,17 @@
         "assignation",
         "infraction",
         "charge"
-      ]
+      ],
+      "gloss": {
+        "en": "The hearing was postponed so that the defence could consult the file.",
+        "es": "La audiencia fue postergada para que la defensa pudiera consultar el expediente.",
+        "ru": "Слушание было отложено, чтобы защита могла ознакомиться с материалами дела."
+      },
+      "wordGloss": {
+        "en": "hearing",
+        "es": "audiencia",
+        "ru": "слушание"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-law-grammar-1",
       "title": {
         "fr": "Le subjonctif de nécessité et d’émotion",
-        "en": "Subjunctive after necessity and emotion"
+        "en": "Subjunctive after necessity and emotion",
+        "es": "Subjuntivo después de necesidad y emoción.",
+        "ru": "Сослагательное наклонение после необходимости и эмоции"
       },
-      "rule": "Il est essentiel que, il faut que, je crains que se construisent avec le subjonctif : Il est essentiel que le prévenu puisse se défendre. Après craindre, on trouve souvent ne explétif : Je crains que le verdict ne soit injuste. Le ne n’est pas une négation.",
+      "rule": {
+        "fr": "Il est essentiel que, il faut que, je crains que se construisent avec le subjonctif : Il est essentiel que le prévenu puisse se défendre. Après craindre, on trouve souvent ne explétif : Je crains que le verdict ne soit injuste. Le ne n’est pas une négation.",
+        "en": "It is essential that, it is necessary that, I fear that it is constructed with the subjunctive: It is essential that the accused can defend himself. After fear, we often find an expletive: I fear that the verdict will be unfair. The is not a negation.",
+        "es": "Es imprescindible que, es necesario que, me temo que se construya con el subjuntivo: Es imprescindible que el acusado pueda defenderse. Después del miedo, a menudo encontramos una palabrota: Temo que el veredicto sea injusto. No es una negación.",
+        "ru": "Существенно, необходимо, чтобы, боюсь, оно было построено с помощью сослагательного наклонения: важно, чтобы обвиняемый мог защитить себя. После страха мы часто встречаем ругательство: боюсь, что приговор будет несправедливым. Это не отрицание."
+      },
       "table": [
         [
           "Expression",
@@ -337,15 +518,27 @@
             "fût"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Subjunctive after necessity and emotion.",
+        "es": "Útil cuando necesitas aplicar: Subjuntivo después de necesidad y emoción.",
+        "ru": "Полезно, когда нужно применить: Сослагательное наклонение после необходимости и эмоции."
+      }
     },
     {
       "id": "remote-law-grammar-2",
       "title": {
         "fr": "Bien que + subjonctif / malgré + nom",
-        "en": "Concession: bien que vs malgré"
+        "en": "Concession: bien que vs malgré",
+        "es": "Concesión: bien que vs malgré",
+        "ru": "Уступка: bien que против malgré"
       },
-      "rule": "Bien que introduit une concession et exige le subjonctif : Bien que les charges soient lourdes, la présomption d’innocence demeure. Malgré s’emploie avec un nom : malgré ses dénégations. Même si, lui, se construit avec l’indicatif.",
+      "rule": {
+        "fr": "Bien que introduit une concession et exige le subjonctif : Bien que les charges soient lourdes, la présomption d’innocence demeure. Malgré s’emploie avec un nom : malgré ses dénégations. Même si, lui, se construit avec l’indicatif.",
+        "en": "Although introduces a concession and requires the subjunctive: Although the charges are heavy, the presumption of innocence remains. Despite is used with a noun: despite its denials. Even if it is constructed with the indicative.",
+        "es": "Aunque introduce una concesión y exige el subjuntivo: Aunque los cargos son pesados, la presunción de inocencia se mantiene. A pesar de se usa con un sustantivo: a pesar de sus negaciones. Incluso si está construido con el indicativo.",
+        "ru": "Хотя вводит уступку и требует сослагательного наклонения: Хотя обвинения тяжкие, презумпция невиновности сохраняется. Несмотря на это употребляется с существительным: несмотря на его отрицание. Даже если оно построено с изъявительным наклоном."
+      },
       "table": [
         [
           "Outil",
@@ -389,7 +582,12 @@
             "afin que"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Concession: bien que vs malgré.",
+        "es": "Útil cuando necesitas postular: Concesión: bien que vs malgré.",
+        "ru": "Полезно, когда вам нужно подать заявку: Уступка: bien que vs malgré."
+      }
     }
   ],
   "skills": {
@@ -398,19 +596,34 @@
         "id": "remote-law-dict-1",
         "fr": "Il est essentiel que le prévenu puisse se défendre dans des conditions équitables.",
         "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
-        "ipa": "il ɛ tɛ.sɑ̃.sjɛl kə lə pʁe.və.ny pɥis sə de.fɑ̃dʁ dɑ̃ de kɔ̃.di.sjɔ̃ e.ki.tabl"
+        "ipa": "il ɛ tɛ.sɑ̃.sjɛl kə lə pʁe.və.ny pɥis sə de.fɑ̃dʁ dɑ̃ de kɔ̃.di.sjɔ̃ e.ki.tabl",
+        "gloss": {
+          "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+          "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+          "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+        }
       },
       {
         "id": "remote-law-dict-2",
         "fr": "Bien que les charges soient lourdes, la présomption d’innocence demeure la règle.",
         "en": "Although the charges are serious, the presumption of innocence remains the rule.",
-        "ipa": "bjɛ̃ kə le ʃaʁʒ swa luʁd la pʁe.zɔ̃p.sjɔ̃ di.nɔ.sɑ̃s də.mœʁ la ʁɛɡl"
+        "ipa": "bjɛ̃ kə le ʃaʁʒ swa luʁd la pʁe.zɔ̃p.sjɔ̃ di.nɔ.sɑ̃s də.mœʁ la ʁɛɡl",
+        "gloss": {
+          "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+          "es": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+          "ru": "Хотя обвинения серьезны, презумпция невиновности остается правилом."
+        }
       },
       {
         "id": "remote-law-dict-3",
         "fr": "Si le témoin avait parlé plus tôt, le verdict aurait peut-être été différent.",
         "en": "If the witness had spoken earlier, the verdict might have been different.",
-        "ipa": "si lə te.mwɛ̃ a.vɛ paʁ.le ply to lə vɛʁ.dikt o.ʁɛ pø.tɛtʁ e.te di.fe.ʁɑ̃"
+        "ipa": "si lə te.mwɛ̃ a.vɛ paʁ.le ply to lə vɛʁ.dikt o.ʁɛ pø.tɛtʁ e.te di.fe.ʁɑ̃",
+        "gloss": {
+          "en": "If the witness had spoken earlier, the verdict might have been different.",
+          "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+          "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+        }
       }
     ],
     "meaning": [
@@ -418,63 +631,93 @@
         "id": "remote-law-mean-1",
         "fr": "Il est essentiel que le prévenu puisse se défendre dans des conditions équitables.",
         "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
-        "choices": [
-          "It is essential that the defendant be able to defend themselves under fair conditions.",
-          "The verdict has already been leaked to the press.",
-          "Case law never influences how courts interpret statutes."
-        ]
+        "gloss": {
+          "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+          "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+          "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+        }
       },
       {
         "id": "remote-law-mean-2",
         "fr": "Bien que les charges soient lourdes, la présomption d’innocence demeure la règle.",
         "en": "Although the charges are serious, the presumption of innocence remains the rule.",
-        "choices": [
-          "Although the charges are serious, the presumption of innocence remains the rule.",
-          "The summons was never delivered to the defendant.",
-          "An acquittal always means that the events never happened."
-        ]
+        "gloss": {
+          "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+          "es": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+          "ru": "Хотя обвинения серьезны, презумпция невиновности остается правилом."
+        }
       },
       {
         "id": "remote-law-mean-3",
         "fr": "Si le témoin avait parlé plus tôt, le verdict aurait peut-être été différent.",
         "en": "If the witness had spoken earlier, the verdict might have been different.",
-        "choices": [
-          "If the witness had spoken earlier, the verdict might have been different.",
-          "The lawyer refused to examine any new evidence.",
-          "Appeals are forbidden after a first-instance judgment."
-        ]
+        "gloss": {
+          "en": "If the witness had spoken earlier, the verdict might have been different.",
+          "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+          "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-law-fren-1",
         "fr": "procès",
-        "en": "trial"
+        "en": "trial",
+        "gloss": {
+          "en": "trial",
+          "es": "ensayo",
+          "ru": "пробный"
+        }
       },
       {
         "id": "remote-law-fren-2",
         "fr": "avocat",
-        "en": "lawyer"
+        "en": "lawyer",
+        "gloss": {
+          "en": "lawyer",
+          "es": "abogado",
+          "ru": "адвокат"
+        }
       },
       {
         "id": "remote-law-fren-3",
         "fr": "verdict",
-        "en": "verdict"
+        "en": "verdict",
+        "gloss": {
+          "en": "verdict",
+          "es": "veredicto",
+          "ru": "приговор"
+        }
       },
       {
         "id": "remote-law-fren-4",
         "fr": "législation",
-        "en": "legislation"
+        "en": "legislation",
+        "gloss": {
+          "en": "legislation",
+          "es": "legislación",
+          "ru": "законодательство"
+        }
       },
       {
         "id": "remote-law-fren-5",
         "fr": "droit",
-        "en": "right"
+        "en": "right",
+        "gloss": {
+          "en": "right",
+          "es": "bien",
+          "ru": "верно"
+        }
       },
       {
         "id": "remote-law-fren-6",
         "fr": "prévenu",
-        "en": "defendant"
+        "en": "defendant",
+        "gloss": {
+          "en": "defendant",
+          "es": "acusado",
+          "ru": "ответчик"
+        }
       }
     ],
     "aloud": [
@@ -482,19 +725,34 @@
         "id": "remote-law-aloud-1",
         "fr": "Il est essentiel que le prévenu puisse se défendre dans des conditions équitables.",
         "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
-        "ipa": "il ɛ tɛ.sɑ̃.sjɛl kə lə pʁe.və.ny pɥis sə de.fɑ̃dʁ dɑ̃ de kɔ̃.di.sjɔ̃ e.ki.tabl"
+        "ipa": "il ɛ tɛ.sɑ̃.sjɛl kə lə pʁe.və.ny pɥis sə de.fɑ̃dʁ dɑ̃ de kɔ̃.di.sjɔ̃ e.ki.tabl",
+        "gloss": {
+          "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+          "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+          "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+        }
       },
       {
         "id": "remote-law-aloud-2",
         "fr": "Si le témoin avait parlé plus tôt, le verdict aurait peut-être été différent.",
         "en": "If the witness had spoken earlier, the verdict might have been different.",
-        "ipa": "si lə te.mwɛ̃ a.vɛ paʁ.le ply to lə vɛʁ.dikt o.ʁɛ pø.tɛtʁ e.te di.fe.ʁɑ̃"
+        "ipa": "si lə te.mwɛ̃ a.vɛ paʁ.le ply to lə vɛʁ.dikt o.ʁɛ pø.tɛtʁ e.te di.fe.ʁɑ̃",
+        "gloss": {
+          "en": "If the witness had spoken earlier, the verdict might have been different.",
+          "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+          "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+        }
       },
       {
         "id": "remote-law-aloud-3",
         "fr": "On pourrait objecter que la législation évolue plus vite que la jurisprudence.",
         "en": "One might object that legislation is evolving faster than case law.",
-        "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la le.ʒis.la.sjɔ̃ e.vɔ.ly ply vit kə la ʒy.ʁis.pʁy.dɑ̃s"
+        "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la le.ʒis.la.sjɔ̃ e.vɔ.ly ply vit kə la ʒy.ʁis.pʁy.dɑ̃s",
+        "gloss": {
+          "en": "One might object that legislation is evolving faster than case law.",
+          "es": "Se podría objetar que la legislación está evolucionando más rápidamente que la jurisprudencia.",
+          "ru": "Можно возразить, что законодательство развивается быстрее, чем прецедентное право."
+        }
       }
     ],
     "unscramble": [
@@ -516,7 +774,12 @@
           "de",
           "nouvelles",
           "pièces."
-        ]
+        ],
+        "gloss": {
+          "en": "The defence lawyer asked for more time in order to examine new exhibits.",
+          "es": "El abogado defensor pidió más tiempo para examinar nuevas pruebas.",
+          "ru": "Адвокат просил предоставить ему больше времени для осмотра новых вещественных доказательств."
+        }
       },
       {
         "id": "remote-law-unsc-2",
@@ -536,7 +799,12 @@
           "de",
           "première",
           "instance."
-        ]
+        ],
+        "gloss": {
+          "en": "An appeal was lodged the very next day after the first-instance judgment.",
+          "es": "Se interpuso recurso de apelación al día siguiente de la sentencia de primera instancia.",
+          "ru": "Апелляция была подана уже на следующий день после вынесения решения первой инстанции."
+        }
       }
     ],
     "signs": [
@@ -544,13 +812,23 @@
         "id": "remote-law-sign-1",
         "fr": "palais de justice",
         "en": "courthouse",
-        "hint": "columns, scales of justice"
+        "hint": "columns, scales of justice",
+        "gloss": {
+          "en": "courthouse",
+          "es": "palacio de justicia",
+          "ru": "здание суда"
+        }
       },
       {
         "id": "remote-law-sign-2",
         "fr": "salle d’audience",
         "en": "courtroom",
-        "hint": "judge, benches, lawyers"
+        "hint": "judge, benches, lawyers",
+        "gloss": {
+          "en": "courtroom",
+          "es": "sala de justicia",
+          "ru": "зал суда"
+        }
       }
     ]
   }

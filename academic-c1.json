@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "academic-c1",
-  "version": 1,
+  "version": 2,
   "level": "c1",
   "title": {
     "fr": "Discours académique C1",
-    "en": "Academic discourse C1"
+    "en": "Academic discourse C1",
+    "es": "Discurso académico C1",
+    "ru": "Академический дискурс C1"
   },
   "description": {
     "fr": "Thèse, méthodologie, citation, résumé et relecture par les pairs.",
-    "en": "Thesis, methodology, citation, abstract, and peer review."
+    "en": "Thesis, methodology, citation, abstract, and peer review.",
+    "es": "Tesis, metodología, citación, resumen y revisión por pares.",
+    "ru": "Диссертация, методология, цитирование, аннотация и рецензия."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "thesis",
       "example": "La thèse, dont la portée dépasse le cadre disciplinaire, articule un cadrage que le corpus vient éprouver.",
       "ipa": "tɛz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "thesis",
+        "es": "tesis",
+        "ru": "диссертация"
+      }
     },
     {
       "id": "remote-academic-c1-2",
@@ -26,7 +35,12 @@
       "en": "methodology",
       "example": "La méthodologie, loin d’être un simple dispositif technique, détermine la validité des inférences proposées.",
       "ipa": "me.tɔ.dɔ.lɔ.ʒi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "methodology",
+        "es": "metodología",
+        "ru": "методология"
+      }
     },
     {
       "id": "remote-academic-c1-3",
@@ -34,7 +48,12 @@
       "en": "citation",
       "example": "Chaque citation, encore qu’elle étaye l’argumentaire, doit être resituée dans le présupposé de l’auteur cité.",
       "ipa": "si.ta.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "citation",
+        "es": "citación",
+        "ru": "цитирование"
+      }
     },
     {
       "id": "remote-academic-c1-4",
@@ -42,7 +61,12 @@
       "en": "abstract",
       "example": "Le résumé, quitte à schématiser la démarche, doit néanmoins faire apparaître l’enjeu et la contribution.",
       "ipa": "ʁe.zy.me",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "abstract",
+        "es": "abstracto",
+        "ru": "абстрактный"
+      }
     },
     {
       "id": "remote-academic-c1-5",
@@ -50,7 +74,12 @@
       "en": "peer review",
       "example": "La relecture par les pairs, dont l’impartialité demeure un corollaire fragile, conditionne la soumission.",
       "ipa": "ʁə.lɛk.tyʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "peer review",
+        "es": "revisión por pares",
+        "ru": "экспертная оценка"
+      }
     },
     {
       "id": "remote-academic-c1-6",
@@ -58,7 +87,12 @@
       "en": "hypothesis",
       "example": "L’hypothèse, à moins qu’elle ne soit opérationnalisée, reste un postulat dont la portée empirique est indéterminée.",
       "ipa": "i.pɔ.tɛz",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "hypothesis",
+        "es": "hipótesis",
+        "ru": "гипотеза"
+      }
     },
     {
       "id": "remote-academic-c1-7",
@@ -66,7 +100,12 @@
       "en": "research problem",
       "example": "La problématique, reformulée après la relecture, recentre l’enquête sur un enjeu que le cadrage initial occultait.",
       "ipa": "pʁɔ.ble.ma.tik",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "research problem",
+        "es": "problema de investigacion",
+        "ru": "проблема исследования"
+      }
     },
     {
       "id": "remote-academic-c1-8",
@@ -74,7 +113,12 @@
       "en": "corpus",
       "example": "Le corpus, dont la constitution n’est jamais neutre, engage un cadrage qui oriente d’emblée l’interprétation.",
       "ipa": "kɔʁ.pys",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "corpus",
+        "es": "cuerpo",
+        "ru": "корпус"
+      }
     },
     {
       "id": "remote-academic-c1-9",
@@ -82,7 +126,12 @@
       "en": "framing",
       "example": "Le cadrage théorique, loin de précéder passivement l’analyse, configure les inférences jugées recevables.",
       "ipa": "ka.dʁaʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "framing",
+        "es": "enmarcado",
+        "ru": "обрамление"
+      }
     },
     {
       "id": "remote-academic-c1-10",
@@ -90,7 +139,12 @@
       "en": "presupposition",
       "example": "Ce présupposé, encore qu’il passe inaperçu, gouverne la lecture du corpus et la portée des conclusions.",
       "ipa": "pʁe.sy.po.ze",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "presupposition",
+        "es": "presuposición",
+        "ru": "предпосылка"
+      }
     },
     {
       "id": "remote-academic-c1-11",
@@ -98,7 +152,12 @@
       "en": "bibliography",
       "example": "La bibliographie, quitte à paraître exhaustive, révèle les filiations dont l’argumentaire se réclame.",
       "ipa": "bib.ljɔ.ɡʁa.fi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "bibliography",
+        "es": "bibliografía",
+        "ru": "библиография"
+      }
     },
     {
       "id": "remote-academic-c1-12",
@@ -106,7 +165,12 @@
       "en": "postulate",
       "example": "Le postulat, que nul ne prend le temps d’interroger, fonctionne comme un acquis déjà admis du dispositif.",
       "ipa": "pɔs.ty.la",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "postulate",
+        "es": "postulado",
+        "ru": "постулат"
+      }
     },
     {
       "id": "remote-academic-c1-13",
@@ -114,7 +178,12 @@
       "en": "corollary",
       "example": "Un corollaire de cette démarche consiste à traiter la citation comme un enjeu de cadrage, non d’ornement.",
       "ipa": "kɔ.ʁɔ.lɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "corollary",
+        "es": "corolario",
+        "ru": "следствие"
+      }
     },
     {
       "id": "remote-academic-c1-14",
@@ -122,7 +191,12 @@
       "en": "scope",
       "example": "La portée des résultats, à moins que l’échantillon ne soit élargi, demeure indexée au corpus retenu.",
       "ipa": "pɔʁ.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "scope",
+        "es": "alcance",
+        "ru": "объем"
+      }
     },
     {
       "id": "remote-academic-c1-15",
@@ -130,7 +204,12 @@
       "en": "apparatus / setup",
       "example": "Le dispositif méthodologique, dont la transparence conditionne l’évaluation, articule hypothèses et protocoles.",
       "ipa": "dis.pɔ.zi.tif",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "apparatus / setup",
+        "es": "aparato / configuración",
+        "ru": "аппарат/установка"
+      }
     },
     {
       "id": "remote-academic-c1-16",
@@ -138,7 +217,12 @@
       "en": "stake / issue",
       "example": "L’enjeu de la soumission n’est pas seulement éditorial : il engage la crédibilité de toute la démarche.",
       "ipa": "ɑ̃.ʒø",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "stake / issue",
+        "es": "estaca / problema",
+        "ru": "ставка/выпуск"
+      }
     },
     {
       "id": "remote-academic-c1-17",
@@ -146,7 +230,12 @@
       "en": "approach",
       "example": "Cette démarche, loin d’être inductive de bout en bout, procède par allers-retours entre postulat et terrain.",
       "ipa": "de.maʁʃ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "approach",
+        "es": "acercarse",
+        "ru": "подход"
+      }
     },
     {
       "id": "remote-academic-c1-18",
@@ -154,7 +243,12 @@
       "en": "contribution",
       "example": "La contribution revendiquée, encore que modeste, consiste à déplacer la problématique hors du cadrage habituel.",
       "ipa": "kɔ̃.tʁi.by.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "contribution",
+        "es": "contribución",
+        "ru": "вклад"
+      }
     },
     {
       "id": "remote-academic-c1-19",
@@ -162,7 +256,12 @@
       "en": "plagiarism",
       "example": "Le plagiat, qu’il soit délibéré ou né d’une citation mal maîtrisée, ruine la contribution et l’intégrité du texte.",
       "ipa": "pla.ʒja",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "plagiarism",
+        "es": "plagio",
+        "ru": "плагиат"
+      }
     },
     {
       "id": "remote-academic-c1-20",
@@ -170,7 +269,12 @@
       "en": "submission",
       "example": "La soumission à la revue, précédée d’une évaluation interne, exige que le résumé condense enjeux et limites.",
       "ipa": "su.mi.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "submission",
+        "es": "envío",
+        "ru": "подчинение"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-academic-phrase-1",
       "fr": "Encore que la méthodologie soit solide, la portée de la thèse demeure contestée.",
       "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
-      "ipa": "ɑ̃.kɔʁ kə la me.tɔ.dɔ.lɔ.ʒi swa sɔ.lid la pɔʁ.te də la tɛz də.mœʁ kɔ̃.tɛs.te"
+      "ipa": "ɑ̃.kɔʁ kə la me.tɔ.dɔ.lɔ.ʒi swa sɔ.lid la pɔʁ.te də la tɛz də.mœʁ kɔ̃.tɛs.te",
+      "gloss": {
+        "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+        "es": "Aunque la metodología es sólida, el alcance de la tesis sigue siendo cuestionado.",
+        "ru": "Несмотря на то, что методология верна, объем диссертации остается спорным."
+      }
     },
     {
       "id": "remote-academic-phrase-2",
       "fr": "Loin de clore le débat, le résumé ouvre une problématique plus large.",
       "en": "Far from closing the debate, the abstract opens a broader research problem.",
-      "ipa": "lwɛ̃ də klɔʁ lə de.ba lə ʁe.zy.me uvʁ yn pʁɔ.ble.ma.tik ply laʁʒ"
+      "ipa": "lwɛ̃ də klɔʁ lə de.ba lə ʁe.zy.me uvʁ yn pʁɔ.ble.ma.tik ply laʁʒ",
+      "gloss": {
+        "en": "Far from closing the debate, the abstract opens a broader research problem.",
+        "es": "Lejos de cerrar el debate, el resumen abre un problema de investigación más amplio.",
+        "ru": "Аннотация не только не завершает дискуссию, но и открывает более широкую исследовательскую проблему."
+      }
     },
     {
       "id": "remote-academic-phrase-3",
       "fr": "À moins que le corpus ne soit élargi, l’hypothèse restera sous-déterminée.",
       "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
-      "ipa": "a mwɛ̃ kə lə kɔʁ.pys nə swa e.laʁ.ʒi li.pɔ.tɛz ʁɛs.tə.ʁa su.de.tɛʁ.mi.ne"
+      "ipa": "a mwɛ̃ kə lə kɔʁ.pys nə swa e.laʁ.ʒi li.pɔ.tɛz ʁɛs.tə.ʁa su.de.tɛʁ.mi.ne",
+      "gloss": {
+        "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+        "es": "A menos que se amplíe el corpus, la hipótesis seguirá estando indeterminada.",
+        "ru": "Если корпус не будет расширен, гипотеза останется недоопределенной."
+      }
     },
     {
       "id": "remote-academic-phrase-4",
       "fr": "Quitte à alourdir l’appareil critique, il convient de multiplier les citations.",
       "en": "Even if it weighs down the critical apparatus, citations should be multiplied.",
-      "ipa": "kit a a.luʁ.diʁ la.pa.ʁɛj kʁi.tik il kɔ̃.vjɛ̃ də myl.ti.pli.je le si.ta.sjɔ̃"
+      "ipa": "kit a a.luʁ.diʁ la.pa.ʁɛj kʁi.tik il kɔ̃.vjɛ̃ də myl.ti.pli.je le si.ta.sjɔ̃",
+      "gloss": {
+        "en": "Even if it weighs down the critical apparatus, citations should be multiplied.",
+        "es": "Incluso si esto pesa sobre el aparato crítico, las citas deberían multiplicarse.",
+        "ru": "Даже если это отягощает критический аппарат, цитирования следует умножать."
+      }
     },
     {
       "id": "remote-academic-phrase-5",
       "fr": "La relecture par les pairs, dont l’enjeu est épistémique, affine le cadrage.",
       "en": "Peer review, whose stake is epistemic, refines the framing.",
-      "ipa": "la ʁə.lɛk.tyʁ paʁ le pɛʁ dɔ̃ lɑ̃.ʒø ɛ e.pis.te.mik a.fin lə ka.dʁaʒ"
+      "ipa": "la ʁə.lɛk.tyʁ paʁ le pɛʁ dɔ̃ lɑ̃.ʒø ɛ e.pis.te.mik a.fin lə ka.dʁaʒ",
+      "gloss": {
+        "en": "Peer review, whose stake is epistemic, refines the framing.",
+        "es": "La revisión por pares, cuyo interés es epistémico, refina el marco.",
+        "ru": "Экспертная оценка, чья ставка носит эпистемический характер, уточняет структуру."
+      }
     },
     {
       "id": "remote-academic-phrase-6",
       "fr": "Bien que le postulat soit discutable, son corollaire éclaire la démarche.",
       "en": "Although the postulate is debatable, its corollary clarifies the approach.",
-      "ipa": "bjɛ̃ kə lə pɔs.ty.la swa dis.ky.tabl sɔ̃ kɔ.ʁɔ.lɛʁ e.klɛʁ la de.maʁʃ"
+      "ipa": "bjɛ̃ kə lə pɔs.ty.la swa dis.ky.tabl sɔ̃ kɔ.ʁɔ.lɛʁ e.klɛʁ la de.maʁʃ",
+      "gloss": {
+        "en": "Although the postulate is debatable, its corollary clarifies the approach.",
+        "es": "Aunque el postulado es discutible, su corolario aclara el enfoque.",
+        "ru": "Хотя этот постулат является спорным, его следствие проясняет подход."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "citation",
         "soumission",
         "plagiat"
-      ]
+      ],
+      "gloss": {
+        "en": "Peer review refines the theoretical framing of the thesis.",
+        "es": "La revisión por pares refina el marco teórico de la tesis.",
+        "ru": "Рецензирование уточняет теоретическую основу диссертации."
+      },
+      "wordGloss": {
+        "en": "peer review",
+        "es": "revisión por pares",
+        "ru": "экспертная оценка"
+      }
     },
     {
       "id": "remote-academic-listen-2",
@@ -236,7 +380,17 @@
         "portée",
         "corpus",
         "résumé"
-      ]
+      ],
+      "gloss": {
+        "en": "The hypothesis, unless it is tested, remains a mere postulate.",
+        "es": "La hipótesis, a menos que se ponga a prueba, sigue siendo un mero postulado.",
+        "ru": "Гипотеза, если она не проверена, остается всего лишь постулатом."
+      },
+      "wordGloss": {
+        "en": "hypothesis",
+        "es": "hipótesis",
+        "ru": "гипотеза"
+      }
     },
     {
       "id": "remote-academic-listen-3",
@@ -249,7 +403,17 @@
         "dispositif",
         "bibliographie",
         "corollaire"
-      ]
+      ],
+      "gloss": {
+        "en": "The abstract must bring out the issue and the main contribution.",
+        "es": "El resumen debe resaltar el tema y la contribución principal.",
+        "ru": "Аннотация должна раскрывать проблему и основной вклад."
+      },
+      "wordGloss": {
+        "en": "abstract",
+        "es": "abstracto",
+        "ru": "абстрактный"
+      }
     },
     {
       "id": "remote-academic-listen-4",
@@ -262,7 +426,17 @@
         "plagiat",
         "soumission",
         "citation"
-      ]
+      ],
+      "gloss": {
+        "en": "This presupposition, even though it goes unnoticed, governs the whole interpretation.",
+        "es": "Esta presuposición, aunque pase desapercibida, rige toda la interpretación.",
+        "ru": "Эта предпосылка, хотя и остается незамеченной, управляет всей интерпретацией."
+      },
+      "wordGloss": {
+        "en": "presupposition",
+        "es": "presuposición",
+        "ru": "предпосылка"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-academic-grammar-1",
       "title": {
         "fr": "Le style nominal académique",
-        "en": "Academic nominal style"
+        "en": "Academic nominal style",
+        "es": "Estilo nominal académico",
+        "ru": "Академический именной стиль"
       },
-      "rule": "Le français savant privilégie la nominalisation : la remise en cause de X plutôt que remettre X en cause. Cela condense l’argument, masque l’agent et élève le registre.",
+      "rule": {
+        "fr": "Le français savant privilégie la nominalisation : la remise en cause de X plutôt que remettre X en cause. Cela condense l’argument, masque l’agent et élève le registre.",
+        "en": "Scholarly French favors nominalization: calling into question X rather than calling X into question. This condenses the argument, hides the agent, and elevates the register.",
+        "es": "Los académicos franceses favorecen la nominalización: cuestionar X en lugar de cuestionar X. Esto condensa el argumento, oculta al agente y eleva el registro.",
+        "ru": "Ученые Франции отдают предпочтение номинализации: ставить под сомнение X, а не ставить под сомнение X. Это сжимает аргумент, скрывает агента и повышает регистр."
+      },
       "table": [
         [
           "Forme verbale",
@@ -337,15 +518,27 @@
             "On cadre"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Academic nominal style.",
+        "es": "Útil cuando necesitas aplicar: Estilo nominal académico.",
+        "ru": "Полезно, когда вам нужно подать заявку: Академический именной стиль."
+      }
     },
     {
       "id": "remote-academic-grammar-2",
       "title": {
         "fr": "Subjonctif après encore que / à moins que",
-        "en": "Subjunctive after encore que / à moins que"
+        "en": "Subjunctive after encore que / à moins que",
+        "es": "Subjuntivo después de encore que / à moins que",
+        "ru": "Сослагательное наклонение после encore que / à moins que"
       },
-      "rule": "Encore que et à moins que régissent le subjonctif. À moins que s’accompagne souvent du ne explétif : à moins que le corpus ne soit élargi. L’indicatif suivrait une assertion considérée comme un fait.",
+      "rule": {
+        "fr": "Encore que et à moins que régissent le subjonctif. À moins que s’accompagne souvent du ne explétif : à moins que le corpus ne soit élargi. L’indicatif suivrait une assertion considérée comme un fait.",
+        "en": "Although and unless the subjunctive governs. Unless is often accompanied by the expletive ne: unless the corpus is expanded. The indicative would follow an assertion considered as a fact.",
+        "es": "Aunque y a menos que gobierne el subjuntivo. A menos que suele ir acompañado del improperio ne: a menos que se amplíe el corpus. El indicativo seguiría a una afirmación considerada como un hecho.",
+        "ru": "Хотя и если сослагательное наклонение имеет решающее значение. Разве что часто сопровождается ругательным словом ne: разве что корпус расширен. Индикатив будет следовать за утверждением, рассматриваемым как факт."
+      },
       "table": [
         [
           "Connecteur",
@@ -394,7 +587,12 @@
             "sera"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Subjunctive after encore que / à moins que.",
+        "es": "Útil cuando necesitas aplicar: Subjuntivo después de encore que / à moins que.",
+        "ru": "Полезно, когда нужно применить: сослагательное наклонение после encore que / à moins que."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-academic-dict-1",
         "fr": "Encore que la méthodologie soit solide, la portée de la thèse demeure contestée.",
         "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
-        "ipa": "ɑ̃.kɔʁ kə la me.tɔ.dɔ.lɔ.ʒi swa sɔ.lid la pɔʁ.te də la tɛz də.mœʁ kɔ̃.tɛs.te"
+        "ipa": "ɑ̃.kɔʁ kə la me.tɔ.dɔ.lɔ.ʒi swa sɔ.lid la pɔʁ.te də la tɛz də.mœʁ kɔ̃.tɛs.te",
+        "gloss": {
+          "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+          "es": "Aunque la metodología es sólida, el alcance de la tesis sigue siendo cuestionado.",
+          "ru": "Несмотря на то, что методология верна, объем диссертации остается спорным."
+        }
       },
       {
         "id": "remote-academic-dict-2",
         "fr": "Loin de clore le débat, le résumé ouvre une problématique plus large.",
         "en": "Far from closing the debate, the abstract opens a broader research problem.",
-        "ipa": "lwɛ̃ də klɔʁ lə de.ba lə ʁe.zy.me uvʁ yn pʁɔ.ble.ma.tik ply laʁʒ"
+        "ipa": "lwɛ̃ də klɔʁ lə de.ba lə ʁe.zy.me uvʁ yn pʁɔ.ble.ma.tik ply laʁʒ",
+        "gloss": {
+          "en": "Far from closing the debate, the abstract opens a broader research problem.",
+          "es": "Lejos de cerrar el debate, el resumen abre un problema de investigación más amplio.",
+          "ru": "Аннотация не только не завершает дискуссию, но и открывает более широкую исследовательскую проблему."
+        }
       },
       {
         "id": "remote-academic-dict-3",
         "fr": "À moins que le corpus ne soit élargi, l’hypothèse restera sous-déterminée.",
         "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
-        "ipa": "a mwɛ̃ kə lə kɔʁ.pys nə swa e.laʁ.ʒi li.pɔ.tɛz ʁɛs.tə.ʁa su.de.tɛʁ.mi.ne"
+        "ipa": "a mwɛ̃ kə lə kɔʁ.pys nə swa e.laʁ.ʒi li.pɔ.tɛz ʁɛs.tə.ʁa su.de.tɛʁ.mi.ne",
+        "gloss": {
+          "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+          "es": "A menos que se amplíe el corpus, la hipótesis seguirá estando indeterminada.",
+          "ru": "Если корпус не будет расширен, гипотеза останется недоопределенной."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-academic-mean-1",
         "fr": "Encore que la méthodologie soit solide, la portée de la thèse demeure contestée.",
         "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
-        "choices": [
-          "Even though the methodology is sound, the thesis’s scope remains contested.",
-          "Far from closing the debate, the abstract opens a broader research problem.",
-          "Unless the corpus is expanded, the hypothesis will remain underdetermined."
-        ]
+        "gloss": {
+          "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+          "es": "Aunque la metodología es sólida, el alcance de la tesis sigue siendo cuestionado.",
+          "ru": "Несмотря на то, что методология верна, объем диссертации остается спорным."
+        }
       },
       {
         "id": "remote-academic-mean-2",
         "fr": "Loin de clore le débat, le résumé ouvre une problématique plus large.",
         "en": "Far from closing the debate, the abstract opens a broader research problem.",
-        "choices": [
-          "Far from closing the debate, the abstract opens a broader research problem.",
-          "Even though the methodology is sound, the thesis’s scope remains contested.",
-          "Unless the corpus is expanded, the hypothesis will remain underdetermined."
-        ]
+        "gloss": {
+          "en": "Far from closing the debate, the abstract opens a broader research problem.",
+          "es": "Lejos de cerrar el debate, el resumen abre un problema de investigación más amplio.",
+          "ru": "Аннотация не только не завершает дискуссию, но и открывает более широкую исследовательскую проблему."
+        }
       },
       {
         "id": "remote-academic-mean-3",
         "fr": "À moins que le corpus ne soit élargi, l’hypothèse restera sous-déterminée.",
         "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
-        "choices": [
-          "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
-          "Even though the methodology is sound, the thesis’s scope remains contested.",
-          "Far from closing the debate, the abstract opens a broader research problem."
-        ]
+        "gloss": {
+          "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+          "es": "A menos que se amplíe el corpus, la hipótesis seguirá estando indeterminada.",
+          "ru": "Если корпус не будет расширен, гипотеза останется недоопределенной."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-academic-fren-1",
         "fr": "thèse",
-        "en": "thesis"
+        "en": "thesis",
+        "gloss": {
+          "en": "thesis",
+          "es": "tesis",
+          "ru": "диссертация"
+        }
       },
       {
         "id": "remote-academic-fren-2",
         "fr": "méthodologie",
-        "en": "methodology"
+        "en": "methodology",
+        "gloss": {
+          "en": "methodology",
+          "es": "metodología",
+          "ru": "методология"
+        }
       },
       {
         "id": "remote-academic-fren-3",
         "fr": "citation",
-        "en": "citation"
+        "en": "citation",
+        "gloss": {
+          "en": "citation",
+          "es": "citación",
+          "ru": "цитирование"
+        }
       },
       {
         "id": "remote-academic-fren-4",
         "fr": "résumé",
-        "en": "abstract"
+        "en": "abstract",
+        "gloss": {
+          "en": "abstract",
+          "es": "abstracto",
+          "ru": "абстрактный"
+        }
       },
       {
         "id": "remote-academic-fren-5",
         "fr": "relecture",
-        "en": "peer review"
+        "en": "peer review",
+        "gloss": {
+          "en": "peer review",
+          "es": "revisión por pares",
+          "ru": "экспертная оценка"
+        }
       },
       {
         "id": "remote-academic-fren-6",
         "fr": "hypothèse",
-        "en": "hypothesis"
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-academic-aloud-1",
         "fr": "Encore que la méthodologie soit solide, la portée de la thèse demeure contestée.",
         "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
-        "ipa": "ɑ̃.kɔʁ kə la me.tɔ.dɔ.lɔ.ʒi swa sɔ.lid la pɔʁ.te də la tɛz də.mœʁ kɔ̃.tɛs.te"
+        "ipa": "ɑ̃.kɔʁ kə la me.tɔ.dɔ.lɔ.ʒi swa sɔ.lid la pɔʁ.te də la tɛz də.mœʁ kɔ̃.tɛs.te",
+        "gloss": {
+          "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+          "es": "Aunque la metodología es sólida, el alcance de la tesis sigue siendo cuestionado.",
+          "ru": "Несмотря на то, что методология верна, объем диссертации остается спорным."
+        }
       },
       {
         "id": "remote-academic-aloud-2",
         "fr": "À moins que le corpus ne soit élargi, l’hypothèse restera sous-déterminée.",
         "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
-        "ipa": "a mwɛ̃ kə lə kɔʁ.pys nə swa e.laʁ.ʒi li.pɔ.tɛz ʁɛs.tə.ʁa su.de.tɛʁ.mi.ne"
+        "ipa": "a mwɛ̃ kə lə kɔʁ.pys nə swa e.laʁ.ʒi li.pɔ.tɛz ʁɛs.tə.ʁa su.de.tɛʁ.mi.ne",
+        "gloss": {
+          "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+          "es": "A menos que se amplíe el corpus, la hipótesis seguirá estando indeterminada.",
+          "ru": "Если корпус не будет расширен, гипотеза останется недоопределенной."
+        }
       },
       {
         "id": "remote-academic-aloud-3",
         "fr": "La relecture par les pairs, dont l’enjeu est épistémique, affine le cadrage.",
         "en": "Peer review, whose stake is epistemic, refines the framing.",
-        "ipa": "la ʁə.lɛk.tyʁ paʁ le pɛʁ dɔ̃ lɑ̃.ʒø ɛ e.pis.te.mik a.fin lə ka.dʁaʒ"
+        "ipa": "la ʁə.lɛk.tyʁ paʁ le pɛʁ dɔ̃ lɑ̃.ʒø ɛ e.pis.te.mik a.fin lə ka.dʁaʒ",
+        "gloss": {
+          "en": "Peer review, whose stake is epistemic, refines the framing.",
+          "es": "La revisión por pares, cuyo interés es epistémico, refina el marco.",
+          "ru": "Экспертная оценка, чья ставка носит эпистемический характер, уточняет структуру."
+        }
       }
     ],
     "unscramble": [
@@ -518,7 +776,12 @@
           "portée",
           "demeure",
           "réelle."
-        ]
+        ],
+        "gloss": {
+          "en": "Even though the framing is debatable, the scope remains real.",
+          "es": "Aunque el marco es discutible, el alcance sigue siendo real.",
+          "ru": "Несмотря на то, что рамки спорны, масштабы остаются реальными."
+        }
       },
       {
         "id": "remote-academic-unsc-2",
@@ -535,7 +798,12 @@
           "ouvre",
           "une",
           "problématique."
-        ]
+        ],
+        "gloss": {
+          "en": "Far from closing the debate, this thesis opens a research problem.",
+          "es": "Lejos de cerrar el debate, esta tesis abre un problema de investigación.",
+          "ru": "Этот тезис не только не завершает дискуссию, но и открывает исследовательскую проблему."
+        }
       }
     ]
   }

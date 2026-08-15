@@ -1,18 +1,30 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "my-topic-a2",
   "version": 1,
   "level": "a2",
-  "title": { "fr": "Mon thème A2", "en": "My topic A2" },
+  "title": {
+    "fr": "Mon thème A2",
+    "en": "My topic A2",
+    "es": "Mi tema A2",
+    "ru": "Моя тема A2"
+  },
   "description": {
-    "fr": "Schéma complet : seed (Cartes + Prononcer/Mots), phrases (Prononcer/Ombre), listen (Prononcer/Écoute + Écouter/spot), prompts (Écrire), grammar (Grammaire), skills (Écouter/Parler/Lire/Sens). Optionnel : sounds (Prononcer/Sons).",
-    "en": "Full schema: seed (Cards + Prononcer/Mots), phrases (Prononcer/Ombre), listen (Prononcer/Écoute + Écouter/spot), prompts (Écrire), grammar (Grammaire), skills (Écouter/Parler/Lire/Sens). Optional: sounds (Prononcer/Sons)."
+    "fr": "Schéma v2 : seed.gloss + wordGloss (Cartes / Prononcer), phrases.gloss, grammar title/rule/why en cartes de locales, prompts FR only.",
+    "en": "v2 schema: seed.gloss + wordGloss (Cards / Prononcer), phrases.gloss, grammar title/rule/why as locale maps; prompts stay French-only.",
+    "es": "Esquema v2: seed.gloss + wordGloss, phrases.gloss, grammar title/rule/why como mapas de locales; prompts solo en francés.",
+    "ru": "Схема v2: seed.gloss + wordGloss, phrases.gloss, grammar title/rule/why как карты локалей; prompts только на французском."
   },
   "seed": [
     {
       "id": "remote-my-topic-a2-1",
       "fr": "exemple",
       "en": "example",
+      "gloss": {
+        "en": "example",
+        "es": "ejemplo",
+        "ru": "пример"
+      },
       "example": "Voici un exemple de phrase.",
       "ipa": "ɛɡ.zɑ̃pl",
       "article": "le"
@@ -23,6 +35,11 @@
       "id": "remote-my-topic-phrase-1",
       "fr": "Phrase utile pour Prononcer / Ombre.",
       "en": "Useful phrase for Prononcer / Ombre.",
+      "gloss": {
+        "en": "Useful phrase for Prononcer / Ombre.",
+        "es": "Frase útil para Prononcer / Ombre.",
+        "ru": "Полезная фраза для Prononcer / Ombre."
+      },
       "ipa": "fʁaz y.til"
     }
   ],
@@ -31,8 +48,18 @@
       "id": "remote-my-topic-listen-1",
       "fr": "Phrase pour Prononcer / Écoute et Écouter / spot.",
       "en": "Sentence for Prononcer / Écoute and Écouter / spot.",
+      "gloss": {
+        "en": "Sentence for Prononcer / Écoute and Écouter / spot.",
+        "es": "Frase para Prononcer / Écoute y Écouter / spot.",
+        "ru": "Фраза для Prononcer / Écoute и Écouter / spot."
+      },
       "word": "exemple",
       "wordEn": "example",
+      "wordGloss": {
+        "en": "example",
+        "es": "ejemplo",
+        "ru": "пример"
+      },
       "wordIpa": "ɛɡ.zɑ̃pl",
       "distractors": ["autre", "mot", "choix"]
     }
@@ -45,8 +72,23 @@
   "grammar": [
     {
       "id": "remote-my-topic-grammar-1",
-      "title": { "fr": "Titre de la leçon", "en": "Lesson title" },
-      "rule": "Courte règle pour le mode Grammaire.",
+      "title": {
+        "fr": "Titre de la leçon",
+        "en": "Lesson title",
+        "es": "Título de la lección",
+        "ru": "Название урока"
+      },
+      "rule": {
+        "fr": "Courte règle pour le mode Grammaire.",
+        "en": "Short rule for Grammar mode.",
+        "es": "Regla corta para el modo Gramática.",
+        "ru": "Краткое правило для режима «Грамматика»."
+      },
+      "why": {
+        "en": "Helps you choose the right form when speaking or writing.",
+        "es": "Ayuda a elegir la forma correcta al hablar o escribir.",
+        "ru": "Помогает выбрать нужную форму при речи или письме."
+      },
       "table": [
         ["Colonne A", "Colonne B", "Exemple"],
         ["forme", "usage", "exemple"]
@@ -67,6 +109,11 @@
         "id": "remote-my-topic-dict-1",
         "fr": "Phrase de dictée (Écouter).",
         "en": "Dictation sentence (Listen).",
+        "gloss": {
+          "en": "Dictation sentence (Listen).",
+          "es": "Frase de dictado (Escuchar).",
+          "ru": "Фраза для диктанта (Слушать)."
+        },
         "ipa": "fʁaz də dik.te"
       }
     ],
@@ -75,14 +122,23 @@
         "id": "remote-my-topic-mean-1",
         "fr": "Phrase pour Sens.",
         "en": "Sentence for Meaning.",
-        "choices": ["Sentence for Meaning.", "Wrong A.", "Wrong B."]
+        "gloss": {
+          "en": "Sentence for Meaning.",
+          "es": "Frase para Significado.",
+          "ru": "Фраза для режима «Смысл»."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-my-topic-fren-1",
         "fr": "exemple",
-        "en": "example"
+        "en": "example",
+        "gloss": {
+          "en": "example",
+          "es": "ejemplo",
+          "ru": "пример"
+        }
       }
     ],
     "aloud": [
@@ -90,6 +146,11 @@
         "id": "remote-my-topic-aloud-1",
         "fr": "Phrase à lire à voix haute (Parler).",
         "en": "Sentence to read aloud (Speak).",
+        "gloss": {
+          "en": "Sentence to read aloud (Speak).",
+          "es": "Frase para leer en voz alta (Hablar).",
+          "ru": "Фраза для чтения вслух (Говорить)."
+        },
         "ipa": "fʁaz a liʁ"
       }
     ],
@@ -98,6 +159,11 @@
         "id": "remote-my-topic-unsc-1",
         "fr": "Voici un exemple.",
         "en": "Here is an example.",
+        "gloss": {
+          "en": "Here is an example.",
+          "es": "Aquí hay un ejemplo.",
+          "ru": "Вот пример."
+        },
         "words": ["Voici", "un", "exemple."]
       }
     ],
@@ -106,6 +172,11 @@
         "id": "remote-my-topic-sign-1",
         "fr": "sortie",
         "en": "exit",
+        "gloss": {
+          "en": "exit",
+          "es": "salida",
+          "ru": "выход"
+        },
         "hint": "optional signs drill"
       }
     ]

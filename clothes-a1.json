@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "clothes-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "title": {
     "fr": "Vêtements A1",
-    "en": "Clothes A1"
+    "en": "Clothes A1",
+    "es": "Ropa A1",
+    "ru": "Одежда А1"
   },
   "description": {
     "fr": "Habits, couleurs et expressions simples pour s’habiller au quotidien.",
-    "en": "Clothes, colors, and simple phrases for getting dressed every day."
+    "en": "Clothes, colors, and simple phrases for getting dressed every day.",
+    "es": "Ropa, colores y frases sencillas para vestirse cada día.",
+    "ru": "Одежда, цвета и простые фразы, которые помогут одеваться каждый день."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "trousers / pants",
       "example": "Je porte un pantalon bleu.",
       "ipa": "pɑ̃.ta.lɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "trousers / pants",
+        "es": "pantalones / pantalones",
+        "ru": "брюки / штаны"
+      }
     },
     {
       "id": "remote-clothes-a1-2",
@@ -26,7 +35,12 @@
       "en": "shirt",
       "example": "Cette chemise est blanche.",
       "ipa": "ʃə.miz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "shirt",
+        "es": "camisa",
+        "ru": "рубашка"
+      }
     },
     {
       "id": "remote-clothes-a1-3",
@@ -34,7 +48,12 @@
       "en": "dress",
       "example": "Elle porte une robe rouge.",
       "ipa": "ʁɔb",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "dress",
+        "es": "vestido",
+        "ru": "одеваться"
+      }
     },
     {
       "id": "remote-clothes-a1-4",
@@ -42,7 +61,12 @@
       "en": "skirt",
       "example": "La jupe est trop courte.",
       "ipa": "ʒyp",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "skirt",
+        "es": "falda",
+        "ru": "юбка"
+      }
     },
     {
       "id": "remote-clothes-a1-5",
@@ -50,7 +74,12 @@
       "en": "coat",
       "example": "Je mets mon manteau.",
       "ipa": "mɑ̃.to",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "coat",
+        "es": "abrigo",
+        "ru": "пальто"
+      }
     },
     {
       "id": "remote-clothes-a1-6",
@@ -58,7 +87,12 @@
       "en": "shoe",
       "example": "Mes chaussures sont noires.",
       "ipa": "ʃo.syʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "shoe",
+        "es": "zapato",
+        "ru": "туфля"
+      }
     },
     {
       "id": "remote-clothes-a1-7",
@@ -66,7 +100,12 @@
       "en": "hat",
       "example": "Il a un chapeau gris.",
       "ipa": "ʃa.po",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "hat",
+        "es": "sombrero",
+        "ru": "шляпа"
+      }
     },
     {
       "id": "remote-clothes-a1-8",
@@ -74,7 +113,12 @@
       "en": "sweater / jumper",
       "example": "J’ai un pull chaud.",
       "ipa": "pyl",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "sweater / jumper",
+        "es": "suéter / jersey",
+        "ru": "свитер / джемпер"
+      }
     },
     {
       "id": "remote-clothes-a1-9",
@@ -82,7 +126,12 @@
       "en": "jacket",
       "example": "Sa veste est élégante.",
       "ipa": "vɛst",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "jacket",
+        "es": "chaqueta",
+        "ru": "куртка"
+      }
     },
     {
       "id": "remote-clothes-a1-10",
@@ -90,7 +139,12 @@
       "en": "sock",
       "example": "J’ai perdu une chaussette.",
       "ipa": "ʃo.sɛt",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "sock",
+        "es": "calcetín",
+        "ru": "носок"
+      }
     },
     {
       "id": "remote-clothes-a1-11",
@@ -98,7 +152,12 @@
       "en": "scarf",
       "example": "L’écharpe est en laine.",
       "ipa": "e.ʃaʁp",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "scarf",
+        "es": "bufanda",
+        "ru": "шарф"
+      }
     },
     {
       "id": "remote-clothes-a1-12",
@@ -106,7 +165,12 @@
       "en": "glove",
       "example": "Mets tes gants, il fait froid.",
       "ipa": "ɡɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "glove",
+        "es": "guante",
+        "ru": "перчатка"
+      }
     },
     {
       "id": "remote-clothes-a1-13",
@@ -114,7 +178,12 @@
       "en": "jeans",
       "example": "Je mets un jean le week-end.",
       "ipa": "dʒin",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "jeans",
+        "es": "vaqueros",
+        "ru": "джинсы"
+      }
     },
     {
       "id": "remote-clothes-a1-14",
@@ -122,7 +191,12 @@
       "en": "t-shirt",
       "example": "Mon t-shirt est blanc.",
       "ipa": "ti.ʃœʁt",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "t-shirt",
+        "es": "camiseta",
+        "ru": "футболка"
+      }
     },
     {
       "id": "remote-clothes-a1-15",
@@ -130,7 +204,12 @@
       "en": "color",
       "example": "Quelle est ta couleur préférée ?",
       "ipa": "ku.lœʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "color",
+        "es": "color",
+        "ru": "цвет"
+      }
     },
     {
       "id": "remote-clothes-a1-16",
@@ -138,7 +217,12 @@
       "en": "size",
       "example": "Quelle est votre taille ?",
       "ipa": "taj",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "size",
+        "es": "tamaño",
+        "ru": "размер"
+      }
     },
     {
       "id": "remote-clothes-a1-17",
@@ -146,7 +230,12 @@
       "en": "belt",
       "example": "La ceinture est en cuir.",
       "ipa": "sɛ̃.tyʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "belt",
+        "es": "cinturón",
+        "ru": "пояс"
+      }
     },
     {
       "id": "remote-clothes-a1-18",
@@ -154,7 +243,12 @@
       "en": "glasses",
       "example": "J’ai des lunettes de soleil.",
       "ipa": "ly.nɛt",
-      "article": "les"
+      "article": "les",
+      "gloss": {
+        "en": "glasses",
+        "es": "anteojos",
+        "ru": "очки"
+      }
     },
     {
       "id": "remote-clothes-a1-19",
@@ -162,7 +256,12 @@
       "en": "pyjamas / pajamas",
       "example": "Je mets mon pyjama.",
       "ipa": "pi.ʒa.ma",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "pyjamas / pajamas",
+        "es": "pijamas / pijamas",
+        "ru": "пижама / пижамы"
+      }
     },
     {
       "id": "remote-clothes-a1-20",
@@ -170,7 +269,12 @@
       "en": "item of clothing",
       "example": "J’achète des vêtements.",
       "ipa": "vɛt.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "item of clothing",
+        "es": "prenda de vestir",
+        "ru": "предмет одежды"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-clothes-phrase-1",
       "fr": "Je porte un pantalon et une chemise.",
       "en": "I’m wearing trousers and a shirt.",
-      "ipa": "ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ e yn ʃə.miz"
+      "ipa": "ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ e yn ʃə.miz",
+      "gloss": {
+        "en": "I’m wearing trousers and a shirt.",
+        "es": "Llevo pantalón y camisa.",
+        "ru": "Я ношу брюки и рубашку."
+      }
     },
     {
       "id": "remote-clothes-phrase-2",
       "fr": "Quelle est ta couleur préférée ?",
       "en": "What’s your favorite color?",
-      "ipa": "kɛl ɛ ta ku.lœʁ pʁe.fe.ʁe"
+      "ipa": "kɛl ɛ ta ku.lœʁ pʁe.fe.ʁe",
+      "gloss": {
+        "en": "What’s your favorite color?",
+        "es": "¿Cuál es tu color favorito?",
+        "ru": "Какой твой любимый цвет?"
+      }
     },
     {
       "id": "remote-clothes-phrase-3",
       "fr": "Il fait froid : mets ton manteau.",
       "en": "It’s cold: put on your coat.",
-      "ipa": "il fɛ fʁwa mɛ tɔ̃ mɑ̃.to"
+      "ipa": "il fɛ fʁwa mɛ tɔ̃ mɑ̃.to",
+      "gloss": {
+        "en": "It’s cold: put on your coat.",
+        "es": "Hace frío: ponte el abrigo.",
+        "ru": "Холодно: надень пальто."
+      }
     },
     {
       "id": "remote-clothes-phrase-4",
       "fr": "Ces chaussures sont trop petites.",
       "en": "These shoes are too small.",
-      "ipa": "se ʃo.syʁ sɔ̃ tʁo pə.tit"
+      "ipa": "se ʃo.syʁ sɔ̃ tʁo pə.tit",
+      "gloss": {
+        "en": "These shoes are too small.",
+        "es": "Estos zapatos son demasiado pequeños.",
+        "ru": "Эти туфли слишком малы."
+      }
     },
     {
       "id": "remote-clothes-phrase-5",
       "fr": "J’aime cette robe rouge.",
       "en": "I like this red dress.",
-      "ipa": "ʒɛm sɛt ʁɔb ʁuʒ"
+      "ipa": "ʒɛm sɛt ʁɔb ʁuʒ",
+      "gloss": {
+        "en": "I like this red dress.",
+        "es": "Me gusta este vestido rojo.",
+        "ru": "Мне нравится это красное платье."
+      }
     },
     {
       "id": "remote-clothes-phrase-6",
       "fr": "Quelle est votre taille ?",
       "en": "What is your size?",
-      "ipa": "kɛl ɛ vɔtʁ taj"
+      "ipa": "kɛl ɛ vɔtʁ taj",
+      "gloss": {
+        "en": "What is your size?",
+        "es": "¿Cuál es tu talla?",
+        "ru": "Какой у вас размер?"
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "pantalon",
         "chapeau",
         "pull"
-      ]
+      ],
+      "gloss": {
+        "en": "I put on my coat because it’s cold.",
+        "es": "Me pongo el abrigo porque hace frío.",
+        "ru": "Я надел пальто, потому что холодно."
+      },
+      "wordGloss": {
+        "en": "coat",
+        "es": "abrigo",
+        "ru": "пальто"
+      }
     },
     {
       "id": "remote-clothes-listen-2",
@@ -236,7 +380,17 @@
         "jupe",
         "veste",
         "chemise"
-      ]
+      ],
+      "gloss": {
+        "en": "She’s wearing a red dress for the party.",
+        "es": "Lleva un vestido rojo para la fiesta.",
+        "ru": "На вечеринку она одета в красное платье."
+      },
+      "wordGloss": {
+        "en": "dress",
+        "es": "vestido",
+        "ru": "одеваться"
+      }
     },
     {
       "id": "remote-clothes-listen-3",
@@ -249,7 +403,17 @@
         "chaussettes",
         "gants",
         "lunettes"
-      ]
+      ],
+      "gloss": {
+        "en": "My shoes are too small.",
+        "es": "Mis zapatos son demasiado pequeños.",
+        "ru": "Моя обувь слишком мала."
+      },
+      "wordGloss": {
+        "en": "shoes",
+        "es": "zapatos",
+        "ru": "обувь"
+      }
     },
     {
       "id": "remote-clothes-listen-4",
@@ -262,7 +426,17 @@
         "taille",
         "veste",
         "ceinture"
-      ]
+      ],
+      "gloss": {
+        "en": "What’s your favorite color?",
+        "es": "¿Cuál es tu color favorito?",
+        "ru": "Какой твой любимый цвет?"
+      },
+      "wordGloss": {
+        "en": "color",
+        "es": "color",
+        "ru": "цвет"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-clothes-grammar-1",
       "title": {
         "fr": "Porter / mettre",
-        "en": "Porter and mettre"
+        "en": "Porter and mettre",
+        "es": "Portero y mettre",
+        "ru": "Портер и Меттре"
       },
-      "rule": "Porter décrit ce que l’on a sur soi : Je porte une robe. Mettre indique l’action de s’habiller : Je mets mon manteau.",
+      "rule": {
+        "fr": "Porter décrit ce que l’on a sur soi : Je porte une robe. Mettre indique l’action de s’habiller : Je mets mon manteau.",
+        "en": "Wearing describes what one has on oneself: I am wearing a dress. Putting on indicates the action of getting dressed: I put on my coat.",
+        "es": "Usar describe lo que uno tiene sobre sí mismo: llevo un vestido. Ponerse indica la acción de vestirse: me pongo el abrigo.",
+        "ru": "Ношение описывает то, что человек имеет на себе: я ношу платье. Надевание указывает на действие, связанное с одеванием: я надеваю пальто."
+      },
       "table": [
         [
           "Verbe",
@@ -337,15 +518,27 @@
             "Essaie"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Porter and mettre.",
+        "es": "Útil cuando es necesario aplicar: Porter y mettre.",
+        "ru": "Полезно, когда нужно применить: Портер и меттре."
+      }
     },
     {
       "id": "remote-clothes-grammar-2",
       "title": {
         "fr": "Les adjectifs de couleur",
-        "en": "Color adjectives"
+        "en": "Color adjectives",
+        "es": "Adjetivos de color",
+        "ru": "Цветовые прилагательные"
       },
-      "rule": "Les adjectifs de couleur s’accordent souvent : un pantalon bleu, une robe rouge, des chaussures noires. Ils se placent après le nom.",
+      "rule": {
+        "fr": "Les adjectifs de couleur s’accordent souvent : un pantalon bleu, une robe rouge, des chaussures noires. Ils se placent après le nom.",
+        "en": "Color adjectives often go together: blue pants, a red dress, black shoes. They are placed after the name.",
+        "es": "Los adjetivos de color suelen ir juntos: pantalones azules, vestido rojo, zapatos negros. Se colocan después del nombre.",
+        "ru": "Цветовые прилагательные часто сочетаются друг с другом: синие брюки, красное платье, черные туфли. Они располагаются после названия."
+      },
       "table": [
         [
           "Masculin",
@@ -404,7 +597,12 @@
             "bleues"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Color adjectives.",
+        "es": "Útil cuando necesitas aplicar: Adjetivos de color.",
+        "ru": "Полезно, когда вам нужно применить: Цветовые прилагательные."
+      }
     }
   ],
   "skills": {
@@ -413,19 +611,34 @@
         "id": "remote-clothes-dict-1",
         "fr": "Je porte un pantalon et une chemise.",
         "en": "I’m wearing trousers and a shirt.",
-        "ipa": "ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ e yn ʃə.miz"
+        "ipa": "ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ e yn ʃə.miz",
+        "gloss": {
+          "en": "I’m wearing trousers and a shirt.",
+          "es": "Llevo pantalón y camisa.",
+          "ru": "Я ношу брюки и рубашку."
+        }
       },
       {
         "id": "remote-clothes-dict-2",
         "fr": "Quelle est ta couleur préférée ?",
         "en": "What’s your favorite color?",
-        "ipa": "kɛl ɛ ta ku.lœʁ pʁe.fe.ʁe"
+        "ipa": "kɛl ɛ ta ku.lœʁ pʁe.fe.ʁe",
+        "gloss": {
+          "en": "What’s your favorite color?",
+          "es": "¿Cuál es tu color favorito?",
+          "ru": "Какой твой любимый цвет?"
+        }
       },
       {
         "id": "remote-clothes-dict-3",
         "fr": "Il fait froid : mets ton manteau.",
         "en": "It’s cold: put on your coat.",
-        "ipa": "il fɛ fʁwa mɛ tɔ̃ mɑ̃.to"
+        "ipa": "il fɛ fʁwa mɛ tɔ̃ mɑ̃.to",
+        "gloss": {
+          "en": "It’s cold: put on your coat.",
+          "es": "Hace frío: ponte el abrigo.",
+          "ru": "Холодно: надень пальто."
+        }
       }
     ],
     "meaning": [
@@ -433,63 +646,93 @@
         "id": "remote-clothes-mean-1",
         "fr": "Je porte un pantalon et une chemise.",
         "en": "I’m wearing trousers and a shirt.",
-        "choices": [
-          "I’m wearing trousers and a shirt.",
-          "What’s your favorite color?",
-          "It’s cold: put on your coat."
-        ]
+        "gloss": {
+          "en": "I’m wearing trousers and a shirt.",
+          "es": "Llevo pantalón y camisa.",
+          "ru": "Я ношу брюки и рубашку."
+        }
       },
       {
         "id": "remote-clothes-mean-2",
         "fr": "Quelle est ta couleur préférée ?",
         "en": "What’s your favorite color?",
-        "choices": [
-          "What’s your favorite color?",
-          "I’m wearing trousers and a shirt.",
-          "It’s cold: put on your coat."
-        ]
+        "gloss": {
+          "en": "What’s your favorite color?",
+          "es": "¿Cuál es tu color favorito?",
+          "ru": "Какой твой любимый цвет?"
+        }
       },
       {
         "id": "remote-clothes-mean-3",
         "fr": "Il fait froid : mets ton manteau.",
         "en": "It’s cold: put on your coat.",
-        "choices": [
-          "It’s cold: put on your coat.",
-          "I’m wearing trousers and a shirt.",
-          "What’s your favorite color?"
-        ]
+        "gloss": {
+          "en": "It’s cold: put on your coat.",
+          "es": "Hace frío: ponte el abrigo.",
+          "ru": "Холодно: надень пальто."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-clothes-fren-1",
         "fr": "pantalon",
-        "en": "trousers"
+        "en": "trousers",
+        "gloss": {
+          "en": "trousers",
+          "es": "pantalones",
+          "ru": "брюки"
+        }
       },
       {
         "id": "remote-clothes-fren-2",
         "fr": "chemise",
-        "en": "shirt"
+        "en": "shirt",
+        "gloss": {
+          "en": "shirt",
+          "es": "camisa",
+          "ru": "рубашка"
+        }
       },
       {
         "id": "remote-clothes-fren-3",
         "fr": "robe",
-        "en": "dress"
+        "en": "dress",
+        "gloss": {
+          "en": "dress",
+          "es": "vestido",
+          "ru": "одеваться"
+        }
       },
       {
         "id": "remote-clothes-fren-4",
         "fr": "jupe",
-        "en": "skirt"
+        "en": "skirt",
+        "gloss": {
+          "en": "skirt",
+          "es": "falda",
+          "ru": "юбка"
+        }
       },
       {
         "id": "remote-clothes-fren-5",
         "fr": "manteau",
-        "en": "coat"
+        "en": "coat",
+        "gloss": {
+          "en": "coat",
+          "es": "abrigo",
+          "ru": "пальто"
+        }
       },
       {
         "id": "remote-clothes-fren-6",
         "fr": "chaussure",
-        "en": "shoe"
+        "en": "shoe",
+        "gloss": {
+          "en": "shoe",
+          "es": "zapato",
+          "ru": "туфля"
+        }
       }
     ],
     "aloud": [
@@ -497,19 +740,34 @@
         "id": "remote-clothes-aloud-1",
         "fr": "Je porte un pantalon et une chemise.",
         "en": "I’m wearing trousers and a shirt.",
-        "ipa": "ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ e yn ʃə.miz"
+        "ipa": "ʒə pɔʁt œ̃ pɑ̃.ta.lɔ̃ e yn ʃə.miz",
+        "gloss": {
+          "en": "I’m wearing trousers and a shirt.",
+          "es": "Llevo pantalón y camisa.",
+          "ru": "Я ношу брюки и рубашку."
+        }
       },
       {
         "id": "remote-clothes-aloud-2",
         "fr": "Il fait froid : mets ton manteau.",
         "en": "It’s cold: put on your coat.",
-        "ipa": "il fɛ fʁwa mɛ tɔ̃ mɑ̃.to"
+        "ipa": "il fɛ fʁwa mɛ tɔ̃ mɑ̃.to",
+        "gloss": {
+          "en": "It’s cold: put on your coat.",
+          "es": "Hace frío: ponte el abrigo.",
+          "ru": "Холодно: надень пальто."
+        }
       },
       {
         "id": "remote-clothes-aloud-3",
         "fr": "J’aime cette robe rouge.",
         "en": "I like this red dress.",
-        "ipa": "ʒɛm sɛt ʁɔb ʁuʒ"
+        "ipa": "ʒɛm sɛt ʁɔb ʁuʒ",
+        "gloss": {
+          "en": "I like this red dress.",
+          "es": "Me gusta este vestido rojo.",
+          "ru": "Мне нравится это красное платье."
+        }
       }
     ],
     "unscramble": [
@@ -523,7 +781,12 @@
           "sont",
           "trop",
           "petites."
-        ]
+        ],
+        "gloss": {
+          "en": "These shoes are too small.",
+          "es": "Estos zapatos son demasiado pequeños.",
+          "ru": "Эти туфли слишком малы."
+        }
       },
       {
         "id": "remote-clothes-unsc-2",
@@ -534,7 +797,12 @@
           "cette",
           "robe",
           "rouge."
-        ]
+        ],
+        "gloss": {
+          "en": "I like this red dress.",
+          "es": "Me gusta este vestido rojo.",
+          "ru": "Мне нравится это красное платье."
+        }
       }
     ]
   }

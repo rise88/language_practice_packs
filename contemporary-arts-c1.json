@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "contemporary-arts-c1",
-  "version": 1,
+  "version": 2,
   "level": "c1",
   "title": {
     "fr": "Arts contemporains C1",
-    "en": "Contemporary arts C1"
+    "en": "Contemporary arts C1",
+    "es": "Artes contemporáneas C1",
+    "ru": "Современное искусство C1"
   },
   "description": {
     "fr": "Installation, commissariat, canon, appropriation et réception.",
-    "en": "Installation, curating, canon, appropriation, and reception."
+    "en": "Installation, curating, canon, appropriation, and reception.",
+    "es": "Instalación, comisariado, canon, apropiación y recepción.",
+    "ru": "Инсталляция, курирование, канон, присвоение и прием."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "installation",
       "example": "L’installation, dont la réception dépend du site, déplace le regard du tableau vers un dispositif spatial et temporel.",
       "ipa": "ɛ̃s.ta.la.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "installation",
+        "es": "instalación",
+        "ru": "установка"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-2",
@@ -26,7 +35,12 @@
       "en": "curating",
       "example": "Le commissariat, loin d’être un simple accrochage, produit un cadrage qui oriente la lecture du canon et de ses marges.",
       "ipa": "kɔ.mi.sa.ʁja",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "curating",
+        "es": "curando",
+        "ru": "кураторство"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-3",
@@ -34,7 +48,12 @@
       "en": "canon",
       "example": "Le canon, encore qu’il se présente comme une évidence historique, résulte d’un commissariat dont les exclusions restent lisibles.",
       "ipa": "ka.nɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "canon",
+        "es": "canon",
+        "ru": "канон"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-4",
@@ -42,7 +61,12 @@
       "en": "appropriation",
       "example": "L’appropriation, quitte à se revendiquer comme citation, peut effacer les conditions de production de l’œuvre source.",
       "ipa": "a.pʁɔ.pʁi.ja.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "appropriation",
+        "es": "apropiación",
+        "ru": "присвоение"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-5",
@@ -50,7 +74,12 @@
       "en": "reception",
       "example": "La réception, à moins d’être documentée, laisse dans l’ombre les publics que le white cube n’a jamais visés.",
       "ipa": "ʁe.sɛp.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "reception",
+        "es": "recepción",
+        "ru": "прием"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-6",
@@ -58,7 +87,12 @@
       "en": "performance",
       "example": "La performance, dont l’aura tient à l’éphémère, résiste au catalogue raisonné que le musée voudrait en tirer.",
       "ipa": "pɛʁ.fɔʁ.mɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "performance",
+        "es": "actuación",
+        "ru": "производительность"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-7",
@@ -66,7 +100,12 @@
       "en": "ready-made",
       "example": "Le ready-made, loin de clore le geste artistique, a déplacé le critère du faire vers celui du choix et du cadrage.",
       "ipa": "ʁɛ.di.mɛd",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "ready-made",
+        "es": "confeccionado",
+        "ru": "готовый"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-8",
@@ -74,7 +113,12 @@
       "en": "scenography",
       "example": "La scénographie, encore qu’on la tienne pour un accessoire, structure la réception autant que les œuvres elles-mêmes.",
       "ipa": "se.nɔ.ɡʁa.fi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "scenography",
+        "es": "escenografía",
+        "ru": "сценография"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-9",
@@ -82,7 +126,12 @@
       "en": "mediation (gallery education)",
       "example": "La médiation, quitte à didactiser l’installation, ouvre un accès que le canon seul n’offre pas aux publics empêchés.",
       "ipa": "me.dja.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "mediation (gallery education)",
+        "es": "mediación (educación en galería)",
+        "ru": "медиация (галерея образования)"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-10",
@@ -90,7 +139,12 @@
       "en": "hanging / hang",
       "example": "L’accrochage, à moins qu’il ne soit naïvement chronologique, constitue déjà un commissariat, donc un énoncé.",
       "ipa": "a.kʁɔ.ʃaʒ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "hanging / hang",
+        "es": "colgar / colgar",
+        "ru": "висеть / висеть"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-11",
@@ -98,7 +152,12 @@
       "en": "palimpsest",
       "example": "Le palimpseste, dont les strates se lisent in situ, figure une mémoire que l’appropriation contemporaine vient réécrire.",
       "ipa": "pa.lɛ̃p.sɛst",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "palimpsest",
+        "es": "palimpsesto",
+        "ru": "палимпсест"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-12",
@@ -106,7 +165,12 @@
       "en": "détournement / hijacking",
       "example": "Le détournement, encore qu’il se réclame d’une subversion, peut devenir un style que le marché absorbe sans friction.",
       "ipa": "de.tuʁ.nə.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "détournement / hijacking",
+        "es": "desvío / secuestro",
+        "ru": "объезд / угон"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-13",
@@ -114,7 +178,12 @@
       "en": "biennial",
       "example": "La biennale, loin d’être un simple calendrier, redistribue le canon mondial selon des géographies que le commissariat choisit.",
       "ipa": "bjɛ.nal",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "biennial",
+        "es": "bienal",
+        "ru": "раз в два года"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-14",
@@ -122,7 +191,12 @@
       "en": "intertextuality",
       "example": "L’intertextualité, quitte à tout ramener à la citation, n’exonère pas d’une réflexion sur l’appropriation et le crédit.",
       "ipa": "ɛ̃.tɛʁ.tɛks.tɥa.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "intertextuality",
+        "es": "intertextualidad",
+        "ru": "интертекстуальность"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-15",
@@ -130,7 +204,12 @@
       "en": "aura",
       "example": "L’aura, à moins de n’être qu’une nostalgie benjaminienne, ressurgit dans la performance dont nulle reproduction ne suffit.",
       "ipa": "o.ʁa",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "aura",
+        "es": "aura",
+        "ru": "аура"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-16",
@@ -138,7 +217,12 @@
       "en": "subversion",
       "example": "La subversion, dont le musée a appris à faire collection, pose la question de ce qui reste critique une fois canonisé.",
       "ipa": "syb.vɛʁ.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "subversion",
+        "es": "subversión",
+        "ru": "подрывная деятельность"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-17",
@@ -146,7 +230,12 @@
       "en": "residency",
       "example": "La résidence, encore qu’elle finance le plasticien, oriente parfois l’œuvre vers une commande dont le site dicte l’agenda.",
       "ipa": "ʁe.zi.dɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "residency",
+        "es": "residencia",
+        "ru": "резиденция"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-18",
@@ -154,7 +243,12 @@
       "en": "visual artist",
       "example": "Le plasticien, loin de travailler hors sol, négocie avec un commissariat, une collection et une réception déjà cadrée.",
       "ipa": "plas.ti.sjɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "visual artist",
+        "es": "artista visual",
+        "ru": "визуальный художник"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-19",
@@ -162,7 +256,12 @@
       "en": "catalogue",
       "example": "Le catalogue, quitte à figer l’installation, reste le principal vecteur par lequel le canon voyage hors du lieu d’accrochage.",
       "ipa": "ka.ta.lɔɡ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "catalogue",
+        "es": "catalogar",
+        "ru": "каталог"
+      }
     },
     {
       "id": "remote-contemporary-arts-c1-20",
@@ -170,7 +269,12 @@
       "en": "work (of art)",
       "example": "L’œuvre in situ, à moins d’être réduite à une photographie, exige une réception qui accepte l’éphémère du dispositif.",
       "ipa": "œvʁ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "work (of art)",
+        "es": "obra de arte)",
+        "ru": "произведение (искусства)"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-contemporary-arts-phrase-1",
       "fr": "Encore que l’installation soit spectaculaire, sa réception reste socialement située.",
       "en": "Even though the installation is spectacular, its reception remains socially situated.",
-      "ipa": "ɑ̃.kɔʁ kə lɛ̃s.ta.la.sjɔ̃ swa spɛk.ta.ky.lɛʁ sa ʁe.sɛp.sjɔ̃ ʁɛst sɔ.sjal.mɑ̃ si.tɥe"
+      "ipa": "ɑ̃.kɔʁ kə lɛ̃s.ta.la.sjɔ̃ swa spɛk.ta.ky.lɛʁ sa ʁe.sɛp.sjɔ̃ ʁɛst sɔ.sjal.mɑ̃ si.tɥe",
+      "gloss": {
+        "en": "Even though the installation is spectacular, its reception remains socially situated.",
+        "es": "Aunque la instalación es espectacular, su acogida sigue siendo social.",
+        "ru": "Несмотря на то, что инсталляция впечатляет, ее прием остается социально ориентированным."
+      }
     },
     {
       "id": "remote-contemporary-arts-phrase-2",
       "fr": "Loin d’être un simple accrochage, le commissariat produit un cadrage du canon.",
       "en": "Far from being a mere hang, curating produces a framing of the canon.",
-      "ipa": "lwɛ̃ dɛtʁ œ̃ sɛ̃pl a.kʁɔ.ʃaʒ lə kɔ.mi.sa.ʁja pʁɔ.dɥi œ̃ ka.dʁaʒ dy ka.nɔ̃"
+      "ipa": "lwɛ̃ dɛtʁ œ̃ sɛ̃pl a.kʁɔ.ʃaʒ lə kɔ.mi.sa.ʁja pʁɔ.dɥi œ̃ ka.dʁaʒ dy ka.nɔ̃",
+      "gloss": {
+        "en": "Far from being a mere hang, curating produces a framing of the canon.",
+        "es": "Lejos de ser un mero truco, el comisariado produce un encuadre del canon.",
+        "ru": "Кураторство – это не просто подвешивание, а создание канона."
+      }
     },
     {
       "id": "remote-contemporary-arts-phrase-3",
       "fr": "À moins que l’appropriation ne soit créditée, elle efface les conditions de l’œuvre source.",
       "en": "Unless appropriation is credited, it erases the conditions of the source work.",
-      "ipa": "a mwɛ̃ kə la.pʁɔ.pʁi.ja.sjɔ̃ nə swa kʁe.di.te ɛl e.fas le kɔ̃.di.sjɔ̃ də lœvʁ suʁs"
+      "ipa": "a mwɛ̃ kə la.pʁɔ.pʁi.ja.sjɔ̃ nə swa kʁe.di.te ɛl e.fas le kɔ̃.di.sjɔ̃ də lœvʁ suʁs",
+      "gloss": {
+        "en": "Unless appropriation is credited, it erases the conditions of the source work.",
+        "es": "A menos que se acredite la apropiación, ésta borra las condiciones de la obra fuente.",
+        "ru": "Если присвоение не засчитывается, оно стирает условия исходной работы."
+      }
     },
     {
       "id": "remote-contemporary-arts-phrase-4",
       "fr": "Quitte à didactiser l’œuvre, la médiation ouvre un accès que le canon n’offre pas.",
       "en": "Even if it didactizes the work, mediation opens access the canon does not offer.",
-      "ipa": "kit a di.dak.ti.ze lœvʁ la me.dja.sjɔ̃ uvʁ œ̃ nak.sɛ kə lə ka.nɔ̃ nɔfʁ pa"
+      "ipa": "kit a di.dak.ti.ze lœvʁ la me.dja.sjɔ̃ uvʁ œ̃ nak.sɛ kə lə ka.nɔ̃ nɔfʁ pa",
+      "gloss": {
+        "en": "Even if it didactizes the work, mediation opens access the canon does not offer.",
+        "es": "Incluso si didactiza la obra, la mediación abre un acceso que el canon no ofrece.",
+        "ru": "Даже если оно дидактизирует работу, посредничество открывает доступ, которого не предлагает канон."
+      }
     },
     {
       "id": "remote-contemporary-arts-phrase-5",
       "fr": "Les œuvres exposées, le public en discute la subversion avec un mélange d’ironie.",
       "en": "With the works now exhibited, the public discusses their subversion with a mix of irony.",
-      "ipa": "le zœvʁ ɛk.spo.ze lə py.blik ɑ̃ dis.kyt la syb.vɛʁ.sjɔ̃ a.vɛk œ̃ me.lɑ̃ʒ di.ʁɔ.ni"
+      "ipa": "le zœvʁ ɛk.spo.ze lə py.blik ɑ̃ dis.kyt la syb.vɛʁ.sjɔ̃ a.vɛk œ̃ me.lɑ̃ʒ di.ʁɔ.ni",
+      "gloss": {
+        "en": "With the works now exhibited, the public discusses their subversion with a mix of irony.",
+        "es": "Con las obras ahora expuestas, el público habla de su subversión con una mezcla de ironía.",
+        "ru": "Сейчас, когда работы выставлены, публика обсуждает их подрывную деятельность с долей иронии."
+      }
     },
     {
       "id": "remote-contemporary-arts-phrase-6",
       "fr": "Le ready-made, affirme-t-on trop vite, aurait définitivement tué l’aura de l’œuvre.",
       "en": "The ready-made, it is too quickly claimed, supposedly killed the work’s aura for good.",
-      "ipa": "lə ʁɛ.di.mɛd a.fiʁm.tɔ̃ tʁo vit o.ʁɛ de.fi.ni.tiv.mɑ̃ tɥe lo.ʁa də lœvʁ"
+      "ipa": "lə ʁɛ.di.mɛd a.fiʁm.tɔ̃ tʁo vit o.ʁɛ de.fi.ni.tiv.mɑ̃ tɥe lo.ʁa də lœvʁ",
+      "gloss": {
+        "en": "The ready-made, it is too quickly claimed, supposedly killed the work’s aura for good.",
+        "es": "Se afirma demasiado rápidamente que el ready-made supuestamente mató el aura de la obra para siempre.",
+        "ru": "Реди-мейд, как слишком поспешно утверждается, якобы навсегда убил ауру произведения."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "catalogue",
         "résidence",
         "scénographie"
-      ]
+      ],
+      "gloss": {
+        "en": "Curating produces a framing that steers the reading of the canon and its margins.",
+        "es": "La curaduría produce un encuadre que orienta la lectura del canon y sus márgenes.",
+        "ru": "Кураторство создает структуру, которая управляет чтением канона и его полей."
+      },
+      "wordGloss": {
+        "en": "curating",
+        "es": "curando",
+        "ru": "кураторство"
+      }
     },
     {
       "id": "remote-contemporary-arts-listen-2",
@@ -236,7 +380,17 @@
         "intertextualité",
         "détournement",
         "palimpseste"
-      ]
+      ],
+      "gloss": {
+        "en": "Appropriation can erase the conditions of production of the source work.",
+        "es": "La apropiación puede borrar las condiciones de producción de la obra fuente.",
+        "ru": "Присвоение может стереть условия производства исходного произведения."
+      },
+      "wordGloss": {
+        "en": "appropriation",
+        "es": "apropiación",
+        "ru": "присвоение"
+      }
     },
     {
       "id": "remote-contemporary-arts-listen-3",
@@ -249,7 +403,17 @@
         "aura",
         "médiation",
         "biennale"
-      ]
+      ],
+      "gloss": {
+        "en": "Reception leaves in the shadows the publics the white cube never targeted.",
+        "es": "La recepción deja en la sombra al público al que nunca se dirigió el cubo blanco.",
+        "ru": "Прием оставляет в тени публику, на которую белый куб никогда не ориентировался."
+      },
+      "wordGloss": {
+        "en": "reception",
+        "es": "recepción",
+        "ru": "прием"
+      }
     },
     {
       "id": "remote-contemporary-arts-listen-4",
@@ -262,7 +426,17 @@
         "performance",
         "accrochage",
         "ready-made"
-      ]
+      ],
+      "gloss": {
+        "en": "The installation shifts the gaze from the painting toward a spatial and temporal apparatus.",
+        "es": "La instalación desplaza la mirada desde la pintura hacia un aparato espacial y temporal.",
+        "ru": "Инсталляция переводит взгляд с картины на пространственно-временной аппарат."
+      },
+      "wordGloss": {
+        "en": "installation",
+        "es": "instalación",
+        "ru": "установка"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-contemporary-arts-grammar-1",
       "title": {
         "fr": "Accord du participe passé (cas complexes)",
-        "en": "Past participle agreement (complex cases)"
+        "en": "Past participle agreement (complex cases)",
+        "es": "Acuerdo de participio pasado (casos complejos)",
+        "ru": "Согласие причастия прошедшего времени (сложные падежи)"
       },
-      "rule": "Avec avoir, le participe s’accorde avec le COD placé avant : les œuvres que le musée a exposées. Le pronom en n’entraîne généralement pas l’accord : il en a exposé plusieurs. Les verbes pronominaux s’accordent avec le sujet si le pronom est objet : elles se sont approprié une forme (COD après) vs les formes qu’elles se sont appropriées.",
+      "rule": {
+        "fr": "Avec avoir, le participe s’accorde avec le COD placé avant : les œuvres que le musée a exposées. Le pronom en n’entraîne généralement pas l’accord : il en a exposé plusieurs. Les verbes pronominaux s’accordent avec le sujet si le pronom est objet : elles se sont approprié une forme (COD après) vs les formes qu’elles se sont appropriées.",
+        "en": "With having, the participle agrees with the COD placed before: the works that the museum has exhibited. The pronoun en does not generally lead to agreement: it has exposed several. Pronominal verbs agree with the subject if the pronoun is an object: they have appropriated a form (COD after) vs. the forms that they have appropriated.",
+        "es": "Con haber, el participio concuerda con el COD colocado antes: las obras que el museo ha exhibido. El pronombre en generalmente no conduce a un acuerdo: ha expuesto varios. Los verbos pronominales concuerdan con el sujeto si el pronombre es un objeto: se han apropiado de una forma (COD después) versus las formas de las que se han apropiado.",
+        "ru": "Причастие With have согласуется с помещенным перед ним COD: произведениями, выставленными в музее. Местоимение en обычно не приводит к согласию: оно выявило несколько. Местоименные глаголы согласуются с подлежащим, если местоимение является объектом: они присвоили форму (COD после) по сравнению с формами, которые они присвоили."
+      },
       "table": [
         [
           "Cas",
@@ -337,15 +518,27 @@
             "appropriée"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Past participle agreement (complex cases).",
+        "es": "Útil cuando necesitas aplicar: Acuerdo de participio pasado (casos complejos).",
+        "ru": "Полезно, когда нужно применить: Соглашение причастия прошедшего времени (сложные случаи)."
+      }
     },
     {
       "id": "remote-contemporary-arts-grammar-2",
       "title": {
         "fr": "Conditionnel d’hypothèse et discours rapporté",
-        "en": "Conditional of hearsay and reported speech"
+        "en": "Conditional of hearsay and reported speech",
+        "es": "Condicional de oídas y discurso indirecto",
+        "ru": "Условно слухи и заявленная речь"
       },
-      "rule": "Le conditionnel marque l’hypothèse ou le discours rapporté non endossé : le ready-made aurait tué l’aura. Dans l’incise, l’inversion est de mise : affirme-t-on. Pour endosser, on revient à l’indicatif.",
+      "rule": {
+        "fr": "Le conditionnel marque l’hypothèse ou le discours rapporté non endossé : le ready-made aurait tué l’aura. Dans l’incise, l’inversion est de mise : affirme-t-on. Pour endosser, on revient à l’indicatif.",
+        "en": "The conditional marks the hypothesis or the reported speech not endorsed: the ready-made would have killed the aura. In the incision, inversion is required: we affirm. To endorse, we return to the indicative.",
+        "es": "El condicional marca la hipótesis o el discurso indirecto no respaldado: el ready-made habría matado el aura. En la incisión se requiere inversión: afirmamos. Para refrendar volvemos al indicativo.",
+        "ru": "Условное обозначение отмечает, что гипотеза или сообщаемая речь не подтверждены: реди-мейд убил бы ауру. В разрезе обязателен выворот: утверждаем. Для подтверждения вернемся к индикативу."
+      },
       "table": [
         [
           "Forme",
@@ -394,7 +587,12 @@
             "rappelé"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Conditional of hearsay and reported speech.",
+        "es": "Útil cuando es necesario aplicar: Condicional de oídas y discurso indirecto.",
+        "ru": "Полезно, когда вам нужно подать заявку: При условии слухов и сообщений."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-contemporary-arts-dict-1",
         "fr": "Encore que l’installation soit spectaculaire, sa réception reste socialement située.",
         "en": "Even though the installation is spectacular, its reception remains socially situated.",
-        "ipa": "ɑ̃.kɔʁ kə lɛ̃s.ta.la.sjɔ̃ swa spɛk.ta.ky.lɛʁ sa ʁe.sɛp.sjɔ̃ ʁɛst sɔ.sjal.mɑ̃ si.tɥe"
+        "ipa": "ɑ̃.kɔʁ kə lɛ̃s.ta.la.sjɔ̃ swa spɛk.ta.ky.lɛʁ sa ʁe.sɛp.sjɔ̃ ʁɛst sɔ.sjal.mɑ̃ si.tɥe",
+        "gloss": {
+          "en": "Even though the installation is spectacular, its reception remains socially situated.",
+          "es": "Aunque la instalación es espectacular, su acogida sigue siendo social.",
+          "ru": "Несмотря на то, что инсталляция впечатляет, ее прием остается социально ориентированным."
+        }
       },
       {
         "id": "remote-contemporary-arts-dict-2",
         "fr": "Loin d’être un simple accrochage, le commissariat produit un cadrage du canon.",
         "en": "Far from being a mere hang, curating produces a framing of the canon.",
-        "ipa": "lwɛ̃ dɛtʁ œ̃ sɛ̃pl a.kʁɔ.ʃaʒ lə kɔ.mi.sa.ʁja pʁɔ.dɥi œ̃ ka.dʁaʒ dy ka.nɔ̃"
+        "ipa": "lwɛ̃ dɛtʁ œ̃ sɛ̃pl a.kʁɔ.ʃaʒ lə kɔ.mi.sa.ʁja pʁɔ.dɥi œ̃ ka.dʁaʒ dy ka.nɔ̃",
+        "gloss": {
+          "en": "Far from being a mere hang, curating produces a framing of the canon.",
+          "es": "Lejos de ser un mero truco, el comisariado produce un encuadre del canon.",
+          "ru": "Кураторство – это не просто подвешивание, а создание канона."
+        }
       },
       {
         "id": "remote-contemporary-arts-dict-3",
         "fr": "À moins que l’appropriation ne soit créditée, elle efface les conditions de l’œuvre source.",
         "en": "Unless appropriation is credited, it erases the conditions of the source work.",
-        "ipa": "a mwɛ̃ kə la.pʁɔ.pʁi.ja.sjɔ̃ nə swa kʁe.di.te ɛl e.fas le kɔ̃.di.sjɔ̃ də lœvʁ suʁs"
+        "ipa": "a mwɛ̃ kə la.pʁɔ.pʁi.ja.sjɔ̃ nə swa kʁe.di.te ɛl e.fas le kɔ̃.di.sjɔ̃ də lœvʁ suʁs",
+        "gloss": {
+          "en": "Unless appropriation is credited, it erases the conditions of the source work.",
+          "es": "A menos que se acredite la apropiación, ésta borra las condiciones de la obra fuente.",
+          "ru": "Если присвоение не засчитывается, оно стирает условия исходной работы."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-contemporary-arts-mean-1",
         "fr": "Encore que l’installation soit spectaculaire, sa réception reste socialement située.",
         "en": "Even though the installation is spectacular, its reception remains socially situated.",
-        "choices": [
-          "Even though the installation is spectacular, its reception remains socially situated.",
-          "Far from being a mere hang, curating produces a framing of the canon.",
-          "Unless appropriation is credited, it erases the conditions of the source work."
-        ]
+        "gloss": {
+          "en": "Even though the installation is spectacular, its reception remains socially situated.",
+          "es": "Aunque la instalación es espectacular, su acogida sigue siendo social.",
+          "ru": "Несмотря на то, что инсталляция впечатляет, ее прием остается социально ориентированным."
+        }
       },
       {
         "id": "remote-contemporary-arts-mean-2",
         "fr": "Loin d’être un simple accrochage, le commissariat produit un cadrage du canon.",
         "en": "Far from being a mere hang, curating produces a framing of the canon.",
-        "choices": [
-          "Far from being a mere hang, curating produces a framing of the canon.",
-          "Even though the installation is spectacular, its reception remains socially situated.",
-          "Unless appropriation is credited, it erases the conditions of the source work."
-        ]
+        "gloss": {
+          "en": "Far from being a mere hang, curating produces a framing of the canon.",
+          "es": "Lejos de ser un mero truco, el comisariado produce un encuadre del canon.",
+          "ru": "Кураторство – это не просто подвешивание, а создание канона."
+        }
       },
       {
         "id": "remote-contemporary-arts-mean-3",
         "fr": "À moins que l’appropriation ne soit créditée, elle efface les conditions de l’œuvre source.",
         "en": "Unless appropriation is credited, it erases the conditions of the source work.",
-        "choices": [
-          "Unless appropriation is credited, it erases the conditions of the source work.",
-          "Even though the installation is spectacular, its reception remains socially situated.",
-          "Far from being a mere hang, curating produces a framing of the canon."
-        ]
+        "gloss": {
+          "en": "Unless appropriation is credited, it erases the conditions of the source work.",
+          "es": "A menos que se acredite la apropiación, ésta borra las condiciones de la obra fuente.",
+          "ru": "Если присвоение не засчитывается, оно стирает условия исходной работы."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-contemporary-arts-fren-1",
         "fr": "installation",
-        "en": "installation"
+        "en": "installation",
+        "gloss": {
+          "en": "installation",
+          "es": "instalación",
+          "ru": "установка"
+        }
       },
       {
         "id": "remote-contemporary-arts-fren-2",
         "fr": "commissariat",
-        "en": "curating"
+        "en": "curating",
+        "gloss": {
+          "en": "curating",
+          "es": "curando",
+          "ru": "кураторство"
+        }
       },
       {
         "id": "remote-contemporary-arts-fren-3",
         "fr": "canon",
-        "en": "canon"
+        "en": "canon",
+        "gloss": {
+          "en": "canon",
+          "es": "canon",
+          "ru": "канон"
+        }
       },
       {
         "id": "remote-contemporary-arts-fren-4",
         "fr": "appropriation",
-        "en": "appropriation"
+        "en": "appropriation",
+        "gloss": {
+          "en": "appropriation",
+          "es": "apropiación",
+          "ru": "присвоение"
+        }
       },
       {
         "id": "remote-contemporary-arts-fren-5",
         "fr": "réception",
-        "en": "reception"
+        "en": "reception",
+        "gloss": {
+          "en": "reception",
+          "es": "recepción",
+          "ru": "прием"
+        }
       },
       {
         "id": "remote-contemporary-arts-fren-6",
         "fr": "performance",
-        "en": "performance"
+        "en": "performance",
+        "gloss": {
+          "en": "performance",
+          "es": "actuación",
+          "ru": "производительность"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-contemporary-arts-aloud-1",
         "fr": "Encore que l’installation soit spectaculaire, sa réception reste socialement située.",
         "en": "Even though the installation is spectacular, its reception remains socially situated.",
-        "ipa": "ɑ̃.kɔʁ kə lɛ̃s.ta.la.sjɔ̃ swa spɛk.ta.ky.lɛʁ sa ʁe.sɛp.sjɔ̃ ʁɛst sɔ.sjal.mɑ̃ si.tɥe"
+        "ipa": "ɑ̃.kɔʁ kə lɛ̃s.ta.la.sjɔ̃ swa spɛk.ta.ky.lɛʁ sa ʁe.sɛp.sjɔ̃ ʁɛst sɔ.sjal.mɑ̃ si.tɥe",
+        "gloss": {
+          "en": "Even though the installation is spectacular, its reception remains socially situated.",
+          "es": "Aunque la instalación es espectacular, su acogida sigue siendo social.",
+          "ru": "Несмотря на то, что инсталляция впечатляет, ее прием остается социально ориентированным."
+        }
       },
       {
         "id": "remote-contemporary-arts-aloud-2",
         "fr": "À moins que l’appropriation ne soit créditée, elle efface les conditions de l’œuvre source.",
         "en": "Unless appropriation is credited, it erases the conditions of the source work.",
-        "ipa": "a mwɛ̃ kə la.pʁɔ.pʁi.ja.sjɔ̃ nə swa kʁe.di.te ɛl e.fas le kɔ̃.di.sjɔ̃ də lœvʁ suʁs"
+        "ipa": "a mwɛ̃ kə la.pʁɔ.pʁi.ja.sjɔ̃ nə swa kʁe.di.te ɛl e.fas le kɔ̃.di.sjɔ̃ də lœvʁ suʁs",
+        "gloss": {
+          "en": "Unless appropriation is credited, it erases the conditions of the source work.",
+          "es": "A menos que se acredite la apropiación, ésta borra las condiciones de la obra fuente.",
+          "ru": "Если присвоение не засчитывается, оно стирает условия исходной работы."
+        }
       },
       {
         "id": "remote-contemporary-arts-aloud-3",
         "fr": "Les œuvres exposées, le public en discute la subversion avec un mélange d’ironie.",
         "en": "With the works now exhibited, the public discusses their subversion with a mix of irony.",
-        "ipa": "le zœvʁ ɛk.spo.ze lə py.blik ɑ̃ dis.kyt la syb.vɛʁ.sjɔ̃ a.vɛk œ̃ me.lɑ̃ʒ di.ʁɔ.ni"
+        "ipa": "le zœvʁ ɛk.spo.ze lə py.blik ɑ̃ dis.kyt la syb.vɛʁ.sjɔ̃ a.vɛk œ̃ me.lɑ̃ʒ di.ʁɔ.ni",
+        "gloss": {
+          "en": "With the works now exhibited, the public discusses their subversion with a mix of irony.",
+          "es": "Con las obras ahora expuestas, el público habla de su subversión con una mezcla de ironía.",
+          "ru": "Сейчас, когда работы выставлены, публика обсуждает их подрывную деятельность с долей иронии."
+        }
       }
     ],
     "unscramble": [
@@ -517,7 +775,12 @@
           "réception",
           "reste",
           "située."
-        ]
+        ],
+        "gloss": {
+          "en": "Even though the installation is spectacular, its reception remains situated.",
+          "es": "Aunque la instalación es espectacular, su recepción sigue situada.",
+          "ru": "Несмотря на то, что инсталляция впечатляет, ее стойка регистрации остается на своем месте."
+        }
       },
       {
         "id": "remote-contemporary-arts-unsc-2",
@@ -534,7 +797,12 @@
           "cadre",
           "le",
           "canon."
-        ]
+        ],
+        "gloss": {
+          "en": "Far from being a mere hang, curating frames the canon.",
+          "es": "Lejos de ser un simple truco, la curaduría enmarca el canon.",
+          "ru": "Кураторство – это не просто подвешивание, создание канона."
+        }
       }
     ]
   }

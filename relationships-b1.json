@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "relationships-b1",
-  "version": 1,
+  "version": 2,
   "level": "b1",
   "title": {
     "fr": "Relations B1",
-    "en": "Relationships B1"
+    "en": "Relationships B1",
+    "es": "Relaciones B1",
+    "ru": "Отношения B1"
   },
   "description": {
     "fr": "Amitié, couple et conflits pour parler des relations avec nuance.",
-    "en": "Friendship, couple life, and conflict — talking about relationships with nuance."
+    "en": "Friendship, couple life, and conflict — talking about relationships with nuance.",
+    "es": "Amistad, vida de pareja y conflicto: hablar de relaciones con matices.",
+    "ru": "Дружба, семейная жизнь и конфликты — об отношениях с нюансами."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "relationship",
       "example": "Notre relation a changé depuis l’année dernière.",
       "ipa": "ʁə.la.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "relationship",
+        "es": "relación",
+        "ru": "отношение"
+      }
     },
     {
       "id": "remote-relationships-b1-2",
@@ -26,7 +35,12 @@
       "en": "friendship",
       "example": "L’amitié se construit avec le temps.",
       "ipa": "a.mi.tje",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "friendship",
+        "es": "amistad",
+        "ru": "дружба"
+      }
     },
     {
       "id": "remote-relationships-b1-3",
@@ -34,7 +48,12 @@
       "en": "trust",
       "example": "La confiance se gagne lentement.",
       "ipa": "kɔ̃.fjɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "trust",
+        "es": "confianza",
+        "ru": "доверять"
+      }
     },
     {
       "id": "remote-relationships-b1-4",
@@ -42,7 +61,12 @@
       "en": "couple",
       "example": "Le couple discute souvent le soir.",
       "ipa": "kupl",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "couple",
+        "es": "pareja",
+        "ru": "пара"
+      }
     },
     {
       "id": "remote-relationships-b1-5",
@@ -50,7 +74,12 @@
       "en": "argument / row",
       "example": "Après la dispute, ils ont fait la paix.",
       "ipa": "dis.pyt",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "argument / row",
+        "es": "argumento/fila",
+        "ru": "аргумент/строка"
+      }
     },
     {
       "id": "remote-relationships-b1-6",
@@ -58,7 +87,12 @@
       "en": "apology / excuse",
       "example": "Elle a présenté ses excuses.",
       "ipa": "ɛk.skyz",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "apology / excuse",
+        "es": "disculpa / excusa",
+        "ru": "извинение / оправдание"
+      }
     },
     {
       "id": "remote-relationships-b1-7",
@@ -66,7 +100,12 @@
       "en": "jealousy",
       "example": "La jalousie a abîmé leur amitié.",
       "ipa": "ʒa.lu.zi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "jealousy",
+        "es": "celos",
+        "ru": "ревность"
+      }
     },
     {
       "id": "remote-relationships-b1-8",
@@ -74,7 +113,12 @@
       "en": "support",
       "example": "J’ai besoin de ton soutien.",
       "ipa": "su.tjɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "support",
+        "es": "apoyo",
+        "ru": "поддерживать"
+      }
     },
     {
       "id": "remote-relationships-b1-9",
@@ -82,7 +126,12 @@
       "en": "closeness / complicity",
       "example": "Il y a une vraie complicité entre eux.",
       "ipa": "kɔ̃.pli.si.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "closeness / complicity",
+        "es": "cercanía / complicidad",
+        "ru": "близость/соучастие"
+      }
     },
     {
       "id": "remote-relationships-b1-10",
@@ -90,7 +139,12 @@
       "en": "break-up",
       "example": "La rupture a été difficile pour les deux.",
       "ipa": "ʁyp.tyʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "break-up",
+        "es": "ruptura",
+        "ru": "расставаться"
+      }
     },
     {
       "id": "remote-relationships-b1-11",
@@ -98,7 +152,12 @@
       "en": "meeting / encounter",
       "example": "Leur rencontre a eu lieu à un concert.",
       "ipa": "ʁɑ̃.kɔ̃tʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "meeting / encounter",
+        "es": "reunión / encuentro",
+        "ru": "встреча / встреча"
+      }
     },
     {
       "id": "remote-relationships-b1-12",
@@ -106,7 +165,12 @@
       "en": "single person",
       "example": "Il est célibataire depuis deux ans.",
       "ipa": "se.li.ba.tɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "single person",
+        "es": "persona soltera",
+        "ru": "одинокий человек"
+      }
     },
     {
       "id": "remote-relationships-b1-13",
@@ -114,7 +178,12 @@
       "en": "engagement",
       "example": "Leurs fiançailles ont surpris la famille.",
       "ipa": "fjɑ̃.saj",
-      "article": "les"
+      "article": "les",
+      "gloss": {
+        "en": "engagement",
+        "es": "compromiso",
+        "ru": "обручение"
+      }
     },
     {
       "id": "remote-relationships-b1-14",
@@ -122,7 +191,12 @@
       "en": "neighbour",
       "example": "Mon voisin m’aide parfois le week-end.",
       "ipa": "vwa.zɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "neighbour",
+        "es": "vecino",
+        "ru": "сосед"
+      }
     },
     {
       "id": "remote-relationships-b1-15",
@@ -130,7 +204,12 @@
       "en": "circle of people",
       "example": "Son entourage l’a beaucoup aidée.",
       "ipa": "ɑ̃.tu.ʁaʒ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "circle of people",
+        "es": "círculo de personas",
+        "ru": "круг людей"
+      }
     },
     {
       "id": "remote-relationships-b1-16",
@@ -138,7 +217,12 @@
       "en": "loneliness / solitude",
       "example": "La solitude lui pèse en hiver.",
       "ipa": "sɔ.li.tyd",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "loneliness / solitude",
+        "es": "soledad / soledad",
+        "ru": "одиночество / одиночество"
+      }
     },
     {
       "id": "remote-relationships-b1-17",
@@ -146,7 +230,12 @@
       "en": "respect",
       "example": "Le respect mutuel est essentiel.",
       "ipa": "ʁɛs.pɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "respect",
+        "es": "respeto",
+        "ru": "уважать"
+      }
     },
     {
       "id": "remote-relationships-b1-18",
@@ -154,7 +243,12 @@
       "en": "lie",
       "example": "Un mensonge peut casser la confiance.",
       "ipa": "mɑ̃.sɔ̃ʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "lie",
+        "es": "mentir",
+        "ru": "ложь"
+      }
     },
     {
       "id": "remote-relationships-b1-19",
@@ -162,7 +256,12 @@
       "en": "reconciliation",
       "example": "La réconciliation a pris du temps.",
       "ipa": "ʁe.kɔ̃.si.lja.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "reconciliation",
+        "es": "reconciliación",
+        "ru": "примирение"
+      }
     },
     {
       "id": "remote-relationships-b1-20",
@@ -170,7 +269,12 @@
       "en": "attachment",
       "example": "L’attachement se voit dans les petits gestes.",
       "ipa": "a.taʃ.mɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "attachment",
+        "es": "adjunto",
+        "ru": "вложение"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-relationships-phrase-1",
       "fr": "On s’entend bien, même si on n’est pas d’accord.",
       "en": "We get along, even if we disagree.",
-      "ipa": "ɔ̃ sɑ̃.tɑ̃ bjɛ̃ mɛm si ɔ̃ nɛ pa da.kɔʁ"
+      "ipa": "ɔ̃ sɑ̃.tɑ̃ bjɛ̃ mɛm si ɔ̃ nɛ pa da.kɔʁ",
+      "gloss": {
+        "en": "We get along, even if we disagree.",
+        "es": "Nos llevamos bien, incluso si no estamos de acuerdo.",
+        "ru": "Мы ладим, даже если не согласны."
+      }
     },
     {
       "id": "remote-relationships-phrase-2",
       "fr": "Je lui ai présenté mes excuses.",
       "en": "I apologised to him/her.",
-      "ipa": "ʒə lɥi e pʁe.zɑ̃.te mez ɛk.skyz"
+      "ipa": "ʒə lɥi e pʁe.zɑ̃.te mez ɛk.skyz",
+      "gloss": {
+        "en": "I apologised to him/her.",
+        "es": "Le pedí disculpas.",
+        "ru": "Я извинился перед ним/ней."
+      }
     },
     {
       "id": "remote-relationships-phrase-3",
       "fr": "La confiance se construit peu à peu.",
       "en": "Trust is built little by little.",
-      "ipa": "la kɔ̃.fjɑ̃s sə kɔ̃s.tʁɥi pø a pø"
+      "ipa": "la kɔ̃.fjɑ̃s sə kɔ̃s.tʁɥi pø a pø",
+      "gloss": {
+        "en": "Trust is built little by little.",
+        "es": "La confianza se construye poco a poco.",
+        "ru": "Доверие строится постепенно."
+      }
     },
     {
       "id": "remote-relationships-phrase-4",
       "fr": "Après la dispute, on a fini par se parler.",
       "en": "After the argument, we ended up talking.",
-      "ipa": "a.pʁɛ la dis.pyt ɔ̃ n‿a fi.ni paʁ sə paʁ.le"
+      "ipa": "a.pʁɛ la dis.pyt ɔ̃ n‿a fi.ni paʁ sə paʁ.le",
+      "gloss": {
+        "en": "After the argument, we ended up talking.",
+        "es": "Después de la discusión, terminamos hablando.",
+        "ru": "После ссоры мы разговорились."
+      }
     },
     {
       "id": "remote-relationships-phrase-5",
       "fr": "J’ai besoin de ton soutien en ce moment.",
       "en": "I need your support at the moment.",
-      "ipa": "ʒe bə.zwɛ̃ də tɔ̃ su.tjɛ̃ ɑ̃ sə mɔ.mɑ̃"
+      "ipa": "ʒe bə.zwɛ̃ də tɔ̃ su.tjɛ̃ ɑ̃ sə mɔ.mɑ̃",
+      "gloss": {
+        "en": "I need your support at the moment.",
+        "es": "Necesito tu apoyo en este momento.",
+        "ru": "Мне нужна ваша поддержка в данный момент."
+      }
     },
     {
       "id": "remote-relationships-phrase-6",
       "fr": "Il ne faut pas tout confondre avec de la jalousie.",
       "en": "You shouldn’t mistake everything for jealousy.",
-      "ipa": "il nə fo pa tu kɔ̃.fɔ̃dʁ a.vɛk də la ʒa.lu.zi"
+      "ipa": "il nə fo pa tu kɔ̃.fɔ̃dʁ a.vɛk də la ʒa.lu.zi",
+      "gloss": {
+        "en": "You shouldn’t mistake everything for jealousy.",
+        "es": "No debes confundir todo con celos.",
+        "ru": "Не стоит все принимать за ревность."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "rupture",
         "rencontre",
         "excuse"
-      ]
+      ],
+      "gloss": {
+        "en": "After the argument, they made up.",
+        "es": "Después de la discusión, hicieron las paces.",
+        "ru": "После ссоры они помирились."
+      },
+      "wordGloss": {
+        "en": "argument",
+        "es": "argumento",
+        "ru": "аргумент"
+      }
     },
     {
       "id": "remote-relationships-listen-2",
@@ -236,7 +380,17 @@
         "jalousie",
         "solitude",
         "respect"
-      ]
+      ],
+      "gloss": {
+        "en": "Trust is earned slowly.",
+        "es": "La confianza se gana lentamente.",
+        "ru": "Доверие зарабатывается медленно."
+      },
+      "wordGloss": {
+        "en": "trust",
+        "es": "confianza",
+        "ru": "доверять"
+      }
     },
     {
       "id": "remote-relationships-listen-3",
@@ -249,7 +403,17 @@
         "entourage",
         "attachement",
         "complicité"
-      ]
+      ],
+      "gloss": {
+        "en": "I need your support right now.",
+        "es": "Necesito tu apoyo ahora mismo.",
+        "ru": "Мне нужна твоя поддержка прямо сейчас."
+      },
+      "wordGloss": {
+        "en": "support",
+        "es": "apoyo",
+        "ru": "поддерживать"
+      }
     },
     {
       "id": "remote-relationships-listen-4",
@@ -262,7 +426,17 @@
         "excuse",
         "rupture",
         "respect"
-      ]
+      ],
+      "gloss": {
+        "en": "A lie can break trust.",
+        "es": "Una mentira puede romper la confianza.",
+        "ru": "Ложь может подорвать доверие."
+      },
+      "wordGloss": {
+        "en": "lie",
+        "es": "mentir",
+        "ru": "ложь"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-relationships-grammar-1",
       "title": {
         "fr": "Se + verbe pour les relations",
-        "en": "Reciprocal se"
+        "en": "Reciprocal se",
+        "es": "se recíproco",
+        "ru": "Взаимное се"
       },
-      "rule": "Se parler, s’entendre, se disputer, se réconcilier : le pronom se indique une action réciproque. On s’entend bien. Ils se sont disputés (accord au passé composé avec être).",
+      "rule": {
+        "fr": "Se parler, s’entendre, se disputer, se réconcilier : le pronom se indique une action réciproque. On s’entend bien. Ils se sont disputés (accord au passé composé avec être).",
+        "en": "Talking to each other, hearing each other, arguing, reconciling: the pronoun indicates a reciprocal action. We get along well. They argued (past tense agreement with be).",
+        "es": "Hablar entre ellos, escucharse, discutir, reconciliarse: el pronombre indica una acción recíproca. Nos llevamos bien. Discutieron (acuerdo en tiempo pasado con be).",
+        "ru": "Разговаривать друг с другом, слышать друг друга, спорить, примиряться: местоимение указывает на ответное действие. Мы хорошо ладим. Они спорили (согласие в прошедшем времени с be)."
+      },
       "table": [
         [
           "Verbe",
@@ -337,15 +518,27 @@
             "parlée"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Reciprocal se.",
+        "es": "Útil cuando es necesario aplicar: Se recíproco.",
+        "ru": "Полезно, когда нужно применить: Взаимное se."
+      }
     },
     {
       "id": "remote-relationships-grammar-2",
       "title": {
         "fr": "Même si / bien que",
-        "en": "Même si vs bien que"
+        "en": "Même si vs bien que",
+        "es": "Meme si vs bien que",
+        "ru": "Même si vs bien que"
       },
-      "rule": "Même si + indicatif : concession courante. Bien que + subjonctif : plus soutenu. Même si on n’est pas d’accord, on s’entend. Bien qu’il soit fatigué, il écoute.",
+      "rule": {
+        "fr": "Même si + indicatif : concession courante. Bien que + subjonctif : plus soutenu. Même si on n’est pas d’accord, on s’entend. Bien qu’il soit fatigué, il écoute.",
+        "en": "Even if + indicator: current concession. Although + subjunctive: more sustained. Even if we don't agree, we get along. Although he is tired, he listens.",
+        "es": "Incluso si indicador +: concesión vigente. Aunque + subjuntivo: más sostenido. Aunque no estemos de acuerdo, nos llevamos bien. Aunque está cansado, escucha.",
+        "ru": "Даже если + индикатор: текущая уступка. Хотя + сослагательное наклонение: более устойчивый. Даже если мы не согласны, мы ладим. Хоть он и устал, но слушает."
+      },
       "table": [
         [
           "Connecteur",
@@ -394,7 +587,12 @@
             "sera"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Même si vs bien que.",
+        "es": "Útil cuando necesitas postularte: Même si vs bien que.",
+        "ru": "Полезно, когда вам нужно подать заявку: Même si vs bien que."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-relationships-dict-1",
         "fr": "On s’entend bien, même si on n’est pas d’accord.",
         "en": "We get along, even if we disagree.",
-        "ipa": "ɔ̃ sɑ̃.tɑ̃ bjɛ̃ mɛm si ɔ̃ nɛ pa da.kɔʁ"
+        "ipa": "ɔ̃ sɑ̃.tɑ̃ bjɛ̃ mɛm si ɔ̃ nɛ pa da.kɔʁ",
+        "gloss": {
+          "en": "We get along, even if we disagree.",
+          "es": "Nos llevamos bien, incluso si no estamos de acuerdo.",
+          "ru": "Мы ладим, даже если не согласны."
+        }
       },
       {
         "id": "remote-relationships-dict-2",
         "fr": "Je lui ai présenté mes excuses.",
         "en": "I apologised to him/her.",
-        "ipa": "ʒə lɥi e pʁe.zɑ̃.te mez ɛk.skyz"
+        "ipa": "ʒə lɥi e pʁe.zɑ̃.te mez ɛk.skyz",
+        "gloss": {
+          "en": "I apologised to him/her.",
+          "es": "Le pedí disculpas.",
+          "ru": "Я извинился перед ним/ней."
+        }
       },
       {
         "id": "remote-relationships-dict-3",
         "fr": "La confiance se construit peu à peu.",
         "en": "Trust is built little by little.",
-        "ipa": "la kɔ̃.fjɑ̃s sə kɔ̃s.tʁɥi pø a pø"
+        "ipa": "la kɔ̃.fjɑ̃s sə kɔ̃s.tʁɥi pø a pø",
+        "gloss": {
+          "en": "Trust is built little by little.",
+          "es": "La confianza se construye poco a poco.",
+          "ru": "Доверие строится постепенно."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-relationships-mean-1",
         "fr": "On s’entend bien, même si on n’est pas d’accord.",
         "en": "We get along, even if we disagree.",
-        "choices": [
-          "We get along, even if we disagree.",
-          "I apologised to him/her.",
-          "Trust is built little by little."
-        ]
+        "gloss": {
+          "en": "We get along, even if we disagree.",
+          "es": "Nos llevamos bien, incluso si no estamos de acuerdo.",
+          "ru": "Мы ладим, даже если не согласны."
+        }
       },
       {
         "id": "remote-relationships-mean-2",
         "fr": "Je lui ai présenté mes excuses.",
         "en": "I apologised to him/her.",
-        "choices": [
-          "I apologised to him/her.",
-          "We get along, even if we disagree.",
-          "Trust is built little by little."
-        ]
+        "gloss": {
+          "en": "I apologised to him/her.",
+          "es": "Le pedí disculpas.",
+          "ru": "Я извинился перед ним/ней."
+        }
       },
       {
         "id": "remote-relationships-mean-3",
         "fr": "La confiance se construit peu à peu.",
         "en": "Trust is built little by little.",
-        "choices": [
-          "Trust is built little by little.",
-          "We get along, even if we disagree.",
-          "I apologised to him/her."
-        ]
+        "gloss": {
+          "en": "Trust is built little by little.",
+          "es": "La confianza se construye poco a poco.",
+          "ru": "Доверие строится постепенно."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-relationships-fren-1",
         "fr": "relation",
-        "en": "relationship"
+        "en": "relationship",
+        "gloss": {
+          "en": "relationship",
+          "es": "relación",
+          "ru": "отношение"
+        }
       },
       {
         "id": "remote-relationships-fren-2",
         "fr": "amitié",
-        "en": "friendship"
+        "en": "friendship",
+        "gloss": {
+          "en": "friendship",
+          "es": "amistad",
+          "ru": "дружба"
+        }
       },
       {
         "id": "remote-relationships-fren-3",
         "fr": "confiance",
-        "en": "trust"
+        "en": "trust",
+        "gloss": {
+          "en": "trust",
+          "es": "confianza",
+          "ru": "доверять"
+        }
       },
       {
         "id": "remote-relationships-fren-4",
         "fr": "couple",
-        "en": "couple"
+        "en": "couple",
+        "gloss": {
+          "en": "couple",
+          "es": "pareja",
+          "ru": "пара"
+        }
       },
       {
         "id": "remote-relationships-fren-5",
         "fr": "dispute",
-        "en": "argument"
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        }
       },
       {
         "id": "remote-relationships-fren-6",
         "fr": "excuse",
-        "en": "apology"
+        "en": "apology",
+        "gloss": {
+          "en": "apology",
+          "es": "disculpa",
+          "ru": "извинение"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-relationships-aloud-1",
         "fr": "On s’entend bien, même si on n’est pas d’accord.",
         "en": "We get along, even if we disagree.",
-        "ipa": "ɔ̃ sɑ̃.tɑ̃ bjɛ̃ mɛm si ɔ̃ nɛ pa da.kɔʁ"
+        "ipa": "ɔ̃ sɑ̃.tɑ̃ bjɛ̃ mɛm si ɔ̃ nɛ pa da.kɔʁ",
+        "gloss": {
+          "en": "We get along, even if we disagree.",
+          "es": "Nos llevamos bien, incluso si no estamos de acuerdo.",
+          "ru": "Мы ладим, даже если не согласны."
+        }
       },
       {
         "id": "remote-relationships-aloud-2",
         "fr": "La confiance se construit peu à peu.",
         "en": "Trust is built little by little.",
-        "ipa": "la kɔ̃.fjɑ̃s sə kɔ̃s.tʁɥi pø a pø"
+        "ipa": "la kɔ̃.fjɑ̃s sə kɔ̃s.tʁɥi pø a pø",
+        "gloss": {
+          "en": "Trust is built little by little.",
+          "es": "La confianza se construye poco a poco.",
+          "ru": "Доверие строится постепенно."
+        }
       },
       {
         "id": "remote-relationships-aloud-3",
         "fr": "J’ai besoin de ton soutien en ce moment.",
         "en": "I need your support at the moment.",
-        "ipa": "ʒe bə.zwɛ̃ də tɔ̃ su.tjɛ̃ ɑ̃ sə mɔ.mɑ̃"
+        "ipa": "ʒe bə.zwɛ̃ də tɔ̃ su.tjɛ̃ ɑ̃ sə mɔ.mɑ̃",
+        "gloss": {
+          "en": "I need your support at the moment.",
+          "es": "Necesito tu apoyo en este momento.",
+          "ru": "Мне нужна ваша поддержка в данный момент."
+        }
       }
     ],
     "unscramble": [
@@ -517,7 +775,12 @@
           "par",
           "se",
           "parler."
-        ]
+        ],
+        "gloss": {
+          "en": "After the argument, we ended up talking.",
+          "es": "Después de la discusión, terminamos hablando.",
+          "ru": "После ссоры мы разговорились."
+        }
       },
       {
         "id": "remote-relationships-unsc-2",
@@ -532,7 +795,12 @@
           "en",
           "ce",
           "moment."
-        ]
+        ],
+        "gloss": {
+          "en": "I need your support at the moment.",
+          "es": "Necesito tu apoyo en este momento.",
+          "ru": "Мне нужна ваша поддержка в данный момент."
+        }
       }
     ]
   }

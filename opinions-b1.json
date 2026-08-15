@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "opinions-b1",
-  "version": 1,
+  "version": 2,
   "level": "b1",
   "title": {
     "fr": "Avis B1",
-    "en": "Opinions B1"
+    "en": "Opinions B1",
+    "es": "Opiniones B1",
+    "ru": "Мнения B1"
   },
   "description": {
     "fr": "Accord, désaccord et nuances pour donner son avis clairement.",
-    "en": "Agreement, disagreement, and nuance for giving a clear opinion."
+    "en": "Agreement, disagreement, and nuance for giving a clear opinion.",
+    "es": "Acuerdo, desacuerdo y matices para dar una opinión clara.",
+    "ru": "Согласие, несогласие и нюансы для выражения четкого мнения."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "opinion",
       "example": "À mon avis, cette idée est trop simple.",
       "ipa": "a.vi",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "opinion",
+        "es": "opinión",
+        "ru": "мнение"
+      }
     },
     {
       "id": "remote-opinions-b1-2",
@@ -26,7 +35,12 @@
       "en": "opinion",
       "example": "Son opinion a changé après le débat.",
       "ipa": "ɔ.pi.njɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "opinion",
+        "es": "opinión",
+        "ru": "мнение"
+      }
     },
     {
       "id": "remote-opinions-b1-3",
@@ -34,7 +48,12 @@
       "en": "argument (reason)",
       "example": "Donne au moins un argument solide.",
       "ipa": "aʁ.ɡy.mɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "argument (reason)",
+        "es": "argumento (razón)",
+        "ru": "аргумент (причина)"
+      }
     },
     {
       "id": "remote-opinions-b1-4",
@@ -42,7 +61,12 @@
       "en": "agreement",
       "example": "Nous sommes d’accord sur l’essentiel.",
       "ipa": "a.kɔʁ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "agreement",
+        "es": "acuerdo",
+        "ru": "соглашение"
+      }
     },
     {
       "id": "remote-opinions-b1-5",
@@ -50,7 +74,12 @@
       "en": "disagreement",
       "example": "Le désaccord porte surtout sur le budget.",
       "ipa": "de.za.kɔʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "disagreement",
+        "es": "desacuerdo",
+        "ru": "несогласие"
+      }
     },
     {
       "id": "remote-opinions-b1-6",
@@ -58,7 +87,12 @@
       "en": "point of view",
       "example": "Essayons de voir un autre point de vue.",
       "ipa": "pwɛ̃ də vy",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "point of view",
+        "es": "Punto de vista",
+        "ru": "точка зрения"
+      }
     },
     {
       "id": "remote-opinions-b1-7",
@@ -66,7 +100,12 @@
       "en": "advantage",
       "example": "L’avantage, c’est le gain de temps.",
       "ipa": "a.vɑ̃.taʒ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "advantage",
+        "es": "ventaja",
+        "ru": "преимущество"
+      }
     },
     {
       "id": "remote-opinions-b1-8",
@@ -74,7 +113,12 @@
       "en": "drawback",
       "example": "L’inconvénient, c’est le prix.",
       "ipa": "ɛ̃.kɔ̃.ve.njɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "drawback",
+        "es": "inconveniente",
+        "ru": "недостаток"
+      }
     },
     {
       "id": "remote-opinions-b1-9",
@@ -82,7 +126,12 @@
       "en": "proof / evidence",
       "example": "Tu n’as pas de preuve pour dire ça.",
       "ipa": "pʁœv",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "proof / evidence",
+        "es": "prueba / evidencia",
+        "ru": "доказательство / доказательства"
+      }
     },
     {
       "id": "remote-opinions-b1-10",
@@ -90,7 +139,12 @@
       "en": "example",
       "example": "Un exemple concret aiderait le débat.",
       "ipa": "ɛɡ.zɑ̃pl",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "example",
+        "es": "ejemplo",
+        "ru": "пример"
+      }
     },
     {
       "id": "remote-opinions-b1-11",
@@ -98,7 +152,12 @@
       "en": "nuance",
       "example": "Il manque une nuance importante.",
       "ipa": "nɥɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "nuance",
+        "es": "matiz",
+        "ru": "нюанс"
+      }
     },
     {
       "id": "remote-opinions-b1-12",
@@ -106,7 +165,12 @@
       "en": "certainty",
       "example": "Je n’ai aucune certitude là-dessus.",
       "ipa": "sɛʁ.ti.tyd",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "certainty",
+        "es": "certeza",
+        "ru": "уверенность"
+      }
     },
     {
       "id": "remote-opinions-b1-13",
@@ -114,7 +178,12 @@
       "en": "doubt",
       "example": "J’ai un doute sur ces chiffres.",
       "ipa": "dut",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "doubt",
+        "es": "duda",
+        "ru": "сомневаться"
+      }
     },
     {
       "id": "remote-opinions-b1-14",
@@ -122,7 +191,12 @@
       "en": "prejudice",
       "example": "Ce préjugé revient souvent dans la discussion.",
       "ipa": "pʁe.ʒy.ʒe",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "prejudice",
+        "es": "prejuicio",
+        "ru": "предрассудки"
+      }
     },
     {
       "id": "remote-opinions-b1-15",
@@ -130,7 +204,12 @@
       "en": "compromise",
       "example": "On a trouvé un compromis à la fin.",
       "ipa": "kɔ̃.pʁɔ.mi",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "compromise",
+        "es": "compromiso",
+        "ru": "компромисс"
+      }
     },
     {
       "id": "remote-opinions-b1-16",
@@ -138,7 +217,12 @@
       "en": "priority",
       "example": "Quelle est ta priorité dans ce choix ?",
       "ipa": "pʁi.jɔ.ʁi.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "priority",
+        "es": "prioridad",
+        "ru": "приоритет"
+      }
     },
     {
       "id": "remote-opinions-b1-17",
@@ -146,7 +230,12 @@
       "en": "consequence",
       "example": "Il faut penser aux conséquences.",
       "ipa": "kɔ̃.se.kɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "consequence",
+        "es": "consecuencia",
+        "ru": "последствие"
+      }
     },
     {
       "id": "remote-opinions-b1-18",
@@ -154,7 +243,12 @@
       "en": "solution",
       "example": "Cette solution ne convient pas à tout le monde.",
       "ipa": "sɔ.ly.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "solution",
+        "es": "solución",
+        "ru": "решение"
+      }
     },
     {
       "id": "remote-opinions-b1-19",
@@ -162,7 +256,12 @@
       "en": "criticism",
       "example": "Sa critique était dure, mais juste.",
       "ipa": "kʁi.tik",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "criticism",
+        "es": "crítica",
+        "ru": "критика"
+      }
     },
     {
       "id": "remote-opinions-b1-20",
@@ -170,7 +269,12 @@
       "en": "debate",
       "example": "Le débat reste ouvert.",
       "ipa": "de.ba",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "debate",
+        "es": "debate",
+        "ru": "дебаты"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-opinions-phrase-1",
       "fr": "À mon avis, ce n’est pas si simple.",
       "en": "In my opinion, it’s not that simple.",
-      "ipa": "a mɔ̃ n‿a.vi sə nɛ pa si sɛ̃pl"
+      "ipa": "a mɔ̃ n‿a.vi sə nɛ pa si sɛ̃pl",
+      "gloss": {
+        "en": "In my opinion, it’s not that simple.",
+        "es": "En mi opinión, no es tan sencillo.",
+        "ru": "На мой взгляд, это не так просто."
+      }
     },
     {
       "id": "remote-opinions-phrase-2",
       "fr": "Je ne suis pas d’accord, et voici pourquoi.",
       "en": "I disagree, and here’s why.",
-      "ipa": "ʒə nə sɥi pa da.kɔʁ e vwa.si puʁ.kwa"
+      "ipa": "ʒə nə sɥi pa da.kɔʁ e vwa.si puʁ.kwa",
+      "gloss": {
+        "en": "I disagree, and here’s why.",
+        "es": "No estoy de acuerdo y he aquí por qué.",
+        "ru": "Я не согласен, и вот почему."
+      }
     },
     {
       "id": "remote-opinions-phrase-3",
       "fr": "D’un côté c’est pratique, de l’autre c’est cher.",
       "en": "On the one hand it’s practical, on the other it’s expensive.",
-      "ipa": "dœ̃ ko.te sɛ pʁa.tik də lotʁ sɛ ʃɛʁ"
+      "ipa": "dœ̃ ko.te sɛ pʁa.tik də lotʁ sɛ ʃɛʁ",
+      "gloss": {
+        "en": "On the one hand it’s practical, on the other it’s expensive.",
+        "es": "Por un lado es práctico, por otro es caro.",
+        "ru": "С одной стороны это практично, с другой дорого."
+      }
     },
     {
       "id": "remote-opinions-phrase-4",
       "fr": "Tu as peut-être raison, mais j’ai un doute.",
       "en": "You may be right, but I have a doubt.",
-      "ipa": "ty a pø.tɛtʁ ʁɛ.zɔ̃ mɛ ʒe œ̃ dut"
+      "ipa": "ty a pø.tɛtʁ ʁɛ.zɔ̃ mɛ ʒe œ̃ dut",
+      "gloss": {
+        "en": "You may be right, but I have a doubt.",
+        "es": "Puede que tengas razón, pero tengo una duda.",
+        "ru": "Возможно, вы правы, но у меня есть сомнения."
+      }
     },
     {
       "id": "remote-opinions-phrase-5",
       "fr": "Il faut nuancer : ça dépend du contexte.",
       "en": "You have to qualify that: it depends on the context.",
-      "ipa": "il fo nɥɑ̃.se sa de.pɑ̃ dy kɔ̃.tɛkst"
+      "ipa": "il fo nɥɑ̃.se sa de.pɑ̃ dy kɔ̃.tɛkst",
+      "gloss": {
+        "en": "You have to qualify that: it depends on the context.",
+        "es": "Hay que matizar eso: depende del contexto.",
+        "ru": "Вы должны уточнить это: это зависит от контекста."
+      }
     },
     {
       "id": "remote-opinions-phrase-6",
       "fr": "On peut être d’accord sans penser exactement la même chose.",
       "en": "You can agree without thinking exactly the same thing.",
-      "ipa": "ɔ̃ pø ɛtʁ da.kɔʁ sɑ̃ pɑ̃.se ɛɡ.zak.tə.mɑ̃ la mɛm ʃoz"
+      "ipa": "ɔ̃ pø ɛtʁ da.kɔʁ sɑ̃ pɑ̃.se ɛɡ.zak.tə.mɑ̃ la mɛm ʃoz",
+      "gloss": {
+        "en": "You can agree without thinking exactly the same thing.",
+        "es": "Puedes estar de acuerdo sin pensar exactamente lo mismo.",
+        "ru": "Вы можете согласиться, не думая точно так же."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "doute",
         "preuve",
         "exemple"
-      ]
+      ],
+      "gloss": {
+        "en": "In my opinion, this idea is too simple.",
+        "es": "En mi opinión, esta idea es demasiado simple.",
+        "ru": "На мой взгляд, эта идея слишком проста."
+      },
+      "wordGloss": {
+        "en": "opinion",
+        "es": "opinión",
+        "ru": "мнение"
+      }
     },
     {
       "id": "remote-opinions-listen-2",
@@ -236,7 +380,17 @@
         "avantage",
         "préjugé",
         "compromis"
-      ]
+      ],
+      "gloss": {
+        "en": "Give at least one solid argument.",
+        "es": "Da al menos un argumento sólido.",
+        "ru": "Приведите хотя бы один веский аргумент."
+      },
+      "wordGloss": {
+        "en": "argument",
+        "es": "argumento",
+        "ru": "аргумент"
+      }
     },
     {
       "id": "remote-opinions-listen-3",
@@ -249,7 +403,17 @@
         "certitude",
         "nuance",
         "preuve"
-      ]
+      ],
+      "gloss": {
+        "en": "I have a doubt about these figures.",
+        "es": "Tengo una duda sobre estas cifras.",
+        "ru": "У меня есть сомнения по поводу этих цифр."
+      },
+      "wordGloss": {
+        "en": "doubt",
+        "es": "duda",
+        "ru": "сомневаться"
+      }
     },
     {
       "id": "remote-opinions-listen-4",
@@ -262,7 +426,17 @@
         "désaccord",
         "priorité",
         "solution"
-      ]
+      ],
+      "gloss": {
+        "en": "We found a compromise in the end.",
+        "es": "Al final llegamos a un acuerdo.",
+        "ru": "В итоге мы нашли компромисс."
+      },
+      "wordGloss": {
+        "en": "compromise",
+        "es": "compromiso",
+        "ru": "компромисс"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-opinions-grammar-1",
       "title": {
         "fr": "Je pense que / je ne pense pas que",
-        "en": "Indicative vs subjunctive after opinion"
+        "en": "Indicative vs subjunctive after opinion",
+        "es": "Indicativo vs subjuntivo después de opinión",
+        "ru": "Изъявительное наклонение и сослагательное наклонение после мнения"
       },
-      "rule": "Je pense que + indicatif : Je pense que c’est juste. Je ne pense pas que + subjonctif : Je ne pense pas que ce soit juste. Il me semble que reste à l’indicatif.",
+      "rule": {
+        "fr": "Je pense que + indicatif : Je pense que c’est juste. Je ne pense pas que + subjonctif : Je ne pense pas que ce soit juste. Il me semble que reste à l’indicatif.",
+        "en": "I think that + indicative: I think that's right. I don't think that + subjunctive: I don't think that's fair. It seems to me that it remains with the indicative.",
+        "es": "Creo que + indicativo: Creo que es correcto. No creo que + subjuntivo: no creo que sea justo. Me parece que se queda con el indicativo.",
+        "ru": "Я думаю, что +указательное: Я думаю, что это правильно. Я так не думаю + сослагательное наклонение: Я не думаю, что это справедливо. Мне кажется, что оно остается с ориентировочным."
+      },
       "table": [
         [
           "Expression",
@@ -337,15 +518,27 @@
             "auras"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Indicative vs subjunctive after opinion.",
+        "es": "Útil cuando necesitas aplicar: Indicativo vs subjuntivo después de opinión.",
+        "ru": "Полезно, когда вам нужно подать заявку: Указательное наклонение или сослагательное наклонение после мнения."
+      }
     },
     {
       "id": "remote-opinions-grammar-2",
       "title": {
         "fr": "D’un côté / de l’autre",
-        "en": "Weighing two sides"
+        "en": "Weighing two sides",
+        "es": "Pesando dos lados",
+        "ru": "Взвешивание двух сторон"
       },
-      "rule": "Pour peser le pour et le contre : D’un côté… de l’autre… En revanche introduit un contraste. Certes… mais… concède puis oppose.",
+      "rule": {
+        "fr": "Pour peser le pour et le contre : D’un côté… de l’autre… En revanche introduit un contraste. Certes… mais… concède puis oppose.",
+        "en": "To weigh the pros and cons: On one side… on the other… On the other hand introduces a contrast. Certainly… but… concede then object.",
+        "es": "Para sopesar los pros y los contras: Por un lado… por el otro… Por otro lado introduce un contraste. Ciertamente… pero… concede y luego objeta.",
+        "ru": "Взвесить все за и против: С одной стороны… с другой… С другой стороны вносит контраст. Конечно... но... уступи, тогда возрази."
+      },
       "table": [
         [
           "Connecteur",
@@ -394,7 +587,12 @@
             "donc"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Weighing two sides.",
+        "es": "Útil cuando es necesario aplicar: Pesaje por dos caras.",
+        "ru": "Полезно, когда нужно применить: Взвешивание двух сторон."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-opinions-dict-1",
         "fr": "À mon avis, ce n’est pas si simple.",
         "en": "In my opinion, it’s not that simple.",
-        "ipa": "a mɔ̃ n‿a.vi sə nɛ pa si sɛ̃pl"
+        "ipa": "a mɔ̃ n‿a.vi sə nɛ pa si sɛ̃pl",
+        "gloss": {
+          "en": "In my opinion, it’s not that simple.",
+          "es": "En mi opinión, no es tan sencillo.",
+          "ru": "На мой взгляд, это не так просто."
+        }
       },
       {
         "id": "remote-opinions-dict-2",
         "fr": "Je ne suis pas d’accord, et voici pourquoi.",
         "en": "I disagree, and here’s why.",
-        "ipa": "ʒə nə sɥi pa da.kɔʁ e vwa.si puʁ.kwa"
+        "ipa": "ʒə nə sɥi pa da.kɔʁ e vwa.si puʁ.kwa",
+        "gloss": {
+          "en": "I disagree, and here’s why.",
+          "es": "No estoy de acuerdo y he aquí por qué.",
+          "ru": "Я не согласен, и вот почему."
+        }
       },
       {
         "id": "remote-opinions-dict-3",
         "fr": "D’un côté c’est pratique, de l’autre c’est cher.",
         "en": "On the one hand it’s practical, on the other it’s expensive.",
-        "ipa": "dœ̃ ko.te sɛ pʁa.tik də lotʁ sɛ ʃɛʁ"
+        "ipa": "dœ̃ ko.te sɛ pʁa.tik də lotʁ sɛ ʃɛʁ",
+        "gloss": {
+          "en": "On the one hand it’s practical, on the other it’s expensive.",
+          "es": "Por un lado es práctico, por otro es caro.",
+          "ru": "С одной стороны это практично, с другой дорого."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-opinions-mean-1",
         "fr": "À mon avis, ce n’est pas si simple.",
         "en": "In my opinion, it’s not that simple.",
-        "choices": [
-          "In my opinion, it’s not that simple.",
-          "I disagree, and here’s why.",
-          "On the one hand it’s practical, on the other it’s expensive."
-        ]
+        "gloss": {
+          "en": "In my opinion, it’s not that simple.",
+          "es": "En mi opinión, no es tan sencillo.",
+          "ru": "На мой взгляд, это не так просто."
+        }
       },
       {
         "id": "remote-opinions-mean-2",
         "fr": "Je ne suis pas d’accord, et voici pourquoi.",
         "en": "I disagree, and here’s why.",
-        "choices": [
-          "I disagree, and here’s why.",
-          "In my opinion, it’s not that simple.",
-          "On the one hand it’s practical, on the other it’s expensive."
-        ]
+        "gloss": {
+          "en": "I disagree, and here’s why.",
+          "es": "No estoy de acuerdo y he aquí por qué.",
+          "ru": "Я не согласен, и вот почему."
+        }
       },
       {
         "id": "remote-opinions-mean-3",
         "fr": "D’un côté c’est pratique, de l’autre c’est cher.",
         "en": "On the one hand it’s practical, on the other it’s expensive.",
-        "choices": [
-          "On the one hand it’s practical, on the other it’s expensive.",
-          "In my opinion, it’s not that simple.",
-          "I disagree, and here’s why."
-        ]
+        "gloss": {
+          "en": "On the one hand it’s practical, on the other it’s expensive.",
+          "es": "Por un lado es práctico, por otro es caro.",
+          "ru": "С одной стороны это практично, с другой дорого."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-opinions-fren-1",
         "fr": "avis",
-        "en": "opinion"
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        }
       },
       {
         "id": "remote-opinions-fren-2",
         "fr": "opinion",
-        "en": "opinion"
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        }
       },
       {
         "id": "remote-opinions-fren-3",
         "fr": "argument",
-        "en": "argument (reason)"
+        "en": "argument (reason)",
+        "gloss": {
+          "en": "argument (reason)",
+          "es": "argumento (razón)",
+          "ru": "аргумент (причина)"
+        }
       },
       {
         "id": "remote-opinions-fren-4",
         "fr": "accord",
-        "en": "agreement"
+        "en": "agreement",
+        "gloss": {
+          "en": "agreement",
+          "es": "acuerdo",
+          "ru": "соглашение"
+        }
       },
       {
         "id": "remote-opinions-fren-5",
         "fr": "désaccord",
-        "en": "disagreement"
+        "en": "disagreement",
+        "gloss": {
+          "en": "disagreement",
+          "es": "desacuerdo",
+          "ru": "несогласие"
+        }
       },
       {
         "id": "remote-opinions-fren-6",
         "fr": "point de vue",
-        "en": "point of view"
+        "en": "point of view",
+        "gloss": {
+          "en": "point of view",
+          "es": "Punto de vista",
+          "ru": "точка зрения"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-opinions-aloud-1",
         "fr": "À mon avis, ce n’est pas si simple.",
         "en": "In my opinion, it’s not that simple.",
-        "ipa": "a mɔ̃ n‿a.vi sə nɛ pa si sɛ̃pl"
+        "ipa": "a mɔ̃ n‿a.vi sə nɛ pa si sɛ̃pl",
+        "gloss": {
+          "en": "In my opinion, it’s not that simple.",
+          "es": "En mi opinión, no es tan sencillo.",
+          "ru": "На мой взгляд, это не так просто."
+        }
       },
       {
         "id": "remote-opinions-aloud-2",
         "fr": "D’un côté c’est pratique, de l’autre c’est cher.",
         "en": "On the one hand it’s practical, on the other it’s expensive.",
-        "ipa": "dœ̃ ko.te sɛ pʁa.tik də lotʁ sɛ ʃɛʁ"
+        "ipa": "dœ̃ ko.te sɛ pʁa.tik də lotʁ sɛ ʃɛʁ",
+        "gloss": {
+          "en": "On the one hand it’s practical, on the other it’s expensive.",
+          "es": "Por un lado es práctico, por otro es caro.",
+          "ru": "С одной стороны это практично, с другой дорого."
+        }
       },
       {
         "id": "remote-opinions-aloud-3",
         "fr": "Il faut nuancer : ça dépend du contexte.",
         "en": "You have to qualify that: it depends on the context.",
-        "ipa": "il fo nɥɑ̃.se sa de.pɑ̃ dy kɔ̃.tɛkst"
+        "ipa": "il fo nɥɑ̃.se sa de.pɑ̃ dy kɔ̃.tɛkst",
+        "gloss": {
+          "en": "You have to qualify that: it depends on the context.",
+          "es": "Hay que matizar eso: depende del contexto.",
+          "ru": "Вы должны уточнить это: это зависит от контекста."
+        }
       }
     ],
     "unscramble": [
@@ -516,7 +774,12 @@
           "j’ai",
           "un",
           "doute."
-        ]
+        ],
+        "gloss": {
+          "en": "You may be right, but I have a doubt.",
+          "es": "Puede que tengas razón, pero tengo una duda.",
+          "ru": "Возможно, вы правы, но у меня есть сомнения."
+        }
       },
       {
         "id": "remote-opinions-unsc-2",
@@ -531,7 +794,12 @@
           "dépend",
           "du",
           "contexte."
-        ]
+        ],
+        "gloss": {
+          "en": "You have to qualify that: it depends on the context.",
+          "es": "Hay que matizar eso: depende del contexto.",
+          "ru": "Вы должны уточнить это: это зависит от контекста."
+        }
       }
     ]
   }

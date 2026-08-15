@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "satire-c2",
-  "version": 1,
+  "version": 2,
   "level": "c2",
   "title": {
     "fr": "Ironie et satire C2",
-    "en": "Irony and satire C2"
+    "en": "Irony and satire C2",
+    "es": "Ironía y sátira C2",
+    "ru": "Ирония и сатира С2"
   },
   "description": {
     "fr": "Méiose, parodie, invective et pastiche pour démêler les régimes du second degré.",
-    "en": "Understatement, parody, invective, and pastiche for untangling second-degree regimes."
+    "en": "Understatement, parody, invective, and pastiche for untangling second-degree regimes.",
+    "es": "Eufemismo, parodia, invectiva y pastiche para desenredar regímenes de segundo grado.",
+    "ru": "Преуменьшение, пародия, оскорбления и стилизация для распутывания режимов второй степени."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "understatement / meiosis",
       "example": "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
       "ipa": "me.joz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "understatement / meiosis",
+        "es": "eufemismo / meiosis",
+        "ru": "преуменьшение / мейоз"
+      }
     },
     {
       "id": "remote-satire-c2-2",
@@ -26,7 +35,12 @@
       "en": "parody",
       "example": "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
       "ipa": "pa.ʁɔ.di",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "parody",
+        "es": "parodia",
+        "ru": "пародия"
+      }
     },
     {
       "id": "remote-satire-c2-3",
@@ -34,7 +48,12 @@
       "en": "invective",
       "example": "L’invective, brutale, renonce à l’ironie pour frapper nommément.",
       "ipa": "ɛ̃.vɛk.tiv",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "invective",
+        "es": "invectiva",
+        "ru": "оскорбление"
+      }
     },
     {
       "id": "remote-satire-c2-4",
@@ -42,7 +61,12 @@
       "en": "sarcasm",
       "example": "Le sarcasme, plus acéré que l’ironie, vise la personne autant que la thèse.",
       "ipa": "saʁ.kasm",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "sarcasm",
+        "es": "sarcasmo",
+        "ru": "сарказм"
+      }
     },
     {
       "id": "remote-satire-c2-5",
@@ -50,7 +74,12 @@
       "en": "pastiche",
       "example": "Le pastiche imite sans nécessairement railler : hommage et charge peuvent y cohabiter.",
       "ipa": "pas.tiʃ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "pastiche",
+        "es": "pastiche",
+        "ru": "стилизация"
+      }
     },
     {
       "id": "remote-satire-c2-6",
@@ -58,7 +87,12 @@
       "en": "antiphrasis",
       "example": "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper.",
       "ipa": "ɑ̃.ti.fʁaz",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "antiphrasis",
+        "es": "antífrasis",
+        "ru": "антифразис"
+      }
     },
     {
       "id": "remote-satire-c2-7",
@@ -66,7 +100,12 @@
       "en": "burlesque",
       "example": "Le burlesque travesti le noble en trivial, ou le trivial en noble, par un écart de registre.",
       "ipa": "byʁ.lɛsk",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "burlesque",
+        "es": "burlesco",
+        "ru": "бурлеск"
+      }
     },
     {
       "id": "remote-satire-c2-8",
@@ -74,7 +113,12 @@
       "en": "lampoon / pamphlet",
       "example": "Le pamphlet, genre bref et vengeur, ne vise pas l’amendement : il vise la chute.",
       "ipa": "pɑ̃.flɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "lampoon / pamphlet",
+        "es": "satirizar / panfleto",
+        "ru": "пасквиль / брошюра"
+      }
     },
     {
       "id": "remote-satire-c2-9",
@@ -82,7 +126,12 @@
       "en": "caricature / lampoon",
       "example": "La charge grossit un trait jusqu’à ce que le modèle n’y puisse plus se méprendre.",
       "ipa": "ʃaʁʒ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "caricature / lampoon",
+        "es": "caricatura / satirismo",
+        "ru": "карикатура / пасквиль"
+      }
     },
     {
       "id": "remote-satire-c2-10",
@@ -90,7 +139,12 @@
       "en": "travesty",
       "example": "Le travestissement abaisse un sujet élevé en le coulant dans un style bas.",
       "ipa": "tʁa.vɛs.tis.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "travesty",
+        "es": "parodia",
+        "ru": "пародия"
+      }
     },
     {
       "id": "remote-satire-c2-11",
@@ -98,7 +152,12 @@
       "en": "persiflage / mockery",
       "example": "Le persiflage, mondain, pique sans paraître quitter le ton de la conversation.",
       "ipa": "pɛʁ.si.flaʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "persiflage / mockery",
+        "es": "persiflaje / burla",
+        "ru": "персифляж / издевательство"
+      }
     },
     {
       "id": "remote-satire-c2-12",
@@ -106,7 +165,12 @@
       "en": "raillery",
       "example": "La raillerie, plus légère que l’invective, ménage encore la possibilité du sourire partagé.",
       "ipa": "ʁaj.ʁi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "raillery",
+        "es": "burlas",
+        "ru": "насмешка"
+      }
     },
     {
       "id": "remote-satire-c2-13",
@@ -114,7 +178,12 @@
       "en": "hyperbole",
       "example": "L’hyperbole, inverse de la méiose, enchérit jusqu’à l’invraisemblance calculée.",
       "ipa": "i.pɛʁ.bɔl",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "hyperbole",
+        "es": "hipérbole",
+        "ru": "гипербола"
+      }
     },
     {
       "id": "remote-satire-c2-14",
@@ -122,7 +191,12 @@
       "en": "caricature",
       "example": "La caricature isole un trait et l’hypertrophie jusqu’à en faire un destin.",
       "ipa": "ka.ʁi.ka.tyʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "caricature",
+        "es": "caricatura",
+        "ru": "карикатура"
+      }
     },
     {
       "id": "remote-satire-c2-15",
@@ -130,7 +204,12 @@
       "en": "dithyramb",
       "example": "Le dithyrambe, louange outrée, bascule en satire dès que l’excès se donne à lire.",
       "ipa": "di.ti.ʁɑ̃b",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "dithyramb",
+        "es": "ditirambo",
+        "ru": "дифирамб"
+      }
     },
     {
       "id": "remote-satire-c2-16",
@@ -138,7 +217,12 @@
       "en": "grotesque",
       "example": "Le grotesque assemble le monstrueux et le comique en une figure qui dérange plus qu’elle n’amuse.",
       "ipa": "ɡʁɔ.tɛsk",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "grotesque",
+        "es": "grotesco",
+        "ru": "гротеск"
+      }
     },
     {
       "id": "remote-satire-c2-17",
@@ -146,7 +230,12 @@
       "en": "parabasis",
       "example": "La parabase, chez Aristophane, rompt l’illusion pour apostropher le public.",
       "ipa": "pa.ʁa.baz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "parabasis",
+        "es": "parábasis",
+        "ru": "парабазис"
+      }
     },
     {
       "id": "remote-satire-c2-18",
@@ -154,7 +243,12 @@
       "en": "hoax",
       "example": "Le canular, s’il réussit, révèle la crédulité qu’il feignait seulement d’exploiter.",
       "ipa": "ka.ny.laʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "hoax",
+        "es": "broma",
+        "ru": "фальсификация"
+      }
     },
     {
       "id": "remote-satire-c2-19",
@@ -162,7 +256,12 @@
       "en": "derision",
       "example": "La dérision ne discute plus : elle disqualifie en riant.",
       "ipa": "de.ʁi.zjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "derision",
+        "es": "burla",
+        "ru": "насмешка"
+      }
     },
     {
       "id": "remote-satire-c2-20",
@@ -170,7 +269,12 @@
       "en": "satire",
       "example": "La satire, genre moral autant que comique, prétend corriger les mœurs en les exposant.",
       "ipa": "sa.tiʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "satire",
+        "es": "sátira",
+        "ru": "сатира"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-satire-phrase-1",
       "fr": "Ce n’est pas mal, observa-t-il — et l’on reconnut, sous la méiose, l’éloge le plus appuyé.",
       "en": "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
-      "ipa": "sə nɛ pa mal ɔp.sɛʁ.va til e lɔ̃ ʁə.kɔ.ny su la me.joz le.lɔʒ lə ply za.pɥi.je"
+      "ipa": "sə nɛ pa mal ɔp.sɛʁ.va til e lɔ̃ ʁə.kɔ.ny su la me.joz le.lɔʒ lə ply za.pɥi.je",
+      "gloss": {
+        "en": "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
+        "es": "No está mal, observó, y bajo la subestimación se reconocía el elogio más enfático.",
+        "ru": "Неплохо, заметил он, — и под преуменьшением можно было узнать самую выразительную похвалу."
+      }
     },
     {
       "id": "remote-satire-phrase-2",
       "fr": "La parodie, loin de tuer son modèle, en révèle le mécanisme que l’admiration avait voilé.",
       "en": "Parody, far from killing its model, reveals the mechanism admiration had veiled.",
-      "ipa": "la pa.ʁɔ.di lwɛ̃ də tɥe sɔ̃ mɔ.dɛl ɑ̃ ʁe.vɛl lə me.ka.nism kə la.dmi.ʁa.sjɔ̃ a.vɛ vwa.le"
+      "ipa": "la pa.ʁɔ.di lwɛ̃ də tɥe sɔ̃ mɔ.dɛl ɑ̃ ʁe.vɛl lə me.ka.nism kə la.dmi.ʁa.sjɔ̃ a.vɛ vwa.le",
+      "gloss": {
+        "en": "Parody, far from killing its model, reveals the mechanism admiration had veiled.",
+        "es": "La parodia, lejos de matar a su modelo, revela el mecanismo que la admiración había velado.",
+        "ru": "Пародия не только не убивает свою модель, но и раскрывает механизм, скрытый восхищением."
+      }
     },
     {
       "id": "remote-satire-phrase-3",
       "fr": "L’invective, dès qu’elle nomme, quitte le terrain de l’ironie pour celui de l’affront.",
       "en": "Invective, as soon as it names, leaves the ground of irony for that of insult.",
-      "ipa": "lɛ̃.vɛk.tiv dɛ kɛl nɔm kit lə tɛ.ʁɛ̃ də li.ʁɔ.ni puʁ sə.lɥi də la.fʁɔ̃"
+      "ipa": "lɛ̃.vɛk.tiv dɛ kɛl nɔm kit lə tɛ.ʁɛ̃ də li.ʁɔ.ni puʁ sə.lɥi də la.fʁɔ̃",
+      "gloss": {
+        "en": "Invective, as soon as it names, leaves the ground of irony for that of insult.",
+        "es": "La invectiva, tan pronto como se nombra, deja el terreno de la ironía por el del insulto.",
+        "ru": "Инвектива, как только она упоминается, оставляет почву иронии для оскорбления."
+      }
     },
     {
       "id": "remote-satire-phrase-4",
       "fr": "Le pastiche, à la différence de la parodie, peut tenir de l’hommage autant que de la charge.",
       "en": "Pastiche, unlike parody, can partake of homage as much as of lampoon.",
-      "ipa": "lə pas.tiʃ a la di.fe.ʁɑ̃s də la pa.ʁɔ.di pø tə.niʁ də lɔ.maʒ o.tɑ̃ kə də la ʃaʁʒ"
+      "ipa": "lə pas.tiʃ a la di.fe.ʁɑ̃s də la pa.ʁɔ.di pø tə.niʁ də lɔ.maʒ o.tɑ̃ kə də la ʃaʁʒ",
+      "gloss": {
+        "en": "Pastiche, unlike parody, can partake of homage as much as of lampoon.",
+        "es": "El pastiche, a diferencia de la parodia, puede tener tanto carácter de homenaje como de satirismo.",
+        "ru": "Пастиш, в отличие от пародии, может быть как дань уважения, так и пасквиль."
+      }
     },
     {
       "id": "remote-satire-phrase-5",
       "fr": "Encore que le sarcasme fût brillant, il visait la personne plus que la thèse.",
       "en": "Even though the sarcasm was brilliant, it targeted the person more than the thesis.",
-      "ipa": "ɑ̃.kɔʁ kə lə saʁ.kasm fy bʁi.jɑ̃ il vi.zɛ la pɛʁ.sɔn ply kə la tɛz"
+      "ipa": "ɑ̃.kɔʁ kə lə saʁ.kasm fy bʁi.jɑ̃ il vi.zɛ la pɛʁ.sɔn ply kə la tɛz",
+      "gloss": {
+        "en": "Even though the sarcasm was brilliant, it targeted the person more than the thesis.",
+        "es": "Aunque el sarcasmo fue brillante, se dirigió más a la persona que a la tesis.",
+        "ru": "Несмотря на то, что сарказм был блестящим, он больше касался человека, чем тезиса."
+      }
     },
     {
       "id": "remote-satire-phrase-6",
       "fr": "On ne saurait confondre antiphrase et mensonge : la première veut être déchiffrée.",
       "en": "One cannot confuse antiphrasis with lying: the former wants to be deciphered.",
-      "ipa": "ɔ̃ nə sɔ.ʁɛ kɔ̃.fɔ̃dʁ ɑ̃.ti.fʁaz e mɑ̃.sɔ̃ʒ la pʁə.mjɛʁ vø ɛtʁ de.ʃi.fʁe"
+      "ipa": "ɔ̃ nə sɔ.ʁɛ kɔ̃.fɔ̃dʁ ɑ̃.ti.fʁaz e mɑ̃.sɔ̃ʒ la pʁə.mjɛʁ vø ɛtʁ de.ʃi.fʁe",
+      "gloss": {
+        "en": "One cannot confuse antiphrasis with lying: the former wants to be deciphered.",
+        "es": "No se puede confundir la antífrasis con la mentira: la primera quiere ser descifrada.",
+        "ru": "Нельзя спутать антифразис с ложью: первый хочет, чтобы его расшифровали."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "hyperbole",
         "antiphrase",
         "dérision"
-      ]
+      ],
+      "gloss": {
+        "en": "Meiosis, by saying less, makes more heard.",
+        "es": "La meiosis, al decir menos, hace oír más.",
+        "ru": "Мейоз, говоря меньше, делает больше услышанным."
+      },
+      "wordGloss": {
+        "en": "understatement",
+        "es": "atenuación",
+        "ru": "преуменьшение"
+      }
     },
     {
       "id": "remote-satire-listen-2",
@@ -236,7 +380,17 @@
         "pastiche",
         "travestissement",
         "charge"
-      ]
+      ],
+      "gloss": {
+        "en": "Parody imitates in order to deflate the style it borrows.",
+        "es": "La parodia imita para desinflar el estilo que toma prestado.",
+        "ru": "Пародия имитирует, чтобы ослабить стиль, который она заимствует."
+      },
+      "wordGloss": {
+        "en": "parody",
+        "es": "parodia",
+        "ru": "пародия"
+      }
     },
     {
       "id": "remote-satire-listen-3",
@@ -249,7 +403,17 @@
         "persiflage",
         "raillerie",
         "sarcasme"
-      ]
+      ],
+      "gloss": {
+        "en": "Invective forgoes irony in order to strike by name.",
+        "es": "La invectiva renuncia a la ironía para atacar por su nombre.",
+        "ru": "Инвектива отказывается от иронии, чтобы ударить по имени."
+      },
+      "wordGloss": {
+        "en": "invective",
+        "es": "invectiva",
+        "ru": "оскорбление"
+      }
     },
     {
       "id": "remote-satire-listen-4",
@@ -262,7 +426,17 @@
         "parodie",
         "canular",
         "dithyrambe"
-      ]
+      ],
+      "gloss": {
+        "en": "Pastiche imitates without necessarily mocking.",
+        "es": "Pastiche imita sin necesariamente burlarse.",
+        "ru": "Пастиш имитирует, но не обязательно насмехается."
+      },
+      "wordGloss": {
+        "en": "pastiche",
+        "es": "pastiche",
+        "ru": "стилизация"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-satire-grammar-1",
       "title": {
         "fr": "Le basculement de registre",
-        "en": "Register switching"
+        "en": "Register switching",
+        "es": "Cambio de registro",
+        "ru": "Переключение регистров"
       },
-      "rule": "La satire vit de l’écart : un lexique noble dans une syntaxe basse (burlesque), ou l’inverse (héroï-comique). Le passé simple soutenu côtoie le tutoiement, l’incise mondaine le pamphlet. L’effet naît du heurt, non de l’homogénéité.",
+      "rule": {
+        "fr": "La satire vit de l’écart : un lexique noble dans une syntaxe basse (burlesque), ou l’inverse (héroï-comique). Le passé simple soutenu côtoie le tutoiement, l’incise mondaine le pamphlet. L’effet naît du heurt, non de l’homogénéité.",
+        "en": "Satire lives from the gap: a noble lexicon in a low syntax (burlesque), or the opposite (hero-comic). The simple past tense rubs shoulders with informality, the worldly incises the pamphlet. The effect is born from clash, not from homogeneity.",
+        "es": "La sátira vive de la brecha: un léxico noble en una sintaxis baja (burlesco), o todo lo contrario (hero-cómico). El tiempo pasado simple se codea con la informalidad, el mundano incide en el folleto. El efecto nace del choque, no de la homogeneidad.",
+        "ru": "Сатира живет разрывом: благородная лексика в низком синтаксисе (бурлеск) или наоборот (героико-комический). Простое прошедшее время соседствует с неформальностью, мирское прорезает брошюру. Эффект рождается из столкновения, а не из однородности."
+      },
       "table": [
         [
           "Régime",
@@ -337,15 +518,27 @@
             "une hypotaxe"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Register switching.",
+        "es": "Útil cuando necesita solicitar: Cambio de registro.",
+        "ru": "Полезно, когда нужно применить: Переключение регистров."
+      }
     },
     {
       "id": "remote-satire-grammar-2",
       "title": {
         "fr": "Ne… que et la litote",
-        "en": "Ne… que and litotes"
+        "en": "Ne… que and litotes",
+        "es": "Ne… que y litotes",
+        "ru": "Ne… que и литоты"
       },
-      "rule": "Ne… que restreint : Ce n’est que de l’ironie. La litote affirme en niant l’inverse : Ce n’est pas mal. La satire joue de l’un et de l’autre pour dire plus en paraissant dire moins.",
+      "rule": {
+        "fr": "Ne… que restreint : Ce n’est que de l’ironie. La litote affirme en niant l’inverse : Ce n’est pas mal. La satire joue de l’un et de l’autre pour dire plus en paraissant dire moins.",
+        "en": "Only… restricted: It’s just irony. Understatement affirms while denying the opposite: It’s not bad. Satire plays on both to say more while appearing to say less.",
+        "es": "Sólo… restringido: es simplemente ironía. La subestimación afirma mientras niega lo contrario: no está mal. La sátira juega con ambos para decir más y parecer decir menos.",
+        "ru": "Только... ограничено: Это просто ирония. Преуменьшение утверждает, одновременно отрицая обратное: это неплохо. Сатира играет на обоих, чтобы сказать больше, но при этом сделать вид, что говорит меньше."
+      },
       "table": [
         [
           "Tour",
@@ -394,7 +587,12 @@
             "une antiphrase"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Ne… que and litotes.",
+        "es": "Útil cuando necesitas aplicar: Ne… que y litotes.",
+        "ru": "Полезно, когда нужно применить: Ne… que и литоты."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-satire-dict-1",
         "fr": "Ce n’est pas mal, observa-t-il — et l’on reconnut, sous la méiose, l’éloge le plus appuyé.",
         "en": "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
-        "ipa": "sə nɛ pa mal ɔp.sɛʁ.va til e lɔ̃ ʁə.kɔ.ny su la me.joz le.lɔʒ lə ply za.pɥi.je"
+        "ipa": "sə nɛ pa mal ɔp.sɛʁ.va til e lɔ̃ ʁə.kɔ.ny su la me.joz le.lɔʒ lə ply za.pɥi.je",
+        "gloss": {
+          "en": "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
+          "es": "No está mal, observó, y bajo la subestimación se reconocía el elogio más enfático.",
+          "ru": "Неплохо, заметил он, — и под преуменьшением можно было узнать самую выразительную похвалу."
+        }
       },
       {
         "id": "remote-satire-dict-2",
         "fr": "La parodie, loin de tuer son modèle, en révèle le mécanisme que l’admiration avait voilé.",
         "en": "Parody, far from killing its model, reveals the mechanism admiration had veiled.",
-        "ipa": "la pa.ʁɔ.di lwɛ̃ də tɥe sɔ̃ mɔ.dɛl ɑ̃ ʁe.vɛl lə me.ka.nism kə la.dmi.ʁa.sjɔ̃ a.vɛ vwa.le"
+        "ipa": "la pa.ʁɔ.di lwɛ̃ də tɥe sɔ̃ mɔ.dɛl ɑ̃ ʁe.vɛl lə me.ka.nism kə la.dmi.ʁa.sjɔ̃ a.vɛ vwa.le",
+        "gloss": {
+          "en": "Parody, far from killing its model, reveals the mechanism admiration had veiled.",
+          "es": "La parodia, lejos de matar a su modelo, revela el mecanismo que la admiración había velado.",
+          "ru": "Пародия не только не убивает свою модель, но и раскрывает механизм, скрытый восхищением."
+        }
       },
       {
         "id": "remote-satire-dict-3",
         "fr": "L’invective, dès qu’elle nomme, quitte le terrain de l’ironie pour celui de l’affront.",
         "en": "Invective, as soon as it names, leaves the ground of irony for that of insult.",
-        "ipa": "lɛ̃.vɛk.tiv dɛ kɛl nɔm kit lə tɛ.ʁɛ̃ də li.ʁɔ.ni puʁ sə.lɥi də la.fʁɔ̃"
+        "ipa": "lɛ̃.vɛk.tiv dɛ kɛl nɔm kit lə tɛ.ʁɛ̃ də li.ʁɔ.ni puʁ sə.lɥi də la.fʁɔ̃",
+        "gloss": {
+          "en": "Invective, as soon as it names, leaves the ground of irony for that of insult.",
+          "es": "La invectiva, tan pronto como se nombra, deja el terreno de la ironía por el del insulto.",
+          "ru": "Инвектива, как только она упоминается, оставляет почву иронии для оскорбления."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-satire-mean-1",
         "fr": "Ce n’est pas mal, observa-t-il — et l’on reconnut, sous la méiose, l’éloge le plus appuyé.",
         "en": "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
-        "choices": [
-          "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
-          "Parody, far from killing its model, reveals the mechanism admiration had veiled.",
-          "Invective, as soon as it names, leaves the ground of irony for that of insult."
-        ]
+        "gloss": {
+          "en": "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
+          "es": "No está mal, observó, y bajo la subestimación se reconocía el elogio más enfático.",
+          "ru": "Неплохо, заметил он, — и под преуменьшением можно было узнать самую выразительную похвалу."
+        }
       },
       {
         "id": "remote-satire-mean-2",
         "fr": "La parodie, loin de tuer son modèle, en révèle le mécanisme que l’admiration avait voilé.",
         "en": "Parody, far from killing its model, reveals the mechanism admiration had veiled.",
-        "choices": [
-          "Parody, far from killing its model, reveals the mechanism admiration had veiled.",
-          "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
-          "Invective, as soon as it names, leaves the ground of irony for that of insult."
-        ]
+        "gloss": {
+          "en": "Parody, far from killing its model, reveals the mechanism admiration had veiled.",
+          "es": "La parodia, lejos de matar a su modelo, revela el mecanismo que la admiración había velado.",
+          "ru": "Пародия не только не убивает свою модель, но и раскрывает механизм, скрытый восхищением."
+        }
       },
       {
         "id": "remote-satire-mean-3",
         "fr": "L’invective, dès qu’elle nomme, quitte le terrain de l’ironie pour celui de l’affront.",
         "en": "Invective, as soon as it names, leaves the ground of irony for that of insult.",
-        "choices": [
-          "Invective, as soon as it names, leaves the ground of irony for that of insult.",
-          "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
-          "Parody, far from killing its model, reveals the mechanism admiration had veiled."
-        ]
+        "gloss": {
+          "en": "Invective, as soon as it names, leaves the ground of irony for that of insult.",
+          "es": "La invectiva, tan pronto como se nombra, deja el terreno de la ironía por el del insulto.",
+          "ru": "Инвектива, как только она упоминается, оставляет почву иронии для оскорбления."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-satire-fren-1",
         "fr": "méiose",
-        "en": "understatement"
+        "en": "understatement",
+        "gloss": {
+          "en": "understatement",
+          "es": "atenuación",
+          "ru": "преуменьшение"
+        }
       },
       {
         "id": "remote-satire-fren-2",
         "fr": "parodie",
-        "en": "parody"
+        "en": "parody",
+        "gloss": {
+          "en": "parody",
+          "es": "parodia",
+          "ru": "пародия"
+        }
       },
       {
         "id": "remote-satire-fren-3",
         "fr": "invective",
-        "en": "invective"
+        "en": "invective",
+        "gloss": {
+          "en": "invective",
+          "es": "invectiva",
+          "ru": "оскорбление"
+        }
       },
       {
         "id": "remote-satire-fren-4",
         "fr": "sarcasme",
-        "en": "sarcasm"
+        "en": "sarcasm",
+        "gloss": {
+          "en": "sarcasm",
+          "es": "sarcasmo",
+          "ru": "сарказм"
+        }
       },
       {
         "id": "remote-satire-fren-5",
         "fr": "pastiche",
-        "en": "pastiche"
+        "en": "pastiche",
+        "gloss": {
+          "en": "pastiche",
+          "es": "pastiche",
+          "ru": "стилизация"
+        }
       },
       {
         "id": "remote-satire-fren-6",
         "fr": "antiphrase",
-        "en": "antiphrasis"
+        "en": "antiphrasis",
+        "gloss": {
+          "en": "antiphrasis",
+          "es": "antífrasis",
+          "ru": "антифразис"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-satire-aloud-1",
         "fr": "Ce n’est pas mal, observa-t-il — et l’on reconnut, sous la méiose, l’éloge le plus appuyé.",
         "en": "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
-        "ipa": "sə nɛ pa mal ɔp.sɛʁ.va til e lɔ̃ ʁə.kɔ.ny su la me.joz le.lɔʒ lə ply za.pɥi.je"
+        "ipa": "sə nɛ pa mal ɔp.sɛʁ.va til e lɔ̃ ʁə.kɔ.ny su la me.joz le.lɔʒ lə ply za.pɥi.je",
+        "gloss": {
+          "en": "Not bad, he observed — and under the understatement one recognised the most emphatic praise.",
+          "es": "No está mal, observó, y bajo la subestimación se reconocía el elogio más enfático.",
+          "ru": "Неплохо, заметил он, — и под преуменьшением можно было узнать самую выразительную похвалу."
+        }
       },
       {
         "id": "remote-satire-aloud-2",
         "fr": "L’invective, dès qu’elle nomme, quitte le terrain de l’ironie pour celui de l’affront.",
         "en": "Invective, as soon as it names, leaves the ground of irony for that of insult.",
-        "ipa": "lɛ̃.vɛk.tiv dɛ kɛl nɔm kit lə tɛ.ʁɛ̃ də li.ʁɔ.ni puʁ sə.lɥi də la.fʁɔ̃"
+        "ipa": "lɛ̃.vɛk.tiv dɛ kɛl nɔm kit lə tɛ.ʁɛ̃ də li.ʁɔ.ni puʁ sə.lɥi də la.fʁɔ̃",
+        "gloss": {
+          "en": "Invective, as soon as it names, leaves the ground of irony for that of insult.",
+          "es": "La invectiva, tan pronto como se nombra, deja el terreno de la ironía por el del insulto.",
+          "ru": "Инвектива, как только она упоминается, оставляет почву иронии для оскорбления."
+        }
       },
       {
         "id": "remote-satire-aloud-3",
         "fr": "Encore que le sarcasme fût brillant, il visait la personne plus que la thèse.",
         "en": "Even though the sarcasm was brilliant, it targeted the person more than the thesis.",
-        "ipa": "ɑ̃.kɔʁ kə lə saʁ.kasm fy bʁi.jɑ̃ il vi.zɛ la pɛʁ.sɔn ply kə la tɛz"
+        "ipa": "ɑ̃.kɔʁ kə lə saʁ.kasm fy bʁi.jɑ̃ il vi.zɛ la pɛʁ.sɔn ply kə la tɛz",
+        "gloss": {
+          "en": "Even though the sarcasm was brilliant, it targeted the person more than the thesis.",
+          "es": "Aunque el sarcasmo fue brillante, se dirigió más a la persona que a la tesis.",
+          "ru": "Несмотря на то, что сарказм был блестящим, он больше касался человека, чем тезиса."
+        }
       }
     ],
     "unscramble": [
@@ -521,7 +779,12 @@
           "peuvent",
           "y",
           "cohabiter."
-        ]
+        ],
+        "gloss": {
+          "en": "Pastiche imitates without necessarily mocking: homage and caricature can coexist in it.",
+          "es": "Pastiche imita sin necesariamente burla: en él pueden coexistir homenaje y caricatura.",
+          "ru": "Пастиш имитирует, но не обязательно насмехается: в нем могут сосуществовать дань почтения и карикатура."
+        }
       },
       {
         "id": "remote-satire-unsc-2",
@@ -545,7 +808,12 @@
           "appuyé",
           "pour",
           "tromper."
-        ]
+        ],
+        "gloss": {
+          "en": "Antiphrasis says the opposite of what it wants heard, in a tone too pointed to deceive.",
+          "es": "La antífrasis dice lo contrario de lo que quiere oír, en un tono demasiado directo para engañar.",
+          "ru": "Антифразис говорит противоположное тому, что он хочет услышать, тоном, слишком резким, чтобы обмануть."
+        }
       }
     ]
   }

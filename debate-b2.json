@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "debate-b2",
-  "version": 1,
+  "version": 2,
   "level": "b2",
   "title": {
     "fr": "Argumentation B2",
-    "en": "Argumentation B2"
+    "en": "Argumentation B2",
+    "es": "Argumentación B2",
+    "ru": "Аргументация Б2"
   },
   "description": {
     "fr": "Thèse, contre-argument, nuance, concession et recours à la preuve.",
-    "en": "Claims, counterarguments, nuance, concession, and evidence."
+    "en": "Claims, counterarguments, nuance, concession, and evidence.",
+    "es": "Reclamaciones, contraargumentos, matices, concesiones y pruebas.",
+    "ru": "Претензии, контраргументы, нюансы, уступки и доказательства."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "claim / thesis",
       "example": "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
       "ipa": "tɛz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "claim / thesis",
+        "es": "reclamo / tesis",
+        "ru": "претензия / тезис"
+      }
     },
     {
       "id": "remote-debate-b2-2",
@@ -26,7 +35,12 @@
       "en": "counterargument",
       "example": "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
       "ipa": "kɔ̃.tʁaʁ.ɡy.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "counterargument",
+        "es": "contraargumento",
+        "ru": "контраргумент"
+      }
     },
     {
       "id": "remote-debate-b2-3",
@@ -34,7 +48,12 @@
       "en": "nuance",
       "example": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
       "ipa": "nɥɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "nuance",
+        "es": "matiz",
+        "ru": "нюанс"
+      }
     },
     {
       "id": "remote-debate-b2-4",
@@ -42,7 +61,12 @@
       "en": "concession",
       "example": "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
       "ipa": "kɔ̃.sɛ.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "concession",
+        "es": "concesión",
+        "ru": "уступка"
+      }
     },
     {
       "id": "remote-debate-b2-5",
@@ -50,7 +74,12 @@
       "en": "argument",
       "example": "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
       "ipa": "aʁ.ɡy.mɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "argument",
+        "es": "argumento",
+        "ru": "аргумент"
+      }
     },
     {
       "id": "remote-debate-b2-6",
@@ -58,7 +87,12 @@
       "en": "assertion",
       "example": "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
       "ipa": "a.sɛʁ.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "assertion",
+        "es": "afirmación",
+        "ru": "утверждение"
+      }
     },
     {
       "id": "remote-debate-b2-7",
@@ -66,7 +100,12 @@
       "en": "rebuttal / refutation",
       "example": "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
       "ipa": "ʁe.fy.ta.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "rebuttal / refutation",
+        "es": "refutación / refutación",
+        "ru": "опровержение / опровержение"
+      }
     },
     {
       "id": "remote-debate-b2-8",
@@ -74,7 +113,12 @@
       "en": "assumption / presupposition",
       "example": "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
       "ipa": "pʁe.sy.po.ze",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "assumption / presupposition",
+        "es": "suposición / presuposición",
+        "ru": "предположение/предпосылка"
+      }
     },
     {
       "id": "remote-debate-b2-9",
@@ -82,7 +126,12 @@
       "en": "analogy",
       "example": "L’analogie éclaire, néanmoins elle ne prouve rien si les deux situations divergent.",
       "ipa": "a.na.lɔ.ʒi",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "analogy",
+        "es": "analogía",
+        "ru": "аналогия"
+      }
     },
     {
       "id": "remote-debate-b2-10",
@@ -90,7 +139,12 @@
       "en": "rhetoric",
       "example": "La rhétorique brillante peut masquer une faiblesse de fond que l’on découvre trop tard.",
       "ipa": "ʁe.tɔ.ʁik",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "rhetoric",
+        "es": "retórica",
+        "ru": "риторика"
+      }
     },
     {
       "id": "remote-debate-b2-11",
@@ -98,7 +152,12 @@
       "en": "objection",
       "example": "L’objection a été accueillie, ce qui a permis d’affiner la thèse initiale.",
       "ipa": "ɔb.ʒɛk.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "objection",
+        "es": "objeción",
+        "ru": "возражение"
+      }
     },
     {
       "id": "remote-debate-b2-12",
@@ -106,7 +165,12 @@
       "en": "synthesis",
       "example": "La synthèse finale articule les points d’accord sans effacer les désaccords restants.",
       "ipa": "sɛ̃.tɛz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "synthesis",
+        "es": "síntesis",
+        "ru": "синтез"
+      }
     },
     {
       "id": "remote-debate-b2-13",
@@ -114,7 +178,12 @@
       "en": "illustration / example",
       "example": "Cette illustration concrète rend l’argument plus saisissable pour un public non spécialiste.",
       "ipa": "i.lys.tʁa.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "illustration / example",
+        "es": "ilustración / ejemplo",
+        "ru": "иллюстрация/пример"
+      }
     },
     {
       "id": "remote-debate-b2-14",
@@ -122,7 +191,12 @@
       "en": "stake / issue at stake",
       "example": "L’enjeu n’est pas de « gagner », mais de clarifier ce qui se joue réellement.",
       "ipa": "ɑ̃.ʒø",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "stake / issue at stake",
+        "es": "lo que está en juego/cuestión en juego",
+        "ru": "ставка / вопрос на кону"
+      }
     },
     {
       "id": "remote-debate-b2-15",
@@ -130,7 +204,12 @@
       "en": "paradox",
       "example": "Le paradoxe (« moins on régule, moins on est libre ») force à revoir un présupposé.",
       "ipa": "pa.ʁa.dɔks",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "paradox",
+        "es": "paradoja",
+        "ru": "парадокс"
+      }
     },
     {
       "id": "remote-debate-b2-16",
@@ -138,7 +217,12 @@
       "en": "connective / linking word",
       "example": "Un connecteur mal choisi (donc au lieu de or) fausse toute la progression du raisonnement.",
       "ipa": "kɔ.nɛk.tœʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "connective / linking word",
+        "es": "palabra conectiva/enlazante",
+        "ru": "связующее/связующее слово"
+      }
     },
     {
       "id": "remote-debate-b2-17",
@@ -146,7 +230,12 @@
       "en": "point of view",
       "example": "Son point de vue n’est pas absurde ; il part toutefois d’un présupposé discutable.",
       "ipa": "pwɛ̃ də vy",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "point of view",
+        "es": "Punto de vista",
+        "ru": "точка зрения"
+      }
     },
     {
       "id": "remote-debate-b2-18",
@@ -154,7 +243,12 @@
       "en": "relevance",
       "example": "La pertinence d’un exemple se juge à ce qu’il éclaire, non à son seul caractère frappant.",
       "ipa": "pɛʁ.ti.nɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "relevance",
+        "es": "pertinencia",
+        "ru": "актуальность"
+      }
     },
     {
       "id": "remote-debate-b2-19",
@@ -162,7 +256,12 @@
       "en": "generalization",
       "example": "Cette généralisation abusive repose sur trois cas, ce qui la rend fragile.",
       "ipa": "ʒe.ne.ʁa.li.za.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "generalization",
+        "es": "generalización",
+        "ru": "обобщение"
+      }
     },
     {
       "id": "remote-debate-b2-20",
@@ -170,7 +269,12 @@
       "en": "case / plea",
       "example": "Son plaidoyer en faveur du compromis a déplacé le débat vers le terrain pratique.",
       "ipa": "plɛ.dwa.je",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "case / plea",
+        "es": "caso / alegato",
+        "ru": "дело/просьба"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-debate-phrase-1",
       "fr": "Certes, l’objection est sérieuse ; toutefois elle ne ruine pas entièrement la thèse.",
       "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
-      "ipa": "sɛʁt lɔb.ʒɛk.sjɔ̃ ɛ se.ʁjøz tu.tə.fwa ɛl nə ʁɥin pa ɑ̃.tjɛʁ.mɑ̃ la tɛz"
+      "ipa": "sɛʁt lɔb.ʒɛk.sjɔ̃ ɛ se.ʁjøz tu.tə.fwa ɛl nə ʁɥin pa ɑ̃.tjɛʁ.mɑ̃ la tɛz",
+      "gloss": {
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+        "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+      }
     },
     {
       "id": "remote-debate-phrase-2",
       "fr": "Bien que l’analogie soit séduisante, les deux situations ne sont pas comparables.",
       "en": "Although the analogy is appealing, the two situations are not comparable.",
-      "ipa": "bjɛ̃ kə la.na.lɔ.ʒi swa se.dɥi.zɑ̃t le dø si.tɥa.sjɔ̃ nə sɔ̃ pa kɔ̃.pa.ʁabl"
+      "ipa": "bjɛ̃ kə la.na.lɔ.ʒi swa se.dɥi.zɑ̃t le dø si.tɥa.sjɔ̃ nə sɔ̃ pa kɔ̃.pa.ʁabl",
+      "gloss": {
+        "en": "Although the analogy is appealing, the two situations are not comparable.",
+        "es": "Aunque la analogía resulta atractiva, las dos situaciones no son comparables.",
+        "ru": "Хотя аналогия привлекательна, эти две ситуации несопоставимы."
+      }
     },
     {
       "id": "remote-debate-phrase-3",
       "fr": "On pourrait objecter que la rhétorique l’emporte ici sur la preuve.",
       "en": "One might object that rhetoric is winning out over evidence here.",
-      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la ʁe.tɔ.ʁik lɑ̃.pɔʁt i.si syʁ la pʁœv"
+      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la ʁe.tɔ.ʁik lɑ̃.pɔʁt i.si syʁ la pʁœv",
+      "gloss": {
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+        "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+      }
     },
     {
       "id": "remote-debate-phrase-4",
       "fr": "Il convient de concéder ce point afin que le débat avance sur l’essentiel.",
       "en": "It is worth conceding this point so that the debate can move on to what matters.",
-      "ipa": "il kɔ̃.vjɛ̃ də kɔ̃.se.de sə pwɛ̃ a.fɛ̃ kə lə de.ba a.vɑ̃s syʁ le.sɑ̃.sjɛl"
+      "ipa": "il kɔ̃.vjɛ̃ də kɔ̃.se.de sə pwɛ̃ a.fɛ̃ kə lə de.ba a.vɑ̃s syʁ le.sɑ̃.sjɛl",
+      "gloss": {
+        "en": "It is worth conceding this point so that the debate can move on to what matters.",
+        "es": "Vale la pena admitir este punto para que el debate pueda pasar a lo que importa.",
+        "ru": "Стоит признать этот момент, чтобы дискуссия могла перейти к тому, что имеет значение."
+      }
     },
     {
       "id": "remote-debate-phrase-5",
       "fr": "Je ne suis pas convaincu que cette généralisation soit fondée.",
       "en": "I am not convinced that this generalization is well-founded.",
-      "ipa": "ʒə nə sɥi pa kɔ̃.vɛ̃.ky kə sɛt ʒe.ne.ʁa.li.za.sjɔ̃ swa fɔ̃.de"
+      "ipa": "ʒə nə sɥi pa kɔ̃.vɛ̃.ky kə sɛt ʒe.ne.ʁa.li.za.sjɔ̃ swa fɔ̃.de",
+      "gloss": {
+        "en": "I am not convinced that this generalization is well-founded.",
+        "es": "No estoy convencido de que esta generalización esté bien fundada.",
+        "ru": "Я не уверен, что это обобщение обосновано."
+      }
     },
     {
       "id": "remote-debate-phrase-6",
       "fr": "En revanche, une nuance bien placée rend la thèse plus difficile à réfuter.",
       "en": "By contrast, a well-placed nuance makes the claim harder to refute.",
-      "ipa": "ɑ̃ ʁə.vɑ̃ʃ yn nɥɑ̃s bjɛ̃ pla.se ʁɑ̃ la tɛz ply di.fi.sil a ʁe.fy.te"
+      "ipa": "ɑ̃ ʁə.vɑ̃ʃ yn nɥɑ̃s bjɛ̃ pla.se ʁɑ̃ la tɛz ply di.fi.sil a ʁe.fy.te",
+      "gloss": {
+        "en": "By contrast, a well-placed nuance makes the claim harder to refute.",
+        "es": "Por el contrario, un matiz bien colocado hace que la afirmación sea más difícil de refutar.",
+        "ru": "Напротив, из-за хорошо продуманного нюанса это утверждение труднее опровергнуть."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "assertion",
         "synthèse",
         "plaidoyer"
-      ]
+      ],
+      "gloss": {
+        "en": "The claim is clear; however the examples remain too specific.",
+        "es": "El reclamo es claro; sin embargo, los ejemplos siguen siendo demasiado específicos.",
+        "ru": "Претензия ясна; однако примеры остаются слишком конкретными."
+      },
+      "wordGloss": {
+        "en": "claim",
+        "es": "afirmar",
+        "ru": "требовать"
+      }
     },
     {
       "id": "remote-debate-listen-2",
@@ -236,7 +380,17 @@
         "objection",
         "réfutation",
         "concession"
-      ]
+      ],
+      "gloss": {
+        "en": "The most serious counterargument concerns the lack of comparable data.",
+        "es": "El contraargumento más serio se refiere a la falta de datos comparables.",
+        "ru": "Самый серьезный контраргумент касается отсутствия сопоставимых данных."
+      },
+      "wordGloss": {
+        "en": "counterargument",
+        "es": "contraargumento",
+        "ru": "контраргумент"
+      }
     },
     {
       "id": "remote-debate-listen-3",
@@ -249,7 +403,17 @@
         "pertinence",
         "connecteur",
         "rhétorique"
-      ]
+      ],
+      "gloss": {
+        "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+        "es": "Un matiz bien colocado no debilita la afirmación; lo hace más creíble.",
+        "ru": "Удачно поставленный нюанс не ослабляет претензии; это делает его более достоверным."
+      },
+      "wordGloss": {
+        "en": "nuance",
+        "es": "matiz",
+        "ru": "нюанс"
+      }
     },
     {
       "id": "remote-debate-listen-4",
@@ -262,7 +426,17 @@
         "analogie",
         "présupposé",
         "illustration"
-      ]
+      ],
+      "gloss": {
+        "en": "This careless generalization rests on only three cases.",
+        "es": "Esta generalización descuidada se basa sólo en tres casos.",
+        "ru": "Это небрежное обобщение опирается всего на три случая."
+      },
+      "wordGloss": {
+        "en": "generalization",
+        "es": "generalización",
+        "ru": "обобщение"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-debate-grammar-1",
       "title": {
         "fr": "La concession : certes, bien que, toutefois",
-        "en": "Concession: certes, bien que, toutefois"
+        "en": "Concession: certes, bien que, toutefois",
+        "es": "Concesión: certes, bien que, toutefois",
+        "ru": "Уступка: certes, bien que, toutefois"
       },
-      "rule": "Pour intégrer l’objection sans abandonner sa thèse : Certes… toutefois… ; Bien que + subjonctif… ; néanmoins. Certes, l’objection est sérieuse ; toutefois elle ne ruine pas la thèse. Bien que l’analogie soit séduisante, les situations divergent. La concession rend l’argument plus honnête, donc plus solide.",
+      "rule": {
+        "fr": "Pour intégrer l’objection sans abandonner sa thèse : Certes… toutefois… ; Bien que + subjonctif… ; néanmoins. Certes, l’objection est sérieuse ; toutefois elle ne ruine pas la thèse. Bien que l’analogie soit séduisante, les situations divergent. La concession rend l’argument plus honnête, donc plus solide.",
+        "en": "To integrate the objection without abandoning your thesis: Certainly... however...; Although + subjunctive…; nevertheless. Certainly, the objection is serious; however it does not ruin the thesis. Although the analogy is attractive, the situations diverge. The concession makes the argument more honest, and therefore more solid.",
+        "es": "Para integrar la objeción sin abandonar tu tesis: Ciertamente... sin embargo...; Aunque + subjuntivo…; sin embargo. Ciertamente, la objeción es seria; sin embargo no arruina la tesis. Aunque la analogía es atractiva, las situaciones divergen. La concesión hace que el argumento sea más honesto y, por tanto, más sólido.",
+        "ru": "Интегрировать возражение, не отказываясь от своего тезиса: Конечно... однако...; Хотя + сослагательное наклонение…; тем не менее. Конечно, возражение серьезное; однако это не портит диссертацию. Хотя аналогия привлекательна, ситуации различаются. Уступка делает аргумент более честным и, следовательно, более убедительным."
+      },
       "table": [
         [
           "Outil",
@@ -337,15 +518,27 @@
             "Afin que"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Concession: certes, bien que, toutefois.",
+        "es": "Útil cuando necesitas solicitar: Concesión: certes, bien que, toutefois.",
+        "ru": "Полезно, когда вам нужно подать заявку: Концессия: certes, bien que, toutefois."
+      }
     },
     {
       "id": "remote-debate-grammar-2",
       "title": {
         "fr": "Le conditionnel pour atténuer",
-        "en": "The conditional for hedging"
+        "en": "The conditional for hedging",
+        "es": "El condicional para la cobertura.",
+        "ru": "Условия хеджирования"
       },
-      "rule": "Dans un débat, le conditionnel adoucit l’attaque : On pourrait objecter que… ; Je serais tenté de répondre que… Il évite le ton péremptoire de l’indicatif. On l’emploie aussi pour une conséquence hypothétique : Si l’on concédait ce point, le débat avancerait.",
+      "rule": {
+        "fr": "Dans un débat, le conditionnel adoucit l’attaque : On pourrait objecter que… ; Je serais tenté de répondre que… Il évite le ton péremptoire de l’indicatif. On l’emploie aussi pour une conséquence hypothétique : Si l’on concédait ce point, le débat avancerait.",
+        "en": "In a debate, the conditional softens the attack: One could object that…; I would be tempted to answer that… He avoids the peremptory tone of the indicative. It is also used for a hypothetical consequence: If we conceded this point, the debate would move forward.",
+        "es": "En un debate, el condicional suaviza el ataque: Se podría objetar que…; Me sentiría tentado a responder que... Evita el tono perentorio del indicativo. También se utiliza para una consecuencia hipotética: si admitiéramos este punto, el debate avanzaría.",
+        "ru": "В дебатах условное выражение смягчает атаку: можно возразить, что…; Я бы хотел ответить на этот вопрос... Он избегает властного тона изъявительного наклонения. Оно также используется для обозначения гипотетического последствия: если бы мы признали этот пункт, дебаты продвинулись бы вперед."
+      },
       "table": [
         [
           "Forme",
@@ -389,7 +582,12 @@
             "a avancé"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: The conditional for hedging.",
+        "es": "Útil cuando necesitas aplicar: El condicional para cobertura.",
+        "ru": "Полезно, когда вам нужно применить: Условное хеджирование."
+      }
     }
   ],
   "skills": {
@@ -398,19 +596,34 @@
         "id": "remote-debate-dict-1",
         "fr": "Certes, l’objection est sérieuse ; toutefois elle ne ruine pas entièrement la thèse.",
         "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
-        "ipa": "sɛʁt lɔb.ʒɛk.sjɔ̃ ɛ se.ʁjøz tu.tə.fwa ɛl nə ʁɥin pa ɑ̃.tjɛʁ.mɑ̃ la tɛz"
+        "ipa": "sɛʁt lɔb.ʒɛk.sjɔ̃ ɛ se.ʁjøz tu.tə.fwa ɛl nə ʁɥin pa ɑ̃.tjɛʁ.mɑ̃ la tɛz",
+        "gloss": {
+          "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+          "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+        }
       },
       {
         "id": "remote-debate-dict-2",
         "fr": "Bien que l’analogie soit séduisante, les deux situations ne sont pas comparables.",
         "en": "Although the analogy is appealing, the two situations are not comparable.",
-        "ipa": "bjɛ̃ kə la.na.lɔ.ʒi swa se.dɥi.zɑ̃t le dø si.tɥa.sjɔ̃ nə sɔ̃ pa kɔ̃.pa.ʁabl"
+        "ipa": "bjɛ̃ kə la.na.lɔ.ʒi swa se.dɥi.zɑ̃t le dø si.tɥa.sjɔ̃ nə sɔ̃ pa kɔ̃.pa.ʁabl",
+        "gloss": {
+          "en": "Although the analogy is appealing, the two situations are not comparable.",
+          "es": "Aunque la analogía resulta atractiva, las dos situaciones no son comparables.",
+          "ru": "Хотя аналогия привлекательна, эти две ситуации несопоставимы."
+        }
       },
       {
         "id": "remote-debate-dict-3",
         "fr": "On pourrait objecter que la rhétorique l’emporte ici sur la preuve.",
         "en": "One might object that rhetoric is winning out over evidence here.",
-        "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la ʁe.tɔ.ʁik lɑ̃.pɔʁt i.si syʁ la pʁœv"
+        "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la ʁe.tɔ.ʁik lɑ̃.pɔʁt i.si syʁ la pʁœv",
+        "gloss": {
+          "en": "One might object that rhetoric is winning out over evidence here.",
+          "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+          "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+        }
       }
     ],
     "meaning": [
@@ -418,63 +631,93 @@
         "id": "remote-debate-mean-1",
         "fr": "Certes, l’objection est sérieuse ; toutefois elle ne ruine pas entièrement la thèse.",
         "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
-        "choices": [
-          "Admittedly the objection is serious; however it does not entirely undermine the claim.",
-          "A good analogy is enough to prove that two situations are identical.",
-          "Rhetoric never hides a weakness in the reasoning."
-        ]
+        "gloss": {
+          "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+          "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+        }
       },
       {
         "id": "remote-debate-mean-2",
         "fr": "Bien que l’analogie soit séduisante, les deux situations ne sont pas comparables.",
         "en": "Although the analogy is appealing, the two situations are not comparable.",
-        "choices": [
-          "Although the analogy is appealing, the two situations are not comparable.",
-          "Conceding a point always means abandoning your thesis.",
-          "Generalizations are stronger when they rest on three striking cases."
-        ]
+        "gloss": {
+          "en": "Although the analogy is appealing, the two situations are not comparable.",
+          "es": "Aunque la analogía resulta atractiva, las dos situaciones no son comparables.",
+          "ru": "Хотя аналогия привлекательна, эти две ситуации несопоставимы."
+        }
       },
       {
         "id": "remote-debate-mean-3",
         "fr": "On pourrait objecter que la rhétorique l’emporte ici sur la preuve.",
         "en": "One might object that rhetoric is winning out over evidence here.",
-        "choices": [
-          "One might object that rhetoric is winning out over evidence here.",
-          "Connectives have no effect on how an argument unfolds.",
-          "A synthesis must erase remaining disagreements."
-        ]
+        "gloss": {
+          "en": "One might object that rhetoric is winning out over evidence here.",
+          "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+          "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-debate-fren-1",
         "fr": "thèse",
-        "en": "claim"
+        "en": "claim",
+        "gloss": {
+          "en": "claim",
+          "es": "afirmar",
+          "ru": "требовать"
+        }
       },
       {
         "id": "remote-debate-fren-2",
         "fr": "contre-argument",
-        "en": "counterargument"
+        "en": "counterargument",
+        "gloss": {
+          "en": "counterargument",
+          "es": "contraargumento",
+          "ru": "контраргумент"
+        }
       },
       {
         "id": "remote-debate-fren-3",
         "fr": "nuance",
-        "en": "nuance"
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        }
       },
       {
         "id": "remote-debate-fren-4",
         "fr": "concession",
-        "en": "concession"
+        "en": "concession",
+        "gloss": {
+          "en": "concession",
+          "es": "concesión",
+          "ru": "уступка"
+        }
       },
       {
         "id": "remote-debate-fren-5",
         "fr": "argument",
-        "en": "argument"
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        }
       },
       {
         "id": "remote-debate-fren-6",
         "fr": "assertion",
-        "en": "assertion"
+        "en": "assertion",
+        "gloss": {
+          "en": "assertion",
+          "es": "afirmación",
+          "ru": "утверждение"
+        }
       }
     ],
     "aloud": [
@@ -482,19 +725,34 @@
         "id": "remote-debate-aloud-1",
         "fr": "Certes, l’objection est sérieuse ; toutefois elle ne ruine pas entièrement la thèse.",
         "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
-        "ipa": "sɛʁt lɔb.ʒɛk.sjɔ̃ ɛ se.ʁjøz tu.tə.fwa ɛl nə ʁɥin pa ɑ̃.tjɛʁ.mɑ̃ la tɛz"
+        "ipa": "sɛʁt lɔb.ʒɛk.sjɔ̃ ɛ se.ʁjøz tu.tə.fwa ɛl nə ʁɥin pa ɑ̃.tjɛʁ.mɑ̃ la tɛz",
+        "gloss": {
+          "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+          "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+        }
       },
       {
         "id": "remote-debate-aloud-2",
         "fr": "On pourrait objecter que la rhétorique l’emporte ici sur la preuve.",
         "en": "One might object that rhetoric is winning out over evidence here.",
-        "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la ʁe.tɔ.ʁik lɑ̃.pɔʁt i.si syʁ la pʁœv"
+        "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la ʁe.tɔ.ʁik lɑ̃.pɔʁt i.si syʁ la pʁœv",
+        "gloss": {
+          "en": "One might object that rhetoric is winning out over evidence here.",
+          "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+          "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+        }
       },
       {
         "id": "remote-debate-aloud-3",
         "fr": "Je ne suis pas convaincu que cette généralisation soit fondée.",
         "en": "I am not convinced that this generalization is well-founded.",
-        "ipa": "ʒə nə sɥi pa kɔ̃.vɛ̃.ky kə sɛt ʒe.ne.ʁa.li.za.sjɔ̃ swa fɔ̃.de"
+        "ipa": "ʒə nə sɥi pa kɔ̃.vɛ̃.ky kə sɛt ʒe.ne.ʁa.li.za.sjɔ̃ swa fɔ̃.de",
+        "gloss": {
+          "en": "I am not convinced that this generalization is well-founded.",
+          "es": "No estoy convencido de que esta generalización esté bien fundada.",
+          "ru": "Я не уверен, что это обобщение обосновано."
+        }
       }
     ],
     "unscramble": [
@@ -516,7 +774,12 @@
           "rend",
           "plus",
           "crédible."
-        ]
+        ],
+        "gloss": {
+          "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+          "es": "Un matiz bien colocado no debilita la afirmación; lo hace más creíble.",
+          "ru": "Удачно поставленный нюанс не ослабляет претензии; это делает его более достоверным."
+        }
       },
       {
         "id": "remote-debate-unsc-2",
@@ -535,7 +798,12 @@
           "la",
           "rend",
           "fragile."
-        ]
+        ],
+        "gloss": {
+          "en": "This careless generalization rests on three cases, which makes it fragile.",
+          "es": "Esta generalización descuidada se basa en tres casos, lo que la hace frágil.",
+          "ru": "Это небрежное обобщение опирается на три случая, что делает его хрупким."
+        }
       }
     ]
   }

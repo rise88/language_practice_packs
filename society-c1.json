@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "society-c1",
-  "version": 1,
+  "version": 2,
   "level": "c1",
   "title": {
     "fr": "Enjeux sociaux C1",
-    "en": "Social issues C1"
+    "en": "Social issues C1",
+    "es": "Cuestiones sociales C1",
+    "ru": "Социальные вопросы C1"
   },
   "description": {
     "fr": "Inégalités, inclusion, polarisation, État-providence et stigmates.",
-    "en": "Inequality, inclusion, polarization, welfare, and stigma."
+    "en": "Inequality, inclusion, polarization, welfare, and stigma.",
+    "es": "Desigualdad, inclusión, polarización, bienestar y estigma.",
+    "ru": "Неравенство, инклюзивность, поляризация, благосостояние и стигма."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "inequality",
       "example": "L’inégalité, dont on mesure trop souvent le seul revenu, se rejoue dans l’accès au logement, à la santé et au langage.",
       "ipa": "i.ne.ɡa.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "inequality",
+        "es": "desigualdad",
+        "ru": "неравенство"
+      }
     },
     {
       "id": "remote-society-c1-2",
@@ -26,7 +35,12 @@
       "en": "inclusion",
       "example": "L’inclusion, loin d’être un slogan managérial, exige que l’on transforme les dispositifs qui produisent l’exclusion.",
       "ipa": "ɛ̃.kly.zjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "inclusion",
+        "es": "inclusión",
+        "ru": "включение"
+      }
     },
     {
       "id": "remote-society-c1-3",
@@ -34,7 +48,12 @@
       "en": "polarization",
       "example": "La polarisation, encore qu’elle soit amplifiée par les plateformes, s’enracine dans des fractures que le débat public n’élucide plus.",
       "ipa": "pɔ.la.ʁi.za.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
+      }
     },
     {
       "id": "remote-society-c1-4",
@@ -42,7 +61,12 @@
       "en": "welfare state",
       "example": "L’État-providence, quitte à être accusé de clientélisme, demeure le principal levier de redistribution des risques sociaux.",
       "ipa": "e.ta pʁɔ.vi.dɑ̃s",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "welfare state",
+        "es": "estado de bienestar",
+        "ru": "государство всеобщего благосостояния"
+      }
     },
     {
       "id": "remote-society-c1-5",
@@ -50,7 +74,12 @@
       "en": "stigma",
       "example": "Le stigmate, à moins d’être nommé comme tel, continue d’assigner des trajectoires que nulle méritocratie ne corrige.",
       "ipa": "stiɡ.mat",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "stigma",
+        "es": "estigma",
+        "ru": "клеймо"
+      }
     },
     {
       "id": "remote-society-c1-6",
@@ -58,7 +87,12 @@
       "en": "precariousness",
       "example": "La précarité, dont le corollaire est l’impossibilité de se projeter, mine la citoyenneté autant que le revenu.",
       "ipa": "pʁe.ka.ʁi.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "precariousness",
+        "es": "precariedad",
+        "ru": "ненадежность"
+      }
     },
     {
       "id": "remote-society-c1-7",
@@ -66,7 +100,12 @@
       "en": "discrimination",
       "example": "La discrimination, loin d’être toujours intentionnelle, opère par des critères en apparence neutres dont l’effet est sélectif.",
       "ipa": "dis.kʁi.mi.na.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "discrimination",
+        "es": "discriminación",
+        "ru": "дискриминация"
+      }
     },
     {
       "id": "remote-society-c1-8",
@@ -74,7 +113,12 @@
       "en": "cohesion",
       "example": "La cohésion sociale, encore qu’on l’invoque contre la polarisation, ne saurait servir à taire les inégalités structurelles.",
       "ipa": "kɔ.e.zjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "cohesion",
+        "es": "cohesión",
+        "ru": "сплоченность"
+      }
     },
     {
       "id": "remote-society-c1-9",
@@ -82,7 +126,12 @@
       "en": "marginalization",
       "example": "La marginalisation, quitte à se draper d’inclusion rhétorique, se lit dans l’accès inégal aux services et à la parole publique.",
       "ipa": "maʁ.ʒi.na.li.za.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "marginalization",
+        "es": "marginalización",
+        "ru": "маргинализация"
+      }
     },
     {
       "id": "remote-society-c1-10",
@@ -90,7 +139,12 @@
       "en": "meritocracy",
       "example": "La méritocratie, à moins d’interroger les points de départ, convertit l’inégalité héritée en vertu individuelle.",
       "ipa": "me.ʁi.tɔ.kʁa.si",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "meritocracy",
+        "es": "meritocracia",
+        "ru": "меритократия"
+      }
     },
     {
       "id": "remote-society-c1-11",
@@ -98,7 +152,12 @@
       "en": "segregation",
       "example": "La ségrégation urbaine, dont la mixité affichée dissimule les seuils, produit des écoles et des réseaux étanches.",
       "ipa": "se.ɡʁe.ɡa.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "segregation",
+        "es": "segregación",
+        "ru": "сегрегация"
+      }
     },
     {
       "id": "remote-society-c1-12",
@@ -106,7 +165,12 @@
       "en": "solidarity",
       "example": "La solidarité, loin d’être un sentiment, désigne un dispositif de mutualisation que l’État-providence institutionnalise.",
       "ipa": "sɔ.li.da.ʁi.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "solidarity",
+        "es": "solidaridad",
+        "ru": "солидарность"
+      }
     },
     {
       "id": "remote-society-c1-13",
@@ -114,7 +178,12 @@
       "en": "divide",
       "example": "La fracture numérique, encore qu’elle soit présentée comme technique, redouble une inégalité scolaire et territoriale.",
       "ipa": "fʁak.tyʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "divide",
+        "es": "dividir",
+        "ru": "разделять"
+      }
     },
     {
       "id": "remote-society-c1-14",
@@ -122,7 +191,12 @@
       "en": "empowerment",
       "example": "L’autonomisation, quitte à responsabiliser les plus précaires, ne dispense pas d’une redistribution des ressources.",
       "ipa": "o.tɔ.nɔ.mi.za.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "empowerment",
+        "es": "empoderamiento",
+        "ru": "расширение прав и возможностей"
+      }
     },
     {
       "id": "remote-society-c1-15",
@@ -130,7 +204,12 @@
       "en": "intersectionality",
       "example": "L’intersectionnalité, à moins d’être réduite à une addition de stigmates, décrit des mécanismes croisés de discrimination.",
       "ipa": "ɛ̃.tɛʁ.sɛk.sjɔ.na.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "intersectionality",
+        "es": "interseccionalidad",
+        "ru": "интерсекциональность"
+      }
     },
     {
       "id": "remote-society-c1-16",
@@ -138,7 +217,12 @@
       "en": "redistribution",
       "example": "La redistribution, dont l’efficacité dépend du cadrage fiscal, reste le corollaire contesté de toute politique d’égalité.",
       "ipa": "ʁə.dis.tʁi.by.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "redistribution",
+        "es": "redistribución",
+        "ru": "перераспределение"
+      }
     },
     {
       "id": "remote-society-c1-17",
@@ -146,7 +230,12 @@
       "en": "citizenship",
       "example": "La citoyenneté, loin de se limiter au droit de vote, suppose des conditions matérielles que la précarité érode.",
       "ipa": "si.twa.jɛ.nə.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "citizenship",
+        "es": "ciudadanía",
+        "ru": "гражданство"
+      }
     },
     {
       "id": "remote-society-c1-18",
@@ -154,7 +243,12 @@
       "en": "ascription / labeling",
       "example": "L’assignation identitaire, encore qu’elle puisse fonder une lutte, risque de figer des trajectoires que l’inclusion devrait ouvrir.",
       "ipa": "a.si.ɲa.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "ascription / labeling",
+        "es": "adscripción / etiquetado",
+        "ru": "приписывание/маркировка"
+      }
     },
     {
       "id": "remote-society-c1-19",
@@ -162,7 +256,12 @@
       "en": "ghettoization",
       "example": "La ghettoïsation, quitte à être niée par les indicateurs agrégés, se lit dans la ségrégation scolaire et résidentielle.",
       "ipa": "ɡɛ.tɔ.i.za.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "ghettoization",
+        "es": "guetización",
+        "ru": "геттоизация"
+      }
     },
     {
       "id": "remote-society-c1-20",
@@ -170,7 +269,12 @@
       "en": "social mix",
       "example": "La mixité, à moins d’être accompagnée de moyens, peut n’être qu’un slogan qui laisse intacts les stigmates du quotidien.",
       "ipa": "mik.si.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "social mix",
+        "es": "mezcla social",
+        "ru": "социальный микс"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-society-phrase-1",
       "fr": "Encore que la mixité soit affichée, la ségrégation scolaire demeure massive.",
       "en": "Even though social mix is advertised, school segregation remains massive.",
-      "ipa": "ɑ̃.kɔʁ kə la mik.si.te swa a.fi.ʃe la se.ɡʁe.ɡa.sjɔ̃ skɔ.lɛʁ də.mœʁ ma.siv"
+      "ipa": "ɑ̃.kɔʁ kə la mik.si.te swa a.fi.ʃe la se.ɡʁe.ɡa.sjɔ̃ skɔ.lɛʁ də.mœʁ ma.siv",
+      "gloss": {
+        "en": "Even though social mix is advertised, school segregation remains massive.",
+        "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+        "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+      }
     },
     {
       "id": "remote-society-phrase-2",
       "fr": "Loin d’être un slogan, l’inclusion exige que l’on transforme les dispositifs d’exclusion.",
       "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
-      "ipa": "lwɛ̃ dɛtʁ œ̃ slɔ.ɡan lɛ̃.kly.zjɔ̃ ɛɡ.ziʒ kɔ̃ tʁɑ̃s.fɔʁm le dis.pɔ.zi.tif dɛk.sky.zjɔ̃"
+      "ipa": "lwɛ̃ dɛtʁ œ̃ slɔ.ɡan lɛ̃.kly.zjɔ̃ ɛɡ.ziʒ kɔ̃ tʁɑ̃s.fɔʁm le dis.pɔ.zi.tif dɛk.sky.zjɔ̃",
+      "gloss": {
+        "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+        "es": "Lejos de ser un eslogan, la inclusión requiere transformar los mecanismos de exclusión.",
+        "ru": "Инклюзия – это не лозунг, а требует трансформации механизмов исключения."
+      }
     },
     {
       "id": "remote-society-phrase-3",
       "fr": "À moins que le stigmate ne soit nommé, nulle méritocratie ne corrigera les trajectoires.",
       "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
-      "ipa": "a mwɛ̃ kə lə stiɡ.mat nə swa nɔ.me nyl me.ʁi.tɔ.kʁa.si nə kɔ.ʁi.ʒə.ʁa le tʁa.ʒɛk.twaʁ"
+      "ipa": "a mwɛ̃ kə lə stiɡ.mat nə swa nɔ.me nyl me.ʁi.tɔ.kʁa.si nə kɔ.ʁi.ʒə.ʁa le tʁa.ʒɛk.twaʁ",
+      "gloss": {
+        "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+        "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+        "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
+      }
     },
     {
       "id": "remote-society-phrase-4",
       "fr": "Quitte à polariser le débat, il faut dire que la précarité érode la citoyenneté.",
       "en": "Even at the cost of polarizing the debate, one must say that precariousness erodes citizenship.",
-      "ipa": "kit a pɔ.la.ʁi.ze lə de.ba il fo diʁ kə la pʁe.ka.ʁi.te e.ʁɔd la si.twa.jɛ.nə.te"
+      "ipa": "kit a pɔ.la.ʁi.ze lə de.ba il fo diʁ kə la pʁe.ka.ʁi.te e.ʁɔd la si.twa.jɛ.nə.te",
+      "gloss": {
+        "en": "Even at the cost of polarizing the debate, one must say that precariousness erodes citizenship.",
+        "es": "Incluso a costa de polarizar el debate, hay que decir que la precariedad erosiona la ciudadanía.",
+        "ru": "Даже ценой поляризации дебатов следует сказать, что нестабильность разрушает гражданство."
+      }
     },
     {
       "id": "remote-society-phrase-5",
       "fr": "C’est la redistribution, et non l’injonction à l’autonomisation, qui réduit l’inégalité.",
       "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
-      "ipa": "sɛ la ʁə.dis.tʁi.by.sjɔ̃ e nɔ̃ lɛ̃.ʒɔ̃k.sjɔ̃ a lo.tɔ.nɔ.mi.za.sjɔ̃ ki ʁe.dɥi li.ne.ɡa.li.te"
+      "ipa": "sɛ la ʁə.dis.tʁi.by.sjɔ̃ e nɔ̃ lɛ̃.ʒɔ̃k.sjɔ̃ a lo.tɔ.nɔ.mi.za.sjɔ̃ ki ʁe.dɥi li.ne.ɡa.li.te",
+      "gloss": {
+        "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
+        "es": "Es la redistribución, no el mandato de empoderarse, lo que reduce la desigualdad.",
+        "ru": "Именно перераспределение, а не предписание расширять свои возможности, уменьшает неравенство."
+      }
     },
     {
       "id": "remote-society-phrase-6",
       "fr": "La polarisation, dont on fait un mal des plateformes, s’enracine dans des fractures plus anciennes.",
       "en": "Polarization, blamed on platforms, is rooted in older divides.",
-      "ipa": "la pɔ.la.ʁi.za.sjɔ̃ dɔ̃ nɔ̃ fɛ œ̃ mal de plat.fɔʁm sɑ̃.ʁa.sin dɑ̃ de fʁak.tyʁ ply zɑ̃.sjɛn"
+      "ipa": "la pɔ.la.ʁi.za.sjɔ̃ dɔ̃ nɔ̃ fɛ œ̃ mal de plat.fɔʁm sɑ̃.ʁa.sin dɑ̃ de fʁak.tyʁ ply zɑ̃.sjɛn",
+      "gloss": {
+        "en": "Polarization, blamed on platforms, is rooted in older divides.",
+        "es": "La polarización, atribuida a las plataformas, tiene sus raíces en divisiones más antiguas.",
+        "ru": "Поляризация, в которой обвиняют платформы, коренится в старых разногласиях."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "mixité",
         "cohésion",
         "fracture"
-      ]
+      ],
+      "gloss": {
+        "en": "The welfare state remains the main lever for redistributing social risks.",
+        "es": "El Estado de bienestar sigue siendo la principal palanca para redistribuir los riesgos sociales.",
+        "ru": "Государство всеобщего благосостояния остается основным рычагом перераспределения социальных рисков."
+      },
+      "wordGloss": {
+        "en": "welfare state",
+        "es": "estado de bienestar",
+        "ru": "государство всеобщего благосостояния"
+      }
     },
     {
       "id": "remote-society-listen-2",
@@ -236,7 +380,17 @@
         "solidarité",
         "citoyenneté",
         "inclusion"
-      ]
+      ],
+      "gloss": {
+        "en": "Stigma continues to assign trajectories that no meritocracy corrects.",
+        "es": "El estigma sigue asignando trayectorias que ninguna meritocracia corrige.",
+        "ru": "Стигма продолжает определять траектории, которые не исправляет никакая меритократия."
+      },
+      "wordGloss": {
+        "en": "stigma",
+        "es": "estigma",
+        "ru": "клеймо"
+      }
     },
     {
       "id": "remote-society-listen-3",
@@ -249,7 +403,17 @@
         "ghettoïsation",
         "assignation",
         "marginalisation"
-      ]
+      ],
+      "gloss": {
+        "en": "Polarization is rooted in divides that public debate no longer clarifies.",
+        "es": "La polarización tiene sus raíces en divisiones que el debate público ya no aclara.",
+        "ru": "Поляризация коренится в разногласиях, которые общественные дебаты больше не проясняют."
+      },
+      "wordGloss": {
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
+      }
     },
     {
       "id": "remote-society-listen-4",
@@ -262,7 +426,17 @@
         "inégalité",
         "précarité",
         "ségrégation"
-      ]
+      ],
+      "gloss": {
+        "en": "Discrimination operates through apparently neutral criteria whose effect is selective.",
+        "es": "La discriminación opera mediante criterios aparentemente neutrales cuyo efecto es selectivo.",
+        "ru": "Дискриминация осуществляется посредством явно нейтральных критериев, действие которых носит избирательный характер."
+      },
+      "wordGloss": {
+        "en": "discrimination",
+        "es": "discriminación",
+        "ru": "дискриминация"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-society-grammar-1",
       "title": {
         "fr": "Mise en relief : c’est… qui / que",
-        "en": "Cleft sentences: c’est… qui / que"
+        "en": "Cleft sentences: c’est… qui / que",
+        "es": "Oraciones hendidas: c’est… qui / que",
+        "ru": "Расщелины предложений: c'est… qui / que"
       },
-      "rule": "La mise en relief isole le terme argumentatif : C’est la redistribution qui réduit l’inégalité (sujet). C’est l’inégalité que l’on sous-estime (objet). Qui reprend un sujet ; que reprend un objet. Au passé, l’accord du participe suit le que.",
+      "rule": {
+        "fr": "La mise en relief isole le terme argumentatif : C’est la redistribution qui réduit l’inégalité (sujet). C’est l’inégalité que l’on sous-estime (objet). Qui reprend un sujet ; que reprend un objet. Au passé, l’accord du participe suit le que.",
+        "en": "The emphasis isolates the argumentative term: It is redistribution which reduces inequality (subject). It is the inequality that we underestimate (object). Which takes up a subject; that an object takes. In the past, the participle agreement follows the que.",
+        "es": "El énfasis aísla el término argumentativo: Es la redistribución la que reduce la desigualdad (sujeto). Es la desigualdad lo que subestimamos (objeto). Que retoma un tema; que toma un objeto. En el pasado, el acuerdo de participio sigue a la que.",
+        "ru": "Акцент изолирует аргументативный термин: именно перераспределение уменьшает неравенство (субъект). Это неравенство, которое мы недооцениваем (объект). Это поднимает тему; что объект принимает. В прошедшем времени причастное соглашение следует за que."
+      },
       "table": [
         [
           "Structure",
@@ -337,15 +518,27 @@
             "dont"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Cleft sentences: c’est… qui / que.",
+        "es": "Útil cuando necesitas aplicar: Oraciones hendidas: c’est… qui / que.",
+        "ru": "Полезно, когда нужно применить: Расщепленные предложения: c’est… qui/que."
+      }
     },
     {
       "id": "remote-society-grammar-2",
       "title": {
         "fr": "Relatives avancées : dont / auquel / ce dont",
-        "en": "Advanced relatives: dont / auquel / ce dont"
+        "en": "Advanced relatives: dont / auquel / ce dont",
+        "es": "Parientes avanzados: dont / auquel / ce dont",
+        "ru": "Продвинутые родственники: dont/auquel/ce dont"
       },
-      "rule": "Dont reprend de + nom (l’inégalité dont on parle). Auquel / à laquelle reprend à + nom. Ce dont nominalise (ce dont la citoyenneté a besoin). Ce à quoi reprend à + chose indéterminée.",
+      "rule": {
+        "fr": "Dont reprend de + nom (l’inégalité dont on parle). Auquel / à laquelle reprend à + nom. Ce dont nominalise (ce dont la citoyenneté a besoin). Ce à quoi reprend à + chose indéterminée.",
+        "en": "Which takes from + noun (the inequality we are talking about). To which / to which resumes + noun. What nominalizes (what citizenship needs). What resumes from + indeterminate thing.",
+        "es": "Que toma de + sustantivo (la desigualdad de la que estamos hablando). A cual / a cual se reanuda + sustantivo. Lo que nominaliza (lo que necesita la ciudadanía). Lo que se reanuda a partir de + cosa indeterminada.",
+        "ru": "Что происходит от + существительное (неравенство, о котором мы говорим). К которому/к которому возобновляется + существительное. Что номинализирует (что нужно гражданству). Что возобновляется + неопределенная вещь."
+      },
       "table": [
         [
           "Relatif",
@@ -394,7 +587,12 @@
             "dont ce"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Advanced relatives: dont / auquel / ce dont.",
+        "es": "Útil cuando es necesario aplicar: Familiares avanzados: dont/auquel/ce dont.",
+        "ru": "Полезно, когда нужно подать заявку: Продвинутые родственники: dont/auquel/ce dont."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-society-dict-1",
         "fr": "Encore que la mixité soit affichée, la ségrégation scolaire demeure massive.",
         "en": "Even though social mix is advertised, school segregation remains massive.",
-        "ipa": "ɑ̃.kɔʁ kə la mik.si.te swa a.fi.ʃe la se.ɡʁe.ɡa.sjɔ̃ skɔ.lɛʁ də.mœʁ ma.siv"
+        "ipa": "ɑ̃.kɔʁ kə la mik.si.te swa a.fi.ʃe la se.ɡʁe.ɡa.sjɔ̃ skɔ.lɛʁ də.mœʁ ma.siv",
+        "gloss": {
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+        }
       },
       {
         "id": "remote-society-dict-2",
         "fr": "Loin d’être un slogan, l’inclusion exige que l’on transforme les dispositifs d’exclusion.",
         "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
-        "ipa": "lwɛ̃ dɛtʁ œ̃ slɔ.ɡan lɛ̃.kly.zjɔ̃ ɛɡ.ziʒ kɔ̃ tʁɑ̃s.fɔʁm le dis.pɔ.zi.tif dɛk.sky.zjɔ̃"
+        "ipa": "lwɛ̃ dɛtʁ œ̃ slɔ.ɡan lɛ̃.kly.zjɔ̃ ɛɡ.ziʒ kɔ̃ tʁɑ̃s.fɔʁm le dis.pɔ.zi.tif dɛk.sky.zjɔ̃",
+        "gloss": {
+          "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+          "es": "Lejos de ser un eslogan, la inclusión requiere transformar los mecanismos de exclusión.",
+          "ru": "Инклюзия – это не лозунг, а требует трансформации механизмов исключения."
+        }
       },
       {
         "id": "remote-society-dict-3",
         "fr": "À moins que le stigmate ne soit nommé, nulle méritocratie ne corrigera les trajectoires.",
         "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
-        "ipa": "a mwɛ̃ kə lə stiɡ.mat nə swa nɔ.me nyl me.ʁi.tɔ.kʁa.si nə kɔ.ʁi.ʒə.ʁa le tʁa.ʒɛk.twaʁ"
+        "ipa": "a mwɛ̃ kə lə stiɡ.mat nə swa nɔ.me nyl me.ʁi.tɔ.kʁa.si nə kɔ.ʁi.ʒə.ʁa le tʁa.ʒɛk.twaʁ",
+        "gloss": {
+          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+          "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+          "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-society-mean-1",
         "fr": "Encore que la mixité soit affichée, la ségrégation scolaire demeure massive.",
         "en": "Even though social mix is advertised, school segregation remains massive.",
-        "choices": [
-          "Even though social mix is advertised, school segregation remains massive.",
-          "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
-          "Unless stigma is named as such, no meritocracy will correct these trajectories."
-        ]
+        "gloss": {
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+        }
       },
       {
         "id": "remote-society-mean-2",
         "fr": "Loin d’être un slogan, l’inclusion exige que l’on transforme les dispositifs d’exclusion.",
         "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
-        "choices": [
-          "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
-          "Even though social mix is advertised, school segregation remains massive.",
-          "Unless stigma is named as such, no meritocracy will correct these trajectories."
-        ]
+        "gloss": {
+          "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+          "es": "Lejos de ser un eslogan, la inclusión requiere transformar los mecanismos de exclusión.",
+          "ru": "Инклюзия – это не лозунг, а требует трансформации механизмов исключения."
+        }
       },
       {
         "id": "remote-society-mean-3",
         "fr": "À moins que le stigmate ne soit nommé, nulle méritocratie ne corrigera les trajectoires.",
         "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
-        "choices": [
-          "Unless stigma is named as such, no meritocracy will correct these trajectories.",
-          "Even though social mix is advertised, school segregation remains massive.",
-          "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion."
-        ]
+        "gloss": {
+          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+          "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+          "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-society-fren-1",
         "fr": "inégalité",
-        "en": "inequality"
+        "en": "inequality",
+        "gloss": {
+          "en": "inequality",
+          "es": "desigualdad",
+          "ru": "неравенство"
+        }
       },
       {
         "id": "remote-society-fren-2",
         "fr": "inclusion",
-        "en": "inclusion"
+        "en": "inclusion",
+        "gloss": {
+          "en": "inclusion",
+          "es": "inclusión",
+          "ru": "включение"
+        }
       },
       {
         "id": "remote-society-fren-3",
         "fr": "polarisation",
-        "en": "polarization"
+        "en": "polarization",
+        "gloss": {
+          "en": "polarization",
+          "es": "polarización",
+          "ru": "поляризация"
+        }
       },
       {
         "id": "remote-society-fren-4",
         "fr": "État-providence",
-        "en": "welfare state"
+        "en": "welfare state",
+        "gloss": {
+          "en": "welfare state",
+          "es": "estado de bienestar",
+          "ru": "государство всеобщего благосостояния"
+        }
       },
       {
         "id": "remote-society-fren-5",
         "fr": "stigmate",
-        "en": "stigma"
+        "en": "stigma",
+        "gloss": {
+          "en": "stigma",
+          "es": "estigma",
+          "ru": "клеймо"
+        }
       },
       {
         "id": "remote-society-fren-6",
         "fr": "précarité",
-        "en": "precariousness"
+        "en": "precariousness",
+        "gloss": {
+          "en": "precariousness",
+          "es": "precariedad",
+          "ru": "ненадежность"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-society-aloud-1",
         "fr": "Encore que la mixité soit affichée, la ségrégation scolaire demeure massive.",
         "en": "Even though social mix is advertised, school segregation remains massive.",
-        "ipa": "ɑ̃.kɔʁ kə la mik.si.te swa a.fi.ʃe la se.ɡʁe.ɡa.sjɔ̃ skɔ.lɛʁ də.mœʁ ma.siv"
+        "ipa": "ɑ̃.kɔʁ kə la mik.si.te swa a.fi.ʃe la se.ɡʁe.ɡa.sjɔ̃ skɔ.lɛʁ də.mœʁ ma.siv",
+        "gloss": {
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+        }
       },
       {
         "id": "remote-society-aloud-2",
         "fr": "À moins que le stigmate ne soit nommé, nulle méritocratie ne corrigera les trajectoires.",
         "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
-        "ipa": "a mwɛ̃ kə lə stiɡ.mat nə swa nɔ.me nyl me.ʁi.tɔ.kʁa.si nə kɔ.ʁi.ʒə.ʁa le tʁa.ʒɛk.twaʁ"
+        "ipa": "a mwɛ̃ kə lə stiɡ.mat nə swa nɔ.me nyl me.ʁi.tɔ.kʁa.si nə kɔ.ʁi.ʒə.ʁa le tʁa.ʒɛk.twaʁ",
+        "gloss": {
+          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+          "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+          "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
+        }
       },
       {
         "id": "remote-society-aloud-3",
         "fr": "C’est la redistribution, et non l’injonction à l’autonomisation, qui réduit l’inégalité.",
         "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
-        "ipa": "sɛ la ʁə.dis.tʁi.by.sjɔ̃ e nɔ̃ lɛ̃.ʒɔ̃k.sjɔ̃ a lo.tɔ.nɔ.mi.za.sjɔ̃ ki ʁe.dɥi li.ne.ɡa.li.te"
+        "ipa": "sɛ la ʁə.dis.tʁi.by.sjɔ̃ e nɔ̃ lɛ̃.ʒɔ̃k.sjɔ̃ a lo.tɔ.nɔ.mi.za.sjɔ̃ ki ʁe.dɥi li.ne.ɡa.li.te",
+        "gloss": {
+          "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
+          "es": "Es la redistribución, no el mandato de empoderarse, lo que reduce la desigualdad.",
+          "ru": "Именно перераспределение, а не предписание расширять свои возможности, уменьшает неравенство."
+        }
       }
     ],
     "unscramble": [
@@ -519,7 +777,12 @@
           "scolaire",
           "demeure",
           "massive."
-        ]
+        ],
+        "gloss": {
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+        }
       },
       {
         "id": "remote-society-unsc-2",
@@ -536,7 +799,12 @@
           "l’injonction",
           "à",
           "l’autonomisation."
-        ]
+        ],
+        "gloss": {
+          "en": "It is redistribution that reduces inequality, not the injunction to empower oneself.",
+          "es": "Es la redistribución lo que reduce la desigualdad, no el mandato de empoderarse.",
+          "ru": "Именно перераспределение уменьшает неравенство, а не предписание расширять свои возможности."
+        }
       }
     ]
   }

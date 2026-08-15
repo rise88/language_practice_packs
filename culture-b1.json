@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "culture-b1",
-  "version": 1,
+  "version": 2,
   "level": "b1",
   "title": {
     "fr": "Culture B1",
-    "en": "Culture B1"
+    "en": "Culture B1",
+    "es": "Cultura B1",
+    "ru": "Культура Б1"
   },
   "description": {
     "fr": "Spectacles, musées et sorties pour parler de la vie culturelle.",
-    "en": "Shows, museums, and nights out for talking about cultural life."
+    "en": "Shows, museums, and nights out for talking about cultural life.",
+    "es": "Espectáculos, museos y salidas nocturnas para hablar de la vida cultural.",
+    "ru": "Шоу, музеи и вечера для разговоров о культурной жизни."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "show / performance",
       "example": "Le spectacle a commencé avec vingt minutes de retard.",
       "ipa": "spɛk.takl",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "show / performance",
+        "es": "espectáculo / actuación",
+        "ru": "шоу/выступление"
+      }
     },
     {
       "id": "remote-culture-b1-2",
@@ -26,7 +35,12 @@
       "en": "exhibition",
       "example": "L’exposition attire beaucoup de visiteurs.",
       "ipa": "ɛk.spo.zi.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "exhibition",
+        "es": "exhibición",
+        "ru": "выставка"
+      }
     },
     {
       "id": "remote-culture-b1-3",
@@ -34,7 +48,12 @@
       "en": "concert",
       "example": "Le concert en plein air était gratuit.",
       "ipa": "kɔ̃.sɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "concert",
+        "es": "concierto",
+        "ru": "концерт"
+      }
     },
     {
       "id": "remote-culture-b1-4",
@@ -42,7 +61,12 @@
       "en": "play (theatre)",
       "example": "La pièce dure deux heures sans entracte.",
       "ipa": "pjɛs",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "play (theatre)",
+        "es": "obra de teatro (teatro)",
+        "ru": "играть (театр)"
+      }
     },
     {
       "id": "remote-culture-b1-5",
@@ -50,7 +74,12 @@
       "en": "actor",
       "example": "L’acteur principal était impressionnant.",
       "ipa": "ak.tœʁ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "actor",
+        "es": "actor",
+        "ru": "актер"
+      }
     },
     {
       "id": "remote-culture-b1-6",
@@ -58,7 +87,12 @@
       "en": "director (film)",
       "example": "Le réalisateur a répondu aux questions.",
       "ipa": "ʁe.a.li.za.tœʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "director (film)",
+        "es": "director (película)",
+        "ru": "режиссер (фильм)"
+      }
     },
     {
       "id": "remote-culture-b1-7",
@@ -66,7 +100,12 @@
       "en": "review / critic",
       "example": "La critique a été plutôt positive.",
       "ipa": "kʁi.tik",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "review / critic",
+        "es": "reseña/crítica",
+        "ru": "обзор / критик"
+      }
     },
     {
       "id": "remote-culture-b1-8",
@@ -74,7 +113,12 @@
       "en": "ticket",
       "example": "Les billets sont déjà épuisés.",
       "ipa": "bi.jɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "ticket",
+        "es": "boleto",
+        "ru": "билет"
+      }
     },
     {
       "id": "remote-culture-b1-9",
@@ -82,7 +126,12 @@
       "en": "festival",
       "example": "Le festival a lieu tous les ans en juillet.",
       "ipa": "fɛs.ti.val",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "festival",
+        "es": "festival",
+        "ru": "фестиваль"
+      }
     },
     {
       "id": "remote-culture-b1-10",
@@ -90,7 +139,12 @@
       "en": "museum",
       "example": "Le musée ferme plus tôt le lundi.",
       "ipa": "my.ze",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "museum",
+        "es": "museo",
+        "ru": "музей"
+      }
     },
     {
       "id": "remote-culture-b1-11",
@@ -98,7 +152,12 @@
       "en": "gallery",
       "example": "Cette galerie montre des artistes locaux.",
       "ipa": "ɡa.lə.ʁi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "gallery",
+        "es": "galería",
+        "ru": "галерея"
+      }
     },
     {
       "id": "remote-culture-b1-12",
@@ -106,7 +165,12 @@
       "en": "admission / entrance",
       "example": "L’entrée est gratuite le premier dimanche.",
       "ipa": "ɑ̃.tʁe",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "admission / entrance",
+        "es": "admisión / entrada",
+        "ru": "вход / вход"
+      }
     },
     {
       "id": "remote-culture-b1-13",
@@ -114,7 +178,12 @@
       "en": "audience / public",
       "example": "Le public a beaucoup applaudi.",
       "ipa": "py.blik",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "audience / public",
+        "es": "audiencia / público",
+        "ru": "аудитория / общественность"
+      }
     },
     {
       "id": "remote-culture-b1-14",
@@ -122,7 +191,12 @@
       "en": "stage / scene",
       "example": "Les musiciens reviennent sur scène.",
       "ipa": "sɛn",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "stage / scene",
+        "es": "escenario/escena",
+        "ru": "сцена / сцена"
+      }
     },
     {
       "id": "remote-culture-b1-15",
@@ -130,7 +204,12 @@
       "en": "subtitle",
       "example": "Je préfère la version avec sous-titres.",
       "ipa": "su.titʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "subtitle",
+        "es": "subtitular",
+        "ru": "субтитры"
+      }
     },
     {
       "id": "remote-culture-b1-16",
@@ -138,7 +217,12 @@
       "en": "trailer",
       "example": "La bande-annonce donne envie d’y aller.",
       "ipa": "bɑ̃d.a.nɔ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "trailer",
+        "es": "tráiler",
+        "ru": "трейлер"
+      }
     },
     {
       "id": "remote-culture-b1-17",
@@ -146,7 +230,12 @@
       "en": "masterpiece",
       "example": "On considère ce film comme un chef-d’œuvre.",
       "ipa": "ʃɛ.dœvʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "masterpiece",
+        "es": "obra maestra",
+        "ru": "шедевр"
+      }
     },
     {
       "id": "remote-culture-b1-18",
@@ -154,7 +243,12 @@
       "en": "heritage",
       "example": "Cet héritage culturel attire les touristes.",
       "ipa": "e.ʁi.taʒ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "heritage",
+        "es": "herencia",
+        "ru": "наследство"
+      }
     },
     {
       "id": "remote-culture-b1-19",
@@ -162,7 +256,12 @@
       "en": "opening (art)",
       "example": "Le vernissage est réservé aux invités.",
       "ipa": "vɛʁ.ni.saʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "opening (art)",
+        "es": "apertura (arte)",
+        "ru": "открытие (искусство)"
+      }
     },
     {
       "id": "remote-culture-b1-20",
@@ -170,7 +269,12 @@
       "en": "reduced rate",
       "example": "Les tarifs réduits concernent les étudiants.",
       "ipa": "ta.ʁif ʁe.dɥi",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "reduced rate",
+        "es": "tarifa reducida",
+        "ru": "пониженная ставка"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-culture-phrase-1",
       "fr": "Tu as déjà vu ce film ? Il vaut vraiment le coup.",
       "en": "Have you seen this film? It’s really worth it.",
-      "ipa": "ty a de.ʒa vy sə film il vo vʁɛ.mɑ̃ lə ku"
+      "ipa": "ty a de.ʒa vy sə film il vo vʁɛ.mɑ̃ lə ku",
+      "gloss": {
+        "en": "Have you seen this film? It’s really worth it.",
+        "es": "¿Has visto esta película? Realmente vale la pena.",
+        "ru": "Вы видели этот фильм? Это действительно того стоит."
+      }
     },
     {
       "id": "remote-culture-phrase-2",
       "fr": "Les billets sont déjà épuisés pour samedi.",
       "en": "Tickets for Saturday are already sold out.",
-      "ipa": "le bi.jɛ sɔ̃ de.ʒa e.pɥi.ze puʁ sa.mɛ.di"
+      "ipa": "le bi.jɛ sɔ̃ de.ʒa e.pɥi.ze puʁ sa.mɛ.di",
+      "gloss": {
+        "en": "Tickets for Saturday are already sold out.",
+        "es": "Las entradas para el sábado ya están agotadas.",
+        "ru": "Билеты на субботу уже распроданы."
+      }
     },
     {
       "id": "remote-culture-phrase-3",
       "fr": "Je préfère les sous-titres à la version doublée.",
       "en": "I prefer subtitles to the dubbed version.",
-      "ipa": "ʒə pʁe.fɛʁ le su.titʁ a la vɛʁ.sjɔ̃ du.ble"
+      "ipa": "ʒə pʁe.fɛʁ le su.titʁ a la vɛʁ.sjɔ̃ du.ble",
+      "gloss": {
+        "en": "I prefer subtitles to the dubbed version.",
+        "es": "Prefiero los subtítulos a la versión doblada.",
+        "ru": "Я предпочитаю субтитры дублированной версии."
+      }
     },
     {
       "id": "remote-culture-phrase-4",
       "fr": "L’exposition m’a beaucoup plu, surtout la dernière salle.",
       "en": "I really liked the exhibition, especially the last room.",
-      "ipa": "lɛk.spo.zi.sjɔ̃ ma bo.ku ply syʁ.tu la dɛʁ.njɛʁ sal"
+      "ipa": "lɛk.spo.zi.sjɔ̃ ma bo.ku ply syʁ.tu la dɛʁ.njɛʁ sal",
+      "gloss": {
+        "en": "I really liked the exhibition, especially the last room.",
+        "es": "Me gustó mucho la exposición, especialmente la última sala.",
+        "ru": "Выставка мне очень понравилась, особенно последний зал."
+      }
     },
     {
       "id": "remote-culture-phrase-5",
       "fr": "On devrait arriver un peu en avance.",
       "en": "We should arrive a bit early.",
-      "ipa": "ɔ̃ də.vʁɛ a.ʁi.ve œ̃ pø ɑ̃ n‿a.vɑ̃s"
+      "ipa": "ɔ̃ də.vʁɛ a.ʁi.ve œ̃ pø ɑ̃ n‿a.vɑ̃s",
+      "gloss": {
+        "en": "We should arrive a bit early.",
+        "es": "Deberíamos llegar un poco antes.",
+        "ru": "Нам следует приехать немного раньше."
+      }
     },
     {
       "id": "remote-culture-phrase-6",
       "fr": "Ce n’était pas cher, et le public était chaleureux.",
       "en": "It wasn’t expensive, and the audience was warm.",
-      "ipa": "sə ne.tɛ pa ʃɛʁ e lə py.blik e.tɛ ʃa.lə.ʁø"
+      "ipa": "sə ne.tɛ pa ʃɛʁ e lə py.blik e.tɛ ʃa.lə.ʁø",
+      "gloss": {
+        "en": "It wasn’t expensive, and the audience was warm.",
+        "es": "No fue caro y la audiencia fue cálida.",
+        "ru": "Это было не дорого, и публика была теплая."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "sous-titres",
         "critiques",
         "entrées"
-      ]
+      ],
+      "gloss": {
+        "en": "Tickets for Saturday are already sold out.",
+        "es": "Las entradas para el sábado ya están agotadas.",
+        "ru": "Билеты на субботу уже распроданы."
+      },
+      "wordGloss": {
+        "en": "tickets",
+        "es": "entradas",
+        "ru": "билеты"
+      }
     },
     {
       "id": "remote-culture-listen-2",
@@ -236,7 +380,17 @@
         "galerie",
         "festival",
         "musée"
-      ]
+      ],
+      "gloss": {
+        "en": "The exhibition attracts a lot of visitors.",
+        "es": "La exposición atrae a muchos visitantes.",
+        "ru": "Выставка привлекает множество посетителей."
+      },
+      "wordGloss": {
+        "en": "exhibition",
+        "es": "exhibición",
+        "ru": "выставка"
+      }
     },
     {
       "id": "remote-culture-listen-3",
@@ -249,7 +403,17 @@
         "bande-annonce",
         "scène",
         "critique"
-      ]
+      ],
+      "gloss": {
+        "en": "I prefer the version with subtitles.",
+        "es": "Prefiero la versión con subtítulos.",
+        "ru": "Я предпочитаю версию с субтитрами."
+      },
+      "wordGloss": {
+        "en": "subtitles",
+        "es": "subtítulos",
+        "ru": "субтитры"
+      }
     },
     {
       "id": "remote-culture-listen-4",
@@ -262,7 +426,17 @@
         "acteur",
         "réalisateur",
         "spectacle"
-      ]
+      ],
+      "gloss": {
+        "en": "The audience applauded a lot at the end.",
+        "es": "El público aplaudió mucho al final.",
+        "ru": "В конце зрители много аплодировали."
+      },
+      "wordGloss": {
+        "en": "audience",
+        "es": "audiencia",
+        "ru": "аудитория"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-culture-grammar-1",
       "title": {
         "fr": "L’imparfait pour décrire une sortie",
-        "en": "Imparfait to describe an outing"
+        "en": "Imparfait to describe an outing",
+        "es": "Imparfait para describir una salida.",
+        "ru": "Imparfait, чтобы описать прогулку"
       },
-      "rule": "L’imparfait pose le décor : Le public était chaleureux. Le passé composé donne l’événement : Le spectacle a commencé en retard. On mélange souvent les deux.",
+      "rule": {
+        "fr": "L’imparfait pose le décor : Le public était chaleureux. Le passé composé donne l’événement : Le spectacle a commencé en retard. On mélange souvent les deux.",
+        "en": "The imperfect sets the scene: The audience was warm. The past tense gives the event: The show started late. We often mix the two.",
+        "es": "Lo imperfecto prepara el escenario: el público era cálido. El tiempo pasado da el evento: El espectáculo empezó tarde. A menudo mezclamos los dos.",
+        "ru": "Несовершенное создает сцену: публика была теплой. Прошедшее время передает событие: Шоу началось поздно. Мы часто смешиваем эти два понятия."
+      },
       "table": [
         [
           "Temps",
@@ -337,15 +518,27 @@
             "avait"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Imparfait to describe an outing.",
+        "es": "Útil cuando necesitas aplicar: Imparfait para describir una salida.",
+        "ru": "Полезно, когда вам нужно подать заявку: Imparfait для описания прогулки."
+      }
     },
     {
       "id": "remote-culture-grammar-2",
       "title": {
         "fr": "Valoir le coup / plutôt",
-        "en": "Valoir le coup and plutôt"
+        "en": "Valoir le coup and plutôt",
+        "es": "Valoir le coup y plutôt",
+        "ru": "Валуар ле переворот и плуто"
       },
-      "rule": "Ça vaut le coup = it’s worth it. Plutôt = rather (La critique a été plutôt positive). Ne pas confondre avec plus tôt (earlier).",
+      "rule": {
+        "fr": "Ça vaut le coup = it’s worth it. Plutôt = rather (La critique a été plutôt positive). Ne pas confondre avec plus tôt (earlier).",
+        "en": "It’s worth it = it’s worth it. Rather = rather (The review was rather positive). Not to be confused with earlier (earlier).",
+        "es": "Vale la pena = vale la pena. Más bien = más bien (La reseña fue bastante positiva). No confundir con anterior (antes).",
+        "ru": "Оно того стоит = оно того стоит. Скорее=скорее (Отзыв скорее положительный). Не путать с ранее (раньше)."
+      },
       "table": [
         [
           "Expression",
@@ -394,7 +587,12 @@
             "plutot"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Valoir le coup and plutôt.",
+        "es": "Útil cuando es necesario aplicar: Valoir le coup y plutôt.",
+        "ru": "Полезно, когда нужно применить: Valoir le coup и plutôt."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-culture-dict-1",
         "fr": "Tu as déjà vu ce film ? Il vaut vraiment le coup.",
         "en": "Have you seen this film? It’s really worth it.",
-        "ipa": "ty a de.ʒa vy sə film il vo vʁɛ.mɑ̃ lə ku"
+        "ipa": "ty a de.ʒa vy sə film il vo vʁɛ.mɑ̃ lə ku",
+        "gloss": {
+          "en": "Have you seen this film? It’s really worth it.",
+          "es": "¿Has visto esta película? Realmente vale la pena.",
+          "ru": "Вы видели этот фильм? Это действительно того стоит."
+        }
       },
       {
         "id": "remote-culture-dict-2",
         "fr": "Les billets sont déjà épuisés pour samedi.",
         "en": "Tickets for Saturday are already sold out.",
-        "ipa": "le bi.jɛ sɔ̃ de.ʒa e.pɥi.ze puʁ sa.mɛ.di"
+        "ipa": "le bi.jɛ sɔ̃ de.ʒa e.pɥi.ze puʁ sa.mɛ.di",
+        "gloss": {
+          "en": "Tickets for Saturday are already sold out.",
+          "es": "Las entradas para el sábado ya están agotadas.",
+          "ru": "Билеты на субботу уже распроданы."
+        }
       },
       {
         "id": "remote-culture-dict-3",
         "fr": "Je préfère les sous-titres à la version doublée.",
         "en": "I prefer subtitles to the dubbed version.",
-        "ipa": "ʒə pʁe.fɛʁ le su.titʁ a la vɛʁ.sjɔ̃ du.ble"
+        "ipa": "ʒə pʁe.fɛʁ le su.titʁ a la vɛʁ.sjɔ̃ du.ble",
+        "gloss": {
+          "en": "I prefer subtitles to the dubbed version.",
+          "es": "Prefiero los subtítulos a la versión doblada.",
+          "ru": "Я предпочитаю субтитры дублированной версии."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-culture-mean-1",
         "fr": "Tu as déjà vu ce film ? Il vaut vraiment le coup.",
         "en": "Have you seen this film? It’s really worth it.",
-        "choices": [
-          "Have you seen this film? It’s really worth it.",
-          "Tickets for Saturday are already sold out.",
-          "I prefer subtitles to the dubbed version."
-        ]
+        "gloss": {
+          "en": "Have you seen this film? It’s really worth it.",
+          "es": "¿Has visto esta película? Realmente vale la pena.",
+          "ru": "Вы видели этот фильм? Это действительно того стоит."
+        }
       },
       {
         "id": "remote-culture-mean-2",
         "fr": "Les billets sont déjà épuisés pour samedi.",
         "en": "Tickets for Saturday are already sold out.",
-        "choices": [
-          "Tickets for Saturday are already sold out.",
-          "Have you seen this film? It’s really worth it.",
-          "I prefer subtitles to the dubbed version."
-        ]
+        "gloss": {
+          "en": "Tickets for Saturday are already sold out.",
+          "es": "Las entradas para el sábado ya están agotadas.",
+          "ru": "Билеты на субботу уже распроданы."
+        }
       },
       {
         "id": "remote-culture-mean-3",
         "fr": "Je préfère les sous-titres à la version doublée.",
         "en": "I prefer subtitles to the dubbed version.",
-        "choices": [
-          "I prefer subtitles to the dubbed version.",
-          "Have you seen this film? It’s really worth it.",
-          "Tickets for Saturday are already sold out."
-        ]
+        "gloss": {
+          "en": "I prefer subtitles to the dubbed version.",
+          "es": "Prefiero los subtítulos a la versión doblada.",
+          "ru": "Я предпочитаю субтитры дублированной версии."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-culture-fren-1",
         "fr": "spectacle",
-        "en": "show"
+        "en": "show",
+        "gloss": {
+          "en": "show",
+          "es": "espectáculo",
+          "ru": "показывать"
+        }
       },
       {
         "id": "remote-culture-fren-2",
         "fr": "exposition",
-        "en": "exhibition"
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        }
       },
       {
         "id": "remote-culture-fren-3",
         "fr": "concert",
-        "en": "concert"
+        "en": "concert",
+        "gloss": {
+          "en": "concert",
+          "es": "concierto",
+          "ru": "концерт"
+        }
       },
       {
         "id": "remote-culture-fren-4",
         "fr": "pièce",
-        "en": "play (theatre)"
+        "en": "play (theatre)",
+        "gloss": {
+          "en": "play (theatre)",
+          "es": "obra de teatro (teatro)",
+          "ru": "играть (театр)"
+        }
       },
       {
         "id": "remote-culture-fren-5",
         "fr": "acteur",
-        "en": "actor"
+        "en": "actor",
+        "gloss": {
+          "en": "actor",
+          "es": "actor",
+          "ru": "актер"
+        }
       },
       {
         "id": "remote-culture-fren-6",
         "fr": "réalisateur",
-        "en": "director (film)"
+        "en": "director (film)",
+        "gloss": {
+          "en": "director (film)",
+          "es": "director (película)",
+          "ru": "режиссер (фильм)"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-culture-aloud-1",
         "fr": "Tu as déjà vu ce film ? Il vaut vraiment le coup.",
         "en": "Have you seen this film? It’s really worth it.",
-        "ipa": "ty a de.ʒa vy sə film il vo vʁɛ.mɑ̃ lə ku"
+        "ipa": "ty a de.ʒa vy sə film il vo vʁɛ.mɑ̃ lə ku",
+        "gloss": {
+          "en": "Have you seen this film? It’s really worth it.",
+          "es": "¿Has visto esta película? Realmente vale la pena.",
+          "ru": "Вы видели этот фильм? Это действительно того стоит."
+        }
       },
       {
         "id": "remote-culture-aloud-2",
         "fr": "Je préfère les sous-titres à la version doublée.",
         "en": "I prefer subtitles to the dubbed version.",
-        "ipa": "ʒə pʁe.fɛʁ le su.titʁ a la vɛʁ.sjɔ̃ du.ble"
+        "ipa": "ʒə pʁe.fɛʁ le su.titʁ a la vɛʁ.sjɔ̃ du.ble",
+        "gloss": {
+          "en": "I prefer subtitles to the dubbed version.",
+          "es": "Prefiero los subtítulos a la versión doblada.",
+          "ru": "Я предпочитаю субтитры дублированной версии."
+        }
       },
       {
         "id": "remote-culture-aloud-3",
         "fr": "On devrait arriver un peu en avance.",
         "en": "We should arrive a bit early.",
-        "ipa": "ɔ̃ də.vʁɛ a.ʁi.ve œ̃ pø ɑ̃ n‿a.vɑ̃s"
+        "ipa": "ɔ̃ də.vʁɛ a.ʁi.ve œ̃ pø ɑ̃ n‿a.vɑ̃s",
+        "gloss": {
+          "en": "We should arrive a bit early.",
+          "es": "Deberíamos llegar un poco antes.",
+          "ru": "Нам следует приехать немного раньше."
+        }
       }
     ],
     "unscramble": [
@@ -516,7 +774,12 @@
           "la",
           "dernière",
           "salle."
-        ]
+        ],
+        "gloss": {
+          "en": "I really liked the exhibition, especially the last room.",
+          "es": "Me gustó mucho la exposición, especialmente la última sala.",
+          "ru": "Выставка мне очень понравилась, особенно последний зал."
+        }
       },
       {
         "id": "remote-culture-unsc-2",
@@ -530,7 +793,12 @@
           "peu",
           "en",
           "avance."
-        ]
+        ],
+        "gloss": {
+          "en": "We should arrive a bit early.",
+          "es": "Deberíamos llegar un poco antes.",
+          "ru": "Нам следует приехать немного раньше."
+        }
       }
     ]
   }

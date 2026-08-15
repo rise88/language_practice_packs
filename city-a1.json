@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "city-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "title": {
     "fr": "En ville A1",
-    "en": "In town A1"
+    "en": "In town A1",
+    "es": "En la ciudad A1",
+    "ru": "В городе А1"
   },
   "description": {
     "fr": "Lieux de la ville et phrases simples pour se déplacer.",
-    "en": "Town places and simple phrases for getting around."
+    "en": "Town places and simple phrases for getting around.",
+    "es": "Lugares de la ciudad y frases sencillas para moverse.",
+    "ru": "Городские места и простые фразы для передвижения."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "town / city",
       "example": "J’habite en ville.",
       "ipa": "vil",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "town / city",
+        "es": "pueblo / ciudad",
+        "ru": "город / город"
+      }
     },
     {
       "id": "remote-city-a1-2",
@@ -26,7 +35,12 @@
       "en": "street",
       "example": "Ma rue est calme.",
       "ipa": "ʁy",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "street",
+        "es": "calle",
+        "ru": "улица"
+      }
     },
     {
       "id": "remote-city-a1-3",
@@ -34,7 +48,12 @@
       "en": "square",
       "example": "La place est au centre.",
       "ipa": "plas",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "square",
+        "es": "cuadrado",
+        "ru": "квадрат"
+      }
     },
     {
       "id": "remote-city-a1-4",
@@ -42,7 +61,12 @@
       "en": "shop",
       "example": "Le magasin ouvre à neuf heures.",
       "ipa": "ma.ɡa.zɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "shop",
+        "es": "comercio",
+        "ru": "магазин"
+      }
     },
     {
       "id": "remote-city-a1-5",
@@ -50,7 +74,12 @@
       "en": "bank",
       "example": "La banque est fermée.",
       "ipa": "bɑ̃k",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "bank",
+        "es": "banco",
+        "ru": "банк"
+      }
     },
     {
       "id": "remote-city-a1-6",
@@ -58,7 +87,12 @@
       "en": "post office",
       "example": "J’envoie une lettre à la poste.",
       "ipa": "pɔst",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "post office",
+        "es": "oficina de correos",
+        "ru": "почтовое отделение"
+      }
     },
     {
       "id": "remote-city-a1-7",
@@ -66,7 +100,12 @@
       "en": "cinema",
       "example": "Nous allons au cinéma.",
       "ipa": "si.ne.ma",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "cinema",
+        "es": "cine",
+        "ru": "кино"
+      }
     },
     {
       "id": "remote-city-a1-8",
@@ -74,7 +113,12 @@
       "en": "park",
       "example": "Les enfants jouent dans le parc.",
       "ipa": "paʁk",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "park",
+        "es": "parque",
+        "ru": "парк"
+      }
     },
     {
       "id": "remote-city-a1-9",
@@ -82,7 +126,12 @@
       "en": "museum",
       "example": "Le musée est intéressant.",
       "ipa": "my.ze",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "museum",
+        "es": "museo",
+        "ru": "музей"
+      }
     },
     {
       "id": "remote-city-a1-10",
@@ -90,7 +139,12 @@
       "en": "train station",
       "example": "Le train part de la gare.",
       "ipa": "ɡaʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "train station",
+        "es": "estación de tren",
+        "ru": "железнодорожная станция"
+      }
     },
     {
       "id": "remote-city-a1-11",
@@ -98,7 +152,12 @@
       "en": "stop (bus)",
       "example": "L’arrêt de bus est là.",
       "ipa": "a.ʁɛ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "stop (bus)",
+        "es": "parada (autobús)",
+        "ru": "остановка (автобус)"
+      }
     },
     {
       "id": "remote-city-a1-12",
@@ -106,7 +165,12 @@
       "en": "bridge",
       "example": "Le pont traverse la rivière.",
       "ipa": "pɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "bridge",
+        "es": "puente",
+        "ru": "мост"
+      }
     },
     {
       "id": "remote-city-a1-13",
@@ -114,7 +178,12 @@
       "en": "church",
       "example": "L’église est ancienne.",
       "ipa": "e.ɡliz",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "church",
+        "es": "iglesia",
+        "ru": "церковь"
+      }
     },
     {
       "id": "remote-city-a1-14",
@@ -122,7 +191,12 @@
       "en": "library",
       "example": "Je lis à la bibliothèque.",
       "ipa": "bi.bli.jɔ.tɛk",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "library",
+        "es": "biblioteca",
+        "ru": "библиотека"
+      }
     },
     {
       "id": "remote-city-a1-15",
@@ -130,7 +204,12 @@
       "en": "neighborhood",
       "example": "Mon quartier est vivant.",
       "ipa": "kaʁ.tje",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "neighborhood",
+        "es": "vecindario",
+        "ru": "район"
+      }
     },
     {
       "id": "remote-city-a1-16",
@@ -138,7 +217,12 @@
       "en": "town center",
       "example": "Le centre-ville est animé.",
       "ipa": "sɑ̃tʁ.vil",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "town center",
+        "es": "centro de la ciudad",
+        "ru": "центр города"
+      }
     },
     {
       "id": "remote-city-a1-17",
@@ -146,7 +230,12 @@
       "en": "town hall",
       "example": "La mairie est sur la place.",
       "ipa": "mɛ.ʁi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "town hall",
+        "es": "Ayuntamiento",
+        "ru": "ратуша"
+      }
     },
     {
       "id": "remote-city-a1-18",
@@ -154,7 +243,12 @@
       "en": "pharmacy",
       "example": "La pharmacie est ouverte.",
       "ipa": "faʁ.ma.si",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "pharmacy",
+        "es": "farmacia",
+        "ru": "аптека"
+      }
     },
     {
       "id": "remote-city-a1-19",
@@ -162,7 +256,12 @@
       "en": "café",
       "example": "On se retrouve au café.",
       "ipa": "ka.fe",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "café",
+        "es": "cafetería",
+        "ru": "кафе"
+      }
     },
     {
       "id": "remote-city-a1-20",
@@ -170,7 +269,12 @@
       "en": "map",
       "example": "Voici un plan de la ville.",
       "ipa": "plɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "map",
+        "es": "mapa",
+        "ru": "карта"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-city-phrase-1",
       "fr": "Où est la gare, s’il vous plaît ?",
       "en": "Where is the station, please?",
-      "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+      "ipa": "u ɛ la ɡaʁ sil vu plɛ",
+      "gloss": {
+        "en": "Where is the station, please?",
+        "es": "¿Dónde está la estación, por favor?",
+        "ru": "Подскажите, пожалуйста, где станция?"
+      }
     },
     {
       "id": "remote-city-phrase-2",
       "fr": "C’est près d’ici ?",
       "en": "Is it near here?",
-      "ipa": "sɛ pʁɛ di.si"
+      "ipa": "sɛ pʁɛ di.si",
+      "gloss": {
+        "en": "Is it near here?",
+        "es": "¿Está cerca de aquí?",
+        "ru": "Это рядом здесь?"
+      }
     },
     {
       "id": "remote-city-phrase-3",
       "fr": "Le magasin est fermé aujourd’hui.",
       "en": "The shop is closed today.",
-      "ipa": "lə ma.ɡa.zɛ̃ ɛ fɛʁ.me o.ʒuʁ.dɥi"
+      "ipa": "lə ma.ɡa.zɛ̃ ɛ fɛʁ.me o.ʒuʁ.dɥi",
+      "gloss": {
+        "en": "The shop is closed today.",
+        "es": "La tienda está cerrada hoy.",
+        "ru": "Магазин сегодня закрыт."
+      }
     },
     {
       "id": "remote-city-phrase-4",
       "fr": "Nous allons au parc.",
       "en": "We’re going to the park.",
-      "ipa": "nu.z‿a.lɔ̃ o paʁk"
+      "ipa": "nu.z‿a.lɔ̃ o paʁk",
+      "gloss": {
+        "en": "We’re going to the park.",
+        "es": "Vamos al parque.",
+        "ru": "Мы идем в парк."
+      }
     },
     {
       "id": "remote-city-phrase-5",
       "fr": "J’habite dans ce quartier.",
       "en": "I live in this neighborhood.",
-      "ipa": "ʒa.bit dɑ̃ sə kaʁ.tje"
+      "ipa": "ʒa.bit dɑ̃ sə kaʁ.tje",
+      "gloss": {
+        "en": "I live in this neighborhood.",
+        "es": "Vivo en este barrio.",
+        "ru": "Я живу в этом районе."
+      }
     },
     {
       "id": "remote-city-phrase-6",
       "fr": "Tournez à gauche.",
       "en": "Turn left.",
-      "ipa": "tuʁ.ne a ɡoʃ"
+      "ipa": "tuʁ.ne a ɡoʃ",
+      "gloss": {
+        "en": "Turn left.",
+        "es": "Gire a la izquierda.",
+        "ru": "Поверните налево."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "poste",
         "mairie",
         "banque"
-      ]
+      ],
+      "gloss": {
+        "en": "Where is the station, please?",
+        "es": "¿Dónde está la estación, por favor?",
+        "ru": "Подскажите, пожалуйста, где станция?"
+      },
+      "wordGloss": {
+        "en": "station",
+        "es": "estación",
+        "ru": "станция"
+      }
     },
     {
       "id": "remote-city-listen-2",
@@ -236,7 +380,17 @@
         "musée",
         "parc",
         "café"
-      ]
+      ],
+      "gloss": {
+        "en": "We’re going to the cinema tonight.",
+        "es": "Esta noche vamos al cine.",
+        "ru": "Сегодня вечером мы идём в кино."
+      },
+      "wordGloss": {
+        "en": "cinema",
+        "es": "cine",
+        "ru": "кино"
+      }
     },
     {
       "id": "remote-city-listen-3",
@@ -249,7 +403,17 @@
         "pharmacie",
         "mairie",
         "église"
-      ]
+      ],
+      "gloss": {
+        "en": "The library opens at ten o’clock.",
+        "es": "La biblioteca abre a las diez en punto.",
+        "ru": "Библиотека открывается в десять часов."
+      },
+      "wordGloss": {
+        "en": "library",
+        "es": "biblioteca",
+        "ru": "библиотека"
+      }
     },
     {
       "id": "remote-city-listen-4",
@@ -262,7 +426,17 @@
         "pont",
         "plan",
         "arrêt"
-      ]
+      ],
+      "gloss": {
+        "en": "My neighborhood is quiet.",
+        "es": "Mi barrio es tranquilo.",
+        "ru": "Мой район тихий."
+      },
+      "wordGloss": {
+        "en": "neighborhood",
+        "es": "vecindario",
+        "ru": "район"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-city-grammar-1",
       "title": {
         "fr": "À / au / à la / à l’",
-        "en": "Going to a place"
+        "en": "Going to a place",
+        "es": "ir a un lugar",
+        "ru": "Иду в место"
       },
-      "rule": "Pour aller quelque part : à + ville (à Paris), au (à + le) cinéma, à la gare, à l’église. On dit aussi dans le parc, dans la rue.",
+      "rule": {
+        "fr": "Pour aller quelque part : à + ville (à Paris), au (à + le) cinéma, à la gare, à l’église. On dit aussi dans le parc, dans la rue.",
+        "en": "To go somewhere: to + town (to Paris), to (to + the) cinema, to the station, to the church. We also say in the park, in the street.",
+        "es": "Para ir a algún lugar: a + ciudad (a París), a (a + el) cine, a la estación, a la iglesia. También decimos en el parque, en la calle.",
+        "ru": "Пойти куда-нибудь: в + город (в Париж), в (в +) кино, на вокзал, в церковь. Еще мы говорим в парке, на улице."
+      },
       "table": [
         [
           "Forme",
@@ -337,15 +518,27 @@
             "à l’"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Going to a place.",
+        "es": "Útil cuando necesitas aplicar: Ir a un lugar.",
+        "ru": "Полезно, когда вам нужно подать заявку: Поездка в место."
+      }
     },
     {
       "id": "remote-city-grammar-2",
       "title": {
         "fr": "Où est… ?",
-        "en": "Asking where something is"
+        "en": "Asking where something is",
+        "es": "Preguntar dónde está algo",
+        "ru": "Спрашивать, где что-то находится"
       },
-      "rule": "Pour demander un lieu : Où est + le / la / l’… ? Réponses utiles : à gauche, à droite, tout droit, près d’ici, loin.",
+      "rule": {
+        "fr": "Pour demander un lieu : Où est + le / la / l’… ? Réponses utiles : à gauche, à droite, tout droit, près d’ici, loin.",
+        "en": "To ask for a location: Where is + the / the / the…? Useful answers: left, right, straight ahead, near here, far away.",
+        "es": "Para preguntar por una ubicación: ¿Dónde está + el / el / el…? Respuestas útiles: izquierda, derecha, adelante, cerca de aquí, muy lejos.",
+        "ru": "Чтобы спросить местоположение: Где находится + the / the / the…? Полезные ответы: налево, направо, прямо, рядом, далеко."
+      },
       "table": [
         [
           "Question / réponse",
@@ -404,7 +597,12 @@
             "gauche"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Asking where something is.",
+        "es": "Útil cuando necesitas presentar una solicitud: preguntar dónde está algo.",
+        "ru": "Полезно, когда вам нужно подать заявку: Спросить, где что-то находится."
+      }
     }
   ],
   "skills": {
@@ -413,19 +611,34 @@
         "id": "remote-city-dict-1",
         "fr": "Où est la gare, s’il vous plaît ?",
         "en": "Where is the station, please?",
-        "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+        "ipa": "u ɛ la ɡaʁ sil vu plɛ",
+        "gloss": {
+          "en": "Where is the station, please?",
+          "es": "¿Dónde está la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, где станция?"
+        }
       },
       {
         "id": "remote-city-dict-2",
         "fr": "C’est près d’ici ?",
         "en": "Is it near here?",
-        "ipa": "sɛ pʁɛ di.si"
+        "ipa": "sɛ pʁɛ di.si",
+        "gloss": {
+          "en": "Is it near here?",
+          "es": "¿Está cerca de aquí?",
+          "ru": "Это рядом здесь?"
+        }
       },
       {
         "id": "remote-city-dict-3",
         "fr": "Le magasin est fermé aujourd’hui.",
         "en": "The shop is closed today.",
-        "ipa": "lə ma.ɡa.zɛ̃ ɛ fɛʁ.me o.ʒuʁ.dɥi"
+        "ipa": "lə ma.ɡa.zɛ̃ ɛ fɛʁ.me o.ʒuʁ.dɥi",
+        "gloss": {
+          "en": "The shop is closed today.",
+          "es": "La tienda está cerrada hoy.",
+          "ru": "Магазин сегодня закрыт."
+        }
       }
     ],
     "meaning": [
@@ -433,63 +646,93 @@
         "id": "remote-city-mean-1",
         "fr": "Où est la gare, s’il vous plaît ?",
         "en": "Where is the station, please?",
-        "choices": [
-          "Where is the station, please?",
-          "Is it near here?",
-          "The shop is closed today."
-        ]
+        "gloss": {
+          "en": "Where is the station, please?",
+          "es": "¿Dónde está la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, где станция?"
+        }
       },
       {
         "id": "remote-city-mean-2",
         "fr": "C’est près d’ici ?",
         "en": "Is it near here?",
-        "choices": [
-          "Is it near here?",
-          "Where is the station, please?",
-          "The shop is closed today."
-        ]
+        "gloss": {
+          "en": "Is it near here?",
+          "es": "¿Está cerca de aquí?",
+          "ru": "Это рядом здесь?"
+        }
       },
       {
         "id": "remote-city-mean-3",
         "fr": "Le magasin est fermé aujourd’hui.",
         "en": "The shop is closed today.",
-        "choices": [
-          "The shop is closed today.",
-          "Where is the station, please?",
-          "Is it near here?"
-        ]
+        "gloss": {
+          "en": "The shop is closed today.",
+          "es": "La tienda está cerrada hoy.",
+          "ru": "Магазин сегодня закрыт."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-city-fren-1",
         "fr": "ville",
-        "en": "town"
+        "en": "town",
+        "gloss": {
+          "en": "town",
+          "es": "ciudad",
+          "ru": "город"
+        }
       },
       {
         "id": "remote-city-fren-2",
         "fr": "rue",
-        "en": "street"
+        "en": "street",
+        "gloss": {
+          "en": "street",
+          "es": "calle",
+          "ru": "улица"
+        }
       },
       {
         "id": "remote-city-fren-3",
         "fr": "place",
-        "en": "square"
+        "en": "square",
+        "gloss": {
+          "en": "square",
+          "es": "cuadrado",
+          "ru": "квадрат"
+        }
       },
       {
         "id": "remote-city-fren-4",
         "fr": "magasin",
-        "en": "shop"
+        "en": "shop",
+        "gloss": {
+          "en": "shop",
+          "es": "comercio",
+          "ru": "магазин"
+        }
       },
       {
         "id": "remote-city-fren-5",
         "fr": "banque",
-        "en": "bank"
+        "en": "bank",
+        "gloss": {
+          "en": "bank",
+          "es": "banco",
+          "ru": "банк"
+        }
       },
       {
         "id": "remote-city-fren-6",
         "fr": "poste",
-        "en": "post office"
+        "en": "post office",
+        "gloss": {
+          "en": "post office",
+          "es": "oficina de correos",
+          "ru": "почтовое отделение"
+        }
       }
     ],
     "aloud": [
@@ -497,19 +740,34 @@
         "id": "remote-city-aloud-1",
         "fr": "Où est la gare, s’il vous plaît ?",
         "en": "Where is the station, please?",
-        "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+        "ipa": "u ɛ la ɡaʁ sil vu plɛ",
+        "gloss": {
+          "en": "Where is the station, please?",
+          "es": "¿Dónde está la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, где станция?"
+        }
       },
       {
         "id": "remote-city-aloud-2",
         "fr": "Le magasin est fermé aujourd’hui.",
         "en": "The shop is closed today.",
-        "ipa": "lə ma.ɡa.zɛ̃ ɛ fɛʁ.me o.ʒuʁ.dɥi"
+        "ipa": "lə ma.ɡa.zɛ̃ ɛ fɛʁ.me o.ʒuʁ.dɥi",
+        "gloss": {
+          "en": "The shop is closed today.",
+          "es": "La tienda está cerrada hoy.",
+          "ru": "Магазин сегодня закрыт."
+        }
       },
       {
         "id": "remote-city-aloud-3",
         "fr": "J’habite dans ce quartier.",
         "en": "I live in this neighborhood.",
-        "ipa": "ʒa.bit dɑ̃ sə kaʁ.tje"
+        "ipa": "ʒa.bit dɑ̃ sə kaʁ.tje",
+        "gloss": {
+          "en": "I live in this neighborhood.",
+          "es": "Vivo en este barrio.",
+          "ru": "Я живу в этом районе."
+        }
       }
     ],
     "unscramble": [
@@ -522,7 +780,12 @@
           "allons",
           "au",
           "parc."
-        ]
+        ],
+        "gloss": {
+          "en": "We’re going to the park.",
+          "es": "Vamos al parque.",
+          "ru": "Мы идем в парк."
+        }
       },
       {
         "id": "remote-city-unsc-2",
@@ -533,7 +796,12 @@
           "dans",
           "ce",
           "quartier."
-        ]
+        ],
+        "gloss": {
+          "en": "I live in this neighborhood.",
+          "es": "Vivo en este barrio.",
+          "ru": "Я живу в этом районе."
+        }
       }
     ],
     "signs": [
@@ -541,13 +809,23 @@
         "id": "remote-city-sign-1",
         "fr": "centre-ville",
         "en": "town center",
-        "hint": "city-center sign"
+        "hint": "city-center sign",
+        "gloss": {
+          "en": "town center",
+          "es": "centro de la ciudad",
+          "ru": "центр города"
+        }
       },
       {
         "id": "remote-city-sign-2",
         "fr": "gare",
         "en": "station",
-        "hint": "train station sign"
+        "hint": "train station sign",
+        "gloss": {
+          "en": "station",
+          "es": "estación",
+          "ru": "станция"
+        }
       }
     ]
   }

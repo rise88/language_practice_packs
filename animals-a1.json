@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "animals-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "title": {
     "fr": "Animaux A1",
-    "en": "Animals A1"
+    "en": "Animals A1",
+    "es": "Animales A1",
+    "ru": "Животные А1"
   },
   "description": {
     "fr": "Animaux domestiques, de la ferme et de la nature pour débutants.",
-    "en": "Pets, farm animals, and wildlife vocabulary for beginners."
+    "en": "Pets, farm animals, and wildlife vocabulary for beginners.",
+    "es": "Vocabulario sobre mascotas, animales de granja y vida salvaje para principiantes.",
+    "ru": "Словарный запас домашних животных, сельскохозяйственных животных и дикой природы для начинающих."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "cat",
       "example": "Mon chat dort sur le canapé.",
       "ipa": "ʃa",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "cat",
+        "es": "gato",
+        "ru": "кот"
+      }
     },
     {
       "id": "remote-animals-a1-2",
@@ -26,7 +35,12 @@
       "en": "dog",
       "example": "Le chien aboie dans le jardin.",
       "ipa": "ʃjɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "dog",
+        "es": "perro",
+        "ru": "собака"
+      }
     },
     {
       "id": "remote-animals-a1-3",
@@ -34,7 +48,12 @@
       "en": "bird",
       "example": "Un oiseau chante dans l’arbre.",
       "ipa": "wa.zo",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "bird",
+        "es": "pájaro",
+        "ru": "птица"
+      }
     },
     {
       "id": "remote-animals-a1-4",
@@ -42,7 +61,12 @@
       "en": "fish",
       "example": "J’ai un poisson rouge dans un bocal.",
       "ipa": "pwa.sɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "fish",
+        "es": "pez",
+        "ru": "рыба"
+      }
     },
     {
       "id": "remote-animals-a1-5",
@@ -50,7 +74,12 @@
       "en": "horse",
       "example": "Le cheval galope dans le pré.",
       "ipa": "ʃə.val",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "horse",
+        "es": "caballo",
+        "ru": "лошадь"
+      }
     },
     {
       "id": "remote-animals-a1-6",
@@ -58,7 +87,12 @@
       "en": "cow",
       "example": "La vache donne du lait.",
       "ipa": "vaʃ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "cow",
+        "es": "vaca",
+        "ru": "корова"
+      }
     },
     {
       "id": "remote-animals-a1-7",
@@ -66,7 +100,12 @@
       "en": "sheep",
       "example": "Les moutons mangent de l’herbe.",
       "ipa": "mu.tɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "sheep",
+        "es": "oveja",
+        "ru": "овца"
+      }
     },
     {
       "id": "remote-animals-a1-8",
@@ -74,7 +113,12 @@
       "en": "pig",
       "example": "Le cochon est dans la porcherie.",
       "ipa": "kɔ.ʃɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "pig",
+        "es": "cerdo",
+        "ru": "свинья"
+      }
     },
     {
       "id": "remote-animals-a1-9",
@@ -82,7 +126,12 @@
       "en": "hen / chicken",
       "example": "La poule pond un œuf.",
       "ipa": "pul",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "hen / chicken",
+        "es": "gallina/pollo",
+        "ru": "курица / курица"
+      }
     },
     {
       "id": "remote-animals-a1-10",
@@ -90,7 +139,12 @@
       "en": "rabbit",
       "example": "Le lapin mange une carotte.",
       "ipa": "la.pɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "rabbit",
+        "es": "conejo",
+        "ru": "кролик"
+      }
     },
     {
       "id": "remote-animals-a1-11",
@@ -98,7 +152,12 @@
       "en": "mouse",
       "example": "Une souris court dans la cuisine.",
       "ipa": "su.ʁi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "mouse",
+        "es": "ratón",
+        "ru": "мышь"
+      }
     },
     {
       "id": "remote-animals-a1-12",
@@ -106,7 +165,12 @@
       "en": "lion",
       "example": "Le lion est le roi de la savane.",
       "ipa": "ljɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "lion",
+        "es": "león",
+        "ru": "лев"
+      }
     },
     {
       "id": "remote-animals-a1-13",
@@ -114,7 +178,12 @@
       "en": "elephant",
       "example": "L’éléphant a une longue trompe.",
       "ipa": "e.le.fɑ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "elephant",
+        "es": "elefante",
+        "ru": "слон"
+      }
     },
     {
       "id": "remote-animals-a1-14",
@@ -122,7 +191,12 @@
       "en": "snake",
       "example": "Le serpent se glisse dans l’herbe.",
       "ipa": "sɛʁ.pɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "snake",
+        "es": "serpiente",
+        "ru": "змея"
+      }
     },
     {
       "id": "remote-animals-a1-15",
@@ -130,7 +204,12 @@
       "en": "bear",
       "example": "L’ours hiberne en hiver.",
       "ipa": "uʁs",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "bear",
+        "es": "oso",
+        "ru": "медведь"
+      }
     },
     {
       "id": "remote-animals-a1-16",
@@ -138,7 +217,12 @@
       "en": "fox",
       "example": "Le renard est rusé.",
       "ipa": "ʁə.naʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "fox",
+        "es": "zorro",
+        "ru": "лиса"
+      }
     },
     {
       "id": "remote-animals-a1-17",
@@ -146,7 +230,12 @@
       "en": "bee",
       "example": "L’abeille fait du miel.",
       "ipa": "a.bɛj",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "bee",
+        "es": "abeja",
+        "ru": "пчела"
+      }
     },
     {
       "id": "remote-animals-a1-18",
@@ -154,7 +243,12 @@
       "en": "butterfly",
       "example": "Un papillon vole dans le jardin.",
       "ipa": "pa.pi.jɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "butterfly",
+        "es": "mariposa",
+        "ru": "бабочка"
+      }
     },
     {
       "id": "remote-animals-a1-19",
@@ -162,7 +256,12 @@
       "en": "zoo",
       "example": "Nous visitons le zoo le dimanche.",
       "ipa": "zo",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "zoo",
+        "es": "zoo",
+        "ru": "зоопарк"
+      }
     },
     {
       "id": "remote-animals-a1-20",
@@ -170,7 +269,12 @@
       "en": "animal",
       "example": "Quel est ton animal préféré ?",
       "ipa": "a.ni.mal",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "animal",
+        "es": "animal",
+        "ru": "животное"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-animals-phrase-1",
       "fr": "J’ai un chat et un chien.",
       "en": "I have a cat and a dog.",
-      "ipa": "ʒe œ̃ ʃa e œ̃ ʃjɛ̃"
+      "ipa": "ʒe œ̃ ʃa e œ̃ ʃjɛ̃",
+      "gloss": {
+        "en": "I have a cat and a dog.",
+        "es": "Tengo un gato y un perro.",
+        "ru": "У меня есть кот и собака."
+      }
     },
     {
       "id": "remote-animals-phrase-2",
       "fr": "Mon chien aime jouer dans le parc.",
       "en": "My dog likes to play in the park.",
-      "ipa": "mɔ̃ ʃjɛ̃ ɛm ʒwe dɑ̃ lə paʁk"
+      "ipa": "mɔ̃ ʃjɛ̃ ɛm ʒwe dɑ̃ lə paʁk",
+      "gloss": {
+        "en": "My dog likes to play in the park.",
+        "es": "A mi perro le gusta jugar en el parque.",
+        "ru": "Моя собака любит играть в парке."
+      }
     },
     {
       "id": "remote-animals-phrase-3",
       "fr": "Le chat dort sur le canapé.",
       "en": "The cat sleeps on the sofa.",
-      "ipa": "lə ʃa dɔʁ syʁ lə ka.na.pe"
+      "ipa": "lə ʃa dɔʁ syʁ lə ka.na.pe",
+      "gloss": {
+        "en": "The cat sleeps on the sofa.",
+        "es": "El gato duerme en el sofá.",
+        "ru": "Кот спит на диване."
+      }
     },
     {
       "id": "remote-animals-phrase-4",
       "fr": "As-tu un animal de compagnie ?",
       "en": "Do you have a pet?",
-      "ipa": "a ty œ̃ a.ni.mal də kɔ̃.pa.ɲi"
+      "ipa": "a ty œ̃ a.ni.mal də kɔ̃.pa.ɲi",
+      "gloss": {
+        "en": "Do you have a pet?",
+        "es": "¿Tienes una mascota?",
+        "ru": "У вас есть домашнее животное?"
+      }
     },
     {
       "id": "remote-animals-phrase-5",
       "fr": "Les oiseaux chantent le matin.",
       "en": "The birds sing in the morning.",
-      "ipa": "le.z‿wa.zo ʃɑ̃t lə ma.tɛ̃"
+      "ipa": "le.z‿wa.zo ʃɑ̃t lə ma.tɛ̃",
+      "gloss": {
+        "en": "The birds sing in the morning.",
+        "es": "Los pájaros cantan por la mañana.",
+        "ru": "Птицы поют утром."
+      }
     },
     {
       "id": "remote-animals-phrase-6",
       "fr": "Nous allons au zoo demain.",
       "en": "We’re going to the zoo tomorrow.",
-      "ipa": "nu.z‿a.lɔ̃ o zo də.mɛ̃"
+      "ipa": "nu.z‿a.lɔ̃ o zo də.mɛ̃",
+      "gloss": {
+        "en": "We’re going to the zoo tomorrow.",
+        "es": "Mañana iremos al zoológico.",
+        "ru": "Завтра мы идём в зоопарк."
+      }
     }
   ],
   "listen": [
@@ -219,7 +353,21 @@
       "word": "chat",
       "wordEn": "cat",
       "wordIpa": "ʃa",
-      "distractors": ["chien", "lapin", "souris"]
+      "distractors": [
+        "chien",
+        "lapin",
+        "souris"
+      ],
+      "gloss": {
+        "en": "My cat sleeps on the sofa all day.",
+        "es": "Mi gato duerme todo el día en el sofá.",
+        "ru": "Мой кот весь день спит на диване."
+      },
+      "wordGloss": {
+        "en": "cat",
+        "es": "gato",
+        "ru": "кот"
+      }
     },
     {
       "id": "remote-animals-listen-2",
@@ -228,7 +376,21 @@
       "word": "chien",
       "wordEn": "dog",
       "wordIpa": "ʃjɛ̃",
-      "distractors": ["chat", "cheval", "renard"]
+      "distractors": [
+        "chat",
+        "cheval",
+        "renard"
+      ],
+      "gloss": {
+        "en": "The dog barks when someone rings the doorbell.",
+        "es": "El perro ladra cuando alguien toca el timbre.",
+        "ru": "Собака лает, когда кто-то звонит в дверь."
+      },
+      "wordGloss": {
+        "en": "dog",
+        "es": "perro",
+        "ru": "собака"
+      }
     },
     {
       "id": "remote-animals-listen-3",
@@ -237,7 +399,21 @@
       "word": "vache",
       "wordEn": "cow",
       "wordIpa": "vaʃ",
-      "distractors": ["mouton", "poule", "cochon"]
+      "distractors": [
+        "mouton",
+        "poule",
+        "cochon"
+      ],
+      "gloss": {
+        "en": "The cow gives milk at the farm.",
+        "es": "La vaca da leche en la granja.",
+        "ru": "Корова дает молоко на ферме."
+      },
+      "wordGloss": {
+        "en": "cow",
+        "es": "vaca",
+        "ru": "корова"
+      }
     },
     {
       "id": "remote-animals-listen-4",
@@ -246,7 +422,21 @@
       "word": "éléphant",
       "wordEn": "elephant",
       "wordIpa": "e.le.fɑ̃",
-      "distractors": ["lion", "ours", "serpent"]
+      "distractors": [
+        "lion",
+        "ours",
+        "serpent"
+      ],
+      "gloss": {
+        "en": "The elephant drinks water with its trunk.",
+        "es": "El elefante bebe agua con su trompa.",
+        "ru": "Слон пьет воду хоботом."
+      },
+      "wordGloss": {
+        "en": "elephant",
+        "es": "elefante",
+        "ru": "слон"
+      }
     }
   ],
   "prompts": [
@@ -260,65 +450,154 @@
       "id": "remote-animals-grammar-1",
       "title": {
         "fr": "Un / une pour les animaux",
-        "en": "Un / une for animals"
+        "en": "Un / une for animals",
+        "es": "Un/une para animales",
+        "ru": "Ун/уне для животных"
       },
-      "rule": "Pour parler d’un animal, on utilise un (masculin) ou une (féminin) : un chat, une vache, un chien, une poule. Au pluriel : des chats, des vaches.",
+      "rule": {
+        "fr": "Pour parler d’un animal, on utilise un (masculin) ou une (féminin) : un chat, une vache, un chien, une poule. Au pluriel : des chats, des vaches.",
+        "en": "To talk about an animal, we use a (masculine) or a (feminine): a cat, a cow, a dog, a chicken. In the plural: cats, cows.",
+        "es": "Para hablar de un animal utilizamos un (masculino) o un (femenino): un gato, una vaca, un perro, una gallina. En plural: gatos, vacas.",
+        "ru": "Говоря о животном, мы используем (мужской род) или (женский род): кошка, корова, собака, курица. Во множественном числе: кошки, коровы."
+      },
       "table": [
-        ["Forme", "Genre", "Exemple"],
-        ["un", "masculin singulier", "un lapin"],
-        ["une", "féminin singulier", "une souris"],
-        ["des", "pluriel", "des oiseaux"],
-        ["le / la", "défini", "le chien / la vache"]
+        [
+          "Forme",
+          "Genre",
+          "Exemple"
+        ],
+        [
+          "un",
+          "masculin singulier",
+          "un lapin"
+        ],
+        [
+          "une",
+          "féminin singulier",
+          "une souris"
+        ],
+        [
+          "des",
+          "pluriel",
+          "des oiseaux"
+        ],
+        [
+          "le / la",
+          "défini",
+          "le chien / la vache"
+        ]
       ],
       "questions": [
         {
           "id": "remote-animals-gq-1",
           "prompt": "J’ai ___ chat.",
           "answer": "un",
-          "options": ["un", "une", "des"]
+          "options": [
+            "un",
+            "une",
+            "des"
+          ]
         },
         {
           "id": "remote-animals-gq-2",
           "prompt": "___ vache donne du lait.",
           "answer": "La",
-          "options": ["Le", "La", "Un"]
+          "options": [
+            "Le",
+            "La",
+            "Un"
+          ]
         },
         {
           "id": "remote-animals-gq-3",
           "prompt": "Il y a ___ moutons dans le pré.",
           "answer": "des",
-          "options": ["un", "une", "des"]
+          "options": [
+            "un",
+            "une",
+            "des"
+          ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Un / une for animals.",
+        "es": "Útil cuando se necesita aplicar: Un/une para animales.",
+        "ru": "Полезно, когда нужно применить: Un/une для животных."
+      }
     },
     {
       "id": "remote-animals-grammar-2",
       "title": {
         "fr": "Les verbes simples avec les animaux",
-        "en": "Simple verbs with animals"
+        "en": "Simple verbs with animals",
+        "es": "Verbos simples con animales.",
+        "ru": "Простые глаголы с животными"
       },
-      "rule": "Pour décrire ce que font les animaux, on utilise des verbes à la 3e personne : manger, dormir, courir, chanter, aboyer. Exemple : Le chat dort. Les oiseaux chantent.",
+      "rule": {
+        "fr": "Pour décrire ce que font les animaux, on utilise des verbes à la 3e personne : manger, dormir, courir, chanter, aboyer. Exemple : Le chat dort. Les oiseaux chantent.",
+        "en": "To describe what animals do, we use verbs in the 3rd person: eat, sleep, run, sing, bark. Example: The cat is sleeping. The birds are singing.",
+        "es": "Para describir lo que hacen los animales utilizamos verbos en 3ª persona: comer, dormir, correr, cantar, ladrar. Ejemplo: El gato está durmiendo. Los pájaros cantan.",
+        "ru": "Для описания того, что делают животные, мы используем глаголы в 3-м лице: есть, спать, бегать, петь, лаять. Пример: Кот спит. Птицы поют."
+      },
       "table": [
-        ["Verbe", "3e pers. sing.", "3e pers. plur.", "Exemple"],
-        ["manger", "mange", "mangent", "Le lapin mange."],
-        ["dormir", "dort", "dorment", "Le chat dort."],
-        ["chanter", "chante", "chantent", "Les oiseaux chantent."],
-        ["aboyer", "aboie", "aboient", "Le chien aboie."]
+        [
+          "Verbe",
+          "3e pers. sing.",
+          "3e pers. plur.",
+          "Exemple"
+        ],
+        [
+          "manger",
+          "mange",
+          "mangent",
+          "Le lapin mange."
+        ],
+        [
+          "dormir",
+          "dort",
+          "dorment",
+          "Le chat dort."
+        ],
+        [
+          "chanter",
+          "chante",
+          "chantent",
+          "Les oiseaux chantent."
+        ],
+        [
+          "aboyer",
+          "aboie",
+          "aboient",
+          "Le chien aboie."
+        ]
       ],
       "questions": [
         {
           "id": "remote-animals-gq-4",
           "prompt": "Le chat ___ sur le canapé.",
           "answer": "dort",
-          "options": ["dort", "dorment", "dors"]
+          "options": [
+            "dort",
+            "dorment",
+            "dors"
+          ]
         },
         {
           "id": "remote-animals-gq-5",
           "prompt": "Les oiseaux ___ le matin.",
           "answer": "chantent",
-          "options": ["chante", "chantent", "chante"]
+          "options": [
+            "chante",
+            "chantent",
+            "chante"
+          ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Simple verbs with animals.",
+        "es": "Útil cuando necesitas aplicar: Verbos simples con animales.",
+        "ru": "Полезно, когда нужно применить: Простые глаголы с животными."
+      }
     }
   ],
   "skills": {
@@ -327,19 +606,34 @@
         "id": "remote-animals-dict-1",
         "fr": "J’ai un chat et un chien.",
         "en": "I have a cat and a dog.",
-        "ipa": "ʒe œ̃ ʃa e œ̃ ʃjɛ̃"
+        "ipa": "ʒe œ̃ ʃa e œ̃ ʃjɛ̃",
+        "gloss": {
+          "en": "I have a cat and a dog.",
+          "es": "Tengo un gato y un perro.",
+          "ru": "У меня есть кот и собака."
+        }
       },
       {
         "id": "remote-animals-dict-2",
         "fr": "La vache donne du lait.",
         "en": "The cow gives milk.",
-        "ipa": "la vaʃ dɔ̃ dy lɛ"
+        "ipa": "la vaʃ dɔ̃ dy lɛ",
+        "gloss": {
+          "en": "The cow gives milk.",
+          "es": "La vaca da leche.",
+          "ru": "Корова дает молоко."
+        }
       },
       {
         "id": "remote-animals-dict-3",
         "fr": "Nous allons au zoo demain.",
         "en": "We’re going to the zoo tomorrow.",
-        "ipa": "nu.z‿a.lɔ̃ o zo də.mɛ̃"
+        "ipa": "nu.z‿a.lɔ̃ o zo də.mɛ̃",
+        "gloss": {
+          "en": "We’re going to the zoo tomorrow.",
+          "es": "Mañana iremos al zoológico.",
+          "ru": "Завтра мы идём в зоопарк."
+        }
       }
     ],
     "meaning": [
@@ -347,47 +641,128 @@
         "id": "remote-animals-mean-1",
         "fr": "As-tu un animal de compagnie ?",
         "en": "Do you have a pet?",
-        "choices": ["Do you have a pet?", "Do you like rain?", "Where is the farm?"]
+        "gloss": {
+          "en": "Do you have a pet?",
+          "es": "¿Tienes una mascota?",
+          "ru": "У вас есть домашнее животное?"
+        }
       },
       {
         "id": "remote-animals-mean-2",
         "fr": "Le chien aboie dans le jardin.",
         "en": "The dog barks in the garden.",
-        "choices": ["The dog barks in the garden.", "The cat sleeps on the bed.", "The bird flies away."]
+        "gloss": {
+          "en": "The dog barks in the garden.",
+          "es": "El perro ladra en el jardín.",
+          "ru": "Собака лает в саду."
+        }
       },
       {
         "id": "remote-animals-mean-3",
         "fr": "L’abeille fait du miel.",
         "en": "The bee makes honey.",
-        "choices": ["The bee makes honey.", "The cow gives milk.", "The lion roars."]
+        "gloss": {
+          "en": "The bee makes honey.",
+          "es": "La abeja produce miel.",
+          "ru": "Пчела производит мед."
+        }
       }
     ],
     "fren": [
-      { "id": "remote-animals-fren-1", "fr": "chat", "en": "cat" },
-      { "id": "remote-animals-fren-2", "fr": "chien", "en": "dog" },
-      { "id": "remote-animals-fren-3", "fr": "oiseau", "en": "bird" },
-      { "id": "remote-animals-fren-4", "fr": "vache", "en": "cow" },
-      { "id": "remote-animals-fren-5", "fr": "cheval", "en": "horse" },
-      { "id": "remote-animals-fren-6", "fr": "éléphant", "en": "elephant" }
+      {
+        "id": "remote-animals-fren-1",
+        "fr": "chat",
+        "en": "cat",
+        "gloss": {
+          "en": "cat",
+          "es": "gato",
+          "ru": "кот"
+        }
+      },
+      {
+        "id": "remote-animals-fren-2",
+        "fr": "chien",
+        "en": "dog",
+        "gloss": {
+          "en": "dog",
+          "es": "perro",
+          "ru": "собака"
+        }
+      },
+      {
+        "id": "remote-animals-fren-3",
+        "fr": "oiseau",
+        "en": "bird",
+        "gloss": {
+          "en": "bird",
+          "es": "pájaro",
+          "ru": "птица"
+        }
+      },
+      {
+        "id": "remote-animals-fren-4",
+        "fr": "vache",
+        "en": "cow",
+        "gloss": {
+          "en": "cow",
+          "es": "vaca",
+          "ru": "корова"
+        }
+      },
+      {
+        "id": "remote-animals-fren-5",
+        "fr": "cheval",
+        "en": "horse",
+        "gloss": {
+          "en": "horse",
+          "es": "caballo",
+          "ru": "лошадь"
+        }
+      },
+      {
+        "id": "remote-animals-fren-6",
+        "fr": "éléphant",
+        "en": "elephant",
+        "gloss": {
+          "en": "elephant",
+          "es": "elefante",
+          "ru": "слон"
+        }
+      }
     ],
     "aloud": [
       {
         "id": "remote-animals-aloud-1",
         "fr": "As-tu un animal de compagnie ?",
         "en": "Do you have a pet?",
-        "ipa": "a ty œ̃ a.ni.mal də kɔ̃.pa.ɲi"
+        "ipa": "a ty œ̃ a.ni.mal də kɔ̃.pa.ɲi",
+        "gloss": {
+          "en": "Do you have a pet?",
+          "es": "¿Tienes una mascota?",
+          "ru": "У вас есть домашнее животное?"
+        }
       },
       {
         "id": "remote-animals-aloud-2",
         "fr": "Mon chien aime jouer dans le parc.",
         "en": "My dog likes to play in the park.",
-        "ipa": "mɔ̃ ʃjɛ̃ ɛm ʒwe dɑ̃ lə paʁk"
+        "ipa": "mɔ̃ ʃjɛ̃ ɛm ʒwe dɑ̃ lə paʁk",
+        "gloss": {
+          "en": "My dog likes to play in the park.",
+          "es": "A mi perro le gusta jugar en el parque.",
+          "ru": "Моя собака любит играть в парке."
+        }
       },
       {
         "id": "remote-animals-aloud-3",
         "fr": "Un papillon vole dans le jardin.",
         "en": "A butterfly flies in the garden.",
-        "ipa": "œ̃ pa.pi.jɔ̃ vɔl dɑ̃ lə ʒaʁ.dɛ̃"
+        "ipa": "œ̃ pa.pi.jɔ̃ vɔl dɑ̃ lə ʒaʁ.dɛ̃",
+        "gloss": {
+          "en": "A butterfly flies in the garden.",
+          "es": "Una mariposa vuela en el jardín.",
+          "ru": "Бабочка летает в саду."
+        }
       }
     ],
     "unscramble": [
@@ -395,13 +770,35 @@
         "id": "remote-animals-unsc-1",
         "fr": "Le lapin mange une carotte.",
         "en": "The rabbit eats a carrot.",
-        "words": ["Le", "lapin", "mange", "une", "carotte."]
+        "words": [
+          "Le",
+          "lapin",
+          "mange",
+          "une",
+          "carotte."
+        ],
+        "gloss": {
+          "en": "The rabbit eats a carrot.",
+          "es": "El conejo come una zanahoria.",
+          "ru": "Кролик ест морковку."
+        }
       },
       {
         "id": "remote-animals-unsc-2",
         "fr": "Les oiseaux chantent le matin.",
         "en": "The birds sing in the morning.",
-        "words": ["Les", "oiseaux", "chantent", "le", "matin."]
+        "words": [
+          "Les",
+          "oiseaux",
+          "chantent",
+          "le",
+          "matin."
+        ],
+        "gloss": {
+          "en": "The birds sing in the morning.",
+          "es": "Los pájaros cantan por la mañana.",
+          "ru": "Птицы поют утром."
+        }
       }
     ]
   }

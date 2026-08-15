@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "rights-c2",
-  "version": 1,
+  "version": 2,
   "level": "c2",
   "title": {
     "fr": "Droits fondamentaux C2",
-    "en": "Fundamental rights C2"
+    "en": "Fundamental rights C2",
+    "es": "Derechos fundamentales C2",
+    "ru": "Основные права C2"
   },
   "description": {
     "fr": "Habeas corpus, proportionnalité et dignité pour lire la jurisprudence des libertés.",
-    "en": "Habeas corpus, proportionality, and dignity for reading the case law of liberties."
+    "en": "Habeas corpus, proportionality, and dignity for reading the case law of liberties.",
+    "es": "Habeas corpus, proporcionalidad y dignidad para la lectura de la jurisprudencia de libertades.",
+    "ru": "Хабеас корпус, соразмерность и достоинство при чтении прецедентного права в области свобод."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "habeas corpus",
       "example": "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
       "ipa": "a.be.as kɔʁ.pys",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "habeas corpus",
+        "es": "hábeas corpus",
+        "ru": "хабеас корпус"
+      }
     },
     {
       "id": "remote-rights-c2-2",
@@ -26,7 +35,12 @@
       "en": "proportionality",
       "example": "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
       "ipa": "pʁɔ.pɔʁ.sjɔ.na.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "proportionality",
+        "es": "proporcionalidad",
+        "ru": "пропорциональность"
+      }
     },
     {
       "id": "remote-rights-c2-3",
@@ -34,7 +48,12 @@
       "en": "dignity",
       "example": "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence.",
       "ipa": "di.ɲi.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "dignity",
+        "es": "dignidad",
+        "ru": "достоинство"
+      }
     },
     {
       "id": "remote-rights-c2-4",
@@ -42,7 +61,12 @@
       "en": "derogation",
       "example": "La dérogation, quand bien même elle serait motivée par le péril, demeure exceptionnelle et contrôlée.",
       "ipa": "de.ʁɔ.ɡa.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "derogation",
+        "es": "humillación",
+        "ru": "умаление"
+      }
     },
     {
       "id": "remote-rights-c2-5",
@@ -50,7 +74,12 @@
       "en": "case law / jurisprudence",
       "example": "La jurisprudence, loin d’être un commentaire, constitue le droit vivant des libertés.",
       "ipa": "ʒy.ʁis.pʁy.dɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "case law / jurisprudence",
+        "es": "jurisprudencia / jurisprudencia",
+        "ru": "прецедентное право / юриспруденция"
+      }
     },
     {
       "id": "remote-rights-c2-6",
@@ -58,7 +87,12 @@
       "en": "imprescriptibility",
       "example": "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique.",
       "ipa": "ɛ̃.pʁɛs.kʁip.ti.bi.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "imprescriptibility",
+        "es": "imprescriptibilidad",
+        "ru": "непринужденность"
+      }
     },
     {
       "id": "remote-rights-c2-7",
@@ -66,7 +100,12 @@
       "en": "inalienability",
       "example": "L’inaliénabilité interdit que le titulaire lui-même cède le droit qui le constitue en personne.",
       "ipa": "i.na.lje.na.bi.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "inalienability",
+        "es": "inalienabilidad",
+        "ru": "неотчуждаемость"
+      }
     },
     {
       "id": "remote-rights-c2-8",
@@ -74,7 +113,12 @@
       "en": "effectiveness",
       "example": "L’effectivité d’un droit se mesure à la voie de recours qui le rend saisissable, non à sa seule proclamation.",
       "ipa": "e.fɛk.ti.vi.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "effectiveness",
+        "es": "eficacia",
+        "ru": "эффективность"
+      }
     },
     {
       "id": "remote-rights-c2-9",
@@ -82,7 +126,12 @@
       "en": "justiciability",
       "example": "La justiciabilité décide si le grief peut être porté devant un juge, ou s’il reste lettre politique.",
       "ipa": "ʒys.ti.sja.bi.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "justiciability",
+        "es": "justiciabilidad",
+        "ru": "возможность судебной защиты"
+      }
     },
     {
       "id": "remote-rights-c2-10",
@@ -90,7 +139,12 @@
       "en": "conventionality",
       "example": "La conventionnalité d’une loi s’apprécie au regard des traités, non du seul bloc de constitutionnalité.",
       "ipa": "kɔ̃.vɑ̃.sjɔ.na.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "conventionality",
+        "es": "convencionalismo",
+        "ru": "условность"
+      }
     },
     {
       "id": "remote-rights-c2-11",
@@ -98,7 +152,12 @@
       "en": "standing / interest to sue",
       "example": "L’intérêt à agir, s’il est conçu trop étroitement, ferme le prétoire à ceux dont le droit est pourtant lésé.",
       "ipa": "ɛ̃.te.ʁɛ.t‿a a.ʒiʁ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "standing / interest to sue",
+        "es": "posición / interés para demandar",
+        "ru": "правоспособность / интерес подать в суд"
+      }
     },
     {
       "id": "remote-rights-c2-12",
@@ -106,7 +165,12 @@
       "en": "non-retroactivity",
       "example": "La non-rétroactivité de la loi pénale plus sévère protège celui qui ne pouvait prévoir la peine.",
       "ipa": "nɔ̃.ʁe.tʁɔ.ak.ti.vi.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "non-retroactivity",
+        "es": "irretroactividad",
+        "ru": "не имеющий обратной силы"
+      }
     },
     {
       "id": "remote-rights-c2-13",
@@ -114,7 +178,12 @@
       "en": "useful effect / effet utile",
       "example": "L’effet utile, canon d’interprétation, veut que la norme ne soit pas construite de façon à la vider de sa substance.",
       "ipa": "e.fɛ y.til",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "useful effect / effet utile",
+        "es": "efecto útil / efecto útil",
+        "ru": "полезный эффект / effet Utile"
+      }
     },
     {
       "id": "remote-rights-c2-14",
@@ -122,7 +191,12 @@
       "en": "enforceability against others",
       "example": "L’opposabilité décide contre qui le droit peut être invoqué, et à quelles conditions.",
       "ipa": "ɔ.po.za.bi.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "enforceability against others",
+        "es": "ejecutabilidad frente a otros",
+        "ru": "возможность принудительного исполнения в отношении других"
+      }
     },
     {
       "id": "remote-rights-c2-15",
@@ -130,7 +204,12 @@
       "en": "remedy / appeal",
       "example": "Le recours, s’il n’est ni accessible ni effectif, réduit la garantie à une formule.",
       "ipa": "ʁə.kuʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "remedy / appeal",
+        "es": "recurso / apelación",
+        "ru": "средство правовой защиты / апелляция"
+      }
     },
     {
       "id": "remote-rights-c2-16",
@@ -138,7 +217,12 @@
       "en": "constitutional exception",
       "example": "L’exception d’inconstitutionnalité permet, à l’occasion d’un litige, d’écarter la loi contraire à la norme supérieure.",
       "ipa": "ɛk.sɛp.sjɔ̃ dɛ̃.kɔ̃s.ti.ty.sjɔ.na.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "constitutional exception",
+        "es": "excepción constitucional",
+        "ru": "конституционное исключение"
+      }
     },
     {
       "id": "remote-rights-c2-17",
@@ -146,7 +230,12 @@
       "en": "erga omnes obligation",
       "example": "L’obligation erga omnes lie la communauté des États à l’égard de valeurs que nul ne saurait écarter par traité particulier.",
       "ipa": "ɔ.bli.ɡa.sjɔ̃ ɛʁ.ɡa ɔm.nɛs",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "erga omnes obligation",
+        "es": "obligación erga omnes",
+        "ru": "обязательство erga omnes"
+      }
     },
     {
       "id": "remote-rights-c2-18",
@@ -154,7 +243,12 @@
       "en": "settled case law / acquis",
       "example": "L’acquis jurisprudentiel, une fois consolidé, oriente les espèces nouvelles sans les lier comme un code.",
       "ipa": "a.ki",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "settled case law / acquis",
+        "es": "jurisprudencia consolidada/acervo",
+        "ru": "устоявшееся прецедентное право/acquis"
+      }
     },
     {
       "id": "remote-rights-c2-19",
@@ -162,7 +256,12 @@
       "en": "reservation (treaty)",
       "example": "La réserve, si elle atteint l’objet même du traité, n’en est plus une : elle en est la négation.",
       "ipa": "ʁe.zɛʁv",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "reservation (treaty)",
+        "es": "reserva (tratado)",
+        "ru": "оговорка (договор)"
+      }
     },
     {
       "id": "remote-rights-c2-20",
@@ -170,7 +269,12 @@
       "en": "conventionality review",
       "example": "Le contrôle de conventionnalité, diffus ou concentré, confronte la loi interne aux engagements internationaux.",
       "ipa": "kɔ̃.tʁol də kɔ̃.vɑ̃.sjɔ.na.li.te",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "conventionality review",
+        "es": "revisión de convencionalidad",
+        "ru": "обзор условности"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-rights-phrase-1",
       "fr": "Quand bien même la dérogation serait motivée par l’urgence, elle ne saurait abolir le principe de dignité.",
       "en": "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
-      "ipa": "kɑ̃ bjɛ̃ mɛm la de.ʁɔ.ɡa.sjɔ̃ sə.ʁɛ mɔ.ti.ve paʁ lyʁ.ʒɑ̃s ɛl nə sɔ.ʁɛ a.bɔ.liʁ lə pʁɛ̃.sip də di.ɲi.te"
+      "ipa": "kɑ̃ bjɛ̃ mɛm la de.ʁɔ.ɡa.sjɔ̃ sə.ʁɛ mɔ.ti.ve paʁ lyʁ.ʒɑ̃s ɛl nə sɔ.ʁɛ a.bɔ.liʁ lə pʁɛ̃.sip də di.ɲi.te",
+      "gloss": {
+        "en": "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
+        "es": "Incluso si la suspensión estuviera motivada por una emergencia, no podría abolir el principio de dignidad.",
+        "ru": "Даже если отступление было мотивировано крайней необходимостью, оно не могло отменить принцип достоинства."
+      }
     },
     {
       "id": "remote-rights-phrase-2",
       "fr": "La proportionnalité exige que la mesure n’excède pas ce qui est strictement nécessaire.",
       "en": "Proportionality requires that the measure not exceed what is strictly necessary.",
-      "ipa": "la pʁɔ.pɔʁ.sjɔ.na.li.te ɛɡ.ziʒ kə la mə.zyʁ nɛk.sɛd pa sə ki ɛ strik.tə.mɑ̃ ne.sɛ.sɛʁ"
+      "ipa": "la pʁɔ.pɔʁ.sjɔ.na.li.te ɛɡ.ziʒ kə la mə.zyʁ nɛk.sɛd pa sə ki ɛ strik.tə.mɑ̃ ne.sɛ.sɛʁ",
+      "gloss": {
+        "en": "Proportionality requires that the measure not exceed what is strictly necessary.",
+        "es": "La proporcionalidad exige que la medida no supere lo estrictamente necesario.",
+        "ru": "Пропорциональность требует, чтобы мера не превышала строго необходимую."
+      }
     },
     {
       "id": "remote-rights-phrase-3",
       "fr": "L’habeas corpus enjoint de produire le corps du détenu devant le juge, à moins que la loi ne l’écarte dans d’étroites limites.",
       "en": "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits.",
-      "ipa": "la.be.as kɔʁ.pys ɑ̃.ʒwɛ̃ də pʁɔ.dɥiʁ lə kɔʁ dy de.tə.ny də.vɑ̃ lə ʒyʒ"
+      "ipa": "la.be.as kɔʁ.pys ɑ̃.ʒwɛ̃ də pʁɔ.dɥiʁ lə kɔʁ dy de.tə.ny də.vɑ̃ lə ʒyʒ",
+      "gloss": {
+        "en": "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits.",
+        "es": "El habeas corpus ordena que el cuerpo del detenido sea presentado ante el juez, salvo que la ley lo aparte dentro de límites estrechos.",
+        "ru": "Хабеас корпус предписывает, чтобы тело задержанного было представлено судье, если только закон не устанавливает для этого узкие рамки."
+      }
     },
     {
       "id": "remote-rights-phrase-4",
       "fr": "Encore que la jurisprudence fût constante, l’espèce nouvelle en éprouva l’acquis.",
       "en": "Even though the case law was settled, the new case put the acquis to the test.",
-      "ipa": "ɑ̃.kɔʁ kə la ʒy.ʁis.pʁy.dɑ̃s fy kɔ̃s.tɑ̃t lɛs.pɛs nu.vɛl ɑ̃ ne.pʁu.va la.ki"
+      "ipa": "ɑ̃.kɔʁ kə la ʒy.ʁis.pʁy.dɑ̃s fy kɔ̃s.tɑ̃t lɛs.pɛs nu.vɛl ɑ̃ ne.pʁu.va la.ki",
+      "gloss": {
+        "en": "Even though the case law was settled, the new case put the acquis to the test.",
+        "es": "Aunque la jurisprudencia ya estaba establecida, el nuevo caso puso a prueba el acervo.",
+        "ru": "Несмотря на то, что прецедентное право было урегулировано, новое дело подвергло испытанию acquis."
+      }
     },
     {
       "id": "remote-rights-phrase-5",
       "fr": "Pourvu que le recours soit effectif, l’effectivité du droit cesse d’être une clause de style.",
       "en": "Provided the remedy is effective, the effectiveness of the right ceases to be a stylistic clause.",
-      "ipa": "puʁ.vy kə lə ʁə.kuʁ swa e.fɛk.tif le.fɛk.ti.vi.te dy dʁwa sɛs dɛtʁ yn kloz də stil"
+      "ipa": "puʁ.vy kə lə ʁə.kuʁ swa e.fɛk.tif le.fɛk.ti.vi.te dy dʁwa sɛs dɛtʁ yn kloz də stil",
+      "gloss": {
+        "en": "Provided the remedy is effective, the effectiveness of the right ceases to be a stylistic clause.",
+        "es": "Siempre que el recurso sea eficaz, la eficacia del derecho deja de ser una cláusula estilística.",
+        "ru": "При условии, что средство правовой защиты эффективно, эффективность права перестает быть стилистической оговоркой."
+      }
     },
     {
       "id": "remote-rights-phrase-6",
       "fr": "Nul ne saurait, par une réserve trop ample, vider le traité de son objet.",
       "en": "No one may, by an overly broad reservation, empty the treaty of its object.",
-      "ipa": "nyl nə sɔ.ʁɛ paʁ yn ʁe.zɛʁv tʁo ɑ̃pl vi.de lə tʁə.te də sɔ̃ nɔb.ʒɛ"
+      "ipa": "nyl nə sɔ.ʁɛ paʁ yn ʁe.zɛʁv tʁo ɑ̃pl vi.de lə tʁə.te də sɔ̃ nɔb.ʒɛ",
+      "gloss": {
+        "en": "No one may, by an overly broad reservation, empty the treaty of its object.",
+        "es": "Nadie puede, mediante una reserva demasiado amplia, vaciar el tratado de su objeto.",
+        "ru": "Никто не может посредством слишком широкой оговорки лишать договор его объекта."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "recours",
         "dérogation",
         "réserve"
-      ]
+      ],
+      "gloss": {
+        "en": "Habeas corpus orders that the detainee’s body be produced before the judge.",
+        "es": "El hábeas corpus ordena que el cuerpo del detenido sea presentado ante el juez.",
+        "ru": "Хабеас корпус предписывает предъявить тело задержанного судье."
+      },
+      "wordGloss": {
+        "en": "habeas corpus",
+        "es": "hábeas corpus",
+        "ru": "хабеас корпус"
+      }
     },
     {
       "id": "remote-rights-listen-2",
@@ -236,7 +380,17 @@
         "effectivité",
         "justiciabilité",
         "opposabilité"
-      ]
+      ],
+      "gloss": {
+        "en": "Proportionality requires that the measure not exceed what is necessary.",
+        "es": "La proporcionalidad requiere que la medida no exceda de lo necesario.",
+        "ru": "Пропорциональность требует, чтобы мера не превышала необходимую."
+      },
+      "wordGloss": {
+        "en": "proportionality",
+        "es": "proporcionalidad",
+        "ru": "пропорциональность"
+      }
     },
     {
       "id": "remote-rights-listen-3",
@@ -249,7 +403,17 @@
         "inaliénabilité",
         "imprescriptibilité",
         "conventionnalité"
-      ]
+      ],
+      "gloss": {
+        "en": "Dignity, a non-derogable principle, withstands emergency clauses.",
+        "es": "La dignidad, principio inderogable, resiste las cláusulas de emergencia.",
+        "ru": "Достоинство, не допускающий отступлений принцип, выдерживает положения о чрезвычайном положении."
+      },
+      "wordGloss": {
+        "en": "dignity",
+        "es": "dignidad",
+        "ru": "достоинство"
+      }
     },
     {
       "id": "remote-rights-listen-4",
@@ -262,7 +426,17 @@
         "acquis",
         "effet utile",
         "contrôle de conventionnalité"
-      ]
+      ],
+      "gloss": {
+        "en": "Case law constitutes the living law of liberties.",
+        "es": "La jurisprudencia constituye la ley viva de las libertades.",
+        "ru": "Прецедентное право представляет собой живой закон свобод."
+      },
+      "wordGloss": {
+        "en": "case law",
+        "es": "jurisprudencia",
+        "ru": "прецедентное право"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-rights-grammar-1",
       "title": {
         "fr": "Le subjonctif du droit",
-        "en": "The legal subjunctive"
+        "en": "The legal subjunctive",
+        "es": "El subjuntivo legal",
+        "ru": "Юридическое сослагательное наклонение"
       },
-      "rule": "Pourvu que, à condition que, à moins que (souvent avec ne explétif), qui que, quelque… que régissent le subjonctif : Pourvu que le recours soit effectif ; à moins que la loi ne l’écarte. Le conditionnel (ne saurait) marque l’impossibilité normative, non l’hypothèse.",
+      "rule": {
+        "fr": "Pourvu que, à condition que, à moins que (souvent avec ne explétif), qui que, quelque… que régissent le subjonctif : Pourvu que le recours soit effectif ; à moins que la loi ne l’écarte. Le conditionnel (ne saurait) marque l’impossibilité normative, non l’hypothèse.",
+        "en": "Provided that, provided that, unless (often with expletive ne), whoever, whatever... that govern the subjunctive: Provided that the recourse is effective; unless the law excludes it. The conditional (could not) marks the normative impossibility, not the hypothesis.",
+        "es": "Siempre que, siempre que, a menos (a menudo con palabrota ne), quienquiera, lo que sea... que gobierne el subjuntivo: Siempre que el recurso sea efectivo; salvo que la ley lo excluya. El condicional (no podría) marca la imposibilidad normativa, no la hipótesis.",
+        "ru": "При условии, что, если только (часто с ругательством ne), кто бы то ни было... которые управляют сослагательным наклонением: При условии, что обращение за помощью является эффективным; если закон не исключает этого. Условное выражение (не могло) обозначает нормативную невозможность, а не гипотезу."
+      },
       "table": [
         [
           "Tour",
@@ -337,15 +518,27 @@
             "doit"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: The legal subjunctive.",
+        "es": "Útil cuando necesitas aplicar: El subjuntivo legal.",
+        "ru": "Полезно, когда вам нужно применить: Юридическое сослагательное наклонение."
+      }
     },
     {
       "id": "remote-rights-grammar-2",
       "title": {
         "fr": "La nominalisation juridique",
-        "en": "Legal nominalization"
+        "en": "Legal nominalization",
+        "es": "Nominalización legal",
+        "ru": "Юридическая номинализация"
       },
-      "rule": "Le style juridictionnel condense : être justiciable → la justiciabilité ; déroger → la dérogation ; opposer un droit → l’opposabilité. Cette densité, propre au « considérant que », demande des relatives pour rester lisible.",
+      "rule": {
+        "fr": "Le style juridictionnel condense : être justiciable → la justiciabilité ; déroger → la dérogation ; opposer un droit → l’opposabilité. Cette densité, propre au « considérant que », demande des relatives pour rester lisible.",
+        "en": "The jurisdictional style condenses: being justiciable → justiciability; derogate → the derogation; oppose a right → opposability. This density, specific to the “considering that”, requires relative elements to remain readable.",
+        "es": "El estilo jurisdiccional se condensa: ser justiciable → justiciabilidad; derogar → la derogación; oponerse a un derecho → oponibilidad. Esta densidad, propia del “considerar eso”, requiere elementos relativos para seguir siendo legibles.",
+        "ru": "Юрисдикционный стиль сводится к следующему: возможность судебного разбирательства → возможность судебного разбирательства; умалять → отступление; противостоять праву → противопоставление. Эта плотность, характерная для «учитывая это», требует, чтобы относительные элементы оставались читаемыми."
+      },
       "table": [
         [
           "Procès",
@@ -394,7 +587,12 @@
             "la justice"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Legal nominalization.",
+        "es": "Útil cuando necesitas aplicar: Nominalización legal.",
+        "ru": "Полезно, когда вам нужно подать заявку: Юридическая номинализация."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-rights-dict-1",
         "fr": "Quand bien même la dérogation serait motivée par l’urgence, elle ne saurait abolir le principe de dignité.",
         "en": "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
-        "ipa": "kɑ̃ bjɛ̃ mɛm la de.ʁɔ.ɡa.sjɔ̃ sə.ʁɛ mɔ.ti.ve paʁ lyʁ.ʒɑ̃s ɛl nə sɔ.ʁɛ a.bɔ.liʁ lə pʁɛ̃.sip də di.ɲi.te"
+        "ipa": "kɑ̃ bjɛ̃ mɛm la de.ʁɔ.ɡa.sjɔ̃ sə.ʁɛ mɔ.ti.ve paʁ lyʁ.ʒɑ̃s ɛl nə sɔ.ʁɛ a.bɔ.liʁ lə pʁɛ̃.sip də di.ɲi.te",
+        "gloss": {
+          "en": "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
+          "es": "Incluso si la suspensión estuviera motivada por una emergencia, no podría abolir el principio de dignidad.",
+          "ru": "Даже если отступление было мотивировано крайней необходимостью, оно не могло отменить принцип достоинства."
+        }
       },
       {
         "id": "remote-rights-dict-2",
         "fr": "La proportionnalité exige que la mesure n’excède pas ce qui est strictement nécessaire.",
         "en": "Proportionality requires that the measure not exceed what is strictly necessary.",
-        "ipa": "la pʁɔ.pɔʁ.sjɔ.na.li.te ɛɡ.ziʒ kə la mə.zyʁ nɛk.sɛd pa sə ki ɛ strik.tə.mɑ̃ ne.sɛ.sɛʁ"
+        "ipa": "la pʁɔ.pɔʁ.sjɔ.na.li.te ɛɡ.ziʒ kə la mə.zyʁ nɛk.sɛd pa sə ki ɛ strik.tə.mɑ̃ ne.sɛ.sɛʁ",
+        "gloss": {
+          "en": "Proportionality requires that the measure not exceed what is strictly necessary.",
+          "es": "La proporcionalidad exige que la medida no supere lo estrictamente necesario.",
+          "ru": "Пропорциональность требует, чтобы мера не превышала строго необходимую."
+        }
       },
       {
         "id": "remote-rights-dict-3",
         "fr": "L’habeas corpus enjoint de produire le corps du détenu devant le juge, à moins que la loi ne l’écarte dans d’étroites limites.",
         "en": "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits.",
-        "ipa": "la.be.as kɔʁ.pys ɑ̃.ʒwɛ̃ də pʁɔ.dɥiʁ lə kɔʁ dy de.tə.ny də.vɑ̃ lə ʒyʒ"
+        "ipa": "la.be.as kɔʁ.pys ɑ̃.ʒwɛ̃ də pʁɔ.dɥiʁ lə kɔʁ dy de.tə.ny də.vɑ̃ lə ʒyʒ",
+        "gloss": {
+          "en": "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits.",
+          "es": "El habeas corpus ordena que el cuerpo del detenido sea presentado ante el juez, salvo que la ley lo aparte dentro de límites estrechos.",
+          "ru": "Хабеас корпус предписывает, чтобы тело задержанного было представлено судье, если только закон не устанавливает для этого узкие рамки."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-rights-mean-1",
         "fr": "Quand bien même la dérogation serait motivée par l’urgence, elle ne saurait abolir le principe de dignité.",
         "en": "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
-        "choices": [
-          "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
-          "Proportionality requires that the measure not exceed what is strictly necessary.",
-          "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits."
-        ]
+        "gloss": {
+          "en": "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
+          "es": "Incluso si la suspensión estuviera motivada por una emergencia, no podría abolir el principio de dignidad.",
+          "ru": "Даже если отступление было мотивировано крайней необходимостью, оно не могло отменить принцип достоинства."
+        }
       },
       {
         "id": "remote-rights-mean-2",
         "fr": "La proportionnalité exige que la mesure n’excède pas ce qui est strictement nécessaire.",
         "en": "Proportionality requires that the measure not exceed what is strictly necessary.",
-        "choices": [
-          "Proportionality requires that the measure not exceed what is strictly necessary.",
-          "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
-          "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits."
-        ]
+        "gloss": {
+          "en": "Proportionality requires that the measure not exceed what is strictly necessary.",
+          "es": "La proporcionalidad exige que la medida no supere lo estrictamente necesario.",
+          "ru": "Пропорциональность требует, чтобы мера не превышала строго необходимую."
+        }
       },
       {
         "id": "remote-rights-mean-3",
         "fr": "L’habeas corpus enjoint de produire le corps du détenu devant le juge, à moins que la loi ne l’écarte dans d’étroites limites.",
         "en": "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits.",
-        "choices": [
-          "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits.",
-          "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
-          "Proportionality requires that the measure not exceed what is strictly necessary."
-        ]
+        "gloss": {
+          "en": "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits.",
+          "es": "El habeas corpus ordena que el cuerpo del detenido sea presentado ante el juez, salvo que la ley lo aparte dentro de límites estrechos.",
+          "ru": "Хабеас корпус предписывает, чтобы тело задержанного было представлено судье, если только закон не устанавливает для этого узкие рамки."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-rights-fren-1",
         "fr": "habeas corpus",
-        "en": "habeas corpus"
+        "en": "habeas corpus",
+        "gloss": {
+          "en": "habeas corpus",
+          "es": "hábeas corpus",
+          "ru": "хабеас корпус"
+        }
       },
       {
         "id": "remote-rights-fren-2",
         "fr": "proportionnalité",
-        "en": "proportionality"
+        "en": "proportionality",
+        "gloss": {
+          "en": "proportionality",
+          "es": "proporcionalidad",
+          "ru": "пропорциональность"
+        }
       },
       {
         "id": "remote-rights-fren-3",
         "fr": "dignité",
-        "en": "dignity"
+        "en": "dignity",
+        "gloss": {
+          "en": "dignity",
+          "es": "dignidad",
+          "ru": "достоинство"
+        }
       },
       {
         "id": "remote-rights-fren-4",
         "fr": "dérogation",
-        "en": "derogation"
+        "en": "derogation",
+        "gloss": {
+          "en": "derogation",
+          "es": "humillación",
+          "ru": "умаление"
+        }
       },
       {
         "id": "remote-rights-fren-5",
         "fr": "jurisprudence",
-        "en": "case law"
+        "en": "case law",
+        "gloss": {
+          "en": "case law",
+          "es": "jurisprudencia",
+          "ru": "прецедентное право"
+        }
       },
       {
         "id": "remote-rights-fren-6",
         "fr": "imprescriptibilité",
-        "en": "imprescriptibility"
+        "en": "imprescriptibility",
+        "gloss": {
+          "en": "imprescriptibility",
+          "es": "imprescriptibilidad",
+          "ru": "непринужденность"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-rights-aloud-1",
         "fr": "Quand bien même la dérogation serait motivée par l’urgence, elle ne saurait abolir le principe de dignité.",
         "en": "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
-        "ipa": "kɑ̃ bjɛ̃ mɛm la de.ʁɔ.ɡa.sjɔ̃ sə.ʁɛ mɔ.ti.ve paʁ lyʁ.ʒɑ̃s ɛl nə sɔ.ʁɛ a.bɔ.liʁ lə pʁɛ̃.sip də di.ɲi.te"
+        "ipa": "kɑ̃ bjɛ̃ mɛm la de.ʁɔ.ɡa.sjɔ̃ sə.ʁɛ mɔ.ti.ve paʁ lyʁ.ʒɑ̃s ɛl nə sɔ.ʁɛ a.bɔ.liʁ lə pʁɛ̃.sip də di.ɲi.te",
+        "gloss": {
+          "en": "Even if the derogation were motivated by emergency, it could not abolish the principle of dignity.",
+          "es": "Incluso si la suspensión estuviera motivada por una emergencia, no podría abolir el principio de dignidad.",
+          "ru": "Даже если отступление было мотивировано крайней необходимостью, оно не могло отменить принцип достоинства."
+        }
       },
       {
         "id": "remote-rights-aloud-2",
         "fr": "L’habeas corpus enjoint de produire le corps du détenu devant le juge, à moins que la loi ne l’écarte dans d’étroites limites.",
         "en": "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits.",
-        "ipa": "la.be.as kɔʁ.pys ɑ̃.ʒwɛ̃ də pʁɔ.dɥiʁ lə kɔʁ dy de.tə.ny də.vɑ̃ lə ʒyʒ"
+        "ipa": "la.be.as kɔʁ.pys ɑ̃.ʒwɛ̃ də pʁɔ.dɥiʁ lə kɔʁ dy de.tə.ny də.vɑ̃ lə ʒyʒ",
+        "gloss": {
+          "en": "Habeas corpus orders that the detainee’s body be produced before the judge, unless the law sets it aside within narrow limits.",
+          "es": "El habeas corpus ordena que el cuerpo del detenido sea presentado ante el juez, salvo que la ley lo aparte dentro de límites estrechos.",
+          "ru": "Хабеас корпус предписывает, чтобы тело задержанного было представлено судье, если только закон не устанавливает для этого узкие рамки."
+        }
       },
       {
         "id": "remote-rights-aloud-3",
         "fr": "Pourvu que le recours soit effectif, l’effectivité du droit cesse d’être une clause de style.",
         "en": "Provided the remedy is effective, the effectiveness of the right ceases to be a stylistic clause.",
-        "ipa": "puʁ.vy kə lə ʁə.kuʁ swa e.fɛk.tif le.fɛk.ti.vi.te dy dʁwa sɛs dɛtʁ yn kloz də stil"
+        "ipa": "puʁ.vy kə lə ʁə.kuʁ swa e.fɛk.tif le.fɛk.ti.vi.te dy dʁwa sɛs dɛtʁ yn kloz də stil",
+        "gloss": {
+          "en": "Provided the remedy is effective, the effectiveness of the right ceases to be a stylistic clause.",
+          "es": "Siempre que el recurso sea eficaz, la eficacia del derecho deja de ser una cláusula estilística.",
+          "ru": "При условии, что средство правовой защиты эффективно, эффективность права перестает быть стилистической оговоркой."
+        }
       }
     ],
     "unscramble": [
@@ -520,7 +778,12 @@
           "vivant",
           "des",
           "libertés."
-        ]
+        ],
+        "gloss": {
+          "en": "Case law, far from being a commentary, constitutes the living law of liberties.",
+          "es": "La jurisprudencia, lejos de ser un comentario, constituye la ley viva de las libertades.",
+          "ru": "Прецедентное право, вовсе не являясь комментарием, представляет собой живой закон свобод."
+        }
       },
       {
         "id": "remote-rights-unsc-2",
@@ -538,7 +801,12 @@
           "éteint",
           "l’action",
           "publique."
-        ]
+        ],
+        "gloss": {
+          "en": "Imprescriptibility withdraws certain crimes from the time that ordinarily extinguishes public prosecution.",
+          "es": "La imprescriptibilidad sustrae ciertos delitos del tiempo que ordinariamente extingue la persecución pública.",
+          "ru": "Неотвратимость выводит некоторые преступления из того времени, которое обычно отменяет государственное обвинение."
+        }
       }
     ]
   }

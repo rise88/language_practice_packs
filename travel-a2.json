@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "travel-a2",
-  "version": 3,
+  "version": 4,
   "level": "a2",
   "title": {
     "fr": "Voyage A2",
-    "en": "Travel A2"
+    "en": "Travel A2",
+    "es": "Viaje A2",
+    "ru": "Путешествие А2"
   },
   "description": {
     "fr": "Train, hôtel, aéroport et ville pour voyager en confiance.",
-    "en": "Train, hotel, airport, and town vocabulary for confident travel."
+    "en": "Train, hotel, airport, and town vocabulary for confident travel.",
+    "es": "Vocabulario de trenes, hoteles, aeropuertos y ciudades para viajar con confianza.",
+    "ru": "Словарный запас поездов, отелей, аэропортов и городов для уверенного путешествия."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "ticket",
       "example": "J’ai acheté un billet de train pour Lyon.",
       "ipa": "bi.jɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "ticket",
+        "es": "boleto",
+        "ru": "билет"
+      }
     },
     {
       "id": "remote-travel-a2-2",
@@ -26,7 +35,12 @@
       "en": "train station",
       "example": "La gare est à dix minutes à pied.",
       "ipa": "ɡaʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "train station",
+        "es": "estación de tren",
+        "ru": "железнодорожная станция"
+      }
     },
     {
       "id": "remote-travel-a2-3",
@@ -34,7 +48,12 @@
       "en": "hotel",
       "example": "Nous dormons dans un hôtel près du centre.",
       "ipa": "o.tɛl",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "hotel",
+        "es": "hotel",
+        "ru": "отель"
+      }
     },
     {
       "id": "remote-travel-a2-4",
@@ -42,7 +61,12 @@
       "en": "reservation / booking",
       "example": "J’ai une réservation au nom de Martin.",
       "ipa": "ʁe.zɛʁ.va.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "reservation / booking",
+        "es": "reserva / reserva",
+        "ru": "бронирование / бронирование"
+      }
     },
     {
       "id": "remote-travel-a2-5",
@@ -50,7 +74,12 @@
       "en": "map",
       "example": "Tu as un plan de la ville ?",
       "ipa": "plɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "map",
+        "es": "mapa",
+        "ru": "карта"
+      }
     },
     {
       "id": "remote-travel-a2-6",
@@ -58,7 +87,12 @@
       "en": "suitcase",
       "example": "Ma valise est trop lourde.",
       "ipa": "va.liz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "suitcase",
+        "es": "maleta",
+        "ru": "чемодан"
+      }
     },
     {
       "id": "remote-travel-a2-7",
@@ -66,7 +100,12 @@
       "en": "passport",
       "example": "N’oublie pas ton passeport à l’aéroport.",
       "ipa": "pas.pɔʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "passport",
+        "es": "pasaporte",
+        "ru": "паспорт"
+      }
     },
     {
       "id": "remote-travel-a2-8",
@@ -74,7 +113,12 @@
       "en": "connection (transport)",
       "example": "Il y a une correspondance à Paris.",
       "ipa": "kɔ.ʁɛs.pɔ̃.dɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "connection (transport)",
+        "es": "conexión (transporte)",
+        "ru": "связь (транспорт)"
+      }
     },
     {
       "id": "remote-travel-a2-9",
@@ -82,7 +126,12 @@
       "en": "airport",
       "example": "L’aéroport est loin du centre-ville.",
       "ipa": "a.e.ʁɔ.pɔʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "airport",
+        "es": "aeropuerto",
+        "ru": "аэропорт"
+      }
     },
     {
       "id": "remote-travel-a2-10",
@@ -90,7 +139,12 @@
       "en": "flight",
       "example": "Mon vol part à huit heures.",
       "ipa": "vɔl",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "flight",
+        "es": "vuelo",
+        "ru": "полет"
+      }
     },
     {
       "id": "remote-travel-a2-11",
@@ -98,7 +152,12 @@
       "en": "platform",
       "example": "Le train part du quai numéro trois.",
       "ipa": "kɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "platform",
+        "es": "plataforma",
+        "ru": "платформа"
+      }
     },
     {
       "id": "remote-travel-a2-12",
@@ -106,7 +165,12 @@
       "en": "delay",
       "example": "Le train a vingt minutes de retard.",
       "ipa": "ʁə.taʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "delay",
+        "es": "demora",
+        "ru": "задерживать"
+      }
     },
     {
       "id": "remote-travel-a2-13",
@@ -114,7 +178,12 @@
       "en": "room",
       "example": "Nous avons réservé une chambre double.",
       "ipa": "ʃɑ̃bʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "room",
+        "es": "habitación",
+        "ru": "комната"
+      }
     },
     {
       "id": "remote-travel-a2-14",
@@ -122,7 +191,12 @@
       "en": "key",
       "example": "Voici la clé de votre chambre.",
       "ipa": "kle",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "key",
+        "es": "llave",
+        "ru": "ключ"
+      }
     },
     {
       "id": "remote-travel-a2-15",
@@ -130,7 +204,12 @@
       "en": "luggage / baggage",
       "example": "Où est le contrôle des bagages ?",
       "ipa": "ba.ɡaʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "luggage / baggage",
+        "es": "equipaje / equipaje",
+        "ru": "багаж / багаж"
+      }
     },
     {
       "id": "remote-travel-a2-16",
@@ -138,7 +217,12 @@
       "en": "itinerary / route",
       "example": "Pouvez-vous me donner un itinéraire ?",
       "ipa": "i.ti.ne.ʁɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "itinerary / route",
+        "es": "itinerario / ruta",
+        "ru": "маршрут / маршрут"
+      }
     },
     {
       "id": "remote-travel-a2-17",
@@ -146,7 +230,12 @@
       "en": "tourist",
       "example": "Beaucoup de touristes visitent la vieille ville.",
       "ipa": "tu.ʁist",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "tourist",
+        "es": "turístico",
+        "ru": "турист"
+      }
     },
     {
       "id": "remote-travel-a2-18",
@@ -154,7 +243,12 @@
       "en": "subway / metro",
       "example": "Prenez le métro jusqu’à la place centrale.",
       "ipa": "me.tʁo",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "subway / metro",
+        "es": "metro / metro",
+        "ru": "метро / метро"
+      }
     },
     {
       "id": "remote-travel-a2-19",
@@ -162,7 +256,12 @@
       "en": "taxi",
       "example": "Appelez un taxi pour l’aéroport.",
       "ipa": "tak.si",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "taxi",
+        "es": "Taxi",
+        "ru": "такси"
+      }
     },
     {
       "id": "remote-travel-a2-20",
@@ -170,7 +269,12 @@
       "en": "border",
       "example": "Nous passons la frontière demain matin.",
       "ipa": "fʁɔ̃.tjɛʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "border",
+        "es": "borde",
+        "ru": "граница"
+      }
     },
     {
       "id": "remote-travel-a2-21",
@@ -178,7 +282,12 @@
       "en": "ticket window / counter",
       "example": "Achetez votre billet au guichet.",
       "ipa": "ɡi.ʃɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "ticket window / counter",
+        "es": "taquilla/mostrador",
+        "ru": "билетная касса/стойка"
+      }
     },
     {
       "id": "remote-travel-a2-22",
@@ -186,7 +295,12 @@
       "en": "boarding",
       "example": "L’embarquement commence à dix heures.",
       "ipa": "ɑ̃.baʁ.kə.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "boarding",
+        "es": "embarque",
+        "ru": "посадка"
+      }
     }
   ],
   "phrases": [
@@ -194,37 +308,67 @@
       "id": "remote-travel-phrase-1",
       "fr": "Où est la gare, s’il vous plaît ?",
       "en": "Where is the station, please?",
-      "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+      "ipa": "u ɛ la ɡaʁ sil vu plɛ",
+      "gloss": {
+        "en": "Where is the station, please?",
+        "es": "¿Dónde está la estación, por favor?",
+        "ru": "Подскажите, пожалуйста, где станция?"
+      }
     },
     {
       "id": "remote-travel-phrase-2",
       "fr": "Je voudrais un billet pour demain matin.",
       "en": "I’d like a ticket for tomorrow morning.",
-      "ipa": "ʒə vu.dʁɛ œ̃ bi.jɛ puʁ də.mɛ̃ ma.tɛ̃"
+      "ipa": "ʒə vu.dʁɛ œ̃ bi.jɛ puʁ də.mɛ̃ ma.tɛ̃",
+      "gloss": {
+        "en": "I’d like a ticket for tomorrow morning.",
+        "es": "Me gustaría un boleto para mañana por la mañana.",
+        "ru": "Мне нужен билет на завтрашнее утро."
+      }
     },
     {
       "id": "remote-travel-phrase-3",
       "fr": "Y a-t-il une chambre libre pour ce soir ?",
       "en": "Is there a room available for tonight?",
-      "ipa": "i a til yn ʃɑ̃bʁ libʁ puʁ sə swaʁ"
+      "ipa": "i a til yn ʃɑ̃bʁ libʁ puʁ sə swaʁ",
+      "gloss": {
+        "en": "Is there a room available for tonight?",
+        "es": "¿Hay una habitación disponible para esta noche?",
+        "ru": "Есть ли свободная комната на сегодняшний вечер?"
+      }
     },
     {
       "id": "remote-travel-phrase-4",
       "fr": "À quelle heure part le prochain train ?",
       "en": "What time does the next train leave?",
-      "ipa": "a kɛl œʁ paʁ lə pʁɔ.ʃɛ̃ tʁɛ̃"
+      "ipa": "a kɛl œʁ paʁ lə pʁɔ.ʃɛ̃ tʁɛ̃",
+      "gloss": {
+        "en": "What time does the next train leave?",
+        "es": "¿A qué hora sale el próximo tren?",
+        "ru": "Во сколько отправляется следующий поезд?"
+      }
     },
     {
       "id": "remote-travel-phrase-5",
       "fr": "Combien coûte un taxi jusqu’à l’hôtel ?",
       "en": "How much is a taxi to the hotel?",
-      "ipa": "kɔ̃.bjɛ̃ kut œ̃ tak.si ʒys.ka lo.tɛl"
+      "ipa": "kɔ̃.bjɛ̃ kut œ̃ tak.si ʒys.ka lo.tɛl",
+      "gloss": {
+        "en": "How much is a taxi to the hotel?",
+        "es": "¿Cuánto cuesta un taxi hasta el hotel?",
+        "ru": "Сколько стоит такси до отеля?"
+      }
     },
     {
       "id": "remote-travel-phrase-6",
       "fr": "J’ai une réservation au nom de Martin.",
       "en": "I have a reservation under the name Martin.",
-      "ipa": "ʒe yn ʁe.zɛʁ.va.sjɔ̃ o nɔ̃ də maʁ.tɛ̃"
+      "ipa": "ʒe yn ʁe.zɛʁ.va.sjɔ̃ o nɔ̃ də maʁ.tɛ̃",
+      "gloss": {
+        "en": "I have a reservation under the name Martin.",
+        "es": "Tengo una reserva a nombre de Martin.",
+        "ru": "У меня есть бронь на имя Мартин."
+      }
     }
   ],
   "listen": [
@@ -239,7 +383,17 @@
         "passeport",
         "hôtel",
         "plan"
-      ]
+      ],
+      "gloss": {
+        "en": "I bought a train ticket at the station this morning.",
+        "es": "Esta mañana compré un billete de tren en la estación.",
+        "ru": "Сегодня утром я купил билет на поезд на вокзале."
+      },
+      "wordGloss": {
+        "en": "ticket",
+        "es": "boleto",
+        "ru": "билет"
+      }
     },
     {
       "id": "remote-travel-listen-2",
@@ -252,7 +406,17 @@
         "vol",
         "quai",
         "bagage"
-      ]
+      ],
+      "gloss": {
+        "en": "The flight is delayed; wait at the boarding gate.",
+        "es": "El vuelo está retrasado; espera en la puerta de embarque.",
+        "ru": "Рейс задерживается; жди у выхода на посадку."
+      },
+      "wordGloss": {
+        "en": "delay",
+        "es": "demora",
+        "ru": "задерживать"
+      }
     },
     {
       "id": "remote-travel-listen-3",
@@ -265,7 +429,17 @@
         "valise",
         "clé",
         "hôtel"
-      ]
+      ],
+      "gloss": {
+        "en": "My booking is for a room near the metro.",
+        "es": "Mi reserva es para una habitación cerca del metro.",
+        "ru": "Я забронировал номер рядом с метро."
+      },
+      "wordGloss": {
+        "en": "room",
+        "es": "habitación",
+        "ru": "комната"
+      }
     },
     {
       "id": "remote-travel-listen-4",
@@ -278,7 +452,17 @@
         "billet",
         "valise",
         "plan"
-      ]
+      ],
+      "gloss": {
+        "en": "Don’t forget your passport at the airport.",
+        "es": "No olvides tu pasaporte en el aeropuerto.",
+        "ru": "Не забудьте паспорт в аэропорту."
+      },
+      "wordGloss": {
+        "en": "passport",
+        "es": "pasaporte",
+        "ru": "паспорт"
+      }
     }
   ],
   "prompts": [
@@ -292,9 +476,16 @@
       "id": "remote-travel-grammar-1",
       "title": {
         "fr": "Passé composé des voyages",
-        "en": "Passé composé for travel"
+        "en": "Passé composé for travel",
+        "es": "Passé composé para viajar",
+        "ru": "Passé Composé для путешествий"
       },
-      "rule": "Pour raconter un voyage terminé, utilisez le passé composé : auxiliaire avoir ou être + participe passé. Les verbes de mouvement courants (aller, partir, arriver, venir) prennent être.",
+      "rule": {
+        "fr": "Pour raconter un voyage terminé, utilisez le passé composé : auxiliaire avoir ou être + participe passé. Les verbes de mouvement courants (aller, partir, arriver, venir) prennent être.",
+        "en": "To tell about a completed journey, use the past tense: auxiliary have or be + past participle. Common verbs of movement (to go, to go, to arrive, to come) take to be.",
+        "es": "Para hablar de un viaje completado, utilice el tiempo pasado: auxiliar have or be + participio pasado. Los verbos comunes de movimiento (ir, ir, llegar, venir) toman ser.",
+        "ru": "Чтобы рассказать о пройденном путешествии, используйте прошедшее время: вспомогательное have or be + причастие прошедшего времени. Распространенные глаголы движения (идти, идти, прибыть, прийти) принимают быть."
+      },
       "table": [
         [
           "Infinitif",
@@ -358,15 +549,27 @@
             "a allé"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Passé composé for travel.",
+        "es": "Útil cuando necesitas aplicar: Passé composé para viajes.",
+        "ru": "Полезно, когда вам нужно подать заявку: Passé Composé для путешествий."
+      }
     },
     {
       "id": "remote-travel-grammar-2",
       "title": {
         "fr": "Pour / jusqu’à",
-        "en": "For / until / as far as"
+        "en": "For / until / as far as",
+        "es": "Para / hasta / hasta donde",
+        "ru": "До/пока/насколько"
       },
-      "rule": "Pour indique la destination ou le but (un billet pour Lyon). Jusqu’à indique la limite dans l’espace ou le temps (jusqu’à l’hôtel, jusqu’à demain).",
+      "rule": {
+        "fr": "Pour indique la destination ou le but (un billet pour Lyon). Jusqu’à indique la limite dans l’espace ou le temps (jusqu’à l’hôtel, jusqu’à demain).",
+        "en": "To indicates the destination or goal (a ticket to Lyon). Until indicates the limit in space or time (until the hotel, until tomorrow).",
+        "es": "Para indica el destino o meta (un billete a Lyon). Hasta indica el límite en espacio o tiempo (hasta el hotel, hasta mañana).",
+        "ru": "To указывает пункт назначения или цель (билет до Лиона). До указывает на ограничение в пространстве или времени (до отеля, до завтра)."
+      },
       "table": [
         [
           "Mot",
@@ -415,7 +618,12 @@
             "avec"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: For / until / as far as.",
+        "es": "Útil cuando necesitas aplicar: Para / hasta / hasta donde.",
+        "ru": "Полезно, когда нужно применить: На/пока/насколько."
+      }
     }
   ],
   "skills": {
@@ -424,19 +632,34 @@
         "id": "remote-travel-dict-1",
         "fr": "J’ai acheté un billet de train pour Lyon.",
         "en": "I bought a train ticket to Lyon.",
-        "ipa": "ʒe aʃ.te œ̃ bi.jɛ də tʁɛ̃ puʁ ljɔ̃"
+        "ipa": "ʒe aʃ.te œ̃ bi.jɛ də tʁɛ̃ puʁ ljɔ̃",
+        "gloss": {
+          "en": "I bought a train ticket to Lyon.",
+          "es": "Compré un billete de tren a Lyon.",
+          "ru": "Я купил билет на поезд до Лиона."
+        }
       },
       {
         "id": "remote-travel-dict-2",
         "fr": "Le train a vingt minutes de retard.",
         "en": "The train is twenty minutes late.",
-        "ipa": "lə tʁɛ̃ a vɛ̃ mi.nyt də ʁə.taʁ"
+        "ipa": "lə tʁɛ̃ a vɛ̃ mi.nyt də ʁə.taʁ",
+        "gloss": {
+          "en": "The train is twenty minutes late.",
+          "es": "El tren llega veinte minutos tarde.",
+          "ru": "Поезд опаздывает на двадцать минут."
+        }
       },
       {
         "id": "remote-travel-dict-3",
         "fr": "Nous dormons dans un hôtel près du centre.",
         "en": "We are staying in a hotel near the centre.",
-        "ipa": "nu dɔʁ.mɔ̃ dɑ̃ zœ̃ no.tɛl pʁɛ dy sɑ̃tʁ"
+        "ipa": "nu dɔʁ.mɔ̃ dɑ̃ zœ̃ no.tɛl pʁɛ dy sɑ̃tʁ",
+        "gloss": {
+          "en": "We are staying in a hotel near the centre.",
+          "es": "Nos alojaremos en un hotel cerca del centro.",
+          "ru": "Мы остановились в отеле недалеко от центра."
+        }
       }
     ],
     "meaning": [
@@ -444,63 +667,93 @@
         "id": "remote-travel-mean-1",
         "fr": "À quelle heure part le prochain train ?",
         "en": "What time does the next train leave?",
-        "choices": [
-          "What time does the next train leave?",
-          "Where is my suitcase?",
-          "How much is the hotel?"
-        ]
+        "gloss": {
+          "en": "What time does the next train leave?",
+          "es": "¿A qué hora sale el próximo tren?",
+          "ru": "Во сколько отправляется следующий поезд?"
+        }
       },
       {
         "id": "remote-travel-mean-2",
         "fr": "Ma valise est trop lourde.",
         "en": "My suitcase is too heavy.",
-        "choices": [
-          "My suitcase is too heavy.",
-          "My passport is lost.",
-          "The flight is early."
-        ]
+        "gloss": {
+          "en": "My suitcase is too heavy.",
+          "es": "Mi maleta pesa demasiado.",
+          "ru": "Мой чемодан слишком тяжелый."
+        }
       },
       {
         "id": "remote-travel-mean-3",
         "fr": "Il y a une correspondance à Paris.",
         "en": "There is a connection in Paris.",
-        "choices": [
-          "There is a connection in Paris.",
-          "The border is closed.",
-          "Call a taxi."
-        ]
+        "gloss": {
+          "en": "There is a connection in Paris.",
+          "es": "Hay una conexión en París.",
+          "ru": "Есть связь в Париже."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-travel-fren-1",
         "fr": "billet",
-        "en": "ticket"
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        }
       },
       {
         "id": "remote-travel-fren-2",
         "fr": "gare",
-        "en": "train station"
+        "en": "train station",
+        "gloss": {
+          "en": "train station",
+          "es": "estación de tren",
+          "ru": "железнодорожная станция"
+        }
       },
       {
         "id": "remote-travel-fren-3",
         "fr": "hôtel",
-        "en": "hotel"
+        "en": "hotel",
+        "gloss": {
+          "en": "hotel",
+          "es": "hotel",
+          "ru": "отель"
+        }
       },
       {
         "id": "remote-travel-fren-4",
         "fr": "valise",
-        "en": "suitcase"
+        "en": "suitcase",
+        "gloss": {
+          "en": "suitcase",
+          "es": "maleta",
+          "ru": "чемодан"
+        }
       },
       {
         "id": "remote-travel-fren-5",
         "fr": "passeport",
-        "en": "passport"
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        }
       },
       {
         "id": "remote-travel-fren-6",
         "fr": "aéroport",
-        "en": "airport"
+        "en": "airport",
+        "gloss": {
+          "en": "airport",
+          "es": "aeropuerto",
+          "ru": "аэропорт"
+        }
       }
     ],
     "aloud": [
@@ -508,19 +761,34 @@
         "id": "remote-travel-aloud-1",
         "fr": "Où est la gare, s’il vous plaît ?",
         "en": "Where is the station, please?",
-        "ipa": "u ɛ la ɡaʁ sil vu plɛ"
+        "ipa": "u ɛ la ɡaʁ sil vu plɛ",
+        "gloss": {
+          "en": "Where is the station, please?",
+          "es": "¿Dónde está la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, где станция?"
+        }
       },
       {
         "id": "remote-travel-aloud-2",
         "fr": "Je voudrais un billet pour demain matin.",
         "en": "I’d like a ticket for tomorrow morning.",
-        "ipa": "ʒə vu.dʁɛ œ̃ bi.jɛ puʁ də.mɛ̃ ma.tɛ̃"
+        "ipa": "ʒə vu.dʁɛ œ̃ bi.jɛ puʁ də.mɛ̃ ma.tɛ̃",
+        "gloss": {
+          "en": "I’d like a ticket for tomorrow morning.",
+          "es": "Me gustaría un boleto para mañana por la mañana.",
+          "ru": "Мне нужен билет на завтрашнее утро."
+        }
       },
       {
         "id": "remote-travel-aloud-3",
         "fr": "Appelez un taxi pour l’aéroport.",
         "en": "Call a taxi for the airport.",
-        "ipa": "a.ple zœ̃ tak.si puʁ la.e.ʁɔ.pɔʁ"
+        "ipa": "a.ple zœ̃ tak.si puʁ la.e.ʁɔ.pɔʁ",
+        "gloss": {
+          "en": "Call a taxi for the airport.",
+          "es": "Llame a un taxi para el aeropuerto.",
+          "ru": "Вызовите такси в аэропорт."
+        }
       }
     ],
     "unscramble": [
@@ -536,7 +804,12 @@
           "quai",
           "numéro",
           "trois."
-        ]
+        ],
+        "gloss": {
+          "en": "The train leaves from platform three.",
+          "es": "El tren sale del andén tres.",
+          "ru": "Поезд отправляется с третьей платформы."
+        }
       },
       {
         "id": "remote-travel-unsc-2",
@@ -549,7 +822,12 @@
           "de",
           "votre",
           "chambre."
-        ]
+        ],
+        "gloss": {
+          "en": "Here is the key to your room.",
+          "es": "Aquí está la llave de tu habitación.",
+          "ru": "Вот ключ от твоей комнаты."
+        }
       }
     ],
     "signs": [
@@ -557,19 +835,34 @@
         "id": "remote-travel-sign-1",
         "fr": "sortie",
         "en": "exit",
-        "hint": "way out of station/airport"
+        "hint": "way out of station/airport",
+        "gloss": {
+          "en": "exit",
+          "es": "salida",
+          "ru": "Выход"
+        }
       },
       {
         "id": "remote-travel-sign-2",
         "fr": "entrées",
         "en": "entrances",
-        "hint": "way in"
+        "hint": "way in",
+        "gloss": {
+          "en": "entrances",
+          "es": "entradas",
+          "ru": "входы"
+        }
       },
       {
         "id": "remote-travel-sign-3",
         "fr": "guichet",
         "en": "ticket counter",
-        "hint": "buy tickets here"
+        "hint": "buy tickets here",
+        "gloss": {
+          "en": "ticket counter",
+          "es": "mostrador de boletos",
+          "ru": "билетная касса"
+        }
       }
     ]
   }

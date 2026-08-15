@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "news-b1",
-  "version": 1,
+  "version": 2,
   "level": "b1",
   "title": {
     "fr": "Actualités B1",
-    "en": "News B1"
+    "en": "News B1",
+    "es": "Noticias B1",
+    "ru": "Новости Б1"
   },
   "description": {
     "fr": "Titres, sources et débats pour parler de l’actualité avec un avis.",
-    "en": "Headlines, sources, and debate for talking about the news with an opinion."
+    "en": "Headlines, sources, and debate for talking about the news with an opinion.",
+    "es": "Titulares, fuentes y debate para hablar de la actualidad con opinión.",
+    "ru": "Заголовки, источники и дебаты для высказывания своего мнения о новостях."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "current events / news",
       "example": "Je suis l’actualité le matin à la radio.",
       "ipa": "ak.tɥa.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "current events / news",
+        "es": "eventos actuales / noticias",
+        "ru": "текущие события/новости"
+      }
     },
     {
       "id": "remote-news-b1-2",
@@ -26,7 +35,12 @@
       "en": "headline",
       "example": "Le titre de l’article est trompeur.",
       "ipa": "titʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "headline",
+        "es": "titular",
+        "ru": "заголовок"
+      }
     },
     {
       "id": "remote-news-b1-3",
@@ -34,7 +48,12 @@
       "en": "newspaper / news programme",
       "example": "Le journal de vingt heures commence.",
       "ipa": "ʒuʁ.nal",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "newspaper / news programme",
+        "es": "periódico/programa de noticias",
+        "ru": "газета/информационная программа"
+      }
     },
     {
       "id": "remote-news-b1-4",
@@ -42,7 +61,12 @@
       "en": "article",
       "example": "Cet article présente plusieurs points de vue.",
       "ipa": "aʁ.tikl",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "article",
+        "es": "artículo",
+        "ru": "статья"
+      }
     },
     {
       "id": "remote-news-b1-5",
@@ -50,7 +74,12 @@
       "en": "source",
       "example": "Il faut vérifier la source avant de partager.",
       "ipa": "suʁs",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      }
     },
     {
       "id": "remote-news-b1-6",
@@ -58,7 +87,12 @@
       "en": "journalist",
       "example": "La journaliste pose une question précise.",
       "ipa": "ʒuʁ.na.list",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "journalist",
+        "es": "periodista",
+        "ru": "журналист"
+      }
     },
     {
       "id": "remote-news-b1-7",
@@ -66,7 +100,12 @@
       "en": "interview",
       "example": "L’interview a duré vingt minutes.",
       "ipa": "ɛ̃.tɛʁ.vju",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "interview",
+        "es": "entrevista",
+        "ru": "интервью"
+      }
     },
     {
       "id": "remote-news-b1-8",
@@ -74,7 +113,12 @@
       "en": "debate",
       "example": "Le débat est devenu trop agressif.",
       "ipa": "de.ba",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "debate",
+        "es": "debate",
+        "ru": "дебаты"
+      }
     },
     {
       "id": "remote-news-b1-9",
@@ -82,7 +126,12 @@
       "en": "rumour",
       "example": "Cette rumeur circule depuis hier.",
       "ipa": "ʁy.mœʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "rumour",
+        "es": "rumor",
+        "ru": "слух"
+      }
     },
     {
       "id": "remote-news-b1-10",
@@ -90,7 +139,12 @@
       "en": "fake news",
       "example": "Les fake news se répandent très vite.",
       "ipa": "fɛk nuz",
-      "article": "les"
+      "article": "les",
+      "gloss": {
+        "en": "fake news",
+        "es": "noticias falsas",
+        "ru": "фейковые новости"
+      }
     },
     {
       "id": "remote-news-b1-11",
@@ -98,7 +152,12 @@
       "en": "live (broadcast)",
       "example": "Nous regardons l’émission en direct.",
       "ipa": "di.ʁɛkt",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "live (broadcast)",
+        "es": "transmisión en vivo)",
+        "ru": "прямой эфир (трансляция)"
+      }
     },
     {
       "id": "remote-news-b1-12",
@@ -106,7 +165,12 @@
       "en": "front page",
       "example": "L’affaire est à la une ce matin.",
       "ipa": "yn",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "front page",
+        "es": "página delantera",
+        "ru": "первая страница"
+      }
     },
     {
       "id": "remote-news-b1-13",
@@ -114,7 +178,12 @@
       "en": "poll / survey",
       "example": "Le sondage donne une légère avance.",
       "ipa": "sɔ̃.daʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "poll / survey",
+        "es": "encuesta / encuesta",
+        "ru": "опрос / опрос"
+      }
     },
     {
       "id": "remote-news-b1-14",
@@ -122,7 +191,12 @@
       "en": "protest / demonstration",
       "example": "La manifestation a rassemblé des milliers de personnes.",
       "ipa": "ma.ni.fɛs.ta.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "protest / demonstration",
+        "es": "protesta / manifestación",
+        "ru": "протест/демонстрация"
+      }
     },
     {
       "id": "remote-news-b1-15",
@@ -130,7 +204,12 @@
       "en": "strike",
       "example": "La grève des transports bloque la ville.",
       "ipa": "ɡʁɛv",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "strike",
+        "es": "huelga",
+        "ru": "ударять"
+      }
     },
     {
       "id": "remote-news-b1-16",
@@ -138,7 +217,12 @@
       "en": "disaster",
       "example": "La catastrophe a fait plusieurs blessés.",
       "ipa": "ka.tas.tʁɔf",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "disaster",
+        "es": "desastre",
+        "ru": "катастрофа"
+      }
     },
     {
       "id": "remote-news-b1-17",
@@ -146,7 +230,12 @@
       "en": "election",
       "example": "Les élections ont lieu dimanche.",
       "ipa": "e.lɛk.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "election",
+        "es": "elección",
+        "ru": "выборы"
+      }
     },
     {
       "id": "remote-news-b1-18",
@@ -154,7 +243,12 @@
       "en": "government",
       "example": "Le gouvernement a annoncé une mesure.",
       "ipa": "ɡu.vɛʁ.nə.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "government",
+        "es": "gobierno",
+        "ru": "правительство"
+      }
     },
     {
       "id": "remote-news-b1-19",
@@ -162,7 +256,12 @@
       "en": "comment",
       "example": "Les commentaires sous l’article sont violents.",
       "ipa": "kɔ.mɑ̃.tɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "comment",
+        "es": "comentario",
+        "ru": "комментарий"
+      }
     },
     {
       "id": "remote-news-b1-20",
@@ -170,7 +269,12 @@
       "en": "newsroom / editorial team",
       "example": "La rédaction a corrigé l’erreur.",
       "ipa": "ʁe.dak.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "newsroom / editorial team",
+        "es": "sala de redacción / equipo editorial",
+        "ru": "отдел новостей / редакция"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-news-phrase-1",
       "fr": "Tu as vu les infos ce matin ?",
       "en": "Did you see the news this morning?",
-      "ipa": "ty a vy lez ɛ̃.fo sə ma.tɛ̃"
+      "ipa": "ty a vy lez ɛ̃.fo sə ma.tɛ̃",
+      "gloss": {
+        "en": "Did you see the news this morning?",
+        "es": "¿Viste las noticias esta mañana?",
+        "ru": "Вы видели новости сегодня утром?"
+      }
     },
     {
       "id": "remote-news-phrase-2",
       "fr": "Il faut vérifier la source avant de partager.",
       "en": "You have to check the source before sharing.",
-      "ipa": "il fo ve.ʁi.fje la suʁs a.vɑ̃ də paʁ.ta.ʒe"
+      "ipa": "il fo ve.ʁi.fje la suʁs a.vɑ̃ də paʁ.ta.ʒe",
+      "gloss": {
+        "en": "You have to check the source before sharing.",
+        "es": "Tienes que comprobar la fuente antes de compartir.",
+        "ru": "Прежде чем поделиться, необходимо проверить источник."
+      }
     },
     {
       "id": "remote-news-phrase-3",
       "fr": "Le titre est un peu exagéré, à mon avis.",
       "en": "The headline is a bit exaggerated, in my view.",
-      "ipa": "lə titʁ ɛ tœ̃ pø ɛɡ.za.ʒe.ʁe a mɔ̃ n‿a.vi"
+      "ipa": "lə titʁ ɛ tœ̃ pø ɛɡ.za.ʒe.ʁe a mɔ̃ n‿a.vi",
+      "gloss": {
+        "en": "The headline is a bit exaggerated, in my view.",
+        "es": "El titular es un poco exagerado, en mi opinión.",
+        "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+      }
     },
     {
       "id": "remote-news-phrase-4",
       "fr": "Je n’ai pas encore d’avis, j’attends plus d’informations.",
       "en": "I don’t have an opinion yet; I’m waiting for more information.",
-      "ipa": "ʒe pa ɑ̃.kɔʁ da.vi ʒa.tɑ̃ ply dɛ̃.fɔʁ.ma.sjɔ̃"
+      "ipa": "ʒe pa ɑ̃.kɔʁ da.vi ʒa.tɑ̃ ply dɛ̃.fɔʁ.ma.sjɔ̃",
+      "gloss": {
+        "en": "I don’t have an opinion yet; I’m waiting for more information.",
+        "es": "Todavía no tengo una opinión; Estoy esperando más información.",
+        "ru": "У меня еще нет мнения; Жду дополнительной информации."
+      }
     },
     {
       "id": "remote-news-phrase-5",
       "fr": "La grève va durer jusqu’à mercredi.",
       "en": "The strike will last until Wednesday.",
-      "ipa": "la ɡʁɛv va dy.ʁe ʒys.ka mɛʁ.kʁə.di"
+      "ipa": "la ɡʁɛv va dy.ʁe ʒys.ka mɛʁ.kʁə.di",
+      "gloss": {
+        "en": "The strike will last until Wednesday.",
+        "es": "La huelga se prolongará hasta el miércoles.",
+        "ru": "Забастовка продлится до среды."
+      }
     },
     {
       "id": "remote-news-phrase-6",
       "fr": "On en parle beaucoup, mais les faits restent flous.",
       "en": "People talk about it a lot, but the facts remain unclear.",
-      "ipa": "ɔ̃ nɑ̃ paʁl bo.ku mɛ le fɛ ʁɛst flu"
+      "ipa": "ɔ̃ nɑ̃ paʁl bo.ku mɛ le fɛ ʁɛst flu",
+      "gloss": {
+        "en": "People talk about it a lot, but the facts remain unclear.",
+        "es": "La gente habla mucho de ello, pero los hechos siguen sin estar claros.",
+        "ru": "Об этом много говорят, но факты остаются неясными."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "rumeur",
         "titre",
         "sondage"
-      ]
+      ],
+      "gloss": {
+        "en": "You have to check the source before sharing.",
+        "es": "Tienes que comprobar la fuente antes de compartir.",
+        "ru": "Прежде чем поделиться, необходимо проверить источник."
+      },
+      "wordGloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      }
     },
     {
       "id": "remote-news-listen-2",
@@ -236,7 +380,17 @@
         "grève",
         "élection",
         "débat"
-      ]
+      ],
+      "gloss": {
+        "en": "The protest brought together thousands of people.",
+        "es": "La protesta reunió a miles de personas.",
+        "ru": "Акция протеста собрала тысячи людей."
+      },
+      "wordGloss": {
+        "en": "protest",
+        "es": "protesta",
+        "ru": "протест"
+      }
     },
     {
       "id": "remote-news-listen-3",
@@ -249,7 +403,17 @@
         "une",
         "commentaire",
         "journal"
-      ]
+      ],
+      "gloss": {
+        "en": "The article’s headline is misleading.",
+        "es": "El titular del artículo es engañoso.",
+        "ru": "Заголовок статьи вводит в заблуждение."
+      },
+      "wordGloss": {
+        "en": "headline",
+        "es": "titular",
+        "ru": "заголовок"
+      }
     },
     {
       "id": "remote-news-listen-4",
@@ -262,7 +426,17 @@
         "sondage",
         "gouvernement",
         "rédaction"
-      ]
+      ],
+      "gloss": {
+        "en": "The elections are on Sunday.",
+        "es": "Las elecciones son el domingo.",
+        "ru": "Выборы состоятся в воскресенье."
+      },
+      "wordGloss": {
+        "en": "election",
+        "es": "elección",
+        "ru": "выборы"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-news-grammar-1",
       "title": {
         "fr": "On dit que / d’après",
-        "en": "Reporting what people say"
+        "en": "Reporting what people say",
+        "es": "Informar lo que dice la gente",
+        "ru": "Сообщаем, что говорят люди"
       },
-      "rule": "Pour rapporter une info : On dit que + indicatif. D’après le journal, … Selon la journaliste, … Attention : au subjonctif après je ne pense pas que.",
+      "rule": {
+        "fr": "Pour rapporter une info : On dit que + indicatif. D’après le journal, … Selon la journaliste, … Attention : au subjonctif après je ne pense pas que.",
+        "en": "To report information: We say that + indicative. According to the newspaper, ... According to the journalist, ... Attention: in the subjunctive after I don't think that.",
+        "es": "Para reportar información: Decimos que + indicativo. Según el diario,... Según el periodista,... Atención: en subjuntivo después no creo eso.",
+        "ru": "Для сообщения информации: Говорим что + ориентировочное. По сообщению газеты... По сообщению журналиста... Внимание: в сослагательном наклонении после \"Я так не думаю\"."
+      },
       "table": [
         [
           "Expression",
@@ -337,15 +518,27 @@
             "sera"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Reporting what people say.",
+        "es": "Útil cuando necesita presentar una solicitud: informar lo que dice la gente.",
+        "ru": "Полезно, когда вам нужно подать заявку: Отчет о том, что говорят люди."
+      }
     },
     {
       "id": "remote-news-grammar-2",
       "title": {
         "fr": "Le futur simple pour l’actualité",
-        "en": "Futur simple in the news"
+        "en": "Futur simple in the news",
+        "es": "Futur simple en las noticias.",
+        "ru": "Futur simple в новостях"
       },
-      "rule": "Le futur simple annonce une décision ou une prévision : Le gouvernement annoncera une mesure. La grève durera jusqu’à mercredi.",
+      "rule": {
+        "fr": "Le futur simple annonce une décision ou une prévision : Le gouvernement annoncera une mesure. La grève durera jusqu’à mercredi.",
+        "en": "The simple future announces a decision or a forecast: The government will announce a measure. The strike will last until Wednesday.",
+        "es": "El futuro simple anuncia una decisión o una previsión: el gobierno anunciará una medida. La huelga se prolongará hasta el miércoles.",
+        "ru": "Простое будущее объявляет о решении или прогнозе: правительство объявит о мерах. Забастовка продлится до среды."
+      },
       "table": [
         [
           "Infinitif",
@@ -394,7 +587,12 @@
             "avait"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Futur simple in the news.",
+        "es": "Útil cuando necesitas postularte: Futur simple en las noticias.",
+        "ru": "Полезно, когда вам нужно подать заявку: Futur simple в новостях."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-news-dict-1",
         "fr": "Tu as vu les infos ce matin ?",
         "en": "Did you see the news this morning?",
-        "ipa": "ty a vy lez ɛ̃.fo sə ma.tɛ̃"
+        "ipa": "ty a vy lez ɛ̃.fo sə ma.tɛ̃",
+        "gloss": {
+          "en": "Did you see the news this morning?",
+          "es": "¿Viste las noticias esta mañana?",
+          "ru": "Вы видели новости сегодня утром?"
+        }
       },
       {
         "id": "remote-news-dict-2",
         "fr": "Il faut vérifier la source avant de partager.",
         "en": "You have to check the source before sharing.",
-        "ipa": "il fo ve.ʁi.fje la suʁs a.vɑ̃ də paʁ.ta.ʒe"
+        "ipa": "il fo ve.ʁi.fje la suʁs a.vɑ̃ də paʁ.ta.ʒe",
+        "gloss": {
+          "en": "You have to check the source before sharing.",
+          "es": "Tienes que comprobar la fuente antes de compartir.",
+          "ru": "Прежде чем поделиться, необходимо проверить источник."
+        }
       },
       {
         "id": "remote-news-dict-3",
         "fr": "Le titre est un peu exagéré, à mon avis.",
         "en": "The headline is a bit exaggerated, in my view.",
-        "ipa": "lə titʁ ɛ tœ̃ pø ɛɡ.za.ʒe.ʁe a mɔ̃ n‿a.vi"
+        "ipa": "lə titʁ ɛ tœ̃ pø ɛɡ.za.ʒe.ʁe a mɔ̃ n‿a.vi",
+        "gloss": {
+          "en": "The headline is a bit exaggerated, in my view.",
+          "es": "El titular es un poco exagerado, en mi opinión.",
+          "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-news-mean-1",
         "fr": "Tu as vu les infos ce matin ?",
         "en": "Did you see the news this morning?",
-        "choices": [
-          "Did you see the news this morning?",
-          "You have to check the source before sharing.",
-          "The headline is a bit exaggerated, in my view."
-        ]
+        "gloss": {
+          "en": "Did you see the news this morning?",
+          "es": "¿Viste las noticias esta mañana?",
+          "ru": "Вы видели новости сегодня утром?"
+        }
       },
       {
         "id": "remote-news-mean-2",
         "fr": "Il faut vérifier la source avant de partager.",
         "en": "You have to check the source before sharing.",
-        "choices": [
-          "You have to check the source before sharing.",
-          "Did you see the news this morning?",
-          "The headline is a bit exaggerated, in my view."
-        ]
+        "gloss": {
+          "en": "You have to check the source before sharing.",
+          "es": "Tienes que comprobar la fuente antes de compartir.",
+          "ru": "Прежде чем поделиться, необходимо проверить источник."
+        }
       },
       {
         "id": "remote-news-mean-3",
         "fr": "Le titre est un peu exagéré, à mon avis.",
         "en": "The headline is a bit exaggerated, in my view.",
-        "choices": [
-          "The headline is a bit exaggerated, in my view.",
-          "Did you see the news this morning?",
-          "You have to check the source before sharing."
-        ]
+        "gloss": {
+          "en": "The headline is a bit exaggerated, in my view.",
+          "es": "El titular es un poco exagerado, en mi opinión.",
+          "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-news-fren-1",
         "fr": "actualité",
-        "en": "current events"
+        "en": "current events",
+        "gloss": {
+          "en": "current events",
+          "es": "eventos actuales",
+          "ru": "текущие события"
+        }
       },
       {
         "id": "remote-news-fren-2",
         "fr": "titre",
-        "en": "headline"
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        }
       },
       {
         "id": "remote-news-fren-3",
         "fr": "journal",
-        "en": "newspaper"
+        "en": "newspaper",
+        "gloss": {
+          "en": "newspaper",
+          "es": "periódico",
+          "ru": "газета"
+        }
       },
       {
         "id": "remote-news-fren-4",
         "fr": "article",
-        "en": "article"
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        }
       },
       {
         "id": "remote-news-fren-5",
         "fr": "source",
-        "en": "source"
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
       },
       {
         "id": "remote-news-fren-6",
         "fr": "journaliste",
-        "en": "journalist"
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-news-aloud-1",
         "fr": "Tu as vu les infos ce matin ?",
         "en": "Did you see the news this morning?",
-        "ipa": "ty a vy lez ɛ̃.fo sə ma.tɛ̃"
+        "ipa": "ty a vy lez ɛ̃.fo sə ma.tɛ̃",
+        "gloss": {
+          "en": "Did you see the news this morning?",
+          "es": "¿Viste las noticias esta mañana?",
+          "ru": "Вы видели новости сегодня утром?"
+        }
       },
       {
         "id": "remote-news-aloud-2",
         "fr": "Le titre est un peu exagéré, à mon avis.",
         "en": "The headline is a bit exaggerated, in my view.",
-        "ipa": "lə titʁ ɛ tœ̃ pø ɛɡ.za.ʒe.ʁe a mɔ̃ n‿a.vi"
+        "ipa": "lə titʁ ɛ tœ̃ pø ɛɡ.za.ʒe.ʁe a mɔ̃ n‿a.vi",
+        "gloss": {
+          "en": "The headline is a bit exaggerated, in my view.",
+          "es": "El titular es un poco exagerado, en mi opinión.",
+          "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+        }
       },
       {
         "id": "remote-news-aloud-3",
         "fr": "La grève va durer jusqu’à mercredi.",
         "en": "The strike will last until Wednesday.",
-        "ipa": "la ɡʁɛv va dy.ʁe ʒys.ka mɛʁ.kʁə.di"
+        "ipa": "la ɡʁɛv va dy.ʁe ʒys.ka mɛʁ.kʁə.di",
+        "gloss": {
+          "en": "The strike will last until Wednesday.",
+          "es": "La huelga se prolongará hasta el miércoles.",
+          "ru": "Забастовка продлится до среды."
+        }
       }
     ],
     "unscramble": [
@@ -516,7 +774,12 @@
           "j’attends",
           "plus",
           "d’informations."
-        ]
+        ],
+        "gloss": {
+          "en": "I don’t have an opinion yet; I’m waiting for more information.",
+          "es": "Todavía no tengo una opinión; Estoy esperando más información.",
+          "ru": "У меня еще нет мнения; Жду дополнительной информации."
+        }
       },
       {
         "id": "remote-news-unsc-2",
@@ -529,7 +792,12 @@
           "durer",
           "jusqu’à",
           "mercredi."
-        ]
+        ],
+        "gloss": {
+          "en": "The strike will last until Wednesday.",
+          "es": "La huelga se prolongará hasta el miércoles.",
+          "ru": "Забастовка продлится до среды."
+        }
       }
     ]
   }

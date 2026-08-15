@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "money-b1",
-  "version": 1,
+  "version": 2,
   "level": "b1",
   "title": {
     "fr": "Argent B1",
-    "en": "Money B1"
+    "en": "Money B1",
+    "es": "Dinero B1",
+    "ru": "Деньги Б1"
   },
   "description": {
     "fr": "Banque, budget et paiements pour gérer l’argent au quotidien.",
-    "en": "Banking, budgets, and payments for everyday money matters."
+    "en": "Banking, budgets, and payments for everyday money matters.",
+    "es": "Banca, presupuestos y pagos para asuntos monetarios cotidianos.",
+    "ru": "Банковское дело, бюджеты и платежи для повседневных денежных вопросов."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "money",
       "example": "Je n’ai pas assez d’argent ce mois-ci.",
       "ipa": "aʁ.ʒɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "money",
+        "es": "dinero",
+        "ru": "деньги"
+      }
     },
     {
       "id": "remote-money-b1-2",
@@ -26,7 +35,12 @@
       "en": "budget",
       "example": "Mon budget alimentaire a augmenté.",
       "ipa": "byd.ʒɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "budget",
+        "es": "presupuesto",
+        "ru": "бюджет"
+      }
     },
     {
       "id": "remote-money-b1-3",
@@ -34,7 +48,12 @@
       "en": "account",
       "example": "Je consulte mon compte en ligne.",
       "ipa": "kɔ̃t",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "account",
+        "es": "cuenta",
+        "ru": "счет"
+      }
     },
     {
       "id": "remote-money-b1-4",
@@ -42,7 +61,12 @@
       "en": "transfer",
       "example": "J’ai fait un virement hier.",
       "ipa": "viʁ.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "transfer",
+        "es": "transferir",
+        "ru": "передача"
+      }
     },
     {
       "id": "remote-money-b1-5",
@@ -50,7 +74,12 @@
       "en": "overdraft",
       "example": "Le découvert est autorisé jusqu’à 200 euros.",
       "ipa": "de.ku.vɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "overdraft",
+        "es": "sobregiro",
+        "ru": "овердрафт"
+      }
     },
     {
       "id": "remote-money-b1-6",
@@ -58,7 +87,12 @@
       "en": "savings",
       "example": "Je mets un peu d’épargne chaque mois.",
       "ipa": "e.paʁɲ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "savings",
+        "es": "ahorros",
+        "ru": "сбережения"
+      }
     },
     {
       "id": "remote-money-b1-7",
@@ -66,7 +100,12 @@
       "en": "credit / loan",
       "example": "Le crédit immobilier dure vingt ans.",
       "ipa": "kʁe.di",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "credit / loan",
+        "es": "crédito/préstamo",
+        "ru": "кредит / заем"
+      }
     },
     {
       "id": "remote-money-b1-8",
@@ -74,7 +113,12 @@
       "en": "interest (finance)",
       "example": "Les intérêts du prêt sont élevés.",
       "ipa": "ɛ̃.te.ʁɛ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "interest (finance)",
+        "es": "interés (finanzas)",
+        "ru": "проценты (финансы)"
+      }
     },
     {
       "id": "remote-money-b1-9",
@@ -82,7 +126,12 @@
       "en": "bill / invoice",
       "example": "J’ai payé la facture d’électricité.",
       "ipa": "fak.tyʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "bill / invoice",
+        "es": "factura / factura",
+        "ru": "счет / счет-фактура"
+      }
     },
     {
       "id": "remote-money-b1-10",
@@ -90,7 +139,12 @@
       "en": "receipt",
       "example": "Garde le reçu, au cas où.",
       "ipa": "ʁə.sy",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "receipt",
+        "es": "recibo",
+        "ru": "квитанция"
+      }
     },
     {
       "id": "remote-money-b1-11",
@@ -98,7 +152,12 @@
       "en": "cash",
       "example": "Ils n’acceptent plus les espèces.",
       "ipa": "ɛ.spɛs",
-      "article": "les"
+      "article": "les",
+      "gloss": {
+        "en": "cash",
+        "es": "dinero",
+        "ru": "наличные"
+      }
     },
     {
       "id": "remote-money-b1-12",
@@ -106,7 +165,12 @@
       "en": "bank card",
       "example": "Ma carte bancaire a été refusée.",
       "ipa": "kaʁt bɑ̃.kɛʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "bank card",
+        "es": "tarjeta bancaria",
+        "ru": "банковская карта"
+      }
     },
     {
       "id": "remote-money-b1-13",
@@ -114,7 +178,12 @@
       "en": "cash machine / ATM",
       "example": "Le distributeur est en panne.",
       "ipa": "dis.tʁi.by.tœʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "cash machine / ATM",
+        "es": "cajero automático / cajero automático",
+        "ru": "банкомат/банкомат"
+      }
     },
     {
       "id": "remote-money-b1-14",
@@ -122,7 +191,12 @@
       "en": "tax",
       "example": "Les impôts se paient en ligne.",
       "ipa": "ɛ̃.po",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "tax",
+        "es": "impuesto",
+        "ru": "налог"
+      }
     },
     {
       "id": "remote-money-b1-15",
@@ -130,7 +204,12 @@
       "en": "salary",
       "example": "Le salaire arrive le vingt-huit.",
       "ipa": "sa.lɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "salary",
+        "es": "salario",
+        "ru": "зарплата"
+      }
     },
     {
       "id": "remote-money-b1-16",
@@ -138,7 +217,12 @@
       "en": "debt",
       "example": "La dette l’inquiète depuis des mois.",
       "ipa": "dɛt",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "debt",
+        "es": "deuda",
+        "ru": "долг"
+      }
     },
     {
       "id": "remote-money-b1-17",
@@ -146,7 +230,12 @@
       "en": "investment",
       "example": "Cet investissement est risqué.",
       "ipa": "ɛ̃.vɛs.tis.mɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "investment",
+        "es": "inversión",
+        "ru": "инвестиции"
+      }
     },
     {
       "id": "remote-money-b1-18",
@@ -154,7 +243,12 @@
       "en": "insurance",
       "example": "Mon assurance habitation a augmenté.",
       "ipa": "a.sy.ʁɑ̃s",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "insurance",
+        "es": "seguro",
+        "ru": "страхование"
+      }
     },
     {
       "id": "remote-money-b1-19",
@@ -162,7 +256,12 @@
       "en": "tip",
       "example": "Le pourboire n’est pas obligatoire ici.",
       "ipa": "puʁ.bwaʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "tip",
+        "es": "consejo",
+        "ru": "кончик"
+      }
     },
     {
       "id": "remote-money-b1-20",
@@ -170,7 +269,12 @@
       "en": "balance / sale",
       "example": "Le solde du compte est positif.",
       "ipa": "sɔld",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "balance / sale",
+        "es": "saldo / venta",
+        "ru": "баланс / продажа"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-money-phrase-1",
       "fr": "Je voudrais faire un virement, s’il vous plaît.",
       "en": "I’d like to make a transfer, please.",
-      "ipa": "ʒə vu.dʁɛ fɛʁ œ̃ viʁ.mɑ̃ sil vu plɛ"
+      "ipa": "ʒə vu.dʁɛ fɛʁ œ̃ viʁ.mɑ̃ sil vu plɛ",
+      "gloss": {
+        "en": "I’d like to make a transfer, please.",
+        "es": "Me gustaría hacer una transferencia, por favor.",
+        "ru": "Я хотел бы сделать перевод, пожалуйста."
+      }
     },
     {
       "id": "remote-money-phrase-2",
       "fr": "Ma carte a été refusée au magasin.",
       "en": "My card was declined in the shop.",
-      "ipa": "ma kaʁt a e.te ʁə.fy.ze o ma.ɡa.zɛ̃"
+      "ipa": "ma kaʁt a e.te ʁə.fy.ze o ma.ɡa.zɛ̃",
+      "gloss": {
+        "en": "My card was declined in the shop.",
+        "es": "Mi tarjeta fue rechazada en la tienda.",
+        "ru": "Моя карта была отклонена в магазине."
+      }
     },
     {
       "id": "remote-money-phrase-3",
       "fr": "J’essaie de mettre de l’argent de côté.",
       "en": "I try to put money aside.",
-      "ipa": "ʒe.sɛ də mɛtʁ də laʁ.ʒɑ̃ də ko.te"
+      "ipa": "ʒe.sɛ də mɛtʁ də laʁ.ʒɑ̃ də ko.te",
+      "gloss": {
+        "en": "I try to put money aside.",
+        "es": "Intento ahorrar dinero.",
+        "ru": "Я стараюсь откладывать деньги."
+      }
     },
     {
       "id": "remote-money-phrase-4",
       "fr": "Le loyer prend une grande partie de mon budget.",
       "en": "Rent takes up a large part of my budget.",
-      "ipa": "lə lwa.je pʁɑ̃ yn ɡʁɑ̃d paʁ.ti də mɔ̃ byd.ʒɛ"
+      "ipa": "lə lwa.je pʁɑ̃ yn ɡʁɑ̃d paʁ.ti də mɔ̃ byd.ʒɛ",
+      "gloss": {
+        "en": "Rent takes up a large part of my budget.",
+        "es": "El alquiler ocupa gran parte de mi presupuesto.",
+        "ru": "Аренда занимает большую часть моего бюджета."
+      }
     },
     {
       "id": "remote-money-phrase-5",
       "fr": "Est-ce que vous acceptez les espèces ?",
       "en": "Do you take cash?",
-      "ipa": "ɛs.kə vu zak.sɛp.te lez ɛ.spɛs"
+      "ipa": "ɛs.kə vu zak.sɛp.te lez ɛ.spɛs",
+      "gloss": {
+        "en": "Do you take cash?",
+        "es": "¿Aceptas efectivo?",
+        "ru": "Вы принимаете наличные?"
+      }
     },
     {
       "id": "remote-money-phrase-6",
       "fr": "Il faut que je paie cette facture aujourd’hui.",
       "en": "I have to pay this bill today.",
-      "ipa": "il fo kə ʒə pɛ sɛt fak.tyʁ o.ʒuʁ.dɥi"
+      "ipa": "il fo kə ʒə pɛ sɛt fak.tyʁ o.ʒuʁ.dɥi",
+      "gloss": {
+        "en": "I have to pay this bill today.",
+        "es": "Tengo que pagar esta factura hoy.",
+        "ru": "Я должен оплатить этот счет сегодня."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "découvert",
         "impôt",
         "pourboire"
-      ]
+      ],
+      "gloss": {
+        "en": "I made a transfer last night.",
+        "es": "Anoche hice una transferencia.",
+        "ru": "Вчера вечером я сделал перевод."
+      },
+      "wordGloss": {
+        "en": "transfer",
+        "es": "transferir",
+        "ru": "передача"
+      }
     },
     {
       "id": "remote-money-listen-2",
@@ -236,7 +380,17 @@
         "espèces",
         "reçu",
         "solde"
-      ]
+      ],
+      "gloss": {
+        "en": "My bank card was declined.",
+        "es": "Mi tarjeta bancaria fue rechazada.",
+        "ru": "Моя банковская карта была отклонена."
+      },
+      "wordGloss": {
+        "en": "bank card",
+        "es": "tarjeta bancaria",
+        "ru": "банковская карта"
+      }
     },
     {
       "id": "remote-money-listen-3",
@@ -249,7 +403,17 @@
         "dette",
         "intérêt",
         "crédit"
-      ]
+      ],
+      "gloss": {
+        "en": "I put a bit into savings each month.",
+        "es": "Ahorro un poco cada mes.",
+        "ru": "Каждый месяц я откладываю немного денег."
+      },
+      "wordGloss": {
+        "en": "savings",
+        "es": "ahorros",
+        "ru": "сбережения"
+      }
     },
     {
       "id": "remote-money-listen-4",
@@ -262,7 +426,17 @@
         "reçu",
         "impôt",
         "assurance"
-      ]
+      ],
+      "gloss": {
+        "en": "I paid the electricity bill.",
+        "es": "Pagué la factura de la luz.",
+        "ru": "Я оплатил счет за электричество."
+      },
+      "wordGloss": {
+        "en": "bill",
+        "es": "factura",
+        "ru": "счет"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-money-grammar-1",
       "title": {
         "fr": "Il faut que + subjonctif",
-        "en": "Il faut que + subjunctive"
+        "en": "Il faut que + subjunctive",
+        "es": "Il faut que + subjuntivo",
+        "ru": "Il faut que + сослагательное наклонение"
       },
-      "rule": "Après il faut que, on utilise le subjonctif : Il faut que je paie. Il faut que tu fasses un virement. Radical souvent = 3e pers. pluriel du présent (ils paient → que je paie).",
+      "rule": {
+        "fr": "Après il faut que, on utilise le subjonctif : Il faut que je paie. Il faut que tu fasses un virement. Radical souvent = 3e pers. pluriel du présent (ils paient → que je paie).",
+        "en": "Afterwards, we have to use the subjunctive: I have to pay. You need to make a transfer. Radical often = 3rd person. plural of the present tense (they pay → that I pay).",
+        "es": "Después tenemos que usar el subjuntivo: tengo que pagar. Necesitas hacer una transferencia. Radical a menudo = 3ra persona. Plural del tiempo presente (ellos pagan → que yo pago).",
+        "ru": "После этого мы должны использовать сослагательное наклонение: я должен заплатить. Вам необходимо сделать перевод. Радикальный часто = 3-е лицо. множественное число настоящего времени (они платят → что я плачу)."
+      },
       "table": [
         [
           "Infinitif",
@@ -337,15 +518,27 @@
             "mettre"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Il faut que + subjunctive.",
+        "es": "Útil cuando necesitas aplicar: Il faut que + subjuntivo.",
+        "ru": "Полезно, когда нужно применить: Il faut que + сослагательное наклонение."
+      }
     },
     {
       "id": "remote-money-grammar-2",
       "title": {
         "fr": "Assez de / trop de / peu de",
-        "en": "Quantities of money"
+        "en": "Quantities of money",
+        "es": "cantidades de dinero",
+        "ru": "Количество денег"
       },
-      "rule": "Assez d’argent, trop de dettes, peu d’épargne : de s’élide devant une voyelle (d’). Après la négation : Je n’ai pas d’argent (pas de).",
+      "rule": {
+        "fr": "Assez d’argent, trop de dettes, peu d’épargne : de s’élide devant une voyelle (d’). Après la négation : Je n’ai pas d’argent (pas de).",
+        "en": "Enough money, too much debt, little savings: elides before a vowel (d’). After the negation: I have no money (no).",
+        "es": "Suficiente dinero, demasiada deuda, pocos ahorros: se elide ante una vocal (d’). Después de la negación: no tengo dinero (no).",
+        "ru": "Достаточно денег, слишком много долгов, мало сбережений: пропуск перед гласной (d’). После отрицания: У меня нет денег (нет)."
+      },
       "table": [
         [
           "Forme",
@@ -394,7 +587,12 @@
             "du"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Quantities of money.",
+        "es": "Útil cuando necesitas aplicar: Cantidades de dinero.",
+        "ru": "Полезно, когда вам нужно подать заявку: Количество денег."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-money-dict-1",
         "fr": "Je voudrais faire un virement, s’il vous plaît.",
         "en": "I’d like to make a transfer, please.",
-        "ipa": "ʒə vu.dʁɛ fɛʁ œ̃ viʁ.mɑ̃ sil vu plɛ"
+        "ipa": "ʒə vu.dʁɛ fɛʁ œ̃ viʁ.mɑ̃ sil vu plɛ",
+        "gloss": {
+          "en": "I’d like to make a transfer, please.",
+          "es": "Me gustaría hacer una transferencia, por favor.",
+          "ru": "Я хотел бы сделать перевод, пожалуйста."
+        }
       },
       {
         "id": "remote-money-dict-2",
         "fr": "Ma carte a été refusée au magasin.",
         "en": "My card was declined in the shop.",
-        "ipa": "ma kaʁt a e.te ʁə.fy.ze o ma.ɡa.zɛ̃"
+        "ipa": "ma kaʁt a e.te ʁə.fy.ze o ma.ɡa.zɛ̃",
+        "gloss": {
+          "en": "My card was declined in the shop.",
+          "es": "Mi tarjeta fue rechazada en la tienda.",
+          "ru": "Моя карта была отклонена в магазине."
+        }
       },
       {
         "id": "remote-money-dict-3",
         "fr": "J’essaie de mettre de l’argent de côté.",
         "en": "I try to put money aside.",
-        "ipa": "ʒe.sɛ də mɛtʁ də laʁ.ʒɑ̃ də ko.te"
+        "ipa": "ʒe.sɛ də mɛtʁ də laʁ.ʒɑ̃ də ko.te",
+        "gloss": {
+          "en": "I try to put money aside.",
+          "es": "Intento ahorrar dinero.",
+          "ru": "Я стараюсь откладывать деньги."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-money-mean-1",
         "fr": "Je voudrais faire un virement, s’il vous plaît.",
         "en": "I’d like to make a transfer, please.",
-        "choices": [
-          "I’d like to make a transfer, please.",
-          "My card was declined in the shop.",
-          "I try to put money aside."
-        ]
+        "gloss": {
+          "en": "I’d like to make a transfer, please.",
+          "es": "Me gustaría hacer una transferencia, por favor.",
+          "ru": "Я хотел бы сделать перевод, пожалуйста."
+        }
       },
       {
         "id": "remote-money-mean-2",
         "fr": "Ma carte a été refusée au magasin.",
         "en": "My card was declined in the shop.",
-        "choices": [
-          "My card was declined in the shop.",
-          "I’d like to make a transfer, please.",
-          "I try to put money aside."
-        ]
+        "gloss": {
+          "en": "My card was declined in the shop.",
+          "es": "Mi tarjeta fue rechazada en la tienda.",
+          "ru": "Моя карта была отклонена в магазине."
+        }
       },
       {
         "id": "remote-money-mean-3",
         "fr": "J’essaie de mettre de l’argent de côté.",
         "en": "I try to put money aside.",
-        "choices": [
-          "I try to put money aside.",
-          "I’d like to make a transfer, please.",
-          "My card was declined in the shop."
-        ]
+        "gloss": {
+          "en": "I try to put money aside.",
+          "es": "Intento ahorrar dinero.",
+          "ru": "Я стараюсь откладывать деньги."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-money-fren-1",
         "fr": "argent",
-        "en": "money"
+        "en": "money",
+        "gloss": {
+          "en": "money",
+          "es": "dinero",
+          "ru": "деньги"
+        }
       },
       {
         "id": "remote-money-fren-2",
         "fr": "budget",
-        "en": "budget"
+        "en": "budget",
+        "gloss": {
+          "en": "budget",
+          "es": "presupuesto",
+          "ru": "бюджет"
+        }
       },
       {
         "id": "remote-money-fren-3",
         "fr": "compte",
-        "en": "account"
+        "en": "account",
+        "gloss": {
+          "en": "account",
+          "es": "cuenta",
+          "ru": "счет"
+        }
       },
       {
         "id": "remote-money-fren-4",
         "fr": "virement",
-        "en": "transfer"
+        "en": "transfer",
+        "gloss": {
+          "en": "transfer",
+          "es": "transferir",
+          "ru": "передача"
+        }
       },
       {
         "id": "remote-money-fren-5",
         "fr": "découvert",
-        "en": "overdraft"
+        "en": "overdraft",
+        "gloss": {
+          "en": "overdraft",
+          "es": "sobregiro",
+          "ru": "овердрафт"
+        }
       },
       {
         "id": "remote-money-fren-6",
         "fr": "épargne",
-        "en": "savings"
+        "en": "savings",
+        "gloss": {
+          "en": "savings",
+          "es": "ahorros",
+          "ru": "сбережения"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-money-aloud-1",
         "fr": "Je voudrais faire un virement, s’il vous plaît.",
         "en": "I’d like to make a transfer, please.",
-        "ipa": "ʒə vu.dʁɛ fɛʁ œ̃ viʁ.mɑ̃ sil vu plɛ"
+        "ipa": "ʒə vu.dʁɛ fɛʁ œ̃ viʁ.mɑ̃ sil vu plɛ",
+        "gloss": {
+          "en": "I’d like to make a transfer, please.",
+          "es": "Me gustaría hacer una transferencia, por favor.",
+          "ru": "Я хотел бы сделать перевод, пожалуйста."
+        }
       },
       {
         "id": "remote-money-aloud-2",
         "fr": "J’essaie de mettre de l’argent de côté.",
         "en": "I try to put money aside.",
-        "ipa": "ʒe.sɛ də mɛtʁ də laʁ.ʒɑ̃ də ko.te"
+        "ipa": "ʒe.sɛ də mɛtʁ də laʁ.ʒɑ̃ də ko.te",
+        "gloss": {
+          "en": "I try to put money aside.",
+          "es": "Intento ahorrar dinero.",
+          "ru": "Я стараюсь откладывать деньги."
+        }
       },
       {
         "id": "remote-money-aloud-3",
         "fr": "Est-ce que vous acceptez les espèces ?",
         "en": "Do you take cash?",
-        "ipa": "ɛs.kə vu zak.sɛp.te lez ɛ.spɛs"
+        "ipa": "ɛs.kə vu zak.sɛp.te lez ɛ.spɛs",
+        "gloss": {
+          "en": "Do you take cash?",
+          "es": "¿Aceptas efectivo?",
+          "ru": "Вы принимаете наличные?"
+        }
       }
     ],
     "unscramble": [
@@ -517,7 +775,12 @@
           "de",
           "mon",
           "budget."
-        ]
+        ],
+        "gloss": {
+          "en": "Rent takes up a large part of my budget.",
+          "es": "El alquiler ocupa gran parte de mi presupuesto.",
+          "ru": "Аренда занимает большую часть моего бюджета."
+        }
       },
       {
         "id": "remote-money-unsc-2",
@@ -531,7 +794,12 @@
           "les",
           "espèces",
           "?"
-        ]
+        ],
+        "gloss": {
+          "en": "Do you take cash?",
+          "es": "¿Aceptas efectivo?",
+          "ru": "Вы принимаете наличные?"
+        }
       }
     ]
   }

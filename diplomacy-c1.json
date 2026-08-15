@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "diplomacy-c1",
-  "version": 1,
+  "version": 2,
   "level": "c1",
   "title": {
     "fr": "Relations internationales C1",
-    "en": "International relations C1"
+    "en": "International relations C1",
+    "es": "Relaciones internacionales C1",
+    "ru": "Международные отношения C1"
   },
   "description": {
     "fr": "Négociation, traité, souveraineté, multilatéralisme et diplomatie d’envoyés.",
-    "en": "Negotiation, treaties, sovereignty, multilateralism, and envoy diplomacy."
+    "en": "Negotiation, treaties, sovereignty, multilateralism, and envoy diplomacy.",
+    "es": "Negociación, tratados, soberanía, multilateralismo y diplomacia de enviados.",
+    "ru": "Переговоры, договоры, суверенитет, многосторонность и дипломатическая дипломатия."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "negotiation",
       "example": "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
       "ipa": "ne.ɡɔ.sja.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "negotiation",
+        "es": "negociación",
+        "ru": "переговоры"
+      }
     },
     {
       "id": "remote-diplomacy-c1-2",
@@ -26,7 +35,12 @@
       "en": "treaty",
       "example": "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
       "ipa": "tʁe.te",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "treaty",
+        "es": "tratado",
+        "ru": "договор"
+      }
     },
     {
       "id": "remote-diplomacy-c1-3",
@@ -34,7 +48,12 @@
       "en": "sovereignty",
       "example": "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral.",
       "ipa": "su.vʁɛ.nə.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "sovereignty",
+        "es": "soberanía",
+        "ru": "суверенитет"
+      }
     },
     {
       "id": "remote-diplomacy-c1-4",
@@ -42,7 +61,12 @@
       "en": "multilateralism",
       "example": "Le multilatéralisme, quitte à ralentir la décision, reste le seul dispositif capable d’absorber le contentieux.",
       "ipa": "myl.ti.la.te.ʁa.lism",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "multilateralism",
+        "es": "multilateralismo",
+        "ru": "многосторонность"
+      }
     },
     {
       "id": "remote-diplomacy-c1-5",
@@ -50,7 +74,12 @@
       "en": "envoy",
       "example": "L’envoyé extraordinaire, dont le mandat est strictement cadré, ne saurait engager la souveraineté de l’État.",
       "ipa": "ɑ̃.vwa.je",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "envoy",
+        "es": "enviado",
+        "ru": "посланник"
+      }
     },
     {
       "id": "remote-diplomacy-c1-6",
@@ -58,7 +87,12 @@
       "en": "diplomacy",
       "example": "La diplomatie parallèle, à moins qu’elle ne soit désavouée, peut compromettre les pourparlers officiels en cours.",
       "ipa": "di.plɔ.ma.si",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "diplomacy",
+        "es": "diplomacia",
+        "ru": "дипломатия"
+      }
     },
     {
       "id": "remote-diplomacy-c1-7",
@@ -66,7 +100,12 @@
       "en": "arbitration",
       "example": "L’arbitrage international, dont la portée lie les parties, offre une issue au contentieux sans recours aux armes.",
       "ipa": "aʁ.bi.tʁaʒ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "arbitration",
+        "es": "arbitraje",
+        "ru": "арбитраж"
+      }
     },
     {
       "id": "remote-diplomacy-c1-8",
@@ -74,7 +113,12 @@
       "en": "ratification",
       "example": "La ratification, encore que majoritaire au parlement, laisse intacte une clause d’opting-out controversée.",
       "ipa": "ʁa.ti.fi.ka.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "ratification",
+        "es": "ratificación",
+        "ru": "ратификация"
+      }
     },
     {
       "id": "remote-diplomacy-c1-9",
@@ -82,7 +126,12 @@
       "en": "immunity",
       "example": "L’immunité diplomatique, loin de couvrir n’importe quel agissement, demeure un corollaire strict du protocole.",
       "ipa": "i.my.ni.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "immunity",
+        "es": "inmunidad",
+        "ru": "иммунитет"
+      }
     },
     {
       "id": "remote-diplomacy-c1-10",
@@ -90,7 +139,12 @@
       "en": "delegation",
       "example": "La délégation, dont la composition reflète un arbitrage interne, arrive aux pourparlers sans mandat de signer.",
       "ipa": "de.le.ɡa.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "delegation",
+        "es": "delegación",
+        "ru": "делегация"
+      }
     },
     {
       "id": "remote-diplomacy-c1-11",
@@ -98,7 +152,12 @@
       "en": "dispute / litigation",
       "example": "Le contentieux frontalier, quitte à empoisonner l’alliance, sera soumis à une médiation sous égide régionale.",
       "ipa": "kɔ̃.tɑ̃.sjø",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "dispute / litigation",
+        "es": "disputa / litigio",
+        "ru": "спор/судебное разбирательство"
+      }
     },
     {
       "id": "remote-diplomacy-c1-12",
@@ -106,7 +165,12 @@
       "en": "mediation",
       "example": "La médiation, à moins que les parties n’en récusent l’envoyé, reconstitue un canal que la rupture avait fermé.",
       "ipa": "me.dja.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "mediation",
+        "es": "mediación",
+        "ru": "посредничество"
+      }
     },
     {
       "id": "remote-diplomacy-c1-13",
@@ -114,7 +178,12 @@
       "en": "embargo",
       "example": "L’embargo, dont l’efficacité reste disputée, pèse sur des tiers que le traité ne visait pas initialement.",
       "ipa": "ɑ̃.baʁ.ɡo",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "embargo",
+        "es": "embargo",
+        "ru": "эмбарго"
+      }
     },
     {
       "id": "remote-diplomacy-c1-14",
@@ -122,7 +191,12 @@
       "en": "alliance",
       "example": "L’alliance, encore qu’elle soit défensive sur le papier, ouvre un débat sur la portée réelle du mandat.",
       "ipa": "a.ljɑ̃s",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "alliance",
+        "es": "alianza",
+        "ru": "альянс"
+      }
     },
     {
       "id": "remote-diplomacy-c1-15",
@@ -130,7 +204,12 @@
       "en": "protocol",
       "example": "Le protocole, loin d’être un folklore cérémoniel, structure la prise de parole et l’ordre des signatures.",
       "ipa": "pʁɔ.tɔ.kɔl",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "protocol",
+        "es": "protocolo",
+        "ru": "протокол"
+      }
     },
     {
       "id": "remote-diplomacy-c1-16",
@@ -138,7 +217,12 @@
       "en": "talks",
       "example": "Les pourparlers, quitte à s’éterniser, demeurent préférables à une rupture dont le corollaire serait l’escalade.",
       "ipa": "puʁ.paʁ.le",
-      "article": "les"
+      "article": "les",
+      "gloss": {
+        "en": "talks",
+        "es": "negociaciones",
+        "ru": "переговоры"
+      }
     },
     {
       "id": "remote-diplomacy-c1-17",
@@ -146,7 +230,12 @@
       "en": "clause",
       "example": "Cette clause, dont la formulation dilue la souveraineté, cristallise l’opposition d’une partie de la délégation.",
       "ipa": "kloz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "clause",
+        "es": "cláusula",
+        "ru": "пункт"
+      }
     },
     {
       "id": "remote-diplomacy-c1-18",
@@ -154,7 +243,12 @@
       "en": "interference",
       "example": "L’ingérence, à moins qu’un mandat onusien ne la légitime, heurte le principe de non-intervention.",
       "ipa": "ɛ̃.ʒe.ʁɑ̃s",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "interference",
+        "es": "interferencia",
+        "ru": "вмешательство"
+      }
     },
     {
       "id": "remote-diplomacy-c1-19",
@@ -162,7 +256,12 @@
       "en": "mandate",
       "example": "Le mandat de l’envoyé, encore qu’il soit large, exclut toute concession sur la clause territoriale.",
       "ipa": "mɑ̃.da",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "mandate",
+        "es": "mandato",
+        "ru": "мандат"
+      }
     },
     {
       "id": "remote-diplomacy-c1-20",
@@ -170,7 +269,12 @@
       "en": "chancellery",
       "example": "La chancellerie, dont le câble a fuité, dément que l’arbitrage proposé engage déjà l’exécutif.",
       "ipa": "ʃɑ̃.sɛ.lʁi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "chancellery",
+        "es": "cancillería",
+        "ru": "канцелярия"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-diplomacy-phrase-1",
       "fr": "Reste-t-il une issue, encore que le traité n’ait pas été ratifié ?",
       "en": "Is there still a way forward, even though the treaty has not been ratified?",
-      "ipa": "ʁɛs.tə.til yn i.sy ɑ̃.kɔʁ kə lə tʁe.te nɛ pa e.te ʁa.ti.fje"
+      "ipa": "ʁɛs.tə.til yn i.sy ɑ̃.kɔʁ kə lə tʁe.te nɛ pa e.te ʁa.ti.fje",
+      "gloss": {
+        "en": "Is there still a way forward, even though the treaty has not been ratified?",
+        "es": "¿Existe todavía un camino a seguir, aunque el tratado no haya sido ratificado?",
+        "ru": "Есть ли еще путь вперед, хотя договор еще не ратифицирован?"
+      }
     },
     {
       "id": "remote-diplomacy-phrase-2",
       "fr": "Loin de céder sur la souveraineté, la délégation propose un arbitrage limité.",
       "en": "Far from yielding on sovereignty, the delegation proposes limited arbitration.",
-      "ipa": "lwɛ̃ də se.de syʁ la su.vʁɛ.nə.te la de.le.ɡa.sjɔ̃ pʁɔ.poz œ̃ naʁ.bi.tʁaʒ li.mi.te"
+      "ipa": "lwɛ̃ də se.de syʁ la su.vʁɛ.nə.te la de.le.ɡa.sjɔ̃ pʁɔ.poz œ̃ naʁ.bi.tʁaʒ li.mi.te",
+      "gloss": {
+        "en": "Far from yielding on sovereignty, the delegation proposes limited arbitration.",
+        "es": "Lejos de ceder en materia de soberanía, la delegación propone un arbitraje limitado.",
+        "ru": "Делегация не только не уступает суверенитету, но и предлагает ограниченный арбитраж."
+      }
     },
     {
       "id": "remote-diplomacy-phrase-3",
       "fr": "À moins que l’embargo ne soit levé, les pourparlers n’avanceront guère.",
       "en": "Unless the embargo is lifted, the talks will hardly move forward.",
-      "ipa": "a mwɛ̃ kə lɑ̃.baʁ.ɡo nə swa lə.ve le puʁ.paʁ.le nɑ̃.vɑ̃.sə.ʁɔ̃ ɡɛʁ"
+      "ipa": "a mwɛ̃ kə lɑ̃.baʁ.ɡo nə swa lə.ve le puʁ.paʁ.le nɑ̃.vɑ̃.sə.ʁɔ̃ ɡɛʁ",
+      "gloss": {
+        "en": "Unless the embargo is lifted, the talks will hardly move forward.",
+        "es": "A menos que se levante el embargo, las conversaciones difícilmente avanzarán.",
+        "ru": "Если эмбарго не будет снято, переговоры вряд ли продвинутся вперед."
+      }
     },
     {
       "id": "remote-diplomacy-phrase-4",
       "fr": "Quitte à irriter l’allié, l’envoyé refuse toute clause d’ingérence.",
       "en": "Even at the cost of irritating the ally, the envoy rejects any interference clause.",
-      "ipa": "kit a i.ʁi.te la.lje lɑ̃.vwa.je ʁə.fyz tut kloz dɛ̃.ʒe.ʁɑ̃s"
+      "ipa": "kit a i.ʁi.te la.lje lɑ̃.vwa.je ʁə.fyz tut kloz dɛ̃.ʒe.ʁɑ̃s",
+      "gloss": {
+        "en": "Even at the cost of irritating the ally, the envoy rejects any interference clause.",
+        "es": "Incluso a costa de irritar al aliado, el enviado rechaza cualquier cláusula de injerencia.",
+        "ru": "Даже ценой раздражения союзника посланник отвергает любое положение о вмешательстве."
+      }
     },
     {
       "id": "remote-diplomacy-phrase-5",
       "fr": "Peut-on réellement affirmer que le multilatéralisme absorbe ce contentieux ?",
       "en": "Can one really claim that multilateralism absorbs this dispute?",
-      "ipa": "pø.tɔ̃ ʁe.ɛl.mɑ̃ a.fiʁ.me kə lə myl.ti.la.te.ʁa.lism ap.sɔʁb sə kɔ̃.tɑ̃.sjø"
+      "ipa": "pø.tɔ̃ ʁe.ɛl.mɑ̃ a.fiʁ.me kə lə myl.ti.la.te.ʁa.lism ap.sɔʁb sə kɔ̃.tɑ̃.sjø",
+      "gloss": {
+        "en": "Can one really claim that multilateralism absorbs this dispute?",
+        "es": "¿Se puede realmente afirmar que el multilateralismo absorbe esta disputa?",
+        "ru": "Можно ли действительно утверждать, что многосторонность поглотила этот спор?"
+      }
     },
     {
       "id": "remote-diplomacy-phrase-6",
       "fr": "La médiation, dont le protocole est strict, reconstitue un canal diplomatique.",
       "en": "Mediation, whose protocol is strict, reopens a diplomatic channel.",
-      "ipa": "la me.dja.sjɔ̃ dɔ̃ lə pʁɔ.tɔ.kɔl ɛ stʁikt ʁə.kɔ̃s.ti.ty œ̃ ka.nal di.plɔ.ma.tik"
+      "ipa": "la me.dja.sjɔ̃ dɔ̃ lə pʁɔ.tɔ.kɔl ɛ stʁikt ʁə.kɔ̃s.ti.ty œ̃ ka.nal di.plɔ.ma.tik",
+      "gloss": {
+        "en": "Mediation, whose protocol is strict, reopens a diplomatic channel.",
+        "es": "La mediación, cuyo protocolo es estricto, reabre un canal diplomático.",
+        "ru": "Посредничество, протокол которого является строгим, вновь открывает дипломатический канал."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "embargo",
         "ingérence",
         "protocole"
-      ]
+      ],
+      "gloss": {
+        "en": "The treaty will enter into force only after ratification by the parliaments.",
+        "es": "El tratado entrará en vigor sólo después de su ratificación por los parlamentos.",
+        "ru": "Договор вступит в силу только после ратификации парламентами."
+      },
+      "wordGloss": {
+        "en": "ratification",
+        "es": "ratificación",
+        "ru": "ратификация"
+      }
     },
     {
       "id": "remote-diplomacy-listen-2",
@@ -236,7 +380,17 @@
         "mandat",
         "arbitrage",
         "clause"
-      ]
+      ],
+      "gloss": {
+        "en": "The extraordinary envoy cannot commit the state’s sovereignty.",
+        "es": "El enviado extraordinario no puede comprometer la soberanía del Estado.",
+        "ru": "Чрезвычайный посланник не может поставить под угрозу суверенитет государства."
+      },
+      "wordGloss": {
+        "en": "envoy",
+        "es": "enviado",
+        "ru": "посланник"
+      }
     },
     {
       "id": "remote-diplomacy-listen-3",
@@ -249,7 +403,17 @@
         "chancellerie",
         "délégation",
         "immunité"
-      ]
+      ],
+      "gloss": {
+        "en": "Talks remain preferable to a sudden rupture of the alliance.",
+        "es": "Las conversaciones siguen siendo preferibles a una ruptura repentina de la alianza.",
+        "ru": "Переговоры по-прежнему предпочтительнее внезапного разрыва альянса."
+      },
+      "wordGloss": {
+        "en": "talks",
+        "es": "negociaciones",
+        "ru": "переговоры"
+      }
     },
     {
       "id": "remote-diplomacy-listen-4",
@@ -262,7 +426,17 @@
         "embargo",
         "protocole",
         "ingérence"
-      ]
+      ],
+      "gloss": {
+        "en": "International arbitration offers a way out of the dispute without resorting to arms.",
+        "es": "El arbitraje internacional ofrece una salida a la disputa sin recurrir a las armas.",
+        "ru": "Международный арбитраж предлагает выход из спора, не прибегая к оружию."
+      },
+      "wordGloss": {
+        "en": "arbitration",
+        "es": "arbitraje",
+        "ru": "арбитраж"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-diplomacy-grammar-1",
       "title": {
         "fr": "L’inversion formelle",
-        "en": "Formal inversion"
+        "en": "Formal inversion",
+        "es": "inversión formal",
+        "ru": "Формальная инверсия"
       },
-      "rule": "Au registre diplomatique, l’interrogation totale s’exprime souvent par inversion : Reste-t-il une issue ? Peut-on affirmer que… ? Le -t- euphonique s’insère après un verbe terminé par une voyelle.",
+      "rule": {
+        "fr": "Au registre diplomatique, l’interrogation totale s’exprime souvent par inversion : Reste-t-il une issue ? Peut-on affirmer que… ? Le -t- euphonique s’insère après un verbe terminé par une voyelle.",
+        "en": "In the diplomatic register, the total question is often expressed by inversion: Is there any way out? Can we say that...? The euphonious -t- is inserted after a verb ending in a vowel.",
+        "es": "En el registro diplomático, la pregunta general se expresa a menudo mediante la inversión: ¿Hay alguna salida? ¿Podemos decir eso...? La -t- eufónica se inserta después de un verbo que termina en vocal.",
+        "ru": "В дипломатическом регистре общий вопрос часто выражается инверсией: Есть ли выход? Можем ли мы сказать это...? Благозвучное -t- ставится после глагола, оканчивающегося на гласную."
+      },
       "table": [
         [
           "Forme",
@@ -337,15 +518,27 @@
             "souligné"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Formal inversion.",
+        "es": "Útil cuando necesitas aplicar: Inversión formal.",
+        "ru": "Полезно, когда нужно применить: Формальную инверсию."
+      }
     },
     {
       "id": "remote-diplomacy-grammar-2",
       "title": {
         "fr": "Quitte à / loin de / encore que",
-        "en": "Quitte à / loin de / encore que"
+        "en": "Quitte à / loin de / encore que",
+        "es": "Quitte à / loin de / encore que",
+        "ru": "Quitte à / loin de / encore que"
       },
-      "rule": "Quitte à + infinitif assume un coût. Loin de + infinitif dément une attente. Encore que + subjonctif concède sans renoncer à la thèse principale.",
+      "rule": {
+        "fr": "Quitte à + infinitif assume un coût. Loin de + infinitif dément une attente. Encore que + subjonctif concède sans renoncer à la thèse principale.",
+        "en": "Even if + infinitive assumes a cost. Far from + infinitive belies an expectation. Although + subjunctive concedes without renouncing the main thesis.",
+        "es": "Incluso si + infinitivo supone un coste. Lejos de + infinitivo desmiente una expectativa. Aunque + subjuntivo concede sin renunciar a la tesis principal.",
+        "ru": "Даже если + инфинитив предполагает стоимость. Далеко не + инфинитив противоречит ожиданиям. Хотя +сослагательное наклонение уступает, не отказываясь от основного тезиса."
+      },
       "table": [
         [
           "Connecteur",
@@ -394,7 +587,12 @@
             "À moins que"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Quitte à / loin de / encore que.",
+        "es": "Útil cuando es necesario aplicar: Quitte à / loin de / encore que.",
+        "ru": "Полезно, когда вам нужно подать заявку: Quitte à / loin de / encore que."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-diplomacy-dict-1",
         "fr": "Reste-t-il une issue, encore que le traité n’ait pas été ratifié ?",
         "en": "Is there still a way forward, even though the treaty has not been ratified?",
-        "ipa": "ʁɛs.tə.til yn i.sy ɑ̃.kɔʁ kə lə tʁe.te nɛ pa e.te ʁa.ti.fje"
+        "ipa": "ʁɛs.tə.til yn i.sy ɑ̃.kɔʁ kə lə tʁe.te nɛ pa e.te ʁa.ti.fje",
+        "gloss": {
+          "en": "Is there still a way forward, even though the treaty has not been ratified?",
+          "es": "¿Existe todavía un camino a seguir, aunque el tratado no haya sido ratificado?",
+          "ru": "Есть ли еще путь вперед, хотя договор еще не ратифицирован?"
+        }
       },
       {
         "id": "remote-diplomacy-dict-2",
         "fr": "Loin de céder sur la souveraineté, la délégation propose un arbitrage limité.",
         "en": "Far from yielding on sovereignty, the delegation proposes limited arbitration.",
-        "ipa": "lwɛ̃ də se.de syʁ la su.vʁɛ.nə.te la de.le.ɡa.sjɔ̃ pʁɔ.poz œ̃ naʁ.bi.tʁaʒ li.mi.te"
+        "ipa": "lwɛ̃ də se.de syʁ la su.vʁɛ.nə.te la de.le.ɡa.sjɔ̃ pʁɔ.poz œ̃ naʁ.bi.tʁaʒ li.mi.te",
+        "gloss": {
+          "en": "Far from yielding on sovereignty, the delegation proposes limited arbitration.",
+          "es": "Lejos de ceder en materia de soberanía, la delegación propone un arbitraje limitado.",
+          "ru": "Делегация не только не уступает суверенитету, но и предлагает ограниченный арбитраж."
+        }
       },
       {
         "id": "remote-diplomacy-dict-3",
         "fr": "À moins que l’embargo ne soit levé, les pourparlers n’avanceront guère.",
         "en": "Unless the embargo is lifted, the talks will hardly move forward.",
-        "ipa": "a mwɛ̃ kə lɑ̃.baʁ.ɡo nə swa lə.ve le puʁ.paʁ.le nɑ̃.vɑ̃.sə.ʁɔ̃ ɡɛʁ"
+        "ipa": "a mwɛ̃ kə lɑ̃.baʁ.ɡo nə swa lə.ve le puʁ.paʁ.le nɑ̃.vɑ̃.sə.ʁɔ̃ ɡɛʁ",
+        "gloss": {
+          "en": "Unless the embargo is lifted, the talks will hardly move forward.",
+          "es": "A menos que se levante el embargo, las conversaciones difícilmente avanzarán.",
+          "ru": "Если эмбарго не будет снято, переговоры вряд ли продвинутся вперед."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-diplomacy-mean-1",
         "fr": "Reste-t-il une issue, encore que le traité n’ait pas été ratifié ?",
         "en": "Is there still a way forward, even though the treaty has not been ratified?",
-        "choices": [
-          "Is there still a way forward, even though the treaty has not been ratified?",
-          "Far from yielding on sovereignty, the delegation proposes limited arbitration.",
-          "Unless the embargo is lifted, the talks will hardly move forward."
-        ]
+        "gloss": {
+          "en": "Is there still a way forward, even though the treaty has not been ratified?",
+          "es": "¿Existe todavía un camino a seguir, aunque el tratado no haya sido ratificado?",
+          "ru": "Есть ли еще путь вперед, хотя договор еще не ратифицирован?"
+        }
       },
       {
         "id": "remote-diplomacy-mean-2",
         "fr": "Loin de céder sur la souveraineté, la délégation propose un arbitrage limité.",
         "en": "Far from yielding on sovereignty, the delegation proposes limited arbitration.",
-        "choices": [
-          "Far from yielding on sovereignty, the delegation proposes limited arbitration.",
-          "Is there still a way forward, even though the treaty has not been ratified?",
-          "Unless the embargo is lifted, the talks will hardly move forward."
-        ]
+        "gloss": {
+          "en": "Far from yielding on sovereignty, the delegation proposes limited arbitration.",
+          "es": "Lejos de ceder en materia de soberanía, la delegación propone un arbitraje limitado.",
+          "ru": "Делегация не только не уступает суверенитету, но и предлагает ограниченный арбитраж."
+        }
       },
       {
         "id": "remote-diplomacy-mean-3",
         "fr": "À moins que l’embargo ne soit levé, les pourparlers n’avanceront guère.",
         "en": "Unless the embargo is lifted, the talks will hardly move forward.",
-        "choices": [
-          "Unless the embargo is lifted, the talks will hardly move forward.",
-          "Is there still a way forward, even though the treaty has not been ratified?",
-          "Far from yielding on sovereignty, the delegation proposes limited arbitration."
-        ]
+        "gloss": {
+          "en": "Unless the embargo is lifted, the talks will hardly move forward.",
+          "es": "A menos que se levante el embargo, las conversaciones difícilmente avanzarán.",
+          "ru": "Если эмбарго не будет снято, переговоры вряд ли продвинутся вперед."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-diplomacy-fren-1",
         "fr": "négociation",
-        "en": "negotiation"
+        "en": "negotiation",
+        "gloss": {
+          "en": "negotiation",
+          "es": "negociación",
+          "ru": "переговоры"
+        }
       },
       {
         "id": "remote-diplomacy-fren-2",
         "fr": "traité",
-        "en": "treaty"
+        "en": "treaty",
+        "gloss": {
+          "en": "treaty",
+          "es": "tratado",
+          "ru": "договор"
+        }
       },
       {
         "id": "remote-diplomacy-fren-3",
         "fr": "souveraineté",
-        "en": "sovereignty"
+        "en": "sovereignty",
+        "gloss": {
+          "en": "sovereignty",
+          "es": "soberanía",
+          "ru": "суверенитет"
+        }
       },
       {
         "id": "remote-diplomacy-fren-4",
         "fr": "multilatéralisme",
-        "en": "multilateralism"
+        "en": "multilateralism",
+        "gloss": {
+          "en": "multilateralism",
+          "es": "multilateralismo",
+          "ru": "многосторонность"
+        }
       },
       {
         "id": "remote-diplomacy-fren-5",
         "fr": "envoyé",
-        "en": "envoy"
+        "en": "envoy",
+        "gloss": {
+          "en": "envoy",
+          "es": "enviado",
+          "ru": "посланник"
+        }
       },
       {
         "id": "remote-diplomacy-fren-6",
         "fr": "diplomatie",
-        "en": "diplomacy"
+        "en": "diplomacy",
+        "gloss": {
+          "en": "diplomacy",
+          "es": "diplomacia",
+          "ru": "дипломатия"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-diplomacy-aloud-1",
         "fr": "Reste-t-il une issue, encore que le traité n’ait pas été ratifié ?",
         "en": "Is there still a way forward, even though the treaty has not been ratified?",
-        "ipa": "ʁɛs.tə.til yn i.sy ɑ̃.kɔʁ kə lə tʁe.te nɛ pa e.te ʁa.ti.fje"
+        "ipa": "ʁɛs.tə.til yn i.sy ɑ̃.kɔʁ kə lə tʁe.te nɛ pa e.te ʁa.ti.fje",
+        "gloss": {
+          "en": "Is there still a way forward, even though the treaty has not been ratified?",
+          "es": "¿Existe todavía un camino a seguir, aunque el tratado no haya sido ratificado?",
+          "ru": "Есть ли еще путь вперед, хотя договор еще не ратифицирован?"
+        }
       },
       {
         "id": "remote-diplomacy-aloud-2",
         "fr": "À moins que l’embargo ne soit levé, les pourparlers n’avanceront guère.",
         "en": "Unless the embargo is lifted, the talks will hardly move forward.",
-        "ipa": "a mwɛ̃ kə lɑ̃.baʁ.ɡo nə swa lə.ve le puʁ.paʁ.le nɑ̃.vɑ̃.sə.ʁɔ̃ ɡɛʁ"
+        "ipa": "a mwɛ̃ kə lɑ̃.baʁ.ɡo nə swa lə.ve le puʁ.paʁ.le nɑ̃.vɑ̃.sə.ʁɔ̃ ɡɛʁ",
+        "gloss": {
+          "en": "Unless the embargo is lifted, the talks will hardly move forward.",
+          "es": "A menos que se levante el embargo, las conversaciones difícilmente avanzarán.",
+          "ru": "Если эмбарго не будет снято, переговоры вряд ли продвинутся вперед."
+        }
       },
       {
         "id": "remote-diplomacy-aloud-3",
         "fr": "Peut-on réellement affirmer que le multilatéralisme absorbe ce contentieux ?",
         "en": "Can one really claim that multilateralism absorbs this dispute?",
-        "ipa": "pø.tɔ̃ ʁe.ɛl.mɑ̃ a.fiʁ.me kə lə myl.ti.la.te.ʁa.lism ap.sɔʁb sə kɔ̃.tɑ̃.sjø"
+        "ipa": "pø.tɔ̃ ʁe.ɛl.mɑ̃ a.fiʁ.me kə lə myl.ti.la.te.ʁa.lism ap.sɔʁb sə kɔ̃.tɑ̃.sjø",
+        "gloss": {
+          "en": "Can one really claim that multilateralism absorbs this dispute?",
+          "es": "¿Se puede realmente afirmar que el multilateralismo absorbe esta disputa?",
+          "ru": "Можно ли действительно утверждать, что многосторонность поглотила этот спор?"
+        }
       }
     ],
     "unscramble": [
@@ -516,7 +774,12 @@
           "cet",
           "embargo",
           "?"
-        ]
+        ],
+        "gloss": {
+          "en": "Is there still a diplomatic way forward after this embargo?",
+          "es": "¿Existe todavía un camino diplomático a seguir después de este embargo?",
+          "ru": "Есть ли еще дипломатический путь вперед после этого эмбарго?"
+        }
       },
       {
         "id": "remote-diplomacy-unsc-2",
@@ -532,7 +795,12 @@
           "un",
           "arbitrage",
           "limité."
-        ]
+        ],
+        "gloss": {
+          "en": "Far from yielding, the delegation proposes limited arbitration.",
+          "es": "Lejos de ceder, la delegación propone un arbitraje limitado.",
+          "ru": "Делегация не только не уступает, но и предлагает ограниченный арбитраж."
+        }
       }
     ]
   }

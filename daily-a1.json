@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "daily-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "title": {
     "fr": "Routine A1",
-    "en": "Daily routine A1"
+    "en": "Daily routine A1",
+    "es": "Rutina diaria A1",
+    "ru": "Распорядок дня А1"
   },
   "description": {
     "fr": "Levers, repas et habitudes simples de la journée.",
-    "en": "Getting up, meals, and simple daily habits."
+    "en": "Getting up, meals, and simple daily habits.",
+    "es": "Levantarse, comidas y hábitos diarios sencillos.",
+    "ru": "Вставание, прием пищи и простые повседневные привычки."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "alarm clock",
       "example": "Le réveil sonne à sept heures.",
       "ipa": "ʁe.vɛj",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "alarm clock",
+        "es": "despertador",
+        "ru": "будильник"
+      }
     },
     {
       "id": "remote-daily-a1-2",
@@ -26,7 +35,12 @@
       "en": "shower",
       "example": "Je prends une douche le matin.",
       "ipa": "duʃ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "shower",
+        "es": "ducha",
+        "ru": "душ"
+      }
     },
     {
       "id": "remote-daily-a1-3",
@@ -34,7 +48,12 @@
       "en": "breakfast",
       "example": "Le petit-déjeuner est à huit heures.",
       "ipa": "pə.ti.de.ʒœ.ne",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "breakfast",
+        "es": "desayuno",
+        "ru": "завтрак"
+      }
     },
     {
       "id": "remote-daily-a1-4",
@@ -42,7 +61,12 @@
       "en": "brush",
       "example": "Je prends ma brosse à dents.",
       "ipa": "bʁɔs",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "brush",
+        "es": "cepillar",
+        "ru": "щетка"
+      }
     },
     {
       "id": "remote-daily-a1-5",
@@ -50,7 +74,12 @@
       "en": "soap",
       "example": "Le savon est dans la salle de bain.",
       "ipa": "sa.vɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "soap",
+        "es": "jabón",
+        "ru": "мыло"
+      }
     },
     {
       "id": "remote-daily-a1-6",
@@ -58,7 +87,12 @@
       "en": "towel",
       "example": "Passe-moi une serviette, s’il te plaît.",
       "ipa": "sɛʁ.vjɛt",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "towel",
+        "es": "toalla",
+        "ru": "полотенце"
+      }
     },
     {
       "id": "remote-daily-a1-7",
@@ -66,7 +100,12 @@
       "en": "break",
       "example": "On prend une pause à dix heures.",
       "ipa": "poz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "break",
+        "es": "romper",
+        "ru": "перерыв"
+      }
     },
     {
       "id": "remote-daily-a1-8",
@@ -74,7 +113,12 @@
       "en": "lunch",
       "example": "Le déjeuner est à midi.",
       "ipa": "de.ʒœ.ne",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "lunch",
+        "es": "almuerzo",
+        "ru": "обед"
+      }
     },
     {
       "id": "remote-daily-a1-9",
@@ -82,7 +126,12 @@
       "en": "dinner",
       "example": "Nous dînons à dix-neuf heures.",
       "ipa": "di.ne",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "dinner",
+        "es": "cena",
+        "ru": "ужин"
+      }
     },
     {
       "id": "remote-daily-a1-10",
@@ -90,7 +139,12 @@
       "en": "bed",
       "example": "Je vais au lit tôt.",
       "ipa": "li",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "bed",
+        "es": "cama",
+        "ru": "кровать"
+      }
     },
     {
       "id": "remote-daily-a1-11",
@@ -98,7 +152,12 @@
       "en": "sleep",
       "example": "J’ai besoin de sommeil.",
       "ipa": "sɔ.mɛj",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "sleep",
+        "es": "dormir",
+        "ru": "спать"
+      }
     },
     {
       "id": "remote-daily-a1-12",
@@ -106,7 +165,12 @@
       "en": "day (daytime)",
       "example": "Bonne journée !",
       "ipa": "ʒuʁ.ne",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "day (daytime)",
+        "es": "día (durante el día)",
+        "ru": "день (дневное время)"
+      }
     },
     {
       "id": "remote-daily-a1-13",
@@ -114,7 +178,12 @@
       "en": "habit",
       "example": "C’est une bonne habitude.",
       "ipa": "a.bi.tyd",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "habit",
+        "es": "hábito",
+        "ru": "привычка"
+      }
     },
     {
       "id": "remote-daily-a1-14",
@@ -122,7 +191,12 @@
       "en": "friend (male)",
       "example": "Mon copain arrive à huit heures.",
       "ipa": "kɔ.pɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "friend (male)",
+        "es": "amigo (masculino)",
+        "ru": "друг (мужчина)"
+      }
     },
     {
       "id": "remote-daily-a1-15",
@@ -130,7 +204,12 @@
       "en": "friend (female)",
       "example": "Ma copine prend le bus.",
       "ipa": "kɔ.pin",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "friend (female)",
+        "es": "amiga (mujer)",
+        "ru": "друг (женщина)"
+      }
     },
     {
       "id": "remote-daily-a1-16",
@@ -138,7 +217,12 @@
       "en": "bag",
       "example": "Mon sac est trop lourd.",
       "ipa": "sak",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "bag",
+        "es": "bolsa",
+        "ru": "сумка"
+      }
     },
     {
       "id": "remote-daily-a1-17",
@@ -146,7 +230,12 @@
       "en": "key",
       "example": "Où sont mes clés ?",
       "ipa": "kle",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "key",
+        "es": "llave",
+        "ru": "ключ"
+      }
     },
     {
       "id": "remote-daily-a1-18",
@@ -154,7 +243,12 @@
       "en": "wallet",
       "example": "Mon portefeuille est dans ma poche.",
       "ipa": "pɔʁt.fœj",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "wallet",
+        "es": "billetera",
+        "ru": "кошелек"
+      }
     },
     {
       "id": "remote-daily-a1-19",
@@ -162,7 +256,12 @@
       "en": "desk / office",
       "example": "Je travaille au bureau.",
       "ipa": "by.ʁo",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "desk / office",
+        "es": "escritorio / oficina",
+        "ru": "письменный стол/офис"
+      }
     },
     {
       "id": "remote-daily-a1-20",
@@ -170,7 +269,12 @@
       "en": "tiredness",
       "example": "J’ai de la fatigue ce soir.",
       "ipa": "fa.tiɡ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "tiredness",
+        "es": "cansancio",
+        "ru": "усталость"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-daily-phrase-1",
       "fr": "Je me lève à sept heures.",
       "en": "I get up at seven o’clock.",
-      "ipa": "ʒə mə lɛv a sɛt œʁ"
+      "ipa": "ʒə mə lɛv a sɛt œʁ",
+      "gloss": {
+        "en": "I get up at seven o’clock.",
+        "es": "Me levanto a las siete.",
+        "ru": "Я встаю в семь часов."
+      }
     },
     {
       "id": "remote-daily-phrase-2",
       "fr": "Je prends une douche le matin.",
       "en": "I take a shower in the morning.",
-      "ipa": "ʒə pʁɑ̃ yn duʃ lə ma.tɛ̃"
+      "ipa": "ʒə pʁɑ̃ yn duʃ lə ma.tɛ̃",
+      "gloss": {
+        "en": "I take a shower in the morning.",
+        "es": "Me ducho por la mañana.",
+        "ru": "Я принимаю душ утром."
+      }
     },
     {
       "id": "remote-daily-phrase-3",
       "fr": "À quelle heure tu dînes ?",
       "en": "What time do you have dinner?",
-      "ipa": "a kɛl œʁ ty din"
+      "ipa": "a kɛl œʁ ty din",
+      "gloss": {
+        "en": "What time do you have dinner?",
+        "es": "¿A qué hora cenas?",
+        "ru": "Во сколько ты ужинаешь?"
+      }
     },
     {
       "id": "remote-daily-phrase-4",
       "fr": "Je vais au lit tôt.",
       "en": "I go to bed early.",
-      "ipa": "ʒə vɛ o li to"
+      "ipa": "ʒə vɛ o li to",
+      "gloss": {
+        "en": "I go to bed early.",
+        "es": "Me acuesto temprano.",
+        "ru": "Я ложусь спать рано."
+      }
     },
     {
       "id": "remote-daily-phrase-5",
       "fr": "On prend une pause à dix heures.",
       "en": "We take a break at ten o’clock.",
-      "ipa": "ɔ̃ pʁɑ̃ yn poz a diz œʁ"
+      "ipa": "ɔ̃ pʁɑ̃ yn poz a diz œʁ",
+      "gloss": {
+        "en": "We take a break at ten o’clock.",
+        "es": "Hacemos una pausa a las diez en punto.",
+        "ru": "У нас перерыв в десять часов."
+      }
     },
     {
       "id": "remote-daily-phrase-6",
       "fr": "Bonne journée !",
       "en": "Have a good day!",
-      "ipa": "bɔn ʒuʁ.ne"
+      "ipa": "bɔn ʒuʁ.ne",
+      "gloss": {
+        "en": "Have a good day!",
+        "es": "¡Que tenga un buen día!",
+        "ru": "Хорошего дня!"
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "douche",
         "lit",
         "pause"
-      ]
+      ],
+      "gloss": {
+        "en": "The alarm clock rings at seven every day.",
+        "es": "El despertador suena a las siete todos los días.",
+        "ru": "Будильник звонит в семь каждый день."
+      },
+      "wordGloss": {
+        "en": "alarm clock",
+        "es": "despertador",
+        "ru": "будильник"
+      }
     },
     {
       "id": "remote-daily-listen-2",
@@ -236,7 +380,17 @@
         "savon",
         "serviette",
         "brosse"
-      ]
+      ],
+      "gloss": {
+        "en": "I take a shower after sport.",
+        "es": "Me ducho después de hacer deporte.",
+        "ru": "Я принимаю душ после спорта."
+      },
+      "wordGloss": {
+        "en": "shower",
+        "es": "ducha",
+        "ru": "душ"
+      }
     },
     {
       "id": "remote-daily-listen-3",
@@ -249,7 +403,17 @@
         "dîner",
         "petit-déjeuner",
         "pause"
-      ]
+      ],
+      "gloss": {
+        "en": "Lunch is at noon.",
+        "es": "El almuerzo es al mediodía.",
+        "ru": "Обед в полдень."
+      },
+      "wordGloss": {
+        "en": "lunch",
+        "es": "almuerzo",
+        "ru": "обед"
+      }
     },
     {
       "id": "remote-daily-listen-4",
@@ -262,7 +426,17 @@
         "bureau",
         "sac",
         "sommeil"
-      ]
+      ],
+      "gloss": {
+        "en": "I’m going to bed early tonight.",
+        "es": "Me acostaré temprano esta noche.",
+        "ru": "Сегодня я лягу спать рано."
+      },
+      "wordGloss": {
+        "en": "bed",
+        "es": "cama",
+        "ru": "кровать"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-daily-grammar-1",
       "title": {
         "fr": "Les verbes pronominaux du quotidien",
-        "en": "Reflexive verbs in daily life"
+        "en": "Reflexive verbs in daily life",
+        "es": "Verbos reflexivos en la vida diaria.",
+        "ru": "Возвратные глаголы в повседневной жизни"
       },
-      "rule": "Beaucoup d’actions quotidiennes sont pronominales : se lever, se laver, se coucher. Au présent : je me lève, tu te lèves, il se lève.",
+      "rule": {
+        "fr": "Beaucoup d’actions quotidiennes sont pronominales : se lever, se laver, se coucher. Au présent : je me lève, tu te lèves, il se lève.",
+        "en": "Many daily actions are pronominal: getting up, washing, going to bed. In the present: I get up, you get up, he gets up.",
+        "es": "Muchas acciones cotidianas son pronominales: levantarse, lavarse, acostarse. En presente: yo me levanto, tú te levantas, él se levanta.",
+        "ru": "Многие повседневные действия носят местоименный характер: вставать, умываться, ложиться спать. В настоящем: я встаю, ты встаешь, он встает."
+      },
       "table": [
         [
           "Personne",
@@ -337,15 +518,27 @@
             "levons"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Reflexive verbs in daily life.",
+        "es": "Útil cuando necesitas aplicar: Verbos reflexivos en la vida diaria.",
+        "ru": "Полезно, когда нужно применить: Возвратные глаголы в повседневной жизни."
+      }
     },
     {
       "id": "remote-daily-grammar-2",
       "title": {
         "fr": "À quelle heure… ?",
-        "en": "Asking what time"
+        "en": "Asking what time",
+        "es": "preguntando a que hora",
+        "ru": "Спросить, в какое время"
       },
-      "rule": "Pour demander l’heure d’une habitude : À quelle heure tu te lèves ? Réponse : À sept heures. / Vers huit heures.",
+      "rule": {
+        "fr": "Pour demander l’heure d’une habitude : À quelle heure tu te lèves ? Réponse : À sept heures. / Vers huit heures.",
+        "en": "To ask the time of a habit: What time do you get up? Answer: At seven o'clock. / Around eight o'clock.",
+        "es": "Preguntar la hora de un hábito: ¿A qué hora te levantas? Respuesta: A las siete. / Alrededor de las ocho.",
+        "ru": "Спрашивать время привычки: Во сколько ты встаешь? Ответ: В семь часов. / Около восьми часов."
+      },
       "table": [
         [
           "Expression",
@@ -404,7 +597,12 @@
             "pour"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Asking what time.",
+        "es": "Útil cuando necesitas aplicar: Preguntar a qué hora.",
+        "ru": "Полезно, когда вам нужно подать заявку: Спросить, в какое время."
+      }
     }
   ],
   "skills": {
@@ -413,19 +611,34 @@
         "id": "remote-daily-dict-1",
         "fr": "Je me lève à sept heures.",
         "en": "I get up at seven o’clock.",
-        "ipa": "ʒə mə lɛv a sɛt œʁ"
+        "ipa": "ʒə mə lɛv a sɛt œʁ",
+        "gloss": {
+          "en": "I get up at seven o’clock.",
+          "es": "Me levanto a las siete.",
+          "ru": "Я встаю в семь часов."
+        }
       },
       {
         "id": "remote-daily-dict-2",
         "fr": "Je prends une douche le matin.",
         "en": "I take a shower in the morning.",
-        "ipa": "ʒə pʁɑ̃ yn duʃ lə ma.tɛ̃"
+        "ipa": "ʒə pʁɑ̃ yn duʃ lə ma.tɛ̃",
+        "gloss": {
+          "en": "I take a shower in the morning.",
+          "es": "Me ducho por la mañana.",
+          "ru": "Я принимаю душ утром."
+        }
       },
       {
         "id": "remote-daily-dict-3",
         "fr": "À quelle heure tu dînes ?",
         "en": "What time do you have dinner?",
-        "ipa": "a kɛl œʁ ty din"
+        "ipa": "a kɛl œʁ ty din",
+        "gloss": {
+          "en": "What time do you have dinner?",
+          "es": "¿A qué hora cenas?",
+          "ru": "Во сколько ты ужинаешь?"
+        }
       }
     ],
     "meaning": [
@@ -433,63 +646,93 @@
         "id": "remote-daily-mean-1",
         "fr": "Je me lève à sept heures.",
         "en": "I get up at seven o’clock.",
-        "choices": [
-          "I get up at seven o’clock.",
-          "I take a shower in the morning.",
-          "What time do you have dinner?"
-        ]
+        "gloss": {
+          "en": "I get up at seven o’clock.",
+          "es": "Me levanto a las siete.",
+          "ru": "Я встаю в семь часов."
+        }
       },
       {
         "id": "remote-daily-mean-2",
         "fr": "Je prends une douche le matin.",
         "en": "I take a shower in the morning.",
-        "choices": [
-          "I take a shower in the morning.",
-          "I get up at seven o’clock.",
-          "What time do you have dinner?"
-        ]
+        "gloss": {
+          "en": "I take a shower in the morning.",
+          "es": "Me ducho por la mañana.",
+          "ru": "Я принимаю душ утром."
+        }
       },
       {
         "id": "remote-daily-mean-3",
         "fr": "À quelle heure tu dînes ?",
         "en": "What time do you have dinner?",
-        "choices": [
-          "What time do you have dinner?",
-          "I get up at seven o’clock.",
-          "I take a shower in the morning."
-        ]
+        "gloss": {
+          "en": "What time do you have dinner?",
+          "es": "¿A qué hora cenas?",
+          "ru": "Во сколько ты ужинаешь?"
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-daily-fren-1",
         "fr": "réveil",
-        "en": "alarm clock"
+        "en": "alarm clock",
+        "gloss": {
+          "en": "alarm clock",
+          "es": "despertador",
+          "ru": "будильник"
+        }
       },
       {
         "id": "remote-daily-fren-2",
         "fr": "douche",
-        "en": "shower"
+        "en": "shower",
+        "gloss": {
+          "en": "shower",
+          "es": "ducha",
+          "ru": "душ"
+        }
       },
       {
         "id": "remote-daily-fren-3",
         "fr": "petit-déjeuner",
-        "en": "breakfast"
+        "en": "breakfast",
+        "gloss": {
+          "en": "breakfast",
+          "es": "desayuno",
+          "ru": "завтрак"
+        }
       },
       {
         "id": "remote-daily-fren-4",
         "fr": "brosse",
-        "en": "brush"
+        "en": "brush",
+        "gloss": {
+          "en": "brush",
+          "es": "cepillar",
+          "ru": "щетка"
+        }
       },
       {
         "id": "remote-daily-fren-5",
         "fr": "savon",
-        "en": "soap"
+        "en": "soap",
+        "gloss": {
+          "en": "soap",
+          "es": "jabón",
+          "ru": "мыло"
+        }
       },
       {
         "id": "remote-daily-fren-6",
         "fr": "serviette",
-        "en": "towel"
+        "en": "towel",
+        "gloss": {
+          "en": "towel",
+          "es": "toalla",
+          "ru": "полотенце"
+        }
       }
     ],
     "aloud": [
@@ -497,19 +740,34 @@
         "id": "remote-daily-aloud-1",
         "fr": "Je me lève à sept heures.",
         "en": "I get up at seven o’clock.",
-        "ipa": "ʒə mə lɛv a sɛt œʁ"
+        "ipa": "ʒə mə lɛv a sɛt œʁ",
+        "gloss": {
+          "en": "I get up at seven o’clock.",
+          "es": "Me levanto a las siete.",
+          "ru": "Я встаю в семь часов."
+        }
       },
       {
         "id": "remote-daily-aloud-2",
         "fr": "À quelle heure tu dînes ?",
         "en": "What time do you have dinner?",
-        "ipa": "a kɛl œʁ ty din"
+        "ipa": "a kɛl œʁ ty din",
+        "gloss": {
+          "en": "What time do you have dinner?",
+          "es": "¿A qué hora cenas?",
+          "ru": "Во сколько ты ужинаешь?"
+        }
       },
       {
         "id": "remote-daily-aloud-3",
         "fr": "On prend une pause à dix heures.",
         "en": "We take a break at ten o’clock.",
-        "ipa": "ɔ̃ pʁɑ̃ yn poz a diz œʁ"
+        "ipa": "ɔ̃ pʁɑ̃ yn poz a diz œʁ",
+        "gloss": {
+          "en": "We take a break at ten o’clock.",
+          "es": "Hacemos una pausa a las diez en punto.",
+          "ru": "У нас перерыв в десять часов."
+        }
       }
     ],
     "unscramble": [
@@ -523,7 +781,12 @@
           "au",
           "lit",
           "tôt."
-        ]
+        ],
+        "gloss": {
+          "en": "I go to bed early.",
+          "es": "Me acuesto temprano.",
+          "ru": "Я ложусь спать рано."
+        }
       },
       {
         "id": "remote-daily-unsc-2",
@@ -537,7 +800,12 @@
           "à",
           "dix",
           "heures."
-        ]
+        ],
+        "gloss": {
+          "en": "We take a break at ten o’clock.",
+          "es": "Hacemos una pausa a las diez en punto.",
+          "ru": "У нас перерыв в десять часов."
+        }
       }
     ]
   }

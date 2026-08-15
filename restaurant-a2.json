@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "restaurant-a2",
-  "version": 1,
+  "version": 2,
   "level": "a2",
   "title": {
     "fr": "Restaurant A2",
-    "en": "Restaurant A2"
+    "en": "Restaurant A2",
+    "es": "Restaurante A2",
+    "ru": "Ресторан А2"
   },
   "description": {
     "fr": "Commander, réserver et manger au restaurant avec confiance.",
-    "en": "Order, book a table, and dine out with confidence."
+    "en": "Order, book a table, and dine out with confidence.",
+    "es": "Ordene, reserve una mesa y cene con confianza.",
+    "ru": "Заказывайте, бронируйте столик и ужинайте вне дома с уверенностью."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "restaurant",
       "example": "Ce restaurant est très populaire.",
       "ipa": "ʁɛs.tɔ.ʁɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "restaurant",
+        "es": "restaurante",
+        "ru": "ресторан"
+      }
     },
     {
       "id": "remote-restaurant-a2-2",
@@ -26,7 +35,12 @@
       "en": "waiter",
       "example": "Le serveur prend notre commande.",
       "ipa": "sɛʁ.vœʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "waiter",
+        "es": "mesero",
+        "ru": "официант"
+      }
     },
     {
       "id": "remote-restaurant-a2-3",
@@ -34,7 +48,12 @@
       "en": "waitress",
       "example": "La serveuse apporte les plats.",
       "ipa": "sɛʁ.vøz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "waitress",
+        "es": "camarera",
+        "ru": "официантка"
+      }
     },
     {
       "id": "remote-restaurant-a2-4",
@@ -42,7 +61,12 @@
       "en": "menu",
       "example": "Puis-je voir le menu, s’il vous plaît ?",
       "ipa": "mə.ny",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "menu",
+        "es": "menú",
+        "ru": "меню"
+      }
     },
     {
       "id": "remote-restaurant-a2-5",
@@ -50,7 +74,12 @@
       "en": "menu / wine list",
       "example": "La carte des vins est sur la table.",
       "ipa": "kaʁt",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "menu / wine list",
+        "es": "menú/carta de vinos",
+        "ru": "меню/винная карта"
+      }
     },
     {
       "id": "remote-restaurant-a2-6",
@@ -58,7 +87,12 @@
       "en": "starter / appetizer",
       "example": "Je prends une salade en entrée.",
       "ipa": "ɑ̃.tʁe",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "starter / appetizer",
+        "es": "entrante/aperitivo",
+        "ru": "закуска/закуска"
+      }
     },
     {
       "id": "remote-restaurant-a2-7",
@@ -66,7 +100,12 @@
       "en": "main course / dish",
       "example": "Quel plat recommandez-vous ?",
       "ipa": "pla",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "main course / dish",
+        "es": "plato principal/plato",
+        "ru": "основное блюдо/блюдо"
+      }
     },
     {
       "id": "remote-restaurant-a2-8",
@@ -74,7 +113,12 @@
       "en": "dessert",
       "example": "Avez-vous des desserts maison ?",
       "ipa": "dɛ.sɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "dessert",
+        "es": "postre",
+        "ru": "десерт"
+      }
     },
     {
       "id": "remote-restaurant-a2-9",
@@ -82,7 +126,12 @@
       "en": "bill / check",
       "example": "L’addition, s’il vous plaît.",
       "ipa": "a.di.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "bill / check",
+        "es": "factura / cheque",
+        "ru": "счет/чек"
+      }
     },
     {
       "id": "remote-restaurant-a2-10",
@@ -90,7 +139,12 @@
       "en": "reservation / booking",
       "example": "J’ai une réservation au nom de Martin.",
       "ipa": "ʁe.zɛʁ.va.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "reservation / booking",
+        "es": "reserva / reserva",
+        "ru": "бронирование / бронирование"
+      }
     },
     {
       "id": "remote-restaurant-a2-11",
@@ -98,7 +152,12 @@
       "en": "table",
       "example": "Une table pour deux personnes, s’il vous plaît.",
       "ipa": "tabl",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "table",
+        "es": "mesa",
+        "ru": "стол"
+      }
     },
     {
       "id": "remote-restaurant-a2-12",
@@ -106,7 +165,12 @@
       "en": "place setting / cutlery",
       "example": "Le couvert est déjà sur la table.",
       "ipa": "ku.vɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "place setting / cutlery",
+        "es": "cubierto / cubiertos",
+        "ru": "сервировка столовых приборов/столовые приборы"
+      }
     },
     {
       "id": "remote-restaurant-a2-13",
@@ -114,7 +178,12 @@
       "en": "tip",
       "example": "Le pourboire est inclus dans l’addition.",
       "ipa": "puʁ.bwaʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "tip",
+        "es": "consejo",
+        "ru": "кончик"
+      }
     },
     {
       "id": "remote-restaurant-a2-14",
@@ -122,7 +191,12 @@
       "en": "set menu / meal deal",
       "example": "La formule du jour coûte vingt euros.",
       "ipa": "fɔʁ.myl",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "set menu / meal deal",
+        "es": "menú fijo / oferta de comida",
+        "ru": "комплексное меню/предложение о питании"
+      }
     },
     {
       "id": "remote-restaurant-a2-15",
@@ -130,7 +204,12 @@
       "en": "specialty / house specialty",
       "example": "La spécialité de la maison est le boeuf bourguignon.",
       "ipa": "spe.sja.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "specialty / house specialty",
+        "es": "especialidad / especialidad de la casa",
+        "ru": "специальность / домашняя специальность"
+      }
     },
     {
       "id": "remote-restaurant-a2-16",
@@ -138,7 +217,12 @@
       "en": "allergy",
       "example": "J’ai une allergie aux fruits de mer.",
       "ipa": "a.lɛʁ.ʒi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "allergy",
+        "es": "alergia",
+        "ru": "аллергия"
+      }
     },
     {
       "id": "remote-restaurant-a2-17",
@@ -146,7 +230,12 @@
       "en": "vegetarian (male)",
       "example": "Avez-vous des plats végétariens ?",
       "ipa": "ve.ʒe.ta.ʁjɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "vegetarian (male)",
+        "es": "vegetariano (masculino)",
+        "ru": "вегетарианец (мужчина)"
+      }
     },
     {
       "id": "remote-restaurant-a2-18",
@@ -154,7 +243,12 @@
       "en": "wine",
       "example": "Un verre de vin rouge, s’il vous plaît.",
       "ipa": "vɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "wine",
+        "es": "vino",
+        "ru": "вино"
+      }
     },
     {
       "id": "remote-restaurant-a2-19",
@@ -162,7 +256,12 @@
       "en": "outdoor terrace",
       "example": "Préférez-vous une table en terrasse ?",
       "ipa": "tɛ.ʁas",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "outdoor terrace",
+        "es": "terraza al aire libre",
+        "ru": "открытая терраса"
+      }
     },
     {
       "id": "remote-restaurant-a2-20",
@@ -170,7 +269,12 @@
       "en": "kitchen / cuisine",
       "example": "La cuisine de ce restaurant est excellente.",
       "ipa": "kɥi.zin",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "kitchen / cuisine",
+        "es": "cocina / cocina",
+        "ru": "кухня / кухня"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-restaurant-phrase-1",
       "fr": "Je voudrais réserver une table pour ce soir.",
       "en": "I’d like to book a table for tonight.",
-      "ipa": "ʒə vu.dʁɛ ʁe.zɛʁ.ve yn tabl puʁ sə swaʁ"
+      "ipa": "ʒə vu.dʁɛ ʁe.zɛʁ.ve yn tabl puʁ sə swaʁ",
+      "gloss": {
+        "en": "I’d like to book a table for tonight.",
+        "es": "Me gustaría reservar una mesa para esta noche.",
+        "ru": "Я хотел бы забронировать столик на сегодняшний вечер."
+      }
     },
     {
       "id": "remote-restaurant-phrase-2",
       "fr": "Qu’est-ce que vous recommandez comme plat ?",
       "en": "What main course do you recommend?",
-      "ipa": "kɛs.kə vu ʁə.kɔ.mɑ̃.de kɔm pla"
+      "ipa": "kɛs.kə vu ʁə.kɔ.mɑ̃.de kɔm pla",
+      "gloss": {
+        "en": "What main course do you recommend?",
+        "es": "¿Qué plato principal me recomiendas?",
+        "ru": "Какое основное блюдо вы порекомендуете?"
+      }
     },
     {
       "id": "remote-restaurant-phrase-3",
       "fr": "Je suis allergique aux arachides.",
       "en": "I am allergic to peanuts.",
-      "ipa": "ʒə sɥi a.lɛʁ.ʒik o za.ʁa.ʃid"
+      "ipa": "ʒə sɥi a.lɛʁ.ʒik o za.ʁa.ʃid",
+      "gloss": {
+        "en": "I am allergic to peanuts.",
+        "es": "Soy alérgico a los cacahuetes.",
+        "ru": "У меня аллергия на арахис."
+      }
     },
     {
       "id": "remote-restaurant-phrase-4",
       "fr": "L’addition, s’il vous plaît.",
       "en": "The bill, please.",
-      "ipa": "la.di.sjɔ̃ sil vu plɛ"
+      "ipa": "la.di.sjɔ̃ sil vu plɛ",
+      "gloss": {
+        "en": "The bill, please.",
+        "es": "La cuenta, por favor.",
+        "ru": "Счет, пожалуйста."
+      }
     },
     {
       "id": "remote-restaurant-phrase-5",
       "fr": "Est-ce que le service est compris ?",
       "en": "Is service included?",
-      "ipa": "ɛs.kə lə sɛʁ.vis ɛ kɔ̃.pʁi"
+      "ipa": "ɛs.kə lə sɛʁ.vis ɛ kɔ̃.pʁi",
+      "gloss": {
+        "en": "Is service included?",
+        "es": "¿Está incluido el servicio?",
+        "ru": "Включено ли обслуживание?"
+      }
     },
     {
       "id": "remote-restaurant-phrase-6",
       "fr": "C’était délicieux, merci beaucoup.",
       "en": "It was delicious, thank you very much.",
-      "ipa": "se.tɛ de.li.sjø mɛʁ.si bo.ku"
+      "ipa": "se.tɛ de.li.sjø mɛʁ.si bo.ku",
+      "gloss": {
+        "en": "It was delicious, thank you very much.",
+        "es": "Quedó delicioso, muchas gracias.",
+        "ru": "Было очень вкусно, спасибо большое."
+      }
     }
   ],
   "listen": [
@@ -219,7 +353,21 @@
       "word": "réservation",
       "wordEn": "reservation",
       "wordIpa": "ʁe.zɛʁ.va.sjɔ̃",
-      "distractors": ["addition", "menu", "terrasse"]
+      "distractors": [
+        "addition",
+        "menu",
+        "terrasse"
+      ],
+      "gloss": {
+        "en": "I’d like to book a table for two people tonight.",
+        "es": "Me gustaría reservar una mesa para dos personas esta noche.",
+        "ru": "Я хотел бы забронировать столик на двоих сегодня вечером."
+      },
+      "wordGloss": {
+        "en": "reservation",
+        "es": "reserva",
+        "ru": "бронирование"
+      }
     },
     {
       "id": "remote-restaurant-listen-2",
@@ -228,7 +376,21 @@
       "word": "entrée",
       "wordEn": "starter",
       "wordIpa": "ɑ̃.tʁe",
-      "distractors": ["dessert", "formule", "couvert"]
+      "distractors": [
+        "dessert",
+        "formule",
+        "couvert"
+      ],
+      "gloss": {
+        "en": "The waitress brings the starter and the main course.",
+        "es": "La camarera trae el entrante y el plato principal.",
+        "ru": "Официантка приносит закуску и основное блюдо."
+      },
+      "wordGloss": {
+        "en": "starter",
+        "es": "motor de arranque",
+        "ru": "стартер"
+      }
     },
     {
       "id": "remote-restaurant-listen-3",
@@ -237,7 +399,21 @@
       "word": "spécialité",
       "wordEn": "specialty",
       "wordIpa": "spe.sja.li.te",
-      "distractors": ["formule", "cuisine", "menu"]
+      "distractors": [
+        "formule",
+        "cuisine",
+        "menu"
+      ],
+      "gloss": {
+        "en": "The house specialty is beef bourguignon.",
+        "es": "La especialidad de la casa es la ternera bourguignon.",
+        "ru": "Фирменным блюдом ресторана является говядина по-бургундски."
+      },
+      "wordGloss": {
+        "en": "specialty",
+        "es": "especialidad",
+        "ru": "специальность"
+      }
     },
     {
       "id": "remote-restaurant-listen-4",
@@ -246,7 +422,21 @@
       "word": "allergique",
       "wordEn": "allergic",
       "wordIpa": "a.lɛʁ.ʒik",
-      "distractors": ["végétarien", "délicieux", "compris"]
+      "distractors": [
+        "végétarien",
+        "délicieux",
+        "compris"
+      ],
+      "gloss": {
+        "en": "I am allergic to seafood.",
+        "es": "Soy alérgico a los mariscos.",
+        "ru": "У меня аллергия на морепродукты."
+      },
+      "wordGloss": {
+        "en": "allergic",
+        "es": "alérgico",
+        "ru": "аллергический"
+      }
     }
   ],
   "prompts": [
@@ -260,65 +450,149 @@
       "id": "remote-restaurant-grammar-1",
       "title": {
         "fr": "Je voudrais / Je prends",
-        "en": "Polite ordering"
+        "en": "Polite ordering",
+        "es": "Orden cortés",
+        "ru": "Вежливый заказ"
       },
-      "rule": "Pour commander poliment, utilisez Je voudrais… (souhait) ou Je prends… (choix). Pour une question : Puis-je avoir… ? / Est-ce que je peux… ?",
+      "rule": {
+        "fr": "Pour commander poliment, utilisez Je voudrais… (souhait) ou Je prends… (choix). Pour une question : Puis-je avoir… ? / Est-ce que je peux… ?",
+        "en": "To order politely, use I would like… (wish) or I take… (choice). For a question: Can I have...? / Can I…?",
+        "es": "Para realizar un pedido cortésmente, utilice Me gustaría... (deseo) o Tomo... (elección). Para una pregunta: ¿Puedo tener...? / Puedo…?",
+        "ru": "Чтобы вежливо заказать, используйте «Я бы хотел…» (желание) или «Я беру…» (выбор). На вопрос: Могу ли я иметь...? / Могу ли я…?"
+      },
       "table": [
-        ["Expression", "Registre", "Exemple"],
-        ["Je voudrais…", "poli", "Je voudrais le menu."],
-        ["Je prends…", "choix direct", "Je prends la formule."],
-        ["Puis-je… ?", "très poli", "Puis-je réserver ?"],
-        ["Est-ce que… ?", "question courante", "Est-ce que le service est compris ?"]
+        [
+          "Expression",
+          "Registre",
+          "Exemple"
+        ],
+        [
+          "Je voudrais…",
+          "poli",
+          "Je voudrais le menu."
+        ],
+        [
+          "Je prends…",
+          "choix direct",
+          "Je prends la formule."
+        ],
+        [
+          "Puis-je… ?",
+          "très poli",
+          "Puis-je réserver ?"
+        ],
+        [
+          "Est-ce que… ?",
+          "question courante",
+          "Est-ce que le service est compris ?"
+        ]
       ],
       "questions": [
         {
           "id": "remote-restaurant-gq-1",
           "prompt": "___ le plat du jour, s’il vous plaît.",
           "answer": "Je voudrais",
-          "options": ["Je suis", "Je voudrais", "J’ai"]
+          "options": [
+            "Je suis",
+            "Je voudrais",
+            "J’ai"
+          ]
         },
         {
           "id": "remote-restaurant-gq-2",
           "prompt": "___ réserver une table pour ce soir ?",
           "answer": "Puis-je",
-          "options": ["Je prends", "Puis-je", "Je mange"]
+          "options": [
+            "Je prends",
+            "Puis-je",
+            "Je mange"
+          ]
         },
         {
           "id": "remote-restaurant-gq-3",
           "prompt": "Je ___ la salade en entrée.",
           "answer": "prends",
-          "options": ["prends", "voudrais", "suis"]
+          "options": [
+            "prends",
+            "voudrais",
+            "suis"
+          ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Polite ordering.",
+        "es": "Útil cuando necesita presentar una solicitud: pedidos educados.",
+        "ru": "Полезно, когда вам нужно подать заявку: Вежливый заказ."
+      }
     },
     {
       "id": "remote-restaurant-grammar-2",
       "title": {
         "fr": "En / comme pour les repas",
-        "en": "En / comme for courses"
+        "en": "En / comme for courses",
+        "es": "En / comme para cursos",
+        "ru": "En / приходите на курсы"
       },
-      "rule": "Pour indiquer le choix d’un plat dans un repas : en entrée, en plat, en dessert. On peut aussi dire comme entrée / comme plat principal.",
+      "rule": {
+        "fr": "Pour indiquer le choix d’un plat dans un repas : en entrée, en plat, en dessert. On peut aussi dire comme entrée / comme plat principal.",
+        "en": "To indicate the choice of a dish in a meal: as a starter, as a main course, as a dessert. We can also say as a starter / as a main course.",
+        "es": "Para indicar la elección de un plato en una comida: como entrante, como plato principal, como postre. También podemos decir como entrante/como plato principal.",
+        "ru": "Обозначить выбор блюда в трапезе: в качестве закуски, в качестве основного блюда, в качестве десерта. Также можно сказать как закуска/основное блюдо."
+      },
       "table": [
-        ["Expression", "Usage", "Exemple"],
-        ["en entrée", "premier plat", "Je prends une soupe en entrée."],
-        ["en plat / comme plat", "plat principal", "Le poisson en plat."],
-        ["en dessert", "dessert", "Une crème en dessert."],
-        ["comme…", "alternative", "Comme spécialité du jour."]
+        [
+          "Expression",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "en entrée",
+          "premier plat",
+          "Je prends une soupe en entrée."
+        ],
+        [
+          "en plat / comme plat",
+          "plat principal",
+          "Le poisson en plat."
+        ],
+        [
+          "en dessert",
+          "dessert",
+          "Une crème en dessert."
+        ],
+        [
+          "comme…",
+          "alternative",
+          "Comme spécialité du jour."
+        ]
       ],
       "questions": [
         {
           "id": "remote-restaurant-gq-4",
           "prompt": "Je prends la salade ___ entrée.",
           "answer": "en",
-          "options": ["en", "comme", "de"]
+          "options": [
+            "en",
+            "comme",
+            "de"
+          ]
         },
         {
           "id": "remote-restaurant-gq-5",
           "prompt": "Quel plat recommandez-vous ___ plat principal ?",
           "answer": "comme",
-          "options": ["en", "comme", "de"]
+          "options": [
+            "en",
+            "comme",
+            "de"
+          ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: En / comme for courses.",
+        "es": "Útil cuando necesita postularse: En / comme para cursos.",
+        "ru": "Полезно, когда вам нужно подать заявку: En/comme на курсы."
+      }
     }
   ],
   "skills": {
@@ -327,19 +601,34 @@
         "id": "remote-restaurant-dict-1",
         "fr": "Je voudrais réserver une table pour ce soir.",
         "en": "I’d like to book a table for tonight.",
-        "ipa": "ʒə vu.dʁɛ ʁe.zɛʁ.ve yn tabl puʁ sə swaʁ"
+        "ipa": "ʒə vu.dʁɛ ʁe.zɛʁ.ve yn tabl puʁ sə swaʁ",
+        "gloss": {
+          "en": "I’d like to book a table for tonight.",
+          "es": "Me gustaría reservar una mesa para esta noche.",
+          "ru": "Я хотел бы забронировать столик на сегодняшний вечер."
+        }
       },
       {
         "id": "remote-restaurant-dict-2",
         "fr": "L’addition, s’il vous plaît.",
         "en": "The bill, please.",
-        "ipa": "la.di.sjɔ̃ sil vu plɛ"
+        "ipa": "la.di.sjɔ̃ sil vu plɛ",
+        "gloss": {
+          "en": "The bill, please.",
+          "es": "La cuenta, por favor.",
+          "ru": "Счет, пожалуйста."
+        }
       },
       {
         "id": "remote-restaurant-dict-3",
         "fr": "C’était délicieux, merci beaucoup.",
         "en": "It was delicious, thank you very much.",
-        "ipa": "se.tɛ de.li.sjø mɛʁ.si bo.ku"
+        "ipa": "se.tɛ de.li.sjø mɛʁ.si bo.ku",
+        "gloss": {
+          "en": "It was delicious, thank you very much.",
+          "es": "Quedó delicioso, muchas gracias.",
+          "ru": "Было очень вкусно, спасибо большое."
+        }
       }
     ],
     "meaning": [
@@ -347,47 +636,128 @@
         "id": "remote-restaurant-mean-1",
         "fr": "Est-ce que le service est compris ?",
         "en": "Is service included?",
-        "choices": ["Is service included?", "Do you have a menu?", "The table is ready."]
+        "gloss": {
+          "en": "Is service included?",
+          "es": "¿Está incluido el servicio?",
+          "ru": "Включено ли обслуживание?"
+        }
       },
       {
         "id": "remote-restaurant-mean-2",
         "fr": "Je suis allergique aux arachides.",
         "en": "I am allergic to peanuts.",
-        "choices": ["I am allergic to peanuts.", "I am vegetarian.", "I want dessert."]
+        "gloss": {
+          "en": "I am allergic to peanuts.",
+          "es": "Soy alérgico a los cacahuetes.",
+          "ru": "У меня аллергия на арахис."
+        }
       },
       {
         "id": "remote-restaurant-mean-3",
         "fr": "Qu’est-ce que vous recommandez comme plat ?",
         "en": "What main course do you recommend?",
-        "choices": ["What main course do you recommend?", "Where is the terrace?", "Can I pay by card?"]
+        "gloss": {
+          "en": "What main course do you recommend?",
+          "es": "¿Qué plato principal me recomiendas?",
+          "ru": "Какое основное блюдо вы порекомендуете?"
+        }
       }
     ],
     "fren": [
-      { "id": "remote-restaurant-fren-1", "fr": "menu", "en": "menu" },
-      { "id": "remote-restaurant-fren-2", "fr": "entrée", "en": "starter" },
-      { "id": "remote-restaurant-fren-3", "fr": "addition", "en": "bill" },
-      { "id": "remote-restaurant-fren-4", "fr": "réservation", "en": "reservation" },
-      { "id": "remote-restaurant-fren-5", "fr": "spécialité", "en": "specialty" },
-      { "id": "remote-restaurant-fren-6", "fr": "serveur", "en": "waiter" }
+      {
+        "id": "remote-restaurant-fren-1",
+        "fr": "menu",
+        "en": "menu",
+        "gloss": {
+          "en": "menu",
+          "es": "menú",
+          "ru": "меню"
+        }
+      },
+      {
+        "id": "remote-restaurant-fren-2",
+        "fr": "entrée",
+        "en": "starter",
+        "gloss": {
+          "en": "starter",
+          "es": "motor de arranque",
+          "ru": "стартер"
+        }
+      },
+      {
+        "id": "remote-restaurant-fren-3",
+        "fr": "addition",
+        "en": "bill",
+        "gloss": {
+          "en": "bill",
+          "es": "factura",
+          "ru": "счет"
+        }
+      },
+      {
+        "id": "remote-restaurant-fren-4",
+        "fr": "réservation",
+        "en": "reservation",
+        "gloss": {
+          "en": "reservation",
+          "es": "reserva",
+          "ru": "бронирование"
+        }
+      },
+      {
+        "id": "remote-restaurant-fren-5",
+        "fr": "spécialité",
+        "en": "specialty",
+        "gloss": {
+          "en": "specialty",
+          "es": "especialidad",
+          "ru": "специальность"
+        }
+      },
+      {
+        "id": "remote-restaurant-fren-6",
+        "fr": "serveur",
+        "en": "waiter",
+        "gloss": {
+          "en": "waiter",
+          "es": "mesero",
+          "ru": "официант"
+        }
+      }
     ],
     "aloud": [
       {
         "id": "remote-restaurant-aloud-1",
         "fr": "Je voudrais réserver une table pour ce soir.",
         "en": "I’d like to book a table for tonight.",
-        "ipa": "ʒə vu.dʁɛ ʁe.zɛʁ.ve yn tabl puʁ sə swaʁ"
+        "ipa": "ʒə vu.dʁɛ ʁe.zɛʁ.ve yn tabl puʁ sə swaʁ",
+        "gloss": {
+          "en": "I’d like to book a table for tonight.",
+          "es": "Me gustaría reservar una mesa para esta noche.",
+          "ru": "Я хотел бы забронировать столик на сегодняшний вечер."
+        }
       },
       {
         "id": "remote-restaurant-aloud-2",
         "fr": "Puis-je voir le menu, s’il vous plaît ?",
         "en": "May I see the menu, please?",
-        "ipa": "pɥi ʒə vwaʁ lə mə.ny sil vu plɛ"
+        "ipa": "pɥi ʒə vwaʁ lə mə.ny sil vu plɛ",
+        "gloss": {
+          "en": "May I see the menu, please?",
+          "es": "¿Puedo ver el menú, por favor?",
+          "ru": "Могу я посмотреть меню, пожалуйста?"
+        }
       },
       {
         "id": "remote-restaurant-aloud-3",
         "fr": "La spécialité de la maison est excellente.",
         "en": "The house specialty is excellent.",
-        "ipa": "la spe.sja.li.te də la mɛ.zɔ̃ ɛt ɛk.sɛ.lɑ̃t"
+        "ipa": "la spe.sja.li.te də la mɛ.zɔ̃ ɛt ɛk.sɛ.lɑ̃t",
+        "gloss": {
+          "en": "The house specialty is excellent.",
+          "es": "La especialidad de la casa es excelente.",
+          "ru": "Фирменное блюдо отличное."
+        }
       }
     ],
     "unscramble": [
@@ -395,13 +765,35 @@
         "id": "remote-restaurant-unsc-1",
         "fr": "L’addition, s’il vous plaît.",
         "en": "The bill, please.",
-        "words": ["L’addition,", "s’il", "vous", "plaît."]
+        "words": [
+          "L’addition,",
+          "s’il",
+          "vous",
+          "plaît."
+        ],
+        "gloss": {
+          "en": "The bill, please.",
+          "es": "La cuenta, por favor.",
+          "ru": "Счет, пожалуйста."
+        }
       },
       {
         "id": "remote-restaurant-unsc-2",
         "fr": "Je prends la formule du jour.",
         "en": "I’ll have the set menu of the day.",
-        "words": ["Je", "prends", "la", "formule", "du", "jour."]
+        "words": [
+          "Je",
+          "prends",
+          "la",
+          "formule",
+          "du",
+          "jour."
+        ],
+        "gloss": {
+          "en": "I’ll have the set menu of the day.",
+          "es": "Tendré el menú fijo del día.",
+          "ru": "У меня будет комплексное меню на день."
+        }
       }
     ],
     "signs": [
@@ -409,13 +801,23 @@
         "id": "remote-restaurant-sign-1",
         "fr": "réservé",
         "en": "reserved",
-        "hint": "table sign / booking"
+        "hint": "table sign / booking",
+        "gloss": {
+          "en": "reserved",
+          "es": "reservado",
+          "ru": "сдержанный"
+        }
       },
       {
         "id": "remote-restaurant-sign-2",
         "fr": "fermé",
         "en": "closed",
-        "hint": "restaurant door sign"
+        "hint": "restaurant door sign",
+        "gloss": {
+          "en": "closed",
+          "es": "cerrado",
+          "ru": "закрыто"
+        }
       }
     ]
   }

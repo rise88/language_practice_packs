@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "environment-b1",
-  "version": 1,
+  "version": 2,
   "level": "b1",
   "title": {
     "fr": "Environnement B1",
-    "en": "Environment B1"
+    "en": "Environment B1",
+    "es": "Entorno B1",
+    "ru": "Окружающая среда B1"
   },
   "description": {
     "fr": "Pollution, tri et gestes écologiques pour donner son avis au quotidien.",
-    "en": "Pollution, recycling, and everyday eco habits for giving an opinion."
+    "en": "Pollution, recycling, and everyday eco habits for giving an opinion.",
+    "es": "Contaminación, reciclaje y hábitos ecológicos cotidianos para opinar.",
+    "ru": "Загрязнение, переработка и повседневные экологические привычки, чтобы высказать свое мнение."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "environment",
       "example": "Il faut protéger l’environnement autour de chez nous.",
       "ipa": "ɑ̃.vi.ʁɔn.mɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "environment",
+        "es": "ambiente",
+        "ru": "среда"
+      }
     },
     {
       "id": "remote-environment-b1-2",
@@ -26,7 +35,12 @@
       "en": "pollution",
       "example": "La pollution de l’air augmente en ville.",
       "ipa": "pɔ.ly.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "pollution",
+        "es": "contaminación",
+        "ru": "загрязнение"
+      }
     },
     {
       "id": "remote-environment-b1-3",
@@ -34,7 +48,12 @@
       "en": "waste / rubbish",
       "example": "Nous produisons trop de déchets plastiques.",
       "ipa": "de.ʃɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "waste / rubbish",
+        "es": "residuos / basura",
+        "ru": "отходы / мусор"
+      }
     },
     {
       "id": "remote-environment-b1-4",
@@ -42,7 +61,12 @@
       "en": "recycling",
       "example": "Le recyclage n’est pas encore automatique partout.",
       "ipa": "ʁə.si.klaʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "recycling",
+        "es": "reciclaje",
+        "ru": "переработка"
+      }
     },
     {
       "id": "remote-environment-b1-5",
@@ -50,7 +74,12 @@
       "en": "sorting (waste)",
       "example": "Le tri sélectif commence dans la cuisine.",
       "ipa": "tʁi",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "sorting (waste)",
+        "es": "clasificación (residuos)",
+        "ru": "сортировка (отходов)"
+      }
     },
     {
       "id": "remote-environment-b1-6",
@@ -58,7 +87,12 @@
       "en": "energy",
       "example": "Cette énergie vient du vent et du soleil.",
       "ipa": "e.nɛʁ.ʒi",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "energy",
+        "es": "energía",
+        "ru": "энергия"
+      }
     },
     {
       "id": "remote-environment-b1-7",
@@ -66,7 +100,12 @@
       "en": "renewable (energy)",
       "example": "Les énergies renouvelables se développent vite.",
       "ipa": "ʁə.nu.və.labl",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "renewable (energy)",
+        "es": "renovable (energía)",
+        "ru": "возобновляемый (энергия)"
+      }
     },
     {
       "id": "remote-environment-b1-8",
@@ -74,7 +113,12 @@
       "en": "emission",
       "example": "Les émissions de CO2 restent trop élevées.",
       "ipa": "e.mi.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "emission",
+        "es": "emisión",
+        "ru": "выбросы"
+      }
     },
     {
       "id": "remote-environment-b1-9",
@@ -82,7 +126,12 @@
       "en": "climate",
       "example": "Le climat change plus vite qu’avant.",
       "ipa": "kli.ma",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "climate",
+        "es": "clima",
+        "ru": "климат"
+      }
     },
     {
       "id": "remote-environment-b1-10",
@@ -90,7 +139,12 @@
       "en": "drought",
       "example": "La sécheresse a duré tout l’été.",
       "ipa": "seʃ.ʁɛs",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "drought",
+        "es": "sequía",
+        "ru": "засуха"
+      }
     },
     {
       "id": "remote-environment-b1-11",
@@ -98,7 +152,12 @@
       "en": "flood",
       "example": "L’inondation a fermé plusieurs routes.",
       "ipa": "i.nɔ̃.da.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "flood",
+        "es": "inundación",
+        "ru": "наводнение"
+      }
     },
     {
       "id": "remote-environment-b1-12",
@@ -106,7 +165,12 @@
       "en": "biodiversity",
       "example": "La biodiversité disparaît dans cette région.",
       "ipa": "bi.jɔ.di.vɛʁ.si.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "biodiversity",
+        "es": "biodiversidad",
+        "ru": "биоразнообразие"
+      }
     },
     {
       "id": "remote-environment-b1-13",
@@ -114,7 +178,12 @@
       "en": "species",
       "example": "Cette espèce d’oiseau est menacée.",
       "ipa": "ɛ.spɛs",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "species",
+        "es": "especies",
+        "ru": "разновидность"
+      }
     },
     {
       "id": "remote-environment-b1-14",
@@ -122,7 +191,12 @@
       "en": "forest",
       "example": "La forêt absorbe une partie du carbone.",
       "ipa": "fɔ.ʁɛ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "forest",
+        "es": "bosque",
+        "ru": "лес"
+      }
     },
     {
       "id": "remote-environment-b1-15",
@@ -130,7 +204,12 @@
       "en": "ocean",
       "example": "L’océan se réchauffe et s’acidifie.",
       "ipa": "ɔ.se.ɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "ocean",
+        "es": "océano",
+        "ru": "океан"
+      }
     },
     {
       "id": "remote-environment-b1-16",
@@ -138,7 +217,12 @@
       "en": "pesticide",
       "example": "Les pesticides contaminent les rivières.",
       "ipa": "pɛs.ti.sid",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "pesticide",
+        "es": "pesticida",
+        "ru": "пестицид"
+      }
     },
     {
       "id": "remote-environment-b1-17",
@@ -146,7 +230,12 @@
       "en": "compost",
       "example": "Nous mettons les épluchures dans le compost.",
       "ipa": "kɔ̃.pɔst",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "compost",
+        "es": "compost",
+        "ru": "компост"
+      }
     },
     {
       "id": "remote-environment-b1-18",
@@ -154,7 +243,12 @@
       "en": "transport",
       "example": "Le transport en commun pollue moins que la voiture.",
       "ipa": "tʁɑ̃s.pɔʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "transport",
+        "es": "transporte",
+        "ru": "транспорт"
+      }
     },
     {
       "id": "remote-environment-b1-19",
@@ -162,7 +256,12 @@
       "en": "footprint (carbon)",
       "example": "Mon empreinte carbone a baissé cette année.",
       "ipa": "ɑ̃.pʁɛ̃t",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "footprint (carbon)",
+        "es": "huella (carbono)",
+        "ru": "след (углерод)"
+      }
     },
     {
       "id": "remote-environment-b1-20",
@@ -170,7 +269,12 @@
       "en": "awareness-raising",
       "example": "La sensibilisation à l’école change les habitudes.",
       "ipa": "sɑ̃.si.bi.li.za.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "awareness-raising",
+        "es": "sensibilización",
+        "ru": "повышение осведомленности"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-environment-phrase-1",
       "fr": "À mon avis, il faut réduire nos déchets.",
       "en": "In my opinion, we need to reduce our waste.",
-      "ipa": "a mɔ̃ n‿a.vi il fo ʁe.dɥiʁ no de.ʃɛ"
+      "ipa": "a mɔ̃ n‿a.vi il fo ʁe.dɥiʁ no de.ʃɛ",
+      "gloss": {
+        "en": "In my opinion, we need to reduce our waste.",
+        "es": "En mi opinión, necesitamos reducir nuestros residuos.",
+        "ru": "Я считаю, что нам необходимо сократить количество отходов."
+      }
     },
     {
       "id": "remote-environment-phrase-2",
       "fr": "Si tout le monde triait, ce serait plus simple.",
       "en": "If everyone sorted waste, it would be simpler.",
-      "ipa": "si tu lə mɔ̃d tʁi.jɛ sə sə.ʁɛ ply sɛ̃pl"
+      "ipa": "si tu lə mɔ̃d tʁi.jɛ sə sə.ʁɛ ply sɛ̃pl",
+      "gloss": {
+        "en": "If everyone sorted waste, it would be simpler.",
+        "es": "Si todo el mundo separara los residuos, sería más sencillo.",
+        "ru": "Если бы все сортировали мусор, было бы проще."
+      }
     },
     {
       "id": "remote-environment-phrase-3",
       "fr": "La pollution de l’air devient un vrai problème.",
       "en": "Air pollution is becoming a real problem.",
-      "ipa": "la pɔ.ly.sjɔ̃ də lɛʁ də.vjɛ̃ tœ̃ vʁɛ pʁɔ.blɛm"
+      "ipa": "la pɔ.ly.sjɔ̃ də lɛʁ də.vjɛ̃ tœ̃ vʁɛ pʁɔ.blɛm",
+      "gloss": {
+        "en": "Air pollution is becoming a real problem.",
+        "es": "La contaminación del aire se está convirtiendo en un problema real.",
+        "ru": "Загрязнение воздуха становится настоящей проблемой."
+      }
     },
     {
       "id": "remote-environment-phrase-4",
       "fr": "Je prends le train pour polluer moins.",
       "en": "I take the train to pollute less.",
-      "ipa": "ʒə pʁɑ̃ lə tʁɛ̃ puʁ pɔ.lɥe mwɛ̃"
+      "ipa": "ʒə pʁɑ̃ lə tʁɛ̃ puʁ pɔ.lɥe mwɛ̃",
+      "gloss": {
+        "en": "I take the train to pollute less.",
+        "es": "Tomo el tren para contaminar menos.",
+        "ru": "Я езжу на поезде, чтобы меньше загрязнять окружающую среду."
+      }
     },
     {
       "id": "remote-environment-phrase-5",
       "fr": "On devrait interdire les pesticides les plus dangereux.",
       "en": "We should ban the most dangerous pesticides.",
-      "ipa": "ɔ̃ də.vʁɛ ɛ̃.tɛʁ.diʁ le pɛs.ti.sid le ply dɑ̃.ʒə.ʁø"
+      "ipa": "ɔ̃ də.vʁɛ ɛ̃.tɛʁ.diʁ le pɛs.ti.sid le ply dɑ̃.ʒə.ʁø",
+      "gloss": {
+        "en": "We should ban the most dangerous pesticides.",
+        "es": "Deberíamos prohibir los pesticidas más peligrosos.",
+        "ru": "Мы должны запретить самые опасные пестициды."
+      }
     },
     {
       "id": "remote-environment-phrase-6",
       "fr": "Chacun peut faire un geste, même petit.",
       "en": "Everyone can do something, even something small.",
-      "ipa": "ʃa.kœ̃ pø fɛʁ œ̃ ʒɛst mɛm pə.ti"
+      "ipa": "ʃa.kœ̃ pø fɛʁ œ̃ ʒɛst mɛm pə.ti",
+      "gloss": {
+        "en": "Everyone can do something, even something small.",
+        "es": "Todo el mundo puede hacer algo, aunque sea algo pequeño.",
+        "ru": "Каждый может что-то сделать, даже что-то маленькое."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "recyclage",
         "sécheresse",
         "forêt"
-      ]
+      ],
+      "gloss": {
+        "en": "Air pollution is increasing in the city centre.",
+        "es": "La contaminación del aire está aumentando en el centro de la ciudad.",
+        "ru": "Загрязнение воздуха в центре города увеличивается."
+      },
+      "wordGloss": {
+        "en": "pollution",
+        "es": "contaminación",
+        "ru": "загрязнение"
+      }
     },
     {
       "id": "remote-environment-listen-2",
@@ -236,7 +380,17 @@
         "compost",
         "déchet",
         "transport"
-      ]
+      ],
+      "gloss": {
+        "en": "Selective sorting is not automatic yet.",
+        "es": "La clasificación selectiva aún no es automática.",
+        "ru": "Выборочная сортировка пока не является автоматической."
+      },
+      "wordGloss": {
+        "en": "sorting",
+        "es": "clasificación",
+        "ru": "сортировка"
+      }
     },
     {
       "id": "remote-environment-listen-3",
@@ -249,7 +403,17 @@
         "inondation",
         "océan",
         "forêt"
-      ]
+      ],
+      "gloss": {
+        "en": "The drought lasted all last summer.",
+        "es": "La sequía duró todo el verano pasado.",
+        "ru": "Засуха продолжалась все прошлое лето."
+      },
+      "wordGloss": {
+        "en": "drought",
+        "es": "sequía",
+        "ru": "засуха"
+      }
     },
     {
       "id": "remote-environment-listen-4",
@@ -262,7 +426,17 @@
         "pesticide",
         "émission",
         "espèce"
-      ]
+      ],
+      "gloss": {
+        "en": "Renewable energy is developing quickly.",
+        "es": "Las energías renovables se están desarrollando rápidamente.",
+        "ru": "Возобновляемая энергетика развивается быстрыми темпами."
+      },
+      "wordGloss": {
+        "en": "renewable",
+        "es": "renovable",
+        "ru": "возобновляемый"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-environment-grammar-1",
       "title": {
         "fr": "Il faut / on devrait",
-        "en": "Il faut and on devrait"
+        "en": "Il faut and on devrait",
+        "es": "Il faut y en devrait",
+        "ru": "Иль фаут и он деврайт"
       },
-      "rule": "Il faut + infinitif exprime une nécessité : Il faut trier. On devrait + infinitif est un conseil plus doux : On devrait prendre le train. Au passé : il a fallu.",
+      "rule": {
+        "fr": "Il faut + infinitif exprime une nécessité : Il faut trier. On devrait + infinitif est un conseil plus doux : On devrait prendre le train. Au passé : il a fallu.",
+        "en": "It is necessary + infinitive expresses a necessity: We must sort. We should + infinitive is gentler advice: We should take the train. Past tense: it was necessary.",
+        "es": "Es necesario + infinitivo expresa una necesidad: Debemos ordenar. Deberíamos + infinitivo es un consejo más amable: deberíamos tomar el tren. Tiempo pasado: era necesario.",
+        "ru": "Необходимо + инфинитив выражает необходимость: Мы должны сортировать. Мы должны + инфинитив — более мягкий совет: нам следует сесть на поезд. Прошедшее время: это было необходимо."
+      },
       "table": [
         [
           "Forme",
@@ -337,15 +518,27 @@
             "fallait de"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Il faut and on devrait.",
+        "es": "Útil cuando es necesario aplicar: Il faut y on devrait.",
+        "ru": "Полезно, когда нужно применить: Ильфо и на деврайт."
+      }
     },
     {
       "id": "remote-environment-grammar-2",
       "title": {
         "fr": "Si + imparfait + conditionnel",
-        "en": "Hypothetical si clauses"
+        "en": "Hypothetical si clauses",
+        "es": "Cláusulas si hipotéticas",
+        "ru": "Гипотетические предложения si"
       },
-      "rule": "Pour une hypothèse peu réelle : Si + imparfait, conditionnel présent. Si tout le monde triait, ce serait plus simple.",
+      "rule": {
+        "fr": "Pour une hypothèse peu réelle : Si + imparfait, conditionnel présent. Si tout le monde triait, ce serait plus simple.",
+        "en": "For an unreal hypothesis: If + imperfect, present conditional. If everyone sorted, it would be simpler.",
+        "es": "Para una hipótesis irreal: Si + imperfecto, presente condicional. Si todos ordenaran, sería más sencillo.",
+        "ru": "Для нереальной гипотезы: Если + несовершенное, настоящее условное. Если бы все рассортировали, было бы проще."
+      },
       "table": [
         [
           "Si-clause",
@@ -394,7 +587,12 @@
             "a pollué"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Hypothetical si clauses.",
+        "es": "Útil cuando necesitas aplicar: Cláusulas si hipotéticas.",
+        "ru": "Полезно, когда вам нужно подать заявку: Гипотетические предложения si."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-environment-dict-1",
         "fr": "À mon avis, il faut réduire nos déchets.",
         "en": "In my opinion, we need to reduce our waste.",
-        "ipa": "a mɔ̃ n‿a.vi il fo ʁe.dɥiʁ no de.ʃɛ"
+        "ipa": "a mɔ̃ n‿a.vi il fo ʁe.dɥiʁ no de.ʃɛ",
+        "gloss": {
+          "en": "In my opinion, we need to reduce our waste.",
+          "es": "En mi opinión, necesitamos reducir nuestros residuos.",
+          "ru": "Я считаю, что нам необходимо сократить количество отходов."
+        }
       },
       {
         "id": "remote-environment-dict-2",
         "fr": "Si tout le monde triait, ce serait plus simple.",
         "en": "If everyone sorted waste, it would be simpler.",
-        "ipa": "si tu lə mɔ̃d tʁi.jɛ sə sə.ʁɛ ply sɛ̃pl"
+        "ipa": "si tu lə mɔ̃d tʁi.jɛ sə sə.ʁɛ ply sɛ̃pl",
+        "gloss": {
+          "en": "If everyone sorted waste, it would be simpler.",
+          "es": "Si todo el mundo separara los residuos, sería más sencillo.",
+          "ru": "Если бы все сортировали мусор, было бы проще."
+        }
       },
       {
         "id": "remote-environment-dict-3",
         "fr": "La pollution de l’air devient un vrai problème.",
         "en": "Air pollution is becoming a real problem.",
-        "ipa": "la pɔ.ly.sjɔ̃ də lɛʁ də.vjɛ̃ tœ̃ vʁɛ pʁɔ.blɛm"
+        "ipa": "la pɔ.ly.sjɔ̃ də lɛʁ də.vjɛ̃ tœ̃ vʁɛ pʁɔ.blɛm",
+        "gloss": {
+          "en": "Air pollution is becoming a real problem.",
+          "es": "La contaminación del aire se está convirtiendo en un problema real.",
+          "ru": "Загрязнение воздуха становится настоящей проблемой."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-environment-mean-1",
         "fr": "À mon avis, il faut réduire nos déchets.",
         "en": "In my opinion, we need to reduce our waste.",
-        "choices": [
-          "In my opinion, we need to reduce our waste.",
-          "If everyone sorted waste, it would be simpler.",
-          "Air pollution is becoming a real problem."
-        ]
+        "gloss": {
+          "en": "In my opinion, we need to reduce our waste.",
+          "es": "En mi opinión, necesitamos reducir nuestros residuos.",
+          "ru": "Я считаю, что нам необходимо сократить количество отходов."
+        }
       },
       {
         "id": "remote-environment-mean-2",
         "fr": "Si tout le monde triait, ce serait plus simple.",
         "en": "If everyone sorted waste, it would be simpler.",
-        "choices": [
-          "If everyone sorted waste, it would be simpler.",
-          "In my opinion, we need to reduce our waste.",
-          "Air pollution is becoming a real problem."
-        ]
+        "gloss": {
+          "en": "If everyone sorted waste, it would be simpler.",
+          "es": "Si todo el mundo separara los residuos, sería más sencillo.",
+          "ru": "Если бы все сортировали мусор, было бы проще."
+        }
       },
       {
         "id": "remote-environment-mean-3",
         "fr": "La pollution de l’air devient un vrai problème.",
         "en": "Air pollution is becoming a real problem.",
-        "choices": [
-          "Air pollution is becoming a real problem.",
-          "In my opinion, we need to reduce our waste.",
-          "If everyone sorted waste, it would be simpler."
-        ]
+        "gloss": {
+          "en": "Air pollution is becoming a real problem.",
+          "es": "La contaminación del aire se está convirtiendo en un problema real.",
+          "ru": "Загрязнение воздуха становится настоящей проблемой."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-environment-fren-1",
         "fr": "environnement",
-        "en": "environment"
+        "en": "environment",
+        "gloss": {
+          "en": "environment",
+          "es": "ambiente",
+          "ru": "среда"
+        }
       },
       {
         "id": "remote-environment-fren-2",
         "fr": "pollution",
-        "en": "pollution"
+        "en": "pollution",
+        "gloss": {
+          "en": "pollution",
+          "es": "contaminación",
+          "ru": "загрязнение"
+        }
       },
       {
         "id": "remote-environment-fren-3",
         "fr": "déchet",
-        "en": "waste"
+        "en": "waste",
+        "gloss": {
+          "en": "waste",
+          "es": "desperdiciar",
+          "ru": "напрасно тратить"
+        }
       },
       {
         "id": "remote-environment-fren-4",
         "fr": "recyclage",
-        "en": "recycling"
+        "en": "recycling",
+        "gloss": {
+          "en": "recycling",
+          "es": "reciclaje",
+          "ru": "переработка"
+        }
       },
       {
         "id": "remote-environment-fren-5",
         "fr": "tri",
-        "en": "sorting (waste)"
+        "en": "sorting (waste)",
+        "gloss": {
+          "en": "sorting (waste)",
+          "es": "clasificación (residuos)",
+          "ru": "сортировка (отходов)"
+        }
       },
       {
         "id": "remote-environment-fren-6",
         "fr": "énergie",
-        "en": "energy"
+        "en": "energy",
+        "gloss": {
+          "en": "energy",
+          "es": "energía",
+          "ru": "энергия"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-environment-aloud-1",
         "fr": "À mon avis, il faut réduire nos déchets.",
         "en": "In my opinion, we need to reduce our waste.",
-        "ipa": "a mɔ̃ n‿a.vi il fo ʁe.dɥiʁ no de.ʃɛ"
+        "ipa": "a mɔ̃ n‿a.vi il fo ʁe.dɥiʁ no de.ʃɛ",
+        "gloss": {
+          "en": "In my opinion, we need to reduce our waste.",
+          "es": "En mi opinión, necesitamos reducir nuestros residuos.",
+          "ru": "Я считаю, что нам необходимо сократить количество отходов."
+        }
       },
       {
         "id": "remote-environment-aloud-2",
         "fr": "La pollution de l’air devient un vrai problème.",
         "en": "Air pollution is becoming a real problem.",
-        "ipa": "la pɔ.ly.sjɔ̃ də lɛʁ də.vjɛ̃ tœ̃ vʁɛ pʁɔ.blɛm"
+        "ipa": "la pɔ.ly.sjɔ̃ də lɛʁ də.vjɛ̃ tœ̃ vʁɛ pʁɔ.blɛm",
+        "gloss": {
+          "en": "Air pollution is becoming a real problem.",
+          "es": "La contaminación del aire se está convirtiendo en un problema real.",
+          "ru": "Загрязнение воздуха становится настоящей проблемой."
+        }
       },
       {
         "id": "remote-environment-aloud-3",
         "fr": "On devrait interdire les pesticides les plus dangereux.",
         "en": "We should ban the most dangerous pesticides.",
-        "ipa": "ɔ̃ də.vʁɛ ɛ̃.tɛʁ.diʁ le pɛs.ti.sid le ply dɑ̃.ʒə.ʁø"
+        "ipa": "ɔ̃ də.vʁɛ ɛ̃.tɛʁ.diʁ le pɛs.ti.sid le ply dɑ̃.ʒə.ʁø",
+        "gloss": {
+          "en": "We should ban the most dangerous pesticides.",
+          "es": "Deberíamos prohibir los pesticidas más peligrosos.",
+          "ru": "Мы должны запретить самые опасные пестициды."
+        }
       }
     ],
     "unscramble": [
@@ -515,7 +773,12 @@
           "pour",
           "polluer",
           "moins."
-        ]
+        ],
+        "gloss": {
+          "en": "I take the train to pollute less.",
+          "es": "Tomo el tren para contaminar menos.",
+          "ru": "Я езжу на поезде, чтобы меньше загрязнять окружающую среду."
+        }
       },
       {
         "id": "remote-environment-unsc-2",
@@ -530,7 +793,12 @@
           "les",
           "plus",
           "dangereux."
-        ]
+        ],
+        "gloss": {
+          "en": "We should ban the most dangerous pesticides.",
+          "es": "Deberíamos prohibir los pesticidas más peligrosos.",
+          "ru": "Мы должны запретить самые опасные пестициды."
+        }
       }
     ]
   }

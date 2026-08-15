@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "economy-b2",
-  "version": 1,
+  "version": 2,
   "level": "b2",
   "title": {
     "fr": "Économie B2",
-    "en": "Economy B2"
+    "en": "Economy B2",
+    "es": "Economía B2",
+    "ru": "Эконом Б2"
   },
   "description": {
     "fr": "Croissance, inflation, chômage, marchés et investissement.",
-    "en": "Growth, inflation, unemployment, markets, and investment."
+    "en": "Growth, inflation, unemployment, markets, and investment.",
+    "es": "Crecimiento, inflación, desempleo, mercados e inversión.",
+    "ru": "Рост, инфляция, безработица, рынки и инвестиции."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "growth",
       "example": "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
       "ipa": "kʁwa.sɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "growth",
+        "es": "crecimiento",
+        "ru": "рост"
+      }
     },
     {
       "id": "remote-economy-b2-2",
@@ -26,7 +35,12 @@
       "en": "inflation",
       "example": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
       "ipa": "ɛ̃.fla.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "inflation",
+        "es": "inflación",
+        "ru": "инфляция"
+      }
     },
     {
       "id": "remote-economy-b2-3",
@@ -34,7 +48,12 @@
       "en": "unemployment",
       "example": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
       "ipa": "ʃo.maʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "unemployment",
+        "es": "desempleo",
+        "ru": "безработица"
+      }
     },
     {
       "id": "remote-economy-b2-4",
@@ -42,7 +61,12 @@
       "en": "market",
       "example": "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
       "ipa": "maʁ.ʃe",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "market",
+        "es": "mercado",
+        "ru": "рынок"
+      }
     },
     {
       "id": "remote-economy-b2-5",
@@ -50,7 +74,12 @@
       "en": "investment",
       "example": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
       "ipa": "ɛ̃.vɛs.tis.mɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "investment",
+        "es": "inversión",
+        "ru": "инвестиции"
+      }
     },
     {
       "id": "remote-economy-b2-6",
@@ -58,7 +87,12 @@
       "en": "GDP",
       "example": "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
       "ipa": "pe.i.be",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "GDP",
+        "es": "PIB",
+        "ru": "ВВП"
+      }
     },
     {
       "id": "remote-economy-b2-7",
@@ -66,7 +100,12 @@
       "en": "recession",
       "example": "Une récession technique n’implique pas forcément une crise sociale durable.",
       "ipa": "ʁe.sɛ.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "recession",
+        "es": "recesión",
+        "ru": "рецессия"
+      }
     },
     {
       "id": "remote-economy-b2-8",
@@ -74,7 +113,12 @@
       "en": "debt",
       "example": "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
       "ipa": "dɛt",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "debt",
+        "es": "deuda",
+        "ru": "долг"
+      }
     },
     {
       "id": "remote-economy-b2-9",
@@ -82,7 +126,12 @@
       "en": "purchasing power",
       "example": "Le pouvoir d’achat stagne malgré la légère reprise de la croissance.",
       "ipa": "pu.vwaʁ da.ʃa",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "purchasing power",
+        "es": "poder adquisitivo",
+        "ru": "покупательная способность"
+      }
     },
     {
       "id": "remote-economy-b2-10",
@@ -90,7 +139,12 @@
       "en": "economic climate",
       "example": "La conjoncture internationale pèse davantage que les mesures nationales à court terme.",
       "ipa": "kɔ̃.ʒɔ̃k.tyʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "economic climate",
+        "es": "clima económico",
+        "ru": "экономический климат"
+      }
     },
     {
       "id": "remote-economy-b2-11",
@@ -98,7 +152,12 @@
       "en": "supply",
       "example": "L’offre de logements ne suit pas la demande dans les grandes métropoles.",
       "ipa": "ɔfʁ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "supply",
+        "es": "suministrar",
+        "ru": "поставлять"
+      }
     },
     {
       "id": "remote-economy-b2-12",
@@ -106,7 +165,12 @@
       "en": "demand",
       "example": "Lorsque la demande se contracte, les entreprises reportent leurs embauches.",
       "ipa": "də.mɑ̃d",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "demand",
+        "es": "demanda",
+        "ru": "требовать"
+      }
     },
     {
       "id": "remote-economy-b2-13",
@@ -114,7 +178,12 @@
       "en": "rate",
       "example": "Le taux d’intérêt a été relevé afin de freiner l’inflation persistante.",
       "ipa": "to",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "rate",
+        "es": "tasa",
+        "ru": "ставка"
+      }
     },
     {
       "id": "remote-economy-b2-14",
@@ -122,7 +191,12 @@
       "en": "deficit",
       "example": "Le déficit budgétaire se creuse, néanmoins le gouvernement refuse l’austérité brutale.",
       "ipa": "de.fi.sit",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "deficit",
+        "es": "déficit",
+        "ru": "дефицит"
+      }
     },
     {
       "id": "remote-economy-b2-15",
@@ -130,7 +204,12 @@
       "en": "shareholder",
       "example": "Les actionnaires exigent un rendement que la direction juge trop élevé.",
       "ipa": "ak.sjɔ.nɛʁ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "shareholder",
+        "es": "accionista",
+        "ru": "акционер"
+      }
     },
     {
       "id": "remote-economy-b2-16",
@@ -138,7 +217,12 @@
       "en": "budget",
       "example": "Le budget de l’année prochaine devra arbitrer entre transition écologique et pouvoir d’achat.",
       "ipa": "byd.ʒɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "budget",
+        "es": "presupuesto",
+        "ru": "бюджет"
+      }
     },
     {
       "id": "remote-economy-b2-17",
@@ -146,7 +230,12 @@
       "en": "export",
       "example": "Les exportations ont résisté, en revanche la consommation intérieure s’essouffle.",
       "ipa": "ɛk.spɔʁ.ta.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "export",
+        "es": "exportar",
+        "ru": "экспорт"
+      }
     },
     {
       "id": "remote-economy-b2-18",
@@ -154,7 +243,12 @@
       "en": "competition",
       "example": "La concurrence internationale pousse les industriels à innover plus vite.",
       "ipa": "kɔ̃.ky.ʁɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "competition",
+        "es": "competencia",
+        "ru": "соревнование"
+      }
     },
     {
       "id": "remote-economy-b2-19",
@@ -162,7 +256,12 @@
       "en": "taxation",
       "example": "Une fiscalité plus progressive pourrait corriger une partie des inégalités.",
       "ipa": "fis.ka.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "taxation",
+        "es": "impuestos",
+        "ru": "налогообложение"
+      }
     },
     {
       "id": "remote-economy-b2-20",
@@ -170,7 +269,12 @@
       "en": "indicator",
       "example": "Cet indicateur avancé laisse entrevoir un retournement du marché du travail.",
       "ipa": "ɛ̃.di.ka.tœʁ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "indicator",
+        "es": "indicador",
+        "ru": "индикатор"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-economy-phrase-1",
       "fr": "Si l’inflation persistait, le pouvoir d’achat reculerait encore davantage.",
       "en": "If inflation persisted, purchasing power would fall even further.",
-      "ipa": "si lɛ̃.fla.sjɔ̃ pɛʁ.sis.tɛ lə pu.vwaʁ da.ʃa ʁə.ky.lə.ʁɛ ɑ̃.kɔʁ da.vɑ̃.taʒ"
+      "ipa": "si lɛ̃.fla.sjɔ̃ pɛʁ.sis.tɛ lə pu.vwaʁ da.ʃa ʁə.ky.lə.ʁɛ ɑ̃.kɔʁ da.vɑ̃.taʒ",
+      "gloss": {
+        "en": "If inflation persisted, purchasing power would fall even further.",
+        "es": "Si la inflación persistiera, el poder adquisitivo caería aún más.",
+        "ru": "Если инфляция сохранится, покупательная способность упадет еще больше."
+      }
     },
     {
       "id": "remote-economy-phrase-2",
       "fr": "La croissance reprend, toutefois le chômage des jeunes reste préoccupant.",
       "en": "Growth is picking up; however youth unemployment remains worrying.",
-      "ipa": "la kʁwa.sɑ̃s ʁə.pʁɑ̃ tu.tə.fwa lə ʃo.maʒ de ʒœn ʁɛst pʁe.ɔ.ky.pɑ̃"
+      "ipa": "la kʁwa.sɑ̃s ʁə.pʁɑ̃ tu.tə.fwa lə ʃo.maʒ de ʒœn ʁɛst pʁe.ɔ.ky.pɑ̃",
+      "gloss": {
+        "en": "Growth is picking up; however youth unemployment remains worrying.",
+        "es": "El crecimiento está repuntando; Sin embargo, el desempleo juvenil sigue siendo preocupante.",
+        "ru": "Рост ускоряется; однако безработица среди молодежи по-прежнему вызывает тревогу."
+      }
     },
     {
       "id": "remote-economy-phrase-3",
       "fr": "Il est souhaitable que l’investissement public cible les secteurs d’avenir.",
       "en": "It is desirable that public investment target future-oriented sectors.",
-      "ipa": "il ɛ su.ɛ.tabl kə lɛ̃.vɛs.tis.mɑ̃ py.blik sib lə sɛk.tœʁ da.və.niʁ"
+      "ipa": "il ɛ su.ɛ.tabl kə lɛ̃.vɛs.tis.mɑ̃ py.blik sib lə sɛk.tœʁ da.və.niʁ",
+      "gloss": {
+        "en": "It is desirable that public investment target future-oriented sectors.",
+        "es": "Es deseable que la inversión pública se dirija a sectores orientados al futuro.",
+        "ru": "Желательно, чтобы государственные инвестиции были нацелены на сектора, ориентированные на будущее."
+      }
     },
     {
       "id": "remote-economy-phrase-4",
       "fr": "En revanche, une hausse trop brutale des taux risquerait d’étouffer la demande.",
       "en": "By contrast, too sharp a rise in rates would risk stifling demand.",
-      "ipa": "ɑ̃ ʁə.vɑ̃ʃ yn os tʁo bʁy.tal de to ʁis.kə.ʁɛ de.tu.fe la də.mɑ̃d"
+      "ipa": "ɑ̃ ʁə.vɑ̃ʃ yn os tʁo bʁy.tal de to ʁis.kə.ʁɛ de.tu.fe la də.mɑ̃d",
+      "gloss": {
+        "en": "By contrast, too sharp a rise in rates would risk stifling demand.",
+        "es": "Por el contrario, un aumento demasiado pronunciado de las tasas correría el riesgo de sofocar la demanda.",
+        "ru": "Напротив, слишком резкое повышение ставок может привести к удушению спроса."
+      }
     },
     {
       "id": "remote-economy-phrase-5",
       "fr": "Bien que le PIB ait légèrement progressé, beaucoup de ménages ne le ressentent pas.",
       "en": "Although GDP has risen slightly, many households do not feel it.",
-      "ipa": "bjɛ̃ kə lə pe.i.be ɛ le.ʒɛʁ.mɑ̃ pʁɔ.ɡʁe.se bo.ku də me.naʒ nə lə ʁə.sɑ̃ pa"
+      "ipa": "bjɛ̃ kə lə pe.i.be ɛ le.ʒɛʁ.mɑ̃ pʁɔ.ɡʁe.se bo.ku də me.naʒ nə lə ʁə.sɑ̃ pa",
+      "gloss": {
+        "en": "Although GDP has risen slightly, many households do not feel it.",
+        "es": "Aunque el PIB ha aumentado ligeramente, muchos hogares no lo notan.",
+        "ru": "Хотя ВВП немного вырос, многие домохозяйства этого не ощущают."
+      }
     },
     {
       "id": "remote-economy-phrase-6",
       "fr": "On pourrait objecter que la dette finance aujourd’hui l’activité de demain.",
       "en": "One might object that debt is financing tomorrow’s activity today.",
-      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la dɛt fi.nɑ̃s o.ʒuʁ.dɥi lak.ti.vi.te də də.mɛ̃"
+      "ipa": "ɔ̃ pu.ʁɛ ɔb.ʒɛk.te kə la dɛt fi.nɑ̃s o.ʒuʁ.dɥi lak.ti.vi.te də də.mɛ̃",
+      "gloss": {
+        "en": "One might object that debt is financing tomorrow’s activity today.",
+        "es": "Se podría objetar que la deuda financia hoy la actividad de mañana.",
+        "ru": "Кто-то может возразить, что долг сегодня финансирует завтрашнюю деятельность."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "croissance",
         "récession",
         "conjoncture"
-      ]
+      ],
+      "gloss": {
+        "en": "Inflation is weighing on the purchasing power of modest households.",
+        "es": "La inflación está pesando sobre el poder adquisitivo de los hogares modestos.",
+        "ru": "Инфляция оказывает давление на покупательную способность скромных домохозяйств."
+      },
+      "wordGloss": {
+        "en": "inflation",
+        "es": "inflación",
+        "ru": "инфляция"
+      }
     },
     {
       "id": "remote-economy-listen-2",
@@ -236,7 +380,17 @@
         "déficit",
         "taux",
         "indicateur"
-      ]
+      ],
+      "gloss": {
+        "en": "Youth unemployment remains higher than the average.",
+        "es": "El desempleo juvenil sigue siendo superior a la media.",
+        "ru": "Безработица среди молодежи остается выше среднего уровня."
+      },
+      "wordGloss": {
+        "en": "unemployment",
+        "es": "desempleo",
+        "ru": "безработица"
+      }
     },
     {
       "id": "remote-economy-listen-3",
@@ -249,7 +403,17 @@
         "exportation",
         "budget",
         "fiscalité"
-      ]
+      ],
+      "gloss": {
+        "en": "Public investment in infrastructure could revive activity.",
+        "es": "La inversión pública en infraestructura podría reactivar la actividad.",
+        "ru": "Государственные инвестиции в инфраструктуру могут оживить активность."
+      },
+      "wordGloss": {
+        "en": "investment",
+        "es": "inversión",
+        "ru": "инвестиции"
+      }
     },
     {
       "id": "remote-economy-listen-4",
@@ -262,7 +426,17 @@
         "concurrence",
         "actionnaire",
         "offre"
-      ]
+      ],
+      "gloss": {
+        "en": "The job market is tightening in several sectors.",
+        "es": "El mercado laboral se está ajustando en varios sectores.",
+        "ru": "Рынок труда сжимается в нескольких секторах."
+      },
+      "wordGloss": {
+        "en": "market",
+        "es": "mercado",
+        "ru": "рынок"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-economy-grammar-1",
       "title": {
         "fr": "La nominalisation économique",
-        "en": "Economic nominalization"
+        "en": "Economic nominalization",
+        "es": "Nominalización económica",
+        "ru": "Экономическая номинализация"
       },
-      "rule": "En français soutenu, on transforme souvent un verbe en nom : croître → la croissance, inflater → l’inflation, investir → l’investissement, chômer → le chômage. Le nom permet de condenser un raisonnement : La croissance a ralenti plutôt que L’économie croît moins vite.",
+      "rule": {
+        "fr": "En français soutenu, on transforme souvent un verbe en nom : croître → la croissance, inflater → l’inflation, investir → l’investissement, chômer → le chômage. Le nom permet de condenser un raisonnement : La croissance a ralenti plutôt que L’économie croît moins vite.",
+        "en": "In sustained French, we often transform a verb into a noun: grow → growth, inflate → inflation, invest → investment, chômer → unemployment. The name makes it possible to condense reasoning: Growth has slowed down rather than The economy is growing less quickly.",
+        "es": "En francés sostenido, a menudo transformamos un verbo en un sustantivo: crecer → crecimiento, inflar → inflación, invertir → inversión, chômer → desempleo. El nombre permite condensar el razonamiento: El crecimiento se ha desacelerado en lugar de La economía crece menos rápidamente.",
+        "ru": "В устойчивом французском языке мы часто преобразуем глагол в существительное: расти → рост, инфляция → инфляция, инвестировать → инвестиции, chômer → безработица. Название позволяет кратко сформулировать рассуждения: «Рост скорее замедлился», чем «Экономика растет менее быстро»."
+      },
       "table": [
         [
           "Verbe",
@@ -337,15 +518,27 @@
             "chômeur"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Economic nominalization.",
+        "es": "Útil cuando necesitas aplicar: Nominalización económica.",
+        "ru": "Полезно, когда нужно применить: Экономическую номинализацию."
+      }
     },
     {
       "id": "remote-economy-grammar-2",
       "title": {
         "fr": "En revanche, toutefois, cependant",
-        "en": "Contrast markers in economic argument"
+        "en": "Contrast markers in economic argument",
+        "es": "Marcadores de contraste en el argumento económico",
+        "ru": "Контрастные маркеры в экономической аргументации"
       },
-      "rule": "Pour nuancer un indicateur : toutefois et cependant concèdent sans annuler. En revanche oppose deux secteurs ou deux grandeurs. La croissance reprend, toutefois le chômage reste élevé. Le marché de l’emploi se tend ; en revanche certains secteurs manquent de personnel.",
+      "rule": {
+        "fr": "Pour nuancer un indicateur : toutefois et cependant concèdent sans annuler. En revanche oppose deux secteurs ou deux grandeurs. La croissance reprend, toutefois le chômage reste élevé. Le marché de l’emploi se tend ; en revanche certains secteurs manquent de personnel.",
+        "en": "To qualify an indicator: however and however concede without canceling. On the other hand, two sectors or two sizes are opposed. Growth is picking up, but unemployment remains high. The job market is tightening; on the other hand, certain sectors lack staff.",
+        "es": "Para calificar un indicador: como sea y como sea conceder sin cancelar. En cambio, se oponen dos sectores o dos tamaños. El crecimiento está repuntando, pero el desempleo sigue siendo alto. El mercado laboral se está ajustando; por otro lado, ciertos sectores carecen de personal.",
+        "ru": "Квалифицировать показатель: однако и как бы уступить, не отменив. С другой стороны, два сектора или два размера противостоят друг другу. Экономический рост ускоряется, но безработица остается высокой. Рынок труда ужесточается; с другой стороны, в некоторых секторах не хватает персонала."
+      },
       "table": [
         [
           "Marqueur",
@@ -389,7 +582,12 @@
             "Si"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Contrast markers in economic argument.",
+        "es": "Útil cuando es necesario aplicar: Marcadores de contraste en argumentos económicos.",
+        "ru": "Полезно, когда вам нужно применить: Контрастные маркеры в экономических аргументах."
+      }
     }
   ],
   "skills": {
@@ -398,19 +596,34 @@
         "id": "remote-economy-dict-1",
         "fr": "Si l’inflation persistait, le pouvoir d’achat reculerait encore davantage.",
         "en": "If inflation persisted, purchasing power would fall even further.",
-        "ipa": "si lɛ̃.fla.sjɔ̃ pɛʁ.sis.tɛ lə pu.vwaʁ da.ʃa ʁə.ky.lə.ʁɛ ɑ̃.kɔʁ da.vɑ̃.taʒ"
+        "ipa": "si lɛ̃.fla.sjɔ̃ pɛʁ.sis.tɛ lə pu.vwaʁ da.ʃa ʁə.ky.lə.ʁɛ ɑ̃.kɔʁ da.vɑ̃.taʒ",
+        "gloss": {
+          "en": "If inflation persisted, purchasing power would fall even further.",
+          "es": "Si la inflación persistiera, el poder adquisitivo caería aún más.",
+          "ru": "Если инфляция сохранится, покупательная способность упадет еще больше."
+        }
       },
       {
         "id": "remote-economy-dict-2",
         "fr": "La croissance reprend, toutefois le chômage des jeunes reste préoccupant.",
         "en": "Growth is picking up; however youth unemployment remains worrying.",
-        "ipa": "la kʁwa.sɑ̃s ʁə.pʁɑ̃ tu.tə.fwa lə ʃo.maʒ de ʒœn ʁɛst pʁe.ɔ.ky.pɑ̃"
+        "ipa": "la kʁwa.sɑ̃s ʁə.pʁɑ̃ tu.tə.fwa lə ʃo.maʒ de ʒœn ʁɛst pʁe.ɔ.ky.pɑ̃",
+        "gloss": {
+          "en": "Growth is picking up; however youth unemployment remains worrying.",
+          "es": "El crecimiento está repuntando; Sin embargo, el desempleo juvenil sigue siendo preocupante.",
+          "ru": "Рост ускоряется; однако безработица среди молодежи по-прежнему вызывает тревогу."
+        }
       },
       {
         "id": "remote-economy-dict-3",
         "fr": "Il est souhaitable que l’investissement public cible les secteurs d’avenir.",
         "en": "It is desirable that public investment target future-oriented sectors.",
-        "ipa": "il ɛ su.ɛ.tabl kə lɛ̃.vɛs.tis.mɑ̃ py.blik sib lə sɛk.tœʁ da.və.niʁ"
+        "ipa": "il ɛ su.ɛ.tabl kə lɛ̃.vɛs.tis.mɑ̃ py.blik sib lə sɛk.tœʁ da.və.niʁ",
+        "gloss": {
+          "en": "It is desirable that public investment target future-oriented sectors.",
+          "es": "Es deseable que la inversión pública se dirija a sectores orientados al futuro.",
+          "ru": "Желательно, чтобы государственные инвестиции были нацелены на сектора, ориентированные на будущее."
+        }
       }
     ],
     "meaning": [
@@ -418,63 +631,93 @@
         "id": "remote-economy-mean-1",
         "fr": "Si l’inflation persistait, le pouvoir d’achat reculerait encore davantage.",
         "en": "If inflation persisted, purchasing power would fall even further.",
-        "choices": [
-          "If inflation persisted, purchasing power would fall even further.",
-          "Unemployment among young people has already disappeared.",
-          "Shareholders have refused any return on investment."
-        ]
+        "gloss": {
+          "en": "If inflation persisted, purchasing power would fall even further.",
+          "es": "Si la inflación persistiera, el poder adquisitivo caería aún más.",
+          "ru": "Если инфляция сохранится, покупательная способность упадет еще больше."
+        }
       },
       {
         "id": "remote-economy-mean-2",
         "fr": "La croissance reprend, toutefois le chômage des jeunes reste préoccupant.",
         "en": "Growth is picking up; however youth unemployment remains worrying.",
-        "choices": [
-          "Growth is picking up; however youth unemployment remains worrying.",
-          "The budget surplus will finance a sharp tax cut.",
-          "Exports collapsed while domestic demand soared."
-        ]
+        "gloss": {
+          "en": "Growth is picking up; however youth unemployment remains worrying.",
+          "es": "El crecimiento está repuntando; Sin embargo, el desempleo juvenil sigue siendo preocupante.",
+          "ru": "Рост ускоряется; однако безработица среди молодежи по-прежнему вызывает тревогу."
+        }
       },
       {
         "id": "remote-economy-mean-3",
         "fr": "Il est souhaitable que l’investissement public cible les secteurs d’avenir.",
         "en": "It is desirable that public investment target future-oriented sectors.",
-        "choices": [
-          "It is desirable that public investment target future-oriented sectors.",
-          "Interest rates should be raised to boost inflation.",
-          "Public debt never finances future activity."
-        ]
+        "gloss": {
+          "en": "It is desirable that public investment target future-oriented sectors.",
+          "es": "Es deseable que la inversión pública se dirija a sectores orientados al futuro.",
+          "ru": "Желательно, чтобы государственные инвестиции были нацелены на сектора, ориентированные на будущее."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-economy-fren-1",
         "fr": "croissance",
-        "en": "growth"
+        "en": "growth",
+        "gloss": {
+          "en": "growth",
+          "es": "crecimiento",
+          "ru": "рост"
+        }
       },
       {
         "id": "remote-economy-fren-2",
         "fr": "inflation",
-        "en": "inflation"
+        "en": "inflation",
+        "gloss": {
+          "en": "inflation",
+          "es": "inflación",
+          "ru": "инфляция"
+        }
       },
       {
         "id": "remote-economy-fren-3",
         "fr": "chômage",
-        "en": "unemployment"
+        "en": "unemployment",
+        "gloss": {
+          "en": "unemployment",
+          "es": "desempleo",
+          "ru": "безработица"
+        }
       },
       {
         "id": "remote-economy-fren-4",
         "fr": "marché",
-        "en": "market"
+        "en": "market",
+        "gloss": {
+          "en": "market",
+          "es": "mercado",
+          "ru": "рынок"
+        }
       },
       {
         "id": "remote-economy-fren-5",
         "fr": "investissement",
-        "en": "investment"
+        "en": "investment",
+        "gloss": {
+          "en": "investment",
+          "es": "inversión",
+          "ru": "инвестиции"
+        }
       },
       {
         "id": "remote-economy-fren-6",
         "fr": "PIB",
-        "en": "GDP"
+        "en": "GDP",
+        "gloss": {
+          "en": "GDP",
+          "es": "PIB",
+          "ru": "ВВП"
+        }
       }
     ],
     "aloud": [
@@ -482,19 +725,34 @@
         "id": "remote-economy-aloud-1",
         "fr": "Si l’inflation persistait, le pouvoir d’achat reculerait encore davantage.",
         "en": "If inflation persisted, purchasing power would fall even further.",
-        "ipa": "si lɛ̃.fla.sjɔ̃ pɛʁ.sis.tɛ lə pu.vwaʁ da.ʃa ʁə.ky.lə.ʁɛ ɑ̃.kɔʁ da.vɑ̃.taʒ"
+        "ipa": "si lɛ̃.fla.sjɔ̃ pɛʁ.sis.tɛ lə pu.vwaʁ da.ʃa ʁə.ky.lə.ʁɛ ɑ̃.kɔʁ da.vɑ̃.taʒ",
+        "gloss": {
+          "en": "If inflation persisted, purchasing power would fall even further.",
+          "es": "Si la inflación persistiera, el poder adquisitivo caería aún más.",
+          "ru": "Если инфляция сохранится, покупательная способность упадет еще больше."
+        }
       },
       {
         "id": "remote-economy-aloud-2",
         "fr": "Il est souhaitable que l’investissement public cible les secteurs d’avenir.",
         "en": "It is desirable that public investment target future-oriented sectors.",
-        "ipa": "il ɛ su.ɛ.tabl kə lɛ̃.vɛs.tis.mɑ̃ py.blik sib lə sɛk.tœʁ da.və.niʁ"
+        "ipa": "il ɛ su.ɛ.tabl kə lɛ̃.vɛs.tis.mɑ̃ py.blik sib lə sɛk.tœʁ da.və.niʁ",
+        "gloss": {
+          "en": "It is desirable that public investment target future-oriented sectors.",
+          "es": "Es deseable que la inversión pública se dirija a sectores orientados al futuro.",
+          "ru": "Желательно, чтобы государственные инвестиции были нацелены на сектора, ориентированные на будущее."
+        }
       },
       {
         "id": "remote-economy-aloud-3",
         "fr": "Bien que le PIB ait légèrement progressé, beaucoup de ménages ne le ressentent pas.",
         "en": "Although GDP has risen slightly, many households do not feel it.",
-        "ipa": "bjɛ̃ kə lə pe.i.be ɛ le.ʒɛʁ.mɑ̃ pʁɔ.ɡʁe.se bo.ku də me.naʒ nə lə ʁə.sɑ̃ pa"
+        "ipa": "bjɛ̃ kə lə pe.i.be ɛ le.ʒɛʁ.mɑ̃ pʁɔ.ɡʁe.se bo.ku də me.naʒ nə lə ʁə.sɑ̃ pa",
+        "gloss": {
+          "en": "Although GDP has risen slightly, many households do not feel it.",
+          "es": "Aunque el PIB ha aumentado ligeramente, muchos hogares no lo notan.",
+          "ru": "Хотя ВВП немного вырос, многие домохозяйства этого не ощущают."
+        }
       }
     ],
     "unscramble": [
@@ -514,7 +772,12 @@
           "les",
           "ménages",
           "modestes."
-        ]
+        ],
+        "gloss": {
+          "en": "Inflation is weighing on purchasing power, especially for modest households.",
+          "es": "La inflación está pesando sobre el poder adquisitivo, especialmente para los hogares modestos.",
+          "ru": "Инфляция оказывает давление на покупательную способность, особенно для скромных домохозяйств."
+        }
       },
       {
         "id": "remote-economy-unsc-2",
@@ -532,7 +795,12 @@
           "la",
           "moyenne",
           "nationale."
-        ]
+        ],
+        "gloss": {
+          "en": "Youth unemployment remains higher than the national average.",
+          "es": "El desempleo juvenil sigue siendo superior al promedio nacional.",
+          "ru": "Безработица среди молодежи остается выше, чем в среднем по стране."
+        }
       }
     ]
   }

@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "media-b2",
-  "version": 1,
+  "version": 2,
   "level": "b2",
   "title": {
     "fr": "Médias et information B2",
-    "en": "Media and news B2"
+    "en": "Media and news B2",
+    "es": "Medios y noticias B2",
+    "ru": "СМИ и новости B2"
   },
   "description": {
     "fr": "Presse, biais, sources, titres et débats sur les réseaux sociaux.",
-    "en": "Press, bias, sources, headlines, and debate on social media."
+    "en": "Press, bias, sources, headlines, and debate on social media.",
+    "es": "Prensa, sesgos, fuentes, titulares y debate en las redes sociales.",
+    "ru": "Пресса, предвзятость, источники, заголовки и дебаты в социальных сетях."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "newsroom",
       "example": "La rédaction a décidé de vérifier chaque source avant publication.",
       "ipa": "ʁe.dak.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "newsroom",
+        "es": "sala de redacción",
+        "ru": "отдел новостей"
+      }
     },
     {
       "id": "remote-media-b2-2",
@@ -26,7 +35,12 @@
       "en": "impartiality",
       "example": "L’impartialité du journal est mise en doute depuis cette enquête.",
       "ipa": "ɛ̃.paʁ.sja.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "impartiality",
+        "es": "imparcialidad",
+        "ru": "беспристрастность"
+      }
     },
     {
       "id": "remote-media-b2-3",
@@ -34,7 +48,12 @@
       "en": "source",
       "example": "Aucune source indépendante n’a encore confirmé cette information.",
       "ipa": "suʁs",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      }
     },
     {
       "id": "remote-media-b2-4",
@@ -42,7 +61,12 @@
       "en": "bias",
       "example": "Ce biais éditorial transparaît dès le choix des titres en une.",
       "ipa": "bjɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "bias",
+        "es": "inclinación",
+        "ru": "предвзятость"
+      }
     },
     {
       "id": "remote-media-b2-5",
@@ -50,7 +74,12 @@
       "en": "disinformation",
       "example": "La désinformation se propage plus vite que le démenti officiel.",
       "ipa": "de.zɛ̃.fɔʁ.ma.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "disinformation",
+        "es": "desinformación",
+        "ru": "дезинформация"
+      }
     },
     {
       "id": "remote-media-b2-6",
@@ -58,7 +87,12 @@
       "en": "headline",
       "example": "Le titre choc a été jugé trompeur par une partie des lecteurs.",
       "ipa": "titʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "headline",
+        "es": "titular",
+        "ru": "заголовок"
+      }
     },
     {
       "id": "remote-media-b2-7",
@@ -66,7 +100,12 @@
       "en": "investigation",
       "example": "L’enquête journalistique a révélé des conflits d’intérêts jusqu’alors ignorés.",
       "ipa": "ɑ̃.kɛt",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "investigation",
+        "es": "investigación",
+        "ru": "расследование"
+      }
     },
     {
       "id": "remote-media-b2-8",
@@ -74,7 +113,12 @@
       "en": "correspondent",
       "example": "Le correspondant à l’étranger a transmis des images malgré la censure.",
       "ipa": "kɔ.ʁɛs.pɔ̃.dɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "correspondent",
+        "es": "corresponsal",
+        "ru": "корреспондент"
+      }
     },
     {
       "id": "remote-media-b2-9",
@@ -82,7 +126,12 @@
       "en": "fact-checking",
       "example": "La vérification des faits exige du temps que le direct ne laisse pas.",
       "ipa": "ve.ʁi.fi.ka.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "fact-checking",
+        "es": "verificación de hechos",
+        "ru": "проверка фактов"
+      }
     },
     {
       "id": "remote-media-b2-10",
@@ -90,7 +139,12 @@
       "en": "polarization",
       "example": "La polarisation du débat en ligne décourage les voix modérées.",
       "ipa": "pɔ.la.ʁi.za.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
+      }
     },
     {
       "id": "remote-media-b2-11",
@@ -98,7 +152,12 @@
       "en": "audience / ratings",
       "example": "L’audience du journal télévisé recule face aux chaînes d’information continue.",
       "ipa": "o.djɑ̃s",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "audience / ratings",
+        "es": "audiencia / ratings",
+        "ru": "аудитория/рейтинги"
+      }
     },
     {
       "id": "remote-media-b2-12",
@@ -106,7 +165,12 @@
       "en": "editorial",
       "example": "L’éditorial du dimanche prend clairement parti, en revanche les brèves restent factuelles.",
       "ipa": "e.di.tɔ.ʁjal",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "editorial",
+        "es": "editorial",
+        "ru": "редакционная статья"
+      }
     },
     {
       "id": "remote-media-b2-13",
@@ -114,7 +178,12 @@
       "en": "whistleblower",
       "example": "Le lanceur d’alerte a d’abord contacté la rédaction plutôt que la police.",
       "ipa": "lɑ̃.sœʁ dalɛʁt",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "whistleblower",
+        "es": "denunciante",
+        "ru": "осведомитель"
+      }
     },
     {
       "id": "remote-media-b2-14",
@@ -122,7 +191,12 @@
       "en": "coverage",
       "example": "La couverture de la crise a été jugée trop émotionnelle par certains experts.",
       "ipa": "ku.vɛʁ.tyʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "coverage",
+        "es": "cobertura",
+        "ru": "покрытие"
+      }
     },
     {
       "id": "remote-media-b2-15",
@@ -130,7 +204,12 @@
       "en": "social network",
       "example": "Ce réseau social amplifie les contenus clivants afin de retenir l’attention.",
       "ipa": "ʁe.zo sɔ.sjal",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "social network",
+        "es": "red social",
+        "ru": "социальная сеть"
+      }
     },
     {
       "id": "remote-media-b2-16",
@@ -138,7 +217,12 @@
       "en": "virality",
       "example": "La viralité d’une rumeur ne prouve en rien sa fiabilité.",
       "ipa": "vi.ʁa.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "virality",
+        "es": "viralidad",
+        "ru": "виральность"
+      }
     },
     {
       "id": "remote-media-b2-17",
@@ -146,7 +230,12 @@
       "en": "rumour / rumor",
       "example": "La rumeur a circulé plusieurs heures avant d’être démentie.",
       "ipa": "ʁy.mœʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "rumour / rumor",
+        "es": "rumor / rumor",
+        "ru": "слух / слух"
+      }
     },
     {
       "id": "remote-media-b2-18",
@@ -154,7 +243,12 @@
       "en": "pluralism",
       "example": "Le pluralisme de l’information suppose des médias aux lignes éditoriales diverses.",
       "ipa": "ply.ʁa.lism",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "pluralism",
+        "es": "pluralismo",
+        "ru": "плюрализм"
+      }
     },
     {
       "id": "remote-media-b2-19",
@@ -162,7 +256,12 @@
       "en": "paywall",
       "example": "Derrière le paywall, le dossier offre davantage de contexte et de nuances.",
       "ipa": "pɛ.wɔl",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "paywall",
+        "es": "muro de pago",
+        "ru": "платный доступ"
+      }
     },
     {
       "id": "remote-media-b2-20",
@@ -170,7 +269,12 @@
       "en": "front page",
       "example": "La une du quotidien consacre trois colonnes à ce scandale politique.",
       "ipa": "yn",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "front page",
+        "es": "página delantera",
+        "ru": "первая страница"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-media-phrase-1",
       "fr": "Il convient de croiser plusieurs sources avant de partager une information.",
       "en": "You should cross-check several sources before sharing a piece of news.",
-      "ipa": "il kɔ̃.vjɛ̃ də kʁwa.ze ply.zjœʁ suʁs a.vɑ̃ də paʁ.ta.ʒe yn ɛ̃.fɔʁ.ma.sjɔ̃"
+      "ipa": "il kɔ̃.vjɛ̃ də kʁwa.ze ply.zjœʁ suʁs a.vɑ̃ də paʁ.ta.ʒe yn ɛ̃.fɔʁ.ma.sjɔ̃",
+      "gloss": {
+        "en": "You should cross-check several sources before sharing a piece of news.",
+        "es": "Debes cotejar varias fuentes antes de compartir una noticia.",
+        "ru": "Прежде чем поделиться новостью, вам следует перепроверить несколько источников."
+      }
     },
     {
       "id": "remote-media-phrase-2",
       "fr": "Ce titre est accrocheur, toutefois il simplifie à l’excès le dossier.",
       "en": "This headline is catchy; however it oversimplifies the story.",
-      "ipa": "sə titʁ ɛ ta.kʁɔ.ʃœʁ tu.tə.fwa il sɛ̃.pli.fi a lɛk.sɛ lə dwɑ.sje"
+      "ipa": "sə titʁ ɛ ta.kʁɔ.ʃœʁ tu.tə.fwa il sɛ̃.pli.fi a lɛk.sɛ lə dwɑ.sje",
+      "gloss": {
+        "en": "This headline is catchy; however it oversimplifies the story.",
+        "es": "Este titular es pegadizo; sin embargo, simplifica demasiado la historia.",
+        "ru": "Этот заголовок запоминающийся; однако это слишком упрощает историю."
+      }
     },
     {
       "id": "remote-media-phrase-3",
       "fr": "Bien que l’article soit bien documenté, un biais transparaît dans le choix des témoins.",
       "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
-      "ipa": "bjɛ̃ kə laʁ.tikl swa bjɛ̃ dɔ.ky.mɑ̃.te œ̃ bjɛ tʁɑ̃s.pa.ʁɛ dɑ̃ lə ʃwa de te.mwɛ̃"
+      "ipa": "bjɛ̃ kə laʁ.tikl swa bjɛ̃ dɔ.ky.mɑ̃.te œ̃ bjɛ tʁɑ̃s.pa.ʁɛ dɑ̃ lə ʃwa de te.mwɛ̃",
+      "gloss": {
+        "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+        "es": "Aunque el artículo está bien documentado, se muestra un sesgo en la elección de los testigos.",
+        "ru": "Хотя статья хорошо задокументирована, в выборе свидетелей проявляется предвзятость."
+      }
     },
     {
       "id": "remote-media-phrase-4",
       "fr": "En revanche, les réseaux sociaux privilégient la vitesse plutôt que la vérification.",
       "en": "By contrast, social media favour speed over fact-checking.",
-      "ipa": "ɑ̃ ʁə.vɑ̃ʃ le ʁe.zo sɔ.sjo pʁi.vi.le.ʒi la vi.tɛs pʁy.tɔ kə la ve.ʁi.fi.ka.sjɔ̃"
+      "ipa": "ɑ̃ ʁə.vɑ̃ʃ le ʁe.zo sɔ.sjo pʁi.vi.le.ʒi la vi.tɛs pʁy.tɔ kə la ve.ʁi.fi.ka.sjɔ̃",
+      "gloss": {
+        "en": "By contrast, social media favour speed over fact-checking.",
+        "es": "Por el contrario, las redes sociales prefieren la velocidad a la verificación de datos.",
+        "ru": "Напротив, социальные сети предпочитают скорость проверке фактов."
+      }
     },
     {
       "id": "remote-media-phrase-5",
       "fr": "Je doute que cette rumeur soit fondée, même si elle circule partout.",
       "en": "I doubt this rumour is well-founded, even if it is circulating everywhere.",
-      "ipa": "ʒə dut kə sɛt ʁy.mœʁ swa fɔ̃.de mɛm si ɛl siʁ.kyl paʁ.tu"
+      "ipa": "ʒə dut kə sɛt ʁy.mœʁ swa fɔ̃.de mɛm si ɛl siʁ.kyl paʁ.tu",
+      "gloss": {
+        "en": "I doubt this rumour is well-founded, even if it is circulating everywhere.",
+        "es": "Dudo que este rumor esté bien fundamentado, aunque esté circulando por todas partes.",
+        "ru": "Я сомневаюсь, что этот слух обоснован, даже если он распространяется повсюду."
+      }
     },
     {
       "id": "remote-media-phrase-6",
       "fr": "Pourrait-on obtenir une réaction officielle afin que le public soit informé ?",
       "en": "Could we get an official response so that the public is informed?",
-      "ipa": "pu.ʁɛ.tɔ̃ ɔp.tə.niʁ yn ʁe.ak.sjɔ̃ ɔ.fi.sjɛl a.fɛ̃ kə lə py.blik swa ɛ̃.fɔʁ.me"
+      "ipa": "pu.ʁɛ.tɔ̃ ɔp.tə.niʁ yn ʁe.ak.sjɔ̃ ɔ.fi.sjɛl a.fɛ̃ kə lə py.blik swa ɛ̃.fɔʁ.me",
+      "gloss": {
+        "en": "Could we get an official response so that the public is informed?",
+        "es": "¿Podríamos obtener una respuesta oficial para que el público esté informado?",
+        "ru": "Можем ли мы получить официальный ответ, чтобы проинформировать общественность?"
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "enquête",
         "éditorial",
         "titre"
-      ]
+      ],
+      "gloss": {
+        "en": "The newsroom decided to check every source.",
+        "es": "La redacción decidió comprobar todas las fuentes.",
+        "ru": "Редакция новостей решила проверить все источники."
+      },
+      "wordGloss": {
+        "en": "newsroom",
+        "es": "sala de redacción",
+        "ru": "отдел новостей"
+      }
     },
     {
       "id": "remote-media-listen-2",
@@ -236,7 +380,17 @@
         "pluralisme",
         "impartialité",
         "couverture"
-      ]
+      ],
+      "gloss": {
+        "en": "This editorial bias shows from the choice of headlines.",
+        "es": "Este sesgo editorial se manifiesta en la elección de los titulares.",
+        "ru": "Эта редакционная предвзятость проявляется в выборе заголовков."
+      },
+      "wordGloss": {
+        "en": "bias",
+        "es": "inclinación",
+        "ru": "предвзятость"
+      }
     },
     {
       "id": "remote-media-listen-3",
@@ -249,7 +403,17 @@
         "rumeur",
         "viralité",
         "vérification"
-      ]
+      ],
+      "gloss": {
+        "en": "Disinformation spreads faster than the official denial.",
+        "es": "La desinformación se propaga más rápido que la negación oficial.",
+        "ru": "Дезинформация распространяется быстрее, чем официальное опровержение."
+      },
+      "wordGloss": {
+        "en": "disinformation",
+        "es": "desinformación",
+        "ru": "дезинформация"
+      }
     },
     {
       "id": "remote-media-listen-4",
@@ -262,7 +426,17 @@
         "audience",
         "paywall",
         "correspondant"
-      ]
+      ],
+      "gloss": {
+        "en": "The polarization of online debate discourages moderate voices.",
+        "es": "La polarización del debate en línea desalienta las voces moderadas.",
+        "ru": "Поляризация онлайн-дебатов препятствует умеренным голосам."
+      },
+      "wordGloss": {
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-media-grammar-1",
       "title": {
         "fr": "Marqueurs de discours : en revanche, toutefois, néanmoins",
-        "en": "Discourse markers: contrast"
+        "en": "Discourse markers: contrast",
+        "es": "Marcadores del discurso: contraste",
+        "ru": "Дискурсивные маркеры: контраст"
       },
-      "rule": "Pour opposer deux idées sans casser le raisonnement : toutefois, néanmoins, cependant, en revanche. En revanche introduit un contraste net. Toutefois et néanmoins atténuent : l’idée précédente reste valable, mais on la nuance.",
+      "rule": {
+        "fr": "Pour opposer deux idées sans casser le raisonnement : toutefois, néanmoins, cependant, en revanche. En revanche introduit un contraste net. Toutefois et néanmoins atténuent : l’idée précédente reste valable, mais on la nuance.",
+        "en": "To oppose two ideas without breaking the reasoning: however, nevertheless, however, on the other hand. On the other hand introduces a clear contrast. However and nevertheless attenuate: the previous idea remains valid, but we qualify it.",
+        "es": "Oponer dos ideas sin romper el razonamiento: sin embargo, sin embargo, sin embargo, por otro lado. Por otro lado introduce un claro contraste. Sin embargo y sin embargo atenuar: la idea anterior sigue siendo válida, pero la matizamos.",
+        "ru": "Противопоставить две идеи, не нарушая рассуждения: однако, тем не менее, однако, с другой стороны. С другой стороны, вводится явный контраст. Однако и тем не менее ослабим: предыдущая идея остается в силе, но мы ее уточняем."
+      },
       "table": [
         [
           "Marqueur",
@@ -337,15 +518,27 @@
             "lorsque"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Discourse markers: contrast.",
+        "es": "Útil cuando es necesario aplicar: Marcadores discursivos: contraste.",
+        "ru": "Полезно, когда вам нужно применить: Маркеры дискурса: контраст."
+      }
     },
     {
       "id": "remote-media-grammar-2",
       "title": {
         "fr": "Bien que + subjonctif / malgré + nom",
-        "en": "Concessive: bien que vs malgré"
+        "en": "Concessive: bien que vs malgré",
+        "es": "Concesivo: bien que vs malgré",
+        "ru": "Уступка: bien que против malgré"
       },
-      "rule": "Bien que (ou quoique) est suivi du subjonctif : Bien que l’article soit documenté, un biais demeure. Malgré s’emploie avec un nom : malgré la censure. Ne pas dire malgré que à l’écrit soigné.",
+      "rule": {
+        "fr": "Bien que (ou quoique) est suivi du subjonctif : Bien que l’article soit documenté, un biais demeure. Malgré s’emploie avec un nom : malgré la censure. Ne pas dire malgré que à l’écrit soigné.",
+        "en": "Although (or although) is followed by the subjunctive: Although the article is documented, a bias remains. Despite is used with a noun: despite censorship. Do not say despite the careful writing.",
+        "es": "Aunque (o aunque) va seguido del subjuntivo: Aunque el artículo está documentado, persiste un sesgo. A pesar de se usa con un sustantivo: a pesar de la censura. No lo digas a pesar de la cuidadosa redacción.",
+        "ru": "Хотя (или хотя) за ним следует сослагательное наклонение: Хотя статья документирована, предвзятость сохраняется. Несмотря на существительное: несмотря на цензуру. Не говорите, несмотря на тщательное написание."
+      },
       "table": [
         [
           "Structure",
@@ -394,7 +587,12 @@
             "afin que"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Concessive: bien que vs malgré.",
+        "es": "Útil cuando necesitas aplicar: Concesivo: bien que vs malgré.",
+        "ru": "Полезно, когда вам нужно подать заявку: Уступка: bien que vs malgré."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-media-dict-1",
         "fr": "Il convient de croiser plusieurs sources avant de partager une information.",
         "en": "You should cross-check several sources before sharing a piece of news.",
-        "ipa": "il kɔ̃.vjɛ̃ də kʁwa.ze ply.zjœʁ suʁs a.vɑ̃ də paʁ.ta.ʒe yn ɛ̃.fɔʁ.ma.sjɔ̃"
+        "ipa": "il kɔ̃.vjɛ̃ də kʁwa.ze ply.zjœʁ suʁs a.vɑ̃ də paʁ.ta.ʒe yn ɛ̃.fɔʁ.ma.sjɔ̃",
+        "gloss": {
+          "en": "You should cross-check several sources before sharing a piece of news.",
+          "es": "Debes cotejar varias fuentes antes de compartir una noticia.",
+          "ru": "Прежде чем поделиться новостью, вам следует перепроверить несколько источников."
+        }
       },
       {
         "id": "remote-media-dict-2",
         "fr": "Ce titre est accrocheur, toutefois il simplifie à l’excès le dossier.",
         "en": "This headline is catchy; however it oversimplifies the story.",
-        "ipa": "sə titʁ ɛ ta.kʁɔ.ʃœʁ tu.tə.fwa il sɛ̃.pli.fi a lɛk.sɛ lə dwɑ.sje"
+        "ipa": "sə titʁ ɛ ta.kʁɔ.ʃœʁ tu.tə.fwa il sɛ̃.pli.fi a lɛk.sɛ lə dwɑ.sje",
+        "gloss": {
+          "en": "This headline is catchy; however it oversimplifies the story.",
+          "es": "Este titular es pegadizo; sin embargo, simplifica demasiado la historia.",
+          "ru": "Этот заголовок запоминающийся; однако это слишком упрощает историю."
+        }
       },
       {
         "id": "remote-media-dict-3",
         "fr": "Bien que l’article soit bien documenté, un biais transparaît dans le choix des témoins.",
         "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
-        "ipa": "bjɛ̃ kə laʁ.tikl swa bjɛ̃ dɔ.ky.mɑ̃.te œ̃ bjɛ tʁɑ̃s.pa.ʁɛ dɑ̃ lə ʃwa de te.mwɛ̃"
+        "ipa": "bjɛ̃ kə laʁ.tikl swa bjɛ̃ dɔ.ky.mɑ̃.te œ̃ bjɛ tʁɑ̃s.pa.ʁɛ dɑ̃ lə ʃwa de te.mwɛ̃",
+        "gloss": {
+          "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+          "es": "Aunque el artículo está bien documentado, se muestra un sesgo en la elección de los testigos.",
+          "ru": "Хотя статья хорошо задокументирована, в выборе свидетелей проявляется предвзятость."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-media-mean-1",
         "fr": "Il convient de croiser plusieurs sources avant de partager une information.",
         "en": "You should cross-check several sources before sharing a piece of news.",
-        "choices": [
-          "You should cross-check several sources before sharing a piece of news.",
-          "Headlines must always be short and emotional.",
-          "Whistleblowers should contact the police first."
-        ]
+        "gloss": {
+          "en": "You should cross-check several sources before sharing a piece of news.",
+          "es": "Debes cotejar varias fuentes antes de compartir una noticia.",
+          "ru": "Прежде чем поделиться новостью, вам следует перепроверить несколько источников."
+        }
       },
       {
         "id": "remote-media-mean-2",
         "fr": "Ce titre est accrocheur, toutefois il simplifie à l’excès le dossier.",
         "en": "This headline is catchy; however it oversimplifies the story.",
-        "choices": [
-          "This headline is catchy; however it oversimplifies the story.",
-          "The newsroom refused to publish the investigation.",
-          "Ratings have risen thanks to the paywall."
-        ]
+        "gloss": {
+          "en": "This headline is catchy; however it oversimplifies the story.",
+          "es": "Este titular es pegadizo; sin embargo, simplifica demasiado la historia.",
+          "ru": "Этот заголовок запоминающийся; однако это слишком упрощает историю."
+        }
       },
       {
         "id": "remote-media-mean-3",
         "fr": "Bien que l’article soit bien documenté, un biais transparaît dans le choix des témoins.",
         "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
-        "choices": [
-          "Although the article is well documented, a bias shows in the choice of witnesses.",
-          "The rumour was denied within a few minutes.",
-          "Social networks always guarantee pluralism."
-        ]
+        "gloss": {
+          "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+          "es": "Aunque el artículo está bien documentado, se muestra un sesgo en la elección de los testigos.",
+          "ru": "Хотя статья хорошо задокументирована, в выборе свидетелей проявляется предвзятость."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-media-fren-1",
         "fr": "rédaction",
-        "en": "newsroom"
+        "en": "newsroom",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        }
       },
       {
         "id": "remote-media-fren-2",
         "fr": "impartialité",
-        "en": "impartiality"
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        }
       },
       {
         "id": "remote-media-fren-3",
         "fr": "source",
-        "en": "source"
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
       },
       {
         "id": "remote-media-fren-4",
         "fr": "biais",
-        "en": "bias"
+        "en": "bias",
+        "gloss": {
+          "en": "bias",
+          "es": "inclinación",
+          "ru": "предвзятость"
+        }
       },
       {
         "id": "remote-media-fren-5",
         "fr": "désinformation",
-        "en": "disinformation"
+        "en": "disinformation",
+        "gloss": {
+          "en": "disinformation",
+          "es": "desinformación",
+          "ru": "дезинформация"
+        }
       },
       {
         "id": "remote-media-fren-6",
         "fr": "titre",
-        "en": "headline"
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-media-aloud-1",
         "fr": "Il convient de croiser plusieurs sources avant de partager une information.",
         "en": "You should cross-check several sources before sharing a piece of news.",
-        "ipa": "il kɔ̃.vjɛ̃ də kʁwa.ze ply.zjœʁ suʁs a.vɑ̃ də paʁ.ta.ʒe yn ɛ̃.fɔʁ.ma.sjɔ̃"
+        "ipa": "il kɔ̃.vjɛ̃ də kʁwa.ze ply.zjœʁ suʁs a.vɑ̃ də paʁ.ta.ʒe yn ɛ̃.fɔʁ.ma.sjɔ̃",
+        "gloss": {
+          "en": "You should cross-check several sources before sharing a piece of news.",
+          "es": "Debes cotejar varias fuentes antes de compartir una noticia.",
+          "ru": "Прежде чем поделиться новостью, вам следует перепроверить несколько источников."
+        }
       },
       {
         "id": "remote-media-aloud-2",
         "fr": "Bien que l’article soit bien documenté, un biais transparaît dans le choix des témoins.",
         "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
-        "ipa": "bjɛ̃ kə laʁ.tikl swa bjɛ̃ dɔ.ky.mɑ̃.te œ̃ bjɛ tʁɑ̃s.pa.ʁɛ dɑ̃ lə ʃwa de te.mwɛ̃"
+        "ipa": "bjɛ̃ kə laʁ.tikl swa bjɛ̃ dɔ.ky.mɑ̃.te œ̃ bjɛ tʁɑ̃s.pa.ʁɛ dɑ̃ lə ʃwa de te.mwɛ̃",
+        "gloss": {
+          "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+          "es": "Aunque el artículo está bien documentado, se muestra un sesgo en la elección de los testigos.",
+          "ru": "Хотя статья хорошо задокументирована, в выборе свидетелей проявляется предвзятость."
+        }
       },
       {
         "id": "remote-media-aloud-3",
         "fr": "Je doute que cette rumeur soit fondée, même si elle circule partout.",
         "en": "I doubt this rumour is well-founded, even if it is circulating everywhere.",
-        "ipa": "ʒə dut kə sɛt ʁy.mœʁ swa fɔ̃.de mɛm si ɛl siʁ.kyl paʁ.tu"
+        "ipa": "ʒə dut kə sɛt ʁy.mœʁ swa fɔ̃.de mɛm si ɛl siʁ.kyl paʁ.tu",
+        "gloss": {
+          "en": "I doubt this rumour is well-founded, even if it is circulating everywhere.",
+          "es": "Dudo que este rumor esté bien fundamentado, aunque esté circulando por todas partes.",
+          "ru": "Я сомневаюсь, что этот слух обоснован, даже если он распространяется повсюду."
+        }
       }
     ],
     "unscramble": [
@@ -518,7 +776,12 @@
           "rien",
           "sa",
           "fiabilité."
-        ]
+        ],
+        "gloss": {
+          "en": "The virality of a rumour in no way proves its reliability.",
+          "es": "La viralidad de un rumor no demuestra en modo alguno su fiabilidad.",
+          "ru": "Виральность слуха никоим образом не доказывает его достоверность."
+        }
       },
       {
         "id": "remote-media-unsc-2",
@@ -533,7 +796,12 @@
           "confirmé",
           "cette",
           "information."
-        ]
+        ],
+        "gloss": {
+          "en": "No independent source has yet confirmed this information.",
+          "es": "Ninguna fuente independiente ha confirmado todavía esta información.",
+          "ru": "Ни один независимый источник пока не подтвердил эту информацию."
+        }
       }
     ],
     "signs": [
@@ -541,13 +809,23 @@
         "id": "remote-media-sign-1",
         "fr": "salle de presse",
         "en": "press room",
-        "hint": "badges, cameras, journalists"
+        "hint": "badges, cameras, journalists",
+        "gloss": {
+          "en": "press room",
+          "es": "sala de prensa",
+          "ru": "пресс-центр"
+        }
       },
       {
         "id": "remote-media-sign-2",
         "fr": "rédaction",
         "en": "newsroom",
-        "hint": "desks, screens, newspapers"
+        "hint": "desks, screens, newspapers",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        }
       }
     ]
   }

@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "time-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "title": {
     "fr": "L’heure A1",
-    "en": "Time A1"
+    "en": "Time A1",
+    "es": "Hora A1",
+    "ru": "Время А1"
   },
   "description": {
     "fr": "Heures, jours et moments de la journée pour débutants.",
-    "en": "Hours, days, and times of day for beginners."
+    "en": "Hours, days, and times of day for beginners.",
+    "es": "Horas, días y horas del día para principiantes.",
+    "ru": "Часы, дни и время суток для начинающих."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "hour / time",
       "example": "Quelle heure est-il ?",
       "ipa": "œʁ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "hour / time",
+        "es": "hora / hora",
+        "ru": "час / время"
+      }
     },
     {
       "id": "remote-time-a1-2",
@@ -26,7 +35,12 @@
       "en": "minute",
       "example": "J’attends cinq minutes.",
       "ipa": "mi.nyt",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "minute",
+        "es": "minuto",
+        "ru": "минута"
+      }
     },
     {
       "id": "remote-time-a1-3",
@@ -34,7 +48,12 @@
       "en": "watch",
       "example": "Ma montre est cassée.",
       "ipa": "mɔ̃tʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "watch",
+        "es": "mirar",
+        "ru": "смотреть"
+      }
     },
     {
       "id": "remote-time-a1-4",
@@ -42,7 +61,12 @@
       "en": "clock",
       "example": "L’horloge est dans le salon.",
       "ipa": "ɔʁ.lɔʒ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "clock",
+        "es": "reloj",
+        "ru": "часы"
+      }
     },
     {
       "id": "remote-time-a1-5",
@@ -50,7 +74,12 @@
       "en": "morning",
       "example": "Je me lève le matin.",
       "ipa": "ma.tɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "morning",
+        "es": "mañana",
+        "ru": "утро"
+      }
     },
     {
       "id": "remote-time-a1-6",
@@ -58,7 +87,12 @@
       "en": "afternoon",
       "example": "On se voit cet après-midi.",
       "ipa": "a.pʁɛ.mi.di",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "afternoon",
+        "es": "tarde",
+        "ru": "полдень"
+      }
     },
     {
       "id": "remote-time-a1-7",
@@ -66,7 +100,12 @@
       "en": "evening",
       "example": "Je dîne le soir.",
       "ipa": "swaʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "evening",
+        "es": "noche",
+        "ru": "вечер"
+      }
     },
     {
       "id": "remote-time-a1-8",
@@ -74,7 +113,12 @@
       "en": "night",
       "example": "La nuit, je dors.",
       "ipa": "nɥi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "night",
+        "es": "noche",
+        "ru": "ночь"
+      }
     },
     {
       "id": "remote-time-a1-9",
@@ -82,7 +126,12 @@
       "en": "day",
       "example": "Il y a sept jours dans une semaine.",
       "ipa": "ʒuʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "day",
+        "es": "día",
+        "ru": "день"
+      }
     },
     {
       "id": "remote-time-a1-10",
@@ -90,7 +139,12 @@
       "en": "week",
       "example": "Je travaille toute la semaine.",
       "ipa": "sə.mɛn",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "week",
+        "es": "semana",
+        "ru": "неделя"
+      }
     },
     {
       "id": "remote-time-a1-11",
@@ -98,7 +152,12 @@
       "en": "month",
       "example": "Le mois de mai est agréable.",
       "ipa": "mwa",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "month",
+        "es": "mes",
+        "ru": "месяц"
+      }
     },
     {
       "id": "remote-time-a1-12",
@@ -106,7 +165,12 @@
       "en": "year",
       "example": "Bonne année !",
       "ipa": "a.ne",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "year",
+        "es": "año",
+        "ru": "год"
+      }
     },
     {
       "id": "remote-time-a1-13",
@@ -114,7 +178,12 @@
       "en": "Monday",
       "example": "Le lundi, je vais à l’école.",
       "ipa": "lœ̃.di",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "Monday",
+        "es": "Lunes",
+        "ru": "Понедельник"
+      }
     },
     {
       "id": "remote-time-a1-14",
@@ -122,7 +191,12 @@
       "en": "weekend",
       "example": "Le week-end, je me repose.",
       "ipa": "wik.ɛnd",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "weekend",
+        "es": "fin de semana",
+        "ru": "выходные"
+      }
     },
     {
       "id": "remote-time-a1-15",
@@ -130,7 +204,12 @@
       "en": "noon / midday",
       "example": "On mange à midi.",
       "ipa": "mi.di",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "noon / midday",
+        "es": "mediodía / mediodía",
+        "ru": "полдень / полдень"
+      }
     },
     {
       "id": "remote-time-a1-16",
@@ -138,7 +217,12 @@
       "en": "midnight",
       "example": "Le train part à minuit.",
       "ipa": "mi.nɥi",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "midnight",
+        "es": "medianoche",
+        "ru": "полночь"
+      }
     },
     {
       "id": "remote-time-a1-17",
@@ -146,7 +230,12 @@
       "en": "calendar",
       "example": "Regarde le calendrier.",
       "ipa": "ka.lɑ̃.dʁi.je",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "calendar",
+        "es": "calendario",
+        "ru": "календарь"
+      }
     },
     {
       "id": "remote-time-a1-18",
@@ -154,7 +243,12 @@
       "en": "Saturday",
       "example": "Le samedi, je me repose.",
       "ipa": "sa.mɛ.di",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "Saturday",
+        "es": "Sábado",
+        "ru": "Суббота"
+      }
     },
     {
       "id": "remote-time-a1-19",
@@ -162,7 +256,12 @@
       "en": "Sunday",
       "example": "Le dimanche, je vois ma famille.",
       "ipa": "di.mɑ̃ʃ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "Sunday",
+        "es": "Domingo",
+        "ru": "Воскресенье"
+      }
     },
     {
       "id": "remote-time-a1-20",
@@ -170,7 +269,12 @@
       "en": "quarter (of an hour)",
       "example": "Il est trois heures moins le quart.",
       "ipa": "kaʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "quarter (of an hour)",
+        "es": "cuarto de hora)",
+        "ru": "четверть (часа)"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-time-phrase-1",
       "fr": "Quelle heure est-il ?",
       "en": "What time is it?",
-      "ipa": "kɛl œʁ ɛ.t‿il"
+      "ipa": "kɛl œʁ ɛ.t‿il",
+      "gloss": {
+        "en": "What time is it?",
+        "es": "¿Qué hora es?",
+        "ru": "Который сейчас час?"
+      }
     },
     {
       "id": "remote-time-phrase-2",
       "fr": "Il est huit heures.",
       "en": "It’s eight o’clock.",
-      "ipa": "il ɛ ɥit œʁ"
+      "ipa": "il ɛ ɥit œʁ",
+      "gloss": {
+        "en": "It’s eight o’clock.",
+        "es": "Son las ocho.",
+        "ru": "Сейчас восемь часов."
+      }
     },
     {
       "id": "remote-time-phrase-3",
       "fr": "On se voit demain matin.",
       "en": "We’ll see each other tomorrow morning.",
-      "ipa": "ɔ̃ sə vwa də.mɛ̃ ma.tɛ̃"
+      "ipa": "ɔ̃ sə vwa də.mɛ̃ ma.tɛ̃",
+      "gloss": {
+        "en": "We’ll see each other tomorrow morning.",
+        "es": "Nos veremos mañana por la mañana.",
+        "ru": "Мы увидимся завтра утром."
+      }
     },
     {
       "id": "remote-time-phrase-4",
       "fr": "Le week-end, je me repose.",
       "en": "On the weekend, I rest.",
-      "ipa": "lə wik.ɛnd ʒə mə ʁə.poz"
+      "ipa": "lə wik.ɛnd ʒə mə ʁə.poz",
+      "gloss": {
+        "en": "On the weekend, I rest.",
+        "es": "El fin de semana descanso.",
+        "ru": "В выходные я отдыхаю."
+      }
     },
     {
       "id": "remote-time-phrase-5",
       "fr": "J’arrive à midi.",
       "en": "I arrive at noon.",
-      "ipa": "ʒa.ʁiv a mi.di"
+      "ipa": "ʒa.ʁiv a mi.di",
+      "gloss": {
+        "en": "I arrive at noon.",
+        "es": "Llego al mediodía.",
+        "ru": "Я прибываю в полдень."
+      }
     },
     {
       "id": "remote-time-phrase-6",
       "fr": "À bientôt !",
       "en": "See you soon!",
-      "ipa": "a bjɛ̃.to"
+      "ipa": "a bjɛ̃.to",
+      "gloss": {
+        "en": "See you soon!",
+        "es": "¡Nos vemos pronto!",
+        "ru": "До скорой встречи!"
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "minute",
         "jour",
         "semaine"
-      ]
+      ],
+      "gloss": {
+        "en": "What time is it, please?",
+        "es": "¿Qué hora es, por favor?",
+        "ru": "Сколько сейчас времени, пожалуйста?"
+      },
+      "wordGloss": {
+        "en": "time",
+        "es": "tiempo",
+        "ru": "время"
+      }
     },
     {
       "id": "remote-time-listen-2",
@@ -236,7 +380,17 @@
         "soir",
         "nuit",
         "midi"
-      ]
+      ],
+      "gloss": {
+        "en": "I get up early in the morning.",
+        "es": "Me levanto temprano por la mañana.",
+        "ru": "Я встаю рано утром."
+      },
+      "wordGloss": {
+        "en": "morning",
+        "es": "mañana",
+        "ru": "утро"
+      }
     },
     {
       "id": "remote-time-listen-3",
@@ -249,7 +403,17 @@
         "lundi",
         "mois",
         "année"
-      ]
+      ],
+      "gloss": {
+        "en": "On the weekend, I stay at home.",
+        "es": "El fin de semana me quedo en casa.",
+        "ru": "На выходных я остаюсь дома."
+      },
+      "wordGloss": {
+        "en": "weekend",
+        "es": "fin de semana",
+        "ru": "выходные"
+      }
     },
     {
       "id": "remote-time-listen-4",
@@ -262,7 +426,17 @@
         "minuit",
         "soir",
         "matin"
-      ]
+      ],
+      "gloss": {
+        "en": "We eat at noon.",
+        "es": "Comemos al mediodía.",
+        "ru": "Мы едим в полдень."
+      },
+      "wordGloss": {
+        "en": "noon",
+        "es": "mediodía",
+        "ru": "полдень"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-time-grammar-1",
       "title": {
         "fr": "Dire l’heure",
-        "en": "Telling the time"
+        "en": "Telling the time",
+        "es": "diciendo la hora",
+        "ru": "Говоря время"
       },
-      "rule": "On dit Il est + heure. Exemples : Il est trois heures. Il est midi. Il est minuit. Pour « et demie » : Il est deux heures et demie.",
+      "rule": {
+        "fr": "On dit Il est + heure. Exemples : Il est trois heures. Il est midi. Il est minuit. Pour « et demie » : Il est deux heures et demie.",
+        "en": "We say It's + o'clock. Examples: It's three o'clock. It's noon. It's midnight. For “half past”: It’s half past two.",
+        "es": "Decimos que son las + en punto. Ejemplos: Son las tres en punto. Es mediodía. Es medianoche. Para “y media”: son las dos y media.",
+        "ru": "Мы говорим: «+час». Примеры: Сейчас три часа. Сейчас полдень. Сейчас полночь. Для «половины»: сейчас половина второго."
+      },
       "table": [
         [
           "Expression",
@@ -337,15 +518,27 @@
             "semaine"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Telling the time.",
+        "es": "Útil cuando necesitas aplicar: Decir la hora.",
+        "ru": "Полезно, когда вам нужно подать заявку: Указание времени."
+      }
     },
     {
       "id": "remote-time-grammar-2",
       "title": {
         "fr": "Le / la devant les moments",
-        "en": "Articles with times of day"
+        "en": "Articles with times of day",
+        "es": "Artículos con horas del día.",
+        "ru": "Артикли с указанием времени суток"
       },
-      "rule": "On dit le matin, l’après-midi, le soir, la nuit. Pour un jour : le lundi (every Monday) ou lundi (this Monday).",
+      "rule": {
+        "fr": "On dit le matin, l’après-midi, le soir, la nuit. Pour un jour : le lundi (every Monday) ou lundi (this Monday).",
+        "en": "We say morning, afternoon, evening, night. For one day: Monday (every Monday) or Monday (this Monday).",
+        "es": "Decimos mañana, tarde, tarde, noche. Por un día: lunes (todos los lunes) o lunes (este lunes).",
+        "ru": "Мы говорим утро, день, вечер, ночь. На один день: понедельник (каждый понедельник) или понедельник (этот понедельник)."
+      },
       "table": [
         [
           "Moment",
@@ -404,7 +597,12 @@
             "l’"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Articles with times of day.",
+        "es": "Útil cuando necesitas aplicar: Artículos con horas del día.",
+        "ru": "Полезно, когда нужно подать заявку: Артикли с указанием времени суток."
+      }
     }
   ],
   "skills": {
@@ -413,19 +611,34 @@
         "id": "remote-time-dict-1",
         "fr": "Quelle heure est-il ?",
         "en": "What time is it?",
-        "ipa": "kɛl œʁ ɛ.t‿il"
+        "ipa": "kɛl œʁ ɛ.t‿il",
+        "gloss": {
+          "en": "What time is it?",
+          "es": "¿Qué hora es?",
+          "ru": "Который сейчас час?"
+        }
       },
       {
         "id": "remote-time-dict-2",
         "fr": "Il est huit heures.",
         "en": "It’s eight o’clock.",
-        "ipa": "il ɛ ɥit œʁ"
+        "ipa": "il ɛ ɥit œʁ",
+        "gloss": {
+          "en": "It’s eight o’clock.",
+          "es": "Son las ocho.",
+          "ru": "Сейчас восемь часов."
+        }
       },
       {
         "id": "remote-time-dict-3",
         "fr": "On se voit demain matin.",
         "en": "We’ll see each other tomorrow morning.",
-        "ipa": "ɔ̃ sə vwa də.mɛ̃ ma.tɛ̃"
+        "ipa": "ɔ̃ sə vwa də.mɛ̃ ma.tɛ̃",
+        "gloss": {
+          "en": "We’ll see each other tomorrow morning.",
+          "es": "Nos veremos mañana por la mañana.",
+          "ru": "Мы увидимся завтра утром."
+        }
       }
     ],
     "meaning": [
@@ -433,63 +646,93 @@
         "id": "remote-time-mean-1",
         "fr": "Quelle heure est-il ?",
         "en": "What time is it?",
-        "choices": [
-          "What time is it?",
-          "It’s eight o’clock.",
-          "We’ll see each other tomorrow morning."
-        ]
+        "gloss": {
+          "en": "What time is it?",
+          "es": "¿Qué hora es?",
+          "ru": "Который сейчас час?"
+        }
       },
       {
         "id": "remote-time-mean-2",
         "fr": "Il est huit heures.",
         "en": "It’s eight o’clock.",
-        "choices": [
-          "It’s eight o’clock.",
-          "What time is it?",
-          "We’ll see each other tomorrow morning."
-        ]
+        "gloss": {
+          "en": "It’s eight o’clock.",
+          "es": "Son las ocho.",
+          "ru": "Сейчас восемь часов."
+        }
       },
       {
         "id": "remote-time-mean-3",
         "fr": "On se voit demain matin.",
         "en": "We’ll see each other tomorrow morning.",
-        "choices": [
-          "We’ll see each other tomorrow morning.",
-          "What time is it?",
-          "It’s eight o’clock."
-        ]
+        "gloss": {
+          "en": "We’ll see each other tomorrow morning.",
+          "es": "Nos veremos mañana por la mañana.",
+          "ru": "Мы увидимся завтра утром."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-time-fren-1",
         "fr": "heure",
-        "en": "hour"
+        "en": "hour",
+        "gloss": {
+          "en": "hour",
+          "es": "hora",
+          "ru": "час"
+        }
       },
       {
         "id": "remote-time-fren-2",
         "fr": "minute",
-        "en": "minute"
+        "en": "minute",
+        "gloss": {
+          "en": "minute",
+          "es": "minuto",
+          "ru": "минута"
+        }
       },
       {
         "id": "remote-time-fren-3",
         "fr": "montre",
-        "en": "watch"
+        "en": "watch",
+        "gloss": {
+          "en": "watch",
+          "es": "mirar",
+          "ru": "смотреть"
+        }
       },
       {
         "id": "remote-time-fren-4",
         "fr": "horloge",
-        "en": "clock"
+        "en": "clock",
+        "gloss": {
+          "en": "clock",
+          "es": "reloj",
+          "ru": "часы"
+        }
       },
       {
         "id": "remote-time-fren-5",
         "fr": "matin",
-        "en": "morning"
+        "en": "morning",
+        "gloss": {
+          "en": "morning",
+          "es": "mañana",
+          "ru": "утро"
+        }
       },
       {
         "id": "remote-time-fren-6",
         "fr": "après-midi",
-        "en": "afternoon"
+        "en": "afternoon",
+        "gloss": {
+          "en": "afternoon",
+          "es": "tarde",
+          "ru": "полдень"
+        }
       }
     ],
     "aloud": [
@@ -497,19 +740,34 @@
         "id": "remote-time-aloud-1",
         "fr": "Quelle heure est-il ?",
         "en": "What time is it?",
-        "ipa": "kɛl œʁ ɛ.t‿il"
+        "ipa": "kɛl œʁ ɛ.t‿il",
+        "gloss": {
+          "en": "What time is it?",
+          "es": "¿Qué hora es?",
+          "ru": "Который сейчас час?"
+        }
       },
       {
         "id": "remote-time-aloud-2",
         "fr": "On se voit demain matin.",
         "en": "We’ll see each other tomorrow morning.",
-        "ipa": "ɔ̃ sə vwa də.mɛ̃ ma.tɛ̃"
+        "ipa": "ɔ̃ sə vwa də.mɛ̃ ma.tɛ̃",
+        "gloss": {
+          "en": "We’ll see each other tomorrow morning.",
+          "es": "Nos veremos mañana por la mañana.",
+          "ru": "Мы увидимся завтра утром."
+        }
       },
       {
         "id": "remote-time-aloud-3",
         "fr": "J’arrive à midi.",
         "en": "I arrive at noon.",
-        "ipa": "ʒa.ʁiv a mi.di"
+        "ipa": "ʒa.ʁiv a mi.di",
+        "gloss": {
+          "en": "I arrive at noon.",
+          "es": "Llego al mediodía.",
+          "ru": "Я прибываю в полдень."
+        }
       }
     ],
     "unscramble": [
@@ -523,7 +781,12 @@
           "je",
           "me",
           "repose."
-        ]
+        ],
+        "gloss": {
+          "en": "On the weekend, I rest.",
+          "es": "El fin de semana descanso.",
+          "ru": "В выходные я отдыхаю."
+        }
       },
       {
         "id": "remote-time-unsc-2",
@@ -533,7 +796,12 @@
           "J’arrive",
           "à",
           "midi."
-        ]
+        ],
+        "gloss": {
+          "en": "I arrive at noon.",
+          "es": "Llego al mediodía.",
+          "ru": "Я прибываю в полдень."
+        }
       }
     ]
   }

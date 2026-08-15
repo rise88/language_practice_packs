@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "ethics-c1",
-  "version": 1,
+  "version": 2,
   "level": "c1",
   "title": {
     "fr": "Éthique C1",
-    "en": "Ethics C1"
+    "en": "Ethics C1",
+    "es": "Ética C1",
+    "ru": "Этика C1"
   },
   "description": {
     "fr": "Consentement, dilemme, responsabilité, intégrité et lanceurs d’alerte.",
-    "en": "Consent, dilemmas, responsibility, integrity, and whistleblowing."
+    "en": "Consent, dilemmas, responsibility, integrity, and whistleblowing.",
+    "es": "Consentimiento, dilemas, responsabilidad, integridad y denuncia de irregularidades.",
+    "ru": "Согласие, дилеммы, ответственность, честность и сообщение о нарушениях."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "consent",
       "example": "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
       "ipa": "kɔ̃.sɑ̃t.mɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "consent",
+        "es": "consentir",
+        "ru": "согласие"
+      }
     },
     {
       "id": "remote-ethics-c1-2",
@@ -26,7 +35,12 @@
       "en": "dilemma",
       "example": "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
       "ipa": "di.lɛm",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "dilemma",
+        "es": "dilema",
+        "ru": "дилемма"
+      }
     },
     {
       "id": "remote-ethics-c1-3",
@@ -34,7 +48,12 @@
       "en": "responsibility",
       "example": "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
       "ipa": "ʁɛs.pɔ̃.sa.bi.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "responsibility",
+        "es": "responsabilidad",
+        "ru": "ответственность"
+      }
     },
     {
       "id": "remote-ethics-c1-4",
@@ -42,7 +61,12 @@
       "en": "integrity",
       "example": "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
       "ipa": "ɛ̃.te.ɡʁi.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "integrity",
+        "es": "integridad",
+        "ru": "честность"
+      }
     },
     {
       "id": "remote-ethics-c1-5",
@@ -50,7 +74,12 @@
       "en": "whistleblower",
       "example": "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
       "ipa": "lɑ̃.sœʁ da.lɛʁt",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "whistleblower",
+        "es": "denunciante",
+        "ru": "осведомитель"
+      }
     },
     {
       "id": "remote-ethics-c1-6",
@@ -58,7 +87,12 @@
       "en": "impartiality",
       "example": "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
       "ipa": "ɛ̃.paʁ.sja.li.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "impartiality",
+        "es": "imparcialidad",
+        "ru": "беспристрастность"
+      }
     },
     {
       "id": "remote-ethics-c1-7",
@@ -66,7 +100,12 @@
       "en": "conflict of interest",
       "example": "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
       "ipa": "kɔ̃.fli dɛ̃.te.ʁɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "conflict of interest",
+        "es": "incompatibilidad",
+        "ru": "конфликт интересов"
+      }
     },
     {
       "id": "remote-ethics-c1-8",
@@ -74,7 +113,12 @@
       "en": "professional ethics",
       "example": "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
       "ipa": "de.ɔ̃.tɔ.lɔ.ʒi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "professional ethics",
+        "es": "ética profesional",
+        "ru": "профессиональная этика"
+      }
     },
     {
       "id": "remote-ethics-c1-9",
@@ -82,7 +126,12 @@
       "en": "accountability",
       "example": "La redevabilité, à moins d’être opposable, reste un slogan dont les victimes ne peuvent rien tirer.",
       "ipa": "ʁə.də.va.bi.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "accountability",
+        "es": "responsabilidad",
+        "ru": "подотчетность"
+      }
     },
     {
       "id": "remote-ethics-c1-10",
@@ -90,7 +139,12 @@
       "en": "beneficence",
       "example": "La bienfaisance, dont le corollaire est le primum non nocere, peut justifier une tutelle qui érode l’autonomie.",
       "ipa": "bjɛ̃.fə.zɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "beneficence",
+        "es": "beneficencia",
+        "ru": "благодеяние"
+      }
     },
     {
       "id": "remote-ethics-c1-11",
@@ -98,7 +152,12 @@
       "en": "autonomy",
       "example": "L’autonomie, loin de signifier l’isolement de l’individu, suppose des conditions sociales du consentement éclairé.",
       "ipa": "o.tɔ.nɔ.mi",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "autonomy",
+        "es": "autonomía",
+        "ru": "автономия"
+      }
     },
     {
       "id": "remote-ethics-c1-12",
@@ -106,7 +165,12 @@
       "en": "harm",
       "example": "Le préjudice, encore qu’il soit difficile à chiffrer, fonde l’obligation de réparer et celle de prévenir.",
       "ipa": "pʁe.ʒy.dis",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "harm",
+        "es": "dañar",
+        "ru": "вред"
+      }
     },
     {
       "id": "remote-ethics-c1-13",
@@ -114,7 +178,12 @@
       "en": "confidentiality",
       "example": "La confidentialité, quitte à protéger l’institution, ne saurait faire obstacle à une alerte proportionnée.",
       "ipa": "kɔ̃.fi.dɑ̃.sja.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "confidentiality",
+        "es": "confidencialidad",
+        "ru": "конфиденциальность"
+      }
     },
     {
       "id": "remote-ethics-c1-14",
@@ -122,7 +191,12 @@
       "en": "equity",
       "example": "L’équité, à moins qu’on ne la confonde avec l’égalité formelle, corrige des asymétries que la règle ignore.",
       "ipa": "e.ki.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "equity",
+        "es": "equidad",
+        "ru": "капитал"
+      }
     },
     {
       "id": "remote-ethics-c1-15",
@@ -130,7 +204,12 @@
       "en": "virtue",
       "example": "La vertu, dont on fait trop vite un substitut au dispositif, n’exonère pas de la redevabilité publique.",
       "ipa": "vɛʁ.ty",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "virtue",
+        "es": "virtud",
+        "ru": "достоинство"
+      }
     },
     {
       "id": "remote-ethics-c1-16",
@@ -138,7 +217,12 @@
       "en": "transparency",
       "example": "La transparence, loin de tout résoudre, peut exposer des personnes vulnérables si le cadrage n’est pas maîtrisé.",
       "ipa": "tʁɑ̃s.pa.ʁɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "transparency",
+        "es": "transparencia",
+        "ru": "прозрачность"
+      }
     },
     {
       "id": "remote-ethics-c1-17",
@@ -146,7 +230,12 @@
       "en": "complicity",
       "example": "La complicité par omission, encore qu’elle soit plus difficile à établir, engage ceux qui pouvaient empêcher le préjudice.",
       "ipa": "kɔ̃.pli.si.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "complicity",
+        "es": "complicidad",
+        "ru": "соучастие"
+      }
     },
     {
       "id": "remote-ethics-c1-18",
@@ -154,7 +243,12 @@
       "en": "dignity",
       "example": "La dignité, quitte à demeurer un concept disputé, fonctionne comme un seuil que nulle utilité ne devrait franchir.",
       "ipa": "di.ɲi.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "dignity",
+        "es": "dignidad",
+        "ru": "достоинство"
+      }
     },
     {
       "id": "remote-ethics-c1-19",
@@ -162,7 +256,12 @@
       "en": "vulnerability",
       "example": "La vulnérabilité, à moins d’être essentialisée, désigne une situation que l’institution a le devoir de ne pas aggraver.",
       "ipa": "vyl.ne.ʁa.bi.li.te",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "vulnerability",
+        "es": "vulnerabilidad",
+        "ru": "уязвимость"
+      }
     },
     {
       "id": "remote-ethics-c1-20",
@@ -170,7 +269,12 @@
       "en": "obligation",
       "example": "L’obligation de signaler, dont le lanceur d’alerte est le visage, entre en tension avec le devoir de confidentialité.",
       "ipa": "ɔ.bli.ɡa.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "obligation",
+        "es": "obligación",
+        "ru": "обязательство"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-ethics-phrase-1",
       "fr": "Encore que le consentement ait été signé, sa portée réelle demeure contestable.",
       "en": "Even though consent was signed, its real scope remains questionable.",
-      "ipa": "ɑ̃.kɔʁ kə lə kɔ̃.sɑ̃t.mɑ̃ ɛ e.te si.ɲe sa pɔʁ.te ʁe.ɛl də.mœʁ kɔ̃.tɛs.tabl"
+      "ipa": "ɑ̃.kɔʁ kə lə kɔ̃.sɑ̃t.mɑ̃ ɛ e.te si.ɲe sa pɔʁ.te ʁe.ɛl də.mœʁ kɔ̃.tɛs.tabl",
+      "gloss": {
+        "en": "Even though consent was signed, its real scope remains questionable.",
+        "es": "Aunque se firmó el consentimiento, su alcance real sigue siendo cuestionable.",
+        "ru": "Несмотря на то, что согласие было подписано, его реальные масштабы остаются под вопросом."
+      }
     },
     {
       "id": "remote-ethics-phrase-2",
       "fr": "Loin d’absoudre l’institution, l’intégrité individuelle n’exonère pas la redevabilité.",
       "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
-      "ipa": "lwɛ̃ dab.sudʁ lɛ̃s.ti.ty.sjɔ̃ lɛ̃.te.ɡʁi.te ɛ̃.di.vi.dɥɛl neɡ.zɔ.nɛʁ pa la ʁə.də.va.bi.li.te"
+      "ipa": "lwɛ̃ dab.sudʁ lɛ̃s.ti.ty.sjɔ̃ lɛ̃.te.ɡʁi.te ɛ̃.di.vi.dɥɛl neɡ.zɔ.nɛʁ pa la ʁə.də.va.bi.li.te",
+      "gloss": {
+        "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+        "es": "Lejos de absolver a la institución, la integridad individual no cancela la rendición de cuentas.",
+        "ru": "Индивидуальная честность не только не освобождает институт, но и не отменяет ответственности."
+      }
     },
     {
       "id": "remote-ethics-phrase-3",
       "fr": "À moins que le conflit d’intérêts ne soit tranché, l’impartialité restera de façade.",
       "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
-      "ipa": "a mwɛ̃ kə lə kɔ̃.fli dɛ̃.te.ʁɛ nə swa tʁɑ̃.ʃe lɛ̃.paʁ.sja.li.te ʁɛs.tə.ʁa də fa.sad"
+      "ipa": "a mwɛ̃ kə lə kɔ̃.fli dɛ̃.te.ʁɛ nə swa tʁɑ̃.ʃe lɛ̃.paʁ.sja.li.te ʁɛs.tə.ʁa də fa.sad",
+      "gloss": {
+        "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+        "es": "A menos que se resuelva el conflicto de intereses, la imparcialidad seguirá siendo una fachada.",
+        "ru": "Если конфликт интересов не будет разрешен, беспристрастность останется фасадом."
+      }
     },
     {
       "id": "remote-ethics-phrase-4",
       "fr": "Quitte à rompre la confidentialité, le lanceur d’alerte prévient un préjudice grave.",
       "en": "Even at the cost of breaking confidentiality, the whistleblower prevents serious harm.",
-      "ipa": "kit a ʁɔ̃pʁ la kɔ̃.fi.dɑ̃.sja.li.te lə lɑ̃.sœʁ da.lɛʁt pʁe.vjɛ̃ œ̃ pʁe.ʒy.dis ɡʁav"
+      "ipa": "kit a ʁɔ̃pʁ la kɔ̃.fi.dɑ̃.sja.li.te lə lɑ̃.sœʁ da.lɛʁt pʁe.vjɛ̃ œ̃ pʁe.ʒy.dis ɡʁav",
+      "gloss": {
+        "en": "Even at the cost of breaking confidentiality, the whistleblower prevents serious harm.",
+        "es": "Incluso a costa de romper la confidencialidad, el denunciante evita daños graves.",
+        "ru": "Даже ценой нарушения конфиденциальности информатор предотвращает серьезный вред."
+      }
     },
     {
       "id": "remote-ethics-phrase-5",
       "fr": "Il convient de distinguer le dilemme tragique d’un simple arbitrage d’intérêts.",
       "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
-      "ipa": "il kɔ̃.vjɛ̃ də dis.tɛ̃.ɡe lə di.lɛm tʁa.ʒik dœ̃ sɛ̃pl aʁ.bi.tʁaʒ dɛ̃.te.ʁɛ"
+      "ipa": "il kɔ̃.vjɛ̃ də dis.tɛ̃.ɡe lə di.lɛm tʁa.ʒik dœ̃ sɛ̃pl aʁ.bi.tʁaʒ dɛ̃.te.ʁɛ",
+      "gloss": {
+        "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
+        "es": "Hay que distinguir un dilema trágico de una mera compensación de intereses.",
+        "ru": "Следует отличать трагическую дилемму от простого компромисса интересов."
+      }
     },
     {
       "id": "remote-ethics-phrase-6",
       "fr": "Bien que la déontologie encadre la pratique, elle ne dispense pas de l’équité.",
       "en": "Although professional ethics frames practice, it does not dispense with equity.",
-      "ipa": "bjɛ̃ kə la de.ɔ̃.tɔ.lɔ.ʒi ɑ̃.kadʁ la pʁa.tik ɛl nə dis.pɑ̃s pa də le.ki.te"
+      "ipa": "bjɛ̃ kə la de.ɔ̃.tɔ.lɔ.ʒi ɑ̃.kadʁ la pʁa.tik ɛl nə dis.pɑ̃s pa də le.ki.te",
+      "gloss": {
+        "en": "Although professional ethics frames practice, it does not dispense with equity.",
+        "es": "Aunque la ética profesional enmarca la práctica, no prescinde de la equidad.",
+        "ru": "Хотя профессиональная этика определяет практику, она не исключает справедливости."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "équité",
         "vertu",
         "dignité"
-      ]
+      ],
+      "gloss": {
+        "en": "Consent requires information whose real implications remain graspable.",
+        "es": "El consentimiento requiere información cuyas implicaciones reales siguen siendo comprensibles.",
+        "ru": "Для согласия требуется информация, реальные последствия которой остаются понятными."
+      },
+      "wordGloss": {
+        "en": "consent",
+        "es": "consentir",
+        "ru": "согласие"
+      }
     },
     {
       "id": "remote-ethics-listen-2",
@@ -236,7 +380,17 @@
         "conflit d’intérêts",
         "préjudice",
         "complicité"
-      ]
+      ],
+      "gloss": {
+        "en": "The whistleblower depends on a protection mechanism against retaliation.",
+        "es": "El denunciante depende de un mecanismo de protección contra represalias.",
+        "ru": "Информатор зависит от механизма защиты от преследований."
+      },
+      "wordGloss": {
+        "en": "whistleblower",
+        "es": "denunciante",
+        "ru": "осведомитель"
+      }
     },
     {
       "id": "remote-ethics-listen-3",
@@ -249,7 +403,17 @@
         "intégrité",
         "autonomie",
         "obligation"
-      ]
+      ],
+      "gloss": {
+        "en": "This dilemma often conceals a trade-off of responsibilities rather than an aporia.",
+        "es": "Este dilema a menudo oculta una compensación de responsabilidades más que una aporía.",
+        "ru": "За этой дилеммой часто скрывается компромисс между обязанностями, а не апория."
+      },
+      "wordGloss": {
+        "en": "dilemma",
+        "es": "dilema",
+        "ru": "дилемма"
+      }
     },
     {
       "id": "remote-ethics-listen-4",
@@ -262,7 +426,17 @@
         "transparence",
         "bienfaisance",
         "redevabilité"
-      ]
+      ],
+      "gloss": {
+        "en": "Confidentiality cannot stand in the way of a proportionate alert.",
+        "es": "La confidencialidad no puede obstaculizar una alerta proporcionada.",
+        "ru": "Конфиденциальность не может помешать соразмерному предупреждению."
+      },
+      "wordGloss": {
+        "en": "confidentiality",
+        "es": "confidencialidad",
+        "ru": "конфиденциальность"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-ethics-grammar-1",
       "title": {
         "fr": "Glissements de registre",
-        "en": "Register shifts"
+        "en": "Register shifts",
+        "es": "Registrar turnos",
+        "ru": "Регистрация смен"
       },
-      "rule": "L’éthique professionnelle oscille entre registre juridique (il incombe de), académique (il convient de) et ordinaire (il faut). Le nous de modestie et le on de généralité masquent l’agent ; le je assume une responsabilité.",
+      "rule": {
+        "fr": "L’éthique professionnelle oscille entre registre juridique (il incombe de), académique (il convient de) et ordinaire (il faut). Le nous de modestie et le on de généralité masquent l’agent ; le je assume une responsabilité.",
+        "en": "Professional ethics oscillate between legal (it is the responsibility of), academic (it is appropriate to) and ordinary (it is necessary) register. The we of modesty and the we of generality mask the agent; I assume responsibility.",
+        "es": "La ética profesional oscila entre el registro jurídico (es responsabilidad de), académico (conviene) y ordinario (es necesario). El nosotros de la modestia y el nosotros de la generalidad enmascaran al agente; Asumo la responsabilidad.",
+        "ru": "Профессиональная этика колеблется между юридическим (это обязанность), академическим (это уместно) и обычным (это необходимо) регистром. Мы скромности и мы общности маскируют действующее лицо; Я беру на себя ответственность."
+      },
       "table": [
         [
           "Tour",
@@ -337,15 +518,27 @@
             "Ça"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Register shifts.",
+        "es": "Útil cuando necesitas postular: Registrar turnos.",
+        "ru": "Полезно, когда вам нужно подать заявку: Зарегистрируйте смены."
+      }
     },
     {
       "id": "remote-ethics-grammar-2",
       "title": {
         "fr": "Loin de / quitte à en argumentation éthique",
-        "en": "Loin de / quitte à in ethical argument"
+        "en": "Loin de / quitte à in ethical argument",
+        "es": "Loin de / quitte à en el argumento ético",
+        "ru": "Loin de / quitte à в этическом споре"
       },
-      "rule": "Loin de + infinitif écarte une lecture simpliste. Quitte à + infinitif assume un coût moral. Les deux permettent de nuancer sans renoncer à la thèse.",
+      "rule": {
+        "fr": "Loin de + infinitif écarte une lecture simpliste. Quitte à + infinitif assume un coût moral. Les deux permettent de nuancer sans renoncer à la thèse.",
+        "en": "Far from + infinitive rules out a simplistic reading. Even if it means + infinitive assumes a moral cost. Both allow nuance without abandoning the thesis.",
+        "es": "Lejos de + infinitivo descarta una lectura simplista. Incluso si significa + infinitivo supone un coste moral. Ambos permiten matices sin abandonar la tesis.",
+        "ru": "Далеко не + инфинитив исключает упрощенное прочтение. Даже если это означает + инфинитив, это предполагает моральную цену. Оба допускают нюансы, не отказываясь от тезиса."
+      },
       "table": [
         [
           "Connecteur",
@@ -394,7 +587,12 @@
             "À moins que"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Loin de / quitte à in ethical argument.",
+        "es": "Útil cuando es necesario aplicar: Loin de / quitte à en argumento ético.",
+        "ru": "Полезно, когда вам нужно применить: Loin de / quitte à в этическом споре."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-ethics-dict-1",
         "fr": "Encore que le consentement ait été signé, sa portée réelle demeure contestable.",
         "en": "Even though consent was signed, its real scope remains questionable.",
-        "ipa": "ɑ̃.kɔʁ kə lə kɔ̃.sɑ̃t.mɑ̃ ɛ e.te si.ɲe sa pɔʁ.te ʁe.ɛl də.mœʁ kɔ̃.tɛs.tabl"
+        "ipa": "ɑ̃.kɔʁ kə lə kɔ̃.sɑ̃t.mɑ̃ ɛ e.te si.ɲe sa pɔʁ.te ʁe.ɛl də.mœʁ kɔ̃.tɛs.tabl",
+        "gloss": {
+          "en": "Even though consent was signed, its real scope remains questionable.",
+          "es": "Aunque se firmó el consentimiento, su alcance real sigue siendo cuestionable.",
+          "ru": "Несмотря на то, что согласие было подписано, его реальные масштабы остаются под вопросом."
+        }
       },
       {
         "id": "remote-ethics-dict-2",
         "fr": "Loin d’absoudre l’institution, l’intégrité individuelle n’exonère pas la redevabilité.",
         "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
-        "ipa": "lwɛ̃ dab.sudʁ lɛ̃s.ti.ty.sjɔ̃ lɛ̃.te.ɡʁi.te ɛ̃.di.vi.dɥɛl neɡ.zɔ.nɛʁ pa la ʁə.də.va.bi.li.te"
+        "ipa": "lwɛ̃ dab.sudʁ lɛ̃s.ti.ty.sjɔ̃ lɛ̃.te.ɡʁi.te ɛ̃.di.vi.dɥɛl neɡ.zɔ.nɛʁ pa la ʁə.də.va.bi.li.te",
+        "gloss": {
+          "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+          "es": "Lejos de absolver a la institución, la integridad individual no cancela la rendición de cuentas.",
+          "ru": "Индивидуальная честность не только не освобождает институт, но и не отменяет ответственности."
+        }
       },
       {
         "id": "remote-ethics-dict-3",
         "fr": "À moins que le conflit d’intérêts ne soit tranché, l’impartialité restera de façade.",
         "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
-        "ipa": "a mwɛ̃ kə lə kɔ̃.fli dɛ̃.te.ʁɛ nə swa tʁɑ̃.ʃe lɛ̃.paʁ.sja.li.te ʁɛs.tə.ʁa də fa.sad"
+        "ipa": "a mwɛ̃ kə lə kɔ̃.fli dɛ̃.te.ʁɛ nə swa tʁɑ̃.ʃe lɛ̃.paʁ.sja.li.te ʁɛs.tə.ʁa də fa.sad",
+        "gloss": {
+          "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+          "es": "A menos que se resuelva el conflicto de intereses, la imparcialidad seguirá siendo una fachada.",
+          "ru": "Если конфликт интересов не будет разрешен, беспристрастность останется фасадом."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-ethics-mean-1",
         "fr": "Encore que le consentement ait été signé, sa portée réelle demeure contestable.",
         "en": "Even though consent was signed, its real scope remains questionable.",
-        "choices": [
-          "Even though consent was signed, its real scope remains questionable.",
-          "Far from absolving the institution, individual integrity does not cancel accountability.",
-          "Unless the conflict of interest is resolved, impartiality will remain a façade."
-        ]
+        "gloss": {
+          "en": "Even though consent was signed, its real scope remains questionable.",
+          "es": "Aunque se firmó el consentimiento, su alcance real sigue siendo cuestionable.",
+          "ru": "Несмотря на то, что согласие было подписано, его реальные масштабы остаются под вопросом."
+        }
       },
       {
         "id": "remote-ethics-mean-2",
         "fr": "Loin d’absoudre l’institution, l’intégrité individuelle n’exonère pas la redevabilité.",
         "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
-        "choices": [
-          "Far from absolving the institution, individual integrity does not cancel accountability.",
-          "Even though consent was signed, its real scope remains questionable.",
-          "Unless the conflict of interest is resolved, impartiality will remain a façade."
-        ]
+        "gloss": {
+          "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+          "es": "Lejos de absolver a la institución, la integridad individual no cancela la rendición de cuentas.",
+          "ru": "Индивидуальная честность не только не освобождает институт, но и не отменяет ответственности."
+        }
       },
       {
         "id": "remote-ethics-mean-3",
         "fr": "À moins que le conflit d’intérêts ne soit tranché, l’impartialité restera de façade.",
         "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
-        "choices": [
-          "Unless the conflict of interest is resolved, impartiality will remain a façade.",
-          "Even though consent was signed, its real scope remains questionable.",
-          "Far from absolving the institution, individual integrity does not cancel accountability."
-        ]
+        "gloss": {
+          "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+          "es": "A menos que se resuelva el conflicto de intereses, la imparcialidad seguirá siendo una fachada.",
+          "ru": "Если конфликт интересов не будет разрешен, беспристрастность останется фасадом."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-ethics-fren-1",
         "fr": "consentement",
-        "en": "consent"
+        "en": "consent",
+        "gloss": {
+          "en": "consent",
+          "es": "consentir",
+          "ru": "согласие"
+        }
       },
       {
         "id": "remote-ethics-fren-2",
         "fr": "dilemme",
-        "en": "dilemma"
+        "en": "dilemma",
+        "gloss": {
+          "en": "dilemma",
+          "es": "dilema",
+          "ru": "дилемма"
+        }
       },
       {
         "id": "remote-ethics-fren-3",
         "fr": "responsabilité",
-        "en": "responsibility"
+        "en": "responsibility",
+        "gloss": {
+          "en": "responsibility",
+          "es": "responsabilidad",
+          "ru": "ответственность"
+        }
       },
       {
         "id": "remote-ethics-fren-4",
         "fr": "intégrité",
-        "en": "integrity"
+        "en": "integrity",
+        "gloss": {
+          "en": "integrity",
+          "es": "integridad",
+          "ru": "честность"
+        }
       },
       {
         "id": "remote-ethics-fren-5",
         "fr": "lanceur d’alerte",
-        "en": "whistleblower"
+        "en": "whistleblower",
+        "gloss": {
+          "en": "whistleblower",
+          "es": "denunciante",
+          "ru": "осведомитель"
+        }
       },
       {
         "id": "remote-ethics-fren-6",
         "fr": "impartialité",
-        "en": "impartiality"
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-ethics-aloud-1",
         "fr": "Encore que le consentement ait été signé, sa portée réelle demeure contestable.",
         "en": "Even though consent was signed, its real scope remains questionable.",
-        "ipa": "ɑ̃.kɔʁ kə lə kɔ̃.sɑ̃t.mɑ̃ ɛ e.te si.ɲe sa pɔʁ.te ʁe.ɛl də.mœʁ kɔ̃.tɛs.tabl"
+        "ipa": "ɑ̃.kɔʁ kə lə kɔ̃.sɑ̃t.mɑ̃ ɛ e.te si.ɲe sa pɔʁ.te ʁe.ɛl də.mœʁ kɔ̃.tɛs.tabl",
+        "gloss": {
+          "en": "Even though consent was signed, its real scope remains questionable.",
+          "es": "Aunque se firmó el consentimiento, su alcance real sigue siendo cuestionable.",
+          "ru": "Несмотря на то, что согласие было подписано, его реальные масштабы остаются под вопросом."
+        }
       },
       {
         "id": "remote-ethics-aloud-2",
         "fr": "À moins que le conflit d’intérêts ne soit tranché, l’impartialité restera de façade.",
         "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
-        "ipa": "a mwɛ̃ kə lə kɔ̃.fli dɛ̃.te.ʁɛ nə swa tʁɑ̃.ʃe lɛ̃.paʁ.sja.li.te ʁɛs.tə.ʁa də fa.sad"
+        "ipa": "a mwɛ̃ kə lə kɔ̃.fli dɛ̃.te.ʁɛ nə swa tʁɑ̃.ʃe lɛ̃.paʁ.sja.li.te ʁɛs.tə.ʁa də fa.sad",
+        "gloss": {
+          "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+          "es": "A menos que se resuelva el conflicto de intereses, la imparcialidad seguirá siendo una fachada.",
+          "ru": "Если конфликт интересов не будет разрешен, беспристрастность останется фасадом."
+        }
       },
       {
         "id": "remote-ethics-aloud-3",
         "fr": "Il convient de distinguer le dilemme tragique d’un simple arbitrage d’intérêts.",
         "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
-        "ipa": "il kɔ̃.vjɛ̃ də dis.tɛ̃.ɡe lə di.lɛm tʁa.ʒik dœ̃ sɛ̃pl aʁ.bi.tʁaʒ dɛ̃.te.ʁɛ"
+        "ipa": "il kɔ̃.vjɛ̃ də dis.tɛ̃.ɡe lə di.lɛm tʁa.ʒik dœ̃ sɛ̃pl aʁ.bi.tʁaʒ dɛ̃.te.ʁɛ",
+        "gloss": {
+          "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
+          "es": "Hay que distinguir un dilema trágico de una mera compensación de intereses.",
+          "ru": "Следует отличать трагическую дилемму от простого компромисса интересов."
+        }
       }
     ],
     "unscramble": [
@@ -518,7 +776,12 @@
           "portée",
           "demeure",
           "contestable."
-        ]
+        ],
+        "gloss": {
+          "en": "Even though consent is signed, its scope remains questionable.",
+          "es": "Aunque el consentimiento esté firmado, su alcance sigue siendo cuestionable.",
+          "ru": "Несмотря на то, что согласие подписано, его масштабы остаются под вопросом."
+        }
       },
       {
         "id": "remote-ethics-unsc-2",
@@ -535,7 +798,12 @@
           "un",
           "préjudice",
           "grave."
-        ]
+        ],
+        "gloss": {
+          "en": "Even at the cost of breaking confidentiality, the alert prevents serious harm.",
+          "es": "Incluso a costa de romper la confidencialidad, la alerta evita daños graves.",
+          "ru": "Даже ценой нарушения конфиденциальности предупреждение предотвращает серьезный вред."
+        }
       }
     ]
   }

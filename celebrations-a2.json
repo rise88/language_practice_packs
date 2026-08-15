@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "celebrations-a2",
-  "version": 1,
+  "version": 2,
   "level": "a2",
   "title": {
     "fr": "Fêtes A2",
-    "en": "Celebrations A2"
+    "en": "Celebrations A2",
+    "es": "Celebraciones A2",
+    "ru": "Торжества А2"
   },
   "description": {
     "fr": "Anniversaires, fêtes et invitations pour la vie sociale.",
-    "en": "Birthdays, holidays, and invitations for social life."
+    "en": "Birthdays, holidays, and invitations for social life.",
+    "es": "Cumpleaños, días festivos e invitaciones para la vida social.",
+    "ru": "Дни рождения, праздники и приглашения на светскую жизнь."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "party / celebration",
       "example": "On organise une fête samedi.",
       "ipa": "fɛt",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "party / celebration",
+        "es": "fiesta / celebración",
+        "ru": "вечеринка/праздник"
+      }
     },
     {
       "id": "remote-celebrations-a2-2",
@@ -26,7 +35,12 @@
       "en": "birthday",
       "example": "C’est mon anniversaire demain.",
       "ipa": "a.ni.vɛʁ.sɛʁ",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "birthday",
+        "es": "cumpleaños",
+        "ru": "день рождения"
+      }
     },
     {
       "id": "remote-celebrations-a2-3",
@@ -34,7 +48,12 @@
       "en": "invitation",
       "example": "J’ai reçu une invitation.",
       "ipa": "ɛ̃.vi.ta.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "invitation",
+        "es": "invitación",
+        "ru": "приглашение"
+      }
     },
     {
       "id": "remote-celebrations-a2-4",
@@ -42,7 +61,12 @@
       "en": "present / gift",
       "example": "J’apporte un cadeau.",
       "ipa": "ka.do",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "present / gift",
+        "es": "presente / regalo",
+        "ru": "подарок / подарок"
+      }
     },
     {
       "id": "remote-celebrations-a2-5",
@@ -50,7 +74,12 @@
       "en": "cake",
       "example": "Le gâteau au chocolat est délicieux.",
       "ipa": "ɡa.to",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "cake",
+        "es": "pastel",
+        "ru": "торт"
+      }
     },
     {
       "id": "remote-celebrations-a2-6",
@@ -58,7 +87,12 @@
       "en": "candle",
       "example": "Il y a vingt bougies sur le gâteau.",
       "ipa": "bu.ʒi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "candle",
+        "es": "vela",
+        "ru": "свеча"
+      }
     },
     {
       "id": "remote-celebrations-a2-7",
@@ -66,7 +100,12 @@
       "en": "guest",
       "example": "Les invités arrivent à vingt heures.",
       "ipa": "ɛ̃.vi.te",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "guest",
+        "es": "invitado",
+        "ru": "гость"
+      }
     },
     {
       "id": "remote-celebrations-a2-8",
@@ -74,7 +113,12 @@
       "en": "wedding",
       "example": "Le mariage a lieu en juin.",
       "ipa": "ma.ʁjaʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "wedding",
+        "es": "boda",
+        "ru": "свадьба"
+      }
     },
     {
       "id": "remote-celebrations-a2-9",
@@ -82,7 +126,12 @@
       "en": "Christmas / New Year’s Eve dinner",
       "example": "Nous dînons au réveillon en famille.",
       "ipa": "ʁe.vɛ.jɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "Christmas / New Year’s Eve dinner",
+        "es": "Cena de Navidad/Nochevieja",
+        "ru": "Рождественский/новогодний ужин"
+      }
     },
     {
       "id": "remote-celebrations-a2-10",
@@ -90,7 +139,12 @@
       "en": "New Year",
       "example": "Bonne année pour le Nouvel An !",
       "ipa": "nu.vɛl ɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "New Year",
+        "es": "Año Nuevo",
+        "ru": "Новый год"
+      }
     },
     {
       "id": "remote-celebrations-a2-11",
@@ -98,7 +152,12 @@
       "en": "holidays",
       "example": "Les vacances commencent vendredi.",
       "ipa": "va.kɑ̃s",
-      "article": "les"
+      "article": "les",
+      "gloss": {
+        "en": "holidays",
+        "es": "vacaciones",
+        "ru": "праздники"
+      }
     },
     {
       "id": "remote-celebrations-a2-12",
@@ -106,7 +165,12 @@
       "en": "fireworks",
       "example": "Les feux d’artifice sont à minuit.",
       "ipa": "fø daʁ.ti.fis",
-      "article": "les"
+      "article": "les",
+      "gloss": {
+        "en": "fireworks",
+        "es": "fuegos artificiales",
+        "ru": "фейерверк"
+      }
     },
     {
       "id": "remote-celebrations-a2-13",
@@ -114,7 +178,12 @@
       "en": "costume",
       "example": "Elle porte un costume pour Carnaval.",
       "ipa": "kɔs.tym",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "costume",
+        "es": "traje",
+        "ru": "костюм"
+      }
     },
     {
       "id": "remote-celebrations-a2-14",
@@ -122,7 +191,12 @@
       "en": "toast (speech)",
       "example": "On lève nos verres pour le toast.",
       "ipa": "tost",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "toast (speech)",
+        "es": "brindis (discurso)",
+        "ru": "тост (речь)"
+      }
     },
     {
       "id": "remote-celebrations-a2-15",
@@ -130,7 +204,12 @@
       "en": "card",
       "example": "J’écris une carte d’anniversaire.",
       "ipa": "kaʁt",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "card",
+        "es": "tarjeta",
+        "ru": "карта"
+      }
     },
     {
       "id": "remote-celebrations-a2-16",
@@ -138,7 +217,12 @@
       "en": "surprise",
       "example": "C’est une fête surprise.",
       "ipa": "syʁ.pʁiz",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "surprise",
+        "es": "sorpresa",
+        "ru": "сюрприз"
+      }
     },
     {
       "id": "remote-celebrations-a2-17",
@@ -146,7 +230,12 @@
       "en": "dance",
       "example": "Tout le monde danse.",
       "ipa": "dɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "dance",
+        "es": "bailar",
+        "ru": "танцевать"
+      }
     },
     {
       "id": "remote-celebrations-a2-18",
@@ -154,7 +243,12 @@
       "en": "music",
       "example": "La musique est trop forte.",
       "ipa": "my.zik",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "music",
+        "es": "música",
+        "ru": "музыка"
+      }
     },
     {
       "id": "remote-celebrations-a2-19",
@@ -162,7 +256,12 @@
       "en": "memory / souvenir",
       "example": "C’est un beau souvenir.",
       "ipa": "su.və.niʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "memory / souvenir",
+        "es": "recuerdo / recuerdo",
+        "ru": "память/сувенир"
+      }
     },
     {
       "id": "remote-celebrations-a2-20",
@@ -170,7 +269,12 @@
       "en": "tradition",
       "example": "C’est une tradition familiale.",
       "ipa": "tʁa.di.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "tradition",
+        "es": "tradición",
+        "ru": "традиция"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-celebrations-phrase-1",
       "fr": "Tu es libre samedi soir ?",
       "en": "Are you free Saturday evening?",
-      "ipa": "ty ɛ li.bʁ sa.mɛ.di swaʁ"
+      "ipa": "ty ɛ li.bʁ sa.mɛ.di swaʁ",
+      "gloss": {
+        "en": "Are you free Saturday evening?",
+        "es": "¿Estás libre el sábado por la noche?",
+        "ru": "Ты свободен в субботу вечером?"
+      }
     },
     {
       "id": "remote-celebrations-phrase-2",
       "fr": "Joyeux anniversaire !",
       "en": "Happy birthday!",
-      "ipa": "ʒwa.jø za.ni.vɛʁ.sɛʁ"
+      "ipa": "ʒwa.jø za.ni.vɛʁ.sɛʁ",
+      "gloss": {
+        "en": "Happy birthday!",
+        "es": "¡Feliz cumpleaños!",
+        "ru": "С днем ​​рождения!"
+      }
     },
     {
       "id": "remote-celebrations-phrase-3",
       "fr": "J’aimerais t’inviter à dîner.",
       "en": "I’d like to invite you to dinner.",
-      "ipa": "ʒɛ.mə.ʁɛ tɛ̃.vi.te a di.ne"
+      "ipa": "ʒɛ.mə.ʁɛ tɛ̃.vi.te a di.ne",
+      "gloss": {
+        "en": "I’d like to invite you to dinner.",
+        "es": "Me gustaría invitarte a cenar.",
+        "ru": "Я хотел бы пригласить вас на ужин."
+      }
     },
     {
       "id": "remote-celebrations-phrase-4",
       "fr": "Merci pour l’invitation, j’accepte avec plaisir.",
       "en": "Thanks for the invitation, I’d love to come.",
-      "ipa": "mɛʁ.si puʁ lɛ̃.vi.ta.sjɔ̃ ʒak.sɛpt a.vɛk plɛ.ziʁ"
+      "ipa": "mɛʁ.si puʁ lɛ̃.vi.ta.sjɔ̃ ʒak.sɛpt a.vɛk plɛ.ziʁ",
+      "gloss": {
+        "en": "Thanks for the invitation, I’d love to come.",
+        "es": "Gracias por la invitación, me encantaría venir.",
+        "ru": "Спасибо за приглашение, я бы с радостью пришёл."
+      }
     },
     {
       "id": "remote-celebrations-phrase-5",
       "fr": "Désolé, je ne peux pas venir.",
       "en": "Sorry, I can’t come.",
-      "ipa": "de.zɔ.le ʒə nə pø pa və.niʁ"
+      "ipa": "de.zɔ.le ʒə nə pø pa və.niʁ",
+      "gloss": {
+        "en": "Sorry, I can’t come.",
+        "es": "Lo siento, no puedo ir.",
+        "ru": "Извините, я не смогу прийти."
+      }
     },
     {
       "id": "remote-celebrations-phrase-6",
       "fr": "On se retrouve à vingt heures chez moi.",
       "en": "We’ll meet at my place at eight o’clock.",
-      "ipa": "ɔ̃ sə ʁə.tʁuv a vɛ̃ tœʁ ʃe mwa"
+      "ipa": "ɔ̃ sə ʁə.tʁuv a vɛ̃ tœʁ ʃe mwa",
+      "gloss": {
+        "en": "We’ll meet at my place at eight o’clock.",
+        "es": "Nos encontraremos en mi casa a las ocho.",
+        "ru": "Мы встретимся у меня дома в восемь часов."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "mariage",
         "Noël",
         "vacances"
-      ]
+      ],
+      "gloss": {
+        "en": "It’s my birthday tomorrow evening.",
+        "es": "Es mi cumpleaños mañana por la tarde.",
+        "ru": "Завтра вечером у меня день рождения."
+      },
+      "wordGloss": {
+        "en": "birthday",
+        "es": "cumpleaños",
+        "ru": "день рождения"
+      }
     },
     {
       "id": "remote-celebrations-listen-2",
@@ -236,7 +380,17 @@
         "carte",
         "surprise",
         "tradition"
-      ]
+      ],
+      "gloss": {
+        "en": "I received an invitation for Saturday.",
+        "es": "Recibí una invitación para el sábado.",
+        "ru": "Я получил приглашение на субботу."
+      },
+      "wordGloss": {
+        "en": "invitation",
+        "es": "invitación",
+        "ru": "приглашение"
+      }
     },
     {
       "id": "remote-celebrations-listen-3",
@@ -249,7 +403,17 @@
         "toast",
         "costume",
         "souvenir"
-      ]
+      ],
+      "gloss": {
+        "en": "I’m bringing a present and a cake.",
+        "es": "Traigo un regalo y una tarta.",
+        "ru": "Я несу подарок и торт."
+      },
+      "wordGloss": {
+        "en": "present",
+        "es": "presente",
+        "ru": "подарок"
+      }
     },
     {
       "id": "remote-celebrations-listen-4",
@@ -262,7 +426,17 @@
         "bougies",
         "danse",
         "musique"
-      ]
+      ],
+      "gloss": {
+        "en": "The fireworks start at midnight.",
+        "es": "Los fuegos artificiales comienzan a medianoche.",
+        "ru": "Фейерверк начнется в полночь."
+      },
+      "wordGloss": {
+        "en": "fireworks",
+        "es": "fuegos artificiales",
+        "ru": "фейерверк"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-celebrations-grammar-1",
       "title": {
         "fr": "Inviter : tu veux / on peut",
-        "en": "Inviting someone"
+        "en": "Inviting someone",
+        "es": "invitar a alguien",
+        "ru": "Приглашение кого-то"
       },
-      "rule": "Pour inviter : Tu veux venir samedi ? On peut se retrouver à vingt heures. Pour refuser poliment : Désolé, je ne peux pas. J’aimerais + infinitif est plus doux.",
+      "rule": {
+        "fr": "Pour inviter : Tu veux venir samedi ? On peut se retrouver à vingt heures. Pour refuser poliment : Désolé, je ne peux pas. J’aimerais + infinitif est plus doux.",
+        "en": "To invite: Do you want to come on Saturday? We can meet at eight o'clock. To politely decline: Sorry, I can't. I would like + infinitive is softer.",
+        "es": "Para invitar: ¿Quieres venir el sábado? Podemos reunirnos a las ocho en punto. Para rechazar cortésmente: Lo siento, no puedo. Me gustaría + infinitivo es más suave.",
+        "ru": "Пригласить: Хочешь прийти в субботу? Мы можем встретиться в восемь часов. Чтобы вежливо отказаться: Извините, я не могу. Я бы хотел + инфинитив мягче."
+      },
       "table": [
         [
           "Expression",
@@ -337,15 +518,27 @@
             "dois"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Inviting someone.",
+        "es": "Útil cuando necesitas postularte: invitar a alguien.",
+        "ru": "Полезно, когда вам нужно подать заявку: Пригласить кого-то."
+      }
     },
     {
       "id": "remote-celebrations-grammar-2",
       "title": {
         "fr": "C’est / ce sont pour les fêtes",
-        "en": "C’est and ce sont"
+        "en": "C’est and ce sont",
+        "es": "C'est y ce sont",
+        "ru": "C’est и ce sont"
       },
-      "rule": "C’est + nom singulier : C’est mon anniversaire. Ce sont + nom pluriel : Ce sont mes amis. On dit aussi C’est une fête surprise.",
+      "rule": {
+        "fr": "C’est + nom singulier : C’est mon anniversaire. Ce sont + nom pluriel : Ce sont mes amis. On dit aussi C’est une fête surprise.",
+        "en": "It’s + singular noun: It’s my birthday. They are + plural noun: They are my friends. We also say It's a surprise party.",
+        "es": "Es + sustantivo singular: es mi cumpleaños. Son + sustantivo plural: Son mis amigos. También decimos que es una fiesta sorpresa.",
+        "ru": "It’s + существительное в единственном числе: у меня день рождения. Они + существительное во множественном числе: Они мои друзья. Мы также говорим: «Это вечеринка-сюрприз»."
+      },
       "table": [
         [
           "Forme",
@@ -404,7 +597,12 @@
             "Il y a"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: C’est and ce sont.",
+        "es": "Útil cuando es necesario aplicar: C’est y ce sont.",
+        "ru": "Полезно, когда нужно подать заявление: C’est and ce sont."
+      }
     }
   ],
   "skills": {
@@ -413,19 +611,34 @@
         "id": "remote-celebrations-dict-1",
         "fr": "Tu es libre samedi soir ?",
         "en": "Are you free Saturday evening?",
-        "ipa": "ty ɛ li.bʁ sa.mɛ.di swaʁ"
+        "ipa": "ty ɛ li.bʁ sa.mɛ.di swaʁ",
+        "gloss": {
+          "en": "Are you free Saturday evening?",
+          "es": "¿Estás libre el sábado por la noche?",
+          "ru": "Ты свободен в субботу вечером?"
+        }
       },
       {
         "id": "remote-celebrations-dict-2",
         "fr": "Joyeux anniversaire !",
         "en": "Happy birthday!",
-        "ipa": "ʒwa.jø za.ni.vɛʁ.sɛʁ"
+        "ipa": "ʒwa.jø za.ni.vɛʁ.sɛʁ",
+        "gloss": {
+          "en": "Happy birthday!",
+          "es": "¡Feliz cumpleaños!",
+          "ru": "С днем ​​рождения!"
+        }
       },
       {
         "id": "remote-celebrations-dict-3",
         "fr": "J’aimerais t’inviter à dîner.",
         "en": "I’d like to invite you to dinner.",
-        "ipa": "ʒɛ.mə.ʁɛ tɛ̃.vi.te a di.ne"
+        "ipa": "ʒɛ.mə.ʁɛ tɛ̃.vi.te a di.ne",
+        "gloss": {
+          "en": "I’d like to invite you to dinner.",
+          "es": "Me gustaría invitarte a cenar.",
+          "ru": "Я хотел бы пригласить вас на ужин."
+        }
       }
     ],
     "meaning": [
@@ -433,63 +646,93 @@
         "id": "remote-celebrations-mean-1",
         "fr": "Tu es libre samedi soir ?",
         "en": "Are you free Saturday evening?",
-        "choices": [
-          "Are you free Saturday evening?",
-          "Happy birthday!",
-          "I’d like to invite you to dinner."
-        ]
+        "gloss": {
+          "en": "Are you free Saturday evening?",
+          "es": "¿Estás libre el sábado por la noche?",
+          "ru": "Ты свободен в субботу вечером?"
+        }
       },
       {
         "id": "remote-celebrations-mean-2",
         "fr": "Joyeux anniversaire !",
         "en": "Happy birthday!",
-        "choices": [
-          "Happy birthday!",
-          "Are you free Saturday evening?",
-          "I’d like to invite you to dinner."
-        ]
+        "gloss": {
+          "en": "Happy birthday!",
+          "es": "¡Feliz cumpleaños!",
+          "ru": "С днем ​​рождения!"
+        }
       },
       {
         "id": "remote-celebrations-mean-3",
         "fr": "J’aimerais t’inviter à dîner.",
         "en": "I’d like to invite you to dinner.",
-        "choices": [
-          "I’d like to invite you to dinner.",
-          "Are you free Saturday evening?",
-          "Happy birthday!"
-        ]
+        "gloss": {
+          "en": "I’d like to invite you to dinner.",
+          "es": "Me gustaría invitarte a cenar.",
+          "ru": "Я хотел бы пригласить вас на ужин."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-celebrations-fren-1",
         "fr": "fête",
-        "en": "party"
+        "en": "party",
+        "gloss": {
+          "en": "party",
+          "es": "fiesta",
+          "ru": "вечеринка"
+        }
       },
       {
         "id": "remote-celebrations-fren-2",
         "fr": "anniversaire",
-        "en": "birthday"
+        "en": "birthday",
+        "gloss": {
+          "en": "birthday",
+          "es": "cumpleaños",
+          "ru": "день рождения"
+        }
       },
       {
         "id": "remote-celebrations-fren-3",
         "fr": "invitation",
-        "en": "invitation"
+        "en": "invitation",
+        "gloss": {
+          "en": "invitation",
+          "es": "invitación",
+          "ru": "приглашение"
+        }
       },
       {
         "id": "remote-celebrations-fren-4",
         "fr": "cadeau",
-        "en": "present"
+        "en": "present",
+        "gloss": {
+          "en": "present",
+          "es": "presente",
+          "ru": "подарок"
+        }
       },
       {
         "id": "remote-celebrations-fren-5",
         "fr": "gâteau",
-        "en": "cake"
+        "en": "cake",
+        "gloss": {
+          "en": "cake",
+          "es": "pastel",
+          "ru": "торт"
+        }
       },
       {
         "id": "remote-celebrations-fren-6",
         "fr": "bougie",
-        "en": "candle"
+        "en": "candle",
+        "gloss": {
+          "en": "candle",
+          "es": "vela",
+          "ru": "свеча"
+        }
       }
     ],
     "aloud": [
@@ -497,19 +740,34 @@
         "id": "remote-celebrations-aloud-1",
         "fr": "Tu es libre samedi soir ?",
         "en": "Are you free Saturday evening?",
-        "ipa": "ty ɛ li.bʁ sa.mɛ.di swaʁ"
+        "ipa": "ty ɛ li.bʁ sa.mɛ.di swaʁ",
+        "gloss": {
+          "en": "Are you free Saturday evening?",
+          "es": "¿Estás libre el sábado por la noche?",
+          "ru": "Ты свободен в субботу вечером?"
+        }
       },
       {
         "id": "remote-celebrations-aloud-2",
         "fr": "J’aimerais t’inviter à dîner.",
         "en": "I’d like to invite you to dinner.",
-        "ipa": "ʒɛ.mə.ʁɛ tɛ̃.vi.te a di.ne"
+        "ipa": "ʒɛ.mə.ʁɛ tɛ̃.vi.te a di.ne",
+        "gloss": {
+          "en": "I’d like to invite you to dinner.",
+          "es": "Me gustaría invitarte a cenar.",
+          "ru": "Я хотел бы пригласить вас на ужин."
+        }
       },
       {
         "id": "remote-celebrations-aloud-3",
         "fr": "Désolé, je ne peux pas venir.",
         "en": "Sorry, I can’t come.",
-        "ipa": "de.zɔ.le ʒə nə pø pa və.niʁ"
+        "ipa": "de.zɔ.le ʒə nə pø pa və.niʁ",
+        "gloss": {
+          "en": "Sorry, I can’t come.",
+          "es": "Lo siento, no puedo ir.",
+          "ru": "Извините, я не смогу прийти."
+        }
       }
     ],
     "unscramble": [
@@ -524,7 +782,12 @@
           "j’accepte",
           "avec",
           "plaisir."
-        ]
+        ],
+        "gloss": {
+          "en": "Thanks for the invitation, I’d love to come.",
+          "es": "Gracias por la invitación, me encantaría venir.",
+          "ru": "Спасибо за приглашение, я бы с радостью пришёл."
+        }
       },
       {
         "id": "remote-celebrations-unsc-2",
@@ -537,7 +800,12 @@
           "peux",
           "pas",
           "venir."
-        ]
+        ],
+        "gloss": {
+          "en": "Sorry, I can’t come.",
+          "es": "Lo siento, no puedo ir.",
+          "ru": "Извините, я не смогу прийти."
+        }
       }
     ]
   }

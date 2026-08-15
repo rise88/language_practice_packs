@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "food-a1",
-  "version": 3,
+  "version": 4,
   "level": "a1",
   "title": {
     "fr": "Nourriture A1",
-    "en": "Food A1"
+    "en": "Food A1",
+    "es": "Comida A1",
+    "ru": "Еда А1"
   },
   "description": {
     "fr": "Café, marché et repas du quotidien pour débutants.",
-    "en": "Café, market, and everyday meals for beginners."
+    "en": "Café, market, and everyday meals for beginners.",
+    "es": "Café, mercado y comidas diarias para principiantes.",
+    "ru": "Кафе, рынок и повседневное питание для новичков."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "bread",
       "example": "Je mange du pain le matin.",
       "ipa": "pɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "bread",
+        "es": "pan",
+        "ru": "хлеб"
+      }
     },
     {
       "id": "remote-food-a1-2",
@@ -26,7 +35,12 @@
       "en": "cheese",
       "example": "Le fromage est délicieux.",
       "ipa": "fʁɔ.maʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "cheese",
+        "es": "queso",
+        "ru": "сыр"
+      }
     },
     {
       "id": "remote-food-a1-3",
@@ -34,7 +48,12 @@
       "en": "apple",
       "example": "Je prends une pomme.",
       "ipa": "pɔm",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "apple",
+        "es": "manzana",
+        "ru": "яблоко"
+      }
     },
     {
       "id": "remote-food-a1-4",
@@ -42,7 +61,12 @@
       "en": "water",
       "example": "Une bouteille d’eau, s’il vous plaît.",
       "ipa": "o",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "water",
+        "es": "agua",
+        "ru": "вода"
+      }
     },
     {
       "id": "remote-food-a1-5",
@@ -50,7 +74,12 @@
       "en": "coffee / café",
       "example": "Je bois un café.",
       "ipa": "ka.fe",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "coffee / café",
+        "es": "café / cafetería",
+        "ru": "кофе / кафе"
+      }
     },
     {
       "id": "remote-food-a1-6",
@@ -58,7 +87,12 @@
       "en": "milk",
       "example": "Du lait dans le café ?",
       "ipa": "lɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "milk",
+        "es": "leche",
+        "ru": "молоко"
+      }
     },
     {
       "id": "remote-food-a1-7",
@@ -66,7 +100,12 @@
       "en": "soup",
       "example": "La soupe est chaude.",
       "ipa": "sup",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "soup",
+        "es": "sopa",
+        "ru": "суп"
+      }
     },
     {
       "id": "remote-food-a1-8",
@@ -74,7 +113,12 @@
       "en": "fruit",
       "example": "J’aime les fruits.",
       "ipa": "fʁɥi",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "fruit",
+        "es": "fruta",
+        "ru": "фрукты"
+      }
     },
     {
       "id": "remote-food-a1-9",
@@ -82,7 +126,12 @@
       "en": "egg",
       "example": "Je mange un œuf au petit déjeuner.",
       "ipa": "œf",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "egg",
+        "es": "huevo",
+        "ru": "яйцо"
+      }
     },
     {
       "id": "remote-food-a1-10",
@@ -90,7 +139,12 @@
       "en": "butter",
       "example": "Du beurre sur le pain, s’il vous plaît.",
       "ipa": "bœʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "butter",
+        "es": "manteca",
+        "ru": "масло"
+      }
     },
     {
       "id": "remote-food-a1-11",
@@ -98,7 +152,12 @@
       "en": "rice",
       "example": "Nous mangeons du riz ce soir.",
       "ipa": "ʁi",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "rice",
+        "es": "arroz",
+        "ru": "рис"
+      }
     },
     {
       "id": "remote-food-a1-12",
@@ -106,7 +165,12 @@
       "en": "chicken",
       "example": "Le poulet est bon.",
       "ipa": "pu.lɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "chicken",
+        "es": "pollo",
+        "ru": "курица"
+      }
     },
     {
       "id": "remote-food-a1-13",
@@ -114,7 +178,12 @@
       "en": "salad",
       "example": "Je prends une salade.",
       "ipa": "sa.lad",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "salad",
+        "es": "ensalada",
+        "ru": "салат"
+      }
     },
     {
       "id": "remote-food-a1-14",
@@ -122,7 +191,12 @@
       "en": "juice",
       "example": "Un jus d’orange, s’il vous plaît.",
       "ipa": "ʒy",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "juice",
+        "es": "jugo",
+        "ru": "сок"
+      }
     },
     {
       "id": "remote-food-a1-15",
@@ -130,7 +204,12 @@
       "en": "tea",
       "example": "Je bois du thé le soir.",
       "ipa": "te",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "tea",
+        "es": "té",
+        "ru": "чай"
+      }
     },
     {
       "id": "remote-food-a1-16",
@@ -138,7 +217,12 @@
       "en": "sugar",
       "example": "Avec du sucre ?",
       "ipa": "sykʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "sugar",
+        "es": "azúcar",
+        "ru": "сахар"
+      }
     },
     {
       "id": "remote-food-a1-17",
@@ -146,7 +230,12 @@
       "en": "meat",
       "example": "Je ne mange pas de viande.",
       "ipa": "vjɑ̃d",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "meat",
+        "es": "carne",
+        "ru": "мясо"
+      }
     },
     {
       "id": "remote-food-a1-18",
@@ -154,7 +243,12 @@
       "en": "fish",
       "example": "Le poisson est frais.",
       "ipa": "pwa.sɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "fish",
+        "es": "pez",
+        "ru": "рыба"
+      }
     },
     {
       "id": "remote-food-a1-19",
@@ -162,7 +256,12 @@
       "en": "vegetable",
       "example": "J’achète des légumes au marché.",
       "ipa": "le.ɡym",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "vegetable",
+        "es": "verdura",
+        "ru": "овощной"
+      }
     },
     {
       "id": "remote-food-a1-20",
@@ -170,7 +269,12 @@
       "en": "dessert",
       "example": "Quel dessert voulez-vous ?",
       "ipa": "dɛ.sɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "dessert",
+        "es": "postre",
+        "ru": "десерт"
+      }
     },
     {
       "id": "remote-food-a1-21",
@@ -178,7 +282,12 @@
       "en": "croissant",
       "example": "Je prends un croissant avec mon café.",
       "ipa": "kʁwa.sɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "croissant",
+        "es": "cuerno",
+        "ru": "круассан"
+      }
     },
     {
       "id": "remote-food-a1-22",
@@ -186,7 +295,12 @@
       "en": "market",
       "example": "Nous allons au marché le samedi.",
       "ipa": "maʁ.ʃe",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "market",
+        "es": "mercado",
+        "ru": "рынок"
+      }
     }
   ],
   "phrases": [
@@ -194,37 +308,67 @@
       "id": "remote-food-phrase-1",
       "fr": "Je voudrais un café, s’il vous plaît.",
       "en": "I’d like a coffee, please.",
-      "ipa": "ʒə vu.dʁɛ œ̃ ka.fe sil vu plɛ"
+      "ipa": "ʒə vu.dʁɛ œ̃ ka.fe sil vu plɛ",
+      "gloss": {
+        "en": "I’d like a coffee, please.",
+        "es": "Quisiera un café, por favor.",
+        "ru": "Мне кофе, пожалуйста."
+      }
     },
     {
       "id": "remote-food-phrase-2",
       "fr": "L’addition, s’il vous plaît.",
       "en": "The bill, please.",
-      "ipa": "la.di.sjɔ̃ sil vu plɛ"
+      "ipa": "la.di.sjɔ̃ sil vu plɛ",
+      "gloss": {
+        "en": "The bill, please.",
+        "es": "La cuenta, por favor.",
+        "ru": "Счет, пожалуйста."
+      }
     },
     {
       "id": "remote-food-phrase-3",
       "fr": "C’est délicieux !",
       "en": "It’s delicious!",
-      "ipa": "sɛ de.li.sjø"
+      "ipa": "sɛ de.li.sjø",
+      "gloss": {
+        "en": "It’s delicious!",
+        "es": "¡Está delicioso!",
+        "ru": "Это вкусно!"
+      }
     },
     {
       "id": "remote-food-phrase-4",
       "fr": "Je suis végétarien / végétarienne.",
       "en": "I am vegetarian.",
-      "ipa": "ʒə sɥi ve.ʒe.ta.ʁjɛ̃ / ve.ʒe.ta.ʁjɛn"
+      "ipa": "ʒə sɥi ve.ʒe.ta.ʁjɛ̃ / ve.ʒe.ta.ʁjɛn",
+      "gloss": {
+        "en": "I am vegetarian.",
+        "es": "Soy vegetariano.",
+        "ru": "Я вегетарианец."
+      }
     },
     {
       "id": "remote-food-phrase-5",
       "fr": "Qu’est-ce que vous recommandez ?",
       "en": "What do you recommend?",
-      "ipa": "kɛs.kə vu ʁə.kɔ.mɑ̃.de"
+      "ipa": "kɛs.kə vu ʁə.kɔ.mɑ̃.de",
+      "gloss": {
+        "en": "What do you recommend?",
+        "es": "¿Qué me recomienda?",
+        "ru": "Что вы порекомендуете?"
+      }
     },
     {
       "id": "remote-food-phrase-6",
       "fr": "Je prends la salade et le poisson.",
       "en": "I’ll have the salad and the fish.",
-      "ipa": "ʒə pʁɑ̃ la sa.lad e lə pwa.sɔ̃"
+      "ipa": "ʒə pʁɑ̃ la sa.lad e lə pwa.sɔ̃",
+      "gloss": {
+        "en": "I’ll have the salad and the fish.",
+        "es": "Quiero la ensalada y el pescado.",
+        "ru": "Я возьму салат и рыбу."
+      }
     }
   ],
   "listen": [
@@ -239,7 +383,17 @@
         "thé",
         "jus",
         "eau"
-      ]
+      ],
+      "gloss": {
+        "en": "I drink a coffee with milk in the morning.",
+        "es": "Tomo un café con leche por la mañana.",
+        "ru": "Я пью кофе с молоком по утрам."
+      },
+      "wordGloss": {
+        "en": "coffee",
+        "es": "café",
+        "ru": "кофе"
+      }
     },
     {
       "id": "remote-food-listen-2",
@@ -252,7 +406,17 @@
         "beurre",
         "lait",
         "sucre"
-      ]
+      ],
+      "gloss": {
+        "en": "She buys bread and cheese at the market.",
+        "es": "Compra pan y queso en el mercado.",
+        "ru": "Она покупает хлеб и сыр на рынке."
+      },
+      "wordGloss": {
+        "en": "cheese",
+        "es": "queso",
+        "ru": "сыр"
+      }
     },
     {
       "id": "remote-food-listen-3",
@@ -265,7 +429,17 @@
         "poisson",
         "viande",
         "œuf"
-      ]
+      ],
+      "gloss": {
+        "en": "We are eating chicken with rice tonight.",
+        "es": "Esta noche comeremos pollo con arroz.",
+        "ru": "Сегодня вечером мы едим курицу с рисом."
+      },
+      "wordGloss": {
+        "en": "chicken",
+        "es": "pollo",
+        "ru": "курица"
+      }
     },
     {
       "id": "remote-food-listen-4",
@@ -278,7 +452,17 @@
         "thé",
         "lait",
         "café"
-      ]
+      ],
+      "gloss": {
+        "en": "Do you want juice or water?",
+        "es": "¿Quieres jugo o agua?",
+        "ru": "Хотите сок или воду?"
+      },
+      "wordGloss": {
+        "en": "juice",
+        "es": "jugo",
+        "ru": "сок"
+      }
     }
   ],
   "prompts": [
@@ -292,9 +476,16 @@
       "id": "remote-food-grammar-1",
       "title": {
         "fr": "Les articles partitifs",
-        "en": "Partitive articles"
+        "en": "Partitive articles",
+        "es": "Artículos partitivos",
+        "ru": "Партитивные артикли"
       },
-      "rule": "Pour une quantité non précisée de nourriture ou de boisson, on utilise du (masculin), de la (féminin), de l’ (devant une voyelle) ou des (pluriel). Après une négation, on utilise souvent de / d’ : Je ne mange pas de viande.",
+      "rule": {
+        "fr": "Pour une quantité non précisée de nourriture ou de boisson, on utilise du (masculin), de la (féminin), de l’ (devant une voyelle) ou des (pluriel). Après une négation, on utilise souvent de / d’ : Je ne mange pas de viande.",
+        "en": "For an unspecified quantity of food or drink, we use (masculine), (feminine), (before a vowel) or (plural). After a negative, we often use de/d’: I don’t eat meat.",
+        "es": "Para una cantidad no especificada de comida o bebida utilizamos (masculino), (femenino), (antes de una vocal) o (plural). Después de una negativa, solemos usar de/d’: No como carne.",
+        "ru": "Для неопределенного количества еды или питья мы используем (мужской род), (женский род), (перед гласной) или (множественное число). После негатива мы часто используем дэ/д’: Я не ем мяса."
+      },
       "table": [
         [
           "Forme",
@@ -358,15 +549,27 @@
             "des"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Partitive articles.",
+        "es": "Útil cuando necesitas aplicar: Artículos partitivos.",
+        "ru": "Полезно, когда нужно применить: Разделительные артикли."
+      }
     },
     {
       "id": "remote-food-grammar-2",
       "title": {
         "fr": "Commander au café",
-        "en": "Ordering at a café"
+        "en": "Ordering at a café",
+        "es": "Ordenar en una cafetería",
+        "ru": "Заказ в кафе"
       },
-      "rule": "Pour commander poliment, utilisez Je voudrais… ou Je prends… suivi de l’article indéfini (un / une) pour une unité, ou d’un partitif pour une quantité.",
+      "rule": {
+        "fr": "Pour commander poliment, utilisez Je voudrais… ou Je prends… suivi de l’article indéfini (un / une) pour une unité, ou d’un partitif pour une quantité.",
+        "en": "To order politely, use I would like… or I take… followed by the indefinite article (un/une) for a unit, or a partitive for a quantity.",
+        "es": "Para ordenar cortésmente, use me gustaría… o tomo… seguido del artículo indefinido (un/une) para una unidad, o un partitivo para una cantidad.",
+        "ru": "Чтобы вежливо сделать заказ, используйте «Я бы хотел…» или «Я беру…», за которым следует неопределенный артикль (un/une) для единицы измерения или партитив для количества."
+      },
       "table": [
         [
           "Expression",
@@ -415,7 +618,12 @@
             "du"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Ordering at a café.",
+        "es": "Útil cuando necesitas presentar una solicitud: hacer un pedido en una cafetería.",
+        "ru": "Полезно, когда нужно подать заявку: Заказ в кафе."
+      }
     }
   ],
   "skills": {
@@ -424,19 +632,34 @@
         "id": "remote-food-dict-1",
         "fr": "Je mange du pain le matin.",
         "en": "I eat bread in the morning.",
-        "ipa": "ʒə mɑ̃ʒ dy pɛ̃ lə ma.tɛ̃"
+        "ipa": "ʒə mɑ̃ʒ dy pɛ̃ lə ma.tɛ̃",
+        "gloss": {
+          "en": "I eat bread in the morning.",
+          "es": "Como pan por la mañana.",
+          "ru": "Я ем хлеб по утрам."
+        }
       },
       {
         "id": "remote-food-dict-2",
         "fr": "Elle boit un café avec du lait.",
         "en": "She drinks a coffee with milk.",
-        "ipa": "ɛl bwa œ̃ ka.fe a.vɛk dy lɛ"
+        "ipa": "ɛl bwa œ̃ ka.fe a.vɛk dy lɛ",
+        "gloss": {
+          "en": "She drinks a coffee with milk.",
+          "es": "Ella bebe un café con leche.",
+          "ru": "Она пьет кофе с молоком."
+        }
       },
       {
         "id": "remote-food-dict-3",
         "fr": "Nous achetons des légumes au marché.",
         "en": "We buy vegetables at the market.",
-        "ipa": "nu.z‿aʃ.tɔ̃ de le.ɡym o maʁ.ʃe"
+        "ipa": "nu.z‿aʃ.tɔ̃ de le.ɡym o maʁ.ʃe",
+        "gloss": {
+          "en": "We buy vegetables at the market.",
+          "es": "Compramos verduras en el mercado.",
+          "ru": "Мы покупаем овощи на рынке."
+        }
       }
     ],
     "meaning": [
@@ -444,63 +667,93 @@
         "id": "remote-food-mean-1",
         "fr": "C’est délicieux !",
         "en": "It’s delicious!",
-        "choices": [
-          "It’s delicious!",
-          "I’m hungry.",
-          "The bill, please."
-        ]
+        "gloss": {
+          "en": "It’s delicious!",
+          "es": "¡Está delicioso!",
+          "ru": "Это вкусно!"
+        }
       },
       {
         "id": "remote-food-mean-2",
         "fr": "Je ne mange pas de viande.",
         "en": "I don’t eat meat.",
-        "choices": [
-          "I don’t eat meat.",
-          "I love fish.",
-          "I want dessert."
-        ]
+        "gloss": {
+          "en": "I don’t eat meat.",
+          "es": "No como carne.",
+          "ru": "Я не ем мясо."
+        }
       },
       {
         "id": "remote-food-mean-3",
         "fr": "L’addition, s’il vous plaît.",
         "en": "The bill, please.",
-        "choices": [
-          "The bill, please.",
-          "More water, please.",
-          "It’s cold."
-        ]
+        "gloss": {
+          "en": "The bill, please.",
+          "es": "La cuenta, por favor.",
+          "ru": "Счет, пожалуйста."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-food-fren-1",
         "fr": "pain",
-        "en": "bread"
+        "en": "bread",
+        "gloss": {
+          "en": "bread",
+          "es": "pan",
+          "ru": "хлеб"
+        }
       },
       {
         "id": "remote-food-fren-2",
         "fr": "fromage",
-        "en": "cheese"
+        "en": "cheese",
+        "gloss": {
+          "en": "cheese",
+          "es": "queso",
+          "ru": "сыр"
+        }
       },
       {
         "id": "remote-food-fren-3",
         "fr": "pomme",
-        "en": "apple"
+        "en": "apple",
+        "gloss": {
+          "en": "apple",
+          "es": "manzana",
+          "ru": "яблоко"
+        }
       },
       {
         "id": "remote-food-fren-4",
         "fr": "eau",
-        "en": "water"
+        "en": "water",
+        "gloss": {
+          "en": "water",
+          "es": "agua",
+          "ru": "вода"
+        }
       },
       {
         "id": "remote-food-fren-5",
         "fr": "café",
-        "en": "coffee"
+        "en": "coffee",
+        "gloss": {
+          "en": "coffee",
+          "es": "café",
+          "ru": "кофе"
+        }
       },
       {
         "id": "remote-food-fren-6",
         "fr": "poulet",
-        "en": "chicken"
+        "en": "chicken",
+        "gloss": {
+          "en": "chicken",
+          "es": "pollo",
+          "ru": "курица"
+        }
       }
     ],
     "aloud": [
@@ -508,19 +761,34 @@
         "id": "remote-food-aloud-1",
         "fr": "Je voudrais un café, s’il vous plaît.",
         "en": "I’d like a coffee, please.",
-        "ipa": "ʒə vu.dʁɛ œ̃ ka.fe sil vu plɛ"
+        "ipa": "ʒə vu.dʁɛ œ̃ ka.fe sil vu plɛ",
+        "gloss": {
+          "en": "I’d like a coffee, please.",
+          "es": "Quisiera un café, por favor.",
+          "ru": "Мне кофе, пожалуйста."
+        }
       },
       {
         "id": "remote-food-aloud-2",
         "fr": "Un jus d’orange, s’il vous plaît.",
         "en": "An orange juice, please.",
-        "ipa": "œ̃ ʒy dɔ.ʁɑ̃ʒ sil vu plɛ"
+        "ipa": "œ̃ ʒy dɔ.ʁɑ̃ʒ sil vu plɛ",
+        "gloss": {
+          "en": "An orange juice, please.",
+          "es": "Un jugo de naranja, por favor.",
+          "ru": "Апельсиновый сок, пожалуйста."
+        }
       },
       {
         "id": "remote-food-aloud-3",
         "fr": "Le poisson est frais.",
         "en": "The fish is fresh.",
-        "ipa": "lə pwa.sɔ̃ ɛ fʁɛ"
+        "ipa": "lə pwa.sɔ̃ ɛ fʁɛ",
+        "gloss": {
+          "en": "The fish is fresh.",
+          "es": "El pescado está fresco.",
+          "ru": "Рыба свежая."
+        }
       }
     ],
     "unscramble": [
@@ -533,7 +801,12 @@
           "prends",
           "une",
           "salade."
-        ]
+        ],
+        "gloss": {
+          "en": "I take a salad.",
+          "es": "Tomo una ensalada.",
+          "ru": "Я беру салат."
+        }
       },
       {
         "id": "remote-food-unsc-2",
@@ -546,7 +819,12 @@
           "riz",
           "ce",
           "soir."
-        ]
+        ],
+        "gloss": {
+          "en": "We eat rice tonight.",
+          "es": "Esta noche comeremos arroz.",
+          "ru": "Сегодня вечером мы едим рис."
+        }
       }
     ]
   }

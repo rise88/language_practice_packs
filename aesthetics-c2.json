@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "aesthetics-c2",
-  "version": 1,
+  "version": 2,
   "level": "c2",
   "title": {
     "fr": "Esthétique C2",
-    "en": "Aesthetics C2"
+    "en": "Aesthetics C2",
+    "es": "Estética C2",
+    "ru": "Эстетика C2"
   },
   "description": {
     "fr": "Sublime, mimèsis, goût et aura pour une critique des régimes du sensible.",
-    "en": "The sublime, mimesis, taste, and aura for a critique of regimes of the sensible."
+    "en": "The sublime, mimesis, taste, and aura for a critique of regimes of the sensible.",
+    "es": "Lo sublime, mimesis, gusto y aura para una crítica de los regímenes de lo sensible.",
+    "ru": "Возвышенное, мимесис, вкус и аура для критики режимов чувственного."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "the sublime",
       "example": "Le sublime, chez Kant, n’est pas le beau agrandi : il est le heurt de l’imagination à ce qui la déborde.",
       "ipa": "sy.blim",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "the sublime",
+        "es": "lo sublime",
+        "ru": "возвышенное"
+      }
     },
     {
       "id": "remote-aesthetics-c2-2",
@@ -26,7 +35,12 @@
       "en": "mimesis",
       "example": "La mimèsis, loin d’être une copie servile, institue un monde selon des règles qui lui sont propres.",
       "ipa": "mi.me.zis",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "mimesis",
+        "es": "mimetismo",
+        "ru": "мимесис"
+      }
     },
     {
       "id": "remote-aesthetics-c2-3",
@@ -34,7 +48,12 @@
       "en": "taste",
       "example": "Le goût, antinomie kantienne, se veut universel tout en demeurant un jugement sans concept.",
       "ipa": "ɡu",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "taste",
+        "es": "gusto",
+        "ru": "вкус"
+      }
     },
     {
       "id": "remote-aesthetics-c2-4",
@@ -42,7 +61,12 @@
       "en": "form",
       "example": "La forme n’est pas le contenant d’un contenu : elle est l’organisation même du sensible.",
       "ipa": "fɔʁm",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "form",
+        "es": "forma",
+        "ru": "форма"
+      }
     },
     {
       "id": "remote-aesthetics-c2-5",
@@ -50,7 +74,12 @@
       "en": "aura",
       "example": "L’aura, chez Benjamin, est l’ici et maintenant unique de l’œuvre, que la reproductibilité technique érode.",
       "ipa": "o.ʁa",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "aura",
+        "es": "aura",
+        "ru": "аура"
+      }
     },
     {
       "id": "remote-aesthetics-c2-6",
@@ -58,7 +87,12 @@
       "en": "the beautiful",
       "example": "Le beau, distinct du sublime, promet une harmonie que l’esprit peut habiter sans vertige.",
       "ipa": "bo",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "the beautiful",
+        "es": "la bella",
+        "ru": "красивый"
+      }
     },
     {
       "id": "remote-aesthetics-c2-7",
@@ -66,7 +100,12 @@
       "en": "kitsch",
       "example": "Le kitsch, en offrant l’émotion sans la résistance de la forme, console plus qu’il ne juge.",
       "ipa": "kitʃ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "kitsch",
+        "es": "kitsch",
+        "ru": "китч"
+      }
     },
     {
       "id": "remote-aesthetics-c2-8",
@@ -74,7 +113,12 @@
       "en": "poiesis",
       "example": "La poièsis, production qui fait advenir, s’oppose à la praxis comme l’œuvre s’oppose à l’action.",
       "ipa": "pɔ.je.zis",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "poiesis",
+        "es": "poiesis",
+        "ru": "поэзис"
+      }
     },
     {
       "id": "remote-aesthetics-c2-9",
@@ -82,7 +126,12 @@
       "en": "grace",
       "example": "La grâce, chez Schiller, est la beauté du mouvement où la liberté paraît naturelle.",
       "ipa": "ɡʁas",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "grace",
+        "es": "gracia",
+        "ru": "милость"
+      }
     },
     {
       "id": "remote-aesthetics-c2-10",
@@ -90,7 +139,12 @@
       "en": "the picturesque",
       "example": "Le pittoresque arrange le paysage en tableau, et ménage le regard que le sublime trop rude écarterait.",
       "ipa": "pi.tɔ.ʁɛsk",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "the picturesque",
+        "es": "lo pintoresco",
+        "ru": "живописный"
+      }
     },
     {
       "id": "remote-aesthetics-c2-11",
@@ -98,7 +152,12 @@
       "en": "aestheticism",
       "example": "L’esthétisme, lorsqu’il se ferme au monde, fait de l’art une idole plutôt qu’une interrogation.",
       "ipa": "ɛs.te.tism",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "aestheticism",
+        "es": "esteticismo",
+        "ru": "эстетизм"
+      }
     },
     {
       "id": "remote-aesthetics-c2-12",
@@ -106,7 +165,12 @@
       "en": "chiaroscuro",
       "example": "Le clair-obscur ne peint pas la lumière : il l’arrache à l’ombre qui la révèle.",
       "ipa": "klɛ.ʁɔp.skyʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "chiaroscuro",
+        "es": "claroscuro",
+        "ru": "светотень"
+      }
     },
     {
       "id": "remote-aesthetics-c2-13",
@@ -114,7 +178,12 @@
       "en": "analogon",
       "example": "L’analogon, chez Sartre, est le support matériel par lequel l’image irréelle se donne.",
       "ipa": "a.na.lɔ.ɡɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "analogon",
+        "es": "análogo",
+        "ru": "аналогон"
+      }
     },
     {
       "id": "remote-aesthetics-c2-14",
@@ -122,7 +191,12 @@
       "en": "schema",
       "example": "Le schème, médiateur kantien, articule le concept et l’intuition sans les confondre.",
       "ipa": "ʃɛm",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "schema",
+        "es": "esquema",
+        "ru": "схема"
+      }
     },
     {
       "id": "remote-aesthetics-c2-15",
@@ -130,7 +204,12 @@
       "en": "defamiliarization",
       "example": "La singularisation, chez les formalistes russes, arrache le familier à l’automatisme de la perception.",
       "ipa": "sɛ̃.ɡy.lja.ʁi.za.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "defamiliarization",
+        "es": "desfamiliarización",
+        "ru": "остранение"
+      }
     },
     {
       "id": "remote-aesthetics-c2-16",
@@ -138,7 +217,12 @@
       "en": "harmony",
       "example": "L’harmonie, promesse classique, suppose un accord des parties que la modernité n’a cessé de fissurer.",
       "ipa": "aʁ.mɔ.ni",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "harmony",
+        "es": "armonía",
+        "ru": "гармония"
+      }
     },
     {
       "id": "remote-aesthetics-c2-17",
@@ -146,7 +230,12 @@
       "en": "ideal",
       "example": "L’idéal n’est pas un modèle à copier : c’est la visée que la forme approche sans l’atteindre.",
       "ipa": "i.de.al",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "ideal",
+        "es": "ideal",
+        "ru": "идеальный"
+      }
     },
     {
       "id": "remote-aesthetics-c2-18",
@@ -154,7 +243,12 @@
       "en": "techne",
       "example": "La tekhnè grecque, savoir-faire orienté, n’oppose pas encore l’art à la technique.",
       "ipa": "tɛk.nɛ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "techne",
+        "es": "techné",
+        "ru": "технэ"
+      }
     },
     {
       "id": "remote-aesthetics-c2-19",
@@ -162,7 +256,12 @@
       "en": "je-ne-sais-quoi",
       "example": "Le je-ne-sais-quoi nomme, par aveu d’impuissance, ce que le goût sent et que le concept n’épuise pas.",
       "ipa": "ʒə.nə.sɛ.kwa",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "je-ne-sais-quoi",
+        "es": "je-ne-sais-quoi",
+        "ru": "je-ne-sais-quoi"
+      }
     },
     {
       "id": "remote-aesthetics-c2-20",
@@ -170,7 +269,12 @@
       "en": "aisthesis",
       "example": "L’aisthèsis, saisie sensible, précède toute théorisation du beau.",
       "ipa": "ajs.tɛ.sis",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "aisthesis",
+        "es": "aistesis",
+        "ru": "аистез"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-aesthetics-phrase-1",
       "fr": "Le sublime est plus déconcertant que l’on ne le dit d’ordinaire : il n’agrandit pas le beau, il le brise.",
       "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
-      "ipa": "lə sy.blim ɛ ply de.kɔ̃.sɛʁ.tɑ̃ kə lɔ̃ nə lə di dɔʁ.di.nɛʁ il na.ɡʁɑ̃.di pa lə bo il lə bʁiz"
+      "ipa": "lə sy.blim ɛ ply de.kɔ̃.sɛʁ.tɑ̃ kə lɔ̃ nə lə di dɔʁ.di.nɛʁ il na.ɡʁɑ̃.di pa lə bo il lə bʁiz",
+      "gloss": {
+        "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+        "es": "Lo sublime es más desconcertante de lo que comúnmente se dice: no agranda lo bello, lo rompe.",
+        "ru": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает прекрасное, а разрушает его."
+      }
     },
     {
       "id": "remote-aesthetics-phrase-2",
       "fr": "La mimèsis, objectait-il, institue un monde ; elle ne recopie pas le nôtre.",
       "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
-      "ipa": "la mi.me.zis ɔb.ʒɛk.tɛ til ɛ̃s.ti.ty œ̃ mɔ̃d ɛl nə ʁə.kɔ.pi pa lə notʁ"
+      "ipa": "la mi.me.zis ɔb.ʒɛk.tɛ til ɛ̃s.ti.ty œ̃ mɔ̃d ɛl nə ʁə.kɔ.pi pa lə notʁ",
+      "gloss": {
+        "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
+        "es": "La mimesis, objetó, instituye un mundo; no copia el nuestro.",
+        "ru": "Мимесис, возражал он, учреждает мир; он не копирует наш."
+      }
     },
     {
       "id": "remote-aesthetics-phrase-3",
       "fr": "L’aura, que la reproductibilité technique érode, tenait à l’unicité de l’ici et maintenant.",
       "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
-      "ipa": "lo.ʁa kə la ʁə.pʁɔ.dyk.ti.bi.li.te tɛk.nik e.ʁɔd tə.nɛ a ly.ni.si.te də li.si e mɛ̃.tə.nɑ̃"
+      "ipa": "lo.ʁa kə la ʁə.pʁɔ.dyk.ti.bi.li.te tɛk.nik e.ʁɔd tə.nɛ a ly.ni.si.te də li.si e mɛ̃.tə.nɑ̃",
+      "gloss": {
+        "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+        "es": "El aura, que la reproducibilidad técnica erosiona, reside en la unicidad del aquí y ahora.",
+        "ru": "Аура, которую разрушает техническая воспроизводимость, заключается в уникальности здесь и сейчас."
+      }
     },
     {
       "id": "remote-aesthetics-phrase-4",
       "fr": "Encore que le goût se veuille universel, il demeure un jugement sans concept.",
       "en": "Even though taste claims universality, it remains a judgement without a concept.",
-      "ipa": "ɑ̃.kɔʁ kə lə ɡu sə vœj y.ni.vɛʁ.sɛl il də.mœʁ œ̃ ʒyʒ.mɑ̃ sɑ̃ kɔ̃.sɛ"
+      "ipa": "ɑ̃.kɔʁ kə lə ɡu sə vœj y.ni.vɛʁ.sɛl il də.mœʁ œ̃ ʒyʒ.mɑ̃ sɑ̃ kɔ̃.sɛ",
+      "gloss": {
+        "en": "Even though taste claims universality, it remains a judgement without a concept.",
+        "es": "Aunque el gusto pretende ser universal, sigue siendo un juicio sin concepto.",
+        "ru": "Хотя вкус и претендует на универсальность, он остается суждением без понятия."
+      }
     },
     {
       "id": "remote-aesthetics-phrase-5",
       "fr": "Aussi la forme n’est-elle pas le contenant d’un contenu, mais l’organisation du sensible.",
       "en": "Thus form is not the container of a content, but the organisation of the sensible.",
-      "ipa": "o.si la fɔʁm nɛ tɛl pa lə kɔ̃.tə.nɑ̃ dœ̃ kɔ̃.tə.ny mɛ lɔʁ.ɡa.ni.za.sjɔ̃ dy sɑ̃.sibl"
+      "ipa": "o.si la fɔʁm nɛ tɛl pa lə kɔ̃.tə.nɑ̃ dœ̃ kɔ̃.tə.ny mɛ lɔʁ.ɡa.ni.za.sjɔ̃ dy sɑ̃.sibl",
+      "gloss": {
+        "en": "Thus form is not the container of a content, but the organisation of the sensible.",
+        "es": "Así, la forma no es el contenedor de un contenido, sino la organización de lo sensible.",
+        "ru": "Таким образом, форма — это не вместилище содержания, а организация чувственного."
+      }
     },
     {
       "id": "remote-aesthetics-phrase-6",
       "fr": "Le kitsch console plus qu’il ne juge, offrant l’émotion sans la résistance de la forme.",
       "en": "Kitsch consoles more than it judges, offering emotion without the resistance of form.",
-      "ipa": "lə kitʃ kɔ̃.sɔl ply kil nə ʒyʒ ɔ.fʁɑ̃ le.mo.sjɔ̃ sɑ̃ la ʁe.zis.tɑ̃s də la fɔʁm"
+      "ipa": "lə kitʃ kɔ̃.sɔl ply kil nə ʒyʒ ɔ.fʁɑ̃ le.mo.sjɔ̃ sɑ̃ la ʁe.zis.tɑ̃s də la fɔʁm",
+      "gloss": {
+        "en": "Kitsch consoles more than it judges, offering emotion without the resistance of form.",
+        "es": "Kitsch consuela más de lo que juzga, ofreciendo emoción sin la resistencia de la forma.",
+        "ru": "Китч больше утешает, чем судит, предлагая эмоции без сопротивления формы."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "beau",
         "pittoresque",
         "grâce"
-      ]
+      ],
+      "gloss": {
+        "en": "The sublime is the imagination’s collision with what overflows it.",
+        "es": "Lo sublime es el choque de la imaginación con lo que la desborda.",
+        "ru": "Возвышенное — это столкновение воображения с тем, что его переполняет."
+      },
+      "wordGloss": {
+        "en": "the sublime",
+        "es": "lo sublime",
+        "ru": "возвышенное"
+      }
     },
     {
       "id": "remote-aesthetics-listen-2",
@@ -236,7 +380,17 @@
         "poièsis",
         "tekhnè",
         "forme"
-      ]
+      ],
+      "gloss": {
+        "en": "Mimesis institutes a world according to rules of its own.",
+        "es": "La mimesis instituye un mundo según sus propias reglas.",
+        "ru": "Мимесис создает мир по своим собственным правилам."
+      },
+      "wordGloss": {
+        "en": "mimesis",
+        "es": "mimetismo",
+        "ru": "мимесис"
+      }
     },
     {
       "id": "remote-aesthetics-listen-3",
@@ -249,7 +403,17 @@
         "idéal",
         "harmonie",
         "aisthèsis"
-      ]
+      ],
+      "gloss": {
+        "en": "Aura is the unique here-and-now of the work.",
+        "es": "Aura es el aquí y ahora único de la obra.",
+        "ru": "Аура — это уникальное «здесь и сейчас» работы."
+      },
+      "wordGloss": {
+        "en": "aura",
+        "es": "aura",
+        "ru": "аура"
+      }
     },
     {
       "id": "remote-aesthetics-listen-4",
@@ -262,7 +426,17 @@
         "schème",
         "esthétisme",
         "je-ne-sais-quoi"
-      ]
+      ],
+      "gloss": {
+        "en": "Taste claims universality while remaining a judgement without a concept.",
+        "es": "El gusto pretende universalidad sin dejar de ser un juicio sin concepto.",
+        "ru": "Вкус претендует на универсальность, оставаясь при этом суждением без понятия."
+      },
+      "wordGloss": {
+        "en": "taste",
+        "es": "gusto",
+        "ru": "вкус"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-aesthetics-grammar-1",
       "title": {
         "fr": "Le ne explétif comparatif",
-        "en": "Comparative expletive ne"
+        "en": "Comparative expletive ne",
+        "es": "Improperio comparativo ne",
+        "ru": "Сравнительное ругательство ne"
       },
-      "rule": "Après plus… que, moins… que, autre que, un ne explétif apparaît souvent : plus déconcertant que l’on ne le dit ; console plus qu’il ne juge. Ce ne n’est pas une négation : l’ôter ne renverse pas le sens, mais le registre s’en ressente.",
+      "rule": {
+        "fr": "Après plus… que, moins… que, autre que, un ne explétif apparaît souvent : plus déconcertant que l’on ne le dit ; console plus qu’il ne juge. Ce ne n’est pas une négation : l’ôter ne renverse pas le sens, mais le registre s’en ressente.",
+        "en": "After more... than, less... than, other than, an expletive ne often appears: more disconcerting than we say; consoles more than judges. This is not a negation: removing it does not reverse the meaning, but the register is affected.",
+        "es": "Después de más... que, menos... que, aparte de, suele aparecer un improperio ne: más desconcertante de lo que decimos; consuela más que juzga. Esto no es una negación: eliminarlo no invierte el significado, pero sí afecta el registro.",
+        "ru": "После больше... чем, меньше... чем, кроме, часто появляется ругательное нэ: более сбивающее с толку, чем мы говорим; утешает больше, чем судьи. Это не отрицание: его удаление не меняет значения, но влияет на регистр."
+      },
       "table": [
         [
           "Comparatif",
@@ -337,15 +518,27 @@
             "n’y"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Comparative expletive ne.",
+        "es": "Útil cuando es necesario aplicar: palabrota comparativa ne.",
+        "ru": "Полезно, когда нужно применить: Сравнительное ругательство н.э."
+      }
     },
     {
       "id": "remote-aesthetics-grammar-2",
       "title": {
         "fr": "Substantifs abstraits de l’esthétique",
-        "en": "Abstract aesthetic nouns"
+        "en": "Abstract aesthetic nouns",
+        "es": "Sustantivos estéticos abstractos",
+        "ru": "Абстрактные эстетические существительные"
       },
-      "rule": "Le français esthétique substantifie la qualité : le beau, le sublime, le pittoresque, le kitsch. L’article défini universalise (le sublime kantien) ; l’indéfini particularise (un sublime romantique). On évite le calque « un feeling » : on dit une aisthèsis, un affect.",
+      "rule": {
+        "fr": "Le français esthétique substantifie la qualité : le beau, le sublime, le pittoresque, le kitsch. L’article défini universalise (le sublime kantien) ; l’indéfini particularise (un sublime romantique). On évite le calque « un feeling » : on dit une aisthèsis, un affect.",
+        "en": "Aesthetic French substantiates quality: the beautiful, the sublime, the picturesque, the kitsch. The definite article universalizes (the Kantian sublime); the indefinite particularizes (a romantic sublime). We avoid the layer “a feeling”: we say an aisthesis, an affect.",
+        "es": "El francés estético corrobora la calidad: lo bello, lo sublime, lo pintoresco, lo kitsch. El artículo definido universaliza (lo sublime kantiano); lo indefinido particulariza (un sublime romántico). Evitamos la capa “un sentimiento”: decimos una aisthesis, un afecto.",
+        "ru": "Эстетический французский подтверждает качество: красивое, возвышенное, живописное, китч. Определенный артикль универсализирует (кантианское возвышенное); неопределенное конкретизирует (романтическое возвышенное). Мы избегаем слоя «чувство»: говорим айстезис, аффект."
+      },
       "table": [
         [
           "Qualité",
@@ -394,7 +587,12 @@
             "l’absence d’article"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Abstract aesthetic nouns.",
+        "es": "Útil cuando necesitas aplicar: Sustantivos estéticos abstractos.",
+        "ru": "Полезно, когда нужно применить: Абстрактные эстетические существительные."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-aesthetics-dict-1",
         "fr": "Le sublime est plus déconcertant que l’on ne le dit d’ordinaire : il n’agrandit pas le beau, il le brise.",
         "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
-        "ipa": "lə sy.blim ɛ ply de.kɔ̃.sɛʁ.tɑ̃ kə lɔ̃ nə lə di dɔʁ.di.nɛʁ il na.ɡʁɑ̃.di pa lə bo il lə bʁiz"
+        "ipa": "lə sy.blim ɛ ply de.kɔ̃.sɛʁ.tɑ̃ kə lɔ̃ nə lə di dɔʁ.di.nɛʁ il na.ɡʁɑ̃.di pa lə bo il lə bʁiz",
+        "gloss": {
+          "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+          "es": "Lo sublime es más desconcertante de lo que comúnmente se dice: no agranda lo bello, lo rompe.",
+          "ru": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает прекрасное, а разрушает его."
+        }
       },
       {
         "id": "remote-aesthetics-dict-2",
         "fr": "La mimèsis, objectait-il, institue un monde ; elle ne recopie pas le nôtre.",
         "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
-        "ipa": "la mi.me.zis ɔb.ʒɛk.tɛ til ɛ̃s.ti.ty œ̃ mɔ̃d ɛl nə ʁə.kɔ.pi pa lə notʁ"
+        "ipa": "la mi.me.zis ɔb.ʒɛk.tɛ til ɛ̃s.ti.ty œ̃ mɔ̃d ɛl nə ʁə.kɔ.pi pa lə notʁ",
+        "gloss": {
+          "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
+          "es": "La mimesis, objetó, instituye un mundo; no copia el nuestro.",
+          "ru": "Мимесис, возражал он, учреждает мир; он не копирует наш."
+        }
       },
       {
         "id": "remote-aesthetics-dict-3",
         "fr": "L’aura, que la reproductibilité technique érode, tenait à l’unicité de l’ici et maintenant.",
         "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
-        "ipa": "lo.ʁa kə la ʁə.pʁɔ.dyk.ti.bi.li.te tɛk.nik e.ʁɔd tə.nɛ a ly.ni.si.te də li.si e mɛ̃.tə.nɑ̃"
+        "ipa": "lo.ʁa kə la ʁə.pʁɔ.dyk.ti.bi.li.te tɛk.nik e.ʁɔd tə.nɛ a ly.ni.si.te də li.si e mɛ̃.tə.nɑ̃",
+        "gloss": {
+          "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+          "es": "El aura, que la reproducibilidad técnica erosiona, reside en la unicidad del aquí y ahora.",
+          "ru": "Аура, которую разрушает техническая воспроизводимость, заключается в уникальности здесь и сейчас."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-aesthetics-mean-1",
         "fr": "Le sublime est plus déconcertant que l’on ne le dit d’ordinaire : il n’agrandit pas le beau, il le brise.",
         "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
-        "choices": [
-          "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
-          "Mimesis, he objected, institutes a world; it does not copy ours.",
-          "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now."
-        ]
+        "gloss": {
+          "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+          "es": "Lo sublime es más desconcertante de lo que comúnmente se dice: no agranda lo bello, lo rompe.",
+          "ru": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает прекрасное, а разрушает его."
+        }
       },
       {
         "id": "remote-aesthetics-mean-2",
         "fr": "La mimèsis, objectait-il, institue un monde ; elle ne recopie pas le nôtre.",
         "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
-        "choices": [
-          "Mimesis, he objected, institutes a world; it does not copy ours.",
-          "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
-          "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now."
-        ]
+        "gloss": {
+          "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
+          "es": "La mimesis, objetó, instituye un mundo; no copia el nuestro.",
+          "ru": "Мимесис, возражал он, учреждает мир; он не копирует наш."
+        }
       },
       {
         "id": "remote-aesthetics-mean-3",
         "fr": "L’aura, que la reproductibilité technique érode, tenait à l’unicité de l’ici et maintenant.",
         "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
-        "choices": [
-          "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
-          "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
-          "Mimesis, he objected, institutes a world; it does not copy ours."
-        ]
+        "gloss": {
+          "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+          "es": "El aura, que la reproducibilidad técnica erosiona, reside en la unicidad del aquí y ahora.",
+          "ru": "Аура, которую разрушает техническая воспроизводимость, заключается в уникальности здесь и сейчас."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-aesthetics-fren-1",
         "fr": "sublime",
-        "en": "the sublime"
+        "en": "the sublime",
+        "gloss": {
+          "en": "the sublime",
+          "es": "lo sublime",
+          "ru": "возвышенное"
+        }
       },
       {
         "id": "remote-aesthetics-fren-2",
         "fr": "mimèsis",
-        "en": "mimesis"
+        "en": "mimesis",
+        "gloss": {
+          "en": "mimesis",
+          "es": "mimetismo",
+          "ru": "мимесис"
+        }
       },
       {
         "id": "remote-aesthetics-fren-3",
         "fr": "goût",
-        "en": "taste"
+        "en": "taste",
+        "gloss": {
+          "en": "taste",
+          "es": "gusto",
+          "ru": "вкус"
+        }
       },
       {
         "id": "remote-aesthetics-fren-4",
         "fr": "forme",
-        "en": "form"
+        "en": "form",
+        "gloss": {
+          "en": "form",
+          "es": "forma",
+          "ru": "форма"
+        }
       },
       {
         "id": "remote-aesthetics-fren-5",
         "fr": "aura",
-        "en": "aura"
+        "en": "aura",
+        "gloss": {
+          "en": "aura",
+          "es": "aura",
+          "ru": "аура"
+        }
       },
       {
         "id": "remote-aesthetics-fren-6",
         "fr": "beau",
-        "en": "the beautiful"
+        "en": "the beautiful",
+        "gloss": {
+          "en": "the beautiful",
+          "es": "la bella",
+          "ru": "красивый"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-aesthetics-aloud-1",
         "fr": "Le sublime est plus déconcertant que l’on ne le dit d’ordinaire : il n’agrandit pas le beau, il le brise.",
         "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
-        "ipa": "lə sy.blim ɛ ply de.kɔ̃.sɛʁ.tɑ̃ kə lɔ̃ nə lə di dɔʁ.di.nɛʁ il na.ɡʁɑ̃.di pa lə bo il lə bʁiz"
+        "ipa": "lə sy.blim ɛ ply de.kɔ̃.sɛʁ.tɑ̃ kə lɔ̃ nə lə di dɔʁ.di.nɛʁ il na.ɡʁɑ̃.di pa lə bo il lə bʁiz",
+        "gloss": {
+          "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+          "es": "Lo sublime es más desconcertante de lo que comúnmente se dice: no agranda lo bello, lo rompe.",
+          "ru": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает прекрасное, а разрушает его."
+        }
       },
       {
         "id": "remote-aesthetics-aloud-2",
         "fr": "L’aura, que la reproductibilité technique érode, tenait à l’unicité de l’ici et maintenant.",
         "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
-        "ipa": "lo.ʁa kə la ʁə.pʁɔ.dyk.ti.bi.li.te tɛk.nik e.ʁɔd tə.nɛ a ly.ni.si.te də li.si e mɛ̃.tə.nɑ̃"
+        "ipa": "lo.ʁa kə la ʁə.pʁɔ.dyk.ti.bi.li.te tɛk.nik e.ʁɔd tə.nɛ a ly.ni.si.te də li.si e mɛ̃.tə.nɑ̃",
+        "gloss": {
+          "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+          "es": "El aura, que la reproducibilidad técnica erosiona, reside en la unicidad del aquí y ahora.",
+          "ru": "Аура, которую разрушает техническая воспроизводимость, заключается в уникальности здесь и сейчас."
+        }
       },
       {
         "id": "remote-aesthetics-aloud-3",
         "fr": "Aussi la forme n’est-elle pas le contenant d’un contenu, mais l’organisation du sensible.",
         "en": "Thus form is not the container of a content, but the organisation of the sensible.",
-        "ipa": "o.si la fɔʁm nɛ tɛl pa lə kɔ̃.tə.nɑ̃ dœ̃ kɔ̃.tə.ny mɛ lɔʁ.ɡa.ni.za.sjɔ̃ dy sɑ̃.sibl"
+        "ipa": "o.si la fɔʁm nɛ tɛl pa lə kɔ̃.tə.nɑ̃ dœ̃ kɔ̃.tə.ny mɛ lɔʁ.ɡa.ni.za.sjɔ̃ dy sɑ̃.sibl",
+        "gloss": {
+          "en": "Thus form is not the container of a content, but the organisation of the sensible.",
+          "es": "Así, la forma no es el contenedor de un contenido, sino la organización de lo sensible.",
+          "ru": "Таким образом, форма — это не вместилище содержания, а организация чувственного."
+        }
       }
     ],
     "unscramble": [
@@ -523,7 +781,12 @@
           "reproductibilité",
           "technique",
           "érode."
-        ]
+        ],
+        "gloss": {
+          "en": "For Benjamin, aura is the unique here-and-now of the work, which technical reproducibility erodes.",
+          "es": "Para Benjamin, el aura es el aquí y ahora único de la obra, cuya reproducibilidad técnica erosiona.",
+          "ru": "Для Беньямина аура — это уникальное «здесь и сейчас» работы, техническую воспроизводимость которого разрушает."
+        }
       },
       {
         "id": "remote-aesthetics-unsc-2",
@@ -544,7 +807,12 @@
           "habiter",
           "sans",
           "vertige."
-        ]
+        ],
+        "gloss": {
+          "en": "The beautiful, distinct from the sublime, promises a harmony the mind can inhabit without vertigo.",
+          "es": "Lo bello, distinto de lo sublime, promete una armonía en la que la mente puede habitar sin vértigo.",
+          "ru": "Прекрасное, отличное от возвышенного, обещает гармонию, в которой разум может жить без головокружения."
+        }
       }
     ]
   }

@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "school-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "title": {
     "fr": "École A1",
-    "en": "School A1"
+    "en": "School A1",
+    "es": "Escuela A1",
+    "ru": "Школа А1"
   },
   "description": {
     "fr": "Classe, matériel scolaire et vie à l’école pour débutants.",
-    "en": "Classroom, school supplies, and everyday school life for beginners."
+    "en": "Classroom, school supplies, and everyday school life for beginners.",
+    "es": "Aula, material escolar y vida escolar cotidiana para principiantes.",
+    "ru": "Класс, школьные принадлежности и повседневная школьная жизнь для начинающих."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "school",
       "example": "Mon école est près de la maison.",
       "ipa": "e.kɔl",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "school",
+        "es": "escuela",
+        "ru": "школа"
+      }
     },
     {
       "id": "remote-school-a1-2",
@@ -26,7 +35,12 @@
       "en": "classroom / class",
       "example": "La classe commence à huit heures.",
       "ipa": "klas",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "classroom / class",
+        "es": "aula / clase",
+        "ru": "класс / класс"
+      }
     },
     {
       "id": "remote-school-a1-3",
@@ -34,7 +48,12 @@
       "en": "teacher (male)",
       "example": "Le professeur explique la leçon.",
       "ipa": "pʁɔ.fɛ.sœʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "teacher (male)",
+        "es": "profesor (masculino)",
+        "ru": "учитель (мужчина)"
+      }
     },
     {
       "id": "remote-school-a1-4",
@@ -42,7 +61,12 @@
       "en": "teacher (female)",
       "example": "La professeure est très gentille.",
       "ipa": "pʁɔ.fɛ.sœʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "teacher (female)",
+        "es": "profesora (mujer)",
+        "ru": "учитель (женщина)"
+      }
     },
     {
       "id": "remote-school-a1-5",
@@ -50,7 +74,12 @@
       "en": "student / pupil",
       "example": "Chaque élève a un cahier.",
       "ipa": "e.lɛv",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "student / pupil",
+        "es": "estudiante / alumno",
+        "ru": "студент / ученик"
+      }
     },
     {
       "id": "remote-school-a1-6",
@@ -58,7 +87,12 @@
       "en": "notebook",
       "example": "J’écris dans mon cahier.",
       "ipa": "ka.je",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "notebook",
+        "es": "computadora portátil",
+        "ru": "блокнот"
+      }
     },
     {
       "id": "remote-school-a1-7",
@@ -66,7 +100,12 @@
       "en": "pen",
       "example": "Tu as un stylo bleu ?",
       "ipa": "sti.lo",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "pen",
+        "es": "bolígrafo",
+        "ru": "ручка"
+      }
     },
     {
       "id": "remote-school-a1-8",
@@ -74,7 +113,12 @@
       "en": "pencil",
       "example": "Je dessine avec un crayon.",
       "ipa": "kʁɛ.jɔ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "pencil",
+        "es": "lápiz",
+        "ru": "карандаш"
+      }
     },
     {
       "id": "remote-school-a1-9",
@@ -82,7 +126,12 @@
       "en": "book",
       "example": "Ouvre ton livre de français.",
       "ipa": "livʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "book",
+        "es": "libro",
+        "ru": "книга"
+      }
     },
     {
       "id": "remote-school-a1-10",
@@ -90,7 +139,12 @@
       "en": "school bag",
       "example": "Mon cartable est lourd.",
       "ipa": "kaʁ.tabl",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "school bag",
+        "es": "bolsa para la escuela",
+        "ru": "школьная сумка"
+      }
     },
     {
       "id": "remote-school-a1-11",
@@ -98,7 +152,12 @@
       "en": "board / blackboard",
       "example": "Le professeur écrit au tableau.",
       "ipa": "ta.blo",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "board / blackboard",
+        "es": "tablero / pizarra",
+        "ru": "доска/доска"
+      }
     },
     {
       "id": "remote-school-a1-12",
@@ -106,7 +165,12 @@
       "en": "desk",
       "example": "Mon bureau est près de la fenêtre.",
       "ipa": "by.ʁo",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "desk",
+        "es": "escritorio",
+        "ru": "рабочий стол"
+      }
     },
     {
       "id": "remote-school-a1-13",
@@ -114,7 +178,12 @@
       "en": "lesson",
       "example": "La leçon de maths est difficile.",
       "ipa": "lə.sɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "lesson",
+        "es": "lección",
+        "ru": "урок"
+      }
     },
     {
       "id": "remote-school-a1-14",
@@ -122,7 +191,12 @@
       "en": "homework",
       "example": "J’ai des devoirs ce soir.",
       "ipa": "də.vwaʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "homework",
+        "es": "tarea",
+        "ru": "домашнее задание"
+      }
     },
     {
       "id": "remote-school-a1-15",
@@ -130,7 +204,12 @@
       "en": "exam / test",
       "example": "L’examen est vendredi.",
       "ipa": "ɛɡ.za.mɛ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "exam / test",
+        "es": "examen / prueba",
+        "ru": "экзамен / тест"
+      }
     },
     {
       "id": "remote-school-a1-16",
@@ -138,7 +217,12 @@
       "en": "break / recess",
       "example": "On joue pendant la récréation.",
       "ipa": "ʁe.kʁe.a.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "break / recess",
+        "es": "descanso / recreo",
+        "ru": "перерыв/перерыв"
+      }
     },
     {
       "id": "remote-school-a1-17",
@@ -146,7 +230,12 @@
       "en": "cafeteria",
       "example": "Je mange à la cantine le midi.",
       "ipa": "kɑ̃.tin",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "cafeteria",
+        "es": "cafetería",
+        "ru": "столовая"
+      }
     },
     {
       "id": "remote-school-a1-18",
@@ -154,7 +243,12 @@
       "en": "eraser",
       "example": "Prête-moi ta gomme, s’il te plaît.",
       "ipa": "ɡɔm",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "eraser",
+        "es": "borrador",
+        "ru": "ластик"
+      }
     },
     {
       "id": "remote-school-a1-19",
@@ -162,7 +256,12 @@
       "en": "ruler",
       "example": "J’utilise une règle pour tracer une ligne.",
       "ipa": "ʁɛɡl",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "ruler",
+        "es": "gobernante",
+        "ru": "правитель"
+      }
     },
     {
       "id": "remote-school-a1-20",
@@ -170,7 +269,12 @@
       "en": "schoolyard / playground",
       "example": "Les élèves jouent dans la cour.",
       "ipa": "kuʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "schoolyard / playground",
+        "es": "patio de escuela/patio de juegos",
+        "ru": "школьный двор/детская площадка"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-school-phrase-1",
       "fr": "Quelle heure commence le cours ?",
       "en": "What time does class start?",
-      "ipa": "kɛl œʁ kɔ.mɑ̃s lə kuʁ"
+      "ipa": "kɛl œʁ kɔ.mɑ̃s lə kuʁ",
+      "gloss": {
+        "en": "What time does class start?",
+        "es": "¿A qué hora empieza la clase?",
+        "ru": "Во сколько начинается урок?"
+      }
     },
     {
       "id": "remote-school-phrase-2",
       "fr": "J’ai oublié mon cahier à la maison.",
       "en": "I forgot my notebook at home.",
-      "ipa": "ʒe u.bli.je mɔ̃ ka.je a la mɛ.zɔ̃"
+      "ipa": "ʒe u.bli.je mɔ̃ ka.je a la mɛ.zɔ̃",
+      "gloss": {
+        "en": "I forgot my notebook at home.",
+        "es": "Olvidé mi cuaderno en casa.",
+        "ru": "Я забыл свой блокнот дома."
+      }
     },
     {
       "id": "remote-school-phrase-3",
       "fr": "Puis-je emprunter un stylo ?",
       "en": "Can I borrow a pen?",
-      "ipa": "pɥi ʒə ɑ̃.pʁœ̃.te œ̃ sti.lo"
+      "ipa": "pɥi ʒə ɑ̃.pʁœ̃.te œ̃ sti.lo",
+      "gloss": {
+        "en": "Can I borrow a pen?",
+        "es": "¿Puedo pedir prestado un bolígrafo?",
+        "ru": "Могу я одолжить ручку?"
+      }
     },
     {
       "id": "remote-school-phrase-4",
       "fr": "Le professeur donne les devoirs.",
       "en": "The teacher gives homework.",
-      "ipa": "lə pʁɔ.fɛ.sœʁ dɔn le də.vwaʁ"
+      "ipa": "lə pʁɔ.fɛ.sœʁ dɔn le də.vwaʁ",
+      "gloss": {
+        "en": "The teacher gives homework.",
+        "es": "El profesor da tarea.",
+        "ru": "Учитель дает домашнее задание."
+      }
     },
     {
       "id": "remote-school-phrase-5",
       "fr": "Silence, s’il vous plaît !",
       "en": "Quiet, please!",
-      "ipa": "si.lɑ̃s sil vu plɛ"
+      "ipa": "si.lɑ̃s sil vu plɛ",
+      "gloss": {
+        "en": "Quiet, please!",
+        "es": "¡Silencio, por favor!",
+        "ru": "Тише, пожалуйста!"
+      }
     },
     {
       "id": "remote-school-phrase-6",
       "fr": "Je ne comprends pas la leçon.",
       "en": "I don’t understand the lesson.",
-      "ipa": "ʒə nə kɔ̃.pʁɑ̃ pa la lə.sɔ̃"
+      "ipa": "ʒə nə kɔ̃.pʁɑ̃ pa la lə.sɔ̃",
+      "gloss": {
+        "en": "I don’t understand the lesson.",
+        "es": "No entiendo la lección.",
+        "ru": "Я не понимаю урок."
+      }
     }
   ],
   "listen": [
@@ -219,7 +353,21 @@
       "word": "cahier",
       "wordEn": "notebook",
       "wordIpa": "ka.je",
-      "distractors": ["livre", "cartable", "bureau"]
+      "distractors": [
+        "livre",
+        "cartable",
+        "bureau"
+      ],
+      "gloss": {
+        "en": "I write in my notebook with a blue pen.",
+        "es": "Escribo en mi cuaderno con un bolígrafo azul.",
+        "ru": "Я пишу в блокноте синей ручкой."
+      },
+      "wordGloss": {
+        "en": "notebook",
+        "es": "computadora portátil",
+        "ru": "блокнот"
+      }
     },
     {
       "id": "remote-school-listen-2",
@@ -228,7 +376,21 @@
       "word": "tableau",
       "wordEn": "board",
       "wordIpa": "ta.blo",
-      "distractors": ["bureau", "cour", "classe"]
+      "distractors": [
+        "bureau",
+        "cour",
+        "classe"
+      ],
+      "gloss": {
+        "en": "The teacher writes the lesson on the board.",
+        "es": "El profesor escribe la lección en la pizarra.",
+        "ru": "Учитель записывает урок на доске."
+      },
+      "wordGloss": {
+        "en": "board",
+        "es": "junta",
+        "ru": "доска"
+      }
     },
     {
       "id": "remote-school-listen-3",
@@ -237,7 +399,21 @@
       "word": "récréation",
       "wordEn": "recess",
       "wordIpa": "ʁe.kʁe.a.sjɔ̃",
-      "distractors": ["cantine", "examen", "devoir"]
+      "distractors": [
+        "cantine",
+        "examen",
+        "devoir"
+      ],
+      "gloss": {
+        "en": "The students play in the schoolyard during recess.",
+        "es": "Los alumnos juegan en el patio del colegio durante el recreo.",
+        "ru": "Учащиеся играют на школьном дворе во время перемены."
+      },
+      "wordGloss": {
+        "en": "recess",
+        "es": "recreo",
+        "ru": "перерыв"
+      }
     },
     {
       "id": "remote-school-listen-4",
@@ -246,7 +422,21 @@
       "word": "devoirs",
       "wordEn": "homework",
       "wordIpa": "də.vwaʁ",
-      "distractors": ["leçon", "examen", "livre"]
+      "distractors": [
+        "leçon",
+        "examen",
+        "livre"
+      ],
+      "gloss": {
+        "en": "I have math homework for tomorrow.",
+        "es": "Tengo tarea de matemáticas para mañana.",
+        "ru": "У меня есть домашнее задание по математике на завтра."
+      },
+      "wordGloss": {
+        "en": "homework",
+        "es": "tarea",
+        "ru": "домашнее задание"
+      }
     }
   ],
   "prompts": [
@@ -260,66 +450,154 @@
       "id": "remote-school-grammar-1",
       "title": {
         "fr": "Avoir pour le matériel scolaire",
-        "en": "Avoir for school supplies"
+        "en": "Avoir for school supplies",
+        "es": "Avoir para útiles escolares",
+        "ru": "Avoir для школьных принадлежностей"
       },
-      "rule": "Pour dire ce que l’on possède, on utilise avoir + article + nom : J’ai un stylo. Tu as un cahier ? Il a des devoirs.",
+      "rule": {
+        "fr": "Pour dire ce que l’on possède, on utilise avoir + article + nom : J’ai un stylo. Tu as un cahier ? Il a des devoirs.",
+        "en": "To say what we own, we use having + article + noun: I have a pen. Do you have a notebook? He has homework.",
+        "es": "Para decir lo que poseemos usamos have + artículo + sustantivo: tengo un bolígrafo. ¿Tienes un cuaderno? Tiene tarea.",
+        "ru": "Чтобы сказать, чем мы владеем, мы используем наличие + артикль + существительное: У меня есть ручка. У вас есть блокнот? У него есть домашнее задание."
+      },
       "table": [
-        ["Sujet", "Avoir", "Exemple"],
-        ["je", "ai", "J’ai un crayon."],
-        ["tu", "as", "Tu as un livre ?"],
-        ["il / elle", "a", "Elle a des devoirs."],
-        ["nous", "avons", "Nous avons un examen."],
-        ["vous", "avez", "Vous avez une gomme ?"]
+        [
+          "Sujet",
+          "Avoir",
+          "Exemple"
+        ],
+        [
+          "je",
+          "ai",
+          "J’ai un crayon."
+        ],
+        [
+          "tu",
+          "as",
+          "Tu as un livre ?"
+        ],
+        [
+          "il / elle",
+          "a",
+          "Elle a des devoirs."
+        ],
+        [
+          "nous",
+          "avons",
+          "Nous avons un examen."
+        ],
+        [
+          "vous",
+          "avez",
+          "Vous avez une gomme ?"
+        ]
       ],
       "questions": [
         {
           "id": "remote-school-gq-1",
           "prompt": "J’___ un cahier.",
           "answer": "ai",
-          "options": ["ai", "as", "a"]
+          "options": [
+            "ai",
+            "as",
+            "a"
+          ]
         },
         {
           "id": "remote-school-gq-2",
           "prompt": "Tu ___ des devoirs ce soir ?",
           "answer": "as",
-          "options": ["ai", "as", "avez"]
+          "options": [
+            "ai",
+            "as",
+            "avez"
+          ]
         },
         {
           "id": "remote-school-gq-3",
           "prompt": "Il ___ un cartable rouge.",
           "answer": "a",
-          "options": ["as", "a", "avons"]
+          "options": [
+            "as",
+            "a",
+            "avons"
+          ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Avoir for school supplies.",
+        "es": "Útil cuando necesitas aplicar: Avoir para útiles escolares.",
+        "ru": "Полезно, когда вам нужно подать заявку: Avoir на школьные принадлежности."
+      }
     },
     {
       "id": "remote-school-grammar-2",
       "title": {
         "fr": "Les prépositions à l’école",
-        "en": "Prepositions at school"
+        "en": "Prepositions at school",
+        "es": "Preposiciones en la escuela",
+        "ru": "Предлоги в школе"
       },
-      "rule": "On utilise dans pour un espace fermé (dans la classe, dans le cartable), à pour un lieu ou un service (à l’école, à la cantine), au pour à + le (au tableau).",
+      "rule": {
+        "fr": "On utilise dans pour un espace fermé (dans la classe, dans le cartable), à pour un lieu ou un service (à l’école, à la cantine), au pour à + le (au tableau).",
+        "en": "We use in for a closed space (in the class, in the school bag), for a place or a service (at school, in the canteen), for to + the (on the board).",
+        "es": "Usamos in para un espacio cerrado (en la clase, en la mochila), para un lugar o un servicio (en la escuela, en el comedor), para to + the (en la pizarra).",
+        "ru": "Мы используем in для обозначения замкнутого пространства (в классе, в школьной сумке), для места или услуги (в школе, в столовой), для to + the (на доске)."
+      },
       "table": [
-        ["Préposition", "Usage", "Exemple"],
-        ["dans", "à l’intérieur", "dans la cour"],
-        ["à", "lieu / service", "à l’école"],
-        ["au", "à + le", "au tableau"],
-        ["sur", "surface", "sur le bureau"]
+        [
+          "Préposition",
+          "Usage",
+          "Exemple"
+        ],
+        [
+          "dans",
+          "à l’intérieur",
+          "dans la cour"
+        ],
+        [
+          "à",
+          "lieu / service",
+          "à l’école"
+        ],
+        [
+          "au",
+          "à + le",
+          "au tableau"
+        ],
+        [
+          "sur",
+          "surface",
+          "sur le bureau"
+        ]
       ],
       "questions": [
         {
           "id": "remote-school-gq-4",
           "prompt": "Je mange ___ cantine.",
           "answer": "à la",
-          "options": ["à la", "au", "dans"]
+          "options": [
+            "à la",
+            "au",
+            "dans"
+          ]
         },
         {
           "id": "remote-school-gq-5",
           "prompt": "Le professeur écrit ___ tableau.",
           "answer": "au",
-          "options": ["au", "à la", "dans"]
+          "options": [
+            "au",
+            "à la",
+            "dans"
+          ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Prepositions at school.",
+        "es": "Útil cuando necesitas aplicar: Preposiciones en la escuela.",
+        "ru": "Полезно, когда нужно применить: Предлоги в школе."
+      }
     }
   ],
   "skills": {
@@ -328,19 +606,34 @@
         "id": "remote-school-dict-1",
         "fr": "Mon école est près de la maison.",
         "en": "My school is near my home.",
-        "ipa": "mɔ̃ ne.kɔl ɛ pʁɛ də la mɛ.zɔ̃"
+        "ipa": "mɔ̃ ne.kɔl ɛ pʁɛ də la mɛ.zɔ̃",
+        "gloss": {
+          "en": "My school is near my home.",
+          "es": "Mi escuela está cerca de mi casa.",
+          "ru": "Моя школа находится рядом с моим домом."
+        }
       },
       {
         "id": "remote-school-dict-2",
         "fr": "J’ai oublié mon cahier à la maison.",
         "en": "I forgot my notebook at home.",
-        "ipa": "ʒe u.bli.je mɔ̃ ka.je a la mɛ.zɔ̃"
+        "ipa": "ʒe u.bli.je mɔ̃ ka.je a la mɛ.zɔ̃",
+        "gloss": {
+          "en": "I forgot my notebook at home.",
+          "es": "Olvidé mi cuaderno en casa.",
+          "ru": "Я забыл свой блокнот дома."
+        }
       },
       {
         "id": "remote-school-dict-3",
         "fr": "La classe commence à huit heures.",
         "en": "Class starts at eight o’clock.",
-        "ipa": "la klas kɔ.mɑ̃s a ɥit œʁ"
+        "ipa": "la klas kɔ.mɑ̃s a ɥit œʁ",
+        "gloss": {
+          "en": "Class starts at eight o’clock.",
+          "es": "La clase comienza a las ocho en punto.",
+          "ru": "Урок начинается в восемь часов."
+        }
       }
     ],
     "meaning": [
@@ -348,47 +641,128 @@
         "id": "remote-school-mean-1",
         "fr": "Puis-je emprunter un stylo ?",
         "en": "Can I borrow a pen?",
-        "choices": ["Can I borrow a pen?", "Where is the cafeteria?", "Class is over."]
+        "gloss": {
+          "en": "Can I borrow a pen?",
+          "es": "¿Puedo pedir prestado un bolígrafo?",
+          "ru": "Могу я одолжить ручку?"
+        }
       },
       {
         "id": "remote-school-mean-2",
         "fr": "Je ne comprends pas la leçon.",
         "en": "I don’t understand the lesson.",
-        "choices": ["I don’t understand the lesson.", "I love math.", "The exam is easy."]
+        "gloss": {
+          "en": "I don’t understand the lesson.",
+          "es": "No entiendo la lección.",
+          "ru": "Я не понимаю урок."
+        }
       },
       {
         "id": "remote-school-mean-3",
         "fr": "Silence, s’il vous plaît !",
         "en": "Quiet, please!",
-        "choices": ["Quiet, please!", "Open your book.", "Good luck on the test."]
+        "gloss": {
+          "en": "Quiet, please!",
+          "es": "¡Silencio, por favor!",
+          "ru": "Тише, пожалуйста!"
+        }
       }
     ],
     "fren": [
-      { "id": "remote-school-fren-1", "fr": "école", "en": "school" },
-      { "id": "remote-school-fren-2", "fr": "cahier", "en": "notebook" },
-      { "id": "remote-school-fren-3", "fr": "stylo", "en": "pen" },
-      { "id": "remote-school-fren-4", "fr": "professeur", "en": "teacher" },
-      { "id": "remote-school-fren-5", "fr": "devoir", "en": "homework" },
-      { "id": "remote-school-fren-6", "fr": "classe", "en": "classroom" }
+      {
+        "id": "remote-school-fren-1",
+        "fr": "école",
+        "en": "school",
+        "gloss": {
+          "en": "school",
+          "es": "escuela",
+          "ru": "школа"
+        }
+      },
+      {
+        "id": "remote-school-fren-2",
+        "fr": "cahier",
+        "en": "notebook",
+        "gloss": {
+          "en": "notebook",
+          "es": "computadora portátil",
+          "ru": "блокнот"
+        }
+      },
+      {
+        "id": "remote-school-fren-3",
+        "fr": "stylo",
+        "en": "pen",
+        "gloss": {
+          "en": "pen",
+          "es": "bolígrafo",
+          "ru": "ручка"
+        }
+      },
+      {
+        "id": "remote-school-fren-4",
+        "fr": "professeur",
+        "en": "teacher",
+        "gloss": {
+          "en": "teacher",
+          "es": "maestro",
+          "ru": "учитель"
+        }
+      },
+      {
+        "id": "remote-school-fren-5",
+        "fr": "devoir",
+        "en": "homework",
+        "gloss": {
+          "en": "homework",
+          "es": "tarea",
+          "ru": "домашнее задание"
+        }
+      },
+      {
+        "id": "remote-school-fren-6",
+        "fr": "classe",
+        "en": "classroom",
+        "gloss": {
+          "en": "classroom",
+          "es": "aula",
+          "ru": "класс"
+        }
+      }
     ],
     "aloud": [
       {
         "id": "remote-school-aloud-1",
         "fr": "Quelle heure commence le cours ?",
         "en": "What time does class start?",
-        "ipa": "kɛl œʁ kɔ.mɑ̃s lə kuʁ"
+        "ipa": "kɛl œʁ kɔ.mɑ̃s lə kuʁ",
+        "gloss": {
+          "en": "What time does class start?",
+          "es": "¿A qué hora empieza la clase?",
+          "ru": "Во сколько начинается урок?"
+        }
       },
       {
         "id": "remote-school-aloud-2",
         "fr": "Ouvre ton livre de français.",
         "en": "Open your French book.",
-        "ipa": "uvʁ tɔ̃ livʁ də fʁɑ̃.sɛ"
+        "ipa": "uvʁ tɔ̃ livʁ də fʁɑ̃.sɛ",
+        "gloss": {
+          "en": "Open your French book.",
+          "es": "Abre tu libro de francés.",
+          "ru": "Откройте свою французскую книгу."
+        }
       },
       {
         "id": "remote-school-aloud-3",
         "fr": "Les élèves jouent dans la cour.",
         "en": "The students play in the schoolyard.",
-        "ipa": "le.z‿e.lɛv ʒwɛ̃ dɑ̃ la kuʁ"
+        "ipa": "le.z‿e.lɛv ʒwɛ̃ dɑ̃ la kuʁ",
+        "gloss": {
+          "en": "The students play in the schoolyard.",
+          "es": "Los estudiantes juegan en el patio de la escuela.",
+          "ru": "Учащиеся играют на школьном дворе."
+        }
       }
     ],
     "unscramble": [
@@ -396,13 +770,34 @@
         "id": "remote-school-unsc-1",
         "fr": "J’écris dans mon cahier.",
         "en": "I write in my notebook.",
-        "words": ["J’écris", "dans", "mon", "cahier."]
+        "words": [
+          "J’écris",
+          "dans",
+          "mon",
+          "cahier."
+        ],
+        "gloss": {
+          "en": "I write in my notebook.",
+          "es": "Escribo en mi cuaderno.",
+          "ru": "Я пишу в своем блокноте."
+        }
       },
       {
         "id": "remote-school-unsc-2",
         "fr": "Le professeur donne les devoirs.",
         "en": "The teacher gives homework.",
-        "words": ["Le", "professeur", "donne", "les", "devoirs."]
+        "words": [
+          "Le",
+          "professeur",
+          "donne",
+          "les",
+          "devoirs."
+        ],
+        "gloss": {
+          "en": "The teacher gives homework.",
+          "es": "El profesor da tarea.",
+          "ru": "Учитель дает домашнее задание."
+        }
       }
     ]
   }

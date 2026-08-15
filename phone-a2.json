@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "phone-a2",
-  "version": 1,
+  "version": 2,
   "level": "a2",
   "title": {
     "fr": "Téléphone A2",
-    "en": "Phone A2"
+    "en": "Phone A2",
+    "es": "Teléfono A2",
+    "ru": "Телефон А2"
   },
   "description": {
     "fr": "Appels, messages et internet au quotidien.",
-    "en": "Calls, messages, and everyday internet use."
+    "en": "Calls, messages, and everyday internet use.",
+    "es": "Llamadas, mensajes y uso diario de Internet.",
+    "ru": "Звонки, сообщения и повседневное использование Интернета."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "phone",
       "example": "Mon téléphone est déchargé.",
       "ipa": "te.le.fɔn",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "phone",
+        "es": "teléfono",
+        "ru": "телефон"
+      }
     },
     {
       "id": "remote-phone-a2-2",
@@ -26,7 +35,12 @@
       "en": "call",
       "example": "J’ai raté un appel.",
       "ipa": "a.pɛl",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "call",
+        "es": "llamar",
+        "ru": "вызов"
+      }
     },
     {
       "id": "remote-phone-a2-3",
@@ -34,7 +48,12 @@
       "en": "message",
       "example": "Je t’envoie un message.",
       "ipa": "me.saʒ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "message",
+        "es": "mensaje",
+        "ru": "сообщение"
+      }
     },
     {
       "id": "remote-phone-a2-4",
@@ -42,7 +61,12 @@
       "en": "number",
       "example": "Quel est ton numéro ?",
       "ipa": "ny.me.ʁo",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "number",
+        "es": "número",
+        "ru": "число"
+      }
     },
     {
       "id": "remote-phone-a2-5",
@@ -50,7 +74,12 @@
       "en": "network / signal",
       "example": "Il n’y a pas de réseau ici.",
       "ipa": "ʁe.zo",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "network / signal",
+        "es": "red / señal",
+        "ru": "сеть/сигнал"
+      }
     },
     {
       "id": "remote-phone-a2-6",
@@ -58,7 +87,12 @@
       "en": "Wi-Fi",
       "example": "Le wifi est gratuit.",
       "ipa": "wi.fi",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "Wi-Fi",
+        "es": "Wifi",
+        "ru": "Wi-Fi"
+      }
     },
     {
       "id": "remote-phone-a2-7",
@@ -66,7 +100,12 @@
       "en": "battery",
       "example": "La batterie est presque vide.",
       "ipa": "ba.tʁi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "battery",
+        "es": "batería",
+        "ru": "батарея"
+      }
     },
     {
       "id": "remote-phone-a2-8",
@@ -74,7 +113,12 @@
       "en": "charger",
       "example": "J’ai oublié mon chargeur.",
       "ipa": "ʃaʁ.ʒœʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "charger",
+        "es": "cargador",
+        "ru": "зарядное устройство"
+      }
     },
     {
       "id": "remote-phone-a2-9",
@@ -82,7 +126,12 @@
       "en": "screen",
       "example": "L’écran est cassé.",
       "ipa": "e.kʁɑ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "screen",
+        "es": "pantalla",
+        "ru": "экран"
+      }
     },
     {
       "id": "remote-phone-a2-10",
@@ -90,7 +139,12 @@
       "en": "app",
       "example": "J’ouvre une application de cartes.",
       "ipa": "a.pli.ka.sjɔ̃",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "app",
+        "es": "aplicación",
+        "ru": "приложение"
+      }
     },
     {
       "id": "remote-phone-a2-11",
@@ -98,7 +152,12 @@
       "en": "password",
       "example": "J’ai oublié mon mot de passe.",
       "ipa": "mo də pas",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "password",
+        "es": "contraseña",
+        "ru": "пароль"
+      }
     },
     {
       "id": "remote-phone-a2-12",
@@ -106,7 +165,12 @@
       "en": "account",
       "example": "Je crée un compte.",
       "ipa": "kɔ̃t",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "account",
+        "es": "cuenta",
+        "ru": "счет"
+      }
     },
     {
       "id": "remote-phone-a2-13",
@@ -114,7 +178,12 @@
       "en": "photo",
       "example": "Je t’envoie une photo.",
       "ipa": "fɔ.to",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "photo",
+        "es": "foto",
+        "ru": "фото"
+      }
     },
     {
       "id": "remote-phone-a2-14",
@@ -122,7 +191,12 @@
       "en": "video",
       "example": "On regarde une vidéo.",
       "ipa": "vi.de.o",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "video",
+        "es": "video",
+        "ru": "видео"
+      }
     },
     {
       "id": "remote-phone-a2-15",
@@ -130,7 +204,12 @@
       "en": "notification",
       "example": "J’ai trop de notifications.",
       "ipa": "nɔ.ti.fi.ka.sjɔ̃",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "notification",
+        "es": "notificación",
+        "ru": "уведомление"
+      }
     },
     {
       "id": "remote-phone-a2-16",
@@ -138,7 +217,12 @@
       "en": "voicemail / messaging",
       "example": "Laissez un message sur la messagerie.",
       "ipa": "me.saʒ.ʁi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "voicemail / messaging",
+        "es": "correo de voz/mensajería",
+        "ru": "голосовая почта/сообщения"
+      }
     },
     {
       "id": "remote-phone-a2-17",
@@ -146,7 +230,12 @@
       "en": "phone plan",
       "example": "Mon forfait inclut les données.",
       "ipa": "fɔʁ.fɛ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "phone plan",
+        "es": "plan telefonico",
+        "ru": "тарифный план телефона"
+      }
     },
     {
       "id": "remote-phone-a2-18",
@@ -154,7 +243,12 @@
       "en": "mobile data",
       "example": "Je n’ai plus de données.",
       "ipa": "dɔ.ne",
-      "article": "les"
+      "article": "les",
+      "gloss": {
+        "en": "mobile data",
+        "es": "datos moviles",
+        "ru": "мобильные данные"
+      }
     },
     {
       "id": "remote-phone-a2-19",
@@ -162,7 +256,12 @@
       "en": "ringtone / ringing",
       "example": "Je ne reconnais pas cette sonnerie.",
       "ipa": "sɔn.ʁi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "ringtone / ringing",
+        "es": "tono de llamada / timbre",
+        "ru": "рингтон / звонок"
+      }
     },
     {
       "id": "remote-phone-a2-20",
@@ -170,7 +269,12 @@
       "en": "contact",
       "example": "J’ajoute son numéro dans mes contacts.",
       "ipa": "kɔ̃.takt",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "contact",
+        "es": "contacto",
+        "ru": "контакт"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-phone-phrase-1",
       "fr": "Allô, je voudrais parler à Marie.",
       "en": "Hello, I’d like to speak to Marie.",
-      "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi"
+      "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi",
+      "gloss": {
+        "en": "Hello, I’d like to speak to Marie.",
+        "es": "Hola, me gustaría hablar con Marie.",
+        "ru": "Здравствуйте, я хотел бы поговорить с Марией."
+      }
     },
     {
       "id": "remote-phone-phrase-2",
       "fr": "Je te rappelle dans cinq minutes.",
       "en": "I’ll call you back in five minutes.",
-      "ipa": "ʒə tə ʁa.pɛl dɑ̃ sɛ̃ mi.nyt"
+      "ipa": "ʒə tə ʁa.pɛl dɑ̃ sɛ̃ mi.nyt",
+      "gloss": {
+        "en": "I’ll call you back in five minutes.",
+        "es": "Te llamaré en cinco minutos.",
+        "ru": "Я перезвоню тебе через пять минут."
+      }
     },
     {
       "id": "remote-phone-phrase-3",
       "fr": "Il n’y a pas de réseau ici.",
       "en": "There’s no signal here.",
-      "ipa": "il nja pa də ʁe.zo i.si"
+      "ipa": "il nja pa də ʁe.zo i.si",
+      "gloss": {
+        "en": "There’s no signal here.",
+        "es": "Aquí no hay señal.",
+        "ru": "Здесь нет сигнала."
+      }
     },
     {
       "id": "remote-phone-phrase-4",
       "fr": "Tu peux m’envoyer un message ?",
       "en": "Can you send me a message?",
-      "ipa": "ty pø mɑ̃.vwa.je œ̃ me.saʒ"
+      "ipa": "ty pø mɑ̃.vwa.je œ̃ me.saʒ",
+      "gloss": {
+        "en": "Can you send me a message?",
+        "es": "¿Puedes enviarme un mensaje?",
+        "ru": "Можете ли вы отправить мне сообщение?"
+      }
     },
     {
       "id": "remote-phone-phrase-5",
       "fr": "J’ai oublié mon mot de passe.",
       "en": "I’ve forgotten my password.",
-      "ipa": "ʒe u.bli.je mɔ̃ mo də pas"
+      "ipa": "ʒe u.bli.je mɔ̃ mo də pas",
+      "gloss": {
+        "en": "I’ve forgotten my password.",
+        "es": "He olvidado mi contraseña.",
+        "ru": "Я забыл свой пароль."
+      }
     },
     {
       "id": "remote-phone-phrase-6",
       "fr": "Le wifi ne marche pas.",
       "en": "The Wi-Fi isn’t working.",
-      "ipa": "lə wi.fi nə maʁʃ pa"
+      "ipa": "lə wi.fi nə maʁʃ pa",
+      "gloss": {
+        "en": "The Wi-Fi isn’t working.",
+        "es": "El wifi no funciona.",
+        "ru": "Wi-Fi не работает."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "Salut",
         "Merci",
         "Bonjour"
-      ]
+      ],
+      "gloss": {
+        "en": "Hello, I’d like to speak to Marie, please.",
+        "es": "Hola, me gustaría hablar con Marie, por favor.",
+        "ru": "Здравствуйте, я хотел бы поговорить с Мари, пожалуйста."
+      },
+      "wordGloss": {
+        "en": "hello (phone)",
+        "es": "hola (teléfono)",
+        "ru": "здравствуйте (телефон)"
+      }
     },
     {
       "id": "remote-phone-listen-2",
@@ -236,7 +380,17 @@
         "wifi",
         "forfait",
         "écran"
-      ]
+      ],
+      "gloss": {
+        "en": "There’s no signal on the metro.",
+        "es": "No hay señal en el metro.",
+        "ru": "В метро нет сигнала."
+      },
+      "wordGloss": {
+        "en": "signal",
+        "es": "señal",
+        "ru": "сигнал"
+      }
     },
     {
       "id": "remote-phone-listen-3",
@@ -249,7 +403,17 @@
         "batterie",
         "écran",
         "téléphone"
-      ]
+      ],
+      "gloss": {
+        "en": "I forgot my charger at home.",
+        "es": "Olvidé mi cargador en casa.",
+        "ru": "Я забыл зарядное устройство дома."
+      },
+      "wordGloss": {
+        "en": "charger",
+        "es": "cargador",
+        "ru": "зарядное устройство"
+      }
     },
     {
       "id": "remote-phone-listen-4",
@@ -262,7 +426,17 @@
         "données",
         "forfait",
         "compte"
-      ]
+      ],
+      "gloss": {
+        "en": "The Wi-Fi isn’t working in this room.",
+        "es": "El Wi-Fi no funciona en esta habitación.",
+        "ru": "В этой комнате не работает Wi-Fi."
+      },
+      "wordGloss": {
+        "en": "Wi-Fi",
+        "es": "Wifi",
+        "ru": "Wi-Fi"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-phone-grammar-1",
       "title": {
         "fr": "Pouvoir / vouloir au téléphone",
-        "en": "Pouvoir and vouloir on the phone"
+        "en": "Pouvoir and vouloir on the phone",
+        "es": "Pouvoir y vouloir al teléfono",
+        "ru": "Пувуар и вуруар по телефону"
       },
-      "rule": "Pouvoir et vouloir sont très utiles : Tu peux me rappeler ? Je voudrais parler à… Formes : je peux, tu peux, il peut ; je veux / je voudrais (plus poli).",
+      "rule": {
+        "fr": "Pouvoir et vouloir sont très utiles : Tu peux me rappeler ? Je voudrais parler à… Formes : je peux, tu peux, il peut ; je veux / je voudrais (plus poli).",
+        "en": "Being able and wanting are very useful: Can you call me back? I would like to speak to... Forms: I can, you can, he can; I want / I would like (more polite).",
+        "es": "Poder y querer son muy útiles: ¿Puedes devolverme la llamada? Me gustaría hablar con... Formas: Yo puedo, tú puedes, él puede; Quiero/me gustaría (más educado).",
+        "ru": "Уметь и хотеть очень полезно: Ты можешь мне перезвонить? Я хотел бы поговорить с... Формы: Я могу, ты можешь, он может; Я хочу/мне хотелось бы (более вежливо)."
+      },
       "table": [
         [
           "Verbe",
@@ -337,15 +518,27 @@
             "raccroche"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Pouvoir and vouloir on the phone.",
+        "es": "Útil cuando necesitas aplicar: Pouvoir y vouloir en el teléfono.",
+        "ru": "Полезно, когда нужно подать заявку: Pouvoir и vuloir по телефону."
+      }
     },
     {
       "id": "remote-phone-grammar-2",
       "title": {
         "fr": "Ne… pas avec les appareils",
-        "en": "Negation with devices"
+        "en": "Negation with devices",
+        "es": "Negación con dispositivos",
+        "ru": "Отрицание с устройствами"
       },
-      "rule": "Ne… pas encadre le verbe : Le wifi ne marche pas. Je n’ai pas de réseau. Devant une voyelle, ne devient n’ : Je n’ai pas.",
+      "rule": {
+        "fr": "Ne… pas encadre le verbe : Le wifi ne marche pas. Je n’ai pas de réseau. Devant une voyelle, ne devient n’ : Je n’ai pas.",
+        "en": "Don’t… frame the verb: The wifi doesn’t work. I don't have a network. Before a vowel, ne becomes n’: I don’t have.",
+        "es": "No… encuadres el verbo: El wifi no funciona. No tengo una red. Antes de vocal, ne se convierte en n’: no tengo.",
+        "ru": "Не… формулируйте глагол: Wi-Fi не работает. У меня нет сети. Перед гласной ne превращается в n’: у меня нет."
+      },
       "table": [
         [
           "Phrase",
@@ -404,7 +597,12 @@
             "n’a"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Negation with devices.",
+        "es": "Útil cuando necesitas aplicar: Negación con dispositivos.",
+        "ru": "Полезно, когда нужно применить: Отрицание с устройствами."
+      }
     }
   ],
   "skills": {
@@ -413,19 +611,34 @@
         "id": "remote-phone-dict-1",
         "fr": "Allô, je voudrais parler à Marie.",
         "en": "Hello, I’d like to speak to Marie.",
-        "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi"
+        "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi",
+        "gloss": {
+          "en": "Hello, I’d like to speak to Marie.",
+          "es": "Hola, me gustaría hablar con Marie.",
+          "ru": "Здравствуйте, я хотел бы поговорить с Марией."
+        }
       },
       {
         "id": "remote-phone-dict-2",
         "fr": "Je te rappelle dans cinq minutes.",
         "en": "I’ll call you back in five minutes.",
-        "ipa": "ʒə tə ʁa.pɛl dɑ̃ sɛ̃ mi.nyt"
+        "ipa": "ʒə tə ʁa.pɛl dɑ̃ sɛ̃ mi.nyt",
+        "gloss": {
+          "en": "I’ll call you back in five minutes.",
+          "es": "Te llamaré en cinco minutos.",
+          "ru": "Я перезвоню тебе через пять минут."
+        }
       },
       {
         "id": "remote-phone-dict-3",
         "fr": "Il n’y a pas de réseau ici.",
         "en": "There’s no signal here.",
-        "ipa": "il nja pa də ʁe.zo i.si"
+        "ipa": "il nja pa də ʁe.zo i.si",
+        "gloss": {
+          "en": "There’s no signal here.",
+          "es": "Aquí no hay señal.",
+          "ru": "Здесь нет сигнала."
+        }
       }
     ],
     "meaning": [
@@ -433,63 +646,93 @@
         "id": "remote-phone-mean-1",
         "fr": "Allô, je voudrais parler à Marie.",
         "en": "Hello, I’d like to speak to Marie.",
-        "choices": [
-          "Hello, I’d like to speak to Marie.",
-          "I’ll call you back in five minutes.",
-          "There’s no signal here."
-        ]
+        "gloss": {
+          "en": "Hello, I’d like to speak to Marie.",
+          "es": "Hola, me gustaría hablar con Marie.",
+          "ru": "Здравствуйте, я хотел бы поговорить с Марией."
+        }
       },
       {
         "id": "remote-phone-mean-2",
         "fr": "Je te rappelle dans cinq minutes.",
         "en": "I’ll call you back in five minutes.",
-        "choices": [
-          "I’ll call you back in five minutes.",
-          "Hello, I’d like to speak to Marie.",
-          "There’s no signal here."
-        ]
+        "gloss": {
+          "en": "I’ll call you back in five minutes.",
+          "es": "Te llamaré en cinco minutos.",
+          "ru": "Я перезвоню тебе через пять минут."
+        }
       },
       {
         "id": "remote-phone-mean-3",
         "fr": "Il n’y a pas de réseau ici.",
         "en": "There’s no signal here.",
-        "choices": [
-          "There’s no signal here.",
-          "Hello, I’d like to speak to Marie.",
-          "I’ll call you back in five minutes."
-        ]
+        "gloss": {
+          "en": "There’s no signal here.",
+          "es": "Aquí no hay señal.",
+          "ru": "Здесь нет сигнала."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-phone-fren-1",
         "fr": "téléphone",
-        "en": "phone"
+        "en": "phone",
+        "gloss": {
+          "en": "phone",
+          "es": "teléfono",
+          "ru": "телефон"
+        }
       },
       {
         "id": "remote-phone-fren-2",
         "fr": "appel",
-        "en": "call"
+        "en": "call",
+        "gloss": {
+          "en": "call",
+          "es": "llamar",
+          "ru": "вызов"
+        }
       },
       {
         "id": "remote-phone-fren-3",
         "fr": "message",
-        "en": "message"
+        "en": "message",
+        "gloss": {
+          "en": "message",
+          "es": "mensaje",
+          "ru": "сообщение"
+        }
       },
       {
         "id": "remote-phone-fren-4",
         "fr": "numéro",
-        "en": "number"
+        "en": "number",
+        "gloss": {
+          "en": "number",
+          "es": "número",
+          "ru": "число"
+        }
       },
       {
         "id": "remote-phone-fren-5",
         "fr": "réseau",
-        "en": "network"
+        "en": "network",
+        "gloss": {
+          "en": "network",
+          "es": "red",
+          "ru": "сеть"
+        }
       },
       {
         "id": "remote-phone-fren-6",
         "fr": "wifi",
-        "en": "Wi-Fi"
+        "en": "Wi-Fi",
+        "gloss": {
+          "en": "Wi-Fi",
+          "es": "Wifi",
+          "ru": "Wi-Fi"
+        }
       }
     ],
     "aloud": [
@@ -497,19 +740,34 @@
         "id": "remote-phone-aloud-1",
         "fr": "Allô, je voudrais parler à Marie.",
         "en": "Hello, I’d like to speak to Marie.",
-        "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi"
+        "ipa": "a.lo ʒə vu.dʁɛ paʁ.le a ma.ʁi",
+        "gloss": {
+          "en": "Hello, I’d like to speak to Marie.",
+          "es": "Hola, me gustaría hablar con Marie.",
+          "ru": "Здравствуйте, я хотел бы поговорить с Марией."
+        }
       },
       {
         "id": "remote-phone-aloud-2",
         "fr": "Il n’y a pas de réseau ici.",
         "en": "There’s no signal here.",
-        "ipa": "il nja pa də ʁe.zo i.si"
+        "ipa": "il nja pa də ʁe.zo i.si",
+        "gloss": {
+          "en": "There’s no signal here.",
+          "es": "Aquí no hay señal.",
+          "ru": "Здесь нет сигнала."
+        }
       },
       {
         "id": "remote-phone-aloud-3",
         "fr": "J’ai oublié mon mot de passe.",
         "en": "I’ve forgotten my password.",
-        "ipa": "ʒe u.bli.je mɔ̃ mo də pas"
+        "ipa": "ʒe u.bli.je mɔ̃ mo də pas",
+        "gloss": {
+          "en": "I’ve forgotten my password.",
+          "es": "He olvidado mi contraseña.",
+          "ru": "Я забыл свой пароль."
+        }
       }
     ],
     "unscramble": [
@@ -524,7 +782,12 @@
           "un",
           "message",
           "?"
-        ]
+        ],
+        "gloss": {
+          "en": "Can you send me a message?",
+          "es": "¿Puedes enviarme un mensaje?",
+          "ru": "Можете ли вы отправить мне сообщение?"
+        }
       },
       {
         "id": "remote-phone-unsc-2",
@@ -537,7 +800,12 @@
           "mot",
           "de",
           "passe."
-        ]
+        ],
+        "gloss": {
+          "en": "I’ve forgotten my password.",
+          "es": "He olvidado mi contraseña.",
+          "ru": "Я забыл свой пароль."
+        }
       }
     ]
   }

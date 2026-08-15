@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "philosophy-c1",
-  "version": 1,
+  "version": 2,
   "level": "c1",
   "title": {
     "fr": "Philosophie C1",
-    "en": "Philosophy C1"
+    "en": "Philosophy C1",
+    "es": "Filosofía C1",
+    "ru": "Философия C1"
   },
   "description": {
     "fr": "Concept, prémisse, paradoxe, éthique et métaphysique.",
-    "en": "Concept, premise, paradox, ethics, and metaphysics."
+    "en": "Concept, premise, paradox, ethics, and metaphysics.",
+    "es": "Concepto, premisa, paradoja, ética y metafísica.",
+    "ru": "Концепция, предпосылка, парадокс, этика и метафизика."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "concept",
       "example": "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
       "ipa": "kɔ̃.sɛpt",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "concept",
+        "es": "concepto",
+        "ru": "концепция"
+      }
     },
     {
       "id": "remote-philosophy-c1-2",
@@ -26,7 +35,12 @@
       "en": "premise",
       "example": "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
       "ipa": "pʁe.mis",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "premise",
+        "es": "premisa",
+        "ru": "помещение"
+      }
     },
     {
       "id": "remote-philosophy-c1-3",
@@ -34,7 +48,12 @@
       "en": "paradox",
       "example": "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber.",
       "ipa": "pa.ʁa.dɔks",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "paradox",
+        "es": "paradoja",
+        "ru": "парадокс"
+      }
     },
     {
       "id": "remote-philosophy-c1-4",
@@ -42,7 +61,12 @@
       "en": "ethics",
       "example": "L’éthique, à moins qu’on ne la réduise à une casuistique, interroge la portée du libre arbitre.",
       "ipa": "e.tik",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "ethics",
+        "es": "ética",
+        "ru": "этика"
+      }
     },
     {
       "id": "remote-philosophy-c1-5",
@@ -50,7 +74,12 @@
       "en": "metaphysics",
       "example": "La métaphysique, dont l’objet excède l’expérience, se heurte à l’aporie d’un fondement dernier.",
       "ipa": "me.ta.fi.zik",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "metaphysics",
+        "es": "metafísica",
+        "ru": "метафизика"
+      }
     },
     {
       "id": "remote-philosophy-c1-6",
@@ -58,7 +87,12 @@
       "en": "ontology",
       "example": "L’ontologie, loin de précéder l’éthique, se trouve souvent reconfigurée par les dilemmes pratiques.",
       "ipa": "ɔ̃.tɔ.lɔ.ʒi",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "ontology",
+        "es": "ontología",
+        "ru": "онтология"
+      }
     },
     {
       "id": "remote-philosophy-c1-7",
@@ -66,7 +100,12 @@
       "en": "dialectic",
       "example": "La dialectique, encore qu’on l’accuse de tout concilier, travaille la contradiction sans l’abolir d’emblée.",
       "ipa": "dja.lɛk.tik",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "dialectic",
+        "es": "dialéctico",
+        "ru": "диалектика"
+      }
     },
     {
       "id": "remote-philosophy-c1-8",
@@ -74,7 +113,12 @@
       "en": "tautology",
       "example": "La tautologie, dont la forme garantit la vérité, n’apporte aucune prémisse nouvelle à l’argument.",
       "ipa": "to.tɔ.lɔ.ʒi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "tautology",
+        "es": "tautología",
+        "ru": "тавтология"
+      }
     },
     {
       "id": "remote-philosophy-c1-9",
@@ -82,7 +126,12 @@
       "en": "axiom",
       "example": "L’axiome, quitte à demeurer indémontrable, sert de socle à un édifice dont on éprouve ensuite les corollaires.",
       "ipa": "ak.sjɔm",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "axiom",
+        "es": "axioma",
+        "ru": "аксиома"
+      }
     },
     {
       "id": "remote-philosophy-c1-10",
@@ -90,7 +139,12 @@
       "en": "contingency",
       "example": "La contingence, à moins qu’on n’y voie un défaut, peut être le nom même de la liberté d’agir.",
       "ipa": "kɔ̃.tɛ̃.ʒɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "contingency",
+        "es": "contingencia",
+        "ru": "непредвиденный случай"
+      }
     },
     {
       "id": "remote-philosophy-c1-11",
@@ -98,7 +152,12 @@
       "en": "immanence",
       "example": "L’immanence, loin d’abolir toute transcendance, déplace le lieu où l’absolu est censé se donner.",
       "ipa": "i.ma.nɑ̃s",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "immanence",
+        "es": "inmanencia",
+        "ru": "имманентность"
+      }
     },
     {
       "id": "remote-philosophy-c1-12",
@@ -106,7 +165,12 @@
       "en": "transcendence",
       "example": "La transcendance, encore qu’elle soit récusée par certains matérialismes, hante le langage de l’éthique.",
       "ipa": "tʁɑ̃.sɑ̃.dɑ̃s",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "transcendence",
+        "es": "trascendencia",
+        "ru": "трансцендентность"
+      }
     },
     {
       "id": "remote-philosophy-c1-13",
@@ -114,7 +178,12 @@
       "en": "relativism",
       "example": "Le relativisme, dont le paradoxe est de s’énoncer comme thèse universelle, mine ses propres prémisses.",
       "ipa": "ʁə.la.ti.vism",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "relativism",
+        "es": "relativismo",
+        "ru": "релятивизм"
+      }
     },
     {
       "id": "remote-philosophy-c1-14",
@@ -122,7 +191,12 @@
       "en": "determinism",
       "example": "Le déterminisme, quitte à sauver la science, semble compromettre le libre arbitre et la responsabilité.",
       "ipa": "de.tɛʁ.mi.nism",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "determinism",
+        "es": "determinismo",
+        "ru": "детерминизм"
+      }
     },
     {
       "id": "remote-philosophy-c1-15",
@@ -130,7 +204,12 @@
       "en": "aporia",
       "example": "L’aporie, à moins qu’on ne la tienne pour un échec, peut signaler la limite constitutive d’un concept.",
       "ipa": "a.pɔ.ʁi",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "aporia",
+        "es": "aporía",
+        "ru": "апория"
+      }
     },
     {
       "id": "remote-philosophy-c1-16",
@@ -138,7 +217,12 @@
       "en": "syllogism",
       "example": "Le syllogisme, dont la validité formelle n’implique pas la vérité des prémisses, peut conclure à faux.",
       "ipa": "si.lɔ.ʒism",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "syllogism",
+        "es": "silogismo",
+        "ru": "силлогизм"
+      }
     },
     {
       "id": "remote-philosophy-c1-17",
@@ -146,7 +230,12 @@
       "en": "essence",
       "example": "L’essence, loin d’être un noyau intemporel, est parfois le produit d’une histoire que l’ontologie naturalise.",
       "ipa": "e.sɑ̃s",
-      "article": "l'"
+      "article": "l'",
+      "gloss": {
+        "en": "essence",
+        "es": "esencia",
+        "ru": "сущность"
+      }
     },
     {
       "id": "remote-philosophy-c1-18",
@@ -154,7 +243,12 @@
       "en": "nihilism",
       "example": "Le nihilisme, encore qu’il se présente comme lucide, suppose une évaluation dont il nie par ailleurs la possibilité.",
       "ipa": "ni.i.lism",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "nihilism",
+        "es": "nihilismo",
+        "ru": "нигилизм"
+      }
     },
     {
       "id": "remote-philosophy-c1-19",
@@ -162,7 +256,12 @@
       "en": "phenomenology",
       "example": "La phénoménologie, quitte à suspendre les thèses d’existence, décrit le donné tel qu’il apparaît à la conscience.",
       "ipa": "fe.nɔ.me.nɔ.lɔ.ʒi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "phenomenology",
+        "es": "fenomenología",
+        "ru": "феноменология"
+      }
     },
     {
       "id": "remote-philosophy-c1-20",
@@ -170,7 +269,12 @@
       "en": "free will",
       "example": "Le libre arbitre, à moins d’être une illusion utile, demeure le présupposé de toute éthique de la responsabilité.",
       "ipa": "libʁ aʁ.bitʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "free will",
+        "es": "libre albedrío",
+        "ru": "свободная воля"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-philosophy-phrase-1",
       "fr": "Encore que le paradoxe soit brillant, il ne dissout pas la prémisse initiale.",
       "en": "Even though the paradox is brilliant, it does not dissolve the initial premise.",
-      "ipa": "ɑ̃.kɔʁ kə lə pa.ʁa.dɔks swa bʁi.jɑ̃ il nə di.su pa la pʁe.mis i.ni.sjal"
+      "ipa": "ɑ̃.kɔʁ kə lə pa.ʁa.dɔks swa bʁi.jɑ̃ il nə di.su pa la pʁe.mis i.ni.sjal",
+      "gloss": {
+        "en": "Even though the paradox is brilliant, it does not dissolve the initial premise.",
+        "es": "Aunque la paradoja es brillante, no disuelve la premisa inicial.",
+        "ru": "Несмотря на то, что этот парадокс великолепен, он не разрушает первоначальную предпосылку."
+      }
     },
     {
       "id": "remote-philosophy-phrase-2",
       "fr": "Loin de fonder l’éthique, ce concept n’en est que le corollaire métaphysique.",
       "en": "Far from grounding ethics, this concept is merely its metaphysical corollary.",
-      "ipa": "lwɛ̃ də fɔ̃.de le.tik sə kɔ̃.sɛpt nɑ̃ nɛ kə lə kɔ.ʁɔ.lɛʁ me.ta.fi.zik"
+      "ipa": "lwɛ̃ də fɔ̃.de le.tik sə kɔ̃.sɛpt nɑ̃ nɛ kə lə kɔ.ʁɔ.lɛʁ me.ta.fi.zik",
+      "gloss": {
+        "en": "Far from grounding ethics, this concept is merely its metaphysical corollary.",
+        "es": "Lejos de fundamentar la ética, este concepto es simplemente su corolario metafísico.",
+        "ru": "Эта концепция не является фундаментом этики и является всего лишь ее метафизическим следствием."
+      }
     },
     {
       "id": "remote-philosophy-phrase-3",
       "fr": "À moins que l’axiome ne soit révisé, le syllogisme restera tautologique.",
       "en": "Unless the axiom is revised, the syllogism will remain tautological.",
-      "ipa": "a mwɛ̃ kə lak.sjɔm nə swa ʁe.vi.ze lə si.lɔ.ʒism ʁɛs.tə.ʁa to.tɔ.lɔ.ʒik"
+      "ipa": "a mwɛ̃ kə lak.sjɔm nə swa ʁe.vi.ze lə si.lɔ.ʒism ʁɛs.tə.ʁa to.tɔ.lɔ.ʒik",
+      "gloss": {
+        "en": "Unless the axiom is revised, the syllogism will remain tautological.",
+        "es": "A menos que se revise el axioma, el silogismo seguirá siendo tautológico.",
+        "ru": "Если аксиома не будет пересмотрена, силлогизм останется тавтологией."
+      }
     },
     {
       "id": "remote-philosophy-phrase-4",
       "fr": "Quitte à suspendre l’ontologie, la phénoménologie décrit le donné apparent.",
       "en": "Even if it means suspending ontology, phenomenology describes the apparent given.",
-      "ipa": "kit a sy.spɑ̃dʁ lɔ̃.tɔ.lɔ.ʒi la fe.nɔ.me.nɔ.lɔ.ʒi de.kʁi lə dɔ.ne a.pa.ʁɑ̃"
+      "ipa": "kit a sy.spɑ̃dʁ lɔ̃.tɔ.lɔ.ʒi la fe.nɔ.me.nɔ.lɔ.ʒi de.kʁi lə dɔ.ne a.pa.ʁɑ̃",
+      "gloss": {
+        "en": "Even if it means suspending ontology, phenomenology describes the apparent given.",
+        "es": "Incluso si eso significa suspender la ontología, la fenomenología describe lo aparentemente dado.",
+        "ru": "Даже если это означает приостановку онтологии, феноменология описывает кажущуюся данность."
+      }
     },
     {
       "id": "remote-philosophy-phrase-5",
       "fr": "En postulant la contingence, on n’abolit pas pour autant le déterminisme local.",
       "en": "By positing contingency, one does not thereby abolish local determinism.",
-      "ipa": "ɑ̃ pɔs.ty.lɑ̃ la kɔ̃.tɛ̃.ʒɑ̃s ɔ̃ na.bɔ.li pa puʁ o.tɑ̃ lə de.tɛʁ.mi.nism lɔ.kal"
+      "ipa": "ɑ̃ pɔs.ty.lɑ̃ la kɔ̃.tɛ̃.ʒɑ̃s ɔ̃ na.bɔ.li pa puʁ o.tɑ̃ lə de.tɛʁ.mi.nism lɔ.kal",
+      "gloss": {
+        "en": "By positing contingency, one does not thereby abolish local determinism.",
+        "es": "Al plantear la contingencia no se abolió el determinismo local.",
+        "ru": "Полагая непредвиденность, тем самым не отменяется локальный детерминизм."
+      }
     },
     {
       "id": "remote-philosophy-phrase-6",
       "fr": "Bien que l’immanence soit affirmée, une exigence de transcendance persiste.",
       "en": "Although immanence is affirmed, a demand for transcendence persists.",
-      "ipa": "bjɛ̃ kə li.ma.nɑ̃s swa a.fiʁ.me yn ɛɡ.zi.ʒɑ̃s də tʁɑ̃.sɑ̃.dɑ̃s pɛʁ.sist"
+      "ipa": "bjɛ̃ kə li.ma.nɑ̃s swa a.fiʁ.me yn ɛɡ.zi.ʒɑ̃s də tʁɑ̃.sɑ̃.dɑ̃s pɛʁ.sist",
+      "gloss": {
+        "en": "Although immanence is affirmed, a demand for transcendence persists.",
+        "es": "Aunque se afirma la inmanencia, persiste una demanda de trascendencia.",
+        "ru": "Хотя имманентность утверждается, потребность в трансцендентности сохраняется."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "aporie",
         "essence",
         "axiome"
-      ]
+      ],
+      "gloss": {
+        "en": "This premise governs the whole syllogism and its ethical corollary.",
+        "es": "Esta premisa gobierna todo el silogismo y su corolario ético.",
+        "ru": "Эта посылка управляет всем силлогизмом и его этическим следствием."
+      },
+      "wordGloss": {
+        "en": "premise",
+        "es": "premisa",
+        "ru": "помещение"
+      }
     },
     {
       "id": "remote-philosophy-listen-2",
@@ -236,7 +380,17 @@
         "nihilisme",
         "tautologie",
         "relativisme"
-      ]
+      ],
+      "gloss": {
+        "en": "The paradox reveals a tension the system cannot resolve.",
+        "es": "La paradoja revela una tensión que el sistema no puede resolver.",
+        "ru": "Парадокс обнаруживает напряжение, которое система не может разрешить."
+      },
+      "wordGloss": {
+        "en": "paradox",
+        "es": "paradoja",
+        "ru": "парадокс"
+      }
     },
     {
       "id": "remote-philosophy-listen-3",
@@ -249,7 +403,17 @@
         "ontologie",
         "dialectique",
         "immanence"
-      ]
+      ],
+      "gloss": {
+        "en": "Ethics interrogates the scope of free will and of responsibility.",
+        "es": "La ética interroga el alcance del libre albedrío y de la responsabilidad.",
+        "ru": "Этика ставит под сомнение сферу свободы воли и ответственности."
+      },
+      "wordGloss": {
+        "en": "ethics",
+        "es": "ética",
+        "ru": "этика"
+      }
     },
     {
       "id": "remote-philosophy-listen-4",
@@ -262,7 +426,17 @@
         "phénoménologie",
         "contingence",
         "transcendance"
-      ]
+      ],
+      "gloss": {
+        "en": "Metaphysics runs up against the aporia of an ultimate foundation.",
+        "es": "La metafísica choca con la aporía de un fundamento último.",
+        "ru": "Метафизика сталкивается с апорией конечного основания."
+      },
+      "wordGloss": {
+        "en": "metaphysics",
+        "es": "metafísica",
+        "ru": "метафизика"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-philosophy-grammar-1",
       "title": {
         "fr": "Gérondif et participe présent",
-        "en": "Gerund vs present participle"
+        "en": "Gerund vs present participle",
+        "es": "Gerundio vs participio presente",
+        "ru": "Герундий против причастия настоящего времени"
       },
-      "rule": "Le gérondif (en + -ant) marque le moyen ou la simultanéité et a le même sujet que le verbe principal : En postulant X, on conclut Y. Le participe présent, sans en, qualifie un nom et s’accorde parfois : une prémisse commandant le syllogisme.",
+      "rule": {
+        "fr": "Le gérondif (en + -ant) marque le moyen ou la simultanéité et a le même sujet que le verbe principal : En postulant X, on conclut Y. Le participe présent, sans en, qualifie un nom et s’accorde parfois : une prémisse commandant le syllogisme.",
+        "en": "The gerund (en + -ant) marks the means or simultaneity and has the same subject as the main verb: By postulating X, we conclude Y. The present participle, without en, qualifies a noun and sometimes agrees: a premise commanding the syllogism.",
+        "es": "El gerundio (en + -ant) marca los medios o simultaneidad y tiene el mismo sujeto que el verbo principal: al postular X, concluimos Y. El participio presente, sin en, califica un sustantivo y a veces concuerda: una premisa que domina el silogismo.",
+        "ru": "Герундий (en + -ant) обозначает средство или одновременность и имеет тот же субъект, что и основной глагол: постулируя X, мы заключаем Y. Причастие настоящего времени без en определяет существительное и иногда согласуется: посылка, управляющая силлогизмом."
+      },
       "table": [
         [
           "Forme",
@@ -337,15 +518,27 @@
             "Pose"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Gerund vs present participle.",
+        "es": "Útil cuando necesitas aplicar: Gerundio vs participio presente.",
+        "ru": "Полезно, когда нужно применить: герундий против причастия настоящего времени."
+      }
     },
     {
       "id": "remote-philosophy-grammar-2",
       "title": {
         "fr": "Concession : bien que / encore que / quoique",
-        "en": "Concession: bien que / encore que / quoique"
+        "en": "Concession: bien que / encore que / quoique",
+        "es": "Concesión: bien que / encore que / quoique",
+        "ru": "Уступка: bien que / encore que / quoique"
       },
-      "rule": "Bien que, encore que et quoique appellent le subjonctif. Encore que est plus littéraire. Ne pas les confondre avec même si, qui se construit avec l’indicatif.",
+      "rule": {
+        "fr": "Bien que, encore que et quoique appellent le subjonctif. Encore que est plus littéraire. Ne pas les confondre avec même si, qui se construit avec l’indicatif.",
+        "en": "Although, although and although call the subjunctive. Although it is more literary. Do not confuse them with even if, which is constructed with the indicative.",
+        "es": "Aunque, aunque y aunque llaman al subjuntivo. Aunque es más literario. No los confundas con incluso si, que se construye con el indicativo.",
+        "ru": "Хотя, хотя и хотя называют сослагательное наклонение. Хотя это более литературно. Не путайте их с даже если, которое построено на изъявительном наклонении."
+      },
       "table": [
         [
           "Connecteur",
@@ -394,7 +587,12 @@
             "fût"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Concession: bien que / encore que / quoique.",
+        "es": "Útil cuando necesitas solicitar: Concesión: bien que / encore que / quoique.",
+        "ru": "Полезно, когда вам нужно подать заявку: Уступка: bien que / encore que / quoique."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-philosophy-dict-1",
         "fr": "Encore que le paradoxe soit brillant, il ne dissout pas la prémisse initiale.",
         "en": "Even though the paradox is brilliant, it does not dissolve the initial premise.",
-        "ipa": "ɑ̃.kɔʁ kə lə pa.ʁa.dɔks swa bʁi.jɑ̃ il nə di.su pa la pʁe.mis i.ni.sjal"
+        "ipa": "ɑ̃.kɔʁ kə lə pa.ʁa.dɔks swa bʁi.jɑ̃ il nə di.su pa la pʁe.mis i.ni.sjal",
+        "gloss": {
+          "en": "Even though the paradox is brilliant, it does not dissolve the initial premise.",
+          "es": "Aunque la paradoja es brillante, no disuelve la premisa inicial.",
+          "ru": "Несмотря на то, что этот парадокс великолепен, он не разрушает первоначальную предпосылку."
+        }
       },
       {
         "id": "remote-philosophy-dict-2",
         "fr": "Loin de fonder l’éthique, ce concept n’en est que le corollaire métaphysique.",
         "en": "Far from grounding ethics, this concept is merely its metaphysical corollary.",
-        "ipa": "lwɛ̃ də fɔ̃.de le.tik sə kɔ̃.sɛpt nɑ̃ nɛ kə lə kɔ.ʁɔ.lɛʁ me.ta.fi.zik"
+        "ipa": "lwɛ̃ də fɔ̃.de le.tik sə kɔ̃.sɛpt nɑ̃ nɛ kə lə kɔ.ʁɔ.lɛʁ me.ta.fi.zik",
+        "gloss": {
+          "en": "Far from grounding ethics, this concept is merely its metaphysical corollary.",
+          "es": "Lejos de fundamentar la ética, este concepto es simplemente su corolario metafísico.",
+          "ru": "Эта концепция не является фундаментом этики и является всего лишь ее метафизическим следствием."
+        }
       },
       {
         "id": "remote-philosophy-dict-3",
         "fr": "À moins que l’axiome ne soit révisé, le syllogisme restera tautologique.",
         "en": "Unless the axiom is revised, the syllogism will remain tautological.",
-        "ipa": "a mwɛ̃ kə lak.sjɔm nə swa ʁe.vi.ze lə si.lɔ.ʒism ʁɛs.tə.ʁa to.tɔ.lɔ.ʒik"
+        "ipa": "a mwɛ̃ kə lak.sjɔm nə swa ʁe.vi.ze lə si.lɔ.ʒism ʁɛs.tə.ʁa to.tɔ.lɔ.ʒik",
+        "gloss": {
+          "en": "Unless the axiom is revised, the syllogism will remain tautological.",
+          "es": "A menos que se revise el axioma, el silogismo seguirá siendo tautológico.",
+          "ru": "Если аксиома не будет пересмотрена, силлогизм останется тавтологией."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-philosophy-mean-1",
         "fr": "Encore que le paradoxe soit brillant, il ne dissout pas la prémisse initiale.",
         "en": "Even though the paradox is brilliant, it does not dissolve the initial premise.",
-        "choices": [
-          "Even though the paradox is brilliant, it does not dissolve the initial premise.",
-          "Far from grounding ethics, this concept is merely its metaphysical corollary.",
-          "Unless the axiom is revised, the syllogism will remain tautological."
-        ]
+        "gloss": {
+          "en": "Even though the paradox is brilliant, it does not dissolve the initial premise.",
+          "es": "Aunque la paradoja es brillante, no disuelve la premisa inicial.",
+          "ru": "Несмотря на то, что этот парадокс великолепен, он не разрушает первоначальную предпосылку."
+        }
       },
       {
         "id": "remote-philosophy-mean-2",
         "fr": "Loin de fonder l’éthique, ce concept n’en est que le corollaire métaphysique.",
         "en": "Far from grounding ethics, this concept is merely its metaphysical corollary.",
-        "choices": [
-          "Far from grounding ethics, this concept is merely its metaphysical corollary.",
-          "Even though the paradox is brilliant, it does not dissolve the initial premise.",
-          "Unless the axiom is revised, the syllogism will remain tautological."
-        ]
+        "gloss": {
+          "en": "Far from grounding ethics, this concept is merely its metaphysical corollary.",
+          "es": "Lejos de fundamentar la ética, este concepto es simplemente su corolario metafísico.",
+          "ru": "Эта концепция не является фундаментом этики и является всего лишь ее метафизическим следствием."
+        }
       },
       {
         "id": "remote-philosophy-mean-3",
         "fr": "À moins que l’axiome ne soit révisé, le syllogisme restera tautologique.",
         "en": "Unless the axiom is revised, the syllogism will remain tautological.",
-        "choices": [
-          "Unless the axiom is revised, the syllogism will remain tautological.",
-          "Even though the paradox is brilliant, it does not dissolve the initial premise.",
-          "Far from grounding ethics, this concept is merely its metaphysical corollary."
-        ]
+        "gloss": {
+          "en": "Unless the axiom is revised, the syllogism will remain tautological.",
+          "es": "A menos que se revise el axioma, el silogismo seguirá siendo tautológico.",
+          "ru": "Если аксиома не будет пересмотрена, силлогизм останется тавтологией."
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-philosophy-fren-1",
         "fr": "concept",
-        "en": "concept"
+        "en": "concept",
+        "gloss": {
+          "en": "concept",
+          "es": "concepto",
+          "ru": "концепция"
+        }
       },
       {
         "id": "remote-philosophy-fren-2",
         "fr": "prémisse",
-        "en": "premise"
+        "en": "premise",
+        "gloss": {
+          "en": "premise",
+          "es": "premisa",
+          "ru": "помещение"
+        }
       },
       {
         "id": "remote-philosophy-fren-3",
         "fr": "paradoxe",
-        "en": "paradox"
+        "en": "paradox",
+        "gloss": {
+          "en": "paradox",
+          "es": "paradoja",
+          "ru": "парадокс"
+        }
       },
       {
         "id": "remote-philosophy-fren-4",
         "fr": "éthique",
-        "en": "ethics"
+        "en": "ethics",
+        "gloss": {
+          "en": "ethics",
+          "es": "ética",
+          "ru": "этика"
+        }
       },
       {
         "id": "remote-philosophy-fren-5",
         "fr": "métaphysique",
-        "en": "metaphysics"
+        "en": "metaphysics",
+        "gloss": {
+          "en": "metaphysics",
+          "es": "metafísica",
+          "ru": "метафизика"
+        }
       },
       {
         "id": "remote-philosophy-fren-6",
         "fr": "ontologie",
-        "en": "ontology"
+        "en": "ontology",
+        "gloss": {
+          "en": "ontology",
+          "es": "ontología",
+          "ru": "онтология"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-philosophy-aloud-1",
         "fr": "Encore que le paradoxe soit brillant, il ne dissout pas la prémisse initiale.",
         "en": "Even though the paradox is brilliant, it does not dissolve the initial premise.",
-        "ipa": "ɑ̃.kɔʁ kə lə pa.ʁa.dɔks swa bʁi.jɑ̃ il nə di.su pa la pʁe.mis i.ni.sjal"
+        "ipa": "ɑ̃.kɔʁ kə lə pa.ʁa.dɔks swa bʁi.jɑ̃ il nə di.su pa la pʁe.mis i.ni.sjal",
+        "gloss": {
+          "en": "Even though the paradox is brilliant, it does not dissolve the initial premise.",
+          "es": "Aunque la paradoja es brillante, no disuelve la premisa inicial.",
+          "ru": "Несмотря на то, что этот парадокс великолепен, он не разрушает первоначальную предпосылку."
+        }
       },
       {
         "id": "remote-philosophy-aloud-2",
         "fr": "À moins que l’axiome ne soit révisé, le syllogisme restera tautologique.",
         "en": "Unless the axiom is revised, the syllogism will remain tautological.",
-        "ipa": "a mwɛ̃ kə lak.sjɔm nə swa ʁe.vi.ze lə si.lɔ.ʒism ʁɛs.tə.ʁa to.tɔ.lɔ.ʒik"
+        "ipa": "a mwɛ̃ kə lak.sjɔm nə swa ʁe.vi.ze lə si.lɔ.ʒism ʁɛs.tə.ʁa to.tɔ.lɔ.ʒik",
+        "gloss": {
+          "en": "Unless the axiom is revised, the syllogism will remain tautological.",
+          "es": "A menos que se revise el axioma, el silogismo seguirá siendo tautológico.",
+          "ru": "Если аксиома не будет пересмотрена, силлогизм останется тавтологией."
+        }
       },
       {
         "id": "remote-philosophy-aloud-3",
         "fr": "En postulant la contingence, on n’abolit pas pour autant le déterminisme local.",
         "en": "By positing contingency, one does not thereby abolish local determinism.",
-        "ipa": "ɑ̃ pɔs.ty.lɑ̃ la kɔ̃.tɛ̃.ʒɑ̃s ɔ̃ na.bɔ.li pa puʁ o.tɑ̃ lə de.tɛʁ.mi.nism lɔ.kal"
+        "ipa": "ɑ̃ pɔs.ty.lɑ̃ la kɔ̃.tɛ̃.ʒɑ̃s ɔ̃ na.bɔ.li pa puʁ o.tɑ̃ lə de.tɛʁ.mi.nism lɔ.kal",
+        "gloss": {
+          "en": "By positing contingency, one does not thereby abolish local determinism.",
+          "es": "Al plantear la contingencia no se abolió el determinismo local.",
+          "ru": "Полагая непредвиденность, тем самым не отменяется локальный детерминизм."
+        }
       }
     ],
     "unscramble": [
@@ -517,7 +775,12 @@
           "la",
           "prémisse",
           "tient."
-        ]
+        ],
+        "gloss": {
+          "en": "Even though the paradox is brilliant, the premise holds.",
+          "es": "Aunque la paradoja es brillante, la premisa se mantiene.",
+          "ru": "Несмотря на то, что парадокс великолепен, предпосылка остается верной."
+        }
       },
       {
         "id": "remote-philosophy-unsc-2",
@@ -535,7 +798,12 @@
           "que",
           "le",
           "corollaire."
-        ]
+        ],
+        "gloss": {
+          "en": "Far from grounding ethics, this concept is merely its corollary.",
+          "es": "Lejos de fundamentar la ética, este concepto es simplemente su corolario.",
+          "ru": "Эта концепция не является основой этики, а является лишь ее следствием."
+        }
       }
     ]
   }

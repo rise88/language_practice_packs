@@ -1,15 +1,19 @@
 {
-  "pratiquePack": 1,
+  "pratiquePack": 2,
   "id": "family-a1",
-  "version": 2,
+  "version": 3,
   "level": "a1",
   "title": {
     "fr": "Famille A1",
-    "en": "Family A1"
+    "en": "Family A1",
+    "es": "Familia A1",
+    "ru": "Семья А1"
   },
   "description": {
     "fr": "Personnes de la famille et mots simples pour se présenter.",
-    "en": "Family members and simple words to introduce people."
+    "en": "Family members and simple words to introduce people.",
+    "es": "Miembros de la familia y palabras sencillas para presentar a las personas.",
+    "ru": "Члены семьи и простые слова, чтобы представить людей."
   },
   "seed": [
     {
@@ -18,7 +22,12 @@
       "en": "mother",
       "example": "Ma mère s’appelle Sophie.",
       "ipa": "mɛʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "mother",
+        "es": "madre",
+        "ru": "мать"
+      }
     },
     {
       "id": "remote-family-a1-2",
@@ -26,7 +35,12 @@
       "en": "father",
       "example": "Mon père travaille à Paris.",
       "ipa": "pɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "father",
+        "es": "padre",
+        "ru": "отец"
+      }
     },
     {
       "id": "remote-family-a1-3",
@@ -34,7 +48,12 @@
       "en": "brother",
       "example": "J’ai un frère.",
       "ipa": "fʁɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "brother",
+        "es": "hermano",
+        "ru": "брат"
+      }
     },
     {
       "id": "remote-family-a1-4",
@@ -42,7 +61,12 @@
       "en": "sister",
       "example": "Ma sœur a dix ans.",
       "ipa": "sœʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "sister",
+        "es": "hermana",
+        "ru": "сестра"
+      }
     },
     {
       "id": "remote-family-a1-5",
@@ -50,7 +74,12 @@
       "en": "child",
       "example": "Ils ont deux enfants.",
       "ipa": "ɑ̃.fɑ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "child",
+        "es": "niño",
+        "ru": "ребенок"
+      }
     },
     {
       "id": "remote-family-a1-6",
@@ -58,7 +87,12 @@
       "en": "son",
       "example": "Leur fils va à l’école.",
       "ipa": "fis",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "son",
+        "es": "hijo",
+        "ru": "сын"
+      }
     },
     {
       "id": "remote-family-a1-7",
@@ -66,7 +100,12 @@
       "en": "daughter / girl",
       "example": "Sa fille aime lire.",
       "ipa": "fij",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "daughter / girl",
+        "es": "hija / niña",
+        "ru": "дочь / девочка"
+      }
     },
     {
       "id": "remote-family-a1-8",
@@ -74,7 +113,12 @@
       "en": "friend (male)",
       "example": "C’est mon ami Paul.",
       "ipa": "a.mi",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "friend (male)",
+        "es": "amigo (masculino)",
+        "ru": "друг (мужчина)"
+      }
     },
     {
       "id": "remote-family-a1-9",
@@ -82,7 +126,12 @@
       "en": "friend (female)",
       "example": "Marie est mon amie.",
       "ipa": "a.mi",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "friend (female)",
+        "es": "amiga (mujer)",
+        "ru": "друг (женщина)"
+      }
     },
     {
       "id": "remote-family-a1-10",
@@ -90,7 +139,12 @@
       "en": "grandfather",
       "example": "Mon grand-père habite à Lyon.",
       "ipa": "ɡʁɑ̃.pɛʁ",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "grandfather",
+        "es": "abuelo",
+        "ru": "дедушка"
+      }
     },
     {
       "id": "remote-family-a1-11",
@@ -98,7 +152,12 @@
       "en": "grandmother",
       "example": "Ma grand-mère cuisine bien.",
       "ipa": "ɡʁɑ̃.mɛʁ",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "grandmother",
+        "es": "abuela",
+        "ru": "бабушка"
+      }
     },
     {
       "id": "remote-family-a1-12",
@@ -106,7 +165,12 @@
       "en": "uncle",
       "example": "Mon oncle vient demain.",
       "ipa": "ɔ̃kl",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "uncle",
+        "es": "tío",
+        "ru": "дядя"
+      }
     },
     {
       "id": "remote-family-a1-13",
@@ -114,7 +178,12 @@
       "en": "aunt",
       "example": "Ma tante habite en Belgique.",
       "ipa": "tɑ̃t",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "aunt",
+        "es": "tía",
+        "ru": "тетя"
+      }
     },
     {
       "id": "remote-family-a1-14",
@@ -122,7 +191,12 @@
       "en": "cousin (male)",
       "example": "Mon cousin a quinze ans.",
       "ipa": "ku.zɛ̃",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "cousin (male)",
+        "es": "primo (hombre)",
+        "ru": "двоюродный брат (мужчина)"
+      }
     },
     {
       "id": "remote-family-a1-15",
@@ -130,7 +204,12 @@
       "en": "cousin (female)",
       "example": "Ma cousine parle anglais.",
       "ipa": "ku.zin",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "cousin (female)",
+        "es": "prima (mujer)",
+        "ru": "двоюродная сестра (женщина)"
+      }
     },
     {
       "id": "remote-family-a1-16",
@@ -138,7 +217,12 @@
       "en": "family",
       "example": "Ma famille est grande.",
       "ipa": "fa.mij",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "family",
+        "es": "familia",
+        "ru": "семья"
+      }
     },
     {
       "id": "remote-family-a1-17",
@@ -146,7 +230,12 @@
       "en": "parents",
       "example": "Mes parents habitent à Marseille.",
       "ipa": "pa.ʁɑ̃",
-      "article": "les"
+      "article": "les",
+      "gloss": {
+        "en": "parents",
+        "es": "padres",
+        "ru": "родители"
+      }
     },
     {
       "id": "remote-family-a1-18",
@@ -154,7 +243,12 @@
       "en": "husband",
       "example": "Son mari s’appelle Thomas.",
       "ipa": "ma.ʁi",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "husband",
+        "es": "marido",
+        "ru": "муж"
+      }
     },
     {
       "id": "remote-family-a1-19",
@@ -162,7 +256,12 @@
       "en": "wife / woman",
       "example": "Ma femme travaille ici.",
       "ipa": "fam",
-      "article": "la"
+      "article": "la",
+      "gloss": {
+        "en": "wife / woman",
+        "es": "esposa / mujer",
+        "ru": "жена/женщина"
+      }
     },
     {
       "id": "remote-family-a1-20",
@@ -170,7 +269,12 @@
       "en": "baby",
       "example": "Le bébé dort dans sa chambre.",
       "ipa": "be.be",
-      "article": "le"
+      "article": "le",
+      "gloss": {
+        "en": "baby",
+        "es": "bebé",
+        "ru": "малыш"
+      }
     }
   ],
   "phrases": [
@@ -178,37 +282,67 @@
       "id": "remote-family-phrase-1",
       "fr": "Voici ma mère.",
       "en": "This is my mother.",
-      "ipa": "vwa.si ma mɛʁ"
+      "ipa": "vwa.si ma mɛʁ",
+      "gloss": {
+        "en": "This is my mother.",
+        "es": "Esta es mi madre.",
+        "ru": "Это моя мать."
+      }
     },
     {
       "id": "remote-family-phrase-2",
       "fr": "J’ai un frère et une sœur.",
       "en": "I have a brother and a sister.",
-      "ipa": "ʒe œ̃ fʁɛʁ e yn sœʁ"
+      "ipa": "ʒe œ̃ fʁɛʁ e yn sœʁ",
+      "gloss": {
+        "en": "I have a brother and a sister.",
+        "es": "Tengo un hermano y una hermana.",
+        "ru": "У меня есть брат и сестра."
+      }
     },
     {
       "id": "remote-family-phrase-3",
       "fr": "Comment s’appelle ton père ?",
       "en": "What is your father’s name?",
-      "ipa": "kɔ.mɑ̃ sa.pɛl tɔ̃ pɛʁ"
+      "ipa": "kɔ.mɑ̃ sa.pɛl tɔ̃ pɛʁ",
+      "gloss": {
+        "en": "What is your father’s name?",
+        "es": "¿Cómo se llama tu padre?",
+        "ru": "Как зовут твоего отца?"
+      }
     },
     {
       "id": "remote-family-phrase-4",
       "fr": "Ma famille est grande.",
       "en": "My family is big.",
-      "ipa": "ma fa.mij ɛ ɡʁɑ̃d"
+      "ipa": "ma fa.mij ɛ ɡʁɑ̃d",
+      "gloss": {
+        "en": "My family is big.",
+        "es": "Mi familia es grande.",
+        "ru": "Моя семья большая."
+      }
     },
     {
       "id": "remote-family-phrase-5",
       "fr": "Mes parents habitent à Marseille.",
       "en": "My parents live in Marseille.",
-      "ipa": "me pa.ʁɑ̃ za.bit a maʁ.sɛj"
+      "ipa": "me pa.ʁɑ̃ za.bit a maʁ.sɛj",
+      "gloss": {
+        "en": "My parents live in Marseille.",
+        "es": "Mis padres viven en Marsella.",
+        "ru": "Мои родители живут в Марселе."
+      }
     },
     {
       "id": "remote-family-phrase-6",
       "fr": "C’est mon ami Paul.",
       "en": "This is my friend Paul.",
-      "ipa": "sɛ mɔ̃ na.mi pɔl"
+      "ipa": "sɛ mɔ̃ na.mi pɔl",
+      "gloss": {
+        "en": "This is my friend Paul.",
+        "es": "Este es mi amigo Pablo.",
+        "ru": "Это мой друг Пол."
+      }
     }
   ],
   "listen": [
@@ -223,7 +357,17 @@
         "mère",
         "fille",
         "tante"
-      ]
+      ],
+      "gloss": {
+        "en": "My sister and my brother live with my parents.",
+        "es": "Mi hermana y mi hermano viven con mis padres.",
+        "ru": "Моя сестра и мой брат живут с моими родителями."
+      },
+      "wordGloss": {
+        "en": "sister",
+        "es": "hermana",
+        "ru": "сестра"
+      }
     },
     {
       "id": "remote-family-listen-2",
@@ -236,7 +380,17 @@
         "oncle",
         "père",
         "cousin"
-      ]
+      ],
+      "gloss": {
+        "en": "My grandfather lives in Lyon with my grandmother.",
+        "es": "Mi abuelo vive en Lyon con mi abuela.",
+        "ru": "Мой дедушка живет в Лионе с моей бабушкой."
+      },
+      "wordGloss": {
+        "en": "grandfather",
+        "es": "abuelo",
+        "ru": "дедушка"
+      }
     },
     {
       "id": "remote-family-listen-3",
@@ -249,7 +403,17 @@
         "fille",
         "frère",
         "bébé"
-      ]
+      ],
+      "gloss": {
+        "en": "Their son goes to school with his cousin.",
+        "es": "Su hijo va a la escuela con su prima.",
+        "ru": "Их сын ходит в школу со своим двоюродным братом."
+      },
+      "wordGloss": {
+        "en": "son",
+        "es": "hijo",
+        "ru": "сын"
+      }
     },
     {
       "id": "remote-family-listen-4",
@@ -262,7 +426,17 @@
         "tante",
         "sœur",
         "femme"
-      ]
+      ],
+      "gloss": {
+        "en": "Marie is my friend; Paul is my friend.",
+        "es": "María es mi amiga; Pablo es mi amigo.",
+        "ru": "Мари — моя подруга; Пол мой друг."
+      },
+      "wordGloss": {
+        "en": "friend (female)",
+        "es": "amiga (mujer)",
+        "ru": "друг (женщина)"
+      }
     }
   ],
   "prompts": [
@@ -276,9 +450,16 @@
       "id": "remote-family-grammar-1",
       "title": {
         "fr": "Mon / ma / mes",
-        "en": "My (possessive adjectives)"
+        "en": "My (possessive adjectives)",
+        "es": "Mis (adjetivos posesivos)",
+        "ru": "Мой (притяжательные прилагательные)"
       },
-      "rule": "Les adjectifs possessifs s’accordent avec le nom possédé, pas avec le possesseur : mon (masculin), ma (féminin), mes (pluriel). Devant une voyelle, on utilise mon même au féminin : mon amie.",
+      "rule": {
+        "fr": "Les adjectifs possessifs s’accordent avec le nom possédé, pas avec le possesseur : mon (masculin), ma (féminin), mes (pluriel). Devant une voyelle, on utilise mon même au féminin : mon amie.",
+        "en": "Possessive adjectives agree with the noun possessed, not with the possessor: mon (masculine), ma (feminine), mes (plural). Before a vowel, we use my same in the feminine: my friend.",
+        "es": "Los adjetivos posesivos concuerdan con el sustantivo poseído, no con el poseedor: mon (masculino), ma (femenino), mes (plural). Antes de una vocal usamos mi mismo en femenino: mi amiga.",
+        "ru": "Притяжательные прилагательные согласуются с существительным «одержимый», а не с обладателем: mon (мужской род), ma (женский род), mes (множественное число). Перед гласной мы используем my женского рода: мой друг."
+      },
       "table": [
         [
           "Forme",
@@ -337,15 +518,27 @@
             "Mes"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: My (possessive adjectives).",
+        "es": "Útil cuando necesitas aplicar: Mi (adjetivos posesivos).",
+        "ru": "Полезно, когда нужно применить: Мой (притяжательные прилагательные)."
+      }
     },
     {
       "id": "remote-family-grammar-2",
       "title": {
         "fr": "Avoir pour la famille",
-        "en": "Using avoir for family"
+        "en": "Using avoir for family",
+        "es": "Usar avoir para la familia",
+        "ru": "Использование avoir для семьи"
       },
-      "rule": "Pour parler de sa famille, on utilise souvent avoir : J’ai un frère. On dit aussi C’est mon / ma… pour présenter quelqu’un.",
+      "rule": {
+        "fr": "Pour parler de sa famille, on utilise souvent avoir : J’ai un frère. On dit aussi C’est mon / ma… pour présenter quelqu’un.",
+        "en": "To talk about one's family, we often use have: I have a brother. We also say It’s my/my… to introduce someone.",
+        "es": "Para hablar de la propia familia, solemos utilizar have: tengo un hermano. También decimos Es mi/mi… para presentar a alguien.",
+        "ru": "Говоря о своей семье, мы часто используем have: у меня есть брат. Мы также говорим «Это мое/мое…», чтобы представить кого-то."
+      },
       "table": [
         [
           "Structure",
@@ -394,7 +587,12 @@
             "Dans"
           ]
         }
-      ]
+      ],
+      "why": {
+        "en": "Useful when you need to apply: Using avoir for family.",
+        "es": "Útil cuando necesitas aplicar: Uso de avoir para la familia.",
+        "ru": "Полезно, когда вам нужно подать заявку: Использование avoir для семьи."
+      }
     }
   ],
   "skills": {
@@ -403,19 +601,34 @@
         "id": "remote-family-dict-1",
         "fr": "J’ai un frère et une sœur.",
         "en": "I have a brother and a sister.",
-        "ipa": "ʒe œ̃ fʁɛʁ e yn sœʁ"
+        "ipa": "ʒe œ̃ fʁɛʁ e yn sœʁ",
+        "gloss": {
+          "en": "I have a brother and a sister.",
+          "es": "Tengo un hermano y una hermana.",
+          "ru": "У меня есть брат и сестра."
+        }
       },
       {
         "id": "remote-family-dict-2",
         "fr": "Ma mère s’appelle Sophie.",
         "en": "My mother’s name is Sophie.",
-        "ipa": "ma mɛʁ sa.pɛl sɔ.fi"
+        "ipa": "ma mɛʁ sa.pɛl sɔ.fi",
+        "gloss": {
+          "en": "My mother’s name is Sophie.",
+          "es": "El nombre de mi madre es Sophie.",
+          "ru": "Мою маму зовут Софи."
+        }
       },
       {
         "id": "remote-family-dict-3",
         "fr": "Ma famille est grande.",
         "en": "My family is big.",
-        "ipa": "ma fa.mij ɛ ɡʁɑ̃d"
+        "ipa": "ma fa.mij ɛ ɡʁɑ̃d",
+        "gloss": {
+          "en": "My family is big.",
+          "es": "Mi familia es grande.",
+          "ru": "Моя семья большая."
+        }
       }
     ],
     "meaning": [
@@ -423,63 +636,93 @@
         "id": "remote-family-mean-1",
         "fr": "Voici ma mère.",
         "en": "This is my mother.",
-        "choices": [
-          "This is my mother.",
-          "I have a brother.",
-          "Where is your father?"
-        ]
+        "gloss": {
+          "en": "This is my mother.",
+          "es": "Esta es mi madre.",
+          "ru": "Это моя мать."
+        }
       },
       {
         "id": "remote-family-mean-2",
         "fr": "Ils ont deux enfants.",
         "en": "They have two children.",
-        "choices": [
-          "They have two children.",
-          "She is my friend.",
-          "He is my uncle."
-        ]
+        "gloss": {
+          "en": "They have two children.",
+          "es": "Tienen dos hijos.",
+          "ru": "У них двое детей."
+        }
       },
       {
         "id": "remote-family-mean-3",
         "fr": "Comment s’appelle ton père ?",
         "en": "What is your father’s name?",
-        "choices": [
-          "What is your father’s name?",
-          "Where do you live?",
-          "How old is she?"
-        ]
+        "gloss": {
+          "en": "What is your father’s name?",
+          "es": "¿Cómo se llama tu padre?",
+          "ru": "Как зовут твоего отца?"
+        }
       }
     ],
     "fren": [
       {
         "id": "remote-family-fren-1",
         "fr": "mère",
-        "en": "mother"
+        "en": "mother",
+        "gloss": {
+          "en": "mother",
+          "es": "madre",
+          "ru": "мать"
+        }
       },
       {
         "id": "remote-family-fren-2",
         "fr": "père",
-        "en": "father"
+        "en": "father",
+        "gloss": {
+          "en": "father",
+          "es": "padre",
+          "ru": "отец"
+        }
       },
       {
         "id": "remote-family-fren-3",
         "fr": "frère",
-        "en": "brother"
+        "en": "brother",
+        "gloss": {
+          "en": "brother",
+          "es": "hermano",
+          "ru": "брат"
+        }
       },
       {
         "id": "remote-family-fren-4",
         "fr": "sœur",
-        "en": "sister"
+        "en": "sister",
+        "gloss": {
+          "en": "sister",
+          "es": "hermana",
+          "ru": "сестра"
+        }
       },
       {
         "id": "remote-family-fren-5",
         "fr": "oncle",
-        "en": "uncle"
+        "en": "uncle",
+        "gloss": {
+          "en": "uncle",
+          "es": "tío",
+          "ru": "дядя"
+        }
       },
       {
         "id": "remote-family-fren-6",
         "fr": "tante",
-        "en": "aunt"
+        "en": "aunt",
+        "gloss": {
+          "en": "aunt",
+          "es": "tía",
+          "ru": "тетя"
+        }
       }
     ],
     "aloud": [
@@ -487,19 +730,34 @@
         "id": "remote-family-aloud-1",
         "fr": "Voici ma mère.",
         "en": "This is my mother.",
-        "ipa": "vwa.si ma mɛʁ"
+        "ipa": "vwa.si ma mɛʁ",
+        "gloss": {
+          "en": "This is my mother.",
+          "es": "Esta es mi madre.",
+          "ru": "Это моя мать."
+        }
       },
       {
         "id": "remote-family-aloud-2",
         "fr": "Mon grand-père habite à Lyon.",
         "en": "My grandfather lives in Lyon.",
-        "ipa": "mɔ̃ ɡʁɑ̃.pɛʁ a.bit a ljɔ̃"
+        "ipa": "mɔ̃ ɡʁɑ̃.pɛʁ a.bit a ljɔ̃",
+        "gloss": {
+          "en": "My grandfather lives in Lyon.",
+          "es": "Mi abuelo vive en Lyon.",
+          "ru": "Мой дедушка живет в Лионе."
+        }
       },
       {
         "id": "remote-family-aloud-3",
         "fr": "C’est mon ami Paul.",
         "en": "This is my friend Paul.",
-        "ipa": "sɛ mɔ̃ na.mi pɔl"
+        "ipa": "sɛ mɔ̃ na.mi pɔl",
+        "gloss": {
+          "en": "This is my friend Paul.",
+          "es": "Este es mi amigo Pablo.",
+          "ru": "Это мой друг Пол."
+        }
       }
     ],
     "unscramble": [
@@ -511,7 +769,12 @@
           "J’ai",
           "un",
           "frère."
-        ]
+        ],
+        "gloss": {
+          "en": "I have a brother.",
+          "es": "Tengo un hermano.",
+          "ru": "У меня есть брат."
+        }
       },
       {
         "id": "remote-family-unsc-2",
@@ -523,7 +786,12 @@
           "a",
           "dix",
           "ans."
-        ]
+        ],
+        "gloss": {
+          "en": "My sister is ten years old.",
+          "es": "Mi hermana tiene diez años.",
+          "ru": "Моей сестре десять лет."
+        }
       }
     ]
   }
