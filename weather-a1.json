@@ -1,15 +1,19 @@
 {
   "pratiquePack": 2,
   "id": "weather-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "title": {
     "fr": "Météo A1",
-    "en": "Weather A1"
+    "en": "Weather A1",
+    "es": "Tiempo A1",
+    "ru": "Погода А1"
   },
   "description": {
     "fr": "Soleil, pluie, saisons et expressions simples sur le temps qu’il fait.",
-    "en": "Sun, rain, seasons, and simple expressions about the weather."
+    "en": "Sun, rain, seasons, and simple expressions about the weather.",
+    "es": "Sol, lluvia, estaciones y expresiones sencillas sobre el tiempo.",
+    "ru": "Солнце, дождь, времена года и простые выражения о погоде."
   },
   "seed": [
     {
@@ -20,7 +24,9 @@
       "ipa": "sɔ.lɛj",
       "article": "le",
       "gloss": {
-        "en": "sun"
+        "en": "sun",
+        "es": "sol",
+        "ru": "солнце"
       }
     },
     {
@@ -31,7 +37,9 @@
       "ipa": "plɥi",
       "article": "la",
       "gloss": {
-        "en": "rain"
+        "en": "rain",
+        "es": "lluvia",
+        "ru": "дождь"
       }
     },
     {
@@ -42,7 +50,9 @@
       "ipa": "nɥaʒ",
       "article": "le",
       "gloss": {
-        "en": "cloud"
+        "en": "cloud",
+        "es": "nube",
+        "ru": "облако"
       }
     },
     {
@@ -53,7 +63,9 @@
       "ipa": "vɑ̃",
       "article": "le",
       "gloss": {
-        "en": "wind"
+        "en": "wind",
+        "es": "viento",
+        "ru": "ветер"
       }
     },
     {
@@ -64,7 +76,9 @@
       "ipa": "nɛʒ",
       "article": "la",
       "gloss": {
-        "en": "snow"
+        "en": "snow",
+        "es": "nieve",
+        "ru": "снег"
       }
     },
     {
@@ -75,7 +89,9 @@
       "ipa": "ʃo",
       "article": "le",
       "gloss": {
-        "en": "hot / warm"
+        "en": "hot / warm",
+        "es": "caliente / tibio",
+        "ru": "горячий/теплый"
       }
     },
     {
@@ -86,7 +102,9 @@
       "ipa": "fʁwa",
       "article": "le",
       "gloss": {
-        "en": "cold"
+        "en": "cold",
+        "es": "frío",
+        "ru": "холодный"
       }
     },
     {
@@ -97,7 +115,9 @@
       "ipa": "pʁɛ̃.tɑ̃",
       "article": "le",
       "gloss": {
-        "en": "spring"
+        "en": "spring",
+        "es": "primavera",
+        "ru": "весна"
       }
     },
     {
@@ -108,7 +128,9 @@
       "ipa": "e.te",
       "article": "la",
       "gloss": {
-        "en": "summer"
+        "en": "summer",
+        "es": "verano",
+        "ru": "лето"
       }
     },
     {
@@ -119,7 +141,9 @@
       "ipa": "o.tɔn",
       "article": "la",
       "gloss": {
-        "en": "autumn / fall"
+        "en": "autumn / fall",
+        "es": "otoño / otoño",
+        "ru": "осень / осень"
       }
     },
     {
@@ -130,7 +154,9 @@
       "ipa": "i.vɛʁ",
       "article": "la",
       "gloss": {
-        "en": "winter"
+        "en": "winter",
+        "es": "invierno",
+        "ru": "зима"
       }
     },
     {
@@ -141,7 +167,9 @@
       "ipa": "sjɛl",
       "article": "le",
       "gloss": {
-        "en": "sky"
+        "en": "sky",
+        "es": "cielo",
+        "ru": "небо"
       }
     },
     {
@@ -152,7 +180,9 @@
       "ipa": "tɑ̃.pɛt",
       "article": "la",
       "gloss": {
-        "en": "storm"
+        "en": "storm",
+        "es": "tormenta",
+        "ru": "шторм"
       }
     },
     {
@@ -163,7 +193,9 @@
       "ipa": "pa.ʁa.plɥi",
       "article": "le",
       "gloss": {
-        "en": "umbrella"
+        "en": "umbrella",
+        "es": "paraguas",
+        "ru": "зонтик"
       }
     },
     {
@@ -174,7 +206,9 @@
       "ipa": "tɑ̃.pe.ʁa.tyʁ",
       "article": "la",
       "gloss": {
-        "en": "temperature"
+        "en": "temperature",
+        "es": "temperatura",
+        "ru": "температура"
       }
     },
     {
@@ -185,7 +219,9 @@
       "ipa": "ɔ.ʁaʒ",
       "article": "la",
       "gloss": {
-        "en": "thunderstorm"
+        "en": "thunderstorm",
+        "es": "tormenta",
+        "ru": "гроза"
       }
     },
     {
@@ -196,7 +232,9 @@
       "ipa": "bʁu.jaʁ",
       "article": "le",
       "gloss": {
-        "en": "fog"
+        "en": "fog",
+        "es": "niebla",
+        "ru": "туман"
       }
     },
     {
@@ -207,7 +245,9 @@
       "ipa": "e.klɛʁ",
       "article": "la",
       "gloss": {
-        "en": "lightning"
+        "en": "lightning",
+        "es": "iluminación",
+        "ru": "молния"
       }
     },
     {
@@ -218,7 +258,9 @@
       "ipa": "mɑ̃.to",
       "article": "le",
       "gloss": {
-        "en": "coat"
+        "en": "coat",
+        "es": "abrigo",
+        "ru": "пальто"
       }
     },
     {
@@ -229,7 +271,9 @@
       "ipa": "me.te.o",
       "article": "la",
       "gloss": {
-        "en": "weather forecast"
+        "en": "weather forecast",
+        "es": "pronóstico del tiempo",
+        "ru": "прогноз погоды"
       }
     }
   ],
@@ -240,7 +284,9 @@
       "en": "What’s the weather like today?",
       "ipa": "kɛl tɑ̃ fɛ til o.ʒuʁ.dɥi",
       "gloss": {
-        "en": "What’s the weather like today?"
+        "en": "What’s the weather like today?",
+        "es": "¿Cómo está el clima hoy?",
+        "ru": "Какая сегодня погода?"
       }
     },
     {
@@ -249,7 +295,9 @@
       "en": "The weather is nice today.",
       "ipa": "il fɛ bo o.ʒuʁ.dɥi",
       "gloss": {
-        "en": "The weather is nice today."
+        "en": "The weather is nice today.",
+        "es": "Hace buen tiempo hoy.",
+        "ru": "Погода сегодня хорошая."
       }
     },
     {
@@ -258,7 +306,9 @@
       "en": "It’s raining, take an umbrella.",
       "ipa": "il plø pʁɑ̃ œ̃ pa.ʁa.plɥi",
       "gloss": {
-        "en": "It’s raining, take an umbrella."
+        "en": "It’s raining, take an umbrella.",
+        "es": "Está lloviendo, coge un paraguas.",
+        "ru": "Идет дождь, возьми зонтик."
       }
     },
     {
@@ -267,7 +317,9 @@
       "en": "It’s very cold this morning.",
       "ipa": "il fɛ tʁɛ fʁwa sə ma.tɛ̃",
       "gloss": {
-        "en": "It’s very cold this morning."
+        "en": "It’s very cold this morning.",
+        "es": "Hace mucho frío esta mañana.",
+        "ru": "Сегодня утром очень холодно."
       }
     },
     {
@@ -276,7 +328,9 @@
       "en": "The sky is overcast.",
       "ipa": "lə sjɛl ɛ ku.vɛʁ",
       "gloss": {
-        "en": "The sky is overcast."
+        "en": "The sky is overcast.",
+        "es": "El cielo está nublado.",
+        "ru": "Небо пасмурно."
       }
     },
     {
@@ -285,7 +339,9 @@
       "en": "Tomorrow it will be warmer.",
       "ipa": "də.mɛ̃ il fə.ʁa ply ʃo",
       "gloss": {
-        "en": "Tomorrow it will be warmer."
+        "en": "Tomorrow it will be warmer.",
+        "es": "Mañana hará más calor.",
+        "ru": "Завтра будет теплее."
       }
     }
   ],
@@ -303,10 +359,14 @@
         "vent"
       ],
       "gloss": {
-        "en": "There is sun and the sky is blue."
+        "en": "There is sun and the sky is blue.",
+        "es": "Hay sol y el cielo es azul.",
+        "ru": "Есть солнце и небо голубое."
       },
       "wordGloss": {
-        "en": "sun"
+        "en": "sun",
+        "es": "sol",
+        "ru": "солнце"
       }
     },
     {
@@ -322,10 +382,14 @@
         "tempête"
       ],
       "gloss": {
-        "en": "Take your umbrella, the rain is going to start."
+        "en": "Take your umbrella, the rain is going to start.",
+        "es": "Toma tu paraguas, va a empezar a llover.",
+        "ru": "Возьми зонтик, скоро начнется дождь."
       },
       "wordGloss": {
-        "en": "umbrella"
+        "en": "umbrella",
+        "es": "paraguas",
+        "ru": "зонтик"
       }
     },
     {
@@ -341,10 +405,14 @@
         "orage"
       ],
       "gloss": {
-        "en": "In winter, it often snows in the mountains."
+        "en": "In winter, it often snows in the mountains.",
+        "es": "En invierno nieva a menudo en las montañas.",
+        "ru": "Зимой в горах часто идет снег."
       },
       "wordGloss": {
-        "en": "snow"
+        "en": "snow",
+        "es": "nieve",
+        "ru": "снег"
       }
     },
     {
@@ -360,10 +428,14 @@
         "automne"
       ],
       "gloss": {
-        "en": "The temperature is twenty-five degrees today."
+        "en": "The temperature is twenty-five degrees today.",
+        "es": "La temperatura hoy es de veinticinco grados.",
+        "ru": "Температура сегодня двадцать пять градусов."
       },
       "wordGloss": {
-        "en": "temperature"
+        "en": "temperature",
+        "es": "temperatura",
+        "ru": "температура"
       }
     }
   ],
@@ -378,10 +450,15 @@
       "id": "remote-weather-grammar-1",
       "title": {
         "fr": "Il fait / Il y a",
-        "en": "Describing the weather"
+        "en": "Describing the weather",
+        "es": "Describiendo el clima",
+        "ru": "Описание погоды"
       },
       "rule": {
-        "fr": "Pour décrire le temps qu’il fait, on utilise Il fait + adjectif (Il fait chaud, Il fait froid, Il fait beau) ou Il y a + nom (Il y a du soleil, Il y a du vent). Pour la pluie et la neige, on utilise Il pleut / Il neige."
+        "fr": "Pour décrire le temps qu’il fait, on utilise Il fait + adjectif (Il fait chaud, Il fait froid, Il fait beau) ou Il y a + nom (Il y a du soleil, Il y a du vent). Pour la pluie et la neige, on utilise Il pleut / Il neige.",
+        "en": "To describe the weather, we use It's + adjective (It's hot, It's cold, It's nice) or There's + noun (It's sunny, It's windy). For rain and snow, we use It's raining / It's snowing.",
+        "es": "Para describir el clima, usamos It's + adjetivo (Hace calor, Hace frío, Hace agradable) o There's + sustantivo (Hace sol, Hace viento). Para lluvia y nieve, usamos Está lloviendo / Está nevando.",
+        "ru": "Для описания погоды мы используем It's + прилагательное (Жарко, Холодно, Хорошо) или Theres + существительное (Солнечно, Ветрено). Для дождя и снега мы используем Идет дождь/Идет снег."
       },
       "table": [
         [
@@ -442,16 +519,25 @@
           ]
         }
       ],
-      "why": {}
+      "why": {
+        "en": "Useful when you need to apply: Describing the weather.",
+        "es": "Útil cuando necesitas aplicar: Describir el clima.",
+        "ru": "Полезно, когда нужно подать заявку: Описание погоды."
+      }
     },
     {
       "id": "remote-weather-grammar-2",
       "title": {
         "fr": "Les saisons avec en",
-        "en": "Seasons with en"
+        "en": "Seasons with en",
+        "es": "Temporadas con en",
+        "ru": "Времена года с эн"
       },
       "rule": {
-        "fr": "Pour dire à quelle saison quelque chose se passe, on utilise en + saison : en été, en hiver, au printemps, en automne. Attention : au printemps est une exception (en + le → au)."
+        "fr": "Pour dire à quelle saison quelque chose se passe, on utilise en + saison : en été, en hiver, au printemps, en automne. Attention : au printemps est une exception (en + le → au).",
+        "en": "To say in what season something happens, we use + season: in summer, in winter, in spring, in autumn. Please note: in spring is an exception (in + le → au).",
+        "es": "Para decir en qué estación sucede algo usamos + estación: en verano, en invierno, en primavera, en otoño. Tenga en cuenta: en primavera es una excepción (in + le → au).",
+        "ru": "Чтобы сказать, в какое время года что-то происходит, мы используем +сезон: летом, зимой, весной, осенью. Обратите внимание: весна – исключение (in+le→au)."
       },
       "table": [
         [
@@ -502,7 +588,11 @@
           ]
         }
       ],
-      "why": {}
+      "why": {
+        "en": "Useful when you need to apply: Seasons with en.",
+        "es": "Útil cuando necesitas aplicar: Temporadas con en.",
+        "ru": "Полезно, когда нужно подать заявку: Времена года с англ."
+      }
     }
   ],
   "skills": {
@@ -513,7 +603,9 @@
         "en": "The weather is nice today.",
         "ipa": "il fɛ bo o.ʒuʁ.dɥi",
         "gloss": {
-          "en": "The weather is nice today."
+          "en": "The weather is nice today.",
+          "es": "Hace buen tiempo hoy.",
+          "ru": "Погода сегодня хорошая."
         }
       },
       {
@@ -522,7 +614,9 @@
         "en": "It’s raining, take an umbrella.",
         "ipa": "il plø pʁɑ̃ œ̃ pa.ʁa.plɥi",
         "gloss": {
-          "en": "It’s raining, take an umbrella."
+          "en": "It’s raining, take an umbrella.",
+          "es": "Está lloviendo, coge un paraguas.",
+          "ru": "Идет дождь, возьми зонтик."
         }
       },
       {
@@ -531,7 +625,9 @@
         "en": "In winter, I wear a coat.",
         "ipa": "ɑ̃ i.vɛʁ ʒə pɔʁt œ̃ mɑ̃.to",
         "gloss": {
-          "en": "In winter, I wear a coat."
+          "en": "In winter, I wear a coat.",
+          "es": "En invierno llevo abrigo.",
+          "ru": "Зимой я ношу пальто."
         }
       }
     ],
@@ -541,7 +637,9 @@
         "fr": "Quel temps fait-il aujourd’hui ?",
         "en": "What’s the weather like today?",
         "gloss": {
-          "en": "What’s the weather like today?"
+          "en": "What’s the weather like today?",
+          "es": "¿Cómo está el clima hoy?",
+          "ru": "Какая сегодня погода?"
         }
       },
       {
@@ -549,7 +647,9 @@
         "fr": "Le ciel est couvert.",
         "en": "The sky is overcast.",
         "gloss": {
-          "en": "The sky is overcast."
+          "en": "The sky is overcast.",
+          "es": "El cielo está nublado.",
+          "ru": "Небо пасмурно."
         }
       },
       {
@@ -557,7 +657,9 @@
         "fr": "Demain, il fera plus chaud.",
         "en": "Tomorrow it will be warmer.",
         "gloss": {
-          "en": "Tomorrow it will be warmer."
+          "en": "Tomorrow it will be warmer.",
+          "es": "Mañana hará más calor.",
+          "ru": "Завтра будет теплее."
         }
       }
     ],
@@ -567,7 +669,9 @@
         "fr": "soleil",
         "en": "sun",
         "gloss": {
-          "en": "sun"
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
         }
       },
       {
@@ -575,7 +679,9 @@
         "fr": "pluie",
         "en": "rain",
         "gloss": {
-          "en": "rain"
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
         }
       },
       {
@@ -583,7 +689,9 @@
         "fr": "neige",
         "en": "snow",
         "gloss": {
-          "en": "snow"
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
         }
       },
       {
@@ -591,7 +699,9 @@
         "fr": "chaud",
         "en": "hot",
         "gloss": {
-          "en": "hot"
+          "en": "hot",
+          "es": "caliente",
+          "ru": "горячий"
         }
       },
       {
@@ -599,7 +709,9 @@
         "fr": "froid",
         "en": "cold",
         "gloss": {
-          "en": "cold"
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
         }
       },
       {
@@ -607,7 +719,9 @@
         "fr": "parapluie",
         "en": "umbrella",
         "gloss": {
-          "en": "umbrella"
+          "en": "umbrella",
+          "es": "paraguas",
+          "ru": "зонтик"
         }
       }
     ],
@@ -618,7 +732,9 @@
         "en": "What’s the weather like today?",
         "ipa": "kɛl tɑ̃ fɛ til o.ʒuʁ.dɥi",
         "gloss": {
-          "en": "What’s the weather like today?"
+          "en": "What’s the weather like today?",
+          "es": "¿Cómo está el clima hoy?",
+          "ru": "Какая сегодня погода?"
         }
       },
       {
@@ -627,7 +743,9 @@
         "en": "It’s very cold this morning.",
         "ipa": "il fɛ tʁɛ fʁwa sə ma.tɛ̃",
         "gloss": {
-          "en": "It’s very cold this morning."
+          "en": "It’s very cold this morning.",
+          "es": "Hace mucho frío esta mañana.",
+          "ru": "Сегодня утром очень холодно."
         }
       },
       {
@@ -636,7 +754,9 @@
         "en": "The leaves fall in autumn.",
         "ipa": "le fœj tɔ̃b ɑ̃ n‿o.tɔn",
         "gloss": {
-          "en": "The leaves fall in autumn."
+          "en": "The leaves fall in autumn.",
+          "es": "Las hojas caen en otoño.",
+          "ru": "Листья опадают осенью."
         }
       }
     ],
@@ -654,7 +774,9 @@
           "aujourd’hui."
         ],
         "gloss": {
-          "en": "There is sun today."
+          "en": "There is sun today.",
+          "es": "Hoy hay sol.",
+          "ru": "Сегодня солнце."
         }
       },
       {
@@ -670,7 +792,9 @@
           "froid."
         ],
         "gloss": {
-          "en": "Put on your coat, it’s cold."
+          "en": "Put on your coat, it’s cold.",
+          "es": "Ponte el abrigo, hace frío.",
+          "ru": "Надень пальто, холодно."
         }
       }
     ]
