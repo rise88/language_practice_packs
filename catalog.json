@@ -4,8 +4,9 @@
   "packs": [
     {
       "id": "food-a1",
-      "version": 4,
+      "version": 5,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "Nourriture A1",
         "en": "Food A1",
@@ -23,8 +24,9 @@
     },
     {
       "id": "home-a1",
-      "version": 3,
+      "version": 4,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "Maison A1",
         "en": "Home A1",
@@ -42,8 +44,9 @@
     },
     {
       "id": "family-a1",
-      "version": 3,
+      "version": 4,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "Famille A1",
         "en": "Family A1",
@@ -61,8 +64,9 @@
     },
     {
       "id": "school-a1",
-      "version": 2,
+      "version": 3,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "École A1",
         "en": "School A1",
@@ -80,8 +84,9 @@
     },
     {
       "id": "weather-a1",
-      "version": 2,
+      "version": 3,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "Météo A1",
         "en": "Weather A1",
@@ -99,8 +104,9 @@
     },
     {
       "id": "animals-a1",
-      "version": 2,
+      "version": 3,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "Animaux A1",
         "en": "Animals A1",
@@ -118,8 +124,9 @@
     },
     {
       "id": "clothes-a1",
-      "version": 2,
+      "version": 3,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "Vêtements A1",
         "en": "Clothes A1",
@@ -137,8 +144,9 @@
     },
     {
       "id": "time-a1",
-      "version": 2,
+      "version": 3,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "L’heure A1",
         "en": "Time A1",
@@ -156,8 +164,9 @@
     },
     {
       "id": "city-a1",
-      "version": 2,
+      "version": 3,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "En ville A1",
         "en": "In town A1",
@@ -175,8 +184,9 @@
     },
     {
       "id": "daily-a1",
-      "version": 2,
+      "version": 3,
       "level": "a1",
+      "lang": "fr",
       "title": {
         "fr": "Routine A1",
         "en": "Daily routine A1",
@@ -193,9 +203,70 @@
       "url": "./daily-a1.json"
     },
     {
+      "id": "comida-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "Nourriture A1 (ES)",
+        "en": "Food A1 (ES)",
+        "es": "Comida A1",
+        "ru": "Еда А1 (ES)"
+      },
+      "description": {
+        "fr": "Café, marché et repas du quotidien — pack espagnol A1.",
+        "en": "Café, market, and everyday meals — Spanish A1 pack.",
+        "es": "Café, mercado y comidas diarias para principiantes de español.",
+        "ru": "Кафе, рынок и повседневное питание — испанский пакет A1."
+      },
+      "cardCount": 12,
+      "url": "./comida-a1.json"
+    },
+    {
+      "id": "familia-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "Famille A1 (ES)",
+        "en": "Family A1 (ES)",
+        "es": "Familia A1",
+        "ru": "Семья А1 (ES)"
+      },
+      "description": {
+        "fr": "Membres de la famille et présentations simples — pack espagnol A1.",
+        "en": "Family members and simple introductions — Spanish A1 pack.",
+        "es": "Miembros de la familia y presentaciones sencillas para principiantes.",
+        "ru": "Члены семьи и простые представления — испанский пакет A1."
+      },
+      "cardCount": 12,
+      "url": "./familia-a1.json"
+    },
+    {
+      "id": "casa-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "Maison A1 (ES)",
+        "en": "Home A1 (ES)",
+        "es": "Casa A1",
+        "ru": "Дом А1 (ES)"
+      },
+      "description": {
+        "fr": "Pièces et objets du quotidien à la maison — pack espagnol A1.",
+        "en": "Rooms and everyday objects at home — Spanish A1 pack.",
+        "es": "Habitaciones y objetos cotidianos del hogar para principiantes.",
+        "ru": "Комнаты и предметы быта — испанский пакет A1."
+      },
+      "cardCount": 12,
+      "url": "./casa-a1.json"
+    },
+    {
       "id": "travel-a2",
-      "version": 4,
+      "version": 5,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Voyage A2",
         "en": "Travel A2",
@@ -213,8 +284,9 @@
     },
     {
       "id": "shopping-a2",
-      "version": 3,
+      "version": 4,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Courses A2",
         "en": "Shopping A2",
@@ -232,8 +304,9 @@
     },
     {
       "id": "health-a2",
-      "version": 3,
+      "version": 4,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Santé A2",
         "en": "Health A2",
@@ -251,8 +324,9 @@
     },
     {
       "id": "restaurant-a2",
-      "version": 2,
+      "version": 3,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Restaurant A2",
         "en": "Restaurant A2",
@@ -270,8 +344,9 @@
     },
     {
       "id": "hobbies-a2",
-      "version": 2,
+      "version": 3,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Loisirs A2",
         "en": "Hobbies A2",
@@ -289,8 +364,9 @@
     },
     {
       "id": "work-a2",
-      "version": 2,
+      "version": 3,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Travail A2",
         "en": "Work A2",
@@ -308,8 +384,9 @@
     },
     {
       "id": "directions-a2",
-      "version": 2,
+      "version": 3,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Itinéraire A2",
         "en": "Directions A2",
@@ -327,8 +404,9 @@
     },
     {
       "id": "housing-a2",
-      "version": 2,
+      "version": 3,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Logement A2",
         "en": "Housing A2",
@@ -346,8 +424,9 @@
     },
     {
       "id": "phone-a2",
-      "version": 2,
+      "version": 3,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Téléphone A2",
         "en": "Phone A2",
@@ -365,8 +444,9 @@
     },
     {
       "id": "celebrations-a2",
-      "version": 2,
+      "version": 3,
       "level": "a2",
+      "lang": "fr",
       "title": {
         "fr": "Fêtes A2",
         "en": "Celebrations A2",
@@ -384,8 +464,9 @@
     },
     {
       "id": "environment-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Environnement B1",
         "en": "Environment B1",
@@ -403,8 +484,9 @@
     },
     {
       "id": "education-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Études B1",
         "en": "Studies B1",
@@ -422,8 +504,9 @@
     },
     {
       "id": "relationships-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Relations B1",
         "en": "Relationships B1",
@@ -441,8 +524,9 @@
     },
     {
       "id": "money-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Argent B1",
         "en": "Money B1",
@@ -460,8 +544,9 @@
     },
     {
       "id": "technology-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Technologie B1",
         "en": "Technology B1",
@@ -479,8 +564,9 @@
     },
     {
       "id": "news-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Actualités B1",
         "en": "News B1",
@@ -498,8 +584,9 @@
     },
     {
       "id": "culture-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Culture B1",
         "en": "Culture B1",
@@ -517,8 +604,9 @@
     },
     {
       "id": "opinions-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Avis B1",
         "en": "Opinions B1",
@@ -536,8 +624,9 @@
     },
     {
       "id": "nature-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Nature B1",
         "en": "Nature B1",
@@ -555,8 +644,9 @@
     },
     {
       "id": "admin-b1",
-      "version": 2,
+      "version": 3,
       "level": "b1",
+      "lang": "fr",
       "title": {
         "fr": "Démarches B1",
         "en": "Admin B1",
@@ -574,8 +664,9 @@
     },
     {
       "id": "workplace-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Vie professionnelle B2",
         "en": "Workplace B2",
@@ -593,8 +684,9 @@
     },
     {
       "id": "media-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Médias et information B2",
         "en": "Media and news B2",
@@ -612,8 +704,9 @@
     },
     {
       "id": "politics-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Politique et citoyenneté B2",
         "en": "Politics and citizenship B2",
@@ -631,8 +724,9 @@
     },
     {
       "id": "science-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Sciences B2",
         "en": "Science B2",
@@ -650,8 +744,9 @@
     },
     {
       "id": "economy-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Économie B2",
         "en": "Economy B2",
@@ -669,8 +764,9 @@
     },
     {
       "id": "law-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Droit et justice B2",
         "en": "Law and justice B2",
@@ -688,8 +784,9 @@
     },
     {
       "id": "climate-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Climat et énergie B2",
         "en": "Climate and energy B2",
@@ -707,8 +804,9 @@
     },
     {
       "id": "psychology-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Psychologie B2",
         "en": "Psychology B2",
@@ -726,8 +824,9 @@
     },
     {
       "id": "arts-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Arts et cinéma B2",
         "en": "Arts and film B2",
@@ -745,8 +844,9 @@
     },
     {
       "id": "debate-b2",
-      "version": 2,
+      "version": 3,
       "level": "b2",
+      "lang": "fr",
       "title": {
         "fr": "Argumentation B2",
         "en": "Argumentation B2",
@@ -764,8 +864,9 @@
     },
     {
       "id": "academic-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Discours académique C1",
         "en": "Academic discourse C1",
@@ -783,8 +884,9 @@
     },
     {
       "id": "diplomacy-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Relations internationales C1",
         "en": "International relations C1",
@@ -802,8 +904,9 @@
     },
     {
       "id": "philosophy-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Philosophie C1",
         "en": "Philosophy C1",
@@ -821,8 +924,9 @@
     },
     {
       "id": "sustainability-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Transition écologique C1",
         "en": "Ecological transition C1",
@@ -840,8 +944,9 @@
     },
     {
       "id": "ethics-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Éthique C1",
         "en": "Ethics C1",
@@ -859,8 +964,9 @@
     },
     {
       "id": "innovation-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Innovation et recherche C1",
         "en": "Innovation and research C1",
@@ -878,8 +984,9 @@
     },
     {
       "id": "society-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Enjeux sociaux C1",
         "en": "Social issues C1",
@@ -897,8 +1004,9 @@
     },
     {
       "id": "contemporary-arts-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Arts contemporains C1",
         "en": "Contemporary arts C1",
@@ -916,8 +1024,9 @@
     },
     {
       "id": "linguistics-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Langue et discours C1",
         "en": "Language and discourse C1",
@@ -935,8 +1044,9 @@
     },
     {
       "id": "journalism-c1",
-      "version": 2,
+      "version": 3,
       "level": "c1",
+      "lang": "fr",
       "title": {
         "fr": "Journalisme C1",
         "en": "Journalism C1",
@@ -954,8 +1064,9 @@
     },
     {
       "id": "rhetoric-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Rhétorique C2",
         "en": "Rhetoric C2",
@@ -973,8 +1084,9 @@
     },
     {
       "id": "literary-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Analyse littéraire C2",
         "en": "Literary analysis C2",
@@ -992,8 +1104,9 @@
     },
     {
       "id": "geopolitics-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Géopolitique C2",
         "en": "Geopolitics C2",
@@ -1011,8 +1124,9 @@
     },
     {
       "id": "epistemology-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Épistémologie C2",
         "en": "Epistemology C2",
@@ -1030,8 +1144,9 @@
     },
     {
       "id": "satire-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Ironie et satire C2",
         "en": "Irony and satire C2",
@@ -1049,8 +1164,9 @@
     },
     {
       "id": "identity-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Identité et altérité C2",
         "en": "Identity and otherness C2",
@@ -1068,8 +1184,9 @@
     },
     {
       "id": "aesthetics-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Esthétique C2",
         "en": "Aesthetics C2",
@@ -1087,8 +1204,9 @@
     },
     {
       "id": "rights-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Droits fondamentaux C2",
         "en": "Fundamental rights C2",
@@ -1106,8 +1224,9 @@
     },
     {
       "id": "science-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Savoir scientifique C2",
         "en": "Scientific knowledge C2",
@@ -1125,8 +1244,9 @@
     },
     {
       "id": "register-c2",
-      "version": 2,
+      "version": 3,
       "level": "c2",
+      "lang": "fr",
       "title": {
         "fr": "Registres et nuances C2",
         "en": "Registers and nuances C2",
