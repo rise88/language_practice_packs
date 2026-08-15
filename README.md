@@ -71,15 +71,32 @@ Hosting this repo as **public** is free. The app fetches:
 | `rights-c2.json` | Fundamental rights C2 pack |
 | `science-c2.json` | Scientific knowledge C2 pack |
 | `register-c2.json` | Registers and nuances C2 pack |
-| `_template.json` | Copy this to add a new pack (pratiquePack **v2** gloss schema) |
-| `ADD-LANGUAGE.md` | How to add gloss locales (en/es/ru) |
+| `_template.json` | Copy this to add a new pack (pratiquePack **v2** + `lang` / `l2`) |
+| `ADD-LANGUAGE.md` | Gloss locales (en/es/ru) + practice language (`lang`) |
 | `scripts/migrate-gloss.mjs` | Lift v1 flat `en` → `gloss.en` |
+| `scripts/validate-packs.mjs` | Check every pack has `lang`; every seed has `l2` or `fr` |
+| `comida-a1.json` | Food A1 (Spanish L2) |
+| `familia-a1.json` | Family A1 (Spanish L2) |
+| `casa-a1.json` | Home A1 (Spanish L2) |
+
+## Practice language (L2)
+
+Each pack and its `catalog.json` entry declare `"lang": "fr"` | `"es"` | … (ISO code for the language being practiced). Existing packs default to `"fr"`.
+
+| Field | Role |
+|-------|------|
+| `lang` | Practice language for the whole pack |
+| `seed[].l2` | Preferred headword field |
+| `seed[].fr` | Legacy headword alias on **French** packs (kept for older app builds) |
+| `prompts` | Writing prompts in the pack’s `lang` (not French-by-default) |
+
+Non-French packs should use `l2` for headwords. Do not remove gloss locale maps when adding L2 packs. Validate with `node scripts/validate-packs.mjs`.
 
 ## Levels
 
 | Level | Packs |
 |-------|--------|
-| A1 | Food, Home, Family, School, Weather, Animals, Clothes, Time, In town, Daily routine |
+| A1 | Food, Home, Family, School, Weather, Animals, Clothes, Time, In town, Daily routine (+ Spanish: Comida, Familia, Casa) |
 | A2 | Travel, Shopping, Health, Restaurant, Hobbies, Work, Directions, Housing, Phone, Celebrations |
 | B1 | Environment, Studies, Relationships, Money, Technology, News, Culture, Opinions, Nature, Admin |
 | B2 | Workplace, Media and news, Politics and citizenship, Science, Economy, Law and justice, Climate and energy, Psychology, Arts and film, Argumentation |
@@ -90,10 +107,11 @@ Hosting this repo as **public** is free. The app fetches:
 
 | Pack field | Feeds |
 |------------|--------|
-| `seed` | Cartes + Prononcer / Mots (required; each card: `fr`, legacy `en`, `gloss` `{en,es,ru}`, `example`, `ipa`, `article`; keep `id`s stable) |
-| `phrases` | Prononcer / Ombre (3–6 useful sentences) |
-| `listen` | Prononcer / Écoute + Écouter / spot (`word` + `distractors`) |
-| `prompts` | Écrire (3–4 writing prompts) |
+| `lang` | Practice language (L2) for the pack + catalog entry |
+| `seed` | Cartes + Prononcer / Mots (required; each card: `l2` preferred or legacy `fr`, legacy `en`, `gloss` `{en,es,ru}`, `example`, `ipa`, `article`; keep `id`s stable) |
+| `phrases` | Prononcer / Ombre (3–6 useful sentences in the pack’s `lang`) |
+| `listen` | Prononcer / Écoute + Écouter / spot (`word` + `distractors` in the pack’s `lang`) |
+| `prompts` | Écrire (3–4 writing prompts **in the pack’s `lang`**) |
 | `grammar` | Grammaire (1–2 lessons with `rule`, `table`, `questions`) |
 | `skills.<drillId>` | Studio drills for Écouter / Parler / Lire / Sens |
 | `sounds` | Prononcer / Sons (optional) |
@@ -107,13 +125,14 @@ Seed `example` sentences also let the app auto-derive many drills — still ship
 ## Add a pack
 
 1. Copy `_template.json` → `school-a2.json` (example)
-2. Set `id`, `level`, titles, and description
-3. Fill `seed` cards (natural French `example` on every card; keep card `id`s stable)
-4. Add `phrases` (3–6), `listen` (2–4), `prompts` (3–4), `grammar` (1–2), and `skills` (dictation / meaning / fren / aloud at minimum)
+2. Set `id`, `level`, `"lang"` (practice L2), titles, and description
+3. Fill `seed` cards with `l2` headwords (French packs may also keep legacy `fr`); natural `example` sentences in the pack’s `lang`; keep card `id`s stable
+4. Add `phrases` (3–6), `listen` (2–4), `prompts` (3–4 in the pack’s `lang`), `grammar` (1–2), and `skills` (dictation / meaning / fren / aloud at minimum)
 5. Bump `version` whenever content changes
-6. Add an entry to `catalog.json` with matching `id`, `version`, `cardCount`, and `"url": "./school-a2.json"`; set `updatedAt` to today
-7. Commit and push to `main`
-8. In Pratique → **Ajouter → Packs distants → GitHub → Charger**
+6. Add an entry to `catalog.json` with matching `id`, `version`, `lang`, `cardCount`, and `"url": "./school-a2.json"`; set `updatedAt` to today
+7. Run `node scripts/validate-packs.mjs`
+8. Commit and push to `main`
+9. In Pratique → **Ajouter → Packs distants → GitHub → Charger**
 
 ## Privacy split
 

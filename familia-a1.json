@@ -1,0 +1,317 @@
+{
+  "pratiquePack": 2,
+  "id": "familia-a1",
+  "version": 1,
+  "level": "a1",
+  "lang": "es",
+  "title": {
+    "fr": "Famille A1 (ES)",
+    "en": "Family A1 (ES)",
+    "es": "Familia A1",
+    "ru": "Семья А1 (ES)"
+  },
+  "description": {
+    "fr": "Membres de la famille et présentations simples — pack espagnol A1.",
+    "en": "Family members and simple introductions — Spanish A1 pack.",
+    "es": "Miembros de la familia y presentaciones sencillas para principiantes.",
+    "ru": "Члены семьи и простые представления — испанский пакет A1."
+  },
+  "seed": [
+    {
+      "id": "remote-familia-a1-1",
+      "l2": "madre",
+      "en": "mother",
+      "gloss": { "en": "mother", "es": "madre", "ru": "мать" },
+      "example": "Mi madre se llama Ana.",
+      "ipa": "ˈma.ðɾe",
+      "article": "la"
+    },
+    {
+      "id": "remote-familia-a1-2",
+      "l2": "padre",
+      "en": "father",
+      "gloss": { "en": "father", "es": "padre", "ru": "отец" },
+      "example": "Mi padre trabaja mucho.",
+      "ipa": "ˈpa.ðɾe",
+      "article": "el"
+    },
+    {
+      "id": "remote-familia-a1-3",
+      "l2": "hermano",
+      "en": "brother",
+      "gloss": { "en": "brother", "es": "hermano", "ru": "брат" },
+      "example": "Tengo un hermano.",
+      "ipa": "eɾ.ˈma.no",
+      "article": "el"
+    },
+    {
+      "id": "remote-familia-a1-4",
+      "l2": "hermana",
+      "en": "sister",
+      "gloss": { "en": "sister", "es": "hermana", "ru": "сестра" },
+      "example": "Mi hermana es alta.",
+      "ipa": "eɾ.ˈma.na",
+      "article": "la"
+    },
+    {
+      "id": "remote-familia-a1-5",
+      "l2": "hijo",
+      "en": "son",
+      "gloss": { "en": "son", "es": "hijo", "ru": "сын" },
+      "example": "Su hijo tiene cinco años.",
+      "ipa": "ˈi.xo",
+      "article": "el"
+    },
+    {
+      "id": "remote-familia-a1-6",
+      "l2": "hija",
+      "en": "daughter",
+      "gloss": { "en": "daughter", "es": "hija", "ru": "дочь" },
+      "example": "Su hija estudia español.",
+      "ipa": "ˈi.xa",
+      "article": "la"
+    },
+    {
+      "id": "remote-familia-a1-7",
+      "l2": "abuelo",
+      "en": "grandfather",
+      "gloss": { "en": "grandfather", "es": "abuelo", "ru": "дедушка" },
+      "example": "El abuelo vive cerca.",
+      "ipa": "a.ˈβwe.lo",
+      "article": "el"
+    },
+    {
+      "id": "remote-familia-a1-8",
+      "l2": "abuela",
+      "en": "grandmother",
+      "gloss": { "en": "grandmother", "es": "abuela", "ru": "бабушка" },
+      "example": "La abuela cocina bien.",
+      "ipa": "a.ˈβwe.la",
+      "article": "la"
+    },
+    {
+      "id": "remote-familia-a1-9",
+      "l2": "amigo",
+      "en": "friend (m.)",
+      "gloss": { "en": "friend (m.)", "es": "amigo", "ru": "друг" },
+      "example": "Este es mi amigo.",
+      "ipa": "a.ˈmi.ɣo",
+      "article": "el"
+    },
+    {
+      "id": "remote-familia-a1-10",
+      "l2": "amiga",
+      "en": "friend (f.)",
+      "gloss": { "en": "friend (f.)", "es": "amiga", "ru": "подруга" },
+      "example": "Ella es mi amiga.",
+      "ipa": "a.ˈmi.ɣa",
+      "article": "la"
+    },
+    {
+      "id": "remote-familia-a1-11",
+      "l2": "familia",
+      "en": "family",
+      "gloss": { "en": "family", "es": "familia", "ru": "семья" },
+      "example": "Mi familia es grande.",
+      "ipa": "fa.ˈmi.lja",
+      "article": "la"
+    },
+    {
+      "id": "remote-familia-a1-12",
+      "l2": "nombre",
+      "en": "name",
+      "gloss": { "en": "name", "es": "nombre", "ru": "имя" },
+      "example": "¿Cuál es tu nombre?",
+      "ipa": "ˈnom.bɾe",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-familia-a1-phrase-1",
+      "l2": "Esta es mi madre.",
+      "en": "This is my mother.",
+      "gloss": {
+        "en": "This is my mother.",
+        "es": "Esta es mi madre.",
+        "ru": "Это моя мама."
+      },
+      "ipa": "ˈes.ta es mi ˈma.ðɾe"
+    },
+    {
+      "id": "remote-familia-a1-phrase-2",
+      "l2": "Tengo un hermano y una hermana.",
+      "en": "I have a brother and a sister.",
+      "gloss": {
+        "en": "I have a brother and a sister.",
+        "es": "Tengo un hermano y una hermana.",
+        "ru": "У меня есть брат и сестра."
+      },
+      "ipa": "ˈteŋ.ɡo un eɾ.ˈma.no i ˈu.na eɾ.ˈma.na"
+    },
+    {
+      "id": "remote-familia-a1-phrase-3",
+      "l2": "¿Cuál es tu nombre?",
+      "en": "What is your name?",
+      "gloss": {
+        "en": "What is your name?",
+        "es": "¿Cuál es tu nombre?",
+        "ru": "Как тебя зовут?"
+      },
+      "ipa": "kwal es tu ˈnom.bɾe"
+    },
+    {
+      "id": "remote-familia-a1-phrase-4",
+      "l2": "Mi familia es pequeña.",
+      "en": "My family is small.",
+      "gloss": {
+        "en": "My family is small.",
+        "es": "Mi familia es pequeña.",
+        "ru": "Моя семья маленькая."
+      },
+      "ipa": "mi fa.ˈmi.lja es pe.ˈke.ɲa"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-familia-a1-listen-1",
+      "l2": "Mi padre trabaja mucho.",
+      "en": "My father works a lot.",
+      "gloss": {
+        "en": "My father works a lot.",
+        "es": "Mi padre trabaja mucho.",
+        "ru": "Мой отец много работает."
+      },
+      "word": "padre",
+      "wordEn": "father",
+      "wordGloss": { "en": "father", "es": "padre", "ru": "отец" },
+      "wordIpa": "ˈpa.ðɾe",
+      "distractors": ["madre", "hermano", "amigo"]
+    },
+    {
+      "id": "remote-familia-a1-listen-2",
+      "l2": "La abuela cocina bien.",
+      "en": "Grandmother cooks well.",
+      "gloss": {
+        "en": "Grandmother cooks well.",
+        "es": "La abuela cocina bien.",
+        "ru": "Бабушка хорошо готовит."
+      },
+      "word": "abuela",
+      "wordEn": "grandmother",
+      "wordGloss": { "en": "grandmother", "es": "abuela", "ru": "бабушка" },
+      "wordIpa": "a.ˈβwe.la",
+      "distractors": ["abuelo", "hija", "amiga"]
+    }
+  ],
+  "prompts": [
+    "Preséntate: ¿cómo te llamas?",
+    "Describe a tu familia en tres frases.",
+    "¿Tienes hermanos? ¿Cuántos?",
+    "Habla de un amigo o una amiga."
+  ],
+  "grammar": [
+    {
+      "id": "remote-familia-a1-grammar-1",
+      "title": {
+        "fr": "Possessifs mi / tu / su",
+        "en": "Possessives mi / tu / su",
+        "es": "Posesivos mi / tu / su",
+        "ru": "Притяжательные mi / tu / su"
+      },
+      "rule": {
+        "fr": "mi madre, tu padre, su hermana — pas de genre sur mi/tu/su.",
+        "en": "mi madre, tu padre, su hermana — mi/tu/su do not change for gender.",
+        "es": "mi madre, tu padre, su hermana — mi/tu/su no cambian de género.",
+        "ru": "mi madre, tu padre, su hermana — mi/tu/su не меняются по роду."
+      },
+      "why": {
+        "en": "Lets you talk about people in your family.",
+        "es": "Sirve para hablar de las personas de tu familia.",
+        "ru": "Позволяет говорить о членах семьи."
+      },
+      "table": [
+        ["Posesivo", "Ejemplo"],
+        ["mi", "mi madre"],
+        ["tu", "tu padre"],
+        ["su", "su hermana"]
+      ],
+      "questions": [
+        {
+          "id": "remote-familia-a1-gq-1",
+          "prompt": "Completa: ___ hermana se llama Lucía.",
+          "answer": "Mi",
+          "options": ["Mi", "Tus", "Los"]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-familia-a1-dict-1",
+        "l2": "Esta es mi madre.",
+        "en": "This is my mother.",
+        "gloss": {
+          "en": "This is my mother.",
+          "es": "Esta es mi madre.",
+          "ru": "Это моя мама."
+        },
+        "ipa": "ˈes.ta es mi ˈma.ðɾe"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-familia-a1-mean-1",
+        "l2": "Tengo un hermano.",
+        "en": "I have a brother.",
+        "gloss": {
+          "en": "I have a brother.",
+          "es": "Tengo un hermano.",
+          "ru": "У меня есть брат."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-familia-a1-fren-1",
+        "l2": "madre",
+        "en": "mother",
+        "gloss": { "en": "mother", "es": "madre", "ru": "мать" }
+      },
+      {
+        "id": "remote-familia-a1-fren-2",
+        "l2": "padre",
+        "en": "father",
+        "gloss": { "en": "father", "es": "padre", "ru": "отец" }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-familia-a1-aloud-1",
+        "l2": "Mi familia es grande.",
+        "en": "My family is big.",
+        "gloss": {
+          "en": "My family is big.",
+          "es": "Mi familia es grande.",
+          "ru": "Моя семья большая."
+        },
+        "ipa": "mi fa.ˈmi.lja es ˈɡɾan.de"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-familia-a1-unsc-1",
+        "l2": "Tengo una hermana.",
+        "en": "I have a sister.",
+        "gloss": {
+          "en": "I have a sister.",
+          "es": "Tengo una hermana.",
+          "ru": "У меня есть сестра."
+        },
+        "words": ["Tengo", "una", "hermana."]
+      }
+    ]
+  },
+  "sounds": []
+}

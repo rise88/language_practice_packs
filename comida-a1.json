@@ -1,0 +1,322 @@
+{
+  "pratiquePack": 2,
+  "id": "comida-a1",
+  "version": 1,
+  "level": "a1",
+  "lang": "es",
+  "title": {
+    "fr": "Nourriture A1 (ES)",
+    "en": "Food A1 (ES)",
+    "es": "Comida A1",
+    "ru": "Еда А1 (ES)"
+  },
+  "description": {
+    "fr": "Café, marché et repas du quotidien — pack espagnol A1.",
+    "en": "Café, market, and everyday meals — Spanish A1 pack.",
+    "es": "Café, mercado y comidas diarias para principiantes de español.",
+    "ru": "Кафе, рынок и повседневное питание — испанский пакет A1."
+  },
+  "seed": [
+    {
+      "id": "remote-comida-a1-1",
+      "l2": "pan",
+      "en": "bread",
+      "gloss": { "en": "bread", "es": "pan", "ru": "хлеб" },
+      "example": "Como pan por la mañana.",
+      "ipa": "pan",
+      "article": "el"
+    },
+    {
+      "id": "remote-comida-a1-2",
+      "l2": "agua",
+      "en": "water",
+      "gloss": { "en": "water", "es": "agua", "ru": "вода" },
+      "example": "Quiero un vaso de agua.",
+      "ipa": "ˈa.ɣwa",
+      "article": "el"
+    },
+    {
+      "id": "remote-comida-a1-3",
+      "l2": "café",
+      "en": "coffee",
+      "gloss": { "en": "coffee", "es": "café", "ru": "кофе" },
+      "example": "Tomo un café con leche.",
+      "ipa": "ka.ˈfe",
+      "article": "el"
+    },
+    {
+      "id": "remote-comida-a1-4",
+      "l2": "leche",
+      "en": "milk",
+      "gloss": { "en": "milk", "es": "leche", "ru": "молоко" },
+      "example": "La leche está fría.",
+      "ipa": "ˈle.tʃe",
+      "article": "la"
+    },
+    {
+      "id": "remote-comida-a1-5",
+      "l2": "manzana",
+      "en": "apple",
+      "gloss": { "en": "apple", "es": "manzana", "ru": "яблоко" },
+      "example": "Como una manzana.",
+      "ipa": "man.ˈθa.na",
+      "article": "la"
+    },
+    {
+      "id": "remote-comida-a1-6",
+      "l2": "queso",
+      "en": "cheese",
+      "gloss": { "en": "cheese", "es": "queso", "ru": "сыр" },
+      "example": "El queso es delicioso.",
+      "ipa": "ˈke.so",
+      "article": "el"
+    },
+    {
+      "id": "remote-comida-a1-7",
+      "l2": "arroz",
+      "en": "rice",
+      "gloss": { "en": "rice", "es": "arroz", "ru": "рис" },
+      "example": "Hay arroz con pollo.",
+      "ipa": "a.ˈroθ",
+      "article": "el"
+    },
+    {
+      "id": "remote-comida-a1-8",
+      "l2": "pollo",
+      "en": "chicken",
+      "gloss": { "en": "chicken", "es": "pollo", "ru": "курица" },
+      "example": "El pollo está en el plato.",
+      "ipa": "ˈpo.ʎo",
+      "article": "el"
+    },
+    {
+      "id": "remote-comida-a1-9",
+      "l2": "fruta",
+      "en": "fruit",
+      "gloss": { "en": "fruit", "es": "fruta", "ru": "фрукт" },
+      "example": "Me gusta la fruta fresca.",
+      "ipa": "ˈfɾu.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-comida-a1-10",
+      "l2": "jugo",
+      "en": "juice",
+      "gloss": { "en": "juice", "es": "jugo", "ru": "сок" },
+      "example": "Pido un jugo de naranja.",
+      "ipa": "ˈxu.ɣo",
+      "article": "el"
+    },
+    {
+      "id": "remote-comida-a1-11",
+      "l2": "desayuno",
+      "en": "breakfast",
+      "gloss": { "en": "breakfast", "es": "desayuno", "ru": "завтрак" },
+      "example": "El desayuno es a las ocho.",
+      "ipa": "de.sa.ˈʝu.no",
+      "article": "el"
+    },
+    {
+      "id": "remote-comida-a1-12",
+      "l2": "cuenta",
+      "en": "bill / check",
+      "gloss": { "en": "bill / check", "es": "cuenta", "ru": "счёт" },
+      "example": "La cuenta, por favor.",
+      "ipa": "ˈkwen.ta",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-comida-a1-phrase-1",
+      "l2": "Quiero un café, por favor.",
+      "en": "I would like a coffee, please.",
+      "gloss": {
+        "en": "I would like a coffee, please.",
+        "es": "Quiero un café, por favor.",
+        "ru": "Кофе, пожалуйста."
+      },
+      "ipa": "ˈkje.ɾo un ka.ˈfe poɾ fa.ˈβoɾ"
+    },
+    {
+      "id": "remote-comida-a1-phrase-2",
+      "l2": "¿Cuánto cuesta el pan?",
+      "en": "How much is the bread?",
+      "gloss": {
+        "en": "How much is the bread?",
+        "es": "¿Cuánto cuesta el pan?",
+        "ru": "Сколько стоит хлеб?"
+      },
+      "ipa": "ˈkwan.to ˈkwes.ta el pan"
+    },
+    {
+      "id": "remote-comida-a1-phrase-3",
+      "l2": "Me gusta la fruta.",
+      "en": "I like fruit.",
+      "gloss": {
+        "en": "I like fruit.",
+        "es": "Me gusta la fruta.",
+        "ru": "Мне нравятся фрукты."
+      },
+      "ipa": "me ˈɣus.ta la ˈfɾu.ta"
+    },
+    {
+      "id": "remote-comida-a1-phrase-4",
+      "l2": "La cuenta, por favor.",
+      "en": "The bill, please.",
+      "gloss": {
+        "en": "The bill, please.",
+        "es": "La cuenta, por favor.",
+        "ru": "Счёт, пожалуйста."
+      },
+      "ipa": "la ˈkwen.ta poɾ fa.ˈβoɾ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-comida-a1-listen-1",
+      "l2": "Tomo un café con leche.",
+      "en": "I have a coffee with milk.",
+      "gloss": {
+        "en": "I have a coffee with milk.",
+        "es": "Tomo un café con leche.",
+        "ru": "Я пью кофе с молоком."
+      },
+      "word": "café",
+      "wordEn": "coffee",
+      "wordGloss": { "en": "coffee", "es": "café", "ru": "кофе" },
+      "wordIpa": "ka.ˈfe",
+      "distractors": ["agua", "jugo", "pan"]
+    },
+    {
+      "id": "remote-comida-a1-listen-2",
+      "l2": "Como una manzana después del almuerzo.",
+      "en": "I eat an apple after lunch.",
+      "gloss": {
+        "en": "I eat an apple after lunch.",
+        "es": "Como una manzana después del almuerzo.",
+        "ru": "Я ем яблоко после обеда."
+      },
+      "word": "manzana",
+      "wordEn": "apple",
+      "wordGloss": { "en": "apple", "es": "manzana", "ru": "яблоко" },
+      "wordIpa": "man.ˈθa.na",
+      "distractors": ["queso", "arroz", "pollo"]
+    }
+  ],
+  "prompts": [
+    "¿Qué comes por la mañana?",
+    "Pide algo en un café.",
+    "¿Qué frutas te gustan?",
+    "Describe tu comida favorita en tres frases."
+  ],
+  "grammar": [
+    {
+      "id": "remote-comida-a1-grammar-1",
+      "title": {
+        "fr": "Articles définis (el / la)",
+        "en": "Definite articles (el / la)",
+        "es": "Artículos definidos (el / la)",
+        "ru": "Определённые артикли (el / la)"
+      },
+      "rule": {
+        "fr": "el + masculin ; la + féminin : el pan, la leche.",
+        "en": "el + masculine; la + feminine: el pan, la leche.",
+        "es": "el + masculino; la + femenino: el pan, la leche.",
+        "ru": "el + мужской род; la + женский род: el pan, la leche."
+      },
+      "why": {
+        "en": "Helps you name food items correctly.",
+        "es": "Ayuda a nombrar alimentos correctamente.",
+        "ru": "Помогает правильно называть продукты."
+      },
+      "table": [
+        ["Artículo", "Sustantivo", "Ejemplo"],
+        ["el", "pan", "el pan"],
+        ["la", "leche", "la leche"]
+      ],
+      "questions": [
+        {
+          "id": "remote-comida-a1-gq-1",
+          "prompt": "Completa: ___ café.",
+          "answer": "el",
+          "options": ["el", "la", "los"]
+        },
+        {
+          "id": "remote-comida-a1-gq-2",
+          "prompt": "Completa: ___ manzana.",
+          "answer": "la",
+          "options": ["el", "la", "los"]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-comida-a1-dict-1",
+        "l2": "Quiero un vaso de agua.",
+        "en": "I want a glass of water.",
+        "gloss": {
+          "en": "I want a glass of water.",
+          "es": "Quiero un vaso de agua.",
+          "ru": "Я хочу стакан воды."
+        },
+        "ipa": "ˈkje.ɾo un ˈba.so de ˈa.ɣwa"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-comida-a1-mean-1",
+        "l2": "El queso es delicioso.",
+        "en": "The cheese is delicious.",
+        "gloss": {
+          "en": "The cheese is delicious.",
+          "es": "El queso es delicioso.",
+          "ru": "Сыр вкусный."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-comida-a1-fren-1",
+        "l2": "pan",
+        "en": "bread",
+        "gloss": { "en": "bread", "es": "pan", "ru": "хлеб" }
+      },
+      {
+        "id": "remote-comida-a1-fren-2",
+        "l2": "agua",
+        "en": "water",
+        "gloss": { "en": "water", "es": "agua", "ru": "вода" }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-comida-a1-aloud-1",
+        "l2": "Me gusta la fruta fresca.",
+        "en": "I like fresh fruit.",
+        "gloss": {
+          "en": "I like fresh fruit.",
+          "es": "Me gusta la fruta fresca.",
+          "ru": "Мне нравятся свежие фрукты."
+        },
+        "ipa": "me ˈɣus.ta la ˈfɾu.ta ˈfɾes.ka"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-comida-a1-unsc-1",
+        "l2": "Como pan por la mañana.",
+        "en": "I eat bread in the morning.",
+        "gloss": {
+          "en": "I eat bread in the morning.",
+          "es": "Como pan por la mañana.",
+          "ru": "Я ем хлеб утром."
+        },
+        "words": ["Como", "pan", "por", "la", "mañana."]
+      }
+    ]
+  },
+  "sounds": []
+}

@@ -3,6 +3,7 @@
   "id": "my-topic-a2",
   "version": 1,
   "level": "a2",
+  "lang": "fr",
   "title": {
     "fr": "Mon thème A2",
     "en": "My topic A2",
@@ -10,14 +11,15 @@
     "ru": "Моя тема A2"
   },
   "description": {
-    "fr": "Schéma v2 : seed.gloss + wordGloss (Cartes / Prononcer), phrases.gloss, grammar title/rule/why en cartes de locales, prompts FR only.",
-    "en": "v2 schema: seed.gloss + wordGloss (Cards / Prononcer), phrases.gloss, grammar title/rule/why as locale maps; prompts stay French-only.",
-    "es": "Esquema v2: seed.gloss + wordGloss, phrases.gloss, grammar title/rule/why como mapas de locales; prompts solo en francés.",
-    "ru": "Схема v2: seed.gloss + wordGloss, phrases.gloss, grammar title/rule/why как карты локалей; prompts только на французском."
+    "fr": "Schéma v2 : lang (L2) + seed.l2 (alias legacy seed.fr pour le français) ; gloss / wordGloss ; prompts dans la langue de pratique.",
+    "en": "v2 schema: lang (L2) + seed.l2 (legacy seed.fr alias for French); gloss / wordGloss; prompts in the practice language.",
+    "es": "Esquema v2: lang (L2) + seed.l2 (alias legacy seed.fr para francés); gloss / wordGloss; prompts en la lengua de práctica.",
+    "ru": "Схема v2: lang (L2) + seed.l2 (устаревший alias seed.fr для французского); gloss / wordGloss; prompts на языке практики."
   },
   "seed": [
     {
       "id": "remote-my-topic-a2-1",
+      "l2": "exemple",
       "fr": "exemple",
       "en": "example",
       "gloss": {
@@ -65,7 +67,7 @@
     }
   ],
   "prompts": [
-    "Prompt d’écriture pour le mode Écrire.",
+    "Prompt d’écriture pour le mode Écrire (dans la langue de pratique du pack).",
     "Second prompt d’écriture.",
     "Troisième prompt d’écriture."
   ],
@@ -132,6 +134,7 @@
     "fren": [
       {
         "id": "remote-my-topic-fren-1",
+        "l2": "exemple",
         "fr": "exemple",
         "en": "example",
         "gloss": {
@@ -170,6 +173,7 @@
     "signs": [
       {
         "id": "remote-my-topic-sign-1",
+        "l2": "sortie",
         "fr": "sortie",
         "en": "exit",
         "gloss": {
