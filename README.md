@@ -71,7 +71,9 @@ Hosting this repo as **public** is free. The app fetches:
 | `rights-c2.json` | Fundamental rights C2 pack |
 | `science-c2.json` | Scientific knowledge C2 pack |
 | `register-c2.json` | Registers and nuances C2 pack |
-| `_template.json` | Copy this to add a new pack |
+| `_template.json` | Copy this to add a new pack (pratiquePack **v2** gloss schema) |
+| `ADD-LANGUAGE.md` | How to add gloss locales (en/es/ru) |
+| `scripts/migrate-gloss.mjs` | Lift v1 flat `en` → `gloss.en` |
 
 ## Levels
 
@@ -88,7 +90,7 @@ Hosting this repo as **public** is free. The app fetches:
 
 | Pack field | Feeds |
 |------------|--------|
-| `seed` | Cartes + Prononcer / Mots (required; each card: `fr`, `en`, `example`, `ipa`, `article`; keep `id`s stable) |
+| `seed` | Cartes + Prononcer / Mots (required; each card: `fr`, legacy `en`, `gloss` `{en,es,ru}`, `example`, `ipa`, `article`; keep `id`s stable) |
 | `phrases` | Prononcer / Ombre (3–6 useful sentences) |
 | `listen` | Prononcer / Écoute + Écouter / spot (`word` + `distractors`) |
 | `prompts` | Écrire (3–4 writing prompts) |

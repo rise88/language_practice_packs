@@ -1,15 +1,19 @@
 {
   "pratiquePack": 2,
   "id": "society-c1",
-  "version": 1,
+  "version": 2,
   "level": "c1",
   "title": {
     "fr": "Enjeux sociaux C1",
-    "en": "Social issues C1"
+    "en": "Social issues C1",
+    "es": "Cuestiones sociales C1",
+    "ru": "Социальные вопросы C1"
   },
   "description": {
     "fr": "Inégalités, inclusion, polarisation, État-providence et stigmates.",
-    "en": "Inequality, inclusion, polarization, welfare, and stigma."
+    "en": "Inequality, inclusion, polarization, welfare, and stigma.",
+    "es": "Desigualdad, inclusión, polarización, bienestar y estigma.",
+    "ru": "Неравенство, инклюзивность, поляризация, благосостояние и стигма."
   },
   "seed": [
     {
@@ -20,7 +24,9 @@
       "ipa": "i.ne.ɡa.li.te",
       "article": "l'",
       "gloss": {
-        "en": "inequality"
+        "en": "inequality",
+        "es": "desigualdad",
+        "ru": "неравенство"
       }
     },
     {
@@ -31,7 +37,9 @@
       "ipa": "ɛ̃.kly.zjɔ̃",
       "article": "l'",
       "gloss": {
-        "en": "inclusion"
+        "en": "inclusion",
+        "es": "inclusión",
+        "ru": "включение"
       }
     },
     {
@@ -42,7 +50,9 @@
       "ipa": "pɔ.la.ʁi.za.sjɔ̃",
       "article": "la",
       "gloss": {
-        "en": "polarization"
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
       }
     },
     {
@@ -53,7 +63,9 @@
       "ipa": "e.ta pʁɔ.vi.dɑ̃s",
       "article": "l'",
       "gloss": {
-        "en": "welfare state"
+        "en": "welfare state",
+        "es": "estado de bienestar",
+        "ru": "государство всеобщего благосостояния"
       }
     },
     {
@@ -64,7 +76,9 @@
       "ipa": "stiɡ.mat",
       "article": "le",
       "gloss": {
-        "en": "stigma"
+        "en": "stigma",
+        "es": "estigma",
+        "ru": "клеймо"
       }
     },
     {
@@ -75,7 +89,9 @@
       "ipa": "pʁe.ka.ʁi.te",
       "article": "la",
       "gloss": {
-        "en": "precariousness"
+        "en": "precariousness",
+        "es": "precariedad",
+        "ru": "ненадежность"
       }
     },
     {
@@ -86,7 +102,9 @@
       "ipa": "dis.kʁi.mi.na.sjɔ̃",
       "article": "la",
       "gloss": {
-        "en": "discrimination"
+        "en": "discrimination",
+        "es": "discriminación",
+        "ru": "дискриминация"
       }
     },
     {
@@ -97,7 +115,9 @@
       "ipa": "kɔ.e.zjɔ̃",
       "article": "la",
       "gloss": {
-        "en": "cohesion"
+        "en": "cohesion",
+        "es": "cohesión",
+        "ru": "сплоченность"
       }
     },
     {
@@ -108,7 +128,9 @@
       "ipa": "maʁ.ʒi.na.li.za.sjɔ̃",
       "article": "la",
       "gloss": {
-        "en": "marginalization"
+        "en": "marginalization",
+        "es": "marginalización",
+        "ru": "маргинализация"
       }
     },
     {
@@ -119,7 +141,9 @@
       "ipa": "me.ʁi.tɔ.kʁa.si",
       "article": "la",
       "gloss": {
-        "en": "meritocracy"
+        "en": "meritocracy",
+        "es": "meritocracia",
+        "ru": "меритократия"
       }
     },
     {
@@ -130,7 +154,9 @@
       "ipa": "se.ɡʁe.ɡa.sjɔ̃",
       "article": "la",
       "gloss": {
-        "en": "segregation"
+        "en": "segregation",
+        "es": "segregación",
+        "ru": "сегрегация"
       }
     },
     {
@@ -141,7 +167,9 @@
       "ipa": "sɔ.li.da.ʁi.te",
       "article": "la",
       "gloss": {
-        "en": "solidarity"
+        "en": "solidarity",
+        "es": "solidaridad",
+        "ru": "солидарность"
       }
     },
     {
@@ -152,7 +180,9 @@
       "ipa": "fʁak.tyʁ",
       "article": "la",
       "gloss": {
-        "en": "divide"
+        "en": "divide",
+        "es": "dividir",
+        "ru": "разделять"
       }
     },
     {
@@ -163,7 +193,9 @@
       "ipa": "o.tɔ.nɔ.mi.za.sjɔ̃",
       "article": "l'",
       "gloss": {
-        "en": "empowerment"
+        "en": "empowerment",
+        "es": "empoderamiento",
+        "ru": "расширение прав и возможностей"
       }
     },
     {
@@ -174,7 +206,9 @@
       "ipa": "ɛ̃.tɛʁ.sɛk.sjɔ.na.li.te",
       "article": "l'",
       "gloss": {
-        "en": "intersectionality"
+        "en": "intersectionality",
+        "es": "interseccionalidad",
+        "ru": "интерсекциональность"
       }
     },
     {
@@ -185,7 +219,9 @@
       "ipa": "ʁə.dis.tʁi.by.sjɔ̃",
       "article": "la",
       "gloss": {
-        "en": "redistribution"
+        "en": "redistribution",
+        "es": "redistribución",
+        "ru": "перераспределение"
       }
     },
     {
@@ -196,7 +232,9 @@
       "ipa": "si.twa.jɛ.nə.te",
       "article": "la",
       "gloss": {
-        "en": "citizenship"
+        "en": "citizenship",
+        "es": "ciudadanía",
+        "ru": "гражданство"
       }
     },
     {
@@ -207,7 +245,9 @@
       "ipa": "a.si.ɲa.sjɔ̃",
       "article": "l'",
       "gloss": {
-        "en": "ascription / labeling"
+        "en": "ascription / labeling",
+        "es": "adscripción / etiquetado",
+        "ru": "приписывание/маркировка"
       }
     },
     {
@@ -218,7 +258,9 @@
       "ipa": "ɡɛ.tɔ.i.za.sjɔ̃",
       "article": "la",
       "gloss": {
-        "en": "ghettoization"
+        "en": "ghettoization",
+        "es": "guetización",
+        "ru": "геттоизация"
       }
     },
     {
@@ -229,7 +271,9 @@
       "ipa": "mik.si.te",
       "article": "la",
       "gloss": {
-        "en": "social mix"
+        "en": "social mix",
+        "es": "mezcla social",
+        "ru": "социальный микс"
       }
     }
   ],
@@ -240,7 +284,9 @@
       "en": "Even though social mix is advertised, school segregation remains massive.",
       "ipa": "ɑ̃.kɔʁ kə la mik.si.te swa a.fi.ʃe la se.ɡʁe.ɡa.sjɔ̃ skɔ.lɛʁ də.mœʁ ma.siv",
       "gloss": {
-        "en": "Even though social mix is advertised, school segregation remains massive."
+        "en": "Even though social mix is advertised, school segregation remains massive.",
+        "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+        "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
       }
     },
     {
@@ -249,7 +295,9 @@
       "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
       "ipa": "lwɛ̃ dɛtʁ œ̃ slɔ.ɡan lɛ̃.kly.zjɔ̃ ɛɡ.ziʒ kɔ̃ tʁɑ̃s.fɔʁm le dis.pɔ.zi.tif dɛk.sky.zjɔ̃",
       "gloss": {
-        "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion."
+        "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+        "es": "Lejos de ser un eslogan, la inclusión requiere transformar los mecanismos de exclusión.",
+        "ru": "Инклюзия – это не лозунг, а требует трансформации механизмов исключения."
       }
     },
     {
@@ -258,7 +306,9 @@
       "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
       "ipa": "a mwɛ̃ kə lə stiɡ.mat nə swa nɔ.me nyl me.ʁi.tɔ.kʁa.si nə kɔ.ʁi.ʒə.ʁa le tʁa.ʒɛk.twaʁ",
       "gloss": {
-        "en": "Unless stigma is named as such, no meritocracy will correct these trajectories."
+        "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+        "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+        "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
       }
     },
     {
@@ -267,7 +317,9 @@
       "en": "Even at the cost of polarizing the debate, one must say that precariousness erodes citizenship.",
       "ipa": "kit a pɔ.la.ʁi.ze lə de.ba il fo diʁ kə la pʁe.ka.ʁi.te e.ʁɔd la si.twa.jɛ.nə.te",
       "gloss": {
-        "en": "Even at the cost of polarizing the debate, one must say that precariousness erodes citizenship."
+        "en": "Even at the cost of polarizing the debate, one must say that precariousness erodes citizenship.",
+        "es": "Incluso a costa de polarizar el debate, hay que decir que la precariedad erosiona la ciudadanía.",
+        "ru": "Даже ценой поляризации дебатов следует сказать, что нестабильность разрушает гражданство."
       }
     },
     {
@@ -276,7 +328,9 @@
       "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
       "ipa": "sɛ la ʁə.dis.tʁi.by.sjɔ̃ e nɔ̃ lɛ̃.ʒɔ̃k.sjɔ̃ a lo.tɔ.nɔ.mi.za.sjɔ̃ ki ʁe.dɥi li.ne.ɡa.li.te",
       "gloss": {
-        "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality."
+        "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
+        "es": "Es la redistribución, no el mandato de empoderarse, lo que reduce la desigualdad.",
+        "ru": "Именно перераспределение, а не предписание расширять свои возможности, уменьшает неравенство."
       }
     },
     {
@@ -285,7 +339,9 @@
       "en": "Polarization, blamed on platforms, is rooted in older divides.",
       "ipa": "la pɔ.la.ʁi.za.sjɔ̃ dɔ̃ nɔ̃ fɛ œ̃ mal de plat.fɔʁm sɑ̃.ʁa.sin dɑ̃ de fʁak.tyʁ ply zɑ̃.sjɛn",
       "gloss": {
-        "en": "Polarization, blamed on platforms, is rooted in older divides."
+        "en": "Polarization, blamed on platforms, is rooted in older divides.",
+        "es": "La polarización, atribuida a las plataformas, tiene sus raíces en divisiones más antiguas.",
+        "ru": "Поляризация, в которой обвиняют платформы, коренится в старых разногласиях."
       }
     }
   ],
@@ -303,10 +359,14 @@
         "fracture"
       ],
       "gloss": {
-        "en": "The welfare state remains the main lever for redistributing social risks."
+        "en": "The welfare state remains the main lever for redistributing social risks.",
+        "es": "El Estado de bienestar sigue siendo la principal palanca para redistribuir los riesgos sociales.",
+        "ru": "Государство всеобщего благосостояния остается основным рычагом перераспределения социальных рисков."
       },
       "wordGloss": {
-        "en": "welfare state"
+        "en": "welfare state",
+        "es": "estado de bienestar",
+        "ru": "государство всеобщего благосостояния"
       }
     },
     {
@@ -322,10 +382,14 @@
         "inclusion"
       ],
       "gloss": {
-        "en": "Stigma continues to assign trajectories that no meritocracy corrects."
+        "en": "Stigma continues to assign trajectories that no meritocracy corrects.",
+        "es": "El estigma sigue asignando trayectorias que ninguna meritocracia corrige.",
+        "ru": "Стигма продолжает определять траектории, которые не исправляет никакая меритократия."
       },
       "wordGloss": {
-        "en": "stigma"
+        "en": "stigma",
+        "es": "estigma",
+        "ru": "клеймо"
       }
     },
     {
@@ -341,10 +405,14 @@
         "marginalisation"
       ],
       "gloss": {
-        "en": "Polarization is rooted in divides that public debate no longer clarifies."
+        "en": "Polarization is rooted in divides that public debate no longer clarifies.",
+        "es": "La polarización tiene sus raíces en divisiones que el debate público ya no aclara.",
+        "ru": "Поляризация коренится в разногласиях, которые общественные дебаты больше не проясняют."
       },
       "wordGloss": {
-        "en": "polarization"
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
       }
     },
     {
@@ -360,10 +428,14 @@
         "ségrégation"
       ],
       "gloss": {
-        "en": "Discrimination operates through apparently neutral criteria whose effect is selective."
+        "en": "Discrimination operates through apparently neutral criteria whose effect is selective.",
+        "es": "La discriminación opera mediante criterios aparentemente neutrales cuyo efecto es selectivo.",
+        "ru": "Дискриминация осуществляется посредством явно нейтральных критериев, действие которых носит избирательный характер."
       },
       "wordGloss": {
-        "en": "discrimination"
+        "en": "discrimination",
+        "es": "discriminación",
+        "ru": "дискриминация"
       }
     }
   ],
@@ -378,10 +450,15 @@
       "id": "remote-society-grammar-1",
       "title": {
         "fr": "Mise en relief : c’est… qui / que",
-        "en": "Cleft sentences: c’est… qui / que"
+        "en": "Cleft sentences: c’est… qui / que",
+        "es": "Oraciones hendidas: c’est… qui / que",
+        "ru": "Расщелины предложений: c'est… qui / que"
       },
       "rule": {
-        "fr": "La mise en relief isole le terme argumentatif : C’est la redistribution qui réduit l’inégalité (sujet). C’est l’inégalité que l’on sous-estime (objet). Qui reprend un sujet ; que reprend un objet. Au passé, l’accord du participe suit le que."
+        "fr": "La mise en relief isole le terme argumentatif : C’est la redistribution qui réduit l’inégalité (sujet). C’est l’inégalité que l’on sous-estime (objet). Qui reprend un sujet ; que reprend un objet. Au passé, l’accord du participe suit le que.",
+        "en": "The emphasis isolates the argumentative term: It is redistribution which reduces inequality (subject). It is the inequality that we underestimate (object). Which takes up a subject; that an object takes. In the past, the participle agreement follows the que.",
+        "es": "El énfasis aísla el término argumentativo: Es la redistribución la que reduce la desigualdad (sujeto). Es la desigualdad lo que subestimamos (objeto). Que retoma un tema; que toma un objeto. En el pasado, el acuerdo de participio sigue a la que.",
+        "ru": "Акцент изолирует аргументативный термин: именно перераспределение уменьшает неравенство (субъект). Это неравенство, которое мы недооцениваем (объект). Это поднимает тему; что объект принимает. В прошедшем времени причастное соглашение следует за que."
       },
       "table": [
         [
@@ -442,16 +519,25 @@
           ]
         }
       ],
-      "why": {}
+      "why": {
+        "en": "Useful when you need to apply: Cleft sentences: c’est… qui / que.",
+        "es": "Útil cuando necesitas aplicar: Oraciones hendidas: c’est… qui / que.",
+        "ru": "Полезно, когда нужно применить: Расщепленные предложения: c’est… qui/que."
+      }
     },
     {
       "id": "remote-society-grammar-2",
       "title": {
         "fr": "Relatives avancées : dont / auquel / ce dont",
-        "en": "Advanced relatives: dont / auquel / ce dont"
+        "en": "Advanced relatives: dont / auquel / ce dont",
+        "es": "Parientes avanzados: dont / auquel / ce dont",
+        "ru": "Продвинутые родственники: dont/auquel/ce dont"
       },
       "rule": {
-        "fr": "Dont reprend de + nom (l’inégalité dont on parle). Auquel / à laquelle reprend à + nom. Ce dont nominalise (ce dont la citoyenneté a besoin). Ce à quoi reprend à + chose indéterminée."
+        "fr": "Dont reprend de + nom (l’inégalité dont on parle). Auquel / à laquelle reprend à + nom. Ce dont nominalise (ce dont la citoyenneté a besoin). Ce à quoi reprend à + chose indéterminée.",
+        "en": "Which takes from + noun (the inequality we are talking about). To which / to which resumes + noun. What nominalizes (what citizenship needs). What resumes from + indeterminate thing.",
+        "es": "Que toma de + sustantivo (la desigualdad de la que estamos hablando). A cual / a cual se reanuda + sustantivo. Lo que nominaliza (lo que necesita la ciudadanía). Lo que se reanuda a partir de + cosa indeterminada.",
+        "ru": "Что происходит от + существительное (неравенство, о котором мы говорим). К которому/к которому возобновляется + существительное. Что номинализирует (что нужно гражданству). Что возобновляется + неопределенная вещь."
       },
       "table": [
         [
@@ -502,7 +588,11 @@
           ]
         }
       ],
-      "why": {}
+      "why": {
+        "en": "Useful when you need to apply: Advanced relatives: dont / auquel / ce dont.",
+        "es": "Útil cuando es necesario aplicar: Familiares avanzados: dont/auquel/ce dont.",
+        "ru": "Полезно, когда нужно подать заявку: Продвинутые родственники: dont/auquel/ce dont."
+      }
     }
   ],
   "skills": {
@@ -513,7 +603,9 @@
         "en": "Even though social mix is advertised, school segregation remains massive.",
         "ipa": "ɑ̃.kɔʁ kə la mik.si.te swa a.fi.ʃe la se.ɡʁe.ɡa.sjɔ̃ skɔ.lɛʁ də.mœʁ ma.siv",
         "gloss": {
-          "en": "Even though social mix is advertised, school segregation remains massive."
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
         }
       },
       {
@@ -522,7 +614,9 @@
         "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
         "ipa": "lwɛ̃ dɛtʁ œ̃ slɔ.ɡan lɛ̃.kly.zjɔ̃ ɛɡ.ziʒ kɔ̃ tʁɑ̃s.fɔʁm le dis.pɔ.zi.tif dɛk.sky.zjɔ̃",
         "gloss": {
-          "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion."
+          "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+          "es": "Lejos de ser un eslogan, la inclusión requiere transformar los mecanismos de exclusión.",
+          "ru": "Инклюзия – это не лозунг, а требует трансформации механизмов исключения."
         }
       },
       {
@@ -531,7 +625,9 @@
         "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
         "ipa": "a mwɛ̃ kə lə stiɡ.mat nə swa nɔ.me nyl me.ʁi.tɔ.kʁa.si nə kɔ.ʁi.ʒə.ʁa le tʁa.ʒɛk.twaʁ",
         "gloss": {
-          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories."
+          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+          "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+          "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
         }
       }
     ],
@@ -541,7 +637,9 @@
         "fr": "Encore que la mixité soit affichée, la ségrégation scolaire demeure massive.",
         "en": "Even though social mix is advertised, school segregation remains massive.",
         "gloss": {
-          "en": "Even though social mix is advertised, school segregation remains massive."
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
         }
       },
       {
@@ -549,7 +647,9 @@
         "fr": "Loin d’être un slogan, l’inclusion exige que l’on transforme les dispositifs d’exclusion.",
         "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
         "gloss": {
-          "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion."
+          "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+          "es": "Lejos de ser un eslogan, la inclusión requiere transformar los mecanismos de exclusión.",
+          "ru": "Инклюзия – это не лозунг, а требует трансформации механизмов исключения."
         }
       },
       {
@@ -557,7 +657,9 @@
         "fr": "À moins que le stigmate ne soit nommé, nulle méritocratie ne corrigera les trajectoires.",
         "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
         "gloss": {
-          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories."
+          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+          "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+          "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
         }
       }
     ],
@@ -567,7 +669,9 @@
         "fr": "inégalité",
         "en": "inequality",
         "gloss": {
-          "en": "inequality"
+          "en": "inequality",
+          "es": "desigualdad",
+          "ru": "неравенство"
         }
       },
       {
@@ -575,7 +679,9 @@
         "fr": "inclusion",
         "en": "inclusion",
         "gloss": {
-          "en": "inclusion"
+          "en": "inclusion",
+          "es": "inclusión",
+          "ru": "включение"
         }
       },
       {
@@ -583,7 +689,9 @@
         "fr": "polarisation",
         "en": "polarization",
         "gloss": {
-          "en": "polarization"
+          "en": "polarization",
+          "es": "polarización",
+          "ru": "поляризация"
         }
       },
       {
@@ -591,7 +699,9 @@
         "fr": "État-providence",
         "en": "welfare state",
         "gloss": {
-          "en": "welfare state"
+          "en": "welfare state",
+          "es": "estado de bienestar",
+          "ru": "государство всеобщего благосостояния"
         }
       },
       {
@@ -599,7 +709,9 @@
         "fr": "stigmate",
         "en": "stigma",
         "gloss": {
-          "en": "stigma"
+          "en": "stigma",
+          "es": "estigma",
+          "ru": "клеймо"
         }
       },
       {
@@ -607,7 +719,9 @@
         "fr": "précarité",
         "en": "precariousness",
         "gloss": {
-          "en": "precariousness"
+          "en": "precariousness",
+          "es": "precariedad",
+          "ru": "ненадежность"
         }
       }
     ],
@@ -618,7 +732,9 @@
         "en": "Even though social mix is advertised, school segregation remains massive.",
         "ipa": "ɑ̃.kɔʁ kə la mik.si.te swa a.fi.ʃe la se.ɡʁe.ɡa.sjɔ̃ skɔ.lɛʁ də.mœʁ ma.siv",
         "gloss": {
-          "en": "Even though social mix is advertised, school segregation remains massive."
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
         }
       },
       {
@@ -627,7 +743,9 @@
         "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
         "ipa": "a mwɛ̃ kə lə stiɡ.mat nə swa nɔ.me nyl me.ʁi.tɔ.kʁa.si nə kɔ.ʁi.ʒə.ʁa le tʁa.ʒɛk.twaʁ",
         "gloss": {
-          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories."
+          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+          "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+          "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
         }
       },
       {
@@ -636,7 +754,9 @@
         "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
         "ipa": "sɛ la ʁə.dis.tʁi.by.sjɔ̃ e nɔ̃ lɛ̃.ʒɔ̃k.sjɔ̃ a lo.tɔ.nɔ.mi.za.sjɔ̃ ki ʁe.dɥi li.ne.ɡa.li.te",
         "gloss": {
-          "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality."
+          "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
+          "es": "Es la redistribución, no el mandato de empoderarse, lo que reduce la desigualdad.",
+          "ru": "Именно перераспределение, а не предписание расширять свои возможности, уменьшает неравенство."
         }
       }
     ],
@@ -659,7 +779,9 @@
           "massive."
         ],
         "gloss": {
-          "en": "Even though social mix is advertised, school segregation remains massive."
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
         }
       },
       {
@@ -679,7 +801,9 @@
           "l’autonomisation."
         ],
         "gloss": {
-          "en": "It is redistribution that reduces inequality, not the injunction to empower oneself."
+          "en": "It is redistribution that reduces inequality, not the injunction to empower oneself.",
+          "es": "Es la redistribución lo que reduce la desigualdad, no el mandato de empoderarse.",
+          "ru": "Именно перераспределение уменьшает неравенство, а не предписание расширять свои возможности."
         }
       }
     ]
