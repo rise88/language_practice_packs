@@ -1,0 +1,853 @@
+{
+  "pratiquePack": 2,
+  "id": "ciudad-a1",
+  "version": 1,
+  "level": "a1",
+  "lang": "es",
+  "title": {
+    "fr": "En ville A1 (ES)",
+    "en": "In town A1 (ES)",
+    "es": "En la ciudad A1",
+    "ru": "В городе А1 (ES)"
+  },
+  "description": {
+    "fr": "Lieux de la ville et phrases simples pour se déplacer — pack espagnol.",
+    "en": "Town places and simple phrases for getting around — Spanish pack.",
+    "es": "Lugares de la ciudad y frases sencillas para moverse para estudiar español.",
+    "ru": "Городские места и простые фразы для передвижения — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-ciudad-a1-1",
+      "l2": "pueblo",
+      "en": "town / city",
+      "gloss": {
+        "en": "town / city",
+        "es": "pueblo / ciudad",
+        "ru": "город / город"
+      },
+      "example": "Vivo en la ciudad.",
+      "ipa": "puˈeblo",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-2",
+      "l2": "calle",
+      "en": "street",
+      "gloss": {
+        "en": "street",
+        "es": "calle",
+        "ru": "улица"
+      },
+      "example": "Mi calle está tranquila.",
+      "ipa": "cˈa.ʎe",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciudad-a1-3",
+      "l2": "cuadrado",
+      "en": "square",
+      "gloss": {
+        "en": "square",
+        "es": "cuadrado",
+        "ru": "квадрат"
+      },
+      "example": "La plaza está en el centro.",
+      "ipa": "cuadrˈa.do",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-4",
+      "l2": "comercio",
+      "en": "shop",
+      "gloss": {
+        "en": "shop",
+        "es": "comercio",
+        "ru": "магазин"
+      },
+      "example": "La tienda abre a las nueve.",
+      "ipa": "co.merθˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-5",
+      "l2": "banco",
+      "en": "bank",
+      "gloss": {
+        "en": "bank",
+        "es": "banco",
+        "ru": "банк"
+      },
+      "example": "El banco está cerrado.",
+      "ipa": "bˈanco",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-6",
+      "l2": "oficina de correos",
+      "en": "post office",
+      "gloss": {
+        "en": "post office",
+        "es": "oficina de correos",
+        "ru": "почтовое отделение"
+      },
+      "example": "Envío una carta a la oficina de correos.",
+      "ipa": "o.fiθi.na de corˈeos",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-7",
+      "l2": "cine",
+      "en": "cinema",
+      "gloss": {
+        "en": "cinema",
+        "es": "cine",
+        "ru": "кино"
+      },
+      "example": "Vamos al cine.",
+      "ipa": "θˈi.ne",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-8",
+      "l2": "parque",
+      "en": "park",
+      "gloss": {
+        "en": "park",
+        "es": "parque",
+        "ru": "парк"
+      },
+      "example": "Los niños juegan en el parque.",
+      "ipa": "pˈarke",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-9",
+      "l2": "museo",
+      "en": "museum",
+      "gloss": {
+        "en": "museum",
+        "es": "museo",
+        "ru": "музей"
+      },
+      "example": "El museo es interesante.",
+      "ipa": "musˈeo",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-10",
+      "l2": "estación de tren",
+      "en": "train station",
+      "gloss": {
+        "en": "train station",
+        "es": "estación de tren",
+        "ru": "железнодорожная станция"
+      },
+      "example": "El tren sale de la estación.",
+      "ipa": "esta.θiˈon de tren",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-11",
+      "l2": "parada",
+      "en": "stop (bus)",
+      "gloss": {
+        "en": "stop (bus)",
+        "es": "parada (autobús)",
+        "ru": "остановка (автобус)"
+      },
+      "example": "La parada de autobús está ahí.",
+      "ipa": "parˈa.da",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciudad-a1-12",
+      "l2": "puente",
+      "en": "bridge",
+      "gloss": {
+        "en": "bridge",
+        "es": "puente",
+        "ru": "мост"
+      },
+      "example": "El puente cruza el río.",
+      "ipa": "puˈente",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciudad-a1-13",
+      "l2": "iglesia",
+      "en": "church",
+      "gloss": {
+        "en": "church",
+        "es": "iglesia",
+        "ru": "церковь"
+      },
+      "example": "La iglesia es vieja.",
+      "ipa": "iglesˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciudad-a1-14",
+      "l2": "biblioteca",
+      "en": "library",
+      "gloss": {
+        "en": "library",
+        "es": "biblioteca",
+        "ru": "библиотека"
+      },
+      "example": "Leo en la biblioteca.",
+      "ipa": "bibliotˈe.ca",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciudad-a1-15",
+      "l2": "vecindario",
+      "en": "neighborhood",
+      "gloss": {
+        "en": "neighborhood",
+        "es": "vecindario",
+        "ru": "район"
+      },
+      "example": "Mi barrio está vivo.",
+      "ipa": "be.θindarˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-16",
+      "l2": "centro de la ciudad",
+      "en": "town center",
+      "gloss": {
+        "en": "town center",
+        "es": "centro de la ciudad",
+        "ru": "центр города"
+      },
+      "example": "El centro de la ciudad es animado.",
+      "ipa": "θentro de la θiudˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciudad-a1-17",
+      "l2": "ayuntamiento",
+      "en": "town hall",
+      "gloss": {
+        "en": "town hall",
+        "es": "Ayuntamiento",
+        "ru": "ратуша"
+      },
+      "example": "El ayuntamiento está en la plaza.",
+      "ipa": "a.ʝunta.miˈento",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciudad-a1-18",
+      "l2": "farmacia",
+      "en": "pharmacy",
+      "gloss": {
+        "en": "pharmacy",
+        "es": "farmacia",
+        "ru": "аптека"
+      },
+      "example": "La farmacia está abierta.",
+      "ipa": "farmaθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciudad-a1-19",
+      "l2": "cafetería",
+      "en": "café",
+      "gloss": {
+        "en": "café",
+        "es": "cafetería",
+        "ru": "кафе"
+      },
+      "example": "Nos encontraremos en el café.",
+      "ipa": "ca.feterˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciudad-a1-20",
+      "l2": "mapa",
+      "en": "map",
+      "gloss": {
+        "en": "map",
+        "es": "mapa",
+        "ru": "карта"
+      },
+      "example": "Aquí tenéis un mapa de la ciudad.",
+      "ipa": "mˈa.pa",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-ciudad-a1-phrase-1",
+      "l2": "¿Dónde está la estación, por favor?",
+      "en": "Where is the station, please?",
+      "gloss": {
+        "en": "Where is the station, please?",
+        "es": "¿Dónde está la estación, por favor?",
+        "ru": "Подскажите, пожалуйста, где станция?"
+      },
+      "ipa": "dˈonde estˈa lˈa esta.θiˈon pˈor fabˈor"
+    },
+    {
+      "id": "remote-ciudad-a1-phrase-2",
+      "l2": "¿Está cerca de aquí?",
+      "en": "Is it near here?",
+      "gloss": {
+        "en": "Is it near here?",
+        "es": "¿Está cerca de aquí?",
+        "ru": "Это рядом здесь?"
+      },
+      "ipa": "estˈa θˈerca dˈe akˈi"
+    },
+    {
+      "id": "remote-ciudad-a1-phrase-3",
+      "l2": "La tienda está cerrada hoy.",
+      "en": "The shop is closed today.",
+      "gloss": {
+        "en": "The shop is closed today.",
+        "es": "La tienda está cerrada hoy.",
+        "ru": "Магазин сегодня закрыт."
+      },
+      "ipa": "lˈa tiˈenda estˈa θerˈa.da ˈoʝ"
+    },
+    {
+      "id": "remote-ciudad-a1-phrase-4",
+      "l2": "Vamos al parque.",
+      "en": "We’re going to the park.",
+      "gloss": {
+        "en": "We’re going to the park.",
+        "es": "Vamos al parque.",
+        "ru": "Мы идем в парк."
+      },
+      "ipa": "bˈa.mos ˈal pˈarke"
+    },
+    {
+      "id": "remote-ciudad-a1-phrase-5",
+      "l2": "Vivo en este barrio.",
+      "en": "I live in this neighborhood.",
+      "gloss": {
+        "en": "I live in this neighborhood.",
+        "es": "Vivo en este barrio.",
+        "ru": "Я живу в этом районе."
+      },
+      "ipa": "bˈi.bo ˈen ˈeste barˈio"
+    },
+    {
+      "id": "remote-ciudad-a1-phrase-6",
+      "l2": "Gire a la izquierda.",
+      "en": "Turn left.",
+      "gloss": {
+        "en": "Turn left.",
+        "es": "Gire a la izquierda.",
+        "ru": "Поверните налево."
+      },
+      "ipa": "xˈi.re ˈa lˈa izkiˈerda"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-ciudad-a1-listen-1",
+      "l2": "¿Dónde está la estación, por favor?",
+      "en": "Where is the station, please?",
+      "gloss": {
+        "en": "Where is the station, please?",
+        "es": "¿Dónde está la estación, por favor?",
+        "ru": "Подскажите, пожалуйста, где станция?"
+      },
+      "word": "estación de tren",
+      "wordEn": "station",
+      "wordGloss": {
+        "en": "station",
+        "es": "estación",
+        "ru": "станция"
+      },
+      "wordIpa": "esta.θiˈon de tren",
+      "distractors": [
+        "oficina de correos",
+        "ayuntamiento",
+        "banco"
+      ]
+    },
+    {
+      "id": "remote-ciudad-a1-listen-2",
+      "l2": "Esta tarde vamos al cine.",
+      "en": "We’re going to the cinema tonight.",
+      "gloss": {
+        "en": "We’re going to the cinema tonight.",
+        "es": "Esta noche vamos al cine.",
+        "ru": "Сегодня вечером мы идём в кино."
+      },
+      "word": "cine",
+      "wordEn": "cinema",
+      "wordGloss": {
+        "en": "cinema",
+        "es": "cine",
+        "ru": "кино"
+      },
+      "wordIpa": "θˈi.ne",
+      "distractors": [
+        "museo",
+        "parque",
+        "cafetería"
+      ]
+    },
+    {
+      "id": "remote-ciudad-a1-listen-3",
+      "l2": "La biblioteca abre a las diez en punto.",
+      "en": "The library opens at ten o’clock.",
+      "gloss": {
+        "en": "The library opens at ten o’clock.",
+        "es": "La biblioteca abre a las diez en punto.",
+        "ru": "Библиотека открывается в десять часов."
+      },
+      "word": "biblioteca",
+      "wordEn": "library",
+      "wordGloss": {
+        "en": "library",
+        "es": "biblioteca",
+        "ru": "библиотека"
+      },
+      "wordIpa": "bibliotˈe.ca",
+      "distractors": [
+        "farmacia",
+        "ayuntamiento",
+        "iglesia"
+      ]
+    },
+    {
+      "id": "remote-ciudad-a1-listen-4",
+      "l2": "Mi barrio es tranquilo.",
+      "en": "My neighborhood is quiet.",
+      "gloss": {
+        "en": "My neighborhood is quiet.",
+        "es": "Mi barrio es tranquilo.",
+        "ru": "Мой район тихий."
+      },
+      "word": "vecindario",
+      "wordEn": "neighborhood",
+      "wordGloss": {
+        "en": "neighborhood",
+        "es": "vecindario",
+        "ru": "район"
+      },
+      "wordIpa": "be.θindarˈio",
+      "distractors": [
+        "puente",
+        "mapa",
+        "parada"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Dónde vive? ¿En la ciudad o en el campo?",
+    "¿Qué lugares te gustan de tu ciudad?",
+    "Pregunte por indicaciones para llegar a la estación.",
+    "Describe tu vecindario en tres oraciones."
+  ],
+  "grammar": [
+    {
+      "id": "remote-ciudad-a1-grammar-1",
+      "title": {
+        "fr": "Articles définis (el / la)",
+        "en": "Definite articles (el / la)",
+        "es": "Artículos definidos (el / la)",
+        "ru": "Определённые артикли (el / la)"
+      },
+      "rule": {
+        "fr": "el + masculin ; la + féminin.",
+        "en": "el + masculine; la + feminine.",
+        "es": "el + masculino; la + femenino.",
+        "ru": "el + мужской род; la + женский род."
+      },
+      "why": {
+        "en": "Helps you name nouns correctly.",
+        "es": "Ayuda a nombrar sustantivos correctamente.",
+        "ru": "Помогает правильно называть существительные."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "el",
+          "masculino",
+          "el banco"
+        ],
+        [
+          "la",
+          "femenino",
+          "la calle"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ciudad-a1-gq-1-1",
+          "prompt": "Completa: ___ calle.",
+          "answer": "la",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ciudad-a1-gq-1-2",
+          "prompt": "Completa: ___ banco.",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "las"
+          ]
+        },
+        {
+          "id": "remote-ciudad-a1-gq-1-3",
+          "prompt": "¿La o la? → calle",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ciudad-a1-gq-1-4",
+          "prompt": "Relaciona con el tema: calle / banco. ¿Artículo de «calle»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ciudad-a1-gq-1-5",
+          "prompt": "Relaciona con el tema: calle / banco. ¿Artículo de «calle»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-ciudad-a1-grammar-2",
+      "title": {
+        "fr": "Hay + sustantivo",
+        "en": "Hay + noun",
+        "es": "Hay + sustantivo",
+        "ru": "Hay + существительное"
+      },
+      "rule": {
+        "fr": "Hay introduit ce qui existe : Hay un / una + nom.",
+        "en": "Hay introduces what exists: Hay un / una + noun.",
+        "es": "Hay presenta lo que existe: Hay un / una + sustantivo.",
+        "ru": "Hay вводит то, что есть: Hay un / una + существительное."
+      },
+      "why": {
+        "en": "Useful to say what is there.",
+        "es": "Útil para decir lo que hay.",
+        "ru": "Полезно, чтобы сказать, что есть."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Hay",
+          "existencia",
+          "Hay un cuadrado."
+        ],
+        [
+          "No hay",
+          "negación",
+          "No hay oficina de correos."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ciudad-a1-gq-2-1",
+          "prompt": "Completa: ___ un cuadrado.",
+          "answer": "Hay",
+          "options": [
+            "Hay",
+            "Es",
+            "Está"
+          ]
+        },
+        {
+          "id": "remote-ciudad-a1-gq-2-2",
+          "prompt": "Completa: No ___ oficina de correos.",
+          "answer": "hay",
+          "options": [
+            "hay",
+            "es",
+            "está"
+          ]
+        },
+        {
+          "id": "remote-ciudad-a1-gq-2-3",
+          "prompt": "Elige: Hay ___ cuadrado.",
+          "answer": "un",
+          "options": [
+            "un",
+            "el",
+            "la"
+          ]
+        },
+        {
+          "id": "remote-ciudad-a1-gq-2-4",
+          "prompt": "Relaciona con el tema: cuadrado / oficina de correos. ¿Artículo de «cuadrado»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ciudad-a1-gq-2-5",
+          "prompt": "Relaciona con el tema: cuadrado / oficina de correos. ¿Artículo de «cuadrado»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-ciudad-a1-dict-1",
+        "l2": "¿Dónde está la estación, por favor?",
+        "en": "Where is the station, please?",
+        "gloss": {
+          "en": "Where is the station, please?",
+          "es": "¿Dónde está la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, где станция?"
+        },
+        "ipa": "dˈonde estˈa lˈa esta.θiˈon pˈor fabˈor"
+      },
+      {
+        "id": "remote-ciudad-a1-dict-2",
+        "l2": "¿Está cerca de aquí?",
+        "en": "Is it near here?",
+        "gloss": {
+          "en": "Is it near here?",
+          "es": "¿Está cerca de aquí?",
+          "ru": "Это рядом здесь?"
+        },
+        "ipa": "estˈa θˈerca dˈe akˈi"
+      },
+      {
+        "id": "remote-ciudad-a1-dict-3",
+        "l2": "La tienda está cerrada hoy.",
+        "en": "The shop is closed today.",
+        "gloss": {
+          "en": "The shop is closed today.",
+          "es": "La tienda está cerrada hoy.",
+          "ru": "Магазин сегодня закрыт."
+        },
+        "ipa": "lˈa tiˈenda estˈa θerˈa.da ˈoʝ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-ciudad-a1-mean-1",
+        "l2": "¿Dónde está la estación, por favor?",
+        "en": "Where is the station, please?",
+        "gloss": {
+          "en": "Where is the station, please?",
+          "es": "¿Dónde está la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, где станция?"
+        }
+      },
+      {
+        "id": "remote-ciudad-a1-mean-2",
+        "l2": "¿Está cerca de aquí?",
+        "en": "Is it near here?",
+        "gloss": {
+          "en": "Is it near here?",
+          "es": "¿Está cerca de aquí?",
+          "ru": "Это рядом здесь?"
+        }
+      },
+      {
+        "id": "remote-ciudad-a1-mean-3",
+        "l2": "La tienda está cerrada hoy.",
+        "en": "The shop is closed today.",
+        "gloss": {
+          "en": "The shop is closed today.",
+          "es": "La tienda está cerrada hoy.",
+          "ru": "Магазин сегодня закрыт."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-ciudad-a1-fren-1",
+        "l2": "pueblo",
+        "en": "town",
+        "gloss": {
+          "en": "town",
+          "es": "ciudad",
+          "ru": "город"
+        }
+      },
+      {
+        "id": "remote-ciudad-a1-fren-2",
+        "l2": "calle",
+        "en": "street",
+        "gloss": {
+          "en": "street",
+          "es": "calle",
+          "ru": "улица"
+        }
+      },
+      {
+        "id": "remote-ciudad-a1-fren-3",
+        "l2": "cuadrado",
+        "en": "square",
+        "gloss": {
+          "en": "square",
+          "es": "cuadrado",
+          "ru": "квадрат"
+        }
+      },
+      {
+        "id": "remote-ciudad-a1-fren-4",
+        "l2": "comercio",
+        "en": "shop",
+        "gloss": {
+          "en": "shop",
+          "es": "comercio",
+          "ru": "магазин"
+        }
+      },
+      {
+        "id": "remote-ciudad-a1-fren-5",
+        "l2": "banco",
+        "en": "bank",
+        "gloss": {
+          "en": "bank",
+          "es": "banco",
+          "ru": "банк"
+        }
+      },
+      {
+        "id": "remote-ciudad-a1-fren-6",
+        "l2": "oficina de correos",
+        "en": "post office",
+        "gloss": {
+          "en": "post office",
+          "es": "oficina de correos",
+          "ru": "почтовое отделение"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-ciudad-a1-alou-1",
+        "l2": "¿Dónde está la estación, por favor?",
+        "en": "Where is the station, please?",
+        "gloss": {
+          "en": "Where is the station, please?",
+          "es": "¿Dónde está la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, где станция?"
+        },
+        "ipa": "dˈonde estˈa lˈa esta.θiˈon pˈor fabˈor"
+      },
+      {
+        "id": "remote-ciudad-a1-alou-2",
+        "l2": "La tienda está cerrada hoy.",
+        "en": "The shop is closed today.",
+        "gloss": {
+          "en": "The shop is closed today.",
+          "es": "La tienda está cerrada hoy.",
+          "ru": "Магазин сегодня закрыт."
+        },
+        "ipa": "lˈa tiˈenda estˈa θerˈa.da ˈoʝ"
+      },
+      {
+        "id": "remote-ciudad-a1-alou-3",
+        "l2": "Vivo en este barrio.",
+        "en": "I live in this neighborhood.",
+        "gloss": {
+          "en": "I live in this neighborhood.",
+          "es": "Vivo en este barrio.",
+          "ru": "Я живу в этом районе."
+        },
+        "ipa": "bˈi.bo ˈen ˈeste barˈio"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-ciudad-a1-unsc-1",
+        "l2": "Vamos al parque.",
+        "en": "We’re going to the park.",
+        "gloss": {
+          "en": "We’re going to the park.",
+          "es": "Vamos al parque.",
+          "ru": "Мы идем в парк."
+        },
+        "words": [
+          "Vamos",
+          "al",
+          "parque."
+        ]
+      },
+      {
+        "id": "remote-ciudad-a1-unsc-2",
+        "l2": "Vivo en este barrio.",
+        "en": "I live in this neighborhood.",
+        "gloss": {
+          "en": "I live in this neighborhood.",
+          "es": "Vivo en este barrio.",
+          "ru": "Я живу в этом районе."
+        },
+        "words": [
+          "Vivo",
+          "en",
+          "este",
+          "barrio."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-ciudad-a1-sign-1",
+        "l2": "centro de la ciudad",
+        "en": "town center",
+        "gloss": {
+          "en": "town center",
+          "es": "centro de la ciudad",
+          "ru": "центр города"
+        },
+        "hint": "signo del centro de la ciudad"
+      },
+      {
+        "id": "remote-ciudad-a1-sign-2",
+        "l2": "estación de tren",
+        "en": "station",
+        "gloss": {
+          "en": "station",
+          "es": "estación",
+          "ru": "станция"
+        },
+        "hint": "señal de la estación de tren"
+      }
+    ]
+  },
+  "sounds": []
+}

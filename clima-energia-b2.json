@@ -1,0 +1,870 @@
+{
+  "pratiquePack": 2,
+  "id": "clima-energia-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "es",
+  "title": {
+    "fr": "Climat et énergie B2 (ES)",
+    "en": "Climate and energy B2 (ES)",
+    "es": "Clima y energía B2",
+    "ru": "Климат и энергетика B2 (ES)"
+  },
+  "description": {
+    "fr": "Émissions, énergies renouvelables, sécheresse et politiques climatiques — pack espagnol.",
+    "en": "Emissions, renewable energy, drought, and climate policy — Spanish pack.",
+    "es": "Emisiones, energías renovables, sequía y política climática para estudiar español.",
+    "ru": "Выбросы, возобновляемые источники энергии, засуха и климатическая политика — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-clima-energia-b2-1",
+      "l2": "emisión",
+      "en": "emission",
+      "gloss": {
+        "en": "emission",
+        "es": "emisión",
+        "ru": "выбросы"
+      },
+      "example": "Las emisiones de CO₂ se están estancando, pero siguen siendo demasiado altas para el acuerdo de París.",
+      "ipa": "e.misiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-2",
+      "l2": "energía renovable",
+      "en": "renewable energy",
+      "gloss": {
+        "en": "renewable energy",
+        "es": "energía renovable",
+        "ru": "возобновляемая энергия"
+      },
+      "example": "Las energías renovables cubren ahora una proporción cada vez mayor de la producción de electricidad.",
+      "ipa": "e.nergˈia re.nobable",
+      "article": "el"
+    },
+    {
+      "id": "remote-clima-energia-b2-3",
+      "l2": "sequía",
+      "en": "drought",
+      "gloss": {
+        "en": "drought",
+        "es": "sequía",
+        "ru": "засуха"
+      },
+      "example": "La sequía ha reducido los rendimientos agrícolas por tercer año consecutivo.",
+      "ipa": "sekˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-4",
+      "l2": "política climática",
+      "en": "climate policy",
+      "gloss": {
+        "en": "climate policy",
+        "es": "política climática",
+        "ru": "климатическая политика"
+      },
+      "example": "Esta política climática combina el precio del carbono y las ayudas a la renovación.",
+      "ipa": "polˈi.tica climˈa.tica",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-5",
+      "l2": "carbón",
+      "en": "carbon",
+      "gloss": {
+        "en": "carbon",
+        "es": "carbón",
+        "ru": "углерод"
+      },
+      "example": "El precio del carbono debería aumentar para que los fabricantes aceleren la transición.",
+      "ipa": "carbˈon",
+      "article": "el"
+    },
+    {
+      "id": "remote-clima-energia-b2-6",
+      "l2": "gas de efecto invernadero",
+      "en": "greenhouse gas",
+      "gloss": {
+        "en": "greenhouse gas",
+        "es": "gas de efecto invernadero",
+        "ru": "парниковый газ"
+      },
+      "example": "Los gases de efecto invernadero se acumulan más rápido que los sumideros naturales de carbono.",
+      "ipa": "gas de e.fecto inbernadˈe.ro",
+      "article": "el"
+    },
+    {
+      "id": "remote-clima-energia-b2-7",
+      "l2": "transición",
+      "en": "transition",
+      "gloss": {
+        "en": "transition",
+        "es": "transición",
+        "ru": "переход"
+      },
+      "example": "La transición energética requiere inversiones que el mercado por sí solo no proporciona.",
+      "ipa": "transi.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-8",
+      "l2": "biodiversidad",
+      "en": "biodiversity",
+      "gloss": {
+        "en": "biodiversity",
+        "es": "biodiversidad",
+        "ru": "биоразнообразие"
+      },
+      "example": "La biodiversidad se está erosionando, sin embargo ciertas especies protegidas están recolonizando los ambientes.",
+      "ipa": "bio.dibersidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-9",
+      "l2": "ola de calor",
+      "en": "heatwave",
+      "gloss": {
+        "en": "heatwave",
+        "es": "ola de calor",
+        "ru": "волна тепла"
+      },
+      "example": "La ola de calor del verano pasado ejerció presión sobre la red eléctrica nacional.",
+      "ipa": "o.la de calˈor",
+      "article": "el"
+    },
+    {
+      "id": "remote-clima-energia-b2-10",
+      "l2": "deforestación",
+      "en": "deforestation",
+      "gloss": {
+        "en": "deforestation",
+        "es": "deforestación",
+        "ru": "вырубка лесов"
+      },
+      "example": "La deforestación continúa, aunque se han firmado moratorias.",
+      "ipa": "de.foresta.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-11",
+      "l2": "huella",
+      "en": "footprint",
+      "gloss": {
+        "en": "footprint",
+        "es": "huella",
+        "ru": "след"
+      },
+      "example": "La huella de carbono de un vuelo de larga distancia supera la de muchos viajes en tren.",
+      "ipa": "uˈe.ʎa",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-12",
+      "l2": "reducción",
+      "en": "reduction",
+      "gloss": {
+        "en": "reduction",
+        "es": "reducción",
+        "ru": "снижение"
+      },
+      "example": "Reducir las emisiones a la mitad para 2030 todavía parece fuera de nuestro alcance.",
+      "ipa": "re.ducθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-13",
+      "l2": "adaptación",
+      "en": "adaptation",
+      "gloss": {
+        "en": "adaptation",
+        "es": "adaptación",
+        "ru": "приспособление"
+      },
+      "example": "Adaptarse a las olas de calor requiere ciudades con más vegetación y mejor ventilación.",
+      "ipa": "a.dapta.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-14",
+      "l2": "turbina eólica",
+      "en": "wind turbine",
+      "gloss": {
+        "en": "wind turbine",
+        "es": "turbina eólica",
+        "ru": "ветряная турбина"
+      },
+      "example": "Las turbinas eólicas marinas producen más, pero plantean conflictos de uso en el mar.",
+      "ipa": "turbi.na eˈo.lica",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-15",
+      "l2": "panel solar",
+      "en": "solar panel",
+      "gloss": {
+        "en": "solar panel",
+        "es": "panel solar",
+        "ru": "солнечная панель"
+      },
+      "example": "Los paneles solares han visto caer su coste, lo que está acelerando su despliegue.",
+      "ipa": "pa.nel solˈar",
+      "article": "el"
+    },
+    {
+      "id": "remote-clima-energia-b2-16",
+      "l2": "inundación",
+      "en": "flood",
+      "gloss": {
+        "en": "flood",
+        "es": "inundación",
+        "ru": "наводнение"
+      },
+      "example": "La inundación obligó a miles de hogares a abandonar una zona que se sabe que es vulnerable.",
+      "ipa": "i.nunda.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-17",
+      "l2": "acuerdo",
+      "en": "agreement",
+      "gloss": {
+        "en": "agreement",
+        "es": "acuerdo",
+        "ru": "соглашение"
+      },
+      "example": "El acuerdo de París establece un marco, pero su implementación sigue siendo desigual.",
+      "ipa": "a.cuˈerdo",
+      "article": "el"
+    },
+    {
+      "id": "remote-clima-energia-b2-18",
+      "l2": "combustible fósil",
+      "en": "fossil fuel",
+      "gloss": {
+        "en": "fossil fuel",
+        "es": "combustible fósil",
+        "ru": "ископаемое топливо"
+      },
+      "example": "Los combustibles fósiles siguen siendo dominantes, a pesar de los compromisos de eliminarlos gradualmente.",
+      "ipa": "combustible fˈo.sil",
+      "article": "el"
+    },
+    {
+      "id": "remote-clima-energia-b2-19",
+      "l2": "neutralidad",
+      "en": "neutrality (carbon)",
+      "gloss": {
+        "en": "neutrality (carbon)",
+        "es": "neutralidad (carbono)",
+        "ru": "нейтральность (углерод)"
+      },
+      "example": "La neutralidad de carbono en 2050 requiere esfuerzos que pocos países han emprendido todavía.",
+      "ipa": "neutra.lidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-clima-energia-b2-20",
+      "l2": "vulnerabilidad",
+      "en": "vulnerability",
+      "gloss": {
+        "en": "vulnerability",
+        "es": "vulnerabilidad",
+        "ru": "уязвимость"
+      },
+      "example": "La vulnerabilidad de las costas aumenta a medida que aumenta el nivel del mar.",
+      "ipa": "bulne.rabi.lidˈad",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-clima-energia-b2-phrase-1",
+      "l2": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+      "en": "Emissions would need to fall much faster than they do today.",
+      "gloss": {
+        "en": "Emissions would need to fall much faster than they do today.",
+        "es": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+        "ru": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня."
+      },
+      "ipa": "lˈas e.misiˈo.nes tendrˈian kˈe caˈer mˈutʃo mˈas rˈa.pido kˈe ˈoʝ"
+    },
+    {
+      "id": "remote-clima-energia-b2-phrase-2",
+      "l2": "Aunque las energías renovables están progresando, los combustibles fósiles siguen siendo dominantes.",
+      "en": "Although renewables are advancing, fossil fuel remains dominant.",
+      "gloss": {
+        "en": "Although renewables are advancing, fossil fuel remains dominant.",
+        "es": "Aunque las energías renovables están avanzando, los combustibles fósiles siguen siendo dominantes.",
+        "ru": "Хотя возобновляемые источники энергии развиваются, ископаемое топливо остается доминирующим."
+      },
+      "ipa": "aˈunke lˈas e.nergˈias re.nobˈables estˈan progresˈando lˈos combustˈibles fˈo.siles sˈi.ɡen siˈendo do.minˈantes"
+    },
+    {
+      "id": "remote-clima-energia-b2-phrase-3",
+      "l2": "Si reverdeciésemos más las ciudades, mitigaríamos el efecto de las olas de calor.",
+      "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+      "gloss": {
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "es": "Si plantáramos más vegetación en las ciudades, disminuiríamos el efecto de las olas de calor.",
+        "ru": "Если бы мы посадили больше зелени в городах, мы бы уменьшили воздействие волн жары."
+      },
+      "ipa": "sˈi re.berde.θiˈe.semos mˈas lˈas θiudˈa.des mi.tigarˈia.mos ˈel efˈecto dˈe lˈas ˈo.las dˈe"
+    },
+    {
+      "id": "remote-clima-energia-b2-phrase-4",
+      "l2": "Para que el acuerdo sea creíble, cada Estado debería publicar una trayectoria cuantificada.",
+      "en": "For the agreement to be credible, each state should publish a quantified pathway.",
+      "gloss": {
+        "en": "For the agreement to be credible, each state should publish a quantified pathway.",
+        "es": "Para que el acuerdo sea creíble, cada estado debería publicar una vía cuantificada.",
+        "ru": "Чтобы соглашение было заслуживающим доверия, каждое государство должно опубликовать количественный путь."
+      },
+      "ipa": "pˈa.ra kˈe ˈel a.cuˈerdo sˈea creˈible cˈa.da estˈa.do de.berˈia publicˈar ˈu.na tra.ʝectorˈia"
+    },
+    {
+      "id": "remote-clima-energia-b2-phrase-5",
+      "l2": "Por otro lado, la adaptación no exime de una rápida reducción de emisiones.",
+      "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+      "gloss": {
+        "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+        "es": "Por el contrario, la adaptación no elimina la necesidad de una reducción rápida de las emisiones.",
+        "ru": "Напротив, адаптация не устраняет необходимости быстрого сокращения выбросов."
+      },
+      "ipa": "pˈor ˈotro lˈa.do lˈa a.dapta.θiˈon nˈo exˈi.me dˈe ˈu.na rˈa.pida re.ducθiˈon dˈe"
+    },
+    {
+      "id": "remote-clima-energia-b2-phrase-6",
+      "l2": "Se podría objetar que la transición pesa inicialmente sobre los hogares más pobres.",
+      "en": "One might object that the transition first weighs on the most modest households.",
+      "gloss": {
+        "en": "One might object that the transition first weighs on the most modest households.",
+        "es": "Se podría objetar que la transición pesa primero sobre los hogares más modestos.",
+        "ru": "Можно возразить, что переходный период в первую очередь ляжет бременем на самые скромные домохозяйства."
+      },
+      "ipa": "sˈe podrˈia obxetˈar kˈe lˈa transi.θiˈon pˈe.sa i.niθialmˈente sˈobre lˈos ogˈa.res mˈas"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-clima-energia-b2-listen-1",
+      "l2": "La sequía ha reducido los rendimientos agrícolas por tercer año consecutivo.",
+      "en": "The drought has cut agricultural yields for three years running.",
+      "gloss": {
+        "en": "The drought has cut agricultural yields for three years running.",
+        "es": "La sequía ha reducido los rendimientos agrícolas durante tres años consecutivos.",
+        "ru": "Засуха уже три года подряд приводит к снижению урожайности сельскохозяйственных культур."
+      },
+      "word": "sequía",
+      "wordEn": "drought",
+      "wordGloss": {
+        "en": "drought",
+        "es": "sequía",
+        "ru": "засуха"
+      },
+      "wordIpa": "sekˈia",
+      "distractors": [
+        "ola de calor",
+        "inundación",
+        "deforestación"
+      ]
+    },
+    {
+      "id": "remote-clima-energia-b2-listen-2",
+      "l2": "Las energías renovables cubren una proporción cada vez mayor de la producción.",
+      "en": "Renewable energy covers a growing share of production.",
+      "gloss": {
+        "en": "Renewable energy covers a growing share of production.",
+        "es": "Las energías renovables cubren una proporción cada vez mayor de la producción.",
+        "ru": "Возобновляемые источники энергии занимают все большую долю производства."
+      },
+      "word": "energía renovable",
+      "wordEn": "renewable energy",
+      "wordGloss": {
+        "en": "renewable energy",
+        "es": "energía renovable",
+        "ru": "возобновляемая энергия"
+      },
+      "wordIpa": "e.nergˈia re.nobable",
+      "distractors": [
+        "combustible fósil",
+        "turbina eólica",
+        "panel solar"
+      ]
+    },
+    {
+      "id": "remote-clima-energia-b2-listen-3",
+      "l2": "Los gases de efecto invernadero se acumulan más rápidamente que los sumideros naturales.",
+      "en": "Greenhouse gases are accumulating faster than natural carbon sinks.",
+      "gloss": {
+        "en": "Greenhouse gases are accumulating faster than natural carbon sinks.",
+        "es": "Los gases de efecto invernadero se están acumulando más rápido que los sumideros naturales de carbono.",
+        "ru": "Парниковые газы накапливаются быстрее, чем естественные поглотители углерода."
+      },
+      "word": "gas de efecto invernadero",
+      "wordEn": "greenhouse gas",
+      "wordGloss": {
+        "en": "greenhouse gas",
+        "es": "gas de efecto invernadero",
+        "ru": "парниковый газ"
+      },
+      "wordIpa": "gas de e.fecto inbernadˈe.ro",
+      "distractors": [
+        "carbón",
+        "emisión",
+        "huella"
+      ]
+    },
+    {
+      "id": "remote-clima-energia-b2-listen-4",
+      "l2": "La ola de calor ha puesto a prueba la red eléctrica nacional.",
+      "en": "The heatwave put the national electricity grid under strain.",
+      "gloss": {
+        "en": "The heatwave put the national electricity grid under strain.",
+        "es": "La ola de calor puso a prueba la red eléctrica nacional.",
+        "ru": "Волна тепла создала нагрузку на национальную электросеть."
+      },
+      "word": "ola de calor",
+      "wordEn": "heatwave",
+      "wordGloss": {
+        "en": "heatwave",
+        "es": "ola de calor",
+        "ru": "волна тепла"
+      },
+      "wordIpa": "o.la de calˈor",
+      "distractors": [
+        "adaptación",
+        "neutralidad",
+        "vulnerabilidad"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Debería la transición energética ser más rápida, incluso si eso significa costar más? Justificar.",
+    "Compare la reducción de emisiones y la adaptación: ¿por qué son necesarias ambas?",
+    "En su opinión, ¿quién debería liderar el esfuerzo climático: los Estados, las empresas o los ciudadanos?",
+    "Si estuvieras diseñando una política climática, ¿qué medida priorizarías y por qué?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-clima-energia-b2-grammar-1",
+      "title": {
+        "fr": "Subjonctif imparfait en hypothèse",
+        "en": "Imperfect subjunctive in hypotheses",
+        "es": "Imperfecto de subjuntivo en hipótesis",
+        "ru": "Imperfecto de subjuntivo в гипотезах"
+      },
+      "rule": {
+        "fr": "Si + imperfecto de subjuntivo, condicional : Si tuviera tiempo, iría.",
+        "en": "Si + imperfect subjunctive, conditional: Si tuviera tiempo, iría.",
+        "es": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría.",
+        "ru": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría."
+      },
+      "why": {
+        "en": "Lets you discuss unlikely or polite scenarios.",
+        "es": "Permite hablar de escenarios poco reales o corteses.",
+        "ru": "Позволяет обсуждать маловероятные или вежливые сценарии."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Si + subj. impf.",
+          "hipótesis",
+          "Si tuviera tiempo, iría."
+        ],
+        [
+          "condicional",
+          "resultado",
+          "Compraría el energía renovable."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-clima-energia-b2-gq-1-1",
+          "prompt": "Si ___ tiempo, viajaría. (tener)",
+          "answer": "tuviera",
+          "options": [
+            "tuviera",
+            "tengo",
+            "tendré"
+          ]
+        },
+        {
+          "id": "remote-clima-energia-b2-gq-1-2",
+          "prompt": "Si pudiera, ___ más. (leer)",
+          "answer": "leería",
+          "options": [
+            "leería",
+            "leo",
+            "leí"
+          ]
+        },
+        {
+          "id": "remote-clima-energia-b2-gq-1-3",
+          "prompt": "Si hubiera carbón, sería distinto.",
+          "answer": "hubiera",
+          "options": [
+            "hubiera",
+            "hay",
+            "había"
+          ]
+        },
+        {
+          "id": "remote-clima-energia-b2-gq-1-4",
+          "prompt": "Relaciona con el tema: energía renovable / carbón. ¿Artículo de «energía renovable»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-clima-energia-b2-gq-1-5",
+          "prompt": "Relaciona con el tema: energía renovable / carbón. ¿Artículo de «energía renovable»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-clima-energia-b2-grammar-2",
+      "title": {
+        "fr": "Aunque + indicatif / subjonctif",
+        "en": "Aunque + indicative / subjunctive",
+        "es": "Aunque + indicativo / subjuntivo",
+        "ru": "Aunque + indicativo / subjuntivo"
+      },
+      "rule": {
+        "fr": "Aunque + indicatif = fait connu ; aunque + subjonctif = concession non assertive.",
+        "en": "Aunque + indicative = known fact; + subjunctive = non-assertive concession.",
+        "es": "Aunque + indicativo = hecho conocido; + subjuntivo = concesión no asertiva.",
+        "ru": "Aunque + indicativo — известный факт; + subjuntivo — уступка без утверждения."
+      },
+      "why": {
+        "en": "Nuances how strongly you commit to a claim.",
+        "es": "Matiza cuánto te comprometes con una afirmación.",
+        "ru": "Оттенки того, насколько вы настаиваете на утверждении."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "aunque + ind.",
+          "hecho conocido",
+          "Aunque hay sequía, sigo."
+        ],
+        [
+          "aunque + subj.",
+          "no asertivo",
+          "Aunque haya gas de efecto invernadero, dudo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-clima-energia-b2-gq-2-1",
+          "prompt": "Aunque ___ frío, salgo. (hecho)",
+          "answer": "hace",
+          "options": [
+            "hace",
+            "haga",
+            "hará"
+          ]
+        },
+        {
+          "id": "remote-clima-energia-b2-gq-2-2",
+          "prompt": "Aunque ___ problemas, intentaré. (no seguro)",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-clima-energia-b2-gq-2-3",
+          "prompt": "Aunque exista sequía, no basta.",
+          "answer": "exista",
+          "options": [
+            "exista",
+            "existe",
+            "existirá"
+          ]
+        },
+        {
+          "id": "remote-clima-energia-b2-gq-2-4",
+          "prompt": "Relaciona con el tema: sequía / gas de efecto invernadero. ¿Artículo de «sequía»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-clima-energia-b2-gq-2-5",
+          "prompt": "Relaciona con el tema: sequía / gas de efecto invernadero. ¿Artículo de «sequía»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-clima-energia-b2-dict-1",
+        "l2": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+        "en": "Emissions would need to fall much faster than they do today.",
+        "gloss": {
+          "en": "Emissions would need to fall much faster than they do today.",
+          "es": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+          "ru": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня."
+        },
+        "ipa": "lˈas e.misiˈo.nes tendrˈian kˈe caˈer mˈutʃo mˈas rˈa.pido kˈe ˈoʝ"
+      },
+      {
+        "id": "remote-clima-energia-b2-dict-2",
+        "l2": "Aunque las energías renovables están progresando, los combustibles fósiles siguen siendo dominantes.",
+        "en": "Although renewables are advancing, fossil fuel remains dominant.",
+        "gloss": {
+          "en": "Although renewables are advancing, fossil fuel remains dominant.",
+          "es": "Aunque las energías renovables están avanzando, los combustibles fósiles siguen siendo dominantes.",
+          "ru": "Хотя возобновляемые источники энергии развиваются, ископаемое топливо остается доминирующим."
+        },
+        "ipa": "aˈunke lˈas e.nergˈias re.nobˈables estˈan progresˈando lˈos combustˈibles fˈo.siles sˈi.ɡen siˈendo do.minˈantes"
+      },
+      {
+        "id": "remote-clima-energia-b2-dict-3",
+        "l2": "Si reverdeciésemos más las ciudades, mitigaríamos el efecto de las olas de calor.",
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "gloss": {
+          "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+          "es": "Si plantáramos más vegetación en las ciudades, disminuiríamos el efecto de las olas de calor.",
+          "ru": "Если бы мы посадили больше зелени в городах, мы бы уменьшили воздействие волн жары."
+        },
+        "ipa": "sˈi re.berde.θiˈe.semos mˈas lˈas θiudˈa.des mi.tigarˈia.mos ˈel efˈecto dˈe lˈas ˈo.las dˈe"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-clima-energia-b2-mean-1",
+        "l2": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+        "en": "Emissions would need to fall much faster than they do today.",
+        "gloss": {
+          "en": "Emissions would need to fall much faster than they do today.",
+          "es": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+          "ru": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня."
+        }
+      },
+      {
+        "id": "remote-clima-energia-b2-mean-2",
+        "l2": "Aunque las energías renovables están progresando, los combustibles fósiles siguen siendo dominantes.",
+        "en": "Although renewables are advancing, fossil fuel remains dominant.",
+        "gloss": {
+          "en": "Although renewables are advancing, fossil fuel remains dominant.",
+          "es": "Aunque las energías renovables están avanzando, los combustibles fósiles siguen siendo dominantes.",
+          "ru": "Хотя возобновляемые источники энергии развиваются, ископаемое топливо остается доминирующим."
+        }
+      },
+      {
+        "id": "remote-clima-energia-b2-mean-3",
+        "l2": "Si reverdeciésemos más las ciudades, mitigaríamos el efecto de las olas de calor.",
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "gloss": {
+          "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+          "es": "Si plantáramos más vegetación en las ciudades, disminuiríamos el efecto de las olas de calor.",
+          "ru": "Если бы мы посадили больше зелени в городах, мы бы уменьшили воздействие волн жары."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-clima-energia-b2-fren-1",
+        "l2": "emisión",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        }
+      },
+      {
+        "id": "remote-clima-energia-b2-fren-2",
+        "l2": "energía renovable",
+        "en": "renewable energy",
+        "gloss": {
+          "en": "renewable energy",
+          "es": "energía renovable",
+          "ru": "возобновляемая энергия"
+        }
+      },
+      {
+        "id": "remote-clima-energia-b2-fren-3",
+        "l2": "sequía",
+        "en": "drought",
+        "gloss": {
+          "en": "drought",
+          "es": "sequía",
+          "ru": "засуха"
+        }
+      },
+      {
+        "id": "remote-clima-energia-b2-fren-4",
+        "l2": "política climática",
+        "en": "climate policy",
+        "gloss": {
+          "en": "climate policy",
+          "es": "política climática",
+          "ru": "климатическая политика"
+        }
+      },
+      {
+        "id": "remote-clima-energia-b2-fren-5",
+        "l2": "carbón",
+        "en": "carbon",
+        "gloss": {
+          "en": "carbon",
+          "es": "carbón",
+          "ru": "углерод"
+        }
+      },
+      {
+        "id": "remote-clima-energia-b2-fren-6",
+        "l2": "gas de efecto invernadero",
+        "en": "greenhouse gas",
+        "gloss": {
+          "en": "greenhouse gas",
+          "es": "gas de efecto invernadero",
+          "ru": "парниковый газ"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-clima-energia-b2-alou-1",
+        "l2": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+        "en": "Emissions would need to fall much faster than they do today.",
+        "gloss": {
+          "en": "Emissions would need to fall much faster than they do today.",
+          "es": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+          "ru": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня."
+        },
+        "ipa": "lˈas e.misiˈo.nes tendrˈian kˈe caˈer mˈutʃo mˈas rˈa.pido kˈe ˈoʝ"
+      },
+      {
+        "id": "remote-clima-energia-b2-alou-2",
+        "l2": "Si reverdeciésemos más las ciudades, mitigaríamos el efecto de las olas de calor.",
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "gloss": {
+          "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+          "es": "Si plantáramos más vegetación en las ciudades, disminuiríamos el efecto de las olas de calor.",
+          "ru": "Если бы мы посадили больше зелени в городах, мы бы уменьшили воздействие волн жары."
+        },
+        "ipa": "sˈi re.berde.θiˈe.semos mˈas lˈas θiudˈa.des mi.tigarˈia.mos ˈel efˈecto dˈe lˈas ˈo.las dˈe"
+      },
+      {
+        "id": "remote-clima-energia-b2-alou-3",
+        "l2": "Por otro lado, la adaptación no exime de una rápida reducción de emisiones.",
+        "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+        "gloss": {
+          "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+          "es": "Por el contrario, la adaptación no elimina la necesidad de una reducción rápida de las emisiones.",
+          "ru": "Напротив, адаптация не устраняет необходимости быстрого сокращения выбросов."
+        },
+        "ipa": "pˈor ˈotro lˈa.do lˈa a.dapta.θiˈon nˈo exˈi.me dˈe ˈu.na rˈa.pida re.ducθiˈon dˈe"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-clima-energia-b2-unsc-1",
+        "l2": "La sequía ha reducido los rendimientos agrícolas por tercer año consecutivo.",
+        "en": "The drought has reduced agricultural yields for the third consecutive year.",
+        "gloss": {
+          "en": "The drought has reduced agricultural yields for the third consecutive year.",
+          "es": "La sequía ha reducido los rendimientos agrícolas por tercer año consecutivo.",
+          "ru": "Засуха снижает урожайность сельскохозяйственных культур третий год подряд."
+        },
+        "words": [
+          "La",
+          "sequía",
+          "ha",
+          "reducido",
+          "los",
+          "rendimientos",
+          "agrícolas",
+          "por",
+          "tercer",
+          "año",
+          "consecutivo."
+        ]
+      },
+      {
+        "id": "remote-clima-energia-b2-unsc-2",
+        "l2": "El acuerdo de París establece un marco, pero su implementación sigue siendo desigual.",
+        "en": "The Paris agreement sets a framework; nevertheless its implementation remains uneven.",
+        "gloss": {
+          "en": "The Paris agreement sets a framework; nevertheless its implementation remains uneven.",
+          "es": "El acuerdo de París establece un marco; sin embargo, su implementación sigue siendo desigual.",
+          "ru": "Парижское соглашение устанавливает рамки; тем не менее, его реализация остается неравномерной."
+        },
+        "words": [
+          "El",
+          "acuerdo",
+          "de",
+          "París",
+          "establece",
+          "un",
+          "marco,",
+          "pero",
+          "su",
+          "implementación",
+          "sigue",
+          "siendo",
+          "desigual."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-clima-energia-b2-sign-1",
+        "l2": "zona de inundación",
+        "en": "flood zone",
+        "gloss": {
+          "en": "flood zone",
+          "es": "zona de inundación",
+          "ru": "зона затопления"
+        },
+        "hint": "peligro de agua, terreno bajo"
+      },
+      {
+        "id": "remote-clima-energia-b2-sign-2",
+        "l2": "clasificación selectiva",
+        "en": "recycling / sorted waste",
+        "gloss": {
+          "en": "recycling / sorted waste",
+          "es": "reciclaje / residuos clasificados",
+          "ru": "переработка/сортировка отходов"
+        },
+        "hint": "contenedores de colores, instrucciones de clasificación"
+      }
+    ]
+  },
+  "sounds": []
+}

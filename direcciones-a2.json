@@ -1,0 +1,853 @@
+{
+  "pratiquePack": 2,
+  "id": "direcciones-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "es",
+  "title": {
+    "fr": "Itinéraire A2 (ES)",
+    "en": "Directions A2 (ES)",
+    "es": "Direcciones A2",
+    "ru": "Направления A2 (ES)"
+  },
+  "description": {
+    "fr": "Demander et indiquer le chemin en ville avec confiance — pack espagnol.",
+    "en": "Ask for and give directions in town with confidence — Spanish pack.",
+    "es": "Pregunta y da indicaciones en la ciudad con confianza para estudiar español.",
+    "ru": "Спрашивайте и указывайте дорогу в городе с уверенностью — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-direcciones-a2-1",
+      "l2": "camino",
+      "en": "way / path",
+      "gloss": {
+        "en": "way / path",
+        "es": "camino / camino",
+        "ru": "путь / путь"
+      },
+      "example": "¿Cuál es el camino más corto?",
+      "ipa": "camˈi.no",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-2",
+      "l2": "ruta",
+      "en": "route",
+      "gloss": {
+        "en": "route",
+        "es": "ruta",
+        "ru": "маршрут"
+      },
+      "example": "Aquí está la ruta hasta el hotel.",
+      "ipa": "rˈu.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-direcciones-a2-3",
+      "l2": "encrucijada",
+      "en": "crossroads",
+      "gloss": {
+        "en": "crossroads",
+        "es": "encrucijada",
+        "ru": "перекресток"
+      },
+      "example": "Gira a la derecha en el cruce.",
+      "ipa": "encru.θixˈa.da",
+      "article": "la"
+    },
+    {
+      "id": "remote-direcciones-a2-4",
+      "l2": "semáforo",
+      "en": "traffic light",
+      "gloss": {
+        "en": "traffic light",
+        "es": "semáforo",
+        "ru": "светофор"
+      },
+      "example": "Deténgase en el semáforo en rojo.",
+      "ipa": "semˈa.foro",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-5",
+      "l2": "peatonal",
+      "en": "pedestrian",
+      "gloss": {
+        "en": "pedestrian",
+        "es": "peatonal",
+        "ru": "пешеход"
+      },
+      "example": "Los peatones cruzan por aquí.",
+      "ipa": "pea.tonˈal",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-6",
+      "l2": "cruce",
+      "en": "crossing / passage",
+      "gloss": {
+        "en": "crossing / passage",
+        "es": "cruce / paso",
+        "ru": "переезд/проход"
+      },
+      "example": "El paso de peatones está delante de usted.",
+      "ipa": "crˈu.θe",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-7",
+      "l2": "esquina",
+      "en": "corner",
+      "gloss": {
+        "en": "corner",
+        "es": "esquina",
+        "ru": "угол"
+      },
+      "example": "La cafetería está a la vuelta de la esquina.",
+      "ipa": "eskˈi.na",
+      "article": "la"
+    },
+    {
+      "id": "remote-direcciones-a2-8",
+      "l2": "rotonda",
+      "en": "roundabout",
+      "gloss": {
+        "en": "roundabout",
+        "es": "rotonda",
+        "ru": "кольцевая развязка"
+      },
+      "example": "Tome la segunda salida en la rotonda.",
+      "ipa": "rotˈonda",
+      "article": "la"
+    },
+    {
+      "id": "remote-direcciones-a2-9",
+      "l2": "norte",
+      "en": "north",
+      "gloss": {
+        "en": "north",
+        "es": "norte",
+        "ru": "север"
+      },
+      "example": "Ve al norte.",
+      "ipa": "nˈorte",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-10",
+      "l2": "sur",
+      "en": "south",
+      "gloss": {
+        "en": "south",
+        "es": "sur",
+        "ru": "юг"
+      },
+      "example": "La estación está al sur de la ciudad.",
+      "ipa": "sˈur",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-11",
+      "l2": "este",
+      "en": "east",
+      "gloss": {
+        "en": "east",
+        "es": "este",
+        "ru": "восток"
+      },
+      "example": "El aeropuerto está al este.",
+      "ipa": "ˈeste",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-12",
+      "l2": "oeste",
+      "en": "west",
+      "gloss": {
+        "en": "west",
+        "es": "Oeste",
+        "ru": "запад"
+      },
+      "example": "El estadio está al oeste.",
+      "ipa": "oˈeste",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-13",
+      "l2": "distancia",
+      "en": "distance",
+      "gloss": {
+        "en": "distance",
+        "es": "distancia",
+        "ru": "расстояние"
+      },
+      "example": "La distancia es de aproximadamente dos kilómetros.",
+      "ipa": "distanθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-direcciones-a2-14",
+      "l2": "mapa",
+      "en": "map",
+      "gloss": {
+        "en": "map",
+        "es": "mapa",
+        "ru": "карта"
+      },
+      "example": "No tengo un plan.",
+      "ipa": "mˈa.pa",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-15",
+      "l2": "GPS",
+      "en": "GPS",
+      "gloss": {
+        "en": "GPS",
+        "es": "GPS",
+        "ru": "GPS"
+      },
+      "example": "El GPS indica otra ruta.",
+      "ipa": "gps",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-16",
+      "l2": "salida",
+      "en": "exit",
+      "gloss": {
+        "en": "exit",
+        "es": "salida",
+        "ru": "Выход"
+      },
+      "example": "La salida está a la izquierda.",
+      "ipa": "salˈi.da",
+      "article": "la"
+    },
+    {
+      "id": "remote-direcciones-a2-17",
+      "l2": "entrada",
+      "en": "entrance",
+      "gloss": {
+        "en": "entrance",
+        "es": "entrada",
+        "ru": "вход"
+      },
+      "example": "La entrada al museo está detrás.",
+      "ipa": "entrˈa.da",
+      "article": "la"
+    },
+    {
+      "id": "remote-direcciones-a2-18",
+      "l2": "pavimento",
+      "en": "pavement / sidewalk",
+      "gloss": {
+        "en": "pavement / sidewalk",
+        "es": "pavimento / acera",
+        "ru": "тротуар / тротуар"
+      },
+      "example": "Camine por la acera.",
+      "ipa": "pa.bimˈento",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-19",
+      "l2": "calle de un solo sentido",
+      "en": "one-way street",
+      "gloss": {
+        "en": "one-way street",
+        "es": "calle de un solo sentido",
+        "ru": "улица с односторонним движением"
+      },
+      "example": "Es una calle de un solo sentido.",
+      "ipa": "ca.ʎe de un so.lo sentˈi.do",
+      "article": "el"
+    },
+    {
+      "id": "remote-direcciones-a2-20",
+      "l2": "atasco de tráfico",
+      "en": "traffic jam",
+      "gloss": {
+        "en": "traffic jam",
+        "es": "atasco de tráfico",
+        "ru": "пробка"
+      },
+      "example": "Hay un atasco en el puente.",
+      "ipa": "a.tasco de trˈa.fico",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-direcciones-a2-phrase-1",
+      "l2": "¿Para ir a la estación, por favor?",
+      "en": "How do I get to the station, please?",
+      "gloss": {
+        "en": "How do I get to the station, please?",
+        "es": "¿Cómo llego a la estación, por favor?",
+        "ru": "Подскажите, пожалуйста, как мне добраться до вокзала?"
+      },
+      "ipa": "pˈa.ra ˈir ˈa lˈa esta.θiˈon pˈor fabˈor"
+    },
+    {
+      "id": "remote-direcciones-a2-phrase-2",
+      "l2": "Gire a la izquierda en el siguiente semáforo.",
+      "en": "Turn left at the next lights.",
+      "gloss": {
+        "en": "Turn left at the next lights.",
+        "es": "Gire a la izquierda en el siguiente semáforo.",
+        "ru": "Поверните налево на следующем светофоре."
+      },
+      "ipa": "xˈi.re ˈa lˈa izkiˈerda ˈen ˈel si.ɡiˈente semˈa.foro"
+    },
+    {
+      "id": "remote-direcciones-a2-phrase-3",
+      "l2": "Está como a cinco minutos caminando.",
+      "en": "It’s a five-minute walk.",
+      "gloss": {
+        "en": "It’s a five-minute walk.",
+        "es": "Es una caminata de cinco minutos.",
+        "ru": "Это пять минут ходьбы."
+      },
+      "ipa": "estˈa cˈo.mo ˈa θˈinco minˈu.tos ca.minˈando"
+    },
+    {
+      "id": "remote-direcciones-a2-phrase-4",
+      "l2": "Has llegado: está justo enfrente.",
+      "en": "You’ve arrived: it’s right opposite.",
+      "gloss": {
+        "en": "You’ve arrived: it’s right opposite.",
+        "es": "Has llegado: está justo enfrente.",
+        "ru": "Вы приехали: оно как раз напротив."
+      },
+      "ipa": "ˈas ʎegˈa.do estˈa xˈusto enfrˈente"
+    },
+    {
+      "id": "remote-direcciones-a2-phrase-5",
+      "l2": "Estoy perdido.",
+      "en": "I’m lost.",
+      "gloss": {
+        "en": "I’m lost.",
+        "es": "Estoy perdido.",
+        "ru": "Я заблудился."
+      },
+      "ipa": "estˈoʝ perdˈi.do"
+    },
+    {
+      "id": "remote-direcciones-a2-phrase-6",
+      "l2": "Tome la segunda calle a la derecha.",
+      "en": "Take the second street on the right.",
+      "gloss": {
+        "en": "Take the second street on the right.",
+        "es": "Tome la segunda calle a la derecha.",
+        "ru": "Сверните на вторую улицу направо."
+      },
+      "ipa": "tˈo.me lˈa sˈeɡnda cˈa.ʎe ˈa lˈa derˈetʃa"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-direcciones-a2-listen-1",
+      "l2": "Gire a la izquierda en el siguiente semáforo en rojo.",
+      "en": "Turn left at the next red light.",
+      "gloss": {
+        "en": "Turn left at the next red light.",
+        "es": "Gire a la izquierda en el siguiente semáforo en rojo.",
+        "ru": "Поверните налево на следующем красном светофоре."
+      },
+      "word": "semáforo",
+      "wordEn": "traffic light",
+      "wordGloss": {
+        "en": "traffic light",
+        "es": "semáforo",
+        "ru": "светофор"
+      },
+      "wordIpa": "semˈa.foro",
+      "distractors": [
+        "puente",
+        "parque",
+        "mapa"
+      ]
+    },
+    {
+      "id": "remote-direcciones-a2-listen-2",
+      "l2": "La cafetería está a la vuelta de la esquina.",
+      "en": "The café is on the street corner.",
+      "gloss": {
+        "en": "The café is on the street corner.",
+        "es": "La cafetería está en la esquina de la calle.",
+        "ru": "Кафе находится на углу улицы."
+      },
+      "word": "esquina",
+      "wordEn": "corner",
+      "wordGloss": {
+        "en": "corner",
+        "es": "esquina",
+        "ru": "угол"
+      },
+      "wordIpa": "eskˈi.na",
+      "distractors": [
+        "encrucijada",
+        "pavimento",
+        "salida"
+      ]
+    },
+    {
+      "id": "remote-direcciones-a2-listen-3",
+      "l2": "Tome la segunda salida en la rotonda.",
+      "en": "Take the second exit at the roundabout.",
+      "gloss": {
+        "en": "Take the second exit at the roundabout.",
+        "es": "Tome la segunda salida en la rotonda.",
+        "ru": "Сверните на второй съезд на кольцевой развязке."
+      },
+      "word": "rotonda",
+      "wordEn": "roundabout",
+      "wordGloss": {
+        "en": "roundabout",
+        "es": "rotonda",
+        "ru": "кольцевая развязка"
+      },
+      "wordIpa": "rotˈonda",
+      "distractors": [
+        "encrucijada",
+        "cruce",
+        "atasco de tráfico"
+      ]
+    },
+    {
+      "id": "remote-direcciones-a2-listen-4",
+      "l2": "Hay un atasco en el puente.",
+      "en": "There’s a traffic jam on the bridge.",
+      "gloss": {
+        "en": "There’s a traffic jam on the bridge.",
+        "es": "Hay un atasco en el puente.",
+        "ru": "На мосту пробка."
+      },
+      "word": "atasco de tráfico",
+      "wordEn": "traffic jam",
+      "wordGloss": {
+        "en": "traffic jam",
+        "es": "atasco de tráfico",
+        "ru": "пробка"
+      },
+      "wordIpa": "a.tasco de trˈa.fico",
+      "distractors": [
+        "ruta",
+        "distancia",
+        "GPS"
+      ]
+    }
+  ],
+  "prompts": [
+    "Explica el camino desde tu casa hasta la estación.",
+    "Estás perdido: ¿qué preguntas?",
+    "Describe un itinerario para un amigo.",
+    "¿Prefieres caminar, coger el autobús o el metro? Para qué ?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-direcciones-a2-grammar-1",
+      "title": {
+        "fr": "Pretérito vs imperfecto",
+        "en": "Preterite vs imperfect",
+        "es": "Pretérito frente a imperfecto",
+        "ru": "Pretérito и imperfecto"
+      },
+      "rule": {
+        "fr": "Le prétérito raconte un fait achevé ; l’imperfecto décrit le cadre ou l’habitude.",
+        "en": "Preterite narrates a completed event; imperfect sets the scene or habit.",
+        "es": "El pretérito narra un hecho terminado; el imperfecto describe el marco o la costumbre.",
+        "ru": "Pretérito — завершённое событие; imperfecto — фон или привычка."
+      },
+      "why": {
+        "en": "Choosing the right past tense clarifies your story.",
+        "es": "Elegir el pasado correcto aclara tu relato.",
+        "ru": "Правильный выбор прошедшего делает рассказ яснее."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Pretérito",
+          "hecho terminado",
+          "Ayer vi la ruta."
+        ],
+        [
+          "Imperfecto",
+          "costumbre / marco",
+          "Siempre había peatonal."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-direcciones-a2-gq-1-1",
+          "prompt": "Ayer ___ al médico. (ir)",
+          "answer": "fui",
+          "options": [
+            "fui",
+            "iba",
+            "iré"
+          ]
+        },
+        {
+          "id": "remote-direcciones-a2-gq-1-2",
+          "prompt": "De niño, ___ mucho. (leer)",
+          "answer": "leía",
+          "options": [
+            "leí",
+            "leía",
+            "leeré"
+          ]
+        },
+        {
+          "id": "remote-direcciones-a2-gq-1-3",
+          "prompt": "El año pasado ___ la ruta. (comprar)",
+          "answer": "compré",
+          "options": [
+            "compré",
+            "compraba",
+            "compro"
+          ]
+        },
+        {
+          "id": "remote-direcciones-a2-gq-1-4",
+          "prompt": "Relaciona con el tema: ruta / peatonal. ¿Artículo de «ruta»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-direcciones-a2-gq-1-5",
+          "prompt": "Relaciona con el tema: ruta / peatonal. ¿Artículo de «ruta»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-direcciones-a2-grammar-2",
+      "title": {
+        "fr": "Por / para",
+        "en": "Por / para",
+        "es": "Por / para",
+        "ru": "Por / para"
+      },
+      "rule": {
+        "fr": "Para indique le but ou la destination ; por la cause, la durée ou le moyen.",
+        "en": "Para marks purpose or destination; por marks cause, duration, or means.",
+        "es": "Para indica propósito o destino; por indica causa, duración o medio.",
+        "ru": "Para — цель или направление; por — причина, длительность или средство."
+      },
+      "why": {
+        "en": "Avoids a very common mix-up.",
+        "es": "Evita una confusión muy frecuente.",
+        "ru": "Помогает избежать частой ошибки."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "para",
+          "objetivo / destino",
+          "Esto es para encrucijada."
+        ],
+        [
+          "por",
+          "causa / medio",
+          "Lo hago por cruce."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-direcciones-a2-gq-2-1",
+          "prompt": "Estudio ___ encrucijada. (objetivo)",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "con"
+          ]
+        },
+        {
+          "id": "remote-direcciones-a2-gq-2-2",
+          "prompt": "Gracias ___ tu ayuda.",
+          "answer": "por",
+          "options": [
+            "por",
+            "para",
+            "de"
+          ]
+        },
+        {
+          "id": "remote-direcciones-a2-gq-2-3",
+          "prompt": "Salgo ___ Madrid mañana.",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "en"
+          ]
+        },
+        {
+          "id": "remote-direcciones-a2-gq-2-4",
+          "prompt": "Relaciona con el tema: encrucijada / cruce. ¿Artículo de «encrucijada»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-direcciones-a2-gq-2-5",
+          "prompt": "Relaciona con el tema: encrucijada / cruce. ¿Artículo de «encrucijada»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-direcciones-a2-dict-1",
+        "l2": "¿Para ir a la estación, por favor?",
+        "en": "How do I get to the station, please?",
+        "gloss": {
+          "en": "How do I get to the station, please?",
+          "es": "¿Cómo llego a la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, как мне добраться до вокзала?"
+        },
+        "ipa": "pˈa.ra ˈir ˈa lˈa esta.θiˈon pˈor fabˈor"
+      },
+      {
+        "id": "remote-direcciones-a2-dict-2",
+        "l2": "Gire a la izquierda en el siguiente semáforo.",
+        "en": "Turn left at the next lights.",
+        "gloss": {
+          "en": "Turn left at the next lights.",
+          "es": "Gire a la izquierda en el siguiente semáforo.",
+          "ru": "Поверните налево на следующем светофоре."
+        },
+        "ipa": "xˈi.re ˈa lˈa izkiˈerda ˈen ˈel si.ɡiˈente semˈa.foro"
+      },
+      {
+        "id": "remote-direcciones-a2-dict-3",
+        "l2": "Está como a cinco minutos caminando.",
+        "en": "It’s a five-minute walk.",
+        "gloss": {
+          "en": "It’s a five-minute walk.",
+          "es": "Es una caminata de cinco minutos.",
+          "ru": "Это пять минут ходьбы."
+        },
+        "ipa": "estˈa cˈo.mo ˈa θˈinco minˈu.tos ca.minˈando"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-direcciones-a2-mean-1",
+        "l2": "¿Para ir a la estación, por favor?",
+        "en": "How do I get to the station, please?",
+        "gloss": {
+          "en": "How do I get to the station, please?",
+          "es": "¿Cómo llego a la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, как мне добраться до вокзала?"
+        }
+      },
+      {
+        "id": "remote-direcciones-a2-mean-2",
+        "l2": "Gire a la izquierda en el siguiente semáforo.",
+        "en": "Turn left at the next lights.",
+        "gloss": {
+          "en": "Turn left at the next lights.",
+          "es": "Gire a la izquierda en el siguiente semáforo.",
+          "ru": "Поверните налево на следующем светофоре."
+        }
+      },
+      {
+        "id": "remote-direcciones-a2-mean-3",
+        "l2": "Está como a cinco minutos caminando.",
+        "en": "It’s a five-minute walk.",
+        "gloss": {
+          "en": "It’s a five-minute walk.",
+          "es": "Es una caminata de cinco minutos.",
+          "ru": "Это пять минут ходьбы."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-direcciones-a2-fren-1",
+        "l2": "camino",
+        "en": "way",
+        "gloss": {
+          "en": "way",
+          "es": "forma",
+          "ru": "способ"
+        }
+      },
+      {
+        "id": "remote-direcciones-a2-fren-2",
+        "l2": "ruta",
+        "en": "route",
+        "gloss": {
+          "en": "route",
+          "es": "ruta",
+          "ru": "маршрут"
+        }
+      },
+      {
+        "id": "remote-direcciones-a2-fren-3",
+        "l2": "encrucijada",
+        "en": "crossroads",
+        "gloss": {
+          "en": "crossroads",
+          "es": "encrucijada",
+          "ru": "перекресток"
+        }
+      },
+      {
+        "id": "remote-direcciones-a2-fren-4",
+        "l2": "semáforo",
+        "en": "traffic light",
+        "gloss": {
+          "en": "traffic light",
+          "es": "semáforo",
+          "ru": "светофор"
+        }
+      },
+      {
+        "id": "remote-direcciones-a2-fren-5",
+        "l2": "peatonal",
+        "en": "pedestrian",
+        "gloss": {
+          "en": "pedestrian",
+          "es": "peatonal",
+          "ru": "пешеход"
+        }
+      },
+      {
+        "id": "remote-direcciones-a2-fren-6",
+        "l2": "cruce",
+        "en": "crossing",
+        "gloss": {
+          "en": "crossing",
+          "es": "cruce",
+          "ru": "пересечение"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-direcciones-a2-alou-1",
+        "l2": "¿Para ir a la estación, por favor?",
+        "en": "How do I get to the station, please?",
+        "gloss": {
+          "en": "How do I get to the station, please?",
+          "es": "¿Cómo llego a la estación, por favor?",
+          "ru": "Подскажите, пожалуйста, как мне добраться до вокзала?"
+        },
+        "ipa": "pˈa.ra ˈir ˈa lˈa esta.θiˈon pˈor fabˈor"
+      },
+      {
+        "id": "remote-direcciones-a2-alou-2",
+        "l2": "Está como a cinco minutos caminando.",
+        "en": "It’s a five-minute walk.",
+        "gloss": {
+          "en": "It’s a five-minute walk.",
+          "es": "Es una caminata de cinco minutos.",
+          "ru": "Это пять минут ходьбы."
+        },
+        "ipa": "estˈa cˈo.mo ˈa θˈinco minˈu.tos ca.minˈando"
+      },
+      {
+        "id": "remote-direcciones-a2-alou-3",
+        "l2": "Estoy perdido.",
+        "en": "I’m lost.",
+        "gloss": {
+          "en": "I’m lost.",
+          "es": "Estoy perdido.",
+          "ru": "Я заблудился."
+        },
+        "ipa": "estˈoʝ perdˈi.do"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-direcciones-a2-unsc-1",
+        "l2": "Has llegado: está justo enfrente.",
+        "en": "You’ve arrived: it’s right opposite.",
+        "gloss": {
+          "en": "You’ve arrived: it’s right opposite.",
+          "es": "Has llegado: está justo enfrente.",
+          "ru": "Вы приехали: оно как раз напротив."
+        },
+        "words": [
+          "Has",
+          "llegado:",
+          "está",
+          "justo",
+          "enfrente."
+        ]
+      },
+      {
+        "id": "remote-direcciones-a2-unsc-2",
+        "l2": "Estoy perdido.",
+        "en": "I’m lost.",
+        "gloss": {
+          "en": "I’m lost.",
+          "es": "Estoy perdido.",
+          "ru": "Я заблудился."
+        },
+        "words": [
+          "Estoy",
+          "perdido."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-direcciones-a2-sign-1",
+        "l2": "calle de un solo sentido",
+        "en": "one way",
+        "gloss": {
+          "en": "one way",
+          "es": "Un camino",
+          "ru": "Одностороннее движение"
+        },
+        "hint": "señal de tráfico unidireccional"
+      },
+      {
+        "id": "remote-direcciones-a2-sign-2",
+        "l2": "salida",
+        "en": "exit",
+        "gloss": {
+          "en": "exit",
+          "es": "salida",
+          "ru": "Выход"
+        },
+        "hint": "señal de salida"
+      }
+    ]
+  },
+  "sounds": []
+}

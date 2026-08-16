@@ -1,0 +1,830 @@
+{
+  "pratiquePack": 2,
+  "id": "vivienda-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "es",
+  "title": {
+    "fr": "Logement A2 (ES)",
+    "en": "Housing A2 (ES)",
+    "es": "Vivienda A2",
+    "ru": "Корпус А2 (ES)"
+  },
+  "description": {
+    "fr": "Louer, emménager et parler de son appartement — pack espagnol.",
+    "en": "Renting, moving in, and talking about your flat — Spanish pack.",
+    "es": "Alquilar, mudarse y hablar de tu piso para estudiar español.",
+    "ru": "Аренда, переезд и разговоры о вашей квартире — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-vivienda-a2-1",
+      "l2": "vivienda",
+      "en": "housing / accommodation",
+      "gloss": {
+        "en": "housing / accommodation",
+        "es": "vivienda / alojamiento",
+        "ru": "жилье / размещение"
+      },
+      "example": "Busco alojamiento en el centro de la ciudad.",
+      "ipa": "bi.biˈenda",
+      "article": "la"
+    },
+    {
+      "id": "remote-vivienda-a2-2",
+      "l2": "apartamento",
+      "en": "apartment / flat",
+      "gloss": {
+        "en": "apartment / flat",
+        "es": "apartamento / piso",
+        "ru": "квартира / квартира"
+      },
+      "example": "El apartamento tiene dos dormitorios.",
+      "ipa": "a.partamˈento",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-3",
+      "l2": "alquilar",
+      "en": "rent",
+      "gloss": {
+        "en": "rent",
+        "es": "alquilar",
+        "ru": "арендовать"
+      },
+      "example": "El alquiler es demasiado alto.",
+      "ipa": "alkilˈar",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-4",
+      "l2": "propietario",
+      "en": "landlord / owner",
+      "gloss": {
+        "en": "landlord / owner",
+        "es": "propietario / propietario",
+        "ru": "арендодатель/владелец"
+      },
+      "example": "El dueño vendrá mañana.",
+      "ipa": "pro.pie.tarˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-5",
+      "l2": "arrendatario",
+      "en": "tenant",
+      "gloss": {
+        "en": "tenant",
+        "es": "arrendatario",
+        "ru": "жилец"
+      },
+      "example": "Soy inquilino desde hace un año.",
+      "ipa": "a.renda.tarˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-6",
+      "l2": "alquiler",
+      "en": "lease",
+      "gloss": {
+        "en": "lease",
+        "es": "alquiler",
+        "ru": "арендовать"
+      },
+      "example": "El contrato de arrendamiento tiene una duración de un año.",
+      "ipa": "alkilˈer",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-7",
+      "l2": "cargos por servicio",
+      "en": "service charges",
+      "gloss": {
+        "en": "service charges",
+        "es": "cargos por servicio",
+        "ru": "плата за обслуживание"
+      },
+      "example": "Los cargos incluyen agua.",
+      "ipa": "cargos por serbiθˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-8",
+      "l2": "depósito",
+      "en": "deposit",
+      "gloss": {
+        "en": "deposit",
+        "es": "depósito",
+        "ru": "депозит"
+      },
+      "example": "Debes pagar un depósito.",
+      "ipa": "depˈo.sito",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-9",
+      "l2": "listado",
+      "en": "listing / advert",
+      "gloss": {
+        "en": "listing / advert",
+        "es": "listado / anuncio",
+        "ru": "объявление/объявление"
+      },
+      "example": "Vi un anuncio en línea.",
+      "ipa": "listˈa.do",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-10",
+      "l2": "visita",
+      "en": "viewing",
+      "gloss": {
+        "en": "viewing",
+        "es": "visita",
+        "ru": "просмотр"
+      },
+      "example": "El velorio es a las seis de la tarde.",
+      "ipa": "bisˈi.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-vivienda-a2-11",
+      "l2": "entresuelo",
+      "en": "mezzanine",
+      "gloss": {
+        "en": "mezzanine",
+        "es": "entresuelo",
+        "ru": "мезонин"
+      },
+      "example": "Hay un entrepiso en el estudio.",
+      "ipa": "entre.suˈe.lo",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-12",
+      "l2": "estudio",
+      "en": "studio flat",
+      "gloss": {
+        "en": "studio flat",
+        "es": "estudio",
+        "ru": "квартира-студия"
+      },
+      "example": "El estudio es pequeño pero luminoso.",
+      "ipa": "estudˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-13",
+      "l2": "compañero de piso",
+      "en": "flatmate",
+      "gloss": {
+        "en": "flatmate",
+        "es": "compañero de piso",
+        "ru": "сосед по квартире"
+      },
+      "example": "Mi compañero de cuarto cocina.",
+      "ipa": "compa.ɲero de pˈi.so",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-14",
+      "l2": "mudarse)",
+      "en": "move (house)",
+      "gloss": {
+        "en": "move (house)",
+        "es": "mudarse)",
+        "ru": "переехать (дом)"
+      },
+      "example": "La mudanza es el sábado.",
+      "ipa": "mu.darsˈe)",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-15",
+      "l2": "caja de cartón",
+      "en": "cardboard box",
+      "gloss": {
+        "en": "cardboard box",
+        "es": "caja de cartón",
+        "ru": "картонная коробка"
+      },
+      "example": "Las cajas están en el pasillo.",
+      "ipa": "ca.xa de cartˈon",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-16",
+      "l2": "ascensor",
+      "en": "lift / elevator",
+      "gloss": {
+        "en": "lift / elevator",
+        "es": "ascensor / ascensor",
+        "ru": "лифт / лифт"
+      },
+      "example": "El ascensor está averiado.",
+      "ipa": "asθensˈor",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-17",
+      "l2": "bodega",
+      "en": "cellar",
+      "gloss": {
+        "en": "cellar",
+        "es": "bodega",
+        "ru": "подвал"
+      },
+      "example": "La bodega está en el sótano.",
+      "ipa": "bodˈe.ga",
+      "article": "la"
+    },
+    {
+      "id": "remote-vivienda-a2-18",
+      "l2": "ático",
+      "en": "attic",
+      "gloss": {
+        "en": "attic",
+        "es": "ático",
+        "ru": "чердак"
+      },
+      "example": "El ático está polvoriento.",
+      "ipa": "ˈa.tico",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-19",
+      "l2": "barrio",
+      "en": "neighborhood (people)",
+      "gloss": {
+        "en": "neighborhood (people)",
+        "es": "barrio (personas)",
+        "ru": "окрестности (люди)"
+      },
+      "example": "El barrio es tranquilo.",
+      "ipa": "barˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-vivienda-a2-20",
+      "l2": "inventario",
+      "en": "inventory (move-in)",
+      "gloss": {
+        "en": "inventory (move-in)",
+        "es": "inventario (mudanza)",
+        "ru": "инвентарь (заезд)"
+      },
+      "example": "Hoy estamos haciendo un balance de la situación.",
+      "ipa": "inbentarˈio",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-vivienda-a2-phrase-1",
+      "l2": "Busco piso para alquilar.",
+      "en": "I’m looking for a flat to rent.",
+      "gloss": {
+        "en": "I’m looking for a flat to rent.",
+        "es": "Busco piso para alquilar.",
+        "ru": "Я ищу квартиру в аренду."
+      },
+      "ipa": "bˈusco pˈi.so pˈa.ra alkilˈar"
+    },
+    {
+      "id": "remote-vivienda-a2-phrase-2",
+      "l2": "El alquiler es de ochocientos euros al mes.",
+      "en": "The rent is eight hundred euros a month.",
+      "gloss": {
+        "en": "The rent is eight hundred euros a month.",
+        "es": "El alquiler es de ochocientos euros al mes.",
+        "ru": "Арендная плата составляет восемьсот евро в месяц."
+      },
+      "ipa": "ˈel alkilˈer ˈes dˈe otʃo.θiˈentos eˈu.ros ˈal mˈes"
+    },
+    {
+      "id": "remote-vivienda-a2-phrase-3",
+      "l2": "¿Están incluidos los cargos?",
+      "en": "Are the charges included?",
+      "gloss": {
+        "en": "Are the charges included?",
+        "es": "¿Están incluidos los cargos?",
+        "ru": "Включены ли сборы?"
+      },
+      "ipa": "estˈan incluˈi.dos lˈos cˈargos"
+    },
+    {
+      "id": "remote-vivienda-a2-phrase-4",
+      "l2": "¿Podemos visitar esta tarde?",
+      "en": "Can we view it this afternoon?",
+      "gloss": {
+        "en": "Can we view it this afternoon?",
+        "es": "¿Podemos verlo esta tarde?",
+        "ru": "Можем ли мы посмотреть это сегодня днем?"
+      },
+      "ipa": "podˈe.mos bi.sitˈar ˈesta tˈarde"
+    },
+    {
+      "id": "remote-vivienda-a2-phrase-5",
+      "l2": "El ascensor está averiado.",
+      "en": "The lift is out of order.",
+      "gloss": {
+        "en": "The lift is out of order.",
+        "es": "El ascensor está averiado.",
+        "ru": "Лифт вышел из строя."
+      },
+      "ipa": "ˈel asθensˈor estˈa a.beriˈa.do"
+    },
+    {
+      "id": "remote-vivienda-a2-phrase-6",
+      "l2": "Me mudaré el próximo mes.",
+      "en": "I’m going to move in next month.",
+      "gloss": {
+        "en": "I’m going to move in next month.",
+        "es": "Me mudaré el próximo mes.",
+        "ru": "Я собираюсь переехать в следующем месяце."
+      },
+      "ipa": "mˈe mu.darˈe ˈel prˈo.ximo mˈes"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-vivienda-a2-listen-1",
+      "l2": "Busco piso para alquilar en el centro de la ciudad.",
+      "en": "I’m looking for a flat to rent in the center.",
+      "gloss": {
+        "en": "I’m looking for a flat to rent in the center.",
+        "es": "Busco piso para alquilar en el centro.",
+        "ru": "Ищу квартиру в аренду в центре."
+      },
+      "word": "apartamento",
+      "wordEn": "flat",
+      "wordGloss": {
+        "en": "flat",
+        "es": "departamento",
+        "ru": "плоский"
+      },
+      "wordIpa": "a.partamˈento",
+      "distractors": [
+        "estudio",
+        "bodega",
+        "ático"
+      ]
+    },
+    {
+      "id": "remote-vivienda-a2-listen-2",
+      "l2": "El alquiler es demasiado alto para mí.",
+      "en": "The rent is too high for me.",
+      "gloss": {
+        "en": "The rent is too high for me.",
+        "es": "El alquiler es demasiado alto para mí.",
+        "ru": "Арендная плата для меня слишком высока."
+      },
+      "word": "alquilar",
+      "wordEn": "rent",
+      "wordGloss": {
+        "en": "rent",
+        "es": "alquilar",
+        "ru": "арендовать"
+      },
+      "wordIpa": "alkilˈar",
+      "distractors": [
+        "depósito",
+        "cargos por servicio",
+        "alquiler"
+      ]
+    },
+    {
+      "id": "remote-vivienda-a2-listen-3",
+      "l2": "Mi compañero de cuarto está cocinando esta noche.",
+      "en": "My flatmate is cooking tonight.",
+      "gloss": {
+        "en": "My flatmate is cooking tonight.",
+        "es": "Mi compañero de piso está cocinando esta noche.",
+        "ru": "Мой сосед по квартире готовит сегодня вечером."
+      },
+      "word": "compañero de piso",
+      "wordEn": "flatmate",
+      "wordGloss": {
+        "en": "flatmate",
+        "es": "compañero de piso",
+        "ru": "сосед по квартире"
+      },
+      "wordIpa": "compa.ɲero de pˈi.so",
+      "distractors": [
+        "propietario",
+        "arrendatario",
+        "barrio"
+      ]
+    },
+    {
+      "id": "remote-vivienda-a2-listen-4",
+      "l2": "El ascensor está averiado desde ayer.",
+      "en": "The lift has been out of order since yesterday.",
+      "gloss": {
+        "en": "The lift has been out of order since yesterday.",
+        "es": "El ascensor está fuera de servicio desde ayer.",
+        "ru": "Лифт не работает со вчерашнего дня."
+      },
+      "word": "ascensor",
+      "wordEn": "lift",
+      "wordGloss": {
+        "en": "lift",
+        "es": "elevar",
+        "ru": "поднимать"
+      },
+      "wordIpa": "asθensˈor",
+      "distractors": [
+        "ático",
+        "bodega",
+        "caja de cartón"
+      ]
+    }
+  ],
+  "prompts": [
+    "Describe tu alojamiento actual.",
+    "¿Prefieres un estudio o un apartamento? Para qué ?",
+    "¿Qué preguntas le haces al dueño?",
+    "Habla de un movimiento (real o imaginario)."
+  ],
+  "grammar": [
+    {
+      "id": "remote-vivienda-a2-grammar-1",
+      "title": {
+        "fr": "Pretérito vs imperfecto",
+        "en": "Preterite vs imperfect",
+        "es": "Pretérito frente a imperfecto",
+        "ru": "Pretérito и imperfecto"
+      },
+      "rule": {
+        "fr": "Le prétérito raconte un fait achevé ; l’imperfecto décrit le cadre ou l’habitude.",
+        "en": "Preterite narrates a completed event; imperfect sets the scene or habit.",
+        "es": "El pretérito narra un hecho terminado; el imperfecto describe el marco o la costumbre.",
+        "ru": "Pretérito — завершённое событие; imperfecto — фон или привычка."
+      },
+      "why": {
+        "en": "Choosing the right past tense clarifies your story.",
+        "es": "Elegir el pasado correcto aclara tu relato.",
+        "ru": "Правильный выбор прошедшего делает рассказ яснее."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Pretérito",
+          "hecho terminado",
+          "Ayer vi el apartamento."
+        ],
+        [
+          "Imperfecto",
+          "costumbre / marco",
+          "Siempre había arrendatario."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-vivienda-a2-gq-1-1",
+          "prompt": "Ayer ___ al médico. (ir)",
+          "answer": "fui",
+          "options": [
+            "fui",
+            "iba",
+            "iré"
+          ]
+        },
+        {
+          "id": "remote-vivienda-a2-gq-1-2",
+          "prompt": "De niño, ___ mucho. (leer)",
+          "answer": "leía",
+          "options": [
+            "leí",
+            "leía",
+            "leeré"
+          ]
+        },
+        {
+          "id": "remote-vivienda-a2-gq-1-3",
+          "prompt": "El año pasado ___ el apartamento. (comprar)",
+          "answer": "compré",
+          "options": [
+            "compré",
+            "compraba",
+            "compro"
+          ]
+        },
+        {
+          "id": "remote-vivienda-a2-gq-1-4",
+          "prompt": "Relaciona con el tema: apartamento / arrendatario. ¿Artículo de «apartamento»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-vivienda-a2-gq-1-5",
+          "prompt": "Relaciona con el tema: apartamento / arrendatario. ¿Artículo de «apartamento»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-vivienda-a2-grammar-2",
+      "title": {
+        "fr": "Por / para",
+        "en": "Por / para",
+        "es": "Por / para",
+        "ru": "Por / para"
+      },
+      "rule": {
+        "fr": "Para indique le but ou la destination ; por la cause, la durée ou le moyen.",
+        "en": "Para marks purpose or destination; por marks cause, duration, or means.",
+        "es": "Para indica propósito o destino; por indica causa, duración o medio.",
+        "ru": "Para — цель или направление; por — причина, длительность или средство."
+      },
+      "why": {
+        "en": "Avoids a very common mix-up.",
+        "es": "Evita una confusión muy frecuente.",
+        "ru": "Помогает избежать частой ошибки."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "para",
+          "objetivo / destino",
+          "Esto es para alquilar."
+        ],
+        [
+          "por",
+          "causa / medio",
+          "Lo hago por alquiler."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-vivienda-a2-gq-2-1",
+          "prompt": "Estudio ___ alquilar. (objetivo)",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "con"
+          ]
+        },
+        {
+          "id": "remote-vivienda-a2-gq-2-2",
+          "prompt": "Gracias ___ tu ayuda.",
+          "answer": "por",
+          "options": [
+            "por",
+            "para",
+            "de"
+          ]
+        },
+        {
+          "id": "remote-vivienda-a2-gq-2-3",
+          "prompt": "Salgo ___ Madrid mañana.",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "en"
+          ]
+        },
+        {
+          "id": "remote-vivienda-a2-gq-2-4",
+          "prompt": "Relaciona con el tema: alquilar / alquiler. ¿Artículo de «alquilar»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-vivienda-a2-gq-2-5",
+          "prompt": "Relaciona con el tema: alquilar / alquiler. ¿Artículo de «alquilar»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-vivienda-a2-dict-1",
+        "l2": "Busco piso para alquilar.",
+        "en": "I’m looking for a flat to rent.",
+        "gloss": {
+          "en": "I’m looking for a flat to rent.",
+          "es": "Busco piso para alquilar.",
+          "ru": "Я ищу квартиру в аренду."
+        },
+        "ipa": "bˈusco pˈi.so pˈa.ra alkilˈar"
+      },
+      {
+        "id": "remote-vivienda-a2-dict-2",
+        "l2": "El alquiler es de ochocientos euros al mes.",
+        "en": "The rent is eight hundred euros a month.",
+        "gloss": {
+          "en": "The rent is eight hundred euros a month.",
+          "es": "El alquiler es de ochocientos euros al mes.",
+          "ru": "Арендная плата составляет восемьсот евро в месяц."
+        },
+        "ipa": "ˈel alkilˈer ˈes dˈe otʃo.θiˈentos eˈu.ros ˈal mˈes"
+      },
+      {
+        "id": "remote-vivienda-a2-dict-3",
+        "l2": "¿Están incluidos los cargos?",
+        "en": "Are the charges included?",
+        "gloss": {
+          "en": "Are the charges included?",
+          "es": "¿Están incluidos los cargos?",
+          "ru": "Включены ли сборы?"
+        },
+        "ipa": "estˈan incluˈi.dos lˈos cˈargos"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-vivienda-a2-mean-1",
+        "l2": "Busco piso para alquilar.",
+        "en": "I’m looking for a flat to rent.",
+        "gloss": {
+          "en": "I’m looking for a flat to rent.",
+          "es": "Busco piso para alquilar.",
+          "ru": "Я ищу квартиру в аренду."
+        }
+      },
+      {
+        "id": "remote-vivienda-a2-mean-2",
+        "l2": "El alquiler es de ochocientos euros al mes.",
+        "en": "The rent is eight hundred euros a month.",
+        "gloss": {
+          "en": "The rent is eight hundred euros a month.",
+          "es": "El alquiler es de ochocientos euros al mes.",
+          "ru": "Арендная плата составляет восемьсот евро в месяц."
+        }
+      },
+      {
+        "id": "remote-vivienda-a2-mean-3",
+        "l2": "¿Están incluidos los cargos?",
+        "en": "Are the charges included?",
+        "gloss": {
+          "en": "Are the charges included?",
+          "es": "¿Están incluidos los cargos?",
+          "ru": "Включены ли сборы?"
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-vivienda-a2-fren-1",
+        "l2": "vivienda",
+        "en": "housing",
+        "gloss": {
+          "en": "housing",
+          "es": "alojamiento",
+          "ru": "жилье"
+        }
+      },
+      {
+        "id": "remote-vivienda-a2-fren-2",
+        "l2": "apartamento",
+        "en": "apartment",
+        "gloss": {
+          "en": "apartment",
+          "es": "departamento",
+          "ru": "квартира"
+        }
+      },
+      {
+        "id": "remote-vivienda-a2-fren-3",
+        "l2": "alquilar",
+        "en": "rent",
+        "gloss": {
+          "en": "rent",
+          "es": "alquilar",
+          "ru": "арендовать"
+        }
+      },
+      {
+        "id": "remote-vivienda-a2-fren-4",
+        "l2": "propietario",
+        "en": "landlord",
+        "gloss": {
+          "en": "landlord",
+          "es": "propietario",
+          "ru": "домовладелец"
+        }
+      },
+      {
+        "id": "remote-vivienda-a2-fren-5",
+        "l2": "arrendatario",
+        "en": "tenant",
+        "gloss": {
+          "en": "tenant",
+          "es": "arrendatario",
+          "ru": "жилец"
+        }
+      },
+      {
+        "id": "remote-vivienda-a2-fren-6",
+        "l2": "alquiler",
+        "en": "lease",
+        "gloss": {
+          "en": "lease",
+          "es": "alquiler",
+          "ru": "арендовать"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-vivienda-a2-alou-1",
+        "l2": "Busco piso para alquilar.",
+        "en": "I’m looking for a flat to rent.",
+        "gloss": {
+          "en": "I’m looking for a flat to rent.",
+          "es": "Busco piso para alquilar.",
+          "ru": "Я ищу квартиру в аренду."
+        },
+        "ipa": "bˈusco pˈi.so pˈa.ra alkilˈar"
+      },
+      {
+        "id": "remote-vivienda-a2-alou-2",
+        "l2": "¿Están incluidos los cargos?",
+        "en": "Are the charges included?",
+        "gloss": {
+          "en": "Are the charges included?",
+          "es": "¿Están incluidos los cargos?",
+          "ru": "Включены ли сборы?"
+        },
+        "ipa": "estˈan incluˈi.dos lˈos cˈargos"
+      },
+      {
+        "id": "remote-vivienda-a2-alou-3",
+        "l2": "El ascensor está averiado.",
+        "en": "The lift is out of order.",
+        "gloss": {
+          "en": "The lift is out of order.",
+          "es": "El ascensor está averiado.",
+          "ru": "Лифт вышел из строя."
+        },
+        "ipa": "ˈel asθensˈor estˈa a.beriˈa.do"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-vivienda-a2-unsc-1",
+        "l2": "¿Podemos visitar esta tarde?",
+        "en": "Can we view it this afternoon?",
+        "gloss": {
+          "en": "Can we view it this afternoon?",
+          "es": "¿Podemos verlo esta tarde?",
+          "ru": "Можем ли мы посмотреть это сегодня днем?"
+        },
+        "words": [
+          "¿Podemos",
+          "visitar",
+          "esta",
+          "tarde?"
+        ]
+      },
+      {
+        "id": "remote-vivienda-a2-unsc-2",
+        "l2": "El ascensor está averiado.",
+        "en": "The lift is out of order.",
+        "gloss": {
+          "en": "The lift is out of order.",
+          "es": "El ascensor está averiado.",
+          "ru": "Лифт вышел из строя."
+        },
+        "words": [
+          "El",
+          "ascensor",
+          "está",
+          "averiado."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

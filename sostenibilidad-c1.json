@@ -1,0 +1,843 @@
+{
+  "pratiquePack": 2,
+  "id": "sostenibilidad-c1",
+  "version": 1,
+  "level": "c1",
+  "lang": "es",
+  "title": {
+    "fr": "Transition écologique C1 (ES)",
+    "en": "Ecological transition C1 (ES)",
+    "es": "Transición ecológica C1",
+    "ru": "Экологический переход C1 (ES)"
+  },
+  "description": {
+    "fr": "Décarbonation, économie circulaire, biodiversité et externalités — pack espagnol.",
+    "en": "Decarbonization, circular economy, biodiversity, and externalities — Spanish pack.",
+    "es": "Descarbonización, economía circular, biodiversidad y externalidades para estudiar español.",
+    "ru": "Декарбонизация, циркулярная экономика, биоразнообразие и внешние эффекты — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-sostenibilidad-c1-1",
+      "l2": "descarbonización",
+      "en": "decarbonization",
+      "gloss": {
+        "en": "decarbonization",
+        "es": "descarbonización",
+        "ru": "декарбонизация"
+      },
+      "example": "La descarbonización, cuyo ritmo sigue siendo insuficiente, requiere un equilibrio entre competitividad y sobriedad.",
+      "ipa": "descarbo.niθa.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-2",
+      "l2": "economía circular",
+      "en": "circular economy",
+      "gloss": {
+        "en": "circular economy",
+        "es": "economía circular",
+        "ru": "циркулярная экономика"
+      },
+      "example": "La economía circular, lejos de ser un simple reciclaje, pretende diseñar flujos que reduzcan la obsolescencia.",
+      "ipa": "e.conomˈia θircu.lar",
+      "article": "el"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-3",
+      "l2": "biodiversidad",
+      "en": "biodiversity",
+      "gloss": {
+        "en": "biodiversity",
+        "es": "biodiversidad",
+        "ru": "биоразнообразие"
+      },
+      "example": "La biodiversidad, aunque sea tratada como una externalidad, condiciona la resiliencia de los ecosistemas cultivados.",
+      "ipa": "bio.dibersidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-4",
+      "l2": "exterioridad",
+      "en": "externality",
+      "gloss": {
+        "en": "externality",
+        "es": "exterioridad",
+        "ru": "внешние эффекты"
+      },
+      "example": "Esta externalidad negativa, aunque no se refleja en ningún precio, pesa sobre terceros que el mercado ignora.",
+      "ipa": "exte.rio.ridˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-5",
+      "l2": "transición",
+      "en": "transition",
+      "gloss": {
+        "en": "transition",
+        "es": "transición",
+        "ru": "переход"
+      },
+      "example": "La transición ecológica, a menos que sea justa, corre el riesgo de reproducir las desigualdades que pretende corregir.",
+      "ipa": "transi.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-6",
+      "l2": "huella",
+      "en": "footprint",
+      "gloss": {
+        "en": "footprint",
+        "es": "huella",
+        "ru": "след"
+      },
+      "example": "La huella de carbono, cuyo cálculo sigue siendo un marco controvertido, guía sin embargo la mitigación de las organizaciones.",
+      "ipa": "uˈe.ʎa",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-7",
+      "l2": "mitigación",
+      "en": "mitigation",
+      "gloss": {
+        "en": "mitigation",
+        "es": "mitigación",
+        "ru": "смягчение последствий"
+      },
+      "example": "La mitigación, lejos de prescindir de la adaptación, sigue siendo una prioridad mientras no se superen umbrales críticos.",
+      "ipa": "mi.tiga.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-8",
+      "l2": "resiliencia",
+      "en": "resilience",
+      "gloss": {
+        "en": "resilience",
+        "es": "resiliencia",
+        "ru": "устойчивость"
+      },
+      "example": "La resiliencia de un ecosistema, aunque celebrada, tiene límites que el calentamiento puede trastornar.",
+      "ipa": "re.silienθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-9",
+      "l2": "suficiencia",
+      "en": "sufficiency",
+      "gloss": {
+        "en": "sufficiency",
+        "es": "suficiencia",
+        "ru": "достаточность"
+      },
+      "example": "La sobriedad, incluso si choca con la historia del crecimiento, constituye una palanca que la compensación por sí sola no reemplaza.",
+      "ipa": "su.fiθienθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-10",
+      "l2": "compensando",
+      "en": "offsetting",
+      "gloss": {
+        "en": "offsetting",
+        "es": "compensando",
+        "ru": "компенсирующий"
+      },
+      "example": "La compensación de carbono, a menos que sea adicional y verificada, a menudo es sólo un corolario contable de la inacción.",
+      "ipa": "compensˈando",
+      "article": "el"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-11",
+      "l2": "ecosistema",
+      "en": "ecosystem",
+      "gloss": {
+        "en": "ecosystem",
+        "es": "ecosistema",
+        "ru": "экосистема"
+      },
+      "example": "El ecosistema, cuyos servicios siguen siendo externalidades, colapsa tan pronto como se cruzan los umbrales de biodiversidad.",
+      "ipa": "e.cosistˈe.ma",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-12",
+      "l2": "calentamiento",
+      "en": "warming",
+      "gloss": {
+        "en": "warming",
+        "es": "calentamiento",
+        "ru": "потепление"
+      },
+      "example": "El calentamiento, lejos de ser lineal, produce cambios cuyo alcance escapa a los modelos de atenuación.",
+      "ipa": "ca.lenta.miˈento",
+      "article": "el"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-13",
+      "l2": "neutralidad",
+      "en": "neutrality (carbon)",
+      "gloss": {
+        "en": "neutrality (carbon)",
+        "es": "neutralidad (carbono)",
+        "ru": "нейтральность (углерод)"
+      },
+      "example": "La neutralidad mostrada, aunque tranquiliza a los inversores, depende de una compensación cuya integridad es frágil.",
+      "ipa": "neutra.lidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-14",
+      "l2": "extractivismo",
+      "en": "extractivism",
+      "gloss": {
+        "en": "extractivism",
+        "es": "extractivismo",
+        "ru": "экстрактивизм"
+      },
+      "example": "El extractivismo, incluso si significa financiar la transición en otros lugares, desplaza las externalidades hacia territorios que ya son vulnerables.",
+      "ipa": "extractibˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-15",
+      "l2": "agroecología",
+      "en": "agroecology",
+      "gloss": {
+        "en": "agroecology",
+        "es": "agroecología",
+        "ru": "агроэкология"
+      },
+      "example": "La agroecología, a menos que la convirtamos en una etiqueta vacía, articula biodiversidad, sobriedad y gobernanza alimentaria.",
+      "ipa": "agroe.cologˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-16",
+      "l2": "obsolescencia",
+      "en": "obsolescence",
+      "gloss": {
+        "en": "obsolescence",
+        "es": "obsolescencia",
+        "ru": "устаревание"
+      },
+      "example": "La obsolescencia programada, cuyo corolario es la huella material, contradice la proclamada economía circular.",
+      "ipa": "obso.lesθenθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-17",
+      "l2": "gobernancia",
+      "en": "governance",
+      "gloss": {
+        "en": "governance",
+        "es": "gobernancia",
+        "ru": "управление"
+      },
+      "example": "La gobernanza climática, aunque multilateral, tropieza con el equilibrio entre la mitigación inmediata y la adaptación.",
+      "ipa": "go.bernanθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-18",
+      "l2": "adaptación",
+      "en": "adaptation",
+      "gloss": {
+        "en": "adaptation",
+        "es": "adaptación",
+        "ru": "приспособление"
+      },
+      "example": "La adaptación, lejos de sustituir la descarbonización, se vuelve inevitable una vez que se superan ciertos umbrales.",
+      "ipa": "a.dapta.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-19",
+      "l2": "límite",
+      "en": "threshold",
+      "gloss": {
+        "en": "threshold",
+        "es": "límite",
+        "ru": "порог"
+      },
+      "example": "El umbral crítico, a menos que se respete, transforma una externalidad manejable en un balancín irreversible.",
+      "ipa": "lˈi.mite",
+      "article": "el"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-20",
+      "l2": "sumidero de carbono",
+      "en": "carbon sink",
+      "gloss": {
+        "en": "carbon sink",
+        "es": "sumidero de carbono",
+        "ru": "поглотитель углерода"
+      },
+      "example": "El sumidero de carbono forestal, cuya resiliencia depende de la biodiversidad, no es un derecho a emitir más.",
+      "ipa": "su.mide.ro de carbˈo.no",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-sostenibilidad-c1-phrase-1",
+      "l2": "Aunque la compensación es tranquilizadora, no puede sustituir a la descarbonización.",
+      "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+      "gloss": {
+        "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+        "es": "Aunque la compensación es tranquilizadora, no puede sustituir a la descarbonización.",
+        "ru": "Хотя компенсация и обнадеживает, она не может заменить декарбонизацию."
+      },
+      "ipa": "aˈunke lˈa compensa.θiˈon ˈes tranki.liθadˈo.ra nˈo puˈe.de susti.tuˈir ˈa lˈa descarbo.niθa.θiˈon"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-phrase-2",
+      "l2": "Lejos de ser un simple reciclaje, la economía circular pretende reducir la obsolescencia.",
+      "en": "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+      "gloss": {
+        "en": "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+        "es": "Lejos de ser un mero reciclaje, la economía circular pretende reducir la obsolescencia.",
+        "ru": "Экономика замкнутого цикла направлена ​​не только на переработку отходов, но и на сокращение морального устаревания."
+      },
+      "ipa": "lˈe.xos dˈe sˈer ˈun sˈimple re.θiclˈa.xe lˈa e.conomˈia θirculˈar pretˈende re.duθˈir lˈa"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-phrase-3",
+      "l2": "A menos que se respeten los umbrales, la resiliencia del ecosistema se derrumbará.",
+      "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+      "gloss": {
+        "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+        "es": "A menos que se respeten los umbrales, la resiliencia del ecosistema se derrumbará.",
+        "ru": "Если пороговые значения не будут соблюдены, устойчивость экосистемы пошатнется."
+      },
+      "ipa": "ˈa mˈe.nos kˈe sˈe respˈe.ten lˈos umbrˈa.les lˈa re.silienθˈia dˈel e.cosistˈe.ma sˈe"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-phrase-4",
+      "l2": "Incluso si eso significa chocar con la historia del crecimiento, la sobriedad sigue siendo una palanca decisiva.",
+      "en": "Even if it clashes with the growth narrative, sufficiency remains a decisive lever.",
+      "gloss": {
+        "en": "Even if it clashes with the growth narrative, sufficiency remains a decisive lever.",
+        "es": "Incluso si choca con la narrativa del crecimiento, la suficiencia sigue siendo una palanca decisiva.",
+        "ru": "Даже если это противоречит концепции экономического роста, достаточность остается решающим рычагом."
+      },
+      "ipa": "inclˈu.so sˈi ˈe.so signifˈi.ca tʃocˈar cˈon lˈa istorˈia dˈel cre.θimiˈento lˈa sobriedˈad"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-phrase-5",
+      "l2": "Si la mitigación hubiera sido más rápida, la adaptación pesaría menos sobre los más vulnerables.",
+      "en": "If mitigation had been faster, adaptation would weigh less on the most vulnerable.",
+      "gloss": {
+        "en": "If mitigation had been faster, adaptation would weigh less on the most vulnerable.",
+        "es": "Si la mitigación hubiera sido más rápida, la adaptación pesaría menos sobre los más vulnerables.",
+        "ru": "Если бы смягчение последствий происходило быстрее, адаптация меньше давила бы на наиболее уязвимых."
+      },
+      "ipa": "sˈi lˈa mi.tiga.θiˈon u.biˈe.ra sˈi.do mˈas rˈa.pida lˈa a.dapta.θiˈon pe.sarˈia mˈe.nos sˈobre"
+    },
+    {
+      "id": "remote-sostenibilidad-c1-phrase-6",
+      "l2": "La biodiversidad, considerada una externalidad, condiciona sin embargo toda resiliencia.",
+      "en": "Biodiversity, which is treated as an externality, nevertheless conditions all resilience.",
+      "gloss": {
+        "en": "Biodiversity, which is treated as an externality, nevertheless conditions all resilience.",
+        "es": "Sin embargo, la biodiversidad, que se trata como una externalidad, condiciona toda resiliencia.",
+        "ru": "Биоразнообразие, которое рассматривается как внешний эффект, тем не менее, обусловливает любую устойчивость."
+      },
+      "ipa": "lˈa bio.dibersidˈad consi.derˈa.da ˈu.na externa.lidˈad condi.θiˈo.na sˈin embˈargo tˈo.da re.silienθˈia"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-sostenibilidad-c1-listen-1",
+      "l2": "Esta externalidad negativa pesa sobre terceros que el mercado ignora.",
+      "en": "This negative externality weighs on third parties the market ignores.",
+      "gloss": {
+        "en": "This negative externality weighs on third parties the market ignores.",
+        "es": "Esta externalidad negativa pesa sobre terceros que el mercado ignora.",
+        "ru": "Этот негативный внешний эффект оказывает давление на третьи стороны, которые рынок игнорирует."
+      },
+      "word": "exterioridad",
+      "wordEn": "externality",
+      "wordGloss": {
+        "en": "externality",
+        "es": "exterioridad",
+        "ru": "внешние эффекты"
+      },
+      "wordIpa": "exte.rio.ridˈad",
+      "distractors": [
+        "compensando",
+        "neutralidad",
+        "límite"
+      ]
+    },
+    {
+      "id": "remote-sostenibilidad-c1-listen-2",
+      "l2": "La descarbonización requiere un equilibrio entre competitividad y sobriedad.",
+      "en": "Decarbonization requires a trade-off between competitiveness and sufficiency.",
+      "gloss": {
+        "en": "Decarbonization requires a trade-off between competitiveness and sufficiency.",
+        "es": "La descarbonización requiere un equilibrio entre competitividad y suficiencia.",
+        "ru": "Декарбонизация требует компромисса между конкурентоспособностью и достаточностью."
+      },
+      "word": "descarbonización",
+      "wordEn": "decarbonization",
+      "wordGloss": {
+        "en": "decarbonization",
+        "es": "descarbonización",
+        "ru": "декарбонизация"
+      },
+      "wordIpa": "descarbo.niθa.θiˈon",
+      "distractors": [
+        "adaptación",
+        "extractivismo",
+        "gobernancia"
+      ]
+    },
+    {
+      "id": "remote-sostenibilidad-c1-listen-3",
+      "l2": "La obsolescencia programada contradice la proclamada economía circular.",
+      "en": "Planned obsolescence contradicts the proclaimed circular economy.",
+      "gloss": {
+        "en": "Planned obsolescence contradicts the proclaimed circular economy.",
+        "es": "La obsolescencia programada contradice la proclamada economía circular.",
+        "ru": "Запланированное устаревание противоречит провозглашенной циркулярной экономике."
+      },
+      "word": "obsolescencia",
+      "wordEn": "obsolescence",
+      "wordGloss": {
+        "en": "obsolescence",
+        "es": "obsolescencia",
+        "ru": "устаревание"
+      },
+      "wordIpa": "obso.lesθenθˈia",
+      "distractors": [
+        "huella",
+        "sumidero de carbono",
+        "agroecología"
+      ]
+    },
+    {
+      "id": "remote-sostenibilidad-c1-listen-4",
+      "l2": "La calefacción produce balancines cuyo alcance escapa a los modelos.",
+      "en": "Warming produces tipping points whose scope eludes the models.",
+      "gloss": {
+        "en": "Warming produces tipping points whose scope eludes the models.",
+        "es": "El calentamiento produce puntos de inflexión cuyo alcance escapa a los modelos.",
+        "ru": "Потепление приводит к переломным моментам, масштабы которых ускользают от моделей."
+      },
+      "word": "calentamiento",
+      "wordEn": "warming",
+      "wordGloss": {
+        "en": "warming",
+        "es": "calentamiento",
+        "ru": "потепление"
+      },
+      "wordIpa": "ca.lenta.miˈento",
+      "distractors": [
+        "resiliencia",
+        "transición",
+        "mitigación"
+      ]
+    }
+  ],
+  "prompts": [
+    "Califique la idea de que la compensación sería suficiente para lograr la neutralidad.",
+    "Admitir un costo económico a la sobriedad y luego reformular su cuestión climática.",
+    "¿Hasta qué punto puede la economía circular reducir las externalidades del extractivismo?",
+    "Reafirmar el argumento de que la adaptación no requiere una mitigación rápida."
+  ],
+  "grammar": [
+    {
+      "id": "remote-sostenibilidad-c1-grammar-1",
+      "title": {
+        "fr": "Nominalisation savante",
+        "en": "Academic nominalization",
+        "es": "Nominalización académica",
+        "ru": "Академическая номинализация"
+      },
+      "rule": {
+        "fr": "Préférez un nom abstrait à une proposition : la revisión del marco, no revisar el marco.",
+        "en": "Prefer an abstract noun to a clause: la revisión del marco, not revisar el marco.",
+        "es": "Prefiere un sustantivo abstracto a una oración: la revisión del marco, no revisar el marco.",
+        "ru": "Предпочитайте абстрактное существительное: la revisión del marco."
+      },
+      "why": {
+        "en": "Matches formal academic tone.",
+        "es": "Encaja con el tono académico formal.",
+        "ru": "Соответствует формальному академическому тону."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "verbo → nombre",
+          "estilo formal",
+          "la presencia de economía circular"
+        ],
+        [
+          "evitar cláusula",
+          "densidad",
+          "la ausencia de transición"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-sostenibilidad-c1-gq-1-1",
+          "prompt": "Prefiere: la ___ del marco. (revisar)",
+          "answer": "revisión",
+          "options": [
+            "revisión",
+            "revisar",
+            "revisado"
+          ]
+        },
+        {
+          "id": "remote-sostenibilidad-c1-gq-1-2",
+          "prompt": "La consideración de economía circular es central.",
+          "answer": "consideración",
+          "options": [
+            "consideración",
+            "considerar",
+            "considera"
+          ]
+        },
+        {
+          "id": "remote-sostenibilidad-c1-gq-1-3",
+          "prompt": "Mejor: el análisis, no ___.",
+          "answer": "analizar",
+          "options": [
+            "analizar",
+            "análisis",
+            "analítico"
+          ]
+        },
+        {
+          "id": "remote-sostenibilidad-c1-gq-1-4",
+          "prompt": "Relaciona con el tema: economía circular / transición. ¿Artículo de «economía circular»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-sostenibilidad-c1-gq-1-5",
+          "prompt": "Relaciona con el tema: economía circular / transición. ¿Artículo de «economía circular»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-sostenibilidad-c1-grammar-2",
+      "title": {
+        "fr": "Conectores de matización",
+        "en": "Hedging connectors",
+        "es": "Conectores de matización",
+        "ru": "Смягчающие связки"
+      },
+      "rule": {
+        "fr": "No obstante, si bien, en la medida en que permettent de nuancer une thèse.",
+        "en": "No obstante, si bien, en la medida en que help you hedge a claim.",
+        "es": "No obstante, si bien, en la medida en que permiten matizar una tesis.",
+        "ru": "No obstante, si bien, en la medida en que смягчают утверждение."
+      },
+      "why": {
+        "en": "Signals careful, expert stance.",
+        "es": "Señala una postura cuidadosa y experta.",
+        "ru": "Показывает осторожную экспертную позицию."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "no obstante",
+          "matización",
+          "No obstante, matizo la tesis."
+        ],
+        [
+          "si bien",
+          "concesión culta",
+          "Si bien hay biodiversidad, persiste la duda."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-sostenibilidad-c1-gq-2-1",
+          "prompt": "___ , la evidencia es parcial.",
+          "answer": "No obstante",
+          "options": [
+            "No obstante",
+            "Porque",
+            "Entonces"
+          ]
+        },
+        {
+          "id": "remote-sostenibilidad-c1-gq-2-2",
+          "prompt": "___ el método es sólido, la muestra es corta.",
+          "answer": "Si bien",
+          "options": [
+            "Si bien",
+            "Porque",
+            "Cuando"
+          ]
+        },
+        {
+          "id": "remote-sostenibilidad-c1-gq-2-3",
+          "prompt": "En la medida en ___ sea posible.",
+          "answer": "que",
+          "options": [
+            "que",
+            "cual",
+            "quien"
+          ]
+        },
+        {
+          "id": "remote-sostenibilidad-c1-gq-2-4",
+          "prompt": "Relaciona con el tema: biodiversidad / huella. ¿Artículo de «biodiversidad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-sostenibilidad-c1-gq-2-5",
+          "prompt": "Relaciona con el tema: biodiversidad / huella. ¿Artículo de «biodiversidad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-sostenibilidad-c1-dict-1",
+        "l2": "Aunque la compensación es tranquilizadora, no puede sustituir a la descarbonización.",
+        "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+        "gloss": {
+          "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+          "es": "Aunque la compensación es tranquilizadora, no puede sustituir a la descarbonización.",
+          "ru": "Хотя компенсация и обнадеживает, она не может заменить декарбонизацию."
+        },
+        "ipa": "aˈunke lˈa compensa.θiˈon ˈes tranki.liθadˈo.ra nˈo puˈe.de susti.tuˈir ˈa lˈa descarbo.niθa.θiˈon"
+      },
+      {
+        "id": "remote-sostenibilidad-c1-dict-2",
+        "l2": "Lejos de ser un simple reciclaje, la economía circular pretende reducir la obsolescencia.",
+        "en": "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+        "gloss": {
+          "en": "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+          "es": "Lejos de ser un mero reciclaje, la economía circular pretende reducir la obsolescencia.",
+          "ru": "Экономика замкнутого цикла направлена ​​не только на переработку отходов, но и на сокращение морального устаревания."
+        },
+        "ipa": "lˈe.xos dˈe sˈer ˈun sˈimple re.θiclˈa.xe lˈa e.conomˈia θirculˈar pretˈende re.duθˈir lˈa"
+      },
+      {
+        "id": "remote-sostenibilidad-c1-dict-3",
+        "l2": "A menos que se respeten los umbrales, la resiliencia del ecosistema se derrumbará.",
+        "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+        "gloss": {
+          "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+          "es": "A menos que se respeten los umbrales, la resiliencia del ecosistema se derrumbará.",
+          "ru": "Если пороговые значения не будут соблюдены, устойчивость экосистемы пошатнется."
+        },
+        "ipa": "ˈa mˈe.nos kˈe sˈe respˈe.ten lˈos umbrˈa.les lˈa re.silienθˈia dˈel e.cosistˈe.ma sˈe"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-sostenibilidad-c1-mean-1",
+        "l2": "Aunque la compensación es tranquilizadora, no puede sustituir a la descarbonización.",
+        "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+        "gloss": {
+          "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+          "es": "Aunque la compensación es tranquilizadora, no puede sustituir a la descarbonización.",
+          "ru": "Хотя компенсация и обнадеживает, она не может заменить декарбонизацию."
+        }
+      },
+      {
+        "id": "remote-sostenibilidad-c1-mean-2",
+        "l2": "Lejos de ser un simple reciclaje, la economía circular pretende reducir la obsolescencia.",
+        "en": "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+        "gloss": {
+          "en": "Far from being mere recycling, the circular economy aims to reduce obsolescence.",
+          "es": "Lejos de ser un mero reciclaje, la economía circular pretende reducir la obsolescencia.",
+          "ru": "Экономика замкнутого цикла направлена ​​не только на переработку отходов, но и на сокращение морального устаревания."
+        }
+      },
+      {
+        "id": "remote-sostenibilidad-c1-mean-3",
+        "l2": "A menos que se respeten los umbrales, la resiliencia del ecosistema se derrumbará.",
+        "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+        "gloss": {
+          "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+          "es": "A menos que se respeten los umbrales, la resiliencia del ecosistema se derrumbará.",
+          "ru": "Если пороговые значения не будут соблюдены, устойчивость экосистемы пошатнется."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-sostenibilidad-c1-fren-1",
+        "l2": "descarbonización",
+        "en": "decarbonization",
+        "gloss": {
+          "en": "decarbonization",
+          "es": "descarbonización",
+          "ru": "декарбонизация"
+        }
+      },
+      {
+        "id": "remote-sostenibilidad-c1-fren-2",
+        "l2": "economía circular",
+        "en": "circular economy",
+        "gloss": {
+          "en": "circular economy",
+          "es": "economía circular",
+          "ru": "циркулярная экономика"
+        }
+      },
+      {
+        "id": "remote-sostenibilidad-c1-fren-3",
+        "l2": "biodiversidad",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        }
+      },
+      {
+        "id": "remote-sostenibilidad-c1-fren-4",
+        "l2": "exterioridad",
+        "en": "externality",
+        "gloss": {
+          "en": "externality",
+          "es": "exterioridad",
+          "ru": "внешние эффекты"
+        }
+      },
+      {
+        "id": "remote-sostenibilidad-c1-fren-5",
+        "l2": "transición",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        }
+      },
+      {
+        "id": "remote-sostenibilidad-c1-fren-6",
+        "l2": "huella",
+        "en": "footprint",
+        "gloss": {
+          "en": "footprint",
+          "es": "huella",
+          "ru": "след"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-sostenibilidad-c1-alou-1",
+        "l2": "Aunque la compensación es tranquilizadora, no puede sustituir a la descarbonización.",
+        "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+        "gloss": {
+          "en": "Even though offsetting is reassuring, it cannot replace decarbonization.",
+          "es": "Aunque la compensación es tranquilizadora, no puede sustituir a la descarbonización.",
+          "ru": "Хотя компенсация и обнадеживает, она не может заменить декарбонизацию."
+        },
+        "ipa": "aˈunke lˈa compensa.θiˈon ˈes tranki.liθadˈo.ra nˈo puˈe.de susti.tuˈir ˈa lˈa descarbo.niθa.θiˈon"
+      },
+      {
+        "id": "remote-sostenibilidad-c1-alou-2",
+        "l2": "A menos que se respeten los umbrales, la resiliencia del ecosistema se derrumbará.",
+        "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+        "gloss": {
+          "en": "Unless the thresholds are respected, the ecosystem’s resilience will tip over.",
+          "es": "A menos que se respeten los umbrales, la resiliencia del ecosistema se derrumbará.",
+          "ru": "Если пороговые значения не будут соблюдены, устойчивость экосистемы пошатнется."
+        },
+        "ipa": "ˈa mˈe.nos kˈe sˈe respˈe.ten lˈos umbrˈa.les lˈa re.silienθˈia dˈel e.cosistˈe.ma sˈe"
+      },
+      {
+        "id": "remote-sostenibilidad-c1-alou-3",
+        "l2": "Si la mitigación hubiera sido más rápida, la adaptación pesaría menos sobre los más vulnerables.",
+        "en": "If mitigation had been faster, adaptation would weigh less on the most vulnerable.",
+        "gloss": {
+          "en": "If mitigation had been faster, adaptation would weigh less on the most vulnerable.",
+          "es": "Si la mitigación hubiera sido más rápida, la adaptación pesaría menos sobre los más vulnerables.",
+          "ru": "Если бы смягчение последствий происходило быстрее, адаптация меньше давила бы на наиболее уязвимых."
+        },
+        "ipa": "sˈi lˈa mi.tiga.θiˈon u.biˈe.ra sˈi.do mˈas rˈa.pida lˈa a.dapta.θiˈon pe.sarˈia mˈe.nos sˈobre"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-sostenibilidad-c1-unsc-1",
+        "l2": "Aunque la compensación es tranquilizadora, no reemplaza la descarbonización.",
+        "en": "Even though offsetting is reassuring, it does not replace decarbonization.",
+        "gloss": {
+          "en": "Even though offsetting is reassuring, it does not replace decarbonization.",
+          "es": "Si bien la compensación es tranquilizadora, no reemplaza la descarbonización.",
+          "ru": "Хотя компенсация и обнадеживает, она не заменяет декарбонизацию."
+        },
+        "words": [
+          "Aunque",
+          "la",
+          "compensación",
+          "es",
+          "tranquilizadora,",
+          "no",
+          "reemplaza",
+          "la",
+          "descarbonización."
+        ]
+      },
+      {
+        "id": "remote-sostenibilidad-c1-unsc-2",
+        "l2": "Lejos de ser un simple reciclaje, la economía circular reduce la obsolescencia.",
+        "en": "Far from being mere recycling, the circular economy reduces obsolescence.",
+        "gloss": {
+          "en": "Far from being mere recycling, the circular economy reduces obsolescence.",
+          "es": "Lejos de ser un mero reciclaje, la economía circular reduce la obsolescencia.",
+          "ru": "Экономика замкнутого цикла – это не просто переработка отходов, а сокращение морального устаревания."
+        },
+        "words": [
+          "Lejos",
+          "de",
+          "ser",
+          "un",
+          "simple",
+          "reciclaje,",
+          "la",
+          "economía",
+          "circular",
+          "reduce",
+          "la",
+          "obsolescencia."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

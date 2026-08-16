@@ -1,0 +1,836 @@
+{
+  "pratiquePack": 2,
+  "id": "estudios-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "es",
+  "title": {
+    "fr": "Études B1 (ES)",
+    "en": "Studies B1 (ES)",
+    "es": "Estudios B1",
+    "ru": "Исследования B1 (ES)"
+  },
+  "description": {
+    "fr": "Cours, examens et orientation pour parler de son parcours scolaire — pack espagnol.",
+    "en": "Courses, exams, and guidance for talking about your studies — Spanish pack.",
+    "es": "Cursos, exámenes y orientación para hablar de tus estudios para estudiar español.",
+    "ru": "Курсы, экзамены и рекомендации по разговору об учебе — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-estudios-b1-1",
+      "l2": "estudios",
+      "en": "studies",
+      "gloss": {
+        "en": "studies",
+        "es": "estudios",
+        "ru": "исследования"
+      },
+      "example": "Mis estudios duran dos años más.",
+      "ipa": "estudˈios",
+      "article": "el"
+    },
+    {
+      "id": "remote-estudios-b1-2",
+      "l2": "universidad",
+      "en": "university",
+      "gloss": {
+        "en": "university",
+        "es": "universidad",
+        "ru": "университет"
+      },
+      "example": "La universidad está lejos de casa.",
+      "ipa": "u.nibersidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-3",
+      "l2": "clase",
+      "en": "class / lecture",
+      "gloss": {
+        "en": "class / lecture",
+        "es": "clase / conferencia",
+        "ru": "урок/лекция"
+      },
+      "example": "El curso de literatura es fascinante.",
+      "ipa": "clˈa.se",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-4",
+      "l2": "examen",
+      "en": "exam",
+      "gloss": {
+        "en": "exam",
+        "es": "examen",
+        "ru": "экзамен"
+      },
+      "example": "El examen se realiza en junio.",
+      "ipa": "exˈa.men",
+      "article": "el"
+    },
+    {
+      "id": "remote-estudios-b1-5",
+      "l2": "tarea",
+      "en": "assignment / homework",
+      "gloss": {
+        "en": "assignment / homework",
+        "es": "tarea / tarea",
+        "ru": "задание/домашнее задание"
+      },
+      "example": "Tengo una tarea para el lunes.",
+      "ipa": "tarˈea",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-6",
+      "l2": "calificación",
+      "en": "grade / mark",
+      "gloss": {
+        "en": "grade / mark",
+        "es": "calificación / nota",
+        "ru": "оценка / отметка"
+      },
+      "example": "Mi nota en historia subió.",
+      "ipa": "ca.lifi.caθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-7",
+      "l2": "diploma",
+      "en": "diploma / degree",
+      "gloss": {
+        "en": "diploma / degree",
+        "es": "diploma / título",
+        "ru": "диплом / степень"
+      },
+      "example": "Se graduó el año pasado.",
+      "ipa": "diplˈo.ma",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-8",
+      "l2": "inscripción",
+      "en": "enrolment / registration",
+      "gloss": {
+        "en": "enrolment / registration",
+        "es": "inscripción / registro",
+        "ru": "зачисление/регистрация"
+      },
+      "example": "La inscripción se realiza en línea.",
+      "ipa": "inscripθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-9",
+      "l2": "orientación",
+      "en": "guidance / track choice",
+      "gloss": {
+        "en": "guidance / track choice",
+        "es": "orientación / elección de pista",
+        "ru": "наведение/выбор пути"
+      },
+      "example": "La orientación se decide en tercer grado.",
+      "ipa": "o.rienta.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-10",
+      "l2": "prácticas",
+      "en": "internship / work placement",
+      "gloss": {
+        "en": "internship / work placement",
+        "es": "prácticas / prácticas laborales",
+        "ru": "стажировка/трудоустройство"
+      },
+      "example": "Estoy buscando una pasantía de tres meses.",
+      "ipa": "prˈacti.cas",
+      "article": "el"
+    },
+    {
+      "id": "remote-estudios-b1-11",
+      "l2": "subvención",
+      "en": "grant / scholarship",
+      "gloss": {
+        "en": "grant / scholarship",
+        "es": "subvención/beca",
+        "ru": "грант/стипендия"
+      },
+      "example": "Obtuvo una beca.",
+      "ipa": "subbenθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-12",
+      "l2": "calendario",
+      "en": "timetable",
+      "gloss": {
+        "en": "timetable",
+        "es": "calendario",
+        "ru": "расписание"
+      },
+      "example": "Mi agenda está ocupada los martes.",
+      "ipa": "ca.lendarˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-estudios-b1-13",
+      "l2": "sala de conferencias",
+      "en": "lecture hall",
+      "gloss": {
+        "en": "lecture hall",
+        "es": "sala de conferencias",
+        "ru": "лекционный зал"
+      },
+      "example": "La clase se lleva a cabo en un gran anfiteatro.",
+      "ipa": "sa.la de confe.renθˈias",
+      "article": "el"
+    },
+    {
+      "id": "remote-estudios-b1-14",
+      "l2": "bibliografía",
+      "en": "bibliography",
+      "gloss": {
+        "en": "bibliography",
+        "es": "bibliografía",
+        "ru": "библиография"
+      },
+      "example": "La bibliografía se encuentra al final del trabajo.",
+      "ipa": "bibliografˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-15",
+      "l2": "presentación",
+      "en": "presentation",
+      "gloss": {
+        "en": "presentation",
+        "es": "presentación",
+        "ru": "презентация"
+      },
+      "example": "Estoy preparando una presentación sobre la Revolución.",
+      "ipa": "pre.senta.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-16",
+      "l2": "evaluación continua",
+      "en": "continuous assessment",
+      "gloss": {
+        "en": "continuous assessment",
+        "es": "evaluación continua",
+        "ru": "непрерывная оценка"
+      },
+      "example": "El seguimiento continuo representa la mitad.",
+      "ipa": "e.balua.θiˈon conti.nua",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-17",
+      "l2": "repitiendo un año",
+      "en": "repeating a year",
+      "gloss": {
+        "en": "repeating a year",
+        "es": "repitiendo un año",
+        "ru": "повторение года"
+      },
+      "example": "La repetición ya no es automática.",
+      "ipa": "re.pitiendo un ˈa.ɲo",
+      "article": "el"
+    },
+    {
+      "id": "remote-estudios-b1-18",
+      "l2": "pista",
+      "en": "track / major",
+      "gloss": {
+        "en": "track / major",
+        "es": "pista / mayor",
+        "ru": "трек / майор"
+      },
+      "example": "¿Qué sector elegiste?",
+      "ipa": "pˈista",
+      "article": "la"
+    },
+    {
+      "id": "remote-estudios-b1-19",
+      "l2": "maestro",
+      "en": "teacher / professor",
+      "gloss": {
+        "en": "teacher / professor",
+        "es": "maestro/profesor",
+        "ru": "преподаватель/профессор"
+      },
+      "example": "El profesor explica las instrucciones.",
+      "ipa": "maˈestro",
+      "article": "el"
+    },
+    {
+      "id": "remote-estudios-b1-20",
+      "l2": "revisión",
+      "en": "revision / review",
+      "gloss": {
+        "en": "revision / review",
+        "es": "revisión / revisión",
+        "ru": "пересмотр / обзор"
+      },
+      "example": "Las revisiones comienzan dos semanas antes.",
+      "ipa": "re.bisiˈon",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-estudios-b1-phrase-1",
+      "l2": "Me estoy preparando para un examen importante en junio.",
+      "en": "I’m preparing for an important exam in June.",
+      "gloss": {
+        "en": "I’m preparing for an important exam in June.",
+        "es": "Me estoy preparando para un examen importante en junio.",
+        "ru": "Я готовлюсь к важному экзамену в июне."
+      },
+      "ipa": "mˈe estˈoʝ pre.parˈando pˈa.ra ˈun exˈa.men importˈante ˈen xunˈio"
+    },
+    {
+      "id": "remote-estudios-b1-phrase-2",
+      "l2": "Tengo una tarea que entregar antes del lunes.",
+      "en": "I have an assignment to hand in before Monday.",
+      "gloss": {
+        "en": "I have an assignment to hand in before Monday.",
+        "es": "Tengo una tarea que entregar antes del lunes.",
+        "ru": "Мне нужно сдать задание до понедельника."
+      },
+      "ipa": "tˈengo ˈu.na tarˈea kˈe entregˈar ˈantes dˈel lˈu.nes"
+    },
+    {
+      "id": "remote-estudios-b1-phrase-3",
+      "l2": "¿Qué sector elegiste?",
+      "en": "Which track did you choose?",
+      "gloss": {
+        "en": "Which track did you choose?",
+        "es": "¿Qué pista elegiste?",
+        "ru": "Какой трек вы выбрали?"
+      },
+      "ipa": "kˈe sectˈor e.lexˈiste"
+    },
+    {
+      "id": "remote-estudios-b1-phrase-4",
+      "l2": "Estoy buscando unas prácticas para este verano.",
+      "en": "I’m looking for a placement this summer.",
+      "gloss": {
+        "en": "I’m looking for a placement this summer.",
+        "es": "Estoy buscando una colocación este verano.",
+        "ru": "Ищу место этим летом."
+      },
+      "ipa": "estˈoʝ buscˈando ˈu.nas prˈacti.cas pˈa.ra ˈeste berˈa.no"
+    },
+    {
+      "id": "remote-estudios-b1-phrase-5",
+      "l2": "Si tuviera más tiempo lo revisaría mejor.",
+      "en": "If I had more time, I would revise better.",
+      "gloss": {
+        "en": "If I had more time, I would revise better.",
+        "es": "Si tuviera más tiempo lo revisaría mejor.",
+        "ru": "Если бы у меня было больше времени, я бы пересматривал лучше."
+      },
+      "ipa": "sˈi tu.biˈe.ra mˈas tiˈempo lˈo re.bisarˈia mexˈor"
+    },
+    {
+      "id": "remote-estudios-b1-phrase-6",
+      "l2": "Las calificaciones no dicen todo sobre un estudiante.",
+      "en": "Grades don’t say everything about a student.",
+      "gloss": {
+        "en": "Grades don’t say everything about a student.",
+        "es": "Las calificaciones no lo dicen todo sobre un estudiante.",
+        "ru": "Оценки не говорят всего об ученике."
+      },
+      "ipa": "lˈas ca.lifi.caθiˈo.nes nˈo dˈi.θen tˈo.do sˈobre ˈun estu.diˈante"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-estudios-b1-listen-1",
+      "l2": "El examen de francés tiene lugar en junio.",
+      "en": "The French exam takes place in June.",
+      "gloss": {
+        "en": "The French exam takes place in June.",
+        "es": "El examen de francés tiene lugar en junio.",
+        "ru": "Экзамен по французскому проводится в июне."
+      },
+      "word": "examen",
+      "wordEn": "exam",
+      "wordGloss": {
+        "en": "exam",
+        "es": "examen",
+        "ru": "экзамен"
+      },
+      "wordIpa": "exˈa.men",
+      "distractors": [
+        "tarea",
+        "prácticas",
+        "subvención"
+      ]
+    },
+    {
+      "id": "remote-estudios-b1-listen-2",
+      "l2": "Estoy buscando una pasantía de tres meses.",
+      "en": "I’m looking for a three-month internship.",
+      "gloss": {
+        "en": "I’m looking for a three-month internship.",
+        "es": "Estoy buscando una pasantía de tres meses.",
+        "ru": "Ищу трехмесячную стажировку."
+      },
+      "word": "prácticas",
+      "wordEn": "internship",
+      "wordGloss": {
+        "en": "internship",
+        "es": "pasantía",
+        "ru": "стажировка"
+      },
+      "wordIpa": "prˈacti.cas",
+      "distractors": [
+        "clase",
+        "diploma",
+        "calificación"
+      ]
+    },
+    {
+      "id": "remote-estudios-b1-listen-3",
+      "l2": "La inscripción en la universidad se realiza online.",
+      "en": "University enrolment is done online.",
+      "gloss": {
+        "en": "University enrolment is done online.",
+        "es": "La matrícula universitaria se realiza online.",
+        "ru": "Зачисление в университет осуществляется онлайн."
+      },
+      "word": "inscripción",
+      "wordEn": "enrolment",
+      "wordGloss": {
+        "en": "enrolment",
+        "es": "inscripción",
+        "ru": "зачисление"
+      },
+      "wordIpa": "inscripθiˈon",
+      "distractors": [
+        "orientación",
+        "revisión",
+        "pista"
+      ]
+    },
+    {
+      "id": "remote-estudios-b1-listen-4",
+      "l2": "Estoy preparando una presentación sobre la Revolución.",
+      "en": "I’m preparing a presentation on the Revolution.",
+      "gloss": {
+        "en": "I’m preparing a presentation on the Revolution.",
+        "es": "Estoy preparando una presentación sobre la Revolución.",
+        "ru": "Готовлю презентацию о Революции."
+      },
+      "word": "presentación",
+      "wordEn": "presentation",
+      "wordGloss": {
+        "en": "presentation",
+        "es": "presentación",
+        "ru": "презентация"
+      },
+      "wordIpa": "pre.senta.θiˈon",
+      "distractors": [
+        "evaluación continua",
+        "bibliografía",
+        "sala de conferencias"
+      ]
+    }
+  ],
+  "prompts": [
+    "Describe un día típico de estudio.",
+    "¿Prefieres evaluación continua o un gran examen? Para qué ?",
+    "Habla sobre una pasantía o un proyecto escolar.",
+    "¿Qué te gustaría estudiar cuando seas grande?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-estudios-b1-grammar-1",
+      "title": {
+        "fr": "Subjonctif présent après querer que",
+        "en": "Present subjunctive after querer que",
+        "es": "Subjuntivo presente tras querer que",
+        "ru": "Subjuntivo после querer que"
+      },
+      "rule": {
+        "fr": "Après querer / esperar / es importante que, utilisez le subjonctif présent.",
+        "en": "After querer / esperar / es importante que, use the present subjunctive.",
+        "es": "Tras querer / esperar / es importante que, usa el subjuntivo presente.",
+        "ru": "После querer / esperar / es importante que — presente de subjuntivo."
+      },
+      "why": {
+        "en": "Expresses wishes and necessity about someone else.",
+        "es": "Expresa deseos y necesidad sobre otra persona.",
+        "ru": "Выражает желание или необходимость в отношении другого."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "quiero que",
+          "+ subjuntivo",
+          "Quiero que haya universidad."
+        ],
+        [
+          "es importante que",
+          "+ subjuntivo",
+          "Es importante que exista tarea."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-estudios-b1-gq-1-1",
+          "prompt": "Quiero que tú ___ (venir).",
+          "answer": "vengas",
+          "options": [
+            "vengas",
+            "vienes",
+            "vendrás"
+          ]
+        },
+        {
+          "id": "remote-estudios-b1-gq-1-2",
+          "prompt": "Es importante que ___ (haber) consenso.",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-estudios-b1-gq-1-3",
+          "prompt": "Espero que ___ (ser) posible.",
+          "answer": "sea",
+          "options": [
+            "sea",
+            "es",
+            "será"
+          ]
+        },
+        {
+          "id": "remote-estudios-b1-gq-1-4",
+          "prompt": "Relaciona con el tema: universidad / tarea. ¿Artículo de «universidad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-estudios-b1-gq-1-5",
+          "prompt": "Relaciona con el tema: universidad / tarea. ¿Artículo de «universidad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-estudios-b1-grammar-2",
+      "title": {
+        "fr": "Se impersonal",
+        "en": "Impersonal se",
+        "es": "Se impersonal",
+        "ru": "Безличный se"
+      },
+      "rule": {
+        "fr": "Se + 3e personne exprime une généralité : Se habla español.",
+        "en": "Se + 3rd person expresses a general rule: Se habla español.",
+        "es": "Se + 3.ª persona expresa una generalidad: Se habla español.",
+        "ru": "Se + 3-е лицо выражает общее правило: Se habla español."
+      },
+      "why": {
+        "en": "Sounds natural in advice and public notices.",
+        "es": "Suena natural en consejos y avisos.",
+        "ru": "Звучит естественно в советах и объявлениях."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Se + 3ª",
+          "generalidad",
+          "Se necesita clase."
+        ],
+        [
+          "Se + 3ª",
+          "aviso",
+          "Se habla de calificación."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-estudios-b1-gq-2-1",
+          "prompt": "___ habla de clase.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Lo",
+            "Le"
+          ]
+        },
+        {
+          "id": "remote-estudios-b1-gq-2-2",
+          "prompt": "___ recomienda calificación.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Me",
+            "Te"
+          ]
+        },
+        {
+          "id": "remote-estudios-b1-gq-2-3",
+          "prompt": "En España ___ español.",
+          "answer": "se habla",
+          "options": [
+            "se habla",
+            "habla se",
+            "hablan se"
+          ]
+        },
+        {
+          "id": "remote-estudios-b1-gq-2-4",
+          "prompt": "Relaciona con el tema: clase / calificación. ¿Artículo de «clase»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-estudios-b1-gq-2-5",
+          "prompt": "Relaciona con el tema: clase / calificación. ¿Artículo de «clase»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-estudios-b1-dict-1",
+        "l2": "Me estoy preparando para un examen importante en junio.",
+        "en": "I’m preparing for an important exam in June.",
+        "gloss": {
+          "en": "I’m preparing for an important exam in June.",
+          "es": "Me estoy preparando para un examen importante en junio.",
+          "ru": "Я готовлюсь к важному экзамену в июне."
+        },
+        "ipa": "mˈe estˈoʝ pre.parˈando pˈa.ra ˈun exˈa.men importˈante ˈen xunˈio"
+      },
+      {
+        "id": "remote-estudios-b1-dict-2",
+        "l2": "Tengo una tarea que entregar antes del lunes.",
+        "en": "I have an assignment to hand in before Monday.",
+        "gloss": {
+          "en": "I have an assignment to hand in before Monday.",
+          "es": "Tengo una tarea que entregar antes del lunes.",
+          "ru": "Мне нужно сдать задание до понедельника."
+        },
+        "ipa": "tˈengo ˈu.na tarˈea kˈe entregˈar ˈantes dˈel lˈu.nes"
+      },
+      {
+        "id": "remote-estudios-b1-dict-3",
+        "l2": "¿Qué sector elegiste?",
+        "en": "Which track did you choose?",
+        "gloss": {
+          "en": "Which track did you choose?",
+          "es": "¿Qué pista elegiste?",
+          "ru": "Какой трек вы выбрали?"
+        },
+        "ipa": "kˈe sectˈor e.lexˈiste"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-estudios-b1-mean-1",
+        "l2": "Me estoy preparando para un examen importante en junio.",
+        "en": "I’m preparing for an important exam in June.",
+        "gloss": {
+          "en": "I’m preparing for an important exam in June.",
+          "es": "Me estoy preparando para un examen importante en junio.",
+          "ru": "Я готовлюсь к важному экзамену в июне."
+        }
+      },
+      {
+        "id": "remote-estudios-b1-mean-2",
+        "l2": "Tengo una tarea que entregar antes del lunes.",
+        "en": "I have an assignment to hand in before Monday.",
+        "gloss": {
+          "en": "I have an assignment to hand in before Monday.",
+          "es": "Tengo una tarea que entregar antes del lunes.",
+          "ru": "Мне нужно сдать задание до понедельника."
+        }
+      },
+      {
+        "id": "remote-estudios-b1-mean-3",
+        "l2": "¿Qué sector elegiste?",
+        "en": "Which track did you choose?",
+        "gloss": {
+          "en": "Which track did you choose?",
+          "es": "¿Qué pista elegiste?",
+          "ru": "Какой трек вы выбрали?"
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-estudios-b1-fren-1",
+        "l2": "estudios",
+        "en": "studies",
+        "gloss": {
+          "en": "studies",
+          "es": "estudios",
+          "ru": "исследования"
+        }
+      },
+      {
+        "id": "remote-estudios-b1-fren-2",
+        "l2": "universidad",
+        "en": "university",
+        "gloss": {
+          "en": "university",
+          "es": "universidad",
+          "ru": "университет"
+        }
+      },
+      {
+        "id": "remote-estudios-b1-fren-3",
+        "l2": "clase",
+        "en": "class",
+        "gloss": {
+          "en": "class",
+          "es": "clase",
+          "ru": "сорт"
+        }
+      },
+      {
+        "id": "remote-estudios-b1-fren-4",
+        "l2": "examen",
+        "en": "exam",
+        "gloss": {
+          "en": "exam",
+          "es": "examen",
+          "ru": "экзамен"
+        }
+      },
+      {
+        "id": "remote-estudios-b1-fren-5",
+        "l2": "tarea",
+        "en": "assignment",
+        "gloss": {
+          "en": "assignment",
+          "es": "asignación",
+          "ru": "назначение"
+        }
+      },
+      {
+        "id": "remote-estudios-b1-fren-6",
+        "l2": "calificación",
+        "en": "grade",
+        "gloss": {
+          "en": "grade",
+          "es": "calificación",
+          "ru": "оценка"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-estudios-b1-alou-1",
+        "l2": "Me estoy preparando para un examen importante en junio.",
+        "en": "I’m preparing for an important exam in June.",
+        "gloss": {
+          "en": "I’m preparing for an important exam in June.",
+          "es": "Me estoy preparando para un examen importante en junio.",
+          "ru": "Я готовлюсь к важному экзамену в июне."
+        },
+        "ipa": "mˈe estˈoʝ pre.parˈando pˈa.ra ˈun exˈa.men importˈante ˈen xunˈio"
+      },
+      {
+        "id": "remote-estudios-b1-alou-2",
+        "l2": "¿Qué sector elegiste?",
+        "en": "Which track did you choose?",
+        "gloss": {
+          "en": "Which track did you choose?",
+          "es": "¿Qué pista elegiste?",
+          "ru": "Какой трек вы выбрали?"
+        },
+        "ipa": "kˈe sectˈor e.lexˈiste"
+      },
+      {
+        "id": "remote-estudios-b1-alou-3",
+        "l2": "Si tuviera más tiempo lo revisaría mejor.",
+        "en": "If I had more time, I would revise better.",
+        "gloss": {
+          "en": "If I had more time, I would revise better.",
+          "es": "Si tuviera más tiempo lo revisaría mejor.",
+          "ru": "Если бы у меня было больше времени, я бы пересматривал лучше."
+        },
+        "ipa": "sˈi tu.biˈe.ra mˈas tiˈempo lˈo re.bisarˈia mexˈor"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-estudios-b1-unsc-1",
+        "l2": "Estoy buscando unas prácticas para este verano.",
+        "en": "I’m looking for a placement this summer.",
+        "gloss": {
+          "en": "I’m looking for a placement this summer.",
+          "es": "Estoy buscando una colocación este verano.",
+          "ru": "Ищу место этим летом."
+        },
+        "words": [
+          "Estoy",
+          "buscando",
+          "unas",
+          "prácticas",
+          "para",
+          "este",
+          "verano."
+        ]
+      },
+      {
+        "id": "remote-estudios-b1-unsc-2",
+        "l2": "Si tuviera más tiempo lo revisaría mejor.",
+        "en": "If I had more time, I would revise better.",
+        "gloss": {
+          "en": "If I had more time, I would revise better.",
+          "es": "Si tuviera más tiempo lo revisaría mejor.",
+          "ru": "Если бы у меня было больше времени, я бы пересматривал лучше."
+        },
+        "words": [
+          "Si",
+          "tuviera",
+          "más",
+          "tiempo",
+          "lo",
+          "revisaría",
+          "mejor."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

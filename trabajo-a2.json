@@ -1,0 +1,833 @@
+{
+  "pratiquePack": 2,
+  "id": "trabajo-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "es",
+  "title": {
+    "fr": "Travail A2 (ES)",
+    "en": "Work A2 (ES)",
+    "es": "Trabajo A2",
+    "ru": "Работа А2 (ES)"
+  },
+  "description": {
+    "fr": "Bureau, collègues et phrases utiles pour parler du travail — pack espagnol.",
+    "en": "Office, colleagues, and useful phrases for talking about work — Spanish pack.",
+    "es": "Oficina, compañeros y frases útiles para hablar de trabajo para estudiar español.",
+    "ru": "Офис, коллеги и полезные фразы для разговоров о работе — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-trabajo-a2-1",
+      "l2": "trabajo",
+      "en": "work / job",
+      "gloss": {
+        "en": "work / job",
+        "es": "trabajo / empleo",
+        "ru": "работа / работа"
+      },
+      "example": "Amo mi trabajo.",
+      "ipa": "trabˈa.xo",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-2",
+      "l2": "oficina",
+      "en": "office / desk",
+      "gloss": {
+        "en": "office / desk",
+        "es": "oficina / escritorio",
+        "ru": "офис / письменный стол"
+      },
+      "example": "Mi oficina está en el tercer piso.",
+      "ipa": "o.fiθˈi.na",
+      "article": "la"
+    },
+    {
+      "id": "remote-trabajo-a2-3",
+      "l2": "colega",
+      "en": "colleague",
+      "gloss": {
+        "en": "colleague",
+        "es": "colega",
+        "ru": "коллега"
+      },
+      "example": "Mi colega es muy amable.",
+      "ipa": "colˈe.ga",
+      "article": "la"
+    },
+    {
+      "id": "remote-trabajo-a2-4",
+      "l2": "reunión",
+      "en": "meeting",
+      "gloss": {
+        "en": "meeting",
+        "es": "reunión",
+        "ru": "встреча"
+      },
+      "example": "La reunión comienza a las diez en punto.",
+      "ipa": "reu.niˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-trabajo-a2-5",
+      "l2": "jefe",
+      "en": "boss",
+      "gloss": {
+        "en": "boss",
+        "es": "jefe",
+        "ru": "босс"
+      },
+      "example": "El jefe está en movimiento.",
+      "ipa": "xˈe.fe",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-6",
+      "l2": "empleado",
+      "en": "employee",
+      "gloss": {
+        "en": "employee",
+        "es": "empleado",
+        "ru": "сотрудник"
+      },
+      "example": "Los empleados se toman un descanso.",
+      "ipa": "empleˈa.do",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-7",
+      "l2": "horario",
+      "en": "schedule / hours",
+      "gloss": {
+        "en": "schedule / hours",
+        "es": "horario / horas",
+        "ru": "график / часы"
+      },
+      "example": "Mis horarios son flexibles.",
+      "ipa": "o.rarˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-8",
+      "l2": "salario",
+      "en": "salary",
+      "gloss": {
+        "en": "salary",
+        "es": "salario",
+        "ru": "зарплата"
+      },
+      "example": "El salario se paga a final de mes.",
+      "ipa": "sa.larˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-9",
+      "l2": "contrato",
+      "en": "contract",
+      "gloss": {
+        "en": "contract",
+        "es": "contrato",
+        "ru": "договор"
+      },
+      "example": "Firmé un nuevo contrato.",
+      "ipa": "contrˈa.to",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-10",
+      "l2": "pausa para el café",
+      "en": "coffee break",
+      "gloss": {
+        "en": "coffee break",
+        "es": "pausa para el café",
+        "ru": "кофе-брейк"
+      },
+      "example": "Nos vemos en la pausa para el café.",
+      "ipa": "pau.sa pa.ra el cafˈe",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-11",
+      "l2": "computadora",
+      "en": "computer",
+      "gloss": {
+        "en": "computer",
+        "es": "computadora",
+        "ru": "компьютер"
+      },
+      "example": "Mi computadora está lenta hoy.",
+      "ipa": "compu.tadˈo.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-trabajo-a2-12",
+      "l2": "correo electrónico",
+      "en": "email",
+      "gloss": {
+        "en": "email",
+        "es": "correo electrónico",
+        "ru": "электронная почта"
+      },
+      "example": "Envío un correo electrónico al cliente.",
+      "ipa": "co.reo e.lectrˈo.nico",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-13",
+      "l2": "cliente",
+      "en": "client / customer",
+      "gloss": {
+        "en": "client / customer",
+        "es": "cliente / cliente",
+        "ru": "клиент / заказчик"
+      },
+      "example": "El cliente espera una respuesta.",
+      "ipa": "cliˈente",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-14",
+      "l2": "proyecto",
+      "en": "project",
+      "gloss": {
+        "en": "project",
+        "es": "proyecto",
+        "ru": "проект"
+      },
+      "example": "Este proyecto es importante.",
+      "ipa": "proʝˈecto",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-15",
+      "l2": "fecha límite",
+      "en": "deadline",
+      "gloss": {
+        "en": "deadline",
+        "es": "fecha límite",
+        "ru": "крайний срок"
+      },
+      "example": "La fecha límite es el viernes.",
+      "ipa": "fetʃa lˈi.mite",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-16",
+      "l2": "entrevista",
+      "en": "interview",
+      "gloss": {
+        "en": "interview",
+        "es": "entrevista",
+        "ru": "интервью"
+      },
+      "example": "Tengo una entrevista de trabajo mañana.",
+      "ipa": "entrebˈista",
+      "article": "la"
+    },
+    {
+      "id": "remote-trabajo-a2-17",
+      "l2": "CV",
+      "en": "CV / résumé",
+      "gloss": {
+        "en": "CV / résumé",
+        "es": "CV / currículum",
+        "ru": "Резюме / резюме"
+      },
+      "example": "Aquí está mi CV.",
+      "ipa": "cb",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-18",
+      "l2": "equipo",
+      "en": "team",
+      "gloss": {
+        "en": "team",
+        "es": "equipo",
+        "ru": "команда"
+      },
+      "example": "Nuestro equipo trabaja bien en conjunto.",
+      "ipa": "ekˈi.po",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-19",
+      "l2": "tiempo libre",
+      "en": "time off / leave",
+      "gloss": {
+        "en": "time off / leave",
+        "es": "tiempo libre / salir",
+        "ru": "выходной / отпуск"
+      },
+      "example": "Me voy de vacaciones en agosto.",
+      "ipa": "tiempo lˈibre",
+      "article": "el"
+    },
+    {
+      "id": "remote-trabajo-a2-20",
+      "l2": "jubilación",
+      "en": "retirement",
+      "gloss": {
+        "en": "retirement",
+        "es": "jubilación",
+        "ru": "выход на пенсию"
+      },
+      "example": "Se jubilará el año que viene.",
+      "ipa": "xu.bila.θiˈon",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-trabajo-a2-phrase-1",
+      "l2": "Trabajo en una oficina.",
+      "en": "I work in an office.",
+      "gloss": {
+        "en": "I work in an office.",
+        "es": "Trabajo en una oficina.",
+        "ru": "Я работаю в офисе."
+      },
+      "ipa": "trabˈa.xo ˈen ˈu.na o.fiθˈi.na"
+    },
+    {
+      "id": "remote-trabajo-a2-phrase-2",
+      "l2": "Tenemos una reunión a las once.",
+      "en": "We have a meeting at eleven o’clock.",
+      "gloss": {
+        "en": "We have a meeting at eleven o’clock.",
+        "es": "Tenemos una reunión a las once.",
+        "ru": "У нас встреча в одиннадцать часов."
+      },
+      "ipa": "tenˈe.mos ˈu.na reu.niˈon ˈa lˈas ˈonθe"
+    },
+    {
+      "id": "remote-trabajo-a2-phrase-3",
+      "l2": "Estoy buscando trabajo.",
+      "en": "I’m looking for a job.",
+      "gloss": {
+        "en": "I’m looking for a job.",
+        "es": "Estoy buscando trabajo.",
+        "ru": "Я ищу работу."
+      },
+      "ipa": "estˈoʝ buscˈando trabˈa.xo"
+    },
+    {
+      "id": "remote-trabajo-a2-phrase-4",
+      "l2": "¿Puedes enviarme un correo electrónico?",
+      "en": "Can you send me an email?",
+      "gloss": {
+        "en": "Can you send me an email?",
+        "es": "¿Puedes enviarme un correo electrónico?",
+        "ru": "Можете ли вы отправить мне электронное письмо?"
+      },
+      "ipa": "puˈe.des enbiˈarme ˈun corˈeo e.lectrˈo.nico"
+    },
+    {
+      "id": "remote-trabajo-a2-phrase-5",
+      "l2": "Me voy la semana que viene.",
+      "en": "I’m on leave next week.",
+      "gloss": {
+        "en": "I’m on leave next week.",
+        "es": "Estoy de permiso la semana que viene.",
+        "ru": "На следующей неделе я в отпуске."
+      },
+      "ipa": "mˈe bˈoʝ lˈa semˈa.na kˈe biˈe.ne"
+    },
+    {
+      "id": "remote-trabajo-a2-phrase-6",
+      "l2": "Es un trabajo a tiempo parcial.",
+      "en": "It’s a part-time job.",
+      "gloss": {
+        "en": "It’s a part-time job.",
+        "es": "Es un trabajo a tiempo parcial.",
+        "ru": "Это подработка."
+      },
+      "ipa": "ˈes ˈun trabˈa.xo ˈa tiˈempo parθiˈal"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-trabajo-a2-listen-1",
+      "l2": "La reunión comienza a las diez en punto.",
+      "en": "The meeting starts at ten o’clock sharp.",
+      "gloss": {
+        "en": "The meeting starts at ten o’clock sharp.",
+        "es": "La reunión comienza a las diez en punto.",
+        "ru": "Встреча начнется ровно в десять часов."
+      },
+      "word": "reunión",
+      "wordEn": "meeting",
+      "wordGloss": {
+        "en": "meeting",
+        "es": "reunión",
+        "ru": "встреча"
+      },
+      "wordIpa": "reu.niˈon",
+      "distractors": [
+        "pausa para el café",
+        "entrevista",
+        "proyecto"
+      ]
+    },
+    {
+      "id": "remote-trabajo-a2-listen-2",
+      "l2": "Esta mañana le envío un correo electrónico al cliente.",
+      "en": "I’m sending an email to the client this morning.",
+      "gloss": {
+        "en": "I’m sending an email to the client this morning.",
+        "es": "Le enviaré un correo electrónico al cliente esta mañana.",
+        "ru": "Сегодня утром отправляю письмо клиенту."
+      },
+      "word": "correo electrónico",
+      "wordEn": "email",
+      "wordGloss": {
+        "en": "email",
+        "es": "correo electrónico",
+        "ru": "электронная почта"
+      },
+      "wordIpa": "co.reo e.lectrˈo.nico",
+      "distractors": [
+        "contrato",
+        "CV",
+        "salario"
+      ]
+    },
+    {
+      "id": "remote-trabajo-a2-listen-3",
+      "l2": "Mi colega está preparando el proyecto.",
+      "en": "My colleague is preparing the project.",
+      "gloss": {
+        "en": "My colleague is preparing the project.",
+        "es": "Mi colega está preparando el proyecto.",
+        "ru": "Мой коллега готовит проект."
+      },
+      "word": "colega",
+      "wordEn": "colleague",
+      "wordGloss": {
+        "en": "colleague",
+        "es": "colega",
+        "ru": "коллега"
+      },
+      "wordIpa": "colˈe.ga",
+      "distractors": [
+        "jefe",
+        "empleado",
+        "equipo"
+      ]
+    },
+    {
+      "id": "remote-trabajo-a2-listen-4",
+      "l2": "Me voy de vacaciones en agosto.",
+      "en": "I’m taking time off in August.",
+      "gloss": {
+        "en": "I’m taking time off in August.",
+        "es": "Me tomaré un tiempo libre en agosto.",
+        "ru": "В августе я беру отпуск."
+      },
+      "word": "tiempo libre",
+      "wordEn": "leave",
+      "wordGloss": {
+        "en": "leave",
+        "es": "dejar",
+        "ru": "оставлять"
+      },
+      "wordIpa": "tiempo lˈibre",
+      "distractors": [
+        "jubilación",
+        "horario",
+        "salario"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Dónde trabajas y a qué te dedicas?",
+    "Describe un día en la oficina.",
+    "¿Prefieres trabajar por la mañana o por la tarde? Para qué ?",
+    "¿Cuáles son tus horarios esta semana?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-trabajo-a2-grammar-1",
+      "title": {
+        "fr": "Pretérito vs imperfecto",
+        "en": "Preterite vs imperfect",
+        "es": "Pretérito frente a imperfecto",
+        "ru": "Pretérito и imperfecto"
+      },
+      "rule": {
+        "fr": "Le prétérito raconte un fait achevé ; l’imperfecto décrit le cadre ou l’habitude.",
+        "en": "Preterite narrates a completed event; imperfect sets the scene or habit.",
+        "es": "El pretérito narra un hecho terminado; el imperfecto describe el marco o la costumbre.",
+        "ru": "Pretérito — завершённое событие; imperfecto — фон или привычка."
+      },
+      "why": {
+        "en": "Choosing the right past tense clarifies your story.",
+        "es": "Elegir el pasado correcto aclara tu relato.",
+        "ru": "Правильный выбор прошедшего делает рассказ яснее."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Pretérito",
+          "hecho terminado",
+          "Ayer vi la oficina."
+        ],
+        [
+          "Imperfecto",
+          "costumbre / marco",
+          "Siempre había jefe."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-trabajo-a2-gq-1-1",
+          "prompt": "Ayer ___ al médico. (ir)",
+          "answer": "fui",
+          "options": [
+            "fui",
+            "iba",
+            "iré"
+          ]
+        },
+        {
+          "id": "remote-trabajo-a2-gq-1-2",
+          "prompt": "De niño, ___ mucho. (leer)",
+          "answer": "leía",
+          "options": [
+            "leí",
+            "leía",
+            "leeré"
+          ]
+        },
+        {
+          "id": "remote-trabajo-a2-gq-1-3",
+          "prompt": "El año pasado ___ la oficina. (comprar)",
+          "answer": "compré",
+          "options": [
+            "compré",
+            "compraba",
+            "compro"
+          ]
+        },
+        {
+          "id": "remote-trabajo-a2-gq-1-4",
+          "prompt": "Relaciona con el tema: oficina / jefe. ¿Artículo de «oficina»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-trabajo-a2-gq-1-5",
+          "prompt": "Relaciona con el tema: oficina / jefe. ¿Artículo de «oficina»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-trabajo-a2-grammar-2",
+      "title": {
+        "fr": "Por / para",
+        "en": "Por / para",
+        "es": "Por / para",
+        "ru": "Por / para"
+      },
+      "rule": {
+        "fr": "Para indique le but ou la destination ; por la cause, la durée ou le moyen.",
+        "en": "Para marks purpose or destination; por marks cause, duration, or means.",
+        "es": "Para indica propósito o destino; por indica causa, duración o medio.",
+        "ru": "Para — цель или направление; por — причина, длительность или средство."
+      },
+      "why": {
+        "en": "Avoids a very common mix-up.",
+        "es": "Evita una confusión muy frecuente.",
+        "ru": "Помогает избежать частой ошибки."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "para",
+          "objetivo / destino",
+          "Esto es para colega."
+        ],
+        [
+          "por",
+          "causa / medio",
+          "Lo hago por empleado."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-trabajo-a2-gq-2-1",
+          "prompt": "Estudio ___ colega. (objetivo)",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "con"
+          ]
+        },
+        {
+          "id": "remote-trabajo-a2-gq-2-2",
+          "prompt": "Gracias ___ tu ayuda.",
+          "answer": "por",
+          "options": [
+            "por",
+            "para",
+            "de"
+          ]
+        },
+        {
+          "id": "remote-trabajo-a2-gq-2-3",
+          "prompt": "Salgo ___ Madrid mañana.",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "en"
+          ]
+        },
+        {
+          "id": "remote-trabajo-a2-gq-2-4",
+          "prompt": "Relaciona con el tema: colega / empleado. ¿Artículo de «colega»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-trabajo-a2-gq-2-5",
+          "prompt": "Relaciona con el tema: colega / empleado. ¿Artículo de «colega»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-trabajo-a2-dict-1",
+        "l2": "Trabajo en una oficina.",
+        "en": "I work in an office.",
+        "gloss": {
+          "en": "I work in an office.",
+          "es": "Trabajo en una oficina.",
+          "ru": "Я работаю в офисе."
+        },
+        "ipa": "trabˈa.xo ˈen ˈu.na o.fiθˈi.na"
+      },
+      {
+        "id": "remote-trabajo-a2-dict-2",
+        "l2": "Tenemos una reunión a las once.",
+        "en": "We have a meeting at eleven o’clock.",
+        "gloss": {
+          "en": "We have a meeting at eleven o’clock.",
+          "es": "Tenemos una reunión a las once.",
+          "ru": "У нас встреча в одиннадцать часов."
+        },
+        "ipa": "tenˈe.mos ˈu.na reu.niˈon ˈa lˈas ˈonθe"
+      },
+      {
+        "id": "remote-trabajo-a2-dict-3",
+        "l2": "Estoy buscando trabajo.",
+        "en": "I’m looking for a job.",
+        "gloss": {
+          "en": "I’m looking for a job.",
+          "es": "Estoy buscando trabajo.",
+          "ru": "Я ищу работу."
+        },
+        "ipa": "estˈoʝ buscˈando trabˈa.xo"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-trabajo-a2-mean-1",
+        "l2": "Trabajo en una oficina.",
+        "en": "I work in an office.",
+        "gloss": {
+          "en": "I work in an office.",
+          "es": "Trabajo en una oficina.",
+          "ru": "Я работаю в офисе."
+        }
+      },
+      {
+        "id": "remote-trabajo-a2-mean-2",
+        "l2": "Tenemos una reunión a las once.",
+        "en": "We have a meeting at eleven o’clock.",
+        "gloss": {
+          "en": "We have a meeting at eleven o’clock.",
+          "es": "Tenemos una reunión a las once.",
+          "ru": "У нас встреча в одиннадцать часов."
+        }
+      },
+      {
+        "id": "remote-trabajo-a2-mean-3",
+        "l2": "Estoy buscando trabajo.",
+        "en": "I’m looking for a job.",
+        "gloss": {
+          "en": "I’m looking for a job.",
+          "es": "Estoy buscando trabajo.",
+          "ru": "Я ищу работу."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-trabajo-a2-fren-1",
+        "l2": "trabajo",
+        "en": "work",
+        "gloss": {
+          "en": "work",
+          "es": "trabajar",
+          "ru": "работа"
+        }
+      },
+      {
+        "id": "remote-trabajo-a2-fren-2",
+        "l2": "oficina",
+        "en": "office",
+        "gloss": {
+          "en": "office",
+          "es": "oficina",
+          "ru": "офис"
+        }
+      },
+      {
+        "id": "remote-trabajo-a2-fren-3",
+        "l2": "colega",
+        "en": "colleague",
+        "gloss": {
+          "en": "colleague",
+          "es": "colega",
+          "ru": "коллега"
+        }
+      },
+      {
+        "id": "remote-trabajo-a2-fren-4",
+        "l2": "reunión",
+        "en": "meeting",
+        "gloss": {
+          "en": "meeting",
+          "es": "reunión",
+          "ru": "встреча"
+        }
+      },
+      {
+        "id": "remote-trabajo-a2-fren-5",
+        "l2": "jefe",
+        "en": "boss",
+        "gloss": {
+          "en": "boss",
+          "es": "jefe",
+          "ru": "босс"
+        }
+      },
+      {
+        "id": "remote-trabajo-a2-fren-6",
+        "l2": "empleado",
+        "en": "employee",
+        "gloss": {
+          "en": "employee",
+          "es": "empleado",
+          "ru": "сотрудник"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-trabajo-a2-alou-1",
+        "l2": "Trabajo en una oficina.",
+        "en": "I work in an office.",
+        "gloss": {
+          "en": "I work in an office.",
+          "es": "Trabajo en una oficina.",
+          "ru": "Я работаю в офисе."
+        },
+        "ipa": "trabˈa.xo ˈen ˈu.na o.fiθˈi.na"
+      },
+      {
+        "id": "remote-trabajo-a2-alou-2",
+        "l2": "Estoy buscando trabajo.",
+        "en": "I’m looking for a job.",
+        "gloss": {
+          "en": "I’m looking for a job.",
+          "es": "Estoy buscando trabajo.",
+          "ru": "Я ищу работу."
+        },
+        "ipa": "estˈoʝ buscˈando trabˈa.xo"
+      },
+      {
+        "id": "remote-trabajo-a2-alou-3",
+        "l2": "Me voy la semana que viene.",
+        "en": "I’m on leave next week.",
+        "gloss": {
+          "en": "I’m on leave next week.",
+          "es": "Estoy de permiso la semana que viene.",
+          "ru": "На следующей неделе я в отпуске."
+        },
+        "ipa": "mˈe bˈoʝ lˈa semˈa.na kˈe biˈe.ne"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-trabajo-a2-unsc-1",
+        "l2": "¿Puedes enviarme un correo electrónico?",
+        "en": "Can you send me an email?",
+        "gloss": {
+          "en": "Can you send me an email?",
+          "es": "¿Puedes enviarme un correo electrónico?",
+          "ru": "Можете ли вы отправить мне электронное письмо?"
+        },
+        "words": [
+          "¿Puedes",
+          "enviarme",
+          "un",
+          "correo",
+          "electrónico?"
+        ]
+      },
+      {
+        "id": "remote-trabajo-a2-unsc-2",
+        "l2": "Me voy la semana que viene.",
+        "en": "I’m on leave next week.",
+        "gloss": {
+          "en": "I’m on leave next week.",
+          "es": "Estoy de permiso la semana que viene.",
+          "ru": "На следующей неделе я в отпуске."
+        },
+        "words": [
+          "Me",
+          "voy",
+          "la",
+          "semana",
+          "que",
+          "viene."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

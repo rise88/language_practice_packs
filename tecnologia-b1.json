@@ -1,0 +1,835 @@
+{
+  "pratiquePack": 2,
+  "id": "tecnologia-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "es",
+  "title": {
+    "fr": "Technologie B1 (ES)",
+    "en": "Technology B1 (ES)",
+    "es": "Tecnología B1",
+    "ru": "Технология Б1 (ES)"
+  },
+  "description": {
+    "fr": "Outils numériques, réseaux et problèmes techniques du quotidien — pack espagnol.",
+    "en": "Digital tools, networks, and everyday tech problems — Spanish pack.",
+    "es": "Herramientas digitales, redes y problemas tecnológicos cotidianos para estudiar español.",
+    "ru": "Цифровые инструменты, сети и повседневные технические проблемы — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-tecnologia-b1-1",
+      "l2": "tecnología",
+      "en": "technology",
+      "gloss": {
+        "en": "technology",
+        "es": "tecnología",
+        "ru": "технология"
+      },
+      "example": "La tecnología está cambiando nuestros hábitos rápidamente.",
+      "ipa": "tecno.logˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-tecnologia-b1-2",
+      "l2": "pantalla",
+      "en": "screen",
+      "gloss": {
+        "en": "screen",
+        "es": "pantalla",
+        "ru": "экран"
+      },
+      "example": "Paso demasiado tiempo frente a la pantalla.",
+      "ipa": "pantˈa.ʎa",
+      "article": "la"
+    },
+    {
+      "id": "remote-tecnologia-b1-3",
+      "l2": "software",
+      "en": "software",
+      "gloss": {
+        "en": "software",
+        "es": "software",
+        "ru": "программное обеспечение"
+      },
+      "example": "Este software se amortiza después de un mes.",
+      "ipa": "softwˈa.re",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-4",
+      "l2": "archivo",
+      "en": "file",
+      "gloss": {
+        "en": "file",
+        "es": "archivo",
+        "ru": "файл"
+      },
+      "example": "Perdí el archivo esta mañana.",
+      "ipa": "artʃˈi.bo",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-5",
+      "l2": "hacer copia de seguridad",
+      "en": "backup / save",
+      "gloss": {
+        "en": "backup / save",
+        "es": "hacer copia de seguridad / guardar",
+        "ru": "резервное копирование/сохранение"
+      },
+      "example": "Haz una copia de seguridad antes de salir.",
+      "ipa": "a.θer co.pia de seɡridˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-tecnologia-b1-6",
+      "l2": "contraseña",
+      "en": "password",
+      "gloss": {
+        "en": "password",
+        "es": "contraseña",
+        "ru": "пароль"
+      },
+      "example": "Cambie su contraseña periódicamente.",
+      "ipa": "contrasˈe.ɲa",
+      "article": "la"
+    },
+    {
+      "id": "remote-tecnologia-b1-7",
+      "l2": "red social",
+      "en": "social network",
+      "gloss": {
+        "en": "social network",
+        "es": "red social",
+        "ru": "социальная сеть"
+      },
+      "example": "Esta red social cansa a mucha gente.",
+      "ipa": "red so.θiˈal",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-8",
+      "l2": "inteligencia artificial",
+      "en": "artificial intelligence",
+      "gloss": {
+        "en": "artificial intelligence",
+        "es": "inteligencia artificial",
+        "ru": "искусственный интеллект"
+      },
+      "example": "La inteligencia artificial ayuda a traducir.",
+      "ipa": "inte.lixenθia arti.fiθiˈal",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-9",
+      "l2": "seco",
+      "en": "hacking",
+      "gloss": {
+        "en": "hacking",
+        "es": "seco",
+        "ru": "взлом"
+      },
+      "example": "El hack bloqueó el sitio durante dos horas.",
+      "ipa": "sˈe.co",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-10",
+      "l2": "actualizar",
+      "en": "update",
+      "gloss": {
+        "en": "update",
+        "es": "actualizar",
+        "ru": "обновлять"
+      },
+      "example": "La actualización dura veinte minutos.",
+      "ipa": "actua.liθˈar",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-11",
+      "l2": "conexión",
+      "en": "connection",
+      "gloss": {
+        "en": "connection",
+        "es": "conexión",
+        "ru": "связь"
+      },
+      "example": "La conexión aquí es demasiado lenta.",
+      "ipa": "co.nexiˈon",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-12",
+      "l2": "nube",
+      "en": "cloud (computing)",
+      "gloss": {
+        "en": "cloud (computing)",
+        "es": "nube (informática)",
+        "ru": "облако (вычисления)"
+      },
+      "example": "Las fotos se almacenan en la nube.",
+      "ipa": "nˈu.be",
+      "article": "la"
+    },
+    {
+      "id": "remote-tecnologia-b1-13",
+      "l2": "impresora",
+      "en": "printer",
+      "gloss": {
+        "en": "printer",
+        "es": "impresora",
+        "ru": "принтер"
+      },
+      "example": "La impresora se ha quedado sin tinta.",
+      "ipa": "impresˈo.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-tecnologia-b1-14",
+      "l2": "auriculares",
+      "en": "headphones / headset",
+      "gloss": {
+        "en": "headphones / headset",
+        "es": "auriculares / auriculares",
+        "ru": "наушники/гарнитура"
+      },
+      "example": "Trabajo mejor con auriculares.",
+      "ipa": "au.riculˈa.res",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-15",
+      "l2": "notificación",
+      "en": "notification",
+      "gloss": {
+        "en": "notification",
+        "es": "notificación",
+        "ru": "уведомление"
+      },
+      "example": "Me siguen interrumpiendo las notificaciones.",
+      "ipa": "no.tifi.caθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-tecnologia-b1-16",
+      "l2": "algoritmo",
+      "en": "algorithm",
+      "gloss": {
+        "en": "algorithm",
+        "es": "algoritmo",
+        "ru": "алгоритм"
+      },
+      "example": "El algoritmo elige lo que ves.",
+      "ipa": "algorˈitmo",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-17",
+      "l2": "datos personales",
+      "en": "personal data",
+      "gloss": {
+        "en": "personal data",
+        "es": "datos personales",
+        "ru": "персональные данные"
+      },
+      "example": "Sus datos personales deben permanecer privados.",
+      "ipa": "da.tos personˈa.les",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-18",
+      "l2": "avería",
+      "en": "breakdown / outage",
+      "gloss": {
+        "en": "breakdown / outage",
+        "es": "avería / interrupción",
+        "ru": "поломка/отключение"
+      },
+      "example": "Una interrupción apagó el servidor.",
+      "ipa": "a.berˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-tecnologia-b1-19",
+      "l2": "tutorial",
+      "en": "tutorial",
+      "gloss": {
+        "en": "tutorial",
+        "es": "tutorial",
+        "ru": "учебник"
+      },
+      "example": "Seguí un tutorial para solucionar este problema.",
+      "ipa": "tu.toriˈal",
+      "article": "el"
+    },
+    {
+      "id": "remote-tecnologia-b1-20",
+      "l2": "configuración",
+      "en": "setting",
+      "gloss": {
+        "en": "setting",
+        "es": "configuración",
+        "ru": "параметр"
+      },
+      "example": "Cambie esta configuración en las opciones.",
+      "ipa": "confiɡra.θiˈon",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-tecnologia-b1-phrase-1",
+      "l2": "Paso demasiado tiempo frente a la pantalla.",
+      "en": "I spend too much time in front of the screen.",
+      "gloss": {
+        "en": "I spend too much time in front of the screen.",
+        "es": "Paso demasiado tiempo frente a la pantalla.",
+        "ru": "Я провожу слишком много времени перед экраном."
+      },
+      "ipa": "pˈa.so de.masiˈa.do tiˈempo frˈente ˈa lˈa pantˈa.ʎa"
+    },
+    {
+      "id": "remote-tecnologia-b1-phrase-2",
+      "l2": "¿Has pensado en hacer una copia de seguridad?",
+      "en": "Did you remember to make a backup?",
+      "gloss": {
+        "en": "Did you remember to make a backup?",
+        "es": "¿Recordaste hacer una copia de seguridad?",
+        "ru": "Вы не забыли сделать резервную копию?"
+      },
+      "ipa": "ˈas pensˈa.do ˈen aθˈer ˈu.na copˈia dˈe seɡridˈad"
+    },
+    {
+      "id": "remote-tecnologia-b1-phrase-3",
+      "l2": "La conexión es demasiado lenta para vídeo.",
+      "en": "The connection is too slow for a video call.",
+      "gloss": {
+        "en": "The connection is too slow for a video call.",
+        "es": "La conexión es demasiado lenta para una videollamada.",
+        "ru": "Соединение слишком медленное для видеозвонка."
+      },
+      "ipa": "lˈa co.nexiˈon ˈes de.masiˈa.do lˈenta pˈa.ra bˈi.deo"
+    },
+    {
+      "id": "remote-tecnologia-b1-phrase-4",
+      "l2": "Necesito cambiar mi contraseña.",
+      "en": "I need to change my password.",
+      "gloss": {
+        "en": "I need to change my password.",
+        "es": "Necesito cambiar mi contraseña.",
+        "ru": "Мне нужно сменить пароль."
+      },
+      "ipa": "ne.θesˈi.to cambiˈar mˈi contrasˈe.ɲa"
+    },
+    {
+      "id": "remote-tecnologia-b1-phrase-5",
+      "l2": "Las redes sociales ocupan demasiado espacio en mi época.",
+      "en": "Social networks take up too much of my day.",
+      "gloss": {
+        "en": "Social networks take up too much of my day.",
+        "es": "Las redes sociales ocupan demasiado de mi día.",
+        "ru": "Социальные сети отнимают слишком много моего времени."
+      },
+      "ipa": "lˈas rˈe.des so.θiˈa.les ocˈu.pan de.masiˈa.do espaθˈio ˈen mˈi ˈe.poca"
+    },
+    {
+      "id": "remote-tecnologia-b1-phrase-6",
+      "l2": "La inteligencia artificial puede ayudar, pero no sustituirlo todo.",
+      "en": "AI can help, but it can’t replace everything.",
+      "gloss": {
+        "en": "AI can help, but it can’t replace everything.",
+        "es": "La IA puede ayudar, pero no puede reemplazarlo todo.",
+        "ru": "ИИ может помочь, но он не может заменить все."
+      },
+      "ipa": "lˈa inte.lixenθˈia arti.fiθiˈal puˈe.de a.ʝudˈar pˈe.ro nˈo susti.tuˈirlo tˈo.do"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-tecnologia-b1-listen-1",
+      "l2": "Haz una copia de seguridad antes de salir.",
+      "en": "Make a backup before you leave.",
+      "gloss": {
+        "en": "Make a backup before you leave.",
+        "es": "Haga una copia de seguridad antes de partir.",
+        "ru": "Прежде чем уйти, сделайте резервную копию."
+      },
+      "word": "hacer copia de seguridad",
+      "wordEn": "backup",
+      "wordGloss": {
+        "en": "backup",
+        "es": "respaldo",
+        "ru": "резервное копирование"
+      },
+      "wordIpa": "a.θer co.pia de seɡridˈad",
+      "distractors": [
+        "actualizar",
+        "archivo",
+        "configuración"
+      ]
+    },
+    {
+      "id": "remote-tecnologia-b1-listen-2",
+      "l2": "La conexión aquí es demasiado lenta.",
+      "en": "The connection is too slow here.",
+      "gloss": {
+        "en": "The connection is too slow here.",
+        "es": "La conexión aquí es demasiado lenta.",
+        "ru": "Соединение здесь слишком медленное."
+      },
+      "word": "conexión",
+      "wordEn": "connection",
+      "wordGloss": {
+        "en": "connection",
+        "es": "conexión",
+        "ru": "связь"
+      },
+      "wordIpa": "co.nexiˈon",
+      "distractors": [
+        "avería",
+        "nube",
+        "auriculares"
+      ]
+    },
+    {
+      "id": "remote-tecnologia-b1-listen-3",
+      "l2": "El algoritmo elige lo que ves.",
+      "en": "The algorithm chooses what you see.",
+      "gloss": {
+        "en": "The algorithm chooses what you see.",
+        "es": "El algoritmo elige lo que ves.",
+        "ru": "Алгоритм выбирает то, что вы видите."
+      },
+      "word": "algoritmo",
+      "wordEn": "algorithm",
+      "wordGloss": {
+        "en": "algorithm",
+        "es": "algoritmo",
+        "ru": "алгоритм"
+      },
+      "wordIpa": "algorˈitmo",
+      "distractors": [
+        "tutorial",
+        "software",
+        "seco"
+      ]
+    },
+    {
+      "id": "remote-tecnologia-b1-listen-4",
+      "l2": "Una interrupción apagó el servidor.",
+      "en": "An outage stopped the server.",
+      "gloss": {
+        "en": "An outage stopped the server.",
+        "es": "Una interrupción detuvo el servidor.",
+        "ru": "Сервер был остановлен из-за сбоя."
+      },
+      "word": "avería",
+      "wordEn": "outage",
+      "wordGloss": {
+        "en": "outage",
+        "es": "corte",
+        "ru": "отключение"
+      },
+      "wordIpa": "a.berˈia",
+      "distractors": [
+        "impresora",
+        "pantalla",
+        "notificación"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Qué herramientas digitales utilizas todos los días?",
+    "Redes sociales: ¿útiles o peligrosas? Da tu opinión.",
+    "Informa de una avería o problema técnico.",
+    "¿Qué opinas de la inteligencia artificial?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-tecnologia-b1-grammar-1",
+      "title": {
+        "fr": "Subjonctif présent après querer que",
+        "en": "Present subjunctive after querer que",
+        "es": "Subjuntivo presente tras querer que",
+        "ru": "Subjuntivo после querer que"
+      },
+      "rule": {
+        "fr": "Après querer / esperar / es importante que, utilisez le subjonctif présent.",
+        "en": "After querer / esperar / es importante que, use the present subjunctive.",
+        "es": "Tras querer / esperar / es importante que, usa el subjuntivo presente.",
+        "ru": "После querer / esperar / es importante que — presente de subjuntivo."
+      },
+      "why": {
+        "en": "Expresses wishes and necessity about someone else.",
+        "es": "Expresa deseos y necesidad sobre otra persona.",
+        "ru": "Выражает желание или необходимость в отношении другого."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "quiero que",
+          "+ subjuntivo",
+          "Quiero que haya pantalla."
+        ],
+        [
+          "es importante que",
+          "+ subjuntivo",
+          "Es importante que exista hacer copia de seguridad."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-tecnologia-b1-gq-1-1",
+          "prompt": "Quiero que tú ___ (venir).",
+          "answer": "vengas",
+          "options": [
+            "vengas",
+            "vienes",
+            "vendrás"
+          ]
+        },
+        {
+          "id": "remote-tecnologia-b1-gq-1-2",
+          "prompt": "Es importante que ___ (haber) consenso.",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-tecnologia-b1-gq-1-3",
+          "prompt": "Espero que ___ (ser) posible.",
+          "answer": "sea",
+          "options": [
+            "sea",
+            "es",
+            "será"
+          ]
+        },
+        {
+          "id": "remote-tecnologia-b1-gq-1-4",
+          "prompt": "Relaciona con el tema: pantalla / hacer copia de seguridad. ¿Artículo de «pantalla»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-tecnologia-b1-gq-1-5",
+          "prompt": "Relaciona con el tema: pantalla / hacer copia de seguridad. ¿Artículo de «pantalla»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-tecnologia-b1-grammar-2",
+      "title": {
+        "fr": "Se impersonal",
+        "en": "Impersonal se",
+        "es": "Se impersonal",
+        "ru": "Безличный se"
+      },
+      "rule": {
+        "fr": "Se + 3e personne exprime une généralité : Se habla español.",
+        "en": "Se + 3rd person expresses a general rule: Se habla español.",
+        "es": "Se + 3.ª persona expresa una generalidad: Se habla español.",
+        "ru": "Se + 3-е лицо выражает общее правило: Se habla español."
+      },
+      "why": {
+        "en": "Sounds natural in advice and public notices.",
+        "es": "Suena natural en consejos y avisos.",
+        "ru": "Звучит естественно в советах и объявлениях."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Se + 3ª",
+          "generalidad",
+          "Se necesita software."
+        ],
+        [
+          "Se + 3ª",
+          "aviso",
+          "Se habla de contraseña."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-tecnologia-b1-gq-2-1",
+          "prompt": "___ habla de software.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Lo",
+            "Le"
+          ]
+        },
+        {
+          "id": "remote-tecnologia-b1-gq-2-2",
+          "prompt": "___ recomienda contraseña.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Me",
+            "Te"
+          ]
+        },
+        {
+          "id": "remote-tecnologia-b1-gq-2-3",
+          "prompt": "En España ___ español.",
+          "answer": "se habla",
+          "options": [
+            "se habla",
+            "habla se",
+            "hablan se"
+          ]
+        },
+        {
+          "id": "remote-tecnologia-b1-gq-2-4",
+          "prompt": "Relaciona con el tema: software / contraseña. ¿Artículo de «software»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-tecnologia-b1-gq-2-5",
+          "prompt": "Relaciona con el tema: software / contraseña. ¿Artículo de «software»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-tecnologia-b1-dict-1",
+        "l2": "Paso demasiado tiempo frente a la pantalla.",
+        "en": "I spend too much time in front of the screen.",
+        "gloss": {
+          "en": "I spend too much time in front of the screen.",
+          "es": "Paso demasiado tiempo frente a la pantalla.",
+          "ru": "Я провожу слишком много времени перед экраном."
+        },
+        "ipa": "pˈa.so de.masiˈa.do tiˈempo frˈente ˈa lˈa pantˈa.ʎa"
+      },
+      {
+        "id": "remote-tecnologia-b1-dict-2",
+        "l2": "¿Has pensado en hacer una copia de seguridad?",
+        "en": "Did you remember to make a backup?",
+        "gloss": {
+          "en": "Did you remember to make a backup?",
+          "es": "¿Recordaste hacer una copia de seguridad?",
+          "ru": "Вы не забыли сделать резервную копию?"
+        },
+        "ipa": "ˈas pensˈa.do ˈen aθˈer ˈu.na copˈia dˈe seɡridˈad"
+      },
+      {
+        "id": "remote-tecnologia-b1-dict-3",
+        "l2": "La conexión es demasiado lenta para vídeo.",
+        "en": "The connection is too slow for a video call.",
+        "gloss": {
+          "en": "The connection is too slow for a video call.",
+          "es": "La conexión es demasiado lenta para una videollamada.",
+          "ru": "Соединение слишком медленное для видеозвонка."
+        },
+        "ipa": "lˈa co.nexiˈon ˈes de.masiˈa.do lˈenta pˈa.ra bˈi.deo"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-tecnologia-b1-mean-1",
+        "l2": "Paso demasiado tiempo frente a la pantalla.",
+        "en": "I spend too much time in front of the screen.",
+        "gloss": {
+          "en": "I spend too much time in front of the screen.",
+          "es": "Paso demasiado tiempo frente a la pantalla.",
+          "ru": "Я провожу слишком много времени перед экраном."
+        }
+      },
+      {
+        "id": "remote-tecnologia-b1-mean-2",
+        "l2": "¿Has pensado en hacer una copia de seguridad?",
+        "en": "Did you remember to make a backup?",
+        "gloss": {
+          "en": "Did you remember to make a backup?",
+          "es": "¿Recordaste hacer una copia de seguridad?",
+          "ru": "Вы не забыли сделать резервную копию?"
+        }
+      },
+      {
+        "id": "remote-tecnologia-b1-mean-3",
+        "l2": "La conexión es demasiado lenta para vídeo.",
+        "en": "The connection is too slow for a video call.",
+        "gloss": {
+          "en": "The connection is too slow for a video call.",
+          "es": "La conexión es demasiado lenta para una videollamada.",
+          "ru": "Соединение слишком медленное для видеозвонка."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-tecnologia-b1-fren-1",
+        "l2": "tecnología",
+        "en": "technology",
+        "gloss": {
+          "en": "technology",
+          "es": "tecnología",
+          "ru": "технология"
+        }
+      },
+      {
+        "id": "remote-tecnologia-b1-fren-2",
+        "l2": "pantalla",
+        "en": "screen",
+        "gloss": {
+          "en": "screen",
+          "es": "pantalla",
+          "ru": "экран"
+        }
+      },
+      {
+        "id": "remote-tecnologia-b1-fren-3",
+        "l2": "software",
+        "en": "software",
+        "gloss": {
+          "en": "software",
+          "es": "software",
+          "ru": "программное обеспечение"
+        }
+      },
+      {
+        "id": "remote-tecnologia-b1-fren-4",
+        "l2": "archivo",
+        "en": "file",
+        "gloss": {
+          "en": "file",
+          "es": "archivo",
+          "ru": "файл"
+        }
+      },
+      {
+        "id": "remote-tecnologia-b1-fren-5",
+        "l2": "hacer copia de seguridad",
+        "en": "backup",
+        "gloss": {
+          "en": "backup",
+          "es": "respaldo",
+          "ru": "резервное копирование"
+        }
+      },
+      {
+        "id": "remote-tecnologia-b1-fren-6",
+        "l2": "contraseña",
+        "en": "password",
+        "gloss": {
+          "en": "password",
+          "es": "contraseña",
+          "ru": "пароль"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-tecnologia-b1-alou-1",
+        "l2": "Paso demasiado tiempo frente a la pantalla.",
+        "en": "I spend too much time in front of the screen.",
+        "gloss": {
+          "en": "I spend too much time in front of the screen.",
+          "es": "Paso demasiado tiempo frente a la pantalla.",
+          "ru": "Я провожу слишком много времени перед экраном."
+        },
+        "ipa": "pˈa.so de.masiˈa.do tiˈempo frˈente ˈa lˈa pantˈa.ʎa"
+      },
+      {
+        "id": "remote-tecnologia-b1-alou-2",
+        "l2": "La conexión es demasiado lenta para vídeo.",
+        "en": "The connection is too slow for a video call.",
+        "gloss": {
+          "en": "The connection is too slow for a video call.",
+          "es": "La conexión es demasiado lenta para una videollamada.",
+          "ru": "Соединение слишком медленное для видеозвонка."
+        },
+        "ipa": "lˈa co.nexiˈon ˈes de.masiˈa.do lˈenta pˈa.ra bˈi.deo"
+      },
+      {
+        "id": "remote-tecnologia-b1-alou-3",
+        "l2": "Las redes sociales ocupan demasiado espacio en mi época.",
+        "en": "Social networks take up too much of my day.",
+        "gloss": {
+          "en": "Social networks take up too much of my day.",
+          "es": "Las redes sociales ocupan demasiado de mi día.",
+          "ru": "Социальные сети отнимают слишком много моего времени."
+        },
+        "ipa": "lˈas rˈe.des so.θiˈa.les ocˈu.pan de.masiˈa.do espaθˈio ˈen mˈi ˈe.poca"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-tecnologia-b1-unsc-1",
+        "l2": "Necesito cambiar mi contraseña.",
+        "en": "I need to change my password.",
+        "gloss": {
+          "en": "I need to change my password.",
+          "es": "Necesito cambiar mi contraseña.",
+          "ru": "Мне нужно сменить пароль."
+        },
+        "words": [
+          "Necesito",
+          "cambiar",
+          "mi",
+          "contraseña."
+        ]
+      },
+      {
+        "id": "remote-tecnologia-b1-unsc-2",
+        "l2": "Las redes sociales ocupan demasiado espacio en mi época.",
+        "en": "Social networks take up too much of my day.",
+        "gloss": {
+          "en": "Social networks take up too much of my day.",
+          "es": "Las redes sociales ocupan demasiado de mi día.",
+          "ru": "Социальные сети отнимают слишком много моего времени."
+        },
+        "words": [
+          "Las",
+          "redes",
+          "sociales",
+          "ocupan",
+          "demasiado",
+          "espacio",
+          "en",
+          "mi",
+          "época."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

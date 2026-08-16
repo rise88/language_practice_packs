@@ -1,0 +1,869 @@
+{
+  "pratiquePack": 2,
+  "id": "derecho-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "es",
+  "title": {
+    "fr": "Droit et justice B2 (ES)",
+    "en": "Law and justice B2 (ES)",
+    "es": "Ley y justicia B2",
+    "ru": "Закон и справедливость B2 (ES)"
+  },
+  "description": {
+    "fr": "Procès, droits, avocats, verdicts et législation — pack espagnol.",
+    "en": "Trials, rights, lawyers, verdicts, and legislation — Spanish pack.",
+    "es": "Juicios, derechos, abogados, sentencias y legislación para estudiar español.",
+    "ru": "Суды, права, адвокаты, приговоры и законодательство — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-derecho-b2-1",
+      "l2": "ensayo",
+      "en": "trial",
+      "gloss": {
+        "en": "trial",
+        "es": "ensayo",
+        "ru": "пробный"
+      },
+      "example": "El juicio duró tres semanas, pero se esperó el veredicto hasta el último día.",
+      "ipa": "ensˈa.ʝo",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-2",
+      "l2": "abogado",
+      "en": "lawyer",
+      "gloss": {
+        "en": "lawyer",
+        "es": "abogado",
+        "ru": "адвокат"
+      },
+      "example": "El abogado defensor pidió tiempo para examinar nuevos documentos.",
+      "ipa": "a.bogˈa.do",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-3",
+      "l2": "veredicto",
+      "en": "verdict",
+      "gloss": {
+        "en": "verdict",
+        "es": "veredicto",
+        "ru": "приговор"
+      },
+      "example": "La sentencia absolutoria sorprendió a parte de la opinión pública.",
+      "ipa": "be.redˈicto",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-4",
+      "l2": "legislación",
+      "en": "legislation",
+      "gloss": {
+        "en": "legislation",
+        "es": "legislación",
+        "ru": "законодательство"
+      },
+      "example": "Esta legislación ahora regula el derecho a un juicio justo.",
+      "ipa": "le.xisla.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-derecho-b2-5",
+      "l2": "derecho",
+      "en": "right / law",
+      "gloss": {
+        "en": "right / law",
+        "es": "derecho / ley",
+        "ru": "право / закон"
+      },
+      "example": "Este derecho fundamental sólo puede restringirse en condiciones estrictamente definidas.",
+      "ipa": "derˈetʃo",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-6",
+      "l2": "acusado",
+      "en": "defendant",
+      "gloss": {
+        "en": "defendant",
+        "es": "acusado",
+        "ru": "ответчик"
+      },
+      "example": "El acusado negó los hechos, aunque varios testigos lo admitieron.",
+      "ipa": "a.cusˈa.do",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-7",
+      "l2": "testigo",
+      "en": "witness",
+      "gloss": {
+        "en": "witness",
+        "es": "testigo",
+        "ru": "свидетель"
+      },
+      "example": "El testigo vaciló, pero el tribunal consideró coherente su relato.",
+      "ipa": "testˈi.go",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-8",
+      "l2": "audiencia",
+      "en": "hearing / court session",
+      "gloss": {
+        "en": "hearing / court session",
+        "es": "audiencia / sesión judicial",
+        "ru": "слушание/судебное заседание"
+      },
+      "example": "La audiencia fue postergada para que la defensa pudiera consultar el expediente.",
+      "ipa": "au.dienθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-derecho-b2-9",
+      "l2": "jurisprudencia",
+      "en": "case law",
+      "gloss": {
+        "en": "case law",
+        "es": "jurisprudencia",
+        "ru": "прецедентное право"
+      },
+      "example": "La jurisprudencia reciente orienta a los tribunales hacia una interpretación más flexible.",
+      "ipa": "xu.rispru.denθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-derecho-b2-10",
+      "l2": "ofensa",
+      "en": "offence / offense",
+      "gloss": {
+        "en": "offence / offense",
+        "es": "ofensa / ofensa",
+        "ru": "обида / обида"
+      },
+      "example": "El presunto delito no era lo suficientemente grave como para justificar una pena severa.",
+      "ipa": "ofˈensa",
+      "article": "la"
+    },
+    {
+      "id": "remote-derecho-b2-11",
+      "l2": "sentencia",
+      "en": "sentence / penalty",
+      "gloss": {
+        "en": "sentence / penalty",
+        "es": "sentencia / pena",
+        "ru": "приговор / наказание"
+      },
+      "example": "Algunos juristas consideraron que la sentencia impuesta era desproporcionada.",
+      "ipa": "sentenθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-derecho-b2-12",
+      "l2": "constitución",
+      "en": "constitution",
+      "gloss": {
+        "en": "constitution",
+        "es": "constitución",
+        "ru": "конституция"
+      },
+      "example": "La constitución garantiza la presunción de inocencia hasta la sentencia definitiva.",
+      "ipa": "consti.tuθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-derecho-b2-13",
+      "l2": "corte",
+      "en": "court",
+      "gloss": {
+        "en": "court",
+        "es": "corte",
+        "ru": "суд"
+      },
+      "example": "El tribunal escuchó los argumentos orales antes de retirarse a deliberar.",
+      "ipa": "cˈorte",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-14",
+      "l2": "argumento final",
+      "en": "closing argument",
+      "gloss": {
+        "en": "closing argument",
+        "es": "argumento final",
+        "ru": "заключительный аргумент"
+      },
+      "example": "Su argumento puso en duda la fiabilidad de las pruebas presentadas por la fiscalía.",
+      "ipa": "arɡmento finˈal",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-15",
+      "l2": "cargar",
+      "en": "charge",
+      "gloss": {
+        "en": "charge",
+        "es": "cargar",
+        "ru": "заряжать"
+      },
+      "example": "La carga principal recae en una grabación cuya autenticidad está en duda.",
+      "ipa": "cargˈar",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-16",
+      "l2": "absolución",
+      "en": "acquittal",
+      "gloss": {
+        "en": "acquittal",
+        "es": "absolución",
+        "ru": "оправдание"
+      },
+      "example": "La absolución sólo significa que faltaron pruebas en el juicio.",
+      "ipa": "abso.luθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-derecho-b2-17",
+      "l2": "apelar",
+      "en": "appeal",
+      "gloss": {
+        "en": "appeal",
+        "es": "apelar",
+        "ru": "обращаться"
+      },
+      "example": "Se interpuso recurso de apelación al día siguiente de la sentencia de primera instancia.",
+      "ipa": "a.pelˈar",
+      "article": "el"
+    },
+    {
+      "id": "remote-derecho-b2-18",
+      "l2": "justicia",
+      "en": "justice",
+      "gloss": {
+        "en": "justice",
+        "es": "justicia",
+        "ru": "справедливость"
+      },
+      "example": "El acceso a la justicia sigue siendo desigual dependiendo de los recursos de los litigantes.",
+      "ipa": "xustiθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-derecho-b2-19",
+      "l2": "citación",
+      "en": "summons",
+      "gloss": {
+        "en": "summons",
+        "es": "citación",
+        "ru": "вызов"
+      },
+      "example": "Se dictó la citación, sin embargo el imputado no compareció.",
+      "ipa": "θi.taθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-derecho-b2-20",
+      "l2": "responsabilidad",
+      "en": "liability / responsibility",
+      "gloss": {
+        "en": "liability / responsibility",
+        "es": "responsabilidad / responsabilidad",
+        "ru": "ответственность / ответственность"
+      },
+      "example": "La responsabilidad civil del proveedor de servicios se mantuvo a pesar de sus negativas.",
+      "ipa": "responsa.bilidˈad",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-derecho-b2-phrase-1",
+      "l2": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+      "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+      "gloss": {
+        "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+        "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+        "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+      },
+      "ipa": "ˈes funda.mentˈal kˈe ˈel a.cusˈa.do puˈe.da de.fendˈerse ˈen condi.θiˈo.nes xˈustas"
+    },
+    {
+      "id": "remote-derecho-b2-phrase-2",
+      "l2": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+      "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+      "gloss": {
+        "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+        "es": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+        "ru": "Хотя обвинения серьезны, презумпция невиновности остается правилом."
+      },
+      "ipa": "aˈunke lˈos cˈargos sˈon grˈa.bes lˈa pre.sunθiˈon dˈe i.noθenθˈia sˈi.ɡe siˈendo lˈa"
+    },
+    {
+      "id": "remote-derecho-b2-phrase-3",
+      "l2": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+      "en": "If the witness had spoken earlier, the verdict might have been different.",
+      "gloss": {
+        "en": "If the witness had spoken earlier, the verdict might have been different.",
+        "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+        "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+      },
+      "ipa": "sˈi ˈel testˈi.go u.biˈe.ra ablˈa.do ˈantes ˈel be.redˈicto podrˈia abˈer sˈi.do di.ferˈente"
+    },
+    {
+      "id": "remote-derecho-b2-phrase-4",
+      "l2": "El abogado solicitó un aplazamiento, sin embargo el tribunal continuó la audiencia.",
+      "en": "The lawyer asked for more time; nevertheless the court kept the hearing.",
+      "gloss": {
+        "en": "The lawyer asked for more time; nevertheless the court kept the hearing.",
+        "es": "El abogado pidió más tiempo; sin embargo, el tribunal mantuvo la audiencia.",
+        "ru": "Адвокат попросил больше времени; тем не менее суд продолжил слушание."
+      },
+      "ipa": "ˈel a.bogˈa.do so.liθitˈo ˈun apla.θamiˈento sˈin embˈargo ˈel tri.bunˈal conti.nuˈo lˈa au.dienθˈia"
+    },
+    {
+      "id": "remote-derecho-b2-phrase-5",
+      "l2": "Se podría objetar que la legislación evoluciona más rápidamente que la jurisprudencia.",
+      "en": "One might object that legislation is evolving faster than case law.",
+      "gloss": {
+        "en": "One might object that legislation is evolving faster than case law.",
+        "es": "Se podría objetar que la legislación está evolucionando más rápidamente que la jurisprudencia.",
+        "ru": "Можно возразить, что законодательство развивается быстрее, чем прецедентное право."
+      },
+      "ipa": "sˈe podrˈia obxetˈar kˈe lˈa le.xisla.θiˈon e.bolu.θiˈo.na mˈas rˈa.pida.mente kˈe lˈa xu.rispru.denθˈia"
+    },
+    {
+      "id": "remote-derecho-b2-phrase-6",
+      "l2": "Para que el juicio siga siendo justo, cada prueba debe comunicarse a la defensa.",
+      "en": "So that the trial remains fair, every exhibit must be disclosed to the defence.",
+      "gloss": {
+        "en": "So that the trial remains fair, every exhibit must be disclosed to the defence.",
+        "es": "Para que el juicio siga siendo justo, todas las pruebas deben ser comunicadas a la defensa.",
+        "ru": "Чтобы суд оставался справедливым, защите необходимо предоставить все улики."
+      },
+      "ipa": "pˈa.ra kˈe ˈel xuiθˈio sˈi.ga siˈendo xˈusto cˈa.da pruˈe.ba dˈe.be co.municˈarse ˈa"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-derecho-b2-listen-1",
+      "l2": "El abogado defensor pidió más tiempo para revisar el expediente.",
+      "en": "The defence lawyer asked for time to examine the file.",
+      "gloss": {
+        "en": "The defence lawyer asked for time to examine the file.",
+        "es": "El abogado defensor pidió tiempo para examinar el expediente.",
+        "ru": "Адвокат защиты попросил время для ознакомления с материалами дела."
+      },
+      "word": "abogado",
+      "wordEn": "lawyer",
+      "wordGloss": {
+        "en": "lawyer",
+        "es": "abogado",
+        "ru": "адвокат"
+      },
+      "wordIpa": "a.bogˈa.do",
+      "distractors": [
+        "acusado",
+        "testigo",
+        "corte"
+      ]
+    },
+    {
+      "id": "remote-derecho-b2-listen-2",
+      "l2": "La sentencia absolutoria sorprendió a parte del público.",
+      "en": "The acquittal verdict surprised part of public opinion.",
+      "gloss": {
+        "en": "The acquittal verdict surprised part of public opinion.",
+        "es": "La sentencia absolutoria sorprendió a parte de la opinión pública.",
+        "ru": "Оправдательный приговор удивил часть общественного мнения."
+      },
+      "word": "veredicto",
+      "wordEn": "verdict",
+      "wordGloss": {
+        "en": "verdict",
+        "es": "veredicto",
+        "ru": "приговор"
+      },
+      "wordIpa": "be.redˈicto",
+      "distractors": [
+        "sentencia",
+        "apelar",
+        "argumento final"
+      ]
+    },
+    {
+      "id": "remote-derecho-b2-listen-3",
+      "l2": "La jurisprudencia reciente orienta a los tribunales hacia una interpretación más flexible.",
+      "en": "Recent case law is steering the courts towards a more flexible interpretation.",
+      "gloss": {
+        "en": "Recent case law is steering the courts towards a more flexible interpretation.",
+        "es": "La jurisprudencia reciente está llevando a los tribunales hacia una interpretación más flexible.",
+        "ru": "Недавнее прецедентное право подталкивает суды к более гибкому толкованию."
+      },
+      "word": "jurisprudencia",
+      "wordEn": "case law",
+      "wordGloss": {
+        "en": "case law",
+        "es": "jurisprudencia",
+        "ru": "прецедентное право"
+      },
+      "wordIpa": "xu.rispru.denθˈia",
+      "distractors": [
+        "legislación",
+        "constitución",
+        "justicia"
+      ]
+    },
+    {
+      "id": "remote-derecho-b2-listen-4",
+      "l2": "La audiencia fue postergada para que la defensa pudiera consultar el expediente.",
+      "en": "The hearing was postponed so that the defence could consult the file.",
+      "gloss": {
+        "en": "The hearing was postponed so that the defence could consult the file.",
+        "es": "La audiencia fue postergada para que la defensa pudiera consultar el expediente.",
+        "ru": "Слушание было отложено, чтобы защита могла ознакомиться с материалами дела."
+      },
+      "word": "audiencia",
+      "wordEn": "hearing",
+      "wordGloss": {
+        "en": "hearing",
+        "es": "audiencia",
+        "ru": "слушание"
+      },
+      "wordIpa": "au.dienθˈia",
+      "distractors": [
+        "citación",
+        "ofensa",
+        "cargar"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Se respeta suficientemente la presunción de inocencia? Justifica tu opinión.",
+    "Compara el papel del abogado y el del tribunal en un juicio.",
+    "En su opinión, ¿una sentencia dura realmente disuade de cometer delitos?",
+    "Si pudieras reformar un punto de la legislación, ¿cuál elegirías y por qué?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-derecho-b2-grammar-1",
+      "title": {
+        "fr": "Subjonctif imparfait en hypothèse",
+        "en": "Imperfect subjunctive in hypotheses",
+        "es": "Imperfecto de subjuntivo en hipótesis",
+        "ru": "Imperfecto de subjuntivo в гипотезах"
+      },
+      "rule": {
+        "fr": "Si + imperfecto de subjuntivo, condicional : Si tuviera tiempo, iría.",
+        "en": "Si + imperfect subjunctive, conditional: Si tuviera tiempo, iría.",
+        "es": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría.",
+        "ru": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría."
+      },
+      "why": {
+        "en": "Lets you discuss unlikely or polite scenarios.",
+        "es": "Permite hablar de escenarios poco reales o corteses.",
+        "ru": "Позволяет обсуждать маловероятные или вежливые сценарии."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Si + subj. impf.",
+          "hipótesis",
+          "Si tuviera tiempo, iría."
+        ],
+        [
+          "condicional",
+          "resultado",
+          "Compraría el abogado."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-derecho-b2-gq-1-1",
+          "prompt": "Si ___ tiempo, viajaría. (tener)",
+          "answer": "tuviera",
+          "options": [
+            "tuviera",
+            "tengo",
+            "tendré"
+          ]
+        },
+        {
+          "id": "remote-derecho-b2-gq-1-2",
+          "prompt": "Si pudiera, ___ más. (leer)",
+          "answer": "leería",
+          "options": [
+            "leería",
+            "leo",
+            "leí"
+          ]
+        },
+        {
+          "id": "remote-derecho-b2-gq-1-3",
+          "prompt": "Si hubiera derecho, sería distinto.",
+          "answer": "hubiera",
+          "options": [
+            "hubiera",
+            "hay",
+            "había"
+          ]
+        },
+        {
+          "id": "remote-derecho-b2-gq-1-4",
+          "prompt": "Relaciona con el tema: abogado / derecho. ¿Artículo de «abogado»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-derecho-b2-gq-1-5",
+          "prompt": "Relaciona con el tema: abogado / derecho. ¿Artículo de «abogado»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-derecho-b2-grammar-2",
+      "title": {
+        "fr": "Aunque + indicatif / subjonctif",
+        "en": "Aunque + indicative / subjunctive",
+        "es": "Aunque + indicativo / subjuntivo",
+        "ru": "Aunque + indicativo / subjuntivo"
+      },
+      "rule": {
+        "fr": "Aunque + indicatif = fait connu ; aunque + subjonctif = concession non assertive.",
+        "en": "Aunque + indicative = known fact; + subjunctive = non-assertive concession.",
+        "es": "Aunque + indicativo = hecho conocido; + subjuntivo = concesión no asertiva.",
+        "ru": "Aunque + indicativo — известный факт; + subjuntivo — уступка без утверждения."
+      },
+      "why": {
+        "en": "Nuances how strongly you commit to a claim.",
+        "es": "Matiza cuánto te comprometes con una afirmación.",
+        "ru": "Оттенки того, насколько вы настаиваете на утверждении."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "aunque + ind.",
+          "hecho conocido",
+          "Aunque hay veredicto, sigo."
+        ],
+        [
+          "aunque + subj.",
+          "no asertivo",
+          "Aunque haya acusado, dudo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-derecho-b2-gq-2-1",
+          "prompt": "Aunque ___ frío, salgo. (hecho)",
+          "answer": "hace",
+          "options": [
+            "hace",
+            "haga",
+            "hará"
+          ]
+        },
+        {
+          "id": "remote-derecho-b2-gq-2-2",
+          "prompt": "Aunque ___ problemas, intentaré. (no seguro)",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-derecho-b2-gq-2-3",
+          "prompt": "Aunque exista veredicto, no basta.",
+          "answer": "exista",
+          "options": [
+            "exista",
+            "existe",
+            "existirá"
+          ]
+        },
+        {
+          "id": "remote-derecho-b2-gq-2-4",
+          "prompt": "Relaciona con el tema: veredicto / acusado. ¿Artículo de «veredicto»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-derecho-b2-gq-2-5",
+          "prompt": "Relaciona con el tema: veredicto / acusado. ¿Artículo de «veredicto»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-derecho-b2-dict-1",
+        "l2": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+        "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+        "gloss": {
+          "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+          "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+          "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+        },
+        "ipa": "ˈes funda.mentˈal kˈe ˈel a.cusˈa.do puˈe.da de.fendˈerse ˈen condi.θiˈo.nes xˈustas"
+      },
+      {
+        "id": "remote-derecho-b2-dict-2",
+        "l2": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+        "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+        "gloss": {
+          "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+          "es": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+          "ru": "Хотя обвинения серьезны, презумпция невиновности остается правилом."
+        },
+        "ipa": "aˈunke lˈos cˈargos sˈon grˈa.bes lˈa pre.sunθiˈon dˈe i.noθenθˈia sˈi.ɡe siˈendo lˈa"
+      },
+      {
+        "id": "remote-derecho-b2-dict-3",
+        "l2": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+        "en": "If the witness had spoken earlier, the verdict might have been different.",
+        "gloss": {
+          "en": "If the witness had spoken earlier, the verdict might have been different.",
+          "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+          "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+        },
+        "ipa": "sˈi ˈel testˈi.go u.biˈe.ra ablˈa.do ˈantes ˈel be.redˈicto podrˈia abˈer sˈi.do di.ferˈente"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-derecho-b2-mean-1",
+        "l2": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+        "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+        "gloss": {
+          "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+          "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+          "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+        }
+      },
+      {
+        "id": "remote-derecho-b2-mean-2",
+        "l2": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+        "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+        "gloss": {
+          "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+          "es": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+          "ru": "Хотя обвинения серьезны, презумпция невиновности остается правилом."
+        }
+      },
+      {
+        "id": "remote-derecho-b2-mean-3",
+        "l2": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+        "en": "If the witness had spoken earlier, the verdict might have been different.",
+        "gloss": {
+          "en": "If the witness had spoken earlier, the verdict might have been different.",
+          "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+          "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-derecho-b2-fren-1",
+        "l2": "ensayo",
+        "en": "trial",
+        "gloss": {
+          "en": "trial",
+          "es": "ensayo",
+          "ru": "пробный"
+        }
+      },
+      {
+        "id": "remote-derecho-b2-fren-2",
+        "l2": "abogado",
+        "en": "lawyer",
+        "gloss": {
+          "en": "lawyer",
+          "es": "abogado",
+          "ru": "адвокат"
+        }
+      },
+      {
+        "id": "remote-derecho-b2-fren-3",
+        "l2": "veredicto",
+        "en": "verdict",
+        "gloss": {
+          "en": "verdict",
+          "es": "veredicto",
+          "ru": "приговор"
+        }
+      },
+      {
+        "id": "remote-derecho-b2-fren-4",
+        "l2": "legislación",
+        "en": "legislation",
+        "gloss": {
+          "en": "legislation",
+          "es": "legislación",
+          "ru": "законодательство"
+        }
+      },
+      {
+        "id": "remote-derecho-b2-fren-5",
+        "l2": "derecho",
+        "en": "right",
+        "gloss": {
+          "en": "right",
+          "es": "bien",
+          "ru": "верно"
+        }
+      },
+      {
+        "id": "remote-derecho-b2-fren-6",
+        "l2": "acusado",
+        "en": "defendant",
+        "gloss": {
+          "en": "defendant",
+          "es": "acusado",
+          "ru": "ответчик"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-derecho-b2-alou-1",
+        "l2": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+        "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+        "gloss": {
+          "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+          "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+          "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+        },
+        "ipa": "ˈes funda.mentˈal kˈe ˈel a.cusˈa.do puˈe.da de.fendˈerse ˈen condi.θiˈo.nes xˈustas"
+      },
+      {
+        "id": "remote-derecho-b2-alou-2",
+        "l2": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+        "en": "If the witness had spoken earlier, the verdict might have been different.",
+        "gloss": {
+          "en": "If the witness had spoken earlier, the verdict might have been different.",
+          "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+          "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+        },
+        "ipa": "sˈi ˈel testˈi.go u.biˈe.ra ablˈa.do ˈantes ˈel be.redˈicto podrˈia abˈer sˈi.do di.ferˈente"
+      },
+      {
+        "id": "remote-derecho-b2-alou-3",
+        "l2": "Se podría objetar que la legislación evoluciona más rápidamente que la jurisprudencia.",
+        "en": "One might object that legislation is evolving faster than case law.",
+        "gloss": {
+          "en": "One might object that legislation is evolving faster than case law.",
+          "es": "Se podría objetar que la legislación está evolucionando más rápidamente que la jurisprudencia.",
+          "ru": "Можно возразить, что законодательство развивается быстрее, чем прецедентное право."
+        },
+        "ipa": "sˈe podrˈia obxetˈar kˈe lˈa le.xisla.θiˈon e.bolu.θiˈo.na mˈas rˈa.pida.mente kˈe lˈa xu.rispru.denθˈia"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-derecho-b2-unsc-1",
+        "l2": "El abogado defensor pidió tiempo para examinar nuevos documentos.",
+        "en": "The defence lawyer asked for more time in order to examine new exhibits.",
+        "gloss": {
+          "en": "The defence lawyer asked for more time in order to examine new exhibits.",
+          "es": "El abogado defensor pidió más tiempo para examinar nuevas pruebas.",
+          "ru": "Адвокат просил предоставить ему больше времени для осмотра новых вещественных доказательств."
+        },
+        "words": [
+          "El",
+          "abogado",
+          "defensor",
+          "pidió",
+          "tiempo",
+          "para",
+          "examinar",
+          "nuevos",
+          "documentos."
+        ]
+      },
+      {
+        "id": "remote-derecho-b2-unsc-2",
+        "l2": "Se interpuso recurso de apelación al día siguiente de la sentencia de primera instancia.",
+        "en": "An appeal was lodged the very next day after the first-instance judgment.",
+        "gloss": {
+          "en": "An appeal was lodged the very next day after the first-instance judgment.",
+          "es": "Se interpuso recurso de apelación al día siguiente de la sentencia de primera instancia.",
+          "ru": "Апелляция была подана уже на следующий день после вынесения решения первой инстанции."
+        },
+        "words": [
+          "Se",
+          "interpuso",
+          "recurso",
+          "de",
+          "apelación",
+          "al",
+          "día",
+          "siguiente",
+          "de",
+          "la",
+          "sentencia",
+          "de",
+          "primera",
+          "instancia."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-derecho-b2-sign-1",
+        "l2": "palacio de justicia",
+        "en": "courthouse",
+        "gloss": {
+          "en": "courthouse",
+          "es": "palacio de justicia",
+          "ru": "здание суда"
+        },
+        "hint": "columnas, balanza de la justicia"
+      },
+      {
+        "id": "remote-derecho-b2-sign-2",
+        "l2": "sala de justicia",
+        "en": "courtroom",
+        "gloss": {
+          "en": "courtroom",
+          "es": "sala de justicia",
+          "ru": "зал суда"
+        },
+        "hint": "juez, bancas, abogados"
+      }
+    ]
+  },
+  "sounds": []
+}

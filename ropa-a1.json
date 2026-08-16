@@ -1,0 +1,832 @@
+{
+  "pratiquePack": 2,
+  "id": "ropa-a1",
+  "version": 1,
+  "level": "a1",
+  "lang": "es",
+  "title": {
+    "fr": "Vêtements A1 (ES)",
+    "en": "Clothes A1 (ES)",
+    "es": "Ropa A1",
+    "ru": "Одежда А1 (ES)"
+  },
+  "description": {
+    "fr": "Habits, couleurs et expressions simples pour s’habiller au quotidien — pack espagnol.",
+    "en": "Clothes, colors, and simple phrases for getting dressed every day — Spanish pack.",
+    "es": "Ropa, colores y frases sencillas para vestirse cada día para estudiar español.",
+    "ru": "Одежда, цвета и простые фразы, которые помогут одеваться каждый день — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-ropa-a1-1",
+      "l2": "pantalones",
+      "en": "trousers / pants",
+      "gloss": {
+        "en": "trousers / pants",
+        "es": "pantalones / pantalones",
+        "ru": "брюки / штаны"
+      },
+      "example": "Llevo pantalones azules.",
+      "ipa": "pantalˈo.nes",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-2",
+      "l2": "camisa",
+      "en": "shirt",
+      "gloss": {
+        "en": "shirt",
+        "es": "camisa",
+        "ru": "рубашка"
+      },
+      "example": "Esta camisa es blanca.",
+      "ipa": "camˈi.sa",
+      "article": "la"
+    },
+    {
+      "id": "remote-ropa-a1-3",
+      "l2": "vestido",
+      "en": "dress",
+      "gloss": {
+        "en": "dress",
+        "es": "vestido",
+        "ru": "одеваться"
+      },
+      "example": "Lleva un vestido rojo.",
+      "ipa": "bestˈi.do",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-4",
+      "l2": "falda",
+      "en": "skirt",
+      "gloss": {
+        "en": "skirt",
+        "es": "falda",
+        "ru": "юбка"
+      },
+      "example": "La falda es demasiado corta.",
+      "ipa": "fˈalda",
+      "article": "la"
+    },
+    {
+      "id": "remote-ropa-a1-5",
+      "l2": "abrigo",
+      "en": "coat",
+      "gloss": {
+        "en": "coat",
+        "es": "abrigo",
+        "ru": "пальто"
+      },
+      "example": "Me puse el abrigo.",
+      "ipa": "abrˈi.go",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-6",
+      "l2": "zapato",
+      "en": "shoe",
+      "gloss": {
+        "en": "shoe",
+        "es": "zapato",
+        "ru": "туфля"
+      },
+      "example": "Mis zapatos son negros.",
+      "ipa": "θapˈa.to",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-7",
+      "l2": "sombrero",
+      "en": "hat",
+      "gloss": {
+        "en": "hat",
+        "es": "sombrero",
+        "ru": "шляпа"
+      },
+      "example": "Tiene un sombrero gris.",
+      "ipa": "sombrˈe.ro",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-8",
+      "l2": "suéter",
+      "en": "sweater / jumper",
+      "gloss": {
+        "en": "sweater / jumper",
+        "es": "suéter / jersey",
+        "ru": "свитер / джемпер"
+      },
+      "example": "Tengo un suéter abrigado.",
+      "ipa": "suˈe.ter",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-9",
+      "l2": "chaqueta",
+      "en": "jacket",
+      "gloss": {
+        "en": "jacket",
+        "es": "chaqueta",
+        "ru": "куртка"
+      },
+      "example": "Su chaqueta es elegante.",
+      "ipa": "tʃakˈe.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-ropa-a1-10",
+      "l2": "calcetín",
+      "en": "sock",
+      "gloss": {
+        "en": "sock",
+        "es": "calcetín",
+        "ru": "носок"
+      },
+      "example": "Perdí un calcetín.",
+      "ipa": "calθetˈin",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-11",
+      "l2": "bufanda",
+      "en": "scarf",
+      "gloss": {
+        "en": "scarf",
+        "es": "bufanda",
+        "ru": "шарф"
+      },
+      "example": "La bufanda está hecha de lana.",
+      "ipa": "bufˈanda",
+      "article": "la"
+    },
+    {
+      "id": "remote-ropa-a1-12",
+      "l2": "guante",
+      "en": "glove",
+      "gloss": {
+        "en": "glove",
+        "es": "guante",
+        "ru": "перчатка"
+      },
+      "example": "Ponte los guantes, hace frío.",
+      "ipa": "ɡˈante",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-13",
+      "l2": "vaqueros",
+      "en": "jeans",
+      "gloss": {
+        "en": "jeans",
+        "es": "vaqueros",
+        "ru": "джинсы"
+      },
+      "example": "Llevo jeans los fines de semana.",
+      "ipa": "bakˈe.ros",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-14",
+      "l2": "camiseta",
+      "en": "t-shirt",
+      "gloss": {
+        "en": "t-shirt",
+        "es": "camiseta",
+        "ru": "футболка"
+      },
+      "example": "Mi camiseta es blanca.",
+      "ipa": "ca.misˈe.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-ropa-a1-15",
+      "l2": "color",
+      "en": "color",
+      "gloss": {
+        "en": "color",
+        "es": "color",
+        "ru": "цвет"
+      },
+      "example": "¿Cuál es tu color favorito?",
+      "ipa": "colˈor",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-16",
+      "l2": "tamaño",
+      "en": "size",
+      "gloss": {
+        "en": "size",
+        "es": "tamaño",
+        "ru": "размер"
+      },
+      "example": "¿Cuál es tu talla?",
+      "ipa": "tamˈa.ɲo",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-17",
+      "l2": "cinturón",
+      "en": "belt",
+      "gloss": {
+        "en": "belt",
+        "es": "cinturón",
+        "ru": "пояс"
+      },
+      "example": "El cinturón es de cuero.",
+      "ipa": "θinturˈon",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-18",
+      "l2": "anteojos",
+      "en": "glasses",
+      "gloss": {
+        "en": "glasses",
+        "es": "anteojos",
+        "ru": "очки"
+      },
+      "example": "Tengo gafas de sol.",
+      "ipa": "anteˈo.xos",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-19",
+      "l2": "pijamas",
+      "en": "pyjamas / pajamas",
+      "gloss": {
+        "en": "pyjamas / pajamas",
+        "es": "pijamas / pijamas",
+        "ru": "пижама / пижамы"
+      },
+      "example": "Me puse el pijama.",
+      "ipa": "pixˈa.mas",
+      "article": "el"
+    },
+    {
+      "id": "remote-ropa-a1-20",
+      "l2": "prenda de vestir",
+      "en": "item of clothing",
+      "gloss": {
+        "en": "item of clothing",
+        "es": "prenda de vestir",
+        "ru": "предмет одежды"
+      },
+      "example": "Compro ropa.",
+      "ipa": "prenda de bestˈir",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-ropa-a1-phrase-1",
+      "l2": "Llevo pantalones y camisa.",
+      "en": "I’m wearing trousers and a shirt.",
+      "gloss": {
+        "en": "I’m wearing trousers and a shirt.",
+        "es": "Llevo pantalón y camisa.",
+        "ru": "Я ношу брюки и рубашку."
+      },
+      "ipa": "ʎˈe.bo pantalˈo.nes ʝ camˈi.sa"
+    },
+    {
+      "id": "remote-ropa-a1-phrase-2",
+      "l2": "¿Cuál es tu color favorito?",
+      "en": "What’s your favorite color?",
+      "gloss": {
+        "en": "What’s your favorite color?",
+        "es": "¿Cuál es tu color favorito?",
+        "ru": "Какой твой любимый цвет?"
+      },
+      "ipa": "cuˈal ˈes tˈu colˈor fa.borˈi.to"
+    },
+    {
+      "id": "remote-ropa-a1-phrase-3",
+      "l2": "Hace frío: ponte el abrigo.",
+      "en": "It’s cold: put on your coat.",
+      "gloss": {
+        "en": "It’s cold: put on your coat.",
+        "es": "Hace frío: ponte el abrigo.",
+        "ru": "Холодно: надень пальто."
+      },
+      "ipa": "ˈa.θe frˈio pˈonte ˈel abrˈi.go"
+    },
+    {
+      "id": "remote-ropa-a1-phrase-4",
+      "l2": "Estos zapatos son demasiado pequeños.",
+      "en": "These shoes are too small.",
+      "gloss": {
+        "en": "These shoes are too small.",
+        "es": "Estos zapatos son demasiado pequeños.",
+        "ru": "Эти туфли слишком малы."
+      },
+      "ipa": "ˈestos θapˈa.tos sˈon de.masiˈa.do pekˈe.ɲos"
+    },
+    {
+      "id": "remote-ropa-a1-phrase-5",
+      "l2": "Me encanta este vestido rojo.",
+      "en": "I like this red dress.",
+      "gloss": {
+        "en": "I like this red dress.",
+        "es": "Me gusta este vestido rojo.",
+        "ru": "Мне нравится это красное платье."
+      },
+      "ipa": "mˈe encˈanta ˈeste bestˈi.do rˈo.xo"
+    },
+    {
+      "id": "remote-ropa-a1-phrase-6",
+      "l2": "¿Cuál es tu talla?",
+      "en": "What is your size?",
+      "gloss": {
+        "en": "What is your size?",
+        "es": "¿Cuál es tu talla?",
+        "ru": "Какой у вас размер?"
+      },
+      "ipa": "cuˈal ˈes tˈu tˈa.ʎa"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-ropa-a1-listen-1",
+      "l2": "Me puse el abrigo porque hace frío.",
+      "en": "I put on my coat because it’s cold.",
+      "gloss": {
+        "en": "I put on my coat because it’s cold.",
+        "es": "Me pongo el abrigo porque hace frío.",
+        "ru": "Я надел пальто, потому что холодно."
+      },
+      "word": "abrigo",
+      "wordEn": "coat",
+      "wordGloss": {
+        "en": "coat",
+        "es": "abrigo",
+        "ru": "пальто"
+      },
+      "wordIpa": "abrˈi.go",
+      "distractors": [
+        "pantalones",
+        "sombrero",
+        "suéter"
+      ]
+    },
+    {
+      "id": "remote-ropa-a1-listen-2",
+      "l2": "Lleva un vestido rojo para la fiesta.",
+      "en": "She’s wearing a red dress for the party.",
+      "gloss": {
+        "en": "She’s wearing a red dress for the party.",
+        "es": "Lleva un vestido rojo para la fiesta.",
+        "ru": "На вечеринку она одета в красное платье."
+      },
+      "word": "vestido",
+      "wordEn": "dress",
+      "wordGloss": {
+        "en": "dress",
+        "es": "vestido",
+        "ru": "одеваться"
+      },
+      "wordIpa": "bestˈi.do",
+      "distractors": [
+        "falda",
+        "chaqueta",
+        "camisa"
+      ]
+    },
+    {
+      "id": "remote-ropa-a1-listen-3",
+      "l2": "Mis zapatos son demasiado pequeños.",
+      "en": "My shoes are too small.",
+      "gloss": {
+        "en": "My shoes are too small.",
+        "es": "Mis zapatos son demasiado pequeños.",
+        "ru": "Моя обувь слишком мала."
+      },
+      "word": "zapatos",
+      "wordEn": "shoes",
+      "wordGloss": {
+        "en": "shoes",
+        "es": "zapatos",
+        "ru": "обувь"
+      },
+      "wordIpa": "θapˈa.tos",
+      "distractors": [
+        "medias",
+        "guantes",
+        "anteojos"
+      ]
+    },
+    {
+      "id": "remote-ropa-a1-listen-4",
+      "l2": "¿Cuál es tu color favorito?",
+      "en": "What’s your favorite color?",
+      "gloss": {
+        "en": "What’s your favorite color?",
+        "es": "¿Cuál es tu color favorito?",
+        "ru": "Какой твой любимый цвет?"
+      },
+      "word": "color",
+      "wordEn": "color",
+      "wordGloss": {
+        "en": "color",
+        "es": "color",
+        "ru": "цвет"
+      },
+      "wordIpa": "colˈor",
+      "distractors": [
+        "tamaño",
+        "chaqueta",
+        "cinturón"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Qué llevas hoy?",
+    "¿Cuál es tu color favorito? Para qué ?",
+    "Describe la ropa de un amigo.",
+    "¿Qué te pones cuando hace frío?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-ropa-a1-grammar-1",
+      "title": {
+        "fr": "Articles définis (el / la)",
+        "en": "Definite articles (el / la)",
+        "es": "Artículos definidos (el / la)",
+        "ru": "Определённые артикли (el / la)"
+      },
+      "rule": {
+        "fr": "el + masculin ; la + féminin.",
+        "en": "el + masculine; la + feminine.",
+        "es": "el + masculino; la + femenino.",
+        "ru": "el + мужской род; la + женский род."
+      },
+      "why": {
+        "en": "Helps you name nouns correctly.",
+        "es": "Ayuda a nombrar sustantivos correctamente.",
+        "ru": "Помогает правильно называть существительные."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "el",
+          "masculino",
+          "el abrigo"
+        ],
+        [
+          "la",
+          "femenino",
+          "la camisa"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ropa-a1-gq-1-1",
+          "prompt": "Completa: ___ camisa.",
+          "answer": "la",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ropa-a1-gq-1-2",
+          "prompt": "Completa: ___ abrigo.",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "las"
+          ]
+        },
+        {
+          "id": "remote-ropa-a1-gq-1-3",
+          "prompt": "¿La o la? → camisa",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ropa-a1-gq-1-4",
+          "prompt": "Relaciona con el tema: camisa / abrigo. ¿Artículo de «camisa»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ropa-a1-gq-1-5",
+          "prompt": "Relaciona con el tema: camisa / abrigo. ¿Artículo de «camisa»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-ropa-a1-grammar-2",
+      "title": {
+        "fr": "Hay + sustantivo",
+        "en": "Hay + noun",
+        "es": "Hay + sustantivo",
+        "ru": "Hay + существительное"
+      },
+      "rule": {
+        "fr": "Hay introduit ce qui existe : Hay un / una + nom.",
+        "en": "Hay introduces what exists: Hay un / una + noun.",
+        "es": "Hay presenta lo que existe: Hay un / una + sustantivo.",
+        "ru": "Hay вводит то, что есть: Hay un / una + существительное."
+      },
+      "why": {
+        "en": "Useful to say what is there.",
+        "es": "Útil para decir lo que hay.",
+        "ru": "Полезно, чтобы сказать, что есть."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Hay",
+          "existencia",
+          "Hay un vestido."
+        ],
+        [
+          "No hay",
+          "negación",
+          "No hay zapato."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ropa-a1-gq-2-1",
+          "prompt": "Completa: ___ un vestido.",
+          "answer": "Hay",
+          "options": [
+            "Hay",
+            "Es",
+            "Está"
+          ]
+        },
+        {
+          "id": "remote-ropa-a1-gq-2-2",
+          "prompt": "Completa: No ___ zapato.",
+          "answer": "hay",
+          "options": [
+            "hay",
+            "es",
+            "está"
+          ]
+        },
+        {
+          "id": "remote-ropa-a1-gq-2-3",
+          "prompt": "Elige: Hay ___ vestido.",
+          "answer": "un",
+          "options": [
+            "un",
+            "el",
+            "la"
+          ]
+        },
+        {
+          "id": "remote-ropa-a1-gq-2-4",
+          "prompt": "Relaciona con el tema: vestido / zapato. ¿Artículo de «vestido»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ropa-a1-gq-2-5",
+          "prompt": "Relaciona con el tema: vestido / zapato. ¿Artículo de «vestido»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-ropa-a1-dict-1",
+        "l2": "Llevo pantalones y camisa.",
+        "en": "I’m wearing trousers and a shirt.",
+        "gloss": {
+          "en": "I’m wearing trousers and a shirt.",
+          "es": "Llevo pantalón y camisa.",
+          "ru": "Я ношу брюки и рубашку."
+        },
+        "ipa": "ʎˈe.bo pantalˈo.nes ʝ camˈi.sa"
+      },
+      {
+        "id": "remote-ropa-a1-dict-2",
+        "l2": "¿Cuál es tu color favorito?",
+        "en": "What’s your favorite color?",
+        "gloss": {
+          "en": "What’s your favorite color?",
+          "es": "¿Cuál es tu color favorito?",
+          "ru": "Какой твой любимый цвет?"
+        },
+        "ipa": "cuˈal ˈes tˈu colˈor fa.borˈi.to"
+      },
+      {
+        "id": "remote-ropa-a1-dict-3",
+        "l2": "Hace frío: ponte el abrigo.",
+        "en": "It’s cold: put on your coat.",
+        "gloss": {
+          "en": "It’s cold: put on your coat.",
+          "es": "Hace frío: ponte el abrigo.",
+          "ru": "Холодно: надень пальто."
+        },
+        "ipa": "ˈa.θe frˈio pˈonte ˈel abrˈi.go"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-ropa-a1-mean-1",
+        "l2": "Llevo pantalones y camisa.",
+        "en": "I’m wearing trousers and a shirt.",
+        "gloss": {
+          "en": "I’m wearing trousers and a shirt.",
+          "es": "Llevo pantalón y camisa.",
+          "ru": "Я ношу брюки и рубашку."
+        }
+      },
+      {
+        "id": "remote-ropa-a1-mean-2",
+        "l2": "¿Cuál es tu color favorito?",
+        "en": "What’s your favorite color?",
+        "gloss": {
+          "en": "What’s your favorite color?",
+          "es": "¿Cuál es tu color favorito?",
+          "ru": "Какой твой любимый цвет?"
+        }
+      },
+      {
+        "id": "remote-ropa-a1-mean-3",
+        "l2": "Hace frío: ponte el abrigo.",
+        "en": "It’s cold: put on your coat.",
+        "gloss": {
+          "en": "It’s cold: put on your coat.",
+          "es": "Hace frío: ponte el abrigo.",
+          "ru": "Холодно: надень пальто."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-ropa-a1-fren-1",
+        "l2": "pantalones",
+        "en": "trousers",
+        "gloss": {
+          "en": "trousers",
+          "es": "pantalones",
+          "ru": "брюки"
+        }
+      },
+      {
+        "id": "remote-ropa-a1-fren-2",
+        "l2": "camisa",
+        "en": "shirt",
+        "gloss": {
+          "en": "shirt",
+          "es": "camisa",
+          "ru": "рубашка"
+        }
+      },
+      {
+        "id": "remote-ropa-a1-fren-3",
+        "l2": "vestido",
+        "en": "dress",
+        "gloss": {
+          "en": "dress",
+          "es": "vestido",
+          "ru": "одеваться"
+        }
+      },
+      {
+        "id": "remote-ropa-a1-fren-4",
+        "l2": "falda",
+        "en": "skirt",
+        "gloss": {
+          "en": "skirt",
+          "es": "falda",
+          "ru": "юбка"
+        }
+      },
+      {
+        "id": "remote-ropa-a1-fren-5",
+        "l2": "abrigo",
+        "en": "coat",
+        "gloss": {
+          "en": "coat",
+          "es": "abrigo",
+          "ru": "пальто"
+        }
+      },
+      {
+        "id": "remote-ropa-a1-fren-6",
+        "l2": "zapato",
+        "en": "shoe",
+        "gloss": {
+          "en": "shoe",
+          "es": "zapato",
+          "ru": "туфля"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-ropa-a1-alou-1",
+        "l2": "Llevo pantalones y camisa.",
+        "en": "I’m wearing trousers and a shirt.",
+        "gloss": {
+          "en": "I’m wearing trousers and a shirt.",
+          "es": "Llevo pantalón y camisa.",
+          "ru": "Я ношу брюки и рубашку."
+        },
+        "ipa": "ʎˈe.bo pantalˈo.nes ʝ camˈi.sa"
+      },
+      {
+        "id": "remote-ropa-a1-alou-2",
+        "l2": "Hace frío: ponte el abrigo.",
+        "en": "It’s cold: put on your coat.",
+        "gloss": {
+          "en": "It’s cold: put on your coat.",
+          "es": "Hace frío: ponte el abrigo.",
+          "ru": "Холодно: надень пальто."
+        },
+        "ipa": "ˈa.θe frˈio pˈonte ˈel abrˈi.go"
+      },
+      {
+        "id": "remote-ropa-a1-alou-3",
+        "l2": "Me encanta este vestido rojo.",
+        "en": "I like this red dress.",
+        "gloss": {
+          "en": "I like this red dress.",
+          "es": "Me gusta este vestido rojo.",
+          "ru": "Мне нравится это красное платье."
+        },
+        "ipa": "mˈe encˈanta ˈeste bestˈi.do rˈo.xo"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-ropa-a1-unsc-1",
+        "l2": "Estos zapatos son demasiado pequeños.",
+        "en": "These shoes are too small.",
+        "gloss": {
+          "en": "These shoes are too small.",
+          "es": "Estos zapatos son demasiado pequeños.",
+          "ru": "Эти туфли слишком малы."
+        },
+        "words": [
+          "Estos",
+          "zapatos",
+          "son",
+          "demasiado",
+          "pequeños."
+        ]
+      },
+      {
+        "id": "remote-ropa-a1-unsc-2",
+        "l2": "Me encanta este vestido rojo.",
+        "en": "I like this red dress.",
+        "gloss": {
+          "en": "I like this red dress.",
+          "es": "Me gusta este vestido rojo.",
+          "ru": "Мне нравится это красное платье."
+        },
+        "words": [
+          "Me",
+          "encanta",
+          "este",
+          "vestido",
+          "rojo."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

@@ -1,0 +1,829 @@
+{
+  "pratiquePack": 2,
+  "id": "telefono-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "es",
+  "title": {
+    "fr": "Téléphone A2 (ES)",
+    "en": "Phone A2 (ES)",
+    "es": "Teléfono A2",
+    "ru": "Телефон А2 (ES)"
+  },
+  "description": {
+    "fr": "Appels, messages et internet au quotidien — pack espagnol.",
+    "en": "Calls, messages, and everyday internet use — Spanish pack.",
+    "es": "Llamadas, mensajes y uso diario de Internet para estudiar español.",
+    "ru": "Звонки, сообщения и повседневное использование Интернета — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-telefono-a2-1",
+      "l2": "teléfono",
+      "en": "phone",
+      "gloss": {
+        "en": "phone",
+        "es": "teléfono",
+        "ru": "телефон"
+      },
+      "example": "Mi teléfono está sin carga.",
+      "ipa": "telˈe.fono",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-2",
+      "l2": "llamar",
+      "en": "call",
+      "gloss": {
+        "en": "call",
+        "es": "llamar",
+        "ru": "вызов"
+      },
+      "example": "Perdí una llamada.",
+      "ipa": "ʎamˈar",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-3",
+      "l2": "mensaje",
+      "en": "message",
+      "gloss": {
+        "en": "message",
+        "es": "mensaje",
+        "ru": "сообщение"
+      },
+      "example": "Te estoy enviando un mensaje.",
+      "ipa": "mensˈa.xe",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-4",
+      "l2": "número",
+      "en": "number",
+      "gloss": {
+        "en": "number",
+        "es": "número",
+        "ru": "число"
+      },
+      "example": "¿Cuál es tu número?",
+      "ipa": "nˈu.mero",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-5",
+      "l2": "red",
+      "en": "network / signal",
+      "gloss": {
+        "en": "network / signal",
+        "es": "red / señal",
+        "ru": "сеть/сигнал"
+      },
+      "example": "Aquí no hay red.",
+      "ipa": "rˈed",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-6",
+      "l2": "wifi",
+      "en": "Wi-Fi",
+      "gloss": {
+        "en": "Wi-Fi",
+        "es": "Wifi",
+        "ru": "Wi-Fi"
+      },
+      "example": "La conexión wifi es gratuita.",
+      "ipa": "wˈi.fi",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-7",
+      "l2": "batería",
+      "en": "battery",
+      "gloss": {
+        "en": "battery",
+        "es": "batería",
+        "ru": "батарея"
+      },
+      "example": "La batería está casi agotada.",
+      "ipa": "ba.terˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-telefono-a2-8",
+      "l2": "cargador",
+      "en": "charger",
+      "gloss": {
+        "en": "charger",
+        "es": "cargador",
+        "ru": "зарядное устройство"
+      },
+      "example": "Olvidé mi cargador.",
+      "ipa": "cargadˈor",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-9",
+      "l2": "pantalla",
+      "en": "screen",
+      "gloss": {
+        "en": "screen",
+        "es": "pantalla",
+        "ru": "экран"
+      },
+      "example": "La pantalla está rota.",
+      "ipa": "pantˈa.ʎa",
+      "article": "la"
+    },
+    {
+      "id": "remote-telefono-a2-10",
+      "l2": "aplicación",
+      "en": "app",
+      "gloss": {
+        "en": "app",
+        "es": "aplicación",
+        "ru": "приложение"
+      },
+      "example": "Abro una aplicación de mapas.",
+      "ipa": "apli.caθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-telefono-a2-11",
+      "l2": "contraseña",
+      "en": "password",
+      "gloss": {
+        "en": "password",
+        "es": "contraseña",
+        "ru": "пароль"
+      },
+      "example": "Olvidé mi contraseña.",
+      "ipa": "contrasˈe.ɲa",
+      "article": "la"
+    },
+    {
+      "id": "remote-telefono-a2-12",
+      "l2": "cuenta",
+      "en": "account",
+      "gloss": {
+        "en": "account",
+        "es": "cuenta",
+        "ru": "счет"
+      },
+      "example": "Creo una cuenta.",
+      "ipa": "cuˈenta",
+      "article": "la"
+    },
+    {
+      "id": "remote-telefono-a2-13",
+      "l2": "foto",
+      "en": "photo",
+      "gloss": {
+        "en": "photo",
+        "es": "foto",
+        "ru": "фото"
+      },
+      "example": "Te enviaré una foto.",
+      "ipa": "fˈo.to",
+      "article": "la"
+    },
+    {
+      "id": "remote-telefono-a2-14",
+      "l2": "video",
+      "en": "video",
+      "gloss": {
+        "en": "video",
+        "es": "video",
+        "ru": "видео"
+      },
+      "example": "Vemos un vídeo.",
+      "ipa": "bidˈeo",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-15",
+      "l2": "notificación",
+      "en": "notification",
+      "gloss": {
+        "en": "notification",
+        "es": "notificación",
+        "ru": "уведомление"
+      },
+      "example": "Tengo demasiadas notificaciones.",
+      "ipa": "no.tifi.caθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-telefono-a2-16",
+      "l2": "correo de voz",
+      "en": "voicemail / messaging",
+      "gloss": {
+        "en": "voicemail / messaging",
+        "es": "correo de voz/mensajería",
+        "ru": "голосовая почта/сообщения"
+      },
+      "example": "Deje un mensaje en el correo de voz.",
+      "ipa": "co.reo de bˈoz",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-17",
+      "l2": "plan telefonico",
+      "en": "phone plan",
+      "gloss": {
+        "en": "phone plan",
+        "es": "plan telefonico",
+        "ru": "тарифный план телефона"
+      },
+      "example": "Mi plan incluye datos.",
+      "ipa": "plan te.lefonˈi.co",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-18",
+      "l2": "datos moviles",
+      "en": "mobile data",
+      "gloss": {
+        "en": "mobile data",
+        "es": "datos moviles",
+        "ru": "мобильные данные"
+      },
+      "example": "Ya no tengo ningún dato.",
+      "ipa": "da.tos mobˈi.les",
+      "article": "el"
+    },
+    {
+      "id": "remote-telefono-a2-19",
+      "l2": "tono de llamada",
+      "en": "ringtone / ringing",
+      "gloss": {
+        "en": "ringtone / ringing",
+        "es": "tono de llamada / timbre",
+        "ru": "рингтон / звонок"
+      },
+      "example": "No reconozco este tono de llamada.",
+      "ipa": "to.no de ʎamˈa.da",
+      "article": "la"
+    },
+    {
+      "id": "remote-telefono-a2-20",
+      "l2": "contacto",
+      "en": "contact",
+      "gloss": {
+        "en": "contact",
+        "es": "contacto",
+        "ru": "контакт"
+      },
+      "example": "Agrego su número a mis contactos.",
+      "ipa": "contˈacto",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-telefono-a2-phrase-1",
+      "l2": "Hola, me gustaría hablar con Marie.",
+      "en": "Hello, I’d like to speak to Marie.",
+      "gloss": {
+        "en": "Hello, I’d like to speak to Marie.",
+        "es": "Hola, me gustaría hablar con Marie.",
+        "ru": "Здравствуйте, я хотел бы поговорить с Марией."
+      },
+      "ipa": "ˈo.la mˈe ɡstarˈia ablˈar cˈon marˈie"
+    },
+    {
+      "id": "remote-telefono-a2-phrase-2",
+      "l2": "Te llamaré en cinco minutos.",
+      "en": "I’ll call you back in five minutes.",
+      "gloss": {
+        "en": "I’ll call you back in five minutes.",
+        "es": "Te llamaré en cinco minutos.",
+        "ru": "Я перезвоню тебе через пять минут."
+      },
+      "ipa": "tˈe ʎa.marˈe ˈen θˈinco minˈu.tos"
+    },
+    {
+      "id": "remote-telefono-a2-phrase-3",
+      "l2": "Aquí no hay red.",
+      "en": "There’s no signal here.",
+      "gloss": {
+        "en": "There’s no signal here.",
+        "es": "Aquí no hay señal.",
+        "ru": "Здесь нет сигнала."
+      },
+      "ipa": "akˈi nˈo ˈaʝ rˈed"
+    },
+    {
+      "id": "remote-telefono-a2-phrase-4",
+      "l2": "¿Puedes enviarme un mensaje?",
+      "en": "Can you send me a message?",
+      "gloss": {
+        "en": "Can you send me a message?",
+        "es": "¿Puedes enviarme un mensaje?",
+        "ru": "Можете ли вы отправить мне сообщение?"
+      },
+      "ipa": "puˈe.des enbiˈarme ˈun mensˈa.xe"
+    },
+    {
+      "id": "remote-telefono-a2-phrase-5",
+      "l2": "Olvidé mi contraseña.",
+      "en": "I’ve forgotten my password.",
+      "gloss": {
+        "en": "I’ve forgotten my password.",
+        "es": "He olvidado mi contraseña.",
+        "ru": "Я забыл свой пароль."
+      },
+      "ipa": "olbidˈe mˈi contrasˈe.ɲa"
+    },
+    {
+      "id": "remote-telefono-a2-phrase-6",
+      "l2": "El wifi no funciona.",
+      "en": "The Wi-Fi isn’t working.",
+      "gloss": {
+        "en": "The Wi-Fi isn’t working.",
+        "es": "El wifi no funciona.",
+        "ru": "Wi-Fi не работает."
+      },
+      "ipa": "ˈel wˈi.fi nˈo funθiˈo.na"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-telefono-a2-listen-1",
+      "l2": "Hola, me gustaría hablar con Marie, por favor.",
+      "en": "Hello, I’d like to speak to Marie, please.",
+      "gloss": {
+        "en": "Hello, I’d like to speak to Marie, please.",
+        "es": "Hola, me gustaría hablar con Marie, por favor.",
+        "ru": "Здравствуйте, я хотел бы поговорить с Мари, пожалуйста."
+      },
+      "word": "hola",
+      "wordEn": "hello (phone)",
+      "wordGloss": {
+        "en": "hello (phone)",
+        "es": "hola (teléfono)",
+        "ru": "здравствуйте (телефон)"
+      },
+      "wordIpa": "ˈo.la",
+      "distractors": [
+        "gRACIAS",
+        "buen día",
+        "teléfono"
+      ]
+    },
+    {
+      "id": "remote-telefono-a2-listen-2",
+      "l2": "No hay red en el metro.",
+      "en": "There’s no signal on the metro.",
+      "gloss": {
+        "en": "There’s no signal on the metro.",
+        "es": "No hay señal en el metro.",
+        "ru": "В метро нет сигнала."
+      },
+      "word": "red",
+      "wordEn": "signal",
+      "wordGloss": {
+        "en": "signal",
+        "es": "señal",
+        "ru": "сигнал"
+      },
+      "wordIpa": "rˈed",
+      "distractors": [
+        "wifi",
+        "plan telefonico",
+        "pantalla"
+      ]
+    },
+    {
+      "id": "remote-telefono-a2-listen-3",
+      "l2": "Olvidé mi cargador en casa.",
+      "en": "I forgot my charger at home.",
+      "gloss": {
+        "en": "I forgot my charger at home.",
+        "es": "Olvidé mi cargador en casa.",
+        "ru": "Я забыл зарядное устройство дома."
+      },
+      "word": "cargador",
+      "wordEn": "charger",
+      "wordGloss": {
+        "en": "charger",
+        "es": "cargador",
+        "ru": "зарядное устройство"
+      },
+      "wordIpa": "cargadˈor",
+      "distractors": [
+        "batería",
+        "pantalla",
+        "teléfono"
+      ]
+    },
+    {
+      "id": "remote-telefono-a2-listen-4",
+      "l2": "Wifi no funciona en esta habitación.",
+      "en": "The Wi-Fi isn’t working in this room.",
+      "gloss": {
+        "en": "The Wi-Fi isn’t working in this room.",
+        "es": "El Wi-Fi no funciona en esta habitación.",
+        "ru": "В этой комнате не работает Wi-Fi."
+      },
+      "word": "wifi",
+      "wordEn": "Wi-Fi",
+      "wordGloss": {
+        "en": "Wi-Fi",
+        "es": "Wifi",
+        "ru": "Wi-Fi"
+      },
+      "wordIpa": "wˈi.fi",
+      "distractors": [
+        "datos moviles",
+        "plan telefonico",
+        "cuenta"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Qué dices cuando llamas a un amigo?",
+    "Describe un problema con tu teléfono.",
+    "¿Prefieres llamar o enviar un mensaje? Para qué ?",
+    "Explica cómo conectarse a wifi."
+  ],
+  "grammar": [
+    {
+      "id": "remote-telefono-a2-grammar-1",
+      "title": {
+        "fr": "Pretérito vs imperfecto",
+        "en": "Preterite vs imperfect",
+        "es": "Pretérito frente a imperfecto",
+        "ru": "Pretérito и imperfecto"
+      },
+      "rule": {
+        "fr": "Le prétérito raconte un fait achevé ; l’imperfecto décrit le cadre ou l’habitude.",
+        "en": "Preterite narrates a completed event; imperfect sets the scene or habit.",
+        "es": "El pretérito narra un hecho terminado; el imperfecto describe el marco o la costumbre.",
+        "ru": "Pretérito — завершённое событие; imperfecto — фон или привычка."
+      },
+      "why": {
+        "en": "Choosing the right past tense clarifies your story.",
+        "es": "Elegir el pasado correcto aclara tu relato.",
+        "ru": "Правильный выбор прошедшего делает рассказ яснее."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Pretérito",
+          "hecho terminado",
+          "Ayer vi el llamar."
+        ],
+        [
+          "Imperfecto",
+          "costumbre / marco",
+          "Siempre había red."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-telefono-a2-gq-1-1",
+          "prompt": "Ayer ___ al médico. (ir)",
+          "answer": "fui",
+          "options": [
+            "fui",
+            "iba",
+            "iré"
+          ]
+        },
+        {
+          "id": "remote-telefono-a2-gq-1-2",
+          "prompt": "De niño, ___ mucho. (leer)",
+          "answer": "leía",
+          "options": [
+            "leí",
+            "leía",
+            "leeré"
+          ]
+        },
+        {
+          "id": "remote-telefono-a2-gq-1-3",
+          "prompt": "El año pasado ___ el llamar. (comprar)",
+          "answer": "compré",
+          "options": [
+            "compré",
+            "compraba",
+            "compro"
+          ]
+        },
+        {
+          "id": "remote-telefono-a2-gq-1-4",
+          "prompt": "Relaciona con el tema: llamar / red. ¿Artículo de «llamar»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-telefono-a2-gq-1-5",
+          "prompt": "Relaciona con el tema: llamar / red. ¿Artículo de «llamar»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-telefono-a2-grammar-2",
+      "title": {
+        "fr": "Por / para",
+        "en": "Por / para",
+        "es": "Por / para",
+        "ru": "Por / para"
+      },
+      "rule": {
+        "fr": "Para indique le but ou la destination ; por la cause, la durée ou le moyen.",
+        "en": "Para marks purpose or destination; por marks cause, duration, or means.",
+        "es": "Para indica propósito o destino; por indica causa, duración o medio.",
+        "ru": "Para — цель или направление; por — причина, длительность или средство."
+      },
+      "why": {
+        "en": "Avoids a very common mix-up.",
+        "es": "Evita una confusión muy frecuente.",
+        "ru": "Помогает избежать частой ошибки."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "para",
+          "objetivo / destino",
+          "Esto es para mensaje."
+        ],
+        [
+          "por",
+          "causa / medio",
+          "Lo hago por wifi."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-telefono-a2-gq-2-1",
+          "prompt": "Estudio ___ mensaje. (objetivo)",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "con"
+          ]
+        },
+        {
+          "id": "remote-telefono-a2-gq-2-2",
+          "prompt": "Gracias ___ tu ayuda.",
+          "answer": "por",
+          "options": [
+            "por",
+            "para",
+            "de"
+          ]
+        },
+        {
+          "id": "remote-telefono-a2-gq-2-3",
+          "prompt": "Salgo ___ Madrid mañana.",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "en"
+          ]
+        },
+        {
+          "id": "remote-telefono-a2-gq-2-4",
+          "prompt": "Relaciona con el tema: mensaje / wifi. ¿Artículo de «mensaje»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-telefono-a2-gq-2-5",
+          "prompt": "Relaciona con el tema: mensaje / wifi. ¿Artículo de «mensaje»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-telefono-a2-dict-1",
+        "l2": "Hola, me gustaría hablar con Marie.",
+        "en": "Hello, I’d like to speak to Marie.",
+        "gloss": {
+          "en": "Hello, I’d like to speak to Marie.",
+          "es": "Hola, me gustaría hablar con Marie.",
+          "ru": "Здравствуйте, я хотел бы поговорить с Марией."
+        },
+        "ipa": "ˈo.la mˈe ɡstarˈia ablˈar cˈon marˈie"
+      },
+      {
+        "id": "remote-telefono-a2-dict-2",
+        "l2": "Te llamaré en cinco minutos.",
+        "en": "I’ll call you back in five minutes.",
+        "gloss": {
+          "en": "I’ll call you back in five minutes.",
+          "es": "Te llamaré en cinco minutos.",
+          "ru": "Я перезвоню тебе через пять минут."
+        },
+        "ipa": "tˈe ʎa.marˈe ˈen θˈinco minˈu.tos"
+      },
+      {
+        "id": "remote-telefono-a2-dict-3",
+        "l2": "Aquí no hay red.",
+        "en": "There’s no signal here.",
+        "gloss": {
+          "en": "There’s no signal here.",
+          "es": "Aquí no hay señal.",
+          "ru": "Здесь нет сигнала."
+        },
+        "ipa": "akˈi nˈo ˈaʝ rˈed"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-telefono-a2-mean-1",
+        "l2": "Hola, me gustaría hablar con Marie.",
+        "en": "Hello, I’d like to speak to Marie.",
+        "gloss": {
+          "en": "Hello, I’d like to speak to Marie.",
+          "es": "Hola, me gustaría hablar con Marie.",
+          "ru": "Здравствуйте, я хотел бы поговорить с Марией."
+        }
+      },
+      {
+        "id": "remote-telefono-a2-mean-2",
+        "l2": "Te llamaré en cinco minutos.",
+        "en": "I’ll call you back in five minutes.",
+        "gloss": {
+          "en": "I’ll call you back in five minutes.",
+          "es": "Te llamaré en cinco minutos.",
+          "ru": "Я перезвоню тебе через пять минут."
+        }
+      },
+      {
+        "id": "remote-telefono-a2-mean-3",
+        "l2": "Aquí no hay red.",
+        "en": "There’s no signal here.",
+        "gloss": {
+          "en": "There’s no signal here.",
+          "es": "Aquí no hay señal.",
+          "ru": "Здесь нет сигнала."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-telefono-a2-fren-1",
+        "l2": "teléfono",
+        "en": "phone",
+        "gloss": {
+          "en": "phone",
+          "es": "teléfono",
+          "ru": "телефон"
+        }
+      },
+      {
+        "id": "remote-telefono-a2-fren-2",
+        "l2": "llamar",
+        "en": "call",
+        "gloss": {
+          "en": "call",
+          "es": "llamar",
+          "ru": "вызов"
+        }
+      },
+      {
+        "id": "remote-telefono-a2-fren-3",
+        "l2": "mensaje",
+        "en": "message",
+        "gloss": {
+          "en": "message",
+          "es": "mensaje",
+          "ru": "сообщение"
+        }
+      },
+      {
+        "id": "remote-telefono-a2-fren-4",
+        "l2": "número",
+        "en": "number",
+        "gloss": {
+          "en": "number",
+          "es": "número",
+          "ru": "число"
+        }
+      },
+      {
+        "id": "remote-telefono-a2-fren-5",
+        "l2": "red",
+        "en": "network",
+        "gloss": {
+          "en": "network",
+          "es": "red",
+          "ru": "сеть"
+        }
+      },
+      {
+        "id": "remote-telefono-a2-fren-6",
+        "l2": "wifi",
+        "en": "Wi-Fi",
+        "gloss": {
+          "en": "Wi-Fi",
+          "es": "Wifi",
+          "ru": "Wi-Fi"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-telefono-a2-alou-1",
+        "l2": "Hola, me gustaría hablar con Marie.",
+        "en": "Hello, I’d like to speak to Marie.",
+        "gloss": {
+          "en": "Hello, I’d like to speak to Marie.",
+          "es": "Hola, me gustaría hablar con Marie.",
+          "ru": "Здравствуйте, я хотел бы поговорить с Марией."
+        },
+        "ipa": "ˈo.la mˈe ɡstarˈia ablˈar cˈon marˈie"
+      },
+      {
+        "id": "remote-telefono-a2-alou-2",
+        "l2": "Aquí no hay red.",
+        "en": "There’s no signal here.",
+        "gloss": {
+          "en": "There’s no signal here.",
+          "es": "Aquí no hay señal.",
+          "ru": "Здесь нет сигнала."
+        },
+        "ipa": "akˈi nˈo ˈaʝ rˈed"
+      },
+      {
+        "id": "remote-telefono-a2-alou-3",
+        "l2": "Olvidé mi contraseña.",
+        "en": "I’ve forgotten my password.",
+        "gloss": {
+          "en": "I’ve forgotten my password.",
+          "es": "He olvidado mi contraseña.",
+          "ru": "Я забыл свой пароль."
+        },
+        "ipa": "olbidˈe mˈi contrasˈe.ɲa"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-telefono-a2-unsc-1",
+        "l2": "¿Puedes enviarme un mensaje?",
+        "en": "Can you send me a message?",
+        "gloss": {
+          "en": "Can you send me a message?",
+          "es": "¿Puedes enviarme un mensaje?",
+          "ru": "Можете ли вы отправить мне сообщение?"
+        },
+        "words": [
+          "¿Puedes",
+          "enviarme",
+          "un",
+          "mensaje?"
+        ]
+      },
+      {
+        "id": "remote-telefono-a2-unsc-2",
+        "l2": "Olvidé mi contraseña.",
+        "en": "I’ve forgotten my password.",
+        "gloss": {
+          "en": "I’ve forgotten my password.",
+          "es": "He olvidado mi contraseña.",
+          "ru": "Я забыл свой пароль."
+        },
+        "words": [
+          "Olvidé",
+          "mi",
+          "contraseña."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

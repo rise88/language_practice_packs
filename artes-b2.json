@@ -1,0 +1,849 @@
+{
+  "pratiquePack": 2,
+  "id": "artes-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "es",
+  "title": {
+    "fr": "Arts et cinéma B2 (ES)",
+    "en": "Arts and film B2 (ES)",
+    "es": "Artes y cine B2",
+    "ru": "Искусство и кино B2 (ES)"
+  },
+  "description": {
+    "fr": "Cinéma, critique, expositions, récit et questions d’esthétique — pack espagnol.",
+    "en": "Film, criticism, exhibitions, narrative, and aesthetic questions — Spanish pack.",
+    "es": "Cine, crítica, exposiciones, cuestiones narrativas y estéticas para estudiar español.",
+    "ru": "Кино, критика, выставки, повествование и эстетические вопросы — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-artes-b2-1",
+      "l2": "largometraje",
+      "en": "feature film",
+      "gloss": {
+        "en": "feature film",
+        "es": "largometraje",
+        "ru": "художественный фильм"
+      },
+      "example": "Este largometraje rechaza un final feliz, lo que dividió a la crítica tras su estreno.",
+      "ipa": "largo.metrˈa.xe",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-2",
+      "l2": "revisión",
+      "en": "review / criticism",
+      "gloss": {
+        "en": "review / criticism",
+        "es": "revisión / crítica",
+        "ru": "обзор/критика"
+      },
+      "example": "Los críticos elogiaron la puesta en escena, pero consideraron que la historia era demasiado vaga.",
+      "ipa": "re.bisiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-artes-b2-3",
+      "l2": "exhibición",
+      "en": "exhibition",
+      "gloss": {
+        "en": "exhibition",
+        "es": "exhibición",
+        "ru": "выставка"
+      },
+      "example": "La exposición retrospectiva reúne obras rara vez mostradas al público.",
+      "ipa": "e.xibi.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-artes-b2-4",
+      "l2": "narrativo",
+      "en": "narrative",
+      "gloss": {
+        "en": "narrative",
+        "es": "narrativo",
+        "ru": "повествование"
+      },
+      "example": "La narrativa no lineal exige del espectador una atención que no todos prestan.",
+      "ipa": "na.ratˈi.bo",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-5",
+      "l2": "estético",
+      "en": "aesthetic",
+      "gloss": {
+        "en": "aesthetic",
+        "es": "estético",
+        "ru": "эстетический"
+      },
+      "example": "La estética de la película favorece los planos fijos para dejar respirar los silencios.",
+      "ipa": "estˈe.tico",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-6",
+      "l2": "dirección",
+      "en": "direction / staging",
+      "gloss": {
+        "en": "direction / staging",
+        "es": "dirección / puesta en escena",
+        "ru": "режиссура / постановка"
+      },
+      "example": "La sobria puesta en escena cumple su propósito, aunque algunos la consideran tibia.",
+      "ipa": "di.recθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-artes-b2-7",
+      "l2": "disparo",
+      "en": "shot",
+      "gloss": {
+        "en": "shot",
+        "es": "disparo",
+        "ru": "выстрелил"
+      },
+      "example": "Este plano secuencia de doce minutos se rodó en una sola toma, a pesar de la multitud.",
+      "ipa": "dispˈa.ro",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-8",
+      "l2": "curador",
+      "en": "curator",
+      "gloss": {
+        "en": "curator",
+        "es": "curador",
+        "ru": "куратор"
+      },
+      "example": "El comisario de la exposición optó por una exposición cronológica más que temática.",
+      "ipa": "cu.radˈor",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-9",
+      "l2": "actuación",
+      "en": "performance / interpretation",
+      "gloss": {
+        "en": "performance / interpretation",
+        "es": "actuación / interpretación",
+        "ru": "перформанс/интерпретация"
+      },
+      "example": "Su actuación contenida dice más de lo que habrían hecho las lágrimas espectaculares.",
+      "ipa": "actua.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-artes-b2-10",
+      "l2": "cartel de premios",
+      "en": "awards lineup",
+      "gloss": {
+        "en": "awards lineup",
+        "es": "cartel de premios",
+        "ru": "состав наград"
+      },
+      "example": "Los resultados fueron sorprendentes, aunque el favorito pareció intocable durante mucho tiempo.",
+      "ipa": "cartel de premˈios",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-11",
+      "l2": "edición",
+      "en": "editing",
+      "gloss": {
+        "en": "editing",
+        "es": "edición",
+        "ru": "редактирование"
+      },
+      "example": "La edición elíptica se salta años, lo que refuerza la historia sin socavarla.",
+      "ipa": "e.diθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-artes-b2-12",
+      "l2": "retrospectivo",
+      "en": "retrospective",
+      "gloss": {
+        "en": "retrospective",
+        "es": "retrospectivo",
+        "ru": "ретроспектива"
+      },
+      "example": "Esta retrospectiva nos permite seguir la evolución de un pintor que con demasiada frecuencia se reduce a un solo período.",
+      "ipa": "retrospectˈi.bo",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-13",
+      "l2": "guión",
+      "en": "screenplay",
+      "gloss": {
+        "en": "screenplay",
+        "es": "guión",
+        "ru": "сценарий"
+      },
+      "example": "El guión original fue revisado exhaustivamente durante el rodaje.",
+      "ipa": "ɡiˈon",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-14",
+      "l2": "iluminación",
+      "en": "lighting",
+      "gloss": {
+        "en": "lighting",
+        "es": "iluminación",
+        "ru": "освещение"
+      },
+      "example": "La luz natural de los interiores refuerza la sensación documental.",
+      "ipa": "i.lumi.naθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-artes-b2-15",
+      "l2": "movimiento artístico",
+      "en": "artistic movement",
+      "gloss": {
+        "en": "artistic movement",
+        "es": "movimiento artístico",
+        "ru": "художественное движение"
+      },
+      "example": "Este movimiento pictórico influyó en el cine mucho después de haber sido declarado obsoleto.",
+      "ipa": "mo.bimiento artˈisti.co",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-16",
+      "l2": "galería",
+      "en": "gallery",
+      "gloss": {
+        "en": "gallery",
+        "es": "galería",
+        "ru": "галерея"
+      },
+      "example": "La galería dedica su escaparate a artistas emergentes más que a valores establecidos.",
+      "ipa": "ga.lerˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-artes-b2-17",
+      "l2": "personaje",
+      "en": "character",
+      "gloss": {
+        "en": "character",
+        "es": "personaje",
+        "ru": "характер"
+      },
+      "example": "El personaje secundario casi se roba el show, lo que desequilibra la historia.",
+      "ipa": "personˈa.xe",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-18",
+      "l2": "marco",
+      "en": "frame / framing",
+      "gloss": {
+        "en": "frame / framing",
+        "es": "marco / marco",
+        "ru": "рама / обрамление"
+      },
+      "example": "La estrecha estructura de las manos dice más que cualquier diálogo explicativo.",
+      "ipa": "mˈarco",
+      "article": "el"
+    },
+    {
+      "id": "remote-artes-b2-19",
+      "l2": "metáfora",
+      "en": "metaphor",
+      "gloss": {
+        "en": "metaphor",
+        "es": "metáfora",
+        "ru": "метафора"
+      },
+      "example": "Esta metáfora visual regresa tres veces para unificar la película.",
+      "ipa": "metˈa.fora",
+      "article": "la"
+    },
+    {
+      "id": "remote-artes-b2-20",
+      "l2": "apertura",
+      "en": "opening / private view",
+      "gloss": {
+        "en": "opening / private view",
+        "es": "apertura / vista privada",
+        "ru": "открытие/частный просмотр"
+      },
+      "example": "La inauguración atrajo a una multitud más mundana que verdaderamente curiosa por las obras.",
+      "ipa": "a.pertˈu.ra",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-artes-b2-phrase-1",
+      "l2": "No creo que este largometraje merezca las reservas de la crítica.",
+      "en": "I do not think this feature film deserves the critics’ reservations.",
+      "gloss": {
+        "en": "I do not think this feature film deserves the critics’ reservations.",
+        "es": "No creo que este largometraje merezca las reservas de la crítica.",
+        "ru": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков."
+      },
+      "ipa": "nˈo crˈeo kˈe ˈeste largo.metrˈa.xe merˈezca lˈas resˈerbas dˈe lˈa crˈi.tica"
+    },
+    {
+      "id": "remote-artes-b2-phrase-2",
+      "l2": "Aunque la historia es elíptica, la puesta en escena sigue siendo perfectamente legible.",
+      "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+      "gloss": {
+        "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+        "es": "Aunque la narrativa es elíptica, la dirección sigue siendo perfectamente legible.",
+        "ru": "Хотя повествование эллиптично, направление остается прекрасно читаемым."
+      },
+      "ipa": "aˈunke lˈa istorˈia ˈes elˈipti.ca lˈa puˈesta ˈen esθˈe.na sˈi.ɡe siˈendo perfectamˈente"
+    },
+    {
+      "id": "remote-artes-b2-phrase-3",
+      "l2": "Si el montaje hubiera sido más clásico, la película sin duda habría atraído a un público más amplio.",
+      "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+      "gloss": {
+        "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+        "es": "Si el montaje hubiera sido más convencional, la película sin duda habría llegado a un público más amplio.",
+        "ru": "Если бы монтаж был более традиционным, фильм, несомненно, достиг бы более широкой аудитории."
+      },
+      "ipa": "sˈi ˈel montˈa.xe u.biˈe.ra sˈi.do mˈas clˈa.sico lˈa pelˈi.cula sˈin dˈu.da abrˈia"
+    },
+    {
+      "id": "remote-artes-b2-phrase-4",
+      "l2": "Por otro lado, la exposición adolece de una presentación demasiado erudita para el visitante con prisas.",
+      "en": "By contrast, the exhibition suffers from wall texts that are too learned for the hurried visitor.",
+      "gloss": {
+        "en": "By contrast, the exhibition suffers from wall texts that are too learned for the hurried visitor.",
+        "es": "Por el contrario, la exposición adolece de textos murales que son demasiado eruditos para el visitante apresurado.",
+        "ru": "Напротив, выставка страдает от настенных текстов, которые слишком заучены для спешащего посетителя."
+      },
+      "ipa": "pˈor ˈotro lˈa.do lˈa expo.siθiˈon a.dolˈe.θe dˈe ˈu.na pre.senta.θiˈon de.masiˈa.do e.rudˈi.ta pˈa.ra"
+    },
+    {
+      "id": "remote-artes-b2-phrase-5",
+      "l2": "Se podría objetar que las estéticas del plano estático son aburridas cuando no están justificadas.",
+      "en": "One might object that the aesthetic of the static shot becomes tiring when it is not justified.",
+      "gloss": {
+        "en": "One might object that the aesthetic of the static shot becomes tiring when it is not justified.",
+        "es": "Se podría objetar que la estética del plano estático resulta cansina cuando no está justificada.",
+        "ru": "Можно возразить, что эстетика статического кадра утомляет, когда она не оправдана."
+      },
+      "ipa": "sˈe podrˈia obxetˈar kˈe lˈas estˈe.ticas dˈel plˈa.no estˈa.tico sˈon a.burˈi.das cuˈando"
+    },
+    {
+      "id": "remote-artes-b2-phrase-6",
+      "l2": "Para que el público capte la metáfora, el motivo vuelve tres veces.",
+      "en": "So that the audience grasps the metaphor, the motif returns three times.",
+      "gloss": {
+        "en": "So that the audience grasps the metaphor, the motif returns three times.",
+        "es": "Para que el público capte la metáfora, el motivo vuelve tres veces.",
+        "ru": "Чтобы зрители уловили метафору, мотив возвращается трижды."
+      },
+      "ipa": "pˈa.ra kˈe ˈel pˈubli.co cˈapte lˈa metˈa.fora ˈel motˈi.bo buˈelbe trˈes bˈe.θes"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-artes-b2-listen-1",
+      "l2": "Los críticos elogiaron la puesta en escena, pero consideraron que la historia era demasiado vaga.",
+      "en": "Critics praised the direction; however they found the narrative too loose.",
+      "gloss": {
+        "en": "Critics praised the direction; however they found the narrative too loose.",
+        "es": "Los críticos elogiaron la dirección; sin embargo, encontraron la narrativa demasiado vaga.",
+        "ru": "Критики высоко оценили это направление; однако они сочли повествование слишком свободным."
+      },
+      "word": "revisión",
+      "wordEn": "criticism",
+      "wordGloss": {
+        "en": "criticism",
+        "es": "crítica",
+        "ru": "критика"
+      },
+      "wordIpa": "re.bisiˈon",
+      "distractors": [
+        "cartel de premios",
+        "guión",
+        "actuación"
+      ]
+    },
+    {
+      "id": "remote-artes-b2-listen-2",
+      "l2": "La exposición retrospectiva reúne obras raramente mostradas.",
+      "en": "The retrospective exhibition brings together works rarely shown.",
+      "gloss": {
+        "en": "The retrospective exhibition brings together works rarely shown.",
+        "es": "La exposición retrospectiva reúne obras raramente mostradas.",
+        "ru": "Ретроспективная выставка объединяет редко демонстрируемые работы."
+      },
+      "word": "exhibición",
+      "wordEn": "exhibition",
+      "wordGloss": {
+        "en": "exhibition",
+        "es": "exhibición",
+        "ru": "выставка"
+      },
+      "wordIpa": "e.xibi.θiˈon",
+      "distractors": [
+        "galería",
+        "retrospectivo",
+        "apertura"
+      ]
+    },
+    {
+      "id": "remote-artes-b2-listen-3",
+      "l2": "El montaje elíptico salta años sin perjudicar la historia.",
+      "en": "The elliptical editing skips years without harming the narrative.",
+      "gloss": {
+        "en": "The elliptical editing skips years without harming the narrative.",
+        "es": "La edición elíptica salta años sin perjudicar la narrativa.",
+        "ru": "Эллиптический монтаж пропускает годы, не нанося вреда повествованию."
+      },
+      "word": "edición",
+      "wordEn": "editing",
+      "wordGloss": {
+        "en": "editing",
+        "es": "edición",
+        "ru": "редактирование"
+      },
+      "wordIpa": "e.diθiˈon",
+      "distractors": [
+        "disparo",
+        "marco",
+        "iluminación"
+      ]
+    },
+    {
+      "id": "remote-artes-b2-listen-4",
+      "l2": "El comisario optó por una exposición cronológica más que temática.",
+      "en": "The curator chose a chronological hang rather than a thematic one.",
+      "gloss": {
+        "en": "The curator chose a chronological hang rather than a thematic one.",
+        "es": "El comisario optó por un corte cronológico más que temático.",
+        "ru": "Куратор выбрал хронологическое размещение, а не тематическое."
+      },
+      "word": "curador",
+      "wordEn": "curator",
+      "wordGloss": {
+        "en": "curator",
+        "es": "curador",
+        "ru": "куратор"
+      },
+      "wordIpa": "cu.radˈor",
+      "distractors": [
+        "movimiento artístico",
+        "estético",
+        "personaje"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Es el trabajo difícil necesariamente más interesante? Justifica tu opinión.",
+    "Compare la crítica útil y la crítica injusta: ¿qué las distingue?",
+    "En tu opinión, ¿la historia de una película debería ser siempre lineal?",
+    "Si organizaras una exposición, ¿a qué curador defenderías y por qué?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-artes-b2-grammar-1",
+      "title": {
+        "fr": "Subjonctif imparfait en hypothèse",
+        "en": "Imperfect subjunctive in hypotheses",
+        "es": "Imperfecto de subjuntivo en hipótesis",
+        "ru": "Imperfecto de subjuntivo в гипотезах"
+      },
+      "rule": {
+        "fr": "Si + imperfecto de subjuntivo, condicional : Si tuviera tiempo, iría.",
+        "en": "Si + imperfect subjunctive, conditional: Si tuviera tiempo, iría.",
+        "es": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría.",
+        "ru": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría."
+      },
+      "why": {
+        "en": "Lets you discuss unlikely or polite scenarios.",
+        "es": "Permite hablar de escenarios poco reales o corteses.",
+        "ru": "Позволяет обсуждать маловероятные или вежливые сценарии."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Si + subj. impf.",
+          "hipótesis",
+          "Si tuviera tiempo, iría."
+        ],
+        [
+          "condicional",
+          "resultado",
+          "Compraría la revisión."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-artes-b2-gq-1-1",
+          "prompt": "Si ___ tiempo, viajaría. (tener)",
+          "answer": "tuviera",
+          "options": [
+            "tuviera",
+            "tengo",
+            "tendré"
+          ]
+        },
+        {
+          "id": "remote-artes-b2-gq-1-2",
+          "prompt": "Si pudiera, ___ más. (leer)",
+          "answer": "leería",
+          "options": [
+            "leería",
+            "leo",
+            "leí"
+          ]
+        },
+        {
+          "id": "remote-artes-b2-gq-1-3",
+          "prompt": "Si hubiera estético, sería distinto.",
+          "answer": "hubiera",
+          "options": [
+            "hubiera",
+            "hay",
+            "había"
+          ]
+        },
+        {
+          "id": "remote-artes-b2-gq-1-4",
+          "prompt": "Relaciona con el tema: revisión / estético. ¿Artículo de «revisión»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-artes-b2-gq-1-5",
+          "prompt": "Relaciona con el tema: revisión / estético. ¿Artículo de «revisión»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-artes-b2-grammar-2",
+      "title": {
+        "fr": "Aunque + indicatif / subjonctif",
+        "en": "Aunque + indicative / subjunctive",
+        "es": "Aunque + indicativo / subjuntivo",
+        "ru": "Aunque + indicativo / subjuntivo"
+      },
+      "rule": {
+        "fr": "Aunque + indicatif = fait connu ; aunque + subjonctif = concession non assertive.",
+        "en": "Aunque + indicative = known fact; + subjunctive = non-assertive concession.",
+        "es": "Aunque + indicativo = hecho conocido; + subjuntivo = concesión no asertiva.",
+        "ru": "Aunque + indicativo — известный факт; + subjuntivo — уступка без утверждения."
+      },
+      "why": {
+        "en": "Nuances how strongly you commit to a claim.",
+        "es": "Matiza cuánto te comprometes con una afirmación.",
+        "ru": "Оттенки того, насколько вы настаиваете на утверждении."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "aunque + ind.",
+          "hecho conocido",
+          "Aunque hay exhibición, sigo."
+        ],
+        [
+          "aunque + subj.",
+          "no asertivo",
+          "Aunque haya dirección, dudo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-artes-b2-gq-2-1",
+          "prompt": "Aunque ___ frío, salgo. (hecho)",
+          "answer": "hace",
+          "options": [
+            "hace",
+            "haga",
+            "hará"
+          ]
+        },
+        {
+          "id": "remote-artes-b2-gq-2-2",
+          "prompt": "Aunque ___ problemas, intentaré. (no seguro)",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-artes-b2-gq-2-3",
+          "prompt": "Aunque exista exhibición, no basta.",
+          "answer": "exista",
+          "options": [
+            "exista",
+            "existe",
+            "existirá"
+          ]
+        },
+        {
+          "id": "remote-artes-b2-gq-2-4",
+          "prompt": "Relaciona con el tema: exhibición / dirección. ¿Artículo de «exhibición»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-artes-b2-gq-2-5",
+          "prompt": "Relaciona con el tema: exhibición / dirección. ¿Artículo de «exhibición»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-artes-b2-dict-1",
+        "l2": "No creo que este largometraje merezca las reservas de la crítica.",
+        "en": "I do not think this feature film deserves the critics’ reservations.",
+        "gloss": {
+          "en": "I do not think this feature film deserves the critics’ reservations.",
+          "es": "No creo que este largometraje merezca las reservas de la crítica.",
+          "ru": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков."
+        },
+        "ipa": "nˈo crˈeo kˈe ˈeste largo.metrˈa.xe merˈezca lˈas resˈerbas dˈe lˈa crˈi.tica"
+      },
+      {
+        "id": "remote-artes-b2-dict-2",
+        "l2": "Aunque la historia es elíptica, la puesta en escena sigue siendo perfectamente legible.",
+        "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+        "gloss": {
+          "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+          "es": "Aunque la narrativa es elíptica, la dirección sigue siendo perfectamente legible.",
+          "ru": "Хотя повествование эллиптично, направление остается прекрасно читаемым."
+        },
+        "ipa": "aˈunke lˈa istorˈia ˈes elˈipti.ca lˈa puˈesta ˈen esθˈe.na sˈi.ɡe siˈendo perfectamˈente"
+      },
+      {
+        "id": "remote-artes-b2-dict-3",
+        "l2": "Si el montaje hubiera sido más clásico, la película sin duda habría atraído a un público más amplio.",
+        "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+        "gloss": {
+          "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+          "es": "Si el montaje hubiera sido más convencional, la película sin duda habría llegado a un público más amplio.",
+          "ru": "Если бы монтаж был более традиционным, фильм, несомненно, достиг бы более широкой аудитории."
+        },
+        "ipa": "sˈi ˈel montˈa.xe u.biˈe.ra sˈi.do mˈas clˈa.sico lˈa pelˈi.cula sˈin dˈu.da abrˈia"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-artes-b2-mean-1",
+        "l2": "No creo que este largometraje merezca las reservas de la crítica.",
+        "en": "I do not think this feature film deserves the critics’ reservations.",
+        "gloss": {
+          "en": "I do not think this feature film deserves the critics’ reservations.",
+          "es": "No creo que este largometraje merezca las reservas de la crítica.",
+          "ru": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков."
+        }
+      },
+      {
+        "id": "remote-artes-b2-mean-2",
+        "l2": "Aunque la historia es elíptica, la puesta en escena sigue siendo perfectamente legible.",
+        "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+        "gloss": {
+          "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+          "es": "Aunque la narrativa es elíptica, la dirección sigue siendo perfectamente legible.",
+          "ru": "Хотя повествование эллиптично, направление остается прекрасно читаемым."
+        }
+      },
+      {
+        "id": "remote-artes-b2-mean-3",
+        "l2": "Si el montaje hubiera sido más clásico, la película sin duda habría atraído a un público más amplio.",
+        "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+        "gloss": {
+          "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+          "es": "Si el montaje hubiera sido más convencional, la película sin duda habría llegado a un público más amplio.",
+          "ru": "Если бы монтаж был более традиционным, фильм, несомненно, достиг бы более широкой аудитории."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-artes-b2-fren-1",
+        "l2": "largometraje",
+        "en": "feature film",
+        "gloss": {
+          "en": "feature film",
+          "es": "largometraje",
+          "ru": "художественный фильм"
+        }
+      },
+      {
+        "id": "remote-artes-b2-fren-2",
+        "l2": "revisión",
+        "en": "review",
+        "gloss": {
+          "en": "review",
+          "es": "revisar",
+          "ru": "обзор"
+        }
+      },
+      {
+        "id": "remote-artes-b2-fren-3",
+        "l2": "exhibición",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        }
+      },
+      {
+        "id": "remote-artes-b2-fren-4",
+        "l2": "narrativo",
+        "en": "narrative",
+        "gloss": {
+          "en": "narrative",
+          "es": "narrativo",
+          "ru": "повествование"
+        }
+      },
+      {
+        "id": "remote-artes-b2-fren-5",
+        "l2": "estético",
+        "en": "aesthetic",
+        "gloss": {
+          "en": "aesthetic",
+          "es": "estético",
+          "ru": "эстетический"
+        }
+      },
+      {
+        "id": "remote-artes-b2-fren-6",
+        "l2": "dirección",
+        "en": "direction",
+        "gloss": {
+          "en": "direction",
+          "es": "dirección",
+          "ru": "направление"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-artes-b2-alou-1",
+        "l2": "No creo que este largometraje merezca las reservas de la crítica.",
+        "en": "I do not think this feature film deserves the critics’ reservations.",
+        "gloss": {
+          "en": "I do not think this feature film deserves the critics’ reservations.",
+          "es": "No creo que este largometraje merezca las reservas de la crítica.",
+          "ru": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков."
+        },
+        "ipa": "nˈo crˈeo kˈe ˈeste largo.metrˈa.xe merˈezca lˈas resˈerbas dˈe lˈa crˈi.tica"
+      },
+      {
+        "id": "remote-artes-b2-alou-2",
+        "l2": "Si el montaje hubiera sido más clásico, la película sin duda habría atraído a un público más amplio.",
+        "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+        "gloss": {
+          "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+          "es": "Si el montaje hubiera sido más convencional, la película sin duda habría llegado a un público más amplio.",
+          "ru": "Если бы монтаж был более традиционным, фильм, несомненно, достиг бы более широкой аудитории."
+        },
+        "ipa": "sˈi ˈel montˈa.xe u.biˈe.ra sˈi.do mˈas clˈa.sico lˈa pelˈi.cula sˈin dˈu.da abrˈia"
+      },
+      {
+        "id": "remote-artes-b2-alou-3",
+        "l2": "Se podría objetar que las estéticas del plano estático son aburridas cuando no están justificadas.",
+        "en": "One might object that the aesthetic of the static shot becomes tiring when it is not justified.",
+        "gloss": {
+          "en": "One might object that the aesthetic of the static shot becomes tiring when it is not justified.",
+          "es": "Se podría objetar que la estética del plano estático resulta cansina cuando no está justificada.",
+          "ru": "Можно возразить, что эстетика статического кадра утомляет, когда она не оправдана."
+        },
+        "ipa": "sˈe podrˈia obxetˈar kˈe lˈas estˈe.ticas dˈel plˈa.no estˈa.tico sˈon a.burˈi.das cuˈando"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-artes-b2-unsc-1",
+        "l2": "Este largometraje rechaza un final feliz, lo que dividió a la crítica tras su estreno.",
+        "en": "This feature film refuses a happy ending, which divided the critics on its release.",
+        "gloss": {
+          "en": "This feature film refuses a happy ending, which divided the critics on its release.",
+          "es": "Este largometraje rechaza un final feliz, lo que dividió a la crítica en su estreno.",
+          "ru": "Этот художественный фильм отказывается от счастливого конца, который разделил критиков после его выхода."
+        },
+        "words": [
+          "Este",
+          "largometraje",
+          "rechaza",
+          "un",
+          "final",
+          "feliz,",
+          "lo",
+          "que",
+          "dividió",
+          "a",
+          "la",
+          "crítica",
+          "tras",
+          "su",
+          "estreno."
+        ]
+      },
+      {
+        "id": "remote-artes-b2-unsc-2",
+        "l2": "La estrecha estructura de las manos dice más que cualquier diálogo explicativo.",
+        "en": "The tight frame on the hands says more than any explanatory dialogue.",
+        "gloss": {
+          "en": "The tight frame on the hands says more than any explanatory dialogue.",
+          "es": "La estrecha estructura de las manos dice más que cualquier diálogo explicativo.",
+          "ru": "Плотная рамка на руках говорит больше, чем любой объяснительный диалог."
+        },
+        "words": [
+          "La",
+          "estrecha",
+          "estructura",
+          "de",
+          "las",
+          "manos",
+          "dice",
+          "más",
+          "que",
+          "cualquier",
+          "diálogo",
+          "explicativo."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

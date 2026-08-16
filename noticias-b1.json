@@ -1,0 +1,837 @@
+{
+  "pratiquePack": 2,
+  "id": "noticias-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "es",
+  "title": {
+    "fr": "Actualités B1 (ES)",
+    "en": "News B1 (ES)",
+    "es": "Noticias B1",
+    "ru": "Новости Б1 (ES)"
+  },
+  "description": {
+    "fr": "Titres, sources et débats pour parler de l’actualité avec un avis — pack espagnol.",
+    "en": "Headlines, sources, and debate for talking about the news with an opinion — Spanish pack.",
+    "es": "Titulares, fuentes y debate para hablar de la actualidad con opinión para estudiar español.",
+    "ru": "Заголовки, источники и дебаты для высказывания своего мнения о новостях — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-noticias-b1-1",
+      "l2": "eventos actuales",
+      "en": "current events / news",
+      "gloss": {
+        "en": "current events / news",
+        "es": "eventos actuales / noticias",
+        "ru": "текущие события/новости"
+      },
+      "example": "Sigo las noticias por la mañana en la radio.",
+      "ipa": "e.bentos actuˈa.les",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-2",
+      "l2": "titular",
+      "en": "headline",
+      "gloss": {
+        "en": "headline",
+        "es": "titular",
+        "ru": "заголовок"
+      },
+      "example": "El título del artículo es engañoso.",
+      "ipa": "ti.tulˈar",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-3",
+      "l2": "periódico",
+      "en": "newspaper / news programme",
+      "gloss": {
+        "en": "newspaper / news programme",
+        "es": "periódico/programa de noticias",
+        "ru": "газета/информационная программа"
+      },
+      "example": "Comienza el noticiero de las ocho.",
+      "ipa": "pe.riˈo.dico",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-4",
+      "l2": "artículo",
+      "en": "article",
+      "gloss": {
+        "en": "article",
+        "es": "artículo",
+        "ru": "статья"
+      },
+      "example": "Este artículo presenta varios puntos de vista.",
+      "ipa": "artˈi.culo",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-5",
+      "l2": "fuente",
+      "en": "source",
+      "gloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      },
+      "example": "Por favor verifique la fuente antes de compartir.",
+      "ipa": "fuˈente",
+      "article": "la"
+    },
+    {
+      "id": "remote-noticias-b1-6",
+      "l2": "periodista",
+      "en": "journalist",
+      "gloss": {
+        "en": "journalist",
+        "es": "periodista",
+        "ru": "журналист"
+      },
+      "example": "El periodista hace una pregunta específica.",
+      "ipa": "pe.riodˈista",
+      "article": "la"
+    },
+    {
+      "id": "remote-noticias-b1-7",
+      "l2": "entrevista",
+      "en": "interview",
+      "gloss": {
+        "en": "interview",
+        "es": "entrevista",
+        "ru": "интервью"
+      },
+      "example": "La entrevista duró veinte minutos.",
+      "ipa": "entrebˈista",
+      "article": "la"
+    },
+    {
+      "id": "remote-noticias-b1-8",
+      "l2": "debate",
+      "en": "debate",
+      "gloss": {
+        "en": "debate",
+        "es": "debate",
+        "ru": "дебаты"
+      },
+      "example": "El debate se ha vuelto demasiado agresivo.",
+      "ipa": "debˈa.te",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-9",
+      "l2": "rumor",
+      "en": "rumour",
+      "gloss": {
+        "en": "rumour",
+        "es": "rumor",
+        "ru": "слух"
+      },
+      "example": "Este rumor circula desde ayer.",
+      "ipa": "rumˈor",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-10",
+      "l2": "noticias falsas",
+      "en": "fake news",
+      "gloss": {
+        "en": "fake news",
+        "es": "noticias falsas",
+        "ru": "фейковые новости"
+      },
+      "example": "Las noticias falsas se difunden muy rápidamente.",
+      "ipa": "no.tiθias fˈalsas",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-11",
+      "l2": "transmisión en vivo)",
+      "en": "live (broadcast)",
+      "gloss": {
+        "en": "live (broadcast)",
+        "es": "transmisión en vivo)",
+        "ru": "прямой эфир (трансляция)"
+      },
+      "example": "Vemos el programa en vivo.",
+      "ipa": "transmi.siˈon en bi.bo)",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-12",
+      "l2": "página delantera",
+      "en": "front page",
+      "gloss": {
+        "en": "front page",
+        "es": "página delantera",
+        "ru": "первая страница"
+      },
+      "example": "El caso salió en las noticias esta mañana.",
+      "ipa": "pˈa.xina de.lante.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-noticias-b1-13",
+      "l2": "encuesta",
+      "en": "poll / survey",
+      "gloss": {
+        "en": "poll / survey",
+        "es": "encuesta / encuesta",
+        "ru": "опрос / опрос"
+      },
+      "example": "La encuesta da una ligera ventaja.",
+      "ipa": "encuˈesta",
+      "article": "la"
+    },
+    {
+      "id": "remote-noticias-b1-14",
+      "l2": "protesta",
+      "en": "protest / demonstration",
+      "gloss": {
+        "en": "protest / demonstration",
+        "es": "protesta / manifestación",
+        "ru": "протест/демонстрация"
+      },
+      "example": "La manifestación reunió a miles de personas.",
+      "ipa": "protˈesta",
+      "article": "la"
+    },
+    {
+      "id": "remote-noticias-b1-15",
+      "l2": "huelga",
+      "en": "strike",
+      "gloss": {
+        "en": "strike",
+        "es": "huelga",
+        "ru": "ударять"
+      },
+      "example": "La huelga del transporte bloquea la ciudad.",
+      "ipa": "uˈelga",
+      "article": "la"
+    },
+    {
+      "id": "remote-noticias-b1-16",
+      "l2": "desastre",
+      "en": "disaster",
+      "gloss": {
+        "en": "disaster",
+        "es": "desastre",
+        "ru": "катастрофа"
+      },
+      "example": "El desastre dejó varias personas heridas.",
+      "ipa": "desˈastre",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-17",
+      "l2": "elección",
+      "en": "election",
+      "gloss": {
+        "en": "election",
+        "es": "elección",
+        "ru": "выборы"
+      },
+      "example": "Las elecciones tendrán lugar el domingo.",
+      "ipa": "e.lecθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-noticias-b1-18",
+      "l2": "gobierno",
+      "en": "government",
+      "gloss": {
+        "en": "government",
+        "es": "gobierno",
+        "ru": "правительство"
+      },
+      "example": "El gobierno ha anunciado una medida.",
+      "ipa": "go.biˈerno",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-19",
+      "l2": "comentario",
+      "en": "comment",
+      "gloss": {
+        "en": "comment",
+        "es": "comentario",
+        "ru": "комментарий"
+      },
+      "example": "Los comentarios bajo el artículo son violentos.",
+      "ipa": "co.mentarˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-noticias-b1-20",
+      "l2": "sala de redacción",
+      "en": "newsroom / editorial team",
+      "gloss": {
+        "en": "newsroom / editorial team",
+        "es": "sala de redacción / equipo editorial",
+        "ru": "отдел новостей / редакция"
+      },
+      "example": "El editor ha corregido el error.",
+      "ipa": "sa.la de re.dacθiˈon",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-noticias-b1-phrase-1",
+      "l2": "¿Viste las noticias esta mañana?",
+      "en": "Did you see the news this morning?",
+      "gloss": {
+        "en": "Did you see the news this morning?",
+        "es": "¿Viste las noticias esta mañana?",
+        "ru": "Вы видели новости сегодня утром?"
+      },
+      "ipa": "bˈiste lˈas no.tiθˈias ˈesta maɲˈa.na"
+    },
+    {
+      "id": "remote-noticias-b1-phrase-2",
+      "l2": "Por favor verifique la fuente antes de compartir.",
+      "en": "You have to check the source before sharing.",
+      "gloss": {
+        "en": "You have to check the source before sharing.",
+        "es": "Tienes que comprobar la fuente antes de compartir.",
+        "ru": "Прежде чем поделиться, необходимо проверить источник."
+      },
+      "ipa": "pˈor fabˈor be.rifˈi.ke lˈa fuˈente ˈantes dˈe compartˈir"
+    },
+    {
+      "id": "remote-noticias-b1-phrase-3",
+      "l2": "El título es un poco exagerado, en mi opinión.",
+      "en": "The headline is a bit exaggerated, in my view.",
+      "gloss": {
+        "en": "The headline is a bit exaggerated, in my view.",
+        "es": "El titular es un poco exagerado, en mi opinión.",
+        "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+      },
+      "ipa": "ˈel tˈi.tulo ˈes ˈun pˈo.co e.xaxerˈa.do ˈen mˈi o.piniˈon"
+    },
+    {
+      "id": "remote-noticias-b1-phrase-4",
+      "l2": "Aún no tengo opinión, estoy esperando más información.",
+      "en": "I don’t have an opinion yet; I’m waiting for more information.",
+      "gloss": {
+        "en": "I don’t have an opinion yet; I’m waiting for more information.",
+        "es": "Todavía no tengo una opinión; Estoy esperando más información.",
+        "ru": "У меня еще нет мнения; Жду дополнительной информации."
+      },
+      "ipa": "aˈun nˈo tˈengo o.piniˈon estˈoʝ esperˈando mˈas informa.θiˈon"
+    },
+    {
+      "id": "remote-noticias-b1-phrase-5",
+      "l2": "La huelga se prolongará hasta el miércoles.",
+      "en": "The strike will last until Wednesday.",
+      "gloss": {
+        "en": "The strike will last until Wednesday.",
+        "es": "La huelga se prolongará hasta el miércoles.",
+        "ru": "Забастовка продлится до среды."
+      },
+      "ipa": "lˈa uˈelga sˈe pro.longarˈa ˈasta ˈel miˈerco.les"
+    },
+    {
+      "id": "remote-noticias-b1-phrase-6",
+      "l2": "Se habla mucho al respecto, pero los hechos siguen sin estar claros.",
+      "en": "People talk about it a lot, but the facts remain unclear.",
+      "gloss": {
+        "en": "People talk about it a lot, but the facts remain unclear.",
+        "es": "La gente habla mucho de ello, pero los hechos siguen sin estar claros.",
+        "ru": "Об этом много говорят, но факты остаются неясными."
+      },
+      "ipa": "sˈe ˈabla mˈutʃo ˈal respˈecto pˈe.ro lˈos ˈetʃos sˈi.ɡen sˈin estˈar clˈa.ros"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-noticias-b1-listen-1",
+      "l2": "Por favor verifique la fuente antes de compartir.",
+      "en": "You have to check the source before sharing.",
+      "gloss": {
+        "en": "You have to check the source before sharing.",
+        "es": "Tienes que comprobar la fuente antes de compartir.",
+        "ru": "Прежде чем поделиться, необходимо проверить источник."
+      },
+      "word": "fuente",
+      "wordEn": "source",
+      "wordGloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      },
+      "wordIpa": "fuˈente",
+      "distractors": [
+        "rumor",
+        "titular",
+        "encuesta"
+      ]
+    },
+    {
+      "id": "remote-noticias-b1-listen-2",
+      "l2": "La manifestación reunió a miles de personas.",
+      "en": "The protest brought together thousands of people.",
+      "gloss": {
+        "en": "The protest brought together thousands of people.",
+        "es": "La protesta reunió a miles de personas.",
+        "ru": "Акция протеста собрала тысячи людей."
+      },
+      "word": "protesta",
+      "wordEn": "protest",
+      "wordGloss": {
+        "en": "protest",
+        "es": "protesta",
+        "ru": "протест"
+      },
+      "wordIpa": "protˈesta",
+      "distractors": [
+        "huelga",
+        "elección",
+        "debate"
+      ]
+    },
+    {
+      "id": "remote-noticias-b1-listen-3",
+      "l2": "El título del artículo es engañoso.",
+      "en": "The article’s headline is misleading.",
+      "gloss": {
+        "en": "The article’s headline is misleading.",
+        "es": "El titular del artículo es engañoso.",
+        "ru": "Заголовок статьи вводит в заблуждение."
+      },
+      "word": "titular",
+      "wordEn": "headline",
+      "wordGloss": {
+        "en": "headline",
+        "es": "titular",
+        "ru": "заголовок"
+      },
+      "wordIpa": "ti.tulˈar",
+      "distractors": [
+        "página delantera",
+        "comentario",
+        "periódico"
+      ]
+    },
+    {
+      "id": "remote-noticias-b1-listen-4",
+      "l2": "Las elecciones tendrán lugar el próximo domingo.",
+      "en": "The elections are on Sunday.",
+      "gloss": {
+        "en": "The elections are on Sunday.",
+        "es": "Las elecciones son el domingo.",
+        "ru": "Выборы состоятся в воскресенье."
+      },
+      "word": "elección",
+      "wordEn": "election",
+      "wordGloss": {
+        "en": "election",
+        "es": "elección",
+        "ru": "выборы"
+      },
+      "wordIpa": "e.lecθiˈon",
+      "distractors": [
+        "encuesta",
+        "gobierno",
+        "sala de redacción"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Qué noticia te llamó la atención recientemente?",
+    "¿Cómo se verifica la información?",
+    "¿Las redes sociales están reemplazando a los periódicos? Da tu opinión.",
+    "Resume una noticia y di lo que piensas al respecto."
+  ],
+  "grammar": [
+    {
+      "id": "remote-noticias-b1-grammar-1",
+      "title": {
+        "fr": "Subjonctif présent après querer que",
+        "en": "Present subjunctive after querer que",
+        "es": "Subjuntivo presente tras querer que",
+        "ru": "Subjuntivo после querer que"
+      },
+      "rule": {
+        "fr": "Après querer / esperar / es importante que, utilisez le subjonctif présent.",
+        "en": "After querer / esperar / es importante que, use the present subjunctive.",
+        "es": "Tras querer / esperar / es importante que, usa el subjuntivo presente.",
+        "ru": "После querer / esperar / es importante que — presente de subjuntivo."
+      },
+      "why": {
+        "en": "Expresses wishes and necessity about someone else.",
+        "es": "Expresa deseos y necesidad sobre otra persona.",
+        "ru": "Выражает желание или необходимость в отношении другого."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "quiero que",
+          "+ subjuntivo",
+          "Quiero que haya titular."
+        ],
+        [
+          "es importante que",
+          "+ subjuntivo",
+          "Es importante que exista fuente."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-noticias-b1-gq-1-1",
+          "prompt": "Quiero que tú ___ (venir).",
+          "answer": "vengas",
+          "options": [
+            "vengas",
+            "vienes",
+            "vendrás"
+          ]
+        },
+        {
+          "id": "remote-noticias-b1-gq-1-2",
+          "prompt": "Es importante que ___ (haber) consenso.",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-noticias-b1-gq-1-3",
+          "prompt": "Espero que ___ (ser) posible.",
+          "answer": "sea",
+          "options": [
+            "sea",
+            "es",
+            "será"
+          ]
+        },
+        {
+          "id": "remote-noticias-b1-gq-1-4",
+          "prompt": "Relaciona con el tema: titular / fuente. ¿Artículo de «titular»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-noticias-b1-gq-1-5",
+          "prompt": "Relaciona con el tema: titular / fuente. ¿Artículo de «titular»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-noticias-b1-grammar-2",
+      "title": {
+        "fr": "Se impersonal",
+        "en": "Impersonal se",
+        "es": "Se impersonal",
+        "ru": "Безличный se"
+      },
+      "rule": {
+        "fr": "Se + 3e personne exprime une généralité : Se habla español.",
+        "en": "Se + 3rd person expresses a general rule: Se habla español.",
+        "es": "Se + 3.ª persona expresa una generalidad: Se habla español.",
+        "ru": "Se + 3-е лицо выражает общее правило: Se habla español."
+      },
+      "why": {
+        "en": "Sounds natural in advice and public notices.",
+        "es": "Suena natural en consejos y avisos.",
+        "ru": "Звучит естественно в советах и объявлениях."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Se + 3ª",
+          "generalidad",
+          "Se necesita periódico."
+        ],
+        [
+          "Se + 3ª",
+          "aviso",
+          "Se habla de periodista."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-noticias-b1-gq-2-1",
+          "prompt": "___ habla de periódico.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Lo",
+            "Le"
+          ]
+        },
+        {
+          "id": "remote-noticias-b1-gq-2-2",
+          "prompt": "___ recomienda periodista.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Me",
+            "Te"
+          ]
+        },
+        {
+          "id": "remote-noticias-b1-gq-2-3",
+          "prompt": "En España ___ español.",
+          "answer": "se habla",
+          "options": [
+            "se habla",
+            "habla se",
+            "hablan se"
+          ]
+        },
+        {
+          "id": "remote-noticias-b1-gq-2-4",
+          "prompt": "Relaciona con el tema: periódico / periodista. ¿Artículo de «periódico»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-noticias-b1-gq-2-5",
+          "prompt": "Relaciona con el tema: periódico / periodista. ¿Artículo de «periódico»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-noticias-b1-dict-1",
+        "l2": "¿Viste las noticias esta mañana?",
+        "en": "Did you see the news this morning?",
+        "gloss": {
+          "en": "Did you see the news this morning?",
+          "es": "¿Viste las noticias esta mañana?",
+          "ru": "Вы видели новости сегодня утром?"
+        },
+        "ipa": "bˈiste lˈas no.tiθˈias ˈesta maɲˈa.na"
+      },
+      {
+        "id": "remote-noticias-b1-dict-2",
+        "l2": "Por favor verifique la fuente antes de compartir.",
+        "en": "You have to check the source before sharing.",
+        "gloss": {
+          "en": "You have to check the source before sharing.",
+          "es": "Tienes que comprobar la fuente antes de compartir.",
+          "ru": "Прежде чем поделиться, необходимо проверить источник."
+        },
+        "ipa": "pˈor fabˈor be.rifˈi.ke lˈa fuˈente ˈantes dˈe compartˈir"
+      },
+      {
+        "id": "remote-noticias-b1-dict-3",
+        "l2": "El título es un poco exagerado, en mi opinión.",
+        "en": "The headline is a bit exaggerated, in my view.",
+        "gloss": {
+          "en": "The headline is a bit exaggerated, in my view.",
+          "es": "El titular es un poco exagerado, en mi opinión.",
+          "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+        },
+        "ipa": "ˈel tˈi.tulo ˈes ˈun pˈo.co e.xaxerˈa.do ˈen mˈi o.piniˈon"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-noticias-b1-mean-1",
+        "l2": "¿Viste las noticias esta mañana?",
+        "en": "Did you see the news this morning?",
+        "gloss": {
+          "en": "Did you see the news this morning?",
+          "es": "¿Viste las noticias esta mañana?",
+          "ru": "Вы видели новости сегодня утром?"
+        }
+      },
+      {
+        "id": "remote-noticias-b1-mean-2",
+        "l2": "Por favor verifique la fuente antes de compartir.",
+        "en": "You have to check the source before sharing.",
+        "gloss": {
+          "en": "You have to check the source before sharing.",
+          "es": "Tienes que comprobar la fuente antes de compartir.",
+          "ru": "Прежде чем поделиться, необходимо проверить источник."
+        }
+      },
+      {
+        "id": "remote-noticias-b1-mean-3",
+        "l2": "El título es un poco exagerado, en mi opinión.",
+        "en": "The headline is a bit exaggerated, in my view.",
+        "gloss": {
+          "en": "The headline is a bit exaggerated, in my view.",
+          "es": "El titular es un poco exagerado, en mi opinión.",
+          "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-noticias-b1-fren-1",
+        "l2": "eventos actuales",
+        "en": "current events",
+        "gloss": {
+          "en": "current events",
+          "es": "eventos actuales",
+          "ru": "текущие события"
+        }
+      },
+      {
+        "id": "remote-noticias-b1-fren-2",
+        "l2": "titular",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        }
+      },
+      {
+        "id": "remote-noticias-b1-fren-3",
+        "l2": "periódico",
+        "en": "newspaper",
+        "gloss": {
+          "en": "newspaper",
+          "es": "periódico",
+          "ru": "газета"
+        }
+      },
+      {
+        "id": "remote-noticias-b1-fren-4",
+        "l2": "artículo",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        }
+      },
+      {
+        "id": "remote-noticias-b1-fren-5",
+        "l2": "fuente",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
+      },
+      {
+        "id": "remote-noticias-b1-fren-6",
+        "l2": "periodista",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-noticias-b1-alou-1",
+        "l2": "¿Viste las noticias esta mañana?",
+        "en": "Did you see the news this morning?",
+        "gloss": {
+          "en": "Did you see the news this morning?",
+          "es": "¿Viste las noticias esta mañana?",
+          "ru": "Вы видели новости сегодня утром?"
+        },
+        "ipa": "bˈiste lˈas no.tiθˈias ˈesta maɲˈa.na"
+      },
+      {
+        "id": "remote-noticias-b1-alou-2",
+        "l2": "El título es un poco exagerado, en mi opinión.",
+        "en": "The headline is a bit exaggerated, in my view.",
+        "gloss": {
+          "en": "The headline is a bit exaggerated, in my view.",
+          "es": "El titular es un poco exagerado, en mi opinión.",
+          "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+        },
+        "ipa": "ˈel tˈi.tulo ˈes ˈun pˈo.co e.xaxerˈa.do ˈen mˈi o.piniˈon"
+      },
+      {
+        "id": "remote-noticias-b1-alou-3",
+        "l2": "La huelga se prolongará hasta el miércoles.",
+        "en": "The strike will last until Wednesday.",
+        "gloss": {
+          "en": "The strike will last until Wednesday.",
+          "es": "La huelga se prolongará hasta el miércoles.",
+          "ru": "Забастовка продлится до среды."
+        },
+        "ipa": "lˈa uˈelga sˈe pro.longarˈa ˈasta ˈel miˈerco.les"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-noticias-b1-unsc-1",
+        "l2": "Aún no tengo opinión, estoy esperando más información.",
+        "en": "I don’t have an opinion yet; I’m waiting for more information.",
+        "gloss": {
+          "en": "I don’t have an opinion yet; I’m waiting for more information.",
+          "es": "Todavía no tengo una opinión; Estoy esperando más información.",
+          "ru": "У меня еще нет мнения; Жду дополнительной информации."
+        },
+        "words": [
+          "Aún",
+          "no",
+          "tengo",
+          "opinión,",
+          "estoy",
+          "esperando",
+          "más",
+          "información."
+        ]
+      },
+      {
+        "id": "remote-noticias-b1-unsc-2",
+        "l2": "La huelga se prolongará hasta el miércoles.",
+        "en": "The strike will last until Wednesday.",
+        "gloss": {
+          "en": "The strike will last until Wednesday.",
+          "es": "La huelga se prolongará hasta el miércoles.",
+          "ru": "Забастовка продлится до среды."
+        },
+        "words": [
+          "La",
+          "huelga",
+          "se",
+          "prolongará",
+          "hasta",
+          "el",
+          "miércoles."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

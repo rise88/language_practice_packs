@@ -1,0 +1,855 @@
+{
+  "pratiquePack": 2,
+  "id": "retorica-c2",
+  "version": 1,
+  "level": "c2",
+  "lang": "es",
+  "title": {
+    "fr": "Rhétorique C2 (ES)",
+    "en": "Rhetoric C2 (ES)",
+    "es": "Retórica C2",
+    "ru": "Риторика C2 (ES)"
+  },
+  "description": {
+    "fr": "Tropes, preuves oratoires et figures de construction pour l’analyse du discours savant — pack espagnol.",
+    "en": "Tropes, oratorical proofs, and figures of construction for analysing learned discourse — Spanish pack.",
+    "es": "Tropos, pruebas oratorias y figuras de construcción para el análisis del discurso erudito para estudiar español.",
+    "ru": "Тропы, ораторские доказательства и конструкции для анализа научной речи — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-retorica-c2-1",
+      "l2": "tropo",
+      "en": "trope",
+      "gloss": {
+        "en": "trope",
+        "es": "tropo",
+        "ru": "образ"
+      },
+      "example": "El tropo, lejos de sólo adornar el discurso, modifica su alcance argumentativo.",
+      "ipa": "trˈo.po",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-2",
+      "l2": "carácter distintivo",
+      "en": "ethos",
+      "gloss": {
+        "en": "ethos",
+        "es": "carácter distintivo",
+        "ru": "этос"
+      },
+      "example": "El ethos del hablante, construido a partir del exordio, precede y condiciona la adhesión.",
+      "ipa": "carˈacter distinti.bo",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-3",
+      "l2": "patetismo",
+      "en": "pathos",
+      "gloss": {
+        "en": "pathos",
+        "es": "patetismo",
+        "ru": "пафос"
+      },
+      "example": "El patetismo, si no se contiene, distrae al público del juicio.",
+      "ipa": "pa.tetˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-4",
+      "l2": "quiasmo",
+      "en": "chiasmus",
+      "gloss": {
+        "en": "chiasmus",
+        "es": "quiasmo",
+        "ru": "хиазм"
+      },
+      "example": "A través de un estrecho quiasma, la máxima se cierra sobre sí misma y llama la atención.",
+      "ipa": "kiˈasmo",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-5",
+      "l2": "perorata",
+      "en": "peroration",
+      "gloss": {
+        "en": "peroration",
+        "es": "perorata",
+        "ru": "выступление"
+      },
+      "example": "La perorata, breve y mordaz, retuvo de los argumentos sólo aquellos que podían llevar a la decisión.",
+      "ipa": "pe.rorˈa.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-retorica-c2-6",
+      "l2": "metáfora",
+      "en": "metaphor",
+      "gloss": {
+        "en": "metaphor",
+        "es": "metáfora",
+        "ru": "метафора"
+      },
+      "example": "La metáfora aquí no se compara: sustituye un régimen de imágenes por un régimen de prueba.",
+      "ipa": "metˈa.fora",
+      "article": "la"
+    },
+    {
+      "id": "remote-retorica-c2-7",
+      "l2": "metonimia",
+      "en": "metonymy",
+      "gloss": {
+        "en": "metonymy",
+        "es": "metonimia",
+        "ru": "метонимия"
+      },
+      "example": "Por metonimia, el palacio designa al soberano y el cetro al poder.",
+      "ipa": "me.tonimˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-retorica-c2-8",
+      "l2": "anáfora",
+      "en": "anaphora",
+      "gloss": {
+        "en": "anaphora",
+        "es": "anáfora",
+        "ru": "анафора"
+      },
+      "example": "La anáfora recalca la acusación hasta que el oído ya no puede dudar de ella.",
+      "ipa": "anˈa.fora",
+      "article": "la"
+    },
+    {
+      "id": "remote-retorica-c2-9",
+      "l2": "antítesis",
+      "en": "antithesis",
+      "gloss": {
+        "en": "antithesis",
+        "es": "antítesis",
+        "ru": "антитеза"
+      },
+      "example": "La antítesis opone dos tesis menos que revela su secreta complicidad.",
+      "ipa": "antˈi.tesis",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-10",
+      "l2": "exordio",
+      "en": "exordium",
+      "gloss": {
+        "en": "exordium",
+        "es": "exordio",
+        "ru": "экзордий"
+      },
+      "example": "El exordio, con una moderación calculada, ya allanó el camino para la captura.",
+      "ipa": "e.xordˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-11",
+      "l2": "entimema",
+      "en": "enthymeme",
+      "gloss": {
+        "en": "enthymeme",
+        "es": "entimema",
+        "ru": "энтимем"
+      },
+      "example": "El entimema pasa por alto la premisa que el público ya está dispuesto a aceptar.",
+      "ipa": "entimˈe.ma",
+      "article": "la"
+    },
+    {
+      "id": "remote-retorica-c2-12",
+      "l2": "hipotiposis",
+      "en": "hypotyposis",
+      "gloss": {
+        "en": "hypotyposis",
+        "es": "hipotiposis",
+        "ru": "гипотипия"
+      },
+      "example": "La hipotiposis nos hace ver la escena como si se estuviera desarrollando ante nuestros ojos.",
+      "ipa": "i.potipˈo.sis",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-13",
+      "l2": "catacresis",
+      "en": "catachresis",
+      "gloss": {
+        "en": "catachresis",
+        "es": "catacresis",
+        "ru": "катарезис"
+      },
+      "example": "La catacresis llena un vacío léxico: decimos las patas de la mesa por falta de un término adecuado.",
+      "ipa": "ca.tacrˈe.sis",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-14",
+      "l2": "apófasis",
+      "en": "apophasis",
+      "gloss": {
+        "en": "apophasis",
+        "es": "apófasis",
+        "ru": "апофазия"
+      },
+      "example": "Como pretexto, afirmó que no quería recordar lo que estaba por detallar.",
+      "ipa": "apˈo.fasis",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-15",
+      "l2": "oxímoron",
+      "en": "oxymoron",
+      "gloss": {
+        "en": "oxymoron",
+        "es": "oxímoron",
+        "ru": "оксюморон"
+      },
+      "example": "El oxímoron “silencio elocuente” condensa la contradicción sin resolverla.",
+      "ipa": "oxˈi.moron",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-16",
+      "l2": "apóstrofe",
+      "en": "apostrophe (rhetoric)",
+      "gloss": {
+        "en": "apostrophe (rhetoric)",
+        "es": "apóstrofe (retórica)",
+        "ru": "апостроф (риторика)"
+      },
+      "example": "El apóstrofe, dirigido repentinamente a los ausentes, rompe el pacto de tribuna.",
+      "ipa": "apˈostro.fe",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-17",
+      "l2": "clímax",
+      "en": "climax / gradation",
+      "gloss": {
+        "en": "climax / gradation",
+        "es": "clímax / gradación",
+        "ru": "кульминация / градация"
+      },
+      "example": "La gradación acumula las cargas hasta el final donde la carga cambia.",
+      "ipa": "clˈi.max",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-18",
+      "l2": "logotipos",
+      "en": "logos",
+      "gloss": {
+        "en": "logos",
+        "es": "logotipos",
+        "ru": "логотипы"
+      },
+      "example": "El logos, aquí, no designa la razón pura, sino la secuencia de las pruebas.",
+      "ipa": "lo.gotˈi.pos",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-19",
+      "l2": "asíndeton",
+      "en": "asyndeton",
+      "gloss": {
+        "en": "asyndeton",
+        "es": "asíndeton",
+        "ru": "асиндетон"
+      },
+      "example": "El asíndeton desmenuza la frase: acusamos, probamos, condenamos, sin conjunción relajante.",
+      "ipa": "asˈinde.ton",
+      "article": "el"
+    },
+    {
+      "id": "remote-retorica-c2-20",
+      "l2": "hipotaxis",
+      "en": "hypotaxis",
+      "gloss": {
+        "en": "hypotaxis",
+        "es": "hipotaxis",
+        "ru": "гипотаксис"
+      },
+      "example": "La hipotasa, a través del atrincheramiento de los subordinados, imitaba la prudencia misma del razonamiento.",
+      "ipa": "i.potˈa.xis",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-retorica-c2-phrase-1",
+      "l2": "Por lo tanto, en este caso el ethos resulta más decisivo que el patetismo mejor medido.",
+      "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+      "gloss": {
+        "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+        "es": "Así, en este caso, el ethos resulta más decisivo que incluso el patetismo más hábilmente medido.",
+        "ru": "Таким образом, этос оказывается в данном случае более решающим, чем даже наиболее искусно измеренный пафос."
+      },
+      "ipa": "pˈor lˈo tˈanto ˈen ˈeste cˈa.so ˈel ˈe.tos resˈulta mˈas de.θisˈi.bo kˈe"
+    },
+    {
+      "id": "remote-retorica-c2-phrase-2",
+      "l2": "Temo que esta perorata sea demasiado amplia para un público ya cansado.",
+      "en": "I fear this peroration may be too ample for an audience already weary.",
+      "gloss": {
+        "en": "I fear this peroration may be too ample for an audience already weary.",
+        "es": "Temo que esta perorata sea demasiado amplia para un público que ya está cansado.",
+        "ru": "Боюсь, эта речь может оказаться слишком обширной для уже утомленной публики."
+      },
+      "ipa": "tˈe.mo kˈe ˈesta pe.rorˈa.ta sˈea de.masiˈa.do amplˈia pˈa.ra ˈun pˈubli.co ʝˈa cansˈa.do"
+    },
+    {
+      "id": "remote-retorica-c2-phrase-3",
+      "l2": "El quiasma, lejos de ser un adorno, cierra el argumento por su propia necesidad.",
+      "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+      "gloss": {
+        "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+        "es": "El quiasmo, lejos de ser un adorno, cierra el argumento sobre su propia necesidad.",
+        "ru": "Хиазм, далекий от украшения, завершает спор своей собственной необходимостью."
+      },
+      "ipa": "ˈel kiˈasma lˈe.xos dˈe sˈer ˈun adˈorno θiˈe.ra ˈel arɡmˈento pˈor sˈu"
+    },
+    {
+      "id": "remote-retorica-c2-phrase-4",
+      "l2": "Aunque el tropo parecía desgastado, el hablante adquirió un vigor inesperado.",
+      "en": "Even though the trope seemed worn, the orator drew from it an unexpected vigour.",
+      "gloss": {
+        "en": "Even though the trope seemed worn, the orator drew from it an unexpected vigour.",
+        "es": "Aunque el tropo parecía desgastado, el orador extrajo de él un vigor inesperado.",
+        "ru": "Хотя образ казался изношенным, оратор черпал из него неожиданную энергию."
+      },
+      "ipa": "aˈunke ˈel trˈo.po pa.recˈia desgastˈa.do ˈel ablˈante adki.riˈo ˈun bigˈor i.nesperˈa.do"
+    },
+    {
+      "id": "remote-retorica-c2-phrase-5",
+      "l2": "Apenas había abierto el exordio cuando la asamblea, contra todo pronóstico, guardó silencio.",
+      "en": "Hardly had he opened the exordium when the assembly, against all expectation, fell silent.",
+      "gloss": {
+        "en": "Hardly had he opened the exordium when the assembly, against all expectation, fell silent.",
+        "es": "Apenas había abierto el exordio cuando la asamblea, contra todo pronóstico, guardó silencio.",
+        "ru": "Едва он открыл вступление, как собрание, вопреки всем ожиданиям, замолчало."
+      },
+      "ipa": "apˈe.nas abˈia a.biˈerto ˈel e.xordˈio cuˈando lˈa a.samblˈea cˈontra tˈo.do pronˈosti.co ɡardˈo"
+    },
+    {
+      "id": "remote-retorica-c2-phrase-6",
+      "l2": "El entimema pasa por alto lo que el público ya está dispuesto a conceder.",
+      "en": "The enthymeme leaves unsaid what the audience is already disposed to concede.",
+      "gloss": {
+        "en": "The enthymeme leaves unsaid what the audience is already disposed to concede.",
+        "es": "El entimema deja sin decir lo que el público ya está dispuesto a conceder.",
+        "ru": "Энтимема оставляет невысказанным то, что публика уже склонна признать."
+      },
+      "ipa": "ˈel entimˈe.ma pˈa.sa pˈor ˈalto lˈo kˈe ˈel pˈubli.co ʝˈa estˈa dispuˈesto"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-retorica-c2-listen-1",
+      "l2": "La perorata sólo abordó argumentos que podrían sustentar la decisión.",
+      "en": "The peroration retained of the arguments only what could still carry the decision.",
+      "gloss": {
+        "en": "The peroration retained of the arguments only what could still carry the decision.",
+        "es": "La peroración retuvo de los argumentos sólo lo que todavía podía llevar a la decisión.",
+        "ru": "В докладе сохранились только те аргументы, которые еще могли привести к решению."
+      },
+      "word": "perorata",
+      "wordEn": "peroration",
+      "wordGloss": {
+        "en": "peroration",
+        "es": "perorata",
+        "ru": "выступление"
+      },
+      "wordIpa": "pe.rorˈa.ta",
+      "distractors": [
+        "exordio",
+        "anáfora",
+        "hipotiposis"
+      ]
+    },
+    {
+      "id": "remote-retorica-c2-listen-2",
+      "l2": "El ethos del orador precede y condiciona el apoyo de la audiencia.",
+      "en": "The speaker’s ethos precedes and conditions the audience’s assent.",
+      "gloss": {
+        "en": "The speaker’s ethos precedes and conditions the audience’s assent.",
+        "es": "El ethos del orador precede y condiciona el asentimiento de la audiencia.",
+        "ru": "Этос говорящего предшествует и обусловливает согласие аудитории."
+      },
+      "word": "carácter distintivo",
+      "wordEn": "ethos",
+      "wordGloss": {
+        "en": "ethos",
+        "es": "carácter distintivo",
+        "ru": "этос"
+      },
+      "wordIpa": "carˈacter distinti.bo",
+      "distractors": [
+        "patetismo",
+        "logotipos",
+        "tropo"
+      ]
+    },
+    {
+      "id": "remote-retorica-c2-listen-3",
+      "l2": "A través de un estrecho quiasmo, la máxima se cierra sobre sí misma.",
+      "en": "Through a tight chiasmus, the maxim closes upon itself.",
+      "gloss": {
+        "en": "Through a tight chiasmus, the maxim closes upon itself.",
+        "es": "A través de un estrecho quiasmo, la máxima se cierra sobre sí misma.",
+        "ru": "Через тесный хиазм максима замыкается в себе."
+      },
+      "word": "quiasmo",
+      "wordEn": "chiasmus",
+      "wordGloss": {
+        "en": "chiasmus",
+        "es": "quiasmo",
+        "ru": "хиазм"
+      },
+      "wordIpa": "kiˈasmo",
+      "distractors": [
+        "oxímoron",
+        "antítesis",
+        "clímax"
+      ]
+    },
+    {
+      "id": "remote-retorica-c2-listen-4",
+      "l2": "La hipotiposis nos hace ver la escena como si se estuviera desarrollando ante nuestros ojos.",
+      "en": "Hypotyposis makes the scene visible as if it were unfolding before one’s eyes.",
+      "gloss": {
+        "en": "Hypotyposis makes the scene visible as if it were unfolding before one’s eyes.",
+        "es": "La hipotiposis hace visible la escena como si se estuviera desarrollando ante los ojos.",
+        "ru": "Гипотипичность делает сцену видимой, как если бы она разворачивалась перед глазами."
+      },
+      "word": "hipotiposis",
+      "wordEn": "hypotyposis",
+      "wordGloss": {
+        "en": "hypotyposis",
+        "es": "hipotiposis",
+        "ru": "гипотипия"
+      },
+      "wordIpa": "i.potipˈo.sis",
+      "distractors": [
+        "catacresis",
+        "apófasis",
+        "apóstrofe"
+      ]
+    }
+  ],
+  "prompts": [
+    "Analice, en un discurso político contemporáneo, la dosis de ethos, pathos y logos: ¿cuál de estas pruebas gana y a qué costo argumentativo?",
+    "Mostrar cómo un quiasma o anáfora puede, según el registro, pasar de ornamento a restricción lógica.",
+    "Criticar una perorata demasiado amplia: ¿cómo el cierre oratorio a veces traiciona la debilidad de las pruebas que la preceden?",
+    "Utilizando un tropario (metáfora, metonimia u oxímoron), evalúe si la figura aclara el argumento o lo oculta."
+  ],
+  "grammar": [
+    {
+      "id": "remote-retorica-c2-grammar-1",
+      "title": {
+        "fr": "Registres et nuances lexicales",
+        "en": "Registers and lexical nuance",
+        "es": "Registros y matices léxicos",
+        "ru": "Регистры и лексические оттенки"
+      },
+      "rule": {
+        "fr": "Alternez léxico culto y léxico marcado (ironía, eufemismo) según el género discursivo.",
+        "en": "Switch between learned and marked lexicon (irony, euphemism) by discourse genre.",
+        "es": "Alterna léxico culto y léxico marcado (ironía, eufemismo) según el género discursivo.",
+        "ru": "Чередуйте книжную и маркированную лексику в зависимости от жанра."
+      },
+      "why": {
+        "en": "Control tone at near-native level.",
+        "es": "Controla el tono a un nivel casi nativo.",
+        "ru": "Контроль тона на почти родном уровне."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "culto",
+          "formal",
+          "contemplar el carácter distintivo"
+        ],
+        [
+          "marcado",
+          "ironia / eufemismo",
+          "lo de perorata"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-retorica-c2-gq-1-1",
+          "prompt": "Registro culto: ___ (no 'mirar').",
+          "answer": "contemplar",
+          "options": [
+            "contemplar",
+            "mirar",
+            "ver"
+          ]
+        },
+        {
+          "id": "remote-retorica-c2-gq-1-2",
+          "prompt": "El eufemismo suaviza el ___.",
+          "answer": "tono",
+          "options": [
+            "tono",
+            "sujeto",
+            "verbo"
+          ]
+        },
+        {
+          "id": "remote-retorica-c2-gq-1-3",
+          "prompt": "Matiz culto para hablar de carácter distintivo.",
+          "answer": "discurso",
+          "options": [
+            "discurso",
+            "chisme",
+            "rollo"
+          ]
+        },
+        {
+          "id": "remote-retorica-c2-gq-1-4",
+          "prompt": "Relaciona con el tema: carácter distintivo / perorata. ¿Artículo de «carácter distintivo»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-retorica-c2-gq-1-5",
+          "prompt": "Relaciona con el tema: carácter distintivo / perorata. ¿Artículo de «carácter distintivo»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-retorica-c2-grammar-2",
+      "title": {
+        "fr": "Concessives complexes",
+        "en": "Complex concessives",
+        "es": "Concesivas complejas",
+        "ru": "Сложные уступительные конструкции"
+      },
+      "rule": {
+        "fr": "Por más que / si bien / aun cuando + subjuntivo intensifican la concesión.",
+        "en": "Por más que / si bien / aun cuando + subjunctive intensify concession.",
+        "es": "Por más que / si bien / aun cuando + subjuntivo intensifican la concesión.",
+        "ru": "Por más que / si bien / aun cuando + subjuntivo усиливают уступку."
+      },
+      "why": {
+        "en": "Useful in critique and rhetoric.",
+        "es": "Útil en la crítica y la retórica.",
+        "ru": "Полезно в критике и риторике."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "por más que",
+          "+ subj.",
+          "Por más que insista, dudo."
+        ],
+        [
+          "aun cuando",
+          "+ subj.",
+          "Aun cuando exista patetismo, matizo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-retorica-c2-gq-2-1",
+          "prompt": "Por más que ___, no convence. (insistir)",
+          "answer": "insista",
+          "options": [
+            "insista",
+            "insiste",
+            "insistirá"
+          ]
+        },
+        {
+          "id": "remote-retorica-c2-gq-2-2",
+          "prompt": "Aun cuando ___, matizo. (ser)",
+          "answer": "sea",
+          "options": [
+            "sea",
+            "es",
+            "será"
+          ]
+        },
+        {
+          "id": "remote-retorica-c2-gq-2-3",
+          "prompt": "Si bien ___, concedo el punto. (discrepar)",
+          "answer": "discrepo",
+          "options": [
+            "discrepo",
+            "discrepe",
+            "discreparé"
+          ]
+        },
+        {
+          "id": "remote-retorica-c2-gq-2-4",
+          "prompt": "Relaciona con el tema: patetismo / metáfora. ¿Artículo de «patetismo»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-retorica-c2-gq-2-5",
+          "prompt": "Relaciona con el tema: patetismo / metáfora. ¿Artículo de «patetismo»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-retorica-c2-dict-1",
+        "l2": "Por lo tanto, en este caso el ethos resulta más decisivo que el patetismo mejor medido.",
+        "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+        "gloss": {
+          "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+          "es": "Así, en este caso, el ethos resulta más decisivo que incluso el patetismo más hábilmente medido.",
+          "ru": "Таким образом, этос оказывается в данном случае более решающим, чем даже наиболее искусно измеренный пафос."
+        },
+        "ipa": "pˈor lˈo tˈanto ˈen ˈeste cˈa.so ˈel ˈe.tos resˈulta mˈas de.θisˈi.bo kˈe"
+      },
+      {
+        "id": "remote-retorica-c2-dict-2",
+        "l2": "Temo que esta perorata sea demasiado amplia para un público ya cansado.",
+        "en": "I fear this peroration may be too ample for an audience already weary.",
+        "gloss": {
+          "en": "I fear this peroration may be too ample for an audience already weary.",
+          "es": "Temo que esta perorata sea demasiado amplia para un público que ya está cansado.",
+          "ru": "Боюсь, эта речь может оказаться слишком обширной для уже утомленной публики."
+        },
+        "ipa": "tˈe.mo kˈe ˈesta pe.rorˈa.ta sˈea de.masiˈa.do amplˈia pˈa.ra ˈun pˈubli.co ʝˈa cansˈa.do"
+      },
+      {
+        "id": "remote-retorica-c2-dict-3",
+        "l2": "El quiasma, lejos de ser un adorno, cierra el argumento por su propia necesidad.",
+        "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+        "gloss": {
+          "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+          "es": "El quiasmo, lejos de ser un adorno, cierra el argumento sobre su propia necesidad.",
+          "ru": "Хиазм, далекий от украшения, завершает спор своей собственной необходимостью."
+        },
+        "ipa": "ˈel kiˈasma lˈe.xos dˈe sˈer ˈun adˈorno θiˈe.ra ˈel arɡmˈento pˈor sˈu"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-retorica-c2-mean-1",
+        "l2": "Por lo tanto, en este caso el ethos resulta más decisivo que el patetismo mejor medido.",
+        "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+        "gloss": {
+          "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+          "es": "Así, en este caso, el ethos resulta más decisivo que incluso el patetismo más hábilmente medido.",
+          "ru": "Таким образом, этос оказывается в данном случае более решающим, чем даже наиболее искусно измеренный пафос."
+        }
+      },
+      {
+        "id": "remote-retorica-c2-mean-2",
+        "l2": "Temo que esta perorata sea demasiado amplia para un público ya cansado.",
+        "en": "I fear this peroration may be too ample for an audience already weary.",
+        "gloss": {
+          "en": "I fear this peroration may be too ample for an audience already weary.",
+          "es": "Temo que esta perorata sea demasiado amplia para un público que ya está cansado.",
+          "ru": "Боюсь, эта речь может оказаться слишком обширной для уже утомленной публики."
+        }
+      },
+      {
+        "id": "remote-retorica-c2-mean-3",
+        "l2": "El quiasma, lejos de ser un adorno, cierra el argumento por su propia necesidad.",
+        "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+        "gloss": {
+          "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+          "es": "El quiasmo, lejos de ser un adorno, cierra el argumento sobre su propia necesidad.",
+          "ru": "Хиазм, далекий от украшения, завершает спор своей собственной необходимостью."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-retorica-c2-fren-1",
+        "l2": "tropo",
+        "en": "trope",
+        "gloss": {
+          "en": "trope",
+          "es": "tropo",
+          "ru": "образ"
+        }
+      },
+      {
+        "id": "remote-retorica-c2-fren-2",
+        "l2": "carácter distintivo",
+        "en": "ethos",
+        "gloss": {
+          "en": "ethos",
+          "es": "carácter distintivo",
+          "ru": "этос"
+        }
+      },
+      {
+        "id": "remote-retorica-c2-fren-3",
+        "l2": "patetismo",
+        "en": "pathos",
+        "gloss": {
+          "en": "pathos",
+          "es": "patetismo",
+          "ru": "пафос"
+        }
+      },
+      {
+        "id": "remote-retorica-c2-fren-4",
+        "l2": "quiasmo",
+        "en": "chiasmus",
+        "gloss": {
+          "en": "chiasmus",
+          "es": "quiasmo",
+          "ru": "хиазм"
+        }
+      },
+      {
+        "id": "remote-retorica-c2-fren-5",
+        "l2": "perorata",
+        "en": "peroration",
+        "gloss": {
+          "en": "peroration",
+          "es": "perorata",
+          "ru": "выступление"
+        }
+      },
+      {
+        "id": "remote-retorica-c2-fren-6",
+        "l2": "metáfora",
+        "en": "metaphor",
+        "gloss": {
+          "en": "metaphor",
+          "es": "metáfora",
+          "ru": "метафора"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-retorica-c2-alou-1",
+        "l2": "Por lo tanto, en este caso el ethos resulta más decisivo que el patetismo mejor medido.",
+        "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+        "gloss": {
+          "en": "Thus ethos proves more decisive, in this case, than even the most skilfully measured pathos.",
+          "es": "Así, en este caso, el ethos resulta más decisivo que incluso el patetismo más hábilmente medido.",
+          "ru": "Таким образом, этос оказывается в данном случае более решающим, чем даже наиболее искусно измеренный пафос."
+        },
+        "ipa": "pˈor lˈo tˈanto ˈen ˈeste cˈa.so ˈel ˈe.tos resˈulta mˈas de.θisˈi.bo kˈe"
+      },
+      {
+        "id": "remote-retorica-c2-alou-2",
+        "l2": "El quiasma, lejos de ser un adorno, cierra el argumento por su propia necesidad.",
+        "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+        "gloss": {
+          "en": "Chiasmus, far from being an ornament, closes the argument upon its own necessity.",
+          "es": "El quiasmo, lejos de ser un adorno, cierra el argumento sobre su propia necesidad.",
+          "ru": "Хиазм, далекий от украшения, завершает спор своей собственной необходимостью."
+        },
+        "ipa": "ˈel kiˈasma lˈe.xos dˈe sˈer ˈun adˈorno θiˈe.ra ˈel arɡmˈento pˈor sˈu"
+      },
+      {
+        "id": "remote-retorica-c2-alou-3",
+        "l2": "Apenas había abierto el exordio cuando la asamblea, contra todo pronóstico, guardó silencio.",
+        "en": "Hardly had he opened the exordium when the assembly, against all expectation, fell silent.",
+        "gloss": {
+          "en": "Hardly had he opened the exordium when the assembly, against all expectation, fell silent.",
+          "es": "Apenas había abierto el exordio cuando la asamblea, contra todo pronóstico, guardó silencio.",
+          "ru": "Едва он открыл вступление, как собрание, вопреки всем ожиданиям, замолчало."
+        },
+        "ipa": "apˈe.nas abˈia a.biˈerto ˈel e.xordˈio cuˈando lˈa a.samblˈea cˈontra tˈo.do pronˈosti.co ɡardˈo"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-retorica-c2-unsc-1",
+        "l2": "La perorata, breve y mordaz, retuvo de los argumentos sólo aquellos que podían llevar a la decisión.",
+        "en": "The peroration, brief and cutting, kept from the arguments only what could carry the decision.",
+        "gloss": {
+          "en": "The peroration, brief and cutting, kept from the arguments only what could carry the decision.",
+          "es": "La perorata, breve y tajante, omitió de los argumentos sólo lo que podía llevar a la decisión.",
+          "ru": "Речь, краткая и резкая, исключала из споров только то, что могло привести к принятию решения."
+        },
+        "words": [
+          "La",
+          "perorata,",
+          "breve",
+          "y",
+          "mordaz,",
+          "retuvo",
+          "de",
+          "los",
+          "argumentos",
+          "sólo",
+          "aquellos",
+          "que",
+          "podían",
+          "llevar",
+          "a",
+          "la",
+          "decisión."
+        ]
+      },
+      {
+        "id": "remote-retorica-c2-unsc-2",
+        "l2": "La metáfora aquí no se compara: sustituye un régimen de imágenes por un régimen de prueba.",
+        "en": "Metaphor, here, does not compare: it substitutes a regime of images for a regime of proofs.",
+        "gloss": {
+          "en": "Metaphor, here, does not compare: it substitutes a regime of images for a regime of proofs.",
+          "es": "La metáfora, aquí, no se compara: sustituye un régimen de imágenes por un régimen de pruebas.",
+          "ru": "Метафора здесь не идет ни в какое сравнение: она заменяет режим доказательств режимом образов."
+        },
+        "words": [
+          "La",
+          "metáfora",
+          "aquí",
+          "no",
+          "se",
+          "compara:",
+          "sustituye",
+          "un",
+          "régimen",
+          "de",
+          "imágenes",
+          "por",
+          "un",
+          "régimen",
+          "de",
+          "prueba."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}
