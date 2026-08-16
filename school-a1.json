@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "school-a1",
-  "version": 4,
+  "version": 5,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -532,7 +532,18 @@
             "ai",
             "as",
             "a"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ a notebook.",
+            "es": "Yo ___ un cuaderno.",
+            "ru": "У меня ___ тетрадь."
+          },
+          "why": {
+            "fr": "Je + avoir → « ai ».",
+            "en": "Je + avoir → ai.",
+            "es": "Je + avoir → ai.",
+            "ru": "Je + avoir → ai."
+          }
         },
         {
           "id": "remote-school-gq-2",
@@ -542,7 +553,18 @@
             "ai",
             "as",
             "avez"
-          ]
+          ],
+          "gloss": {
+            "en": "Do you ___ homework tonight?",
+            "es": "¿___ deberes esta noche?",
+            "ru": "У тебя ___ домашнее задание сегодня вечером?"
+          },
+          "why": {
+            "fr": "Tu + avoir → « as ».",
+            "en": "Tu + avoir → as.",
+            "es": "Tu + avoir → as.",
+            "ru": "Tu + avoir → as."
+          }
         },
         {
           "id": "remote-school-gq-3",
@@ -552,13 +574,25 @@
             "as",
             "a",
             "avons"
-          ]
+          ],
+          "gloss": {
+            "en": "He ___ a red schoolbag.",
+            "es": "Él ___ una mochila roja.",
+            "ru": "У него ___ красный портфель."
+          },
+          "why": {
+            "fr": "Il/elle + avoir → « a ».",
+            "en": "Il/elle + avoir → a.",
+            "es": "Il/elle + avoir → a.",
+            "ru": "Il/elle + avoir → a."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Avoir for school supplies.",
         "es": "Útil cuando necesitas aplicar: Avoir para útiles escolares.",
-        "ru": "Полезно, когда вам нужно подать заявку: Avoir на школьные принадлежности."
+        "ru": "Полезно, когда вам нужно подать заявку: Avoir на школьные принадлежности.",
+        "fr": "Utile pour appliquer : Avoir pour le matériel scolaire."
       }
     },
     {
@@ -611,7 +645,18 @@
             "à la",
             "au",
             "dans"
-          ]
+          ],
+          "gloss": {
+            "en": "I eat ___ canteen.",
+            "es": "Como ___ cantina.",
+            "ru": "Я ем ___ столовой."
+          },
+          "why": {
+            "fr": "À + la cantine → « à la ».",
+            "en": "À + la cantine → à la.",
+            "es": "À + la cantine → à la.",
+            "ru": "À + la cantine → à la."
+          }
         },
         {
           "id": "remote-school-gq-5",
@@ -621,13 +666,25 @@
             "au",
             "à la",
             "dans"
-          ]
+          ],
+          "gloss": {
+            "en": "The teacher writes ___ board.",
+            "es": "El profesor escribe ___ pizarra.",
+            "ru": "Учитель пишет ___ доске."
+          },
+          "why": {
+            "fr": "À + le tableau → « au ».",
+            "en": "À + le tableau → au.",
+            "es": "À + le tableau → au.",
+            "ru": "À + le tableau → au."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Prepositions at school.",
         "es": "Útil cuando necesitas aplicar: Preposiciones en la escuela.",
-        "ru": "Полезно, когда нужно применить: Предлоги в школе."
+        "ru": "Полезно, когда нужно применить: Предлоги в школе.",
+        "fr": "Utile pour appliquer : Les prépositions à l’école."
       }
     }
   ],
@@ -847,6 +904,1006 @@
         },
         "l2": "Le professeur donne les devoirs."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-school-fren-1",
+        "fr": "école",
+        "en": "school",
+        "gloss": {
+          "en": "school",
+          "es": "escuela",
+          "ru": "школа"
+        },
+        "l2": "école"
+      },
+      {
+        "id": "remote-school-fren-2",
+        "fr": "cahier",
+        "en": "notebook",
+        "gloss": {
+          "en": "notebook",
+          "es": "computadora portátil",
+          "ru": "блокнот"
+        },
+        "l2": "cahier"
+      },
+      {
+        "id": "remote-school-fren-3",
+        "fr": "stylo",
+        "en": "pen",
+        "gloss": {
+          "en": "pen",
+          "es": "bolígrafo",
+          "ru": "ручка"
+        },
+        "l2": "stylo"
+      },
+      {
+        "id": "remote-school-fren-4",
+        "fr": "professeur",
+        "en": "teacher",
+        "gloss": {
+          "en": "teacher",
+          "es": "maestro",
+          "ru": "учитель"
+        },
+        "l2": "professeur"
+      },
+      {
+        "id": "remote-school-fren-5",
+        "fr": "devoir",
+        "en": "homework",
+        "gloss": {
+          "en": "homework",
+          "es": "tarea",
+          "ru": "домашнее задание"
+        },
+        "l2": "devoir"
+      },
+      {
+        "id": "remote-school-fren-6",
+        "fr": "classe",
+        "en": "classroom",
+        "gloss": {
+          "en": "classroom",
+          "es": "aula",
+          "ru": "класс"
+        },
+        "l2": "classe"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-school-a1-enl2-1",
+        "fr": "Mon école est près de la maison.",
+        "l2": "Mon école est près de la maison.",
+        "en": "school",
+        "gloss": {
+          "en": "school",
+          "es": "escuela",
+          "ru": "школа"
+        },
+        "prompt": "school",
+        "choices": [
+          "Mon école est près de la maison.",
+          "La classe commence à huit heures.",
+          "Le professeur explique la leçon."
+        ]
+      },
+      {
+        "id": "remote-school-a1-enl2-2",
+        "fr": "La classe commence à huit heures.",
+        "l2": "La classe commence à huit heures.",
+        "en": "classroom / class",
+        "gloss": {
+          "en": "classroom / class",
+          "es": "aula / clase",
+          "ru": "класс / класс"
+        },
+        "prompt": "classroom / class",
+        "choices": [
+          "La classe commence à huit heures.",
+          "Mon école est près de la maison.",
+          "Le professeur explique la leçon."
+        ]
+      },
+      {
+        "id": "remote-school-a1-enl2-3",
+        "fr": "Le professeur explique la leçon.",
+        "l2": "Le professeur explique la leçon.",
+        "en": "teacher (male)",
+        "gloss": {
+          "en": "teacher (male)",
+          "es": "profesor (masculino)",
+          "ru": "учитель (мужчина)"
+        },
+        "prompt": "teacher (male)",
+        "choices": [
+          "Le professeur explique la leçon.",
+          "Mon école est près de la maison.",
+          "La classe commence à huit heures."
+        ]
+      },
+      {
+        "id": "remote-school-a1-enl2-4",
+        "fr": "La professeure est très gentille.",
+        "l2": "La professeure est très gentille.",
+        "en": "teacher (female)",
+        "gloss": {
+          "en": "teacher (female)",
+          "es": "profesora (mujer)",
+          "ru": "учитель (женщина)"
+        },
+        "prompt": "teacher (female)",
+        "choices": [
+          "La professeure est très gentille.",
+          "Mon école est près de la maison.",
+          "La classe commence à huit heures."
+        ]
+      },
+      {
+        "id": "remote-school-a1-enl2-5",
+        "fr": "Chaque élève a un cahier.",
+        "l2": "Chaque élève a un cahier.",
+        "en": "student / pupil",
+        "gloss": {
+          "en": "student / pupil",
+          "es": "estudiante / alumno",
+          "ru": "студент / ученик"
+        },
+        "prompt": "student / pupil",
+        "choices": [
+          "Chaque élève a un cahier.",
+          "Mon école est près de la maison.",
+          "La classe commence à huit heures."
+        ]
+      },
+      {
+        "id": "remote-school-a1-enl2-6",
+        "fr": "J’écris dans mon cahier.",
+        "l2": "J’écris dans mon cahier.",
+        "en": "notebook",
+        "gloss": {
+          "en": "notebook",
+          "es": "computadora portátil",
+          "ru": "блокнот"
+        },
+        "prompt": "notebook",
+        "choices": [
+          "J’écris dans mon cahier.",
+          "Mon école est près de la maison.",
+          "La classe commence à huit heures."
+        ]
+      },
+      {
+        "id": "remote-school-a1-enl2-7",
+        "fr": "Tu as un stylo bleu ?",
+        "l2": "Tu as un stylo bleu ?",
+        "en": "pen",
+        "gloss": {
+          "en": "pen",
+          "es": "bolígrafo",
+          "ru": "ручка"
+        },
+        "prompt": "pen",
+        "choices": [
+          "Tu as un stylo bleu ?",
+          "Mon école est près de la maison.",
+          "La classe commence à huit heures."
+        ]
+      },
+      {
+        "id": "remote-school-a1-enl2-8",
+        "fr": "Je dessine avec un crayon.",
+        "l2": "Je dessine avec un crayon.",
+        "en": "pencil",
+        "gloss": {
+          "en": "pencil",
+          "es": "lápiz",
+          "ru": "карандаш"
+        },
+        "prompt": "pencil",
+        "choices": [
+          "Je dessine avec un crayon.",
+          "Mon école est près de la maison.",
+          "La classe commence à huit heures."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-school-a1-prm-1",
+        "en": "school",
+        "gloss": {
+          "en": "school",
+          "es": "escuela",
+          "ru": "школа"
+        },
+        "answers": [
+          "école",
+          "la école"
+        ],
+        "target": "la école"
+      },
+      {
+        "id": "remote-school-a1-prm-2",
+        "en": "classroom / class",
+        "gloss": {
+          "en": "classroom / class",
+          "es": "aula / clase",
+          "ru": "класс / класс"
+        },
+        "answers": [
+          "classe",
+          "la classe"
+        ],
+        "target": "la classe"
+      },
+      {
+        "id": "remote-school-a1-prm-3",
+        "en": "teacher (male)",
+        "gloss": {
+          "en": "teacher (male)",
+          "es": "profesor (masculino)",
+          "ru": "учитель (мужчина)"
+        },
+        "answers": [
+          "professeur",
+          "le professeur"
+        ],
+        "target": "le professeur"
+      },
+      {
+        "id": "remote-school-a1-prm-4",
+        "en": "teacher (female)",
+        "gloss": {
+          "en": "teacher (female)",
+          "es": "profesora (mujer)",
+          "ru": "учитель (женщина)"
+        },
+        "answers": [
+          "professeure",
+          "la professeure"
+        ],
+        "target": "la professeure"
+      },
+      {
+        "id": "remote-school-a1-prm-5",
+        "en": "student / pupil",
+        "gloss": {
+          "en": "student / pupil",
+          "es": "estudiante / alumno",
+          "ru": "студент / ученик"
+        },
+        "answers": [
+          "élève",
+          "l' élève"
+        ],
+        "target": "l' élève"
+      },
+      {
+        "id": "remote-school-a1-prm-6",
+        "en": "notebook",
+        "gloss": {
+          "en": "notebook",
+          "es": "computadora portátil",
+          "ru": "блокнот"
+        },
+        "answers": [
+          "cahier",
+          "le cahier"
+        ],
+        "target": "le cahier"
+      },
+      {
+        "id": "remote-school-a1-prm-7",
+        "en": "pen",
+        "gloss": {
+          "en": "pen",
+          "es": "bolígrafo",
+          "ru": "ручка"
+        },
+        "answers": [
+          "stylo",
+          "le stylo"
+        ],
+        "target": "le stylo"
+      },
+      {
+        "id": "remote-school-a1-prm-8",
+        "en": "pencil",
+        "gloss": {
+          "en": "pencil",
+          "es": "lápiz",
+          "ru": "карандаш"
+        },
+        "answers": [
+          "crayon",
+          "le crayon"
+        ],
+        "target": "le crayon"
+      },
+      {
+        "id": "remote-school-a1-prm-9",
+        "en": "book",
+        "gloss": {
+          "en": "book",
+          "es": "libro",
+          "ru": "книга"
+        },
+        "answers": [
+          "livre",
+          "le livre"
+        ],
+        "target": "le livre"
+      },
+      {
+        "id": "remote-school-a1-prm-10",
+        "en": "school bag",
+        "gloss": {
+          "en": "school bag",
+          "es": "bolsa para la escuela",
+          "ru": "школьная сумка"
+        },
+        "answers": [
+          "cartable",
+          "le cartable"
+        ],
+        "target": "le cartable"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-school-a1-sign-1",
+        "fr": "école",
+        "l2": "école",
+        "en": "school",
+        "gloss": {
+          "en": "school",
+          "es": "escuela",
+          "ru": "школа"
+        },
+        "choices": [
+          "school",
+          "classroom / class",
+          "teacher (male)"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-2",
+        "fr": "classe",
+        "l2": "classe",
+        "en": "classroom / class",
+        "gloss": {
+          "en": "classroom / class",
+          "es": "aula / clase",
+          "ru": "класс / класс"
+        },
+        "choices": [
+          "classroom / class",
+          "school",
+          "teacher (male)"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-3",
+        "fr": "professeur",
+        "l2": "professeur",
+        "en": "teacher (male)",
+        "gloss": {
+          "en": "teacher (male)",
+          "es": "profesor (masculino)",
+          "ru": "учитель (мужчина)"
+        },
+        "choices": [
+          "teacher (male)",
+          "school",
+          "classroom / class"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-4",
+        "fr": "professeure",
+        "l2": "professeure",
+        "en": "teacher (female)",
+        "gloss": {
+          "en": "teacher (female)",
+          "es": "profesora (mujer)",
+          "ru": "учитель (женщина)"
+        },
+        "choices": [
+          "teacher (female)",
+          "school",
+          "classroom / class"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-5",
+        "fr": "élève",
+        "l2": "élève",
+        "en": "student / pupil",
+        "gloss": {
+          "en": "student / pupil",
+          "es": "estudiante / alumno",
+          "ru": "студент / ученик"
+        },
+        "choices": [
+          "student / pupil",
+          "school",
+          "classroom / class"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-6",
+        "fr": "cahier",
+        "l2": "cahier",
+        "en": "notebook",
+        "gloss": {
+          "en": "notebook",
+          "es": "computadora portátil",
+          "ru": "блокнот"
+        },
+        "choices": [
+          "notebook",
+          "school",
+          "classroom / class"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-7",
+        "fr": "stylo",
+        "l2": "stylo",
+        "en": "pen",
+        "gloss": {
+          "en": "pen",
+          "es": "bolígrafo",
+          "ru": "ручка"
+        },
+        "choices": [
+          "pen",
+          "school",
+          "classroom / class"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-8",
+        "fr": "crayon",
+        "l2": "crayon",
+        "en": "pencil",
+        "gloss": {
+          "en": "pencil",
+          "es": "lápiz",
+          "ru": "карандаш"
+        },
+        "choices": [
+          "pencil",
+          "school",
+          "classroom / class"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-9",
+        "fr": "livre",
+        "l2": "livre",
+        "en": "book",
+        "gloss": {
+          "en": "book",
+          "es": "libro",
+          "ru": "книга"
+        },
+        "choices": [
+          "book",
+          "school",
+          "classroom / class"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-10",
+        "fr": "cartable",
+        "l2": "cartable",
+        "en": "school bag",
+        "gloss": {
+          "en": "school bag",
+          "es": "bolsa para la escuela",
+          "ru": "школьная сумка"
+        },
+        "choices": [
+          "school bag",
+          "school",
+          "classroom / class"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-11",
+        "fr": "tableau",
+        "l2": "tableau",
+        "en": "board / blackboard",
+        "gloss": {
+          "en": "board / blackboard",
+          "es": "tablero / pizarra",
+          "ru": "доска/доска"
+        },
+        "choices": [
+          "board / blackboard",
+          "school",
+          "classroom / class"
+        ]
+      },
+      {
+        "id": "remote-school-a1-sign-12",
+        "fr": "bureau",
+        "l2": "bureau",
+        "en": "desk",
+        "gloss": {
+          "en": "desk",
+          "es": "escritorio",
+          "ru": "рабочий стол"
+        },
+        "choices": [
+          "desk",
+          "school",
+          "classroom / class"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-school-a1-pair-1",
+        "a": {
+          "fr": "école",
+          "l2": "école",
+          "en": "school",
+          "gloss": {
+            "en": "school",
+            "es": "escuela",
+            "ru": "школа"
+          }
+        },
+        "b": {
+          "fr": "classe",
+          "l2": "classe",
+          "en": "classroom / class",
+          "gloss": {
+            "en": "classroom / class",
+            "es": "aula / clase",
+            "ru": "класс / класс"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-school-a1-pair-2",
+        "a": {
+          "fr": "professeur",
+          "l2": "professeur",
+          "en": "teacher (male)",
+          "gloss": {
+            "en": "teacher (male)",
+            "es": "profesor (masculino)",
+            "ru": "учитель (мужчина)"
+          }
+        },
+        "b": {
+          "fr": "professeure",
+          "l2": "professeure",
+          "en": "teacher (female)",
+          "gloss": {
+            "en": "teacher (female)",
+            "es": "profesora (mujer)",
+            "ru": "учитель (женщина)"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-school-a1-pair-3",
+        "a": {
+          "fr": "élève",
+          "l2": "élève",
+          "en": "student / pupil",
+          "gloss": {
+            "en": "student / pupil",
+            "es": "estudiante / alumno",
+            "ru": "студент / ученик"
+          }
+        },
+        "b": {
+          "fr": "cahier",
+          "l2": "cahier",
+          "en": "notebook",
+          "gloss": {
+            "en": "notebook",
+            "es": "computadora portátil",
+            "ru": "блокнот"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-school-a1-pair-4",
+        "a": {
+          "fr": "stylo",
+          "l2": "stylo",
+          "en": "pen",
+          "gloss": {
+            "en": "pen",
+            "es": "bolígrafo",
+            "ru": "ручка"
+          }
+        },
+        "b": {
+          "fr": "crayon",
+          "l2": "crayon",
+          "en": "pencil",
+          "gloss": {
+            "en": "pencil",
+            "es": "lápiz",
+            "ru": "карандаш"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-school-a1-pair-5",
+        "a": {
+          "fr": "livre",
+          "l2": "livre",
+          "en": "book",
+          "gloss": {
+            "en": "book",
+            "es": "libro",
+            "ru": "книга"
+          }
+        },
+        "b": {
+          "fr": "cartable",
+          "l2": "cartable",
+          "en": "school bag",
+          "gloss": {
+            "en": "school bag",
+            "es": "bolsa para la escuela",
+            "ru": "школьная сумка"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-school-a1-gap-1",
+        "fr": "Mon école est près de la maison.",
+        "l2": "Mon école est près de la maison.",
+        "speak": "Mon école est près de la maison.",
+        "blank": "école",
+        "en": "school",
+        "gloss": {
+          "en": "school",
+          "es": "escuela",
+          "ru": "школа"
+        }
+      },
+      {
+        "id": "remote-school-a1-gap-2",
+        "fr": "La classe commence à huit heures.",
+        "l2": "La classe commence à huit heures.",
+        "speak": "La classe commence à huit heures.",
+        "blank": "classe",
+        "en": "classroom / class",
+        "gloss": {
+          "en": "classroom / class",
+          "es": "aula / clase",
+          "ru": "класс / класс"
+        }
+      },
+      {
+        "id": "remote-school-a1-gap-3",
+        "fr": "Le professeur explique la leçon.",
+        "l2": "Le professeur explique la leçon.",
+        "speak": "Le professeur explique la leçon.",
+        "blank": "professeur",
+        "en": "teacher (male)",
+        "gloss": {
+          "en": "teacher (male)",
+          "es": "profesor (masculino)",
+          "ru": "учитель (мужчина)"
+        }
+      },
+      {
+        "id": "remote-school-a1-gap-4",
+        "fr": "La professeure est très gentille.",
+        "l2": "La professeure est très gentille.",
+        "speak": "La professeure est très gentille.",
+        "blank": "professeure",
+        "en": "teacher (female)",
+        "gloss": {
+          "en": "teacher (female)",
+          "es": "profesora (mujer)",
+          "ru": "учитель (женщина)"
+        }
+      },
+      {
+        "id": "remote-school-a1-gap-5",
+        "fr": "Chaque élève a un cahier.",
+        "l2": "Chaque élève a un cahier.",
+        "speak": "Chaque élève a un cahier.",
+        "blank": "élève",
+        "en": "student / pupil",
+        "gloss": {
+          "en": "student / pupil",
+          "es": "estudiante / alumno",
+          "ru": "студент / ученик"
+        }
+      },
+      {
+        "id": "remote-school-a1-gap-6",
+        "fr": "J’écris dans mon cahier.",
+        "l2": "J’écris dans mon cahier.",
+        "speak": "J’écris dans mon cahier.",
+        "blank": "cahier",
+        "en": "notebook",
+        "gloss": {
+          "en": "notebook",
+          "es": "computadora portátil",
+          "ru": "блокнот"
+        }
+      },
+      {
+        "id": "remote-school-a1-gap-7",
+        "fr": "Tu as un stylo bleu ?",
+        "l2": "Tu as un stylo bleu ?",
+        "speak": "Tu as un stylo bleu ?",
+        "blank": "stylo",
+        "en": "pen",
+        "gloss": {
+          "en": "pen",
+          "es": "bolígrafo",
+          "ru": "ручка"
+        }
+      },
+      {
+        "id": "remote-school-a1-gap-8",
+        "fr": "Je dessine avec un crayon.",
+        "l2": "Je dessine avec un crayon.",
+        "speak": "Je dessine avec un crayon.",
+        "blank": "crayon",
+        "en": "pencil",
+        "gloss": {
+          "en": "pencil",
+          "es": "lápiz",
+          "ru": "карандаш"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-school-a1-ord-1",
+        "fr": "Mon école est près de la maison.",
+        "l2": "Mon école est près de la maison.",
+        "en": "school",
+        "gloss": {
+          "en": "school",
+          "es": "escuela",
+          "ru": "школа"
+        },
+        "words": [
+          "Mon",
+          "école",
+          "est",
+          "près",
+          "de",
+          "la",
+          "maison."
+        ]
+      },
+      {
+        "id": "remote-school-a1-ord-2",
+        "fr": "La classe commence à huit heures.",
+        "l2": "La classe commence à huit heures.",
+        "en": "classroom / class",
+        "gloss": {
+          "en": "classroom / class",
+          "es": "aula / clase",
+          "ru": "класс / класс"
+        },
+        "words": [
+          "La",
+          "classe",
+          "commence",
+          "à",
+          "huit",
+          "heures."
+        ]
+      },
+      {
+        "id": "remote-school-a1-ord-3",
+        "fr": "Le professeur explique la leçon.",
+        "l2": "Le professeur explique la leçon.",
+        "en": "teacher (male)",
+        "gloss": {
+          "en": "teacher (male)",
+          "es": "profesor (masculino)",
+          "ru": "учитель (мужчина)"
+        },
+        "words": [
+          "Le",
+          "professeur",
+          "explique",
+          "la",
+          "leçon."
+        ]
+      },
+      {
+        "id": "remote-school-a1-ord-4",
+        "fr": "La professeure est très gentille.",
+        "l2": "La professeure est très gentille.",
+        "en": "teacher (female)",
+        "gloss": {
+          "en": "teacher (female)",
+          "es": "profesora (mujer)",
+          "ru": "учитель (женщина)"
+        },
+        "words": [
+          "La",
+          "professeure",
+          "est",
+          "très",
+          "gentille."
+        ]
+      },
+      {
+        "id": "remote-school-a1-ord-5",
+        "fr": "Chaque élève a un cahier.",
+        "l2": "Chaque élève a un cahier.",
+        "en": "student / pupil",
+        "gloss": {
+          "en": "student / pupil",
+          "es": "estudiante / alumno",
+          "ru": "студент / ученик"
+        },
+        "words": [
+          "Chaque",
+          "élève",
+          "a",
+          "un",
+          "cahier."
+        ]
+      },
+      {
+        "id": "remote-school-a1-ord-6",
+        "fr": "J’écris dans mon cahier.",
+        "l2": "J’écris dans mon cahier.",
+        "en": "notebook",
+        "gloss": {
+          "en": "notebook",
+          "es": "computadora portátil",
+          "ru": "блокнот"
+        },
+        "words": [
+          "J’écris",
+          "dans",
+          "mon",
+          "cahier."
+        ]
+      },
+      {
+        "id": "remote-school-a1-ord-7",
+        "fr": "Tu as un stylo bleu ?",
+        "l2": "Tu as un stylo bleu ?",
+        "en": "pen",
+        "gloss": {
+          "en": "pen",
+          "es": "bolígrafo",
+          "ru": "ручка"
+        },
+        "words": [
+          "Tu",
+          "as",
+          "un",
+          "stylo",
+          "bleu",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-school-a1-ord-8",
+        "fr": "Je dessine avec un crayon.",
+        "l2": "Je dessine avec un crayon.",
+        "en": "pencil",
+        "gloss": {
+          "en": "pencil",
+          "es": "lápiz",
+          "ru": "карандаш"
+        },
+        "words": [
+          "Je",
+          "dessine",
+          "avec",
+          "un",
+          "crayon."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-school-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "e.kɔl",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "école",
+          "l2": "école",
+          "en": "school",
+          "gloss": {
+            "en": "school",
+            "es": "escuela",
+            "ru": "школа"
+          },
+          "ipa": "e.kɔl"
+        },
+        {
+          "fr": "classe",
+          "l2": "classe",
+          "en": "classroom / class",
+          "gloss": {
+            "en": "classroom / class",
+            "es": "aula / clase",
+            "ru": "класс / класс"
+          },
+          "ipa": "klas"
+        },
+        {
+          "fr": "professeur",
+          "l2": "professeur",
+          "en": "teacher (male)",
+          "gloss": {
+            "en": "teacher (male)",
+            "es": "profesor (masculino)",
+            "ru": "учитель (мужчина)"
+          },
+          "ipa": "pʁɔ.fɛ.sœʁ"
+        },
+        {
+          "fr": "professeure",
+          "l2": "professeure",
+          "en": "teacher (female)",
+          "gloss": {
+            "en": "teacher (female)",
+            "es": "profesora (mujer)",
+            "ru": "учитель (женщина)"
+          },
+          "ipa": "pʁɔ.fɛ.sœʁ"
+        },
+        {
+          "fr": "élève",
+          "l2": "élève",
+          "en": "student / pupil",
+          "gloss": {
+            "en": "student / pupil",
+            "es": "estudiante / alumno",
+            "ru": "студент / ученик"
+          },
+          "ipa": "e.lɛv"
+        }
+      ]
+    }
+  ]
 }

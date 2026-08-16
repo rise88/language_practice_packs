@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "clothes-a1",
-  "version": 4,
+  "version": 5,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "porte",
             "mets",
             "enlève"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ black trousers.",
+            "es": "Yo ___ pantalones negros.",
+            "ru": "Я ___ чёрные брюки."
+          },
+          "why": {
+            "fr": "Porter = to wear (habit).",
+            "en": "Porter = to wear (habitually).",
+            "es": "Porter = llevar puesto.",
+            "ru": "Porter = носить (обычно)."
+          }
         },
         {
           "id": "remote-clothes-gq-2",
@@ -537,7 +548,18 @@
             "porte",
             "mets",
             "essaie"
-          ]
+          ],
+          "gloss": {
+            "en": "It’s cold: I ___ my coat.",
+            "es": "Hace frío: ___ mi abrigo.",
+            "ru": "Холодно: я ___ пальто."
+          },
+          "why": {
+            "fr": "Mettre = to put on (action).",
+            "en": "Mettre = to put on (action).",
+            "es": "Mettre = ponerse (acción).",
+            "ru": "Mettre = надеть (действие)."
+          }
         },
         {
           "id": "remote-clothes-gq-3",
@@ -547,13 +569,25 @@
             "Porte",
             "Mets",
             "Essaie"
-          ]
+          ],
+          "gloss": {
+            "en": "___ your gloves before going out.",
+            "es": "___ tus guantes antes de salir.",
+            "ru": "___ перчатки перед выходом."
+          },
+          "why": {
+            "fr": "Impératif de mettre : « Mets ».",
+            "en": "Imperative of mettre: Mets.",
+            "es": "Imperativo de mettre: Mets.",
+            "ru": "Повелительное mettre: Mets."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Porter and mettre.",
         "es": "Útil cuando es necesario aplicar: Porter y mettre.",
-        "ru": "Полезно, когда нужно применить: Портер и меттре."
+        "ru": "Полезно, когда нужно применить: Портер и меттре.",
+        "fr": "Utile pour appliquer : Porter / mettre."
       }
     },
     {
@@ -606,7 +640,18 @@
             "blanc",
             "blanche",
             "blancs"
-          ]
+          ],
+          "gloss": {
+            "en": "A ___ shirt.",
+            "es": "Una camisa ___.",
+            "ru": "___ рубашка."
+          },
+          "why": {
+            "fr": "Blanc → blanche au féminin.",
+            "en": "Blanc → blanche in the feminine.",
+            "es": "Blanc → blanche en femenino.",
+            "ru": "Blanc → blanche в ж.р."
+          }
         },
         {
           "id": "remote-clothes-gq-5",
@@ -616,7 +661,18 @@
             "noir",
             "noire",
             "noires"
-          ]
+          ],
+          "gloss": {
+            "en": "___ shoes.",
+            "es": "Unos zapatos ___.",
+            "ru": "___ туфли."
+          },
+          "why": {
+            "fr": "Noir → noires au féminin pluriel.",
+            "en": "Noir → noires in feminine plural.",
+            "es": "Noir → noires en femenino plural.",
+            "ru": "Noir → noires в ж.р. мн.ч."
+          }
         },
         {
           "id": "remote-clothes-gq-6",
@@ -626,13 +682,25 @@
             "bleu",
             "bleue",
             "bleues"
-          ]
+          ],
+          "gloss": {
+            "en": "A ___ sweater.",
+            "es": "Un jersey ___.",
+            "ru": "___ свитер."
+          },
+          "why": {
+            "fr": "Bleu reste « bleu » au masculin.",
+            "en": "Bleu stays bleu in the masculine.",
+            "es": "Bleu sigue bleu en masculino.",
+            "ru": "Bleu остаётся bleu в м.р."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Color adjectives.",
         "es": "Útil cuando necesitas aplicar: Adjetivos de color.",
-        "ru": "Полезно, когда вам нужно применить: Цветовые прилагательные."
+        "ru": "Полезно, когда вам нужно применить: Цветовые прилагательные.",
+        "fr": "Utile pour appliquer : Les adjectifs de couleur."
       }
     }
   ],
@@ -852,6 +920,999 @@
         },
         "l2": "J’aime cette robe rouge."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-clothes-fren-1",
+        "fr": "pantalon",
+        "en": "trousers",
+        "gloss": {
+          "en": "trousers",
+          "es": "pantalones",
+          "ru": "брюки"
+        },
+        "l2": "pantalon"
+      },
+      {
+        "id": "remote-clothes-fren-2",
+        "fr": "chemise",
+        "en": "shirt",
+        "gloss": {
+          "en": "shirt",
+          "es": "camisa",
+          "ru": "рубашка"
+        },
+        "l2": "chemise"
+      },
+      {
+        "id": "remote-clothes-fren-3",
+        "fr": "robe",
+        "en": "dress",
+        "gloss": {
+          "en": "dress",
+          "es": "vestido",
+          "ru": "одеваться"
+        },
+        "l2": "robe"
+      },
+      {
+        "id": "remote-clothes-fren-4",
+        "fr": "jupe",
+        "en": "skirt",
+        "gloss": {
+          "en": "skirt",
+          "es": "falda",
+          "ru": "юбка"
+        },
+        "l2": "jupe"
+      },
+      {
+        "id": "remote-clothes-fren-5",
+        "fr": "manteau",
+        "en": "coat",
+        "gloss": {
+          "en": "coat",
+          "es": "abrigo",
+          "ru": "пальто"
+        },
+        "l2": "manteau"
+      },
+      {
+        "id": "remote-clothes-fren-6",
+        "fr": "chaussure",
+        "en": "shoe",
+        "gloss": {
+          "en": "shoe",
+          "es": "zapato",
+          "ru": "туфля"
+        },
+        "l2": "chaussure"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-clothes-a1-enl2-1",
+        "fr": "Je porte un pantalon bleu.",
+        "l2": "Je porte un pantalon bleu.",
+        "en": "trousers / pants",
+        "gloss": {
+          "en": "trousers / pants",
+          "es": "pantalones / pantalones",
+          "ru": "брюки / штаны"
+        },
+        "prompt": "trousers / pants",
+        "choices": [
+          "Je porte un pantalon bleu.",
+          "Cette chemise est blanche.",
+          "Elle porte une robe rouge."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-enl2-2",
+        "fr": "Cette chemise est blanche.",
+        "l2": "Cette chemise est blanche.",
+        "en": "shirt",
+        "gloss": {
+          "en": "shirt",
+          "es": "camisa",
+          "ru": "рубашка"
+        },
+        "prompt": "shirt",
+        "choices": [
+          "Cette chemise est blanche.",
+          "Je porte un pantalon bleu.",
+          "Elle porte une robe rouge."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-enl2-3",
+        "fr": "Elle porte une robe rouge.",
+        "l2": "Elle porte une robe rouge.",
+        "en": "dress",
+        "gloss": {
+          "en": "dress",
+          "es": "vestido",
+          "ru": "одеваться"
+        },
+        "prompt": "dress",
+        "choices": [
+          "Elle porte une robe rouge.",
+          "Je porte un pantalon bleu.",
+          "Cette chemise est blanche."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-enl2-4",
+        "fr": "La jupe est trop courte.",
+        "l2": "La jupe est trop courte.",
+        "en": "skirt",
+        "gloss": {
+          "en": "skirt",
+          "es": "falda",
+          "ru": "юбка"
+        },
+        "prompt": "skirt",
+        "choices": [
+          "La jupe est trop courte.",
+          "Je porte un pantalon bleu.",
+          "Cette chemise est blanche."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-enl2-5",
+        "fr": "Je mets mon manteau.",
+        "l2": "Je mets mon manteau.",
+        "en": "coat",
+        "gloss": {
+          "en": "coat",
+          "es": "abrigo",
+          "ru": "пальто"
+        },
+        "prompt": "coat",
+        "choices": [
+          "Je mets mon manteau.",
+          "Je porte un pantalon bleu.",
+          "Cette chemise est blanche."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-enl2-6",
+        "fr": "Mes chaussures sont noires.",
+        "l2": "Mes chaussures sont noires.",
+        "en": "shoe",
+        "gloss": {
+          "en": "shoe",
+          "es": "zapato",
+          "ru": "туфля"
+        },
+        "prompt": "shoe",
+        "choices": [
+          "Mes chaussures sont noires.",
+          "Je porte un pantalon bleu.",
+          "Cette chemise est blanche."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-enl2-7",
+        "fr": "Il a un chapeau gris.",
+        "l2": "Il a un chapeau gris.",
+        "en": "hat",
+        "gloss": {
+          "en": "hat",
+          "es": "sombrero",
+          "ru": "шляпа"
+        },
+        "prompt": "hat",
+        "choices": [
+          "Il a un chapeau gris.",
+          "Je porte un pantalon bleu.",
+          "Cette chemise est blanche."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-enl2-8",
+        "fr": "J’ai un pull chaud.",
+        "l2": "J’ai un pull chaud.",
+        "en": "sweater / jumper",
+        "gloss": {
+          "en": "sweater / jumper",
+          "es": "suéter / jersey",
+          "ru": "свитер / джемпер"
+        },
+        "prompt": "sweater / jumper",
+        "choices": [
+          "J’ai un pull chaud.",
+          "Je porte un pantalon bleu.",
+          "Cette chemise est blanche."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-clothes-a1-prm-1",
+        "en": "trousers / pants",
+        "gloss": {
+          "en": "trousers / pants",
+          "es": "pantalones / pantalones",
+          "ru": "брюки / штаны"
+        },
+        "answers": [
+          "pantalon",
+          "le pantalon"
+        ],
+        "target": "le pantalon"
+      },
+      {
+        "id": "remote-clothes-a1-prm-2",
+        "en": "shirt",
+        "gloss": {
+          "en": "shirt",
+          "es": "camisa",
+          "ru": "рубашка"
+        },
+        "answers": [
+          "chemise",
+          "la chemise"
+        ],
+        "target": "la chemise"
+      },
+      {
+        "id": "remote-clothes-a1-prm-3",
+        "en": "dress",
+        "gloss": {
+          "en": "dress",
+          "es": "vestido",
+          "ru": "одеваться"
+        },
+        "answers": [
+          "robe",
+          "la robe"
+        ],
+        "target": "la robe"
+      },
+      {
+        "id": "remote-clothes-a1-prm-4",
+        "en": "skirt",
+        "gloss": {
+          "en": "skirt",
+          "es": "falda",
+          "ru": "юбка"
+        },
+        "answers": [
+          "jupe",
+          "la jupe"
+        ],
+        "target": "la jupe"
+      },
+      {
+        "id": "remote-clothes-a1-prm-5",
+        "en": "coat",
+        "gloss": {
+          "en": "coat",
+          "es": "abrigo",
+          "ru": "пальто"
+        },
+        "answers": [
+          "manteau",
+          "le manteau"
+        ],
+        "target": "le manteau"
+      },
+      {
+        "id": "remote-clothes-a1-prm-6",
+        "en": "shoe",
+        "gloss": {
+          "en": "shoe",
+          "es": "zapato",
+          "ru": "туфля"
+        },
+        "answers": [
+          "chaussure",
+          "la chaussure"
+        ],
+        "target": "la chaussure"
+      },
+      {
+        "id": "remote-clothes-a1-prm-7",
+        "en": "hat",
+        "gloss": {
+          "en": "hat",
+          "es": "sombrero",
+          "ru": "шляпа"
+        },
+        "answers": [
+          "chapeau",
+          "le chapeau"
+        ],
+        "target": "le chapeau"
+      },
+      {
+        "id": "remote-clothes-a1-prm-8",
+        "en": "sweater / jumper",
+        "gloss": {
+          "en": "sweater / jumper",
+          "es": "suéter / jersey",
+          "ru": "свитер / джемпер"
+        },
+        "answers": [
+          "pull",
+          "le pull"
+        ],
+        "target": "le pull"
+      },
+      {
+        "id": "remote-clothes-a1-prm-9",
+        "en": "jacket",
+        "gloss": {
+          "en": "jacket",
+          "es": "chaqueta",
+          "ru": "куртка"
+        },
+        "answers": [
+          "veste",
+          "la veste"
+        ],
+        "target": "la veste"
+      },
+      {
+        "id": "remote-clothes-a1-prm-10",
+        "en": "sock",
+        "gloss": {
+          "en": "sock",
+          "es": "calcetín",
+          "ru": "носок"
+        },
+        "answers": [
+          "chaussette",
+          "la chaussette"
+        ],
+        "target": "la chaussette"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-clothes-a1-sign-1",
+        "fr": "pantalon",
+        "l2": "pantalon",
+        "en": "trousers / pants",
+        "gloss": {
+          "en": "trousers / pants",
+          "es": "pantalones / pantalones",
+          "ru": "брюки / штаны"
+        },
+        "choices": [
+          "trousers / pants",
+          "shirt",
+          "dress"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-2",
+        "fr": "chemise",
+        "l2": "chemise",
+        "en": "shirt",
+        "gloss": {
+          "en": "shirt",
+          "es": "camisa",
+          "ru": "рубашка"
+        },
+        "choices": [
+          "shirt",
+          "trousers / pants",
+          "dress"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-3",
+        "fr": "robe",
+        "l2": "robe",
+        "en": "dress",
+        "gloss": {
+          "en": "dress",
+          "es": "vestido",
+          "ru": "одеваться"
+        },
+        "choices": [
+          "dress",
+          "trousers / pants",
+          "shirt"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-4",
+        "fr": "jupe",
+        "l2": "jupe",
+        "en": "skirt",
+        "gloss": {
+          "en": "skirt",
+          "es": "falda",
+          "ru": "юбка"
+        },
+        "choices": [
+          "skirt",
+          "trousers / pants",
+          "shirt"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-5",
+        "fr": "manteau",
+        "l2": "manteau",
+        "en": "coat",
+        "gloss": {
+          "en": "coat",
+          "es": "abrigo",
+          "ru": "пальто"
+        },
+        "choices": [
+          "coat",
+          "trousers / pants",
+          "shirt"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-6",
+        "fr": "chaussure",
+        "l2": "chaussure",
+        "en": "shoe",
+        "gloss": {
+          "en": "shoe",
+          "es": "zapato",
+          "ru": "туфля"
+        },
+        "choices": [
+          "shoe",
+          "trousers / pants",
+          "shirt"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-7",
+        "fr": "chapeau",
+        "l2": "chapeau",
+        "en": "hat",
+        "gloss": {
+          "en": "hat",
+          "es": "sombrero",
+          "ru": "шляпа"
+        },
+        "choices": [
+          "hat",
+          "trousers / pants",
+          "shirt"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-8",
+        "fr": "pull",
+        "l2": "pull",
+        "en": "sweater / jumper",
+        "gloss": {
+          "en": "sweater / jumper",
+          "es": "suéter / jersey",
+          "ru": "свитер / джемпер"
+        },
+        "choices": [
+          "sweater / jumper",
+          "trousers / pants",
+          "shirt"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-9",
+        "fr": "veste",
+        "l2": "veste",
+        "en": "jacket",
+        "gloss": {
+          "en": "jacket",
+          "es": "chaqueta",
+          "ru": "куртка"
+        },
+        "choices": [
+          "jacket",
+          "trousers / pants",
+          "shirt"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-10",
+        "fr": "chaussette",
+        "l2": "chaussette",
+        "en": "sock",
+        "gloss": {
+          "en": "sock",
+          "es": "calcetín",
+          "ru": "носок"
+        },
+        "choices": [
+          "sock",
+          "trousers / pants",
+          "shirt"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-11",
+        "fr": "écharpe",
+        "l2": "écharpe",
+        "en": "scarf",
+        "gloss": {
+          "en": "scarf",
+          "es": "bufanda",
+          "ru": "шарф"
+        },
+        "choices": [
+          "scarf",
+          "trousers / pants",
+          "shirt"
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-sign-12",
+        "fr": "gant",
+        "l2": "gant",
+        "en": "glove",
+        "gloss": {
+          "en": "glove",
+          "es": "guante",
+          "ru": "перчатка"
+        },
+        "choices": [
+          "glove",
+          "trousers / pants",
+          "shirt"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-clothes-a1-pair-1",
+        "a": {
+          "fr": "pantalon",
+          "l2": "pantalon",
+          "en": "trousers / pants",
+          "gloss": {
+            "en": "trousers / pants",
+            "es": "pantalones / pantalones",
+            "ru": "брюки / штаны"
+          }
+        },
+        "b": {
+          "fr": "chemise",
+          "l2": "chemise",
+          "en": "shirt",
+          "gloss": {
+            "en": "shirt",
+            "es": "camisa",
+            "ru": "рубашка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-clothes-a1-pair-2",
+        "a": {
+          "fr": "robe",
+          "l2": "robe",
+          "en": "dress",
+          "gloss": {
+            "en": "dress",
+            "es": "vestido",
+            "ru": "одеваться"
+          }
+        },
+        "b": {
+          "fr": "jupe",
+          "l2": "jupe",
+          "en": "skirt",
+          "gloss": {
+            "en": "skirt",
+            "es": "falda",
+            "ru": "юбка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-clothes-a1-pair-3",
+        "a": {
+          "fr": "manteau",
+          "l2": "manteau",
+          "en": "coat",
+          "gloss": {
+            "en": "coat",
+            "es": "abrigo",
+            "ru": "пальто"
+          }
+        },
+        "b": {
+          "fr": "chaussure",
+          "l2": "chaussure",
+          "en": "shoe",
+          "gloss": {
+            "en": "shoe",
+            "es": "zapato",
+            "ru": "туфля"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-clothes-a1-pair-4",
+        "a": {
+          "fr": "chapeau",
+          "l2": "chapeau",
+          "en": "hat",
+          "gloss": {
+            "en": "hat",
+            "es": "sombrero",
+            "ru": "шляпа"
+          }
+        },
+        "b": {
+          "fr": "pull",
+          "l2": "pull",
+          "en": "sweater / jumper",
+          "gloss": {
+            "en": "sweater / jumper",
+            "es": "suéter / jersey",
+            "ru": "свитер / джемпер"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-clothes-a1-pair-5",
+        "a": {
+          "fr": "veste",
+          "l2": "veste",
+          "en": "jacket",
+          "gloss": {
+            "en": "jacket",
+            "es": "chaqueta",
+            "ru": "куртка"
+          }
+        },
+        "b": {
+          "fr": "chaussette",
+          "l2": "chaussette",
+          "en": "sock",
+          "gloss": {
+            "en": "sock",
+            "es": "calcetín",
+            "ru": "носок"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-clothes-a1-gap-1",
+        "fr": "Je porte un pantalon bleu.",
+        "l2": "Je porte un pantalon bleu.",
+        "speak": "Je porte un pantalon bleu.",
+        "blank": "pantalon",
+        "en": "trousers / pants",
+        "gloss": {
+          "en": "trousers / pants",
+          "es": "pantalones / pantalones",
+          "ru": "брюки / штаны"
+        }
+      },
+      {
+        "id": "remote-clothes-a1-gap-2",
+        "fr": "Cette chemise est blanche.",
+        "l2": "Cette chemise est blanche.",
+        "speak": "Cette chemise est blanche.",
+        "blank": "chemise",
+        "en": "shirt",
+        "gloss": {
+          "en": "shirt",
+          "es": "camisa",
+          "ru": "рубашка"
+        }
+      },
+      {
+        "id": "remote-clothes-a1-gap-3",
+        "fr": "Elle porte une robe rouge.",
+        "l2": "Elle porte une robe rouge.",
+        "speak": "Elle porte une robe rouge.",
+        "blank": "robe",
+        "en": "dress",
+        "gloss": {
+          "en": "dress",
+          "es": "vestido",
+          "ru": "одеваться"
+        }
+      },
+      {
+        "id": "remote-clothes-a1-gap-4",
+        "fr": "La jupe est trop courte.",
+        "l2": "La jupe est trop courte.",
+        "speak": "La jupe est trop courte.",
+        "blank": "jupe",
+        "en": "skirt",
+        "gloss": {
+          "en": "skirt",
+          "es": "falda",
+          "ru": "юбка"
+        }
+      },
+      {
+        "id": "remote-clothes-a1-gap-5",
+        "fr": "Je mets mon manteau.",
+        "l2": "Je mets mon manteau.",
+        "speak": "Je mets mon manteau.",
+        "blank": "manteau",
+        "en": "coat",
+        "gloss": {
+          "en": "coat",
+          "es": "abrigo",
+          "ru": "пальто"
+        }
+      },
+      {
+        "id": "remote-clothes-a1-gap-6",
+        "fr": "Mes chaussures sont noires.",
+        "l2": "Mes chaussures sont noires.",
+        "speak": "Mes chaussures sont noires.",
+        "blank": "chaussure",
+        "en": "shoe",
+        "gloss": {
+          "en": "shoe",
+          "es": "zapato",
+          "ru": "туфля"
+        }
+      },
+      {
+        "id": "remote-clothes-a1-gap-7",
+        "fr": "Il a un chapeau gris.",
+        "l2": "Il a un chapeau gris.",
+        "speak": "Il a un chapeau gris.",
+        "blank": "chapeau",
+        "en": "hat",
+        "gloss": {
+          "en": "hat",
+          "es": "sombrero",
+          "ru": "шляпа"
+        }
+      },
+      {
+        "id": "remote-clothes-a1-gap-8",
+        "fr": "J’ai un pull chaud.",
+        "l2": "J’ai un pull chaud.",
+        "speak": "J’ai un pull chaud.",
+        "blank": "pull",
+        "en": "sweater / jumper",
+        "gloss": {
+          "en": "sweater / jumper",
+          "es": "suéter / jersey",
+          "ru": "свитер / джемпер"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-clothes-a1-ord-1",
+        "fr": "Je porte un pantalon bleu.",
+        "l2": "Je porte un pantalon bleu.",
+        "en": "trousers / pants",
+        "gloss": {
+          "en": "trousers / pants",
+          "es": "pantalones / pantalones",
+          "ru": "брюки / штаны"
+        },
+        "words": [
+          "Je",
+          "porte",
+          "un",
+          "pantalon",
+          "bleu."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-ord-2",
+        "fr": "Cette chemise est blanche.",
+        "l2": "Cette chemise est blanche.",
+        "en": "shirt",
+        "gloss": {
+          "en": "shirt",
+          "es": "camisa",
+          "ru": "рубашка"
+        },
+        "words": [
+          "Cette",
+          "chemise",
+          "est",
+          "blanche."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-ord-3",
+        "fr": "Elle porte une robe rouge.",
+        "l2": "Elle porte une robe rouge.",
+        "en": "dress",
+        "gloss": {
+          "en": "dress",
+          "es": "vestido",
+          "ru": "одеваться"
+        },
+        "words": [
+          "Elle",
+          "porte",
+          "une",
+          "robe",
+          "rouge."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-ord-4",
+        "fr": "La jupe est trop courte.",
+        "l2": "La jupe est trop courte.",
+        "en": "skirt",
+        "gloss": {
+          "en": "skirt",
+          "es": "falda",
+          "ru": "юбка"
+        },
+        "words": [
+          "La",
+          "jupe",
+          "est",
+          "trop",
+          "courte."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-ord-5",
+        "fr": "Je mets mon manteau.",
+        "l2": "Je mets mon manteau.",
+        "en": "coat",
+        "gloss": {
+          "en": "coat",
+          "es": "abrigo",
+          "ru": "пальто"
+        },
+        "words": [
+          "Je",
+          "mets",
+          "mon",
+          "manteau."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-ord-6",
+        "fr": "Mes chaussures sont noires.",
+        "l2": "Mes chaussures sont noires.",
+        "en": "shoe",
+        "gloss": {
+          "en": "shoe",
+          "es": "zapato",
+          "ru": "туфля"
+        },
+        "words": [
+          "Mes",
+          "chaussures",
+          "sont",
+          "noires."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-ord-7",
+        "fr": "Il a un chapeau gris.",
+        "l2": "Il a un chapeau gris.",
+        "en": "hat",
+        "gloss": {
+          "en": "hat",
+          "es": "sombrero",
+          "ru": "шляпа"
+        },
+        "words": [
+          "Il",
+          "a",
+          "un",
+          "chapeau",
+          "gris."
+        ]
+      },
+      {
+        "id": "remote-clothes-a1-ord-8",
+        "fr": "J’ai un pull chaud.",
+        "l2": "J’ai un pull chaud.",
+        "en": "sweater / jumper",
+        "gloss": {
+          "en": "sweater / jumper",
+          "es": "suéter / jersey",
+          "ru": "свитер / джемпер"
+        },
+        "words": [
+          "J’ai",
+          "un",
+          "pull",
+          "chaud."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-clothes-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "pɑ̃.ta.lɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "pantalon",
+          "l2": "pantalon",
+          "en": "trousers / pants",
+          "gloss": {
+            "en": "trousers / pants",
+            "es": "pantalones / pantalones",
+            "ru": "брюки / штаны"
+          },
+          "ipa": "pɑ̃.ta.lɔ̃"
+        },
+        {
+          "fr": "chemise",
+          "l2": "chemise",
+          "en": "shirt",
+          "gloss": {
+            "en": "shirt",
+            "es": "camisa",
+            "ru": "рубашка"
+          },
+          "ipa": "ʃə.miz"
+        },
+        {
+          "fr": "robe",
+          "l2": "robe",
+          "en": "dress",
+          "gloss": {
+            "en": "dress",
+            "es": "vestido",
+            "ru": "одеваться"
+          },
+          "ipa": "ʁɔb"
+        },
+        {
+          "fr": "jupe",
+          "l2": "jupe",
+          "en": "skirt",
+          "gloss": {
+            "en": "skirt",
+            "es": "falda",
+            "ru": "юбка"
+          },
+          "ipa": "ʒyp"
+        },
+        {
+          "fr": "manteau",
+          "l2": "manteau",
+          "en": "coat",
+          "gloss": {
+            "en": "coat",
+            "es": "abrigo",
+            "ru": "пальто"
+          },
+          "ipa": "mɑ̃.to"
+        }
+      ]
+    }
+  ]
 }

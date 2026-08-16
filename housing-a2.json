@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "housing-a2",
-  "version": 4,
+  "version": 5,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "loue",
             "location",
             "loyer"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ an apartment in the city.",
+            "es": "Yo ___ un apartamento en la ciudad.",
+            "ru": "У меня ___ квартира в городе."
+          },
+          "why": {
+            "fr": "Réponse : « loue ».",
+            "en": "Answer: “loue”.",
+            "es": "Respuesta: « loue ».",
+            "ru": "Ответ: « loue »."
+          }
         },
         {
           "id": "remote-housing-gq-2",
@@ -537,7 +548,18 @@
             "locataire",
             "propriétaire",
             "bail"
-          ]
+          ],
+          "gloss": {
+            "en": "The ___ pays the rent.",
+            "es": "El ___ paga el alquiler.",
+            "ru": "___ платит арендную плату."
+          },
+          "why": {
+            "fr": "Réponse : « locataire ».",
+            "en": "Answer: “locataire”.",
+            "es": "Respuesta: « locataire ».",
+            "ru": "Ответ: « locataire »."
+          }
         },
         {
           "id": "remote-housing-gq-3",
@@ -547,13 +569,25 @@
             "loyer",
             "louer",
             "location"
-          ]
+          ],
+          "gloss": {
+            "en": "The ___ is 700 euros.",
+            "es": "El ___ son 700 euros.",
+            "ru": "___ составляет 700 евро."
+          },
+          "why": {
+            "fr": "Réponse : « loyer ».",
+            "en": "Answer: “loyer”.",
+            "es": "Respuesta: « loyer ».",
+            "ru": "Ответ: « loyer »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Renting vocabulary family.",
         "es": "Útil cuando necesitas aplicar: Alquiler de vocabulario familiar.",
-        "ru": "Полезно, когда вам нужно подать заявку: Аренда словарного запаса."
+        "ru": "Полезно, когда вам нужно подать заявку: Аренда словарного запаса.",
+        "fr": "Utile pour appliquer : Louer / location / locataire."
       }
     },
     {
@@ -606,7 +640,18 @@
             "trop",
             "assez",
             "très de"
-          ]
+          ],
+          "gloss": {
+            "en": "The studio is ___ small.",
+            "es": "El estudio es ___ pequeño.",
+            "ru": "Студия ___ маленькая."
+          },
+          "why": {
+            "fr": "Réponse : « trop ».",
+            "en": "Answer: “trop”.",
+            "es": "Respuesta: « trop ».",
+            "ru": "Ответ: « trop »."
+          }
         },
         {
           "id": "remote-housing-gq-5",
@@ -616,7 +661,18 @@
             "trop",
             "pas assez",
             "assez de"
-          ]
+          ],
+          "gloss": {
+            "en": "It is not ___ bright.",
+            "es": "No es ___ brillante.",
+            "ru": "Это не ___ ярко."
+          },
+          "why": {
+            "fr": "Réponse : « pas assez ».",
+            "en": "Answer: “pas assez”.",
+            "es": "Respuesta: « pas assez ».",
+            "ru": "Ответ: « pas assez »."
+          }
         },
         {
           "id": "remote-housing-gq-6",
@@ -626,13 +682,25 @@
             "trop",
             "assez",
             "très"
-          ]
+          ],
+          "gloss": {
+            "en": "There is ___ noise.",
+            "es": "Hay ___ ruido.",
+            "ru": "Существует ___ шума."
+          },
+          "why": {
+            "fr": "Réponse : « trop ».",
+            "en": "Answer: “trop”.",
+            "es": "Respuesta: « trop ».",
+            "ru": "Ответ: « trop »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Too / enough.",
         "es": "Útil cuando es necesario aplicar: Demasiado/suficiente.",
-        "ru": "Полезно, когда нужно применить: Слишком/достаточно."
+        "ru": "Полезно, когда нужно применить: Слишком/достаточно.",
+        "fr": "Utile pour appliquer : Trop / assez / pas assez."
       }
     }
   ],
@@ -853,6 +921,1002 @@
         },
         "l2": "L’ascenseur est en panne."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-housing-fren-1",
+        "fr": "logement",
+        "en": "housing",
+        "gloss": {
+          "en": "housing",
+          "es": "alojamiento",
+          "ru": "жилье"
+        },
+        "l2": "logement"
+      },
+      {
+        "id": "remote-housing-fren-2",
+        "fr": "appartement",
+        "en": "apartment",
+        "gloss": {
+          "en": "apartment",
+          "es": "departamento",
+          "ru": "квартира"
+        },
+        "l2": "appartement"
+      },
+      {
+        "id": "remote-housing-fren-3",
+        "fr": "loyer",
+        "en": "rent",
+        "gloss": {
+          "en": "rent",
+          "es": "alquilar",
+          "ru": "арендовать"
+        },
+        "l2": "loyer"
+      },
+      {
+        "id": "remote-housing-fren-4",
+        "fr": "propriétaire",
+        "en": "landlord",
+        "gloss": {
+          "en": "landlord",
+          "es": "propietario",
+          "ru": "домовладелец"
+        },
+        "l2": "propriétaire"
+      },
+      {
+        "id": "remote-housing-fren-5",
+        "fr": "locataire",
+        "en": "tenant",
+        "gloss": {
+          "en": "tenant",
+          "es": "arrendatario",
+          "ru": "жилец"
+        },
+        "l2": "locataire"
+      },
+      {
+        "id": "remote-housing-fren-6",
+        "fr": "bail",
+        "en": "lease",
+        "gloss": {
+          "en": "lease",
+          "es": "alquiler",
+          "ru": "арендовать"
+        },
+        "l2": "bail"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-housing-a2-enl2-1",
+        "fr": "Je cherche un logement en centre-ville.",
+        "l2": "Je cherche un logement en centre-ville.",
+        "en": "housing / accommodation",
+        "gloss": {
+          "en": "housing / accommodation",
+          "es": "vivienda / alojamiento",
+          "ru": "жилье / размещение"
+        },
+        "prompt": "housing / accommodation",
+        "choices": [
+          "Je cherche un logement en centre-ville.",
+          "L’appartement a deux chambres.",
+          "Le loyer est trop élevé."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-enl2-2",
+        "fr": "L’appartement a deux chambres.",
+        "l2": "L’appartement a deux chambres.",
+        "en": "apartment / flat",
+        "gloss": {
+          "en": "apartment / flat",
+          "es": "apartamento / piso",
+          "ru": "квартира / квартира"
+        },
+        "prompt": "apartment / flat",
+        "choices": [
+          "L’appartement a deux chambres.",
+          "Je cherche un logement en centre-ville.",
+          "Le loyer est trop élevé."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-enl2-3",
+        "fr": "Le loyer est trop élevé.",
+        "l2": "Le loyer est trop élevé.",
+        "en": "rent",
+        "gloss": {
+          "en": "rent",
+          "es": "alquilar",
+          "ru": "арендовать"
+        },
+        "prompt": "rent",
+        "choices": [
+          "Le loyer est trop élevé.",
+          "Je cherche un logement en centre-ville.",
+          "L’appartement a deux chambres."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-enl2-4",
+        "fr": "Le propriétaire vient demain.",
+        "l2": "Le propriétaire vient demain.",
+        "en": "landlord / owner",
+        "gloss": {
+          "en": "landlord / owner",
+          "es": "propietario / propietario",
+          "ru": "арендодатель/владелец"
+        },
+        "prompt": "landlord / owner",
+        "choices": [
+          "Le propriétaire vient demain.",
+          "Je cherche un logement en centre-ville.",
+          "L’appartement a deux chambres."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-enl2-5",
+        "fr": "Je suis locataire depuis un an.",
+        "l2": "Je suis locataire depuis un an.",
+        "en": "tenant",
+        "gloss": {
+          "en": "tenant",
+          "es": "arrendatario",
+          "ru": "жилец"
+        },
+        "prompt": "tenant",
+        "choices": [
+          "Je suis locataire depuis un an.",
+          "Je cherche un logement en centre-ville.",
+          "L’appartement a deux chambres."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-enl2-6",
+        "fr": "Le bail dure un an.",
+        "l2": "Le bail dure un an.",
+        "en": "lease",
+        "gloss": {
+          "en": "lease",
+          "es": "alquiler",
+          "ru": "арендовать"
+        },
+        "prompt": "lease",
+        "choices": [
+          "Le bail dure un an.",
+          "Je cherche un logement en centre-ville.",
+          "L’appartement a deux chambres."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-enl2-7",
+        "fr": "Les charges comprennent l’eau.",
+        "l2": "Les charges comprennent l’eau.",
+        "en": "service charges",
+        "gloss": {
+          "en": "service charges",
+          "es": "cargos por servicio",
+          "ru": "плата за обслуживание"
+        },
+        "prompt": "service charges",
+        "choices": [
+          "Les charges comprennent l’eau.",
+          "Je cherche un logement en centre-ville.",
+          "L’appartement a deux chambres."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-enl2-8",
+        "fr": "Il faut verser une caution.",
+        "l2": "Il faut verser une caution.",
+        "en": "deposit",
+        "gloss": {
+          "en": "deposit",
+          "es": "depósito",
+          "ru": "депозит"
+        },
+        "prompt": "deposit",
+        "choices": [
+          "Il faut verser une caution.",
+          "Je cherche un logement en centre-ville.",
+          "L’appartement a deux chambres."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-housing-a2-prm-1",
+        "en": "housing / accommodation",
+        "gloss": {
+          "en": "housing / accommodation",
+          "es": "vivienda / alojamiento",
+          "ru": "жилье / размещение"
+        },
+        "answers": [
+          "logement",
+          "le logement"
+        ],
+        "target": "le logement"
+      },
+      {
+        "id": "remote-housing-a2-prm-2",
+        "en": "apartment / flat",
+        "gloss": {
+          "en": "apartment / flat",
+          "es": "apartamento / piso",
+          "ru": "квартира / квартира"
+        },
+        "answers": [
+          "appartement",
+          "l' appartement"
+        ],
+        "target": "l' appartement"
+      },
+      {
+        "id": "remote-housing-a2-prm-3",
+        "en": "rent",
+        "gloss": {
+          "en": "rent",
+          "es": "alquilar",
+          "ru": "арендовать"
+        },
+        "answers": [
+          "loyer",
+          "le loyer"
+        ],
+        "target": "le loyer"
+      },
+      {
+        "id": "remote-housing-a2-prm-4",
+        "en": "landlord / owner",
+        "gloss": {
+          "en": "landlord / owner",
+          "es": "propietario / propietario",
+          "ru": "арендодатель/владелец"
+        },
+        "answers": [
+          "propriétaire",
+          "le propriétaire"
+        ],
+        "target": "le propriétaire"
+      },
+      {
+        "id": "remote-housing-a2-prm-5",
+        "en": "tenant",
+        "gloss": {
+          "en": "tenant",
+          "es": "arrendatario",
+          "ru": "жилец"
+        },
+        "answers": [
+          "locataire",
+          "le locataire"
+        ],
+        "target": "le locataire"
+      },
+      {
+        "id": "remote-housing-a2-prm-6",
+        "en": "lease",
+        "gloss": {
+          "en": "lease",
+          "es": "alquiler",
+          "ru": "арендовать"
+        },
+        "answers": [
+          "bail",
+          "le bail"
+        ],
+        "target": "le bail"
+      },
+      {
+        "id": "remote-housing-a2-prm-7",
+        "en": "service charges",
+        "gloss": {
+          "en": "service charges",
+          "es": "cargos por servicio",
+          "ru": "плата за обслуживание"
+        },
+        "answers": [
+          "charges",
+          "les charges"
+        ],
+        "target": "les charges"
+      },
+      {
+        "id": "remote-housing-a2-prm-8",
+        "en": "deposit",
+        "gloss": {
+          "en": "deposit",
+          "es": "depósito",
+          "ru": "депозит"
+        },
+        "answers": [
+          "caution",
+          "la caution"
+        ],
+        "target": "la caution"
+      },
+      {
+        "id": "remote-housing-a2-prm-9",
+        "en": "listing / advert",
+        "gloss": {
+          "en": "listing / advert",
+          "es": "listado / anuncio",
+          "ru": "объявление/объявление"
+        },
+        "answers": [
+          "annonce",
+          "l' annonce"
+        ],
+        "target": "l' annonce"
+      },
+      {
+        "id": "remote-housing-a2-prm-10",
+        "en": "viewing",
+        "gloss": {
+          "en": "viewing",
+          "es": "visita",
+          "ru": "просмотр"
+        },
+        "answers": [
+          "visite",
+          "la visite"
+        ],
+        "target": "la visite"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-housing-a2-sign-1",
+        "fr": "logement",
+        "l2": "logement",
+        "en": "housing / accommodation",
+        "gloss": {
+          "en": "housing / accommodation",
+          "es": "vivienda / alojamiento",
+          "ru": "жилье / размещение"
+        },
+        "choices": [
+          "housing / accommodation",
+          "apartment / flat",
+          "rent"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-2",
+        "fr": "appartement",
+        "l2": "appartement",
+        "en": "apartment / flat",
+        "gloss": {
+          "en": "apartment / flat",
+          "es": "apartamento / piso",
+          "ru": "квартира / квартира"
+        },
+        "choices": [
+          "apartment / flat",
+          "housing / accommodation",
+          "rent"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-3",
+        "fr": "loyer",
+        "l2": "loyer",
+        "en": "rent",
+        "gloss": {
+          "en": "rent",
+          "es": "alquilar",
+          "ru": "арендовать"
+        },
+        "choices": [
+          "rent",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-4",
+        "fr": "propriétaire",
+        "l2": "propriétaire",
+        "en": "landlord / owner",
+        "gloss": {
+          "en": "landlord / owner",
+          "es": "propietario / propietario",
+          "ru": "арендодатель/владелец"
+        },
+        "choices": [
+          "landlord / owner",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-5",
+        "fr": "locataire",
+        "l2": "locataire",
+        "en": "tenant",
+        "gloss": {
+          "en": "tenant",
+          "es": "arrendatario",
+          "ru": "жилец"
+        },
+        "choices": [
+          "tenant",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-6",
+        "fr": "bail",
+        "l2": "bail",
+        "en": "lease",
+        "gloss": {
+          "en": "lease",
+          "es": "alquiler",
+          "ru": "арендовать"
+        },
+        "choices": [
+          "lease",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-7",
+        "fr": "charges",
+        "l2": "charges",
+        "en": "service charges",
+        "gloss": {
+          "en": "service charges",
+          "es": "cargos por servicio",
+          "ru": "плата за обслуживание"
+        },
+        "choices": [
+          "service charges",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-8",
+        "fr": "caution",
+        "l2": "caution",
+        "en": "deposit",
+        "gloss": {
+          "en": "deposit",
+          "es": "depósito",
+          "ru": "депозит"
+        },
+        "choices": [
+          "deposit",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-9",
+        "fr": "annonce",
+        "l2": "annonce",
+        "en": "listing / advert",
+        "gloss": {
+          "en": "listing / advert",
+          "es": "listado / anuncio",
+          "ru": "объявление/объявление"
+        },
+        "choices": [
+          "listing / advert",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-10",
+        "fr": "visite",
+        "l2": "visite",
+        "en": "viewing",
+        "gloss": {
+          "en": "viewing",
+          "es": "visita",
+          "ru": "просмотр"
+        },
+        "choices": [
+          "viewing",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-11",
+        "fr": "mezzanine",
+        "l2": "mezzanine",
+        "en": "mezzanine",
+        "gloss": {
+          "en": "mezzanine",
+          "es": "entresuelo",
+          "ru": "мезонин"
+        },
+        "choices": [
+          "mezzanine",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      },
+      {
+        "id": "remote-housing-a2-sign-12",
+        "fr": "studio",
+        "l2": "studio",
+        "en": "studio flat",
+        "gloss": {
+          "en": "studio flat",
+          "es": "estudio",
+          "ru": "квартира-студия"
+        },
+        "choices": [
+          "studio flat",
+          "housing / accommodation",
+          "apartment / flat"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-housing-a2-pair-1",
+        "a": {
+          "fr": "logement",
+          "l2": "logement",
+          "en": "housing / accommodation",
+          "gloss": {
+            "en": "housing / accommodation",
+            "es": "vivienda / alojamiento",
+            "ru": "жилье / размещение"
+          }
+        },
+        "b": {
+          "fr": "appartement",
+          "l2": "appartement",
+          "en": "apartment / flat",
+          "gloss": {
+            "en": "apartment / flat",
+            "es": "apartamento / piso",
+            "ru": "квартира / квартира"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-housing-a2-pair-2",
+        "a": {
+          "fr": "loyer",
+          "l2": "loyer",
+          "en": "rent",
+          "gloss": {
+            "en": "rent",
+            "es": "alquilar",
+            "ru": "арендовать"
+          }
+        },
+        "b": {
+          "fr": "propriétaire",
+          "l2": "propriétaire",
+          "en": "landlord / owner",
+          "gloss": {
+            "en": "landlord / owner",
+            "es": "propietario / propietario",
+            "ru": "арендодатель/владелец"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-housing-a2-pair-3",
+        "a": {
+          "fr": "locataire",
+          "l2": "locataire",
+          "en": "tenant",
+          "gloss": {
+            "en": "tenant",
+            "es": "arrendatario",
+            "ru": "жилец"
+          }
+        },
+        "b": {
+          "fr": "bail",
+          "l2": "bail",
+          "en": "lease",
+          "gloss": {
+            "en": "lease",
+            "es": "alquiler",
+            "ru": "арендовать"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-housing-a2-pair-4",
+        "a": {
+          "fr": "charges",
+          "l2": "charges",
+          "en": "service charges",
+          "gloss": {
+            "en": "service charges",
+            "es": "cargos por servicio",
+            "ru": "плата за обслуживание"
+          }
+        },
+        "b": {
+          "fr": "caution",
+          "l2": "caution",
+          "en": "deposit",
+          "gloss": {
+            "en": "deposit",
+            "es": "depósito",
+            "ru": "депозит"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-housing-a2-pair-5",
+        "a": {
+          "fr": "annonce",
+          "l2": "annonce",
+          "en": "listing / advert",
+          "gloss": {
+            "en": "listing / advert",
+            "es": "listado / anuncio",
+            "ru": "объявление/объявление"
+          }
+        },
+        "b": {
+          "fr": "visite",
+          "l2": "visite",
+          "en": "viewing",
+          "gloss": {
+            "en": "viewing",
+            "es": "visita",
+            "ru": "просмотр"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-housing-a2-gap-1",
+        "fr": "Je cherche un logement en centre-ville.",
+        "l2": "Je cherche un logement en centre-ville.",
+        "speak": "Je cherche un logement en centre-ville.",
+        "blank": "logement",
+        "en": "housing / accommodation",
+        "gloss": {
+          "en": "housing / accommodation",
+          "es": "vivienda / alojamiento",
+          "ru": "жилье / размещение"
+        }
+      },
+      {
+        "id": "remote-housing-a2-gap-2",
+        "fr": "L’appartement a deux chambres.",
+        "l2": "L’appartement a deux chambres.",
+        "speak": "L’appartement a deux chambres.",
+        "blank": "appartement",
+        "en": "apartment / flat",
+        "gloss": {
+          "en": "apartment / flat",
+          "es": "apartamento / piso",
+          "ru": "квартира / квартира"
+        }
+      },
+      {
+        "id": "remote-housing-a2-gap-3",
+        "fr": "Le loyer est trop élevé.",
+        "l2": "Le loyer est trop élevé.",
+        "speak": "Le loyer est trop élevé.",
+        "blank": "loyer",
+        "en": "rent",
+        "gloss": {
+          "en": "rent",
+          "es": "alquilar",
+          "ru": "арендовать"
+        }
+      },
+      {
+        "id": "remote-housing-a2-gap-4",
+        "fr": "Le propriétaire vient demain.",
+        "l2": "Le propriétaire vient demain.",
+        "speak": "Le propriétaire vient demain.",
+        "blank": "propriétaire",
+        "en": "landlord / owner",
+        "gloss": {
+          "en": "landlord / owner",
+          "es": "propietario / propietario",
+          "ru": "арендодатель/владелец"
+        }
+      },
+      {
+        "id": "remote-housing-a2-gap-5",
+        "fr": "Je suis locataire depuis un an.",
+        "l2": "Je suis locataire depuis un an.",
+        "speak": "Je suis locataire depuis un an.",
+        "blank": "locataire",
+        "en": "tenant",
+        "gloss": {
+          "en": "tenant",
+          "es": "arrendatario",
+          "ru": "жилец"
+        }
+      },
+      {
+        "id": "remote-housing-a2-gap-6",
+        "fr": "Le bail dure un an.",
+        "l2": "Le bail dure un an.",
+        "speak": "Le bail dure un an.",
+        "blank": "bail",
+        "en": "lease",
+        "gloss": {
+          "en": "lease",
+          "es": "alquiler",
+          "ru": "арендовать"
+        }
+      },
+      {
+        "id": "remote-housing-a2-gap-7",
+        "fr": "Les charges comprennent l’eau.",
+        "l2": "Les charges comprennent l’eau.",
+        "speak": "Les charges comprennent l’eau.",
+        "blank": "charges",
+        "en": "service charges",
+        "gloss": {
+          "en": "service charges",
+          "es": "cargos por servicio",
+          "ru": "плата за обслуживание"
+        }
+      },
+      {
+        "id": "remote-housing-a2-gap-8",
+        "fr": "Il faut verser une caution.",
+        "l2": "Il faut verser une caution.",
+        "speak": "Il faut verser une caution.",
+        "blank": "caution",
+        "en": "deposit",
+        "gloss": {
+          "en": "deposit",
+          "es": "depósito",
+          "ru": "депозит"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-housing-a2-ord-1",
+        "fr": "Je cherche un logement en centre-ville.",
+        "l2": "Je cherche un logement en centre-ville.",
+        "en": "housing / accommodation",
+        "gloss": {
+          "en": "housing / accommodation",
+          "es": "vivienda / alojamiento",
+          "ru": "жилье / размещение"
+        },
+        "words": [
+          "Je",
+          "cherche",
+          "un",
+          "logement",
+          "en",
+          "centre-ville."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-ord-2",
+        "fr": "L’appartement a deux chambres.",
+        "l2": "L’appartement a deux chambres.",
+        "en": "apartment / flat",
+        "gloss": {
+          "en": "apartment / flat",
+          "es": "apartamento / piso",
+          "ru": "квартира / квартира"
+        },
+        "words": [
+          "L’appartement",
+          "a",
+          "deux",
+          "chambres."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-ord-3",
+        "fr": "Le loyer est trop élevé.",
+        "l2": "Le loyer est trop élevé.",
+        "en": "rent",
+        "gloss": {
+          "en": "rent",
+          "es": "alquilar",
+          "ru": "арендовать"
+        },
+        "words": [
+          "Le",
+          "loyer",
+          "est",
+          "trop",
+          "élevé."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-ord-4",
+        "fr": "Le propriétaire vient demain.",
+        "l2": "Le propriétaire vient demain.",
+        "en": "landlord / owner",
+        "gloss": {
+          "en": "landlord / owner",
+          "es": "propietario / propietario",
+          "ru": "арендодатель/владелец"
+        },
+        "words": [
+          "Le",
+          "propriétaire",
+          "vient",
+          "demain."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-ord-5",
+        "fr": "Je suis locataire depuis un an.",
+        "l2": "Je suis locataire depuis un an.",
+        "en": "tenant",
+        "gloss": {
+          "en": "tenant",
+          "es": "arrendatario",
+          "ru": "жилец"
+        },
+        "words": [
+          "Je",
+          "suis",
+          "locataire",
+          "depuis",
+          "un",
+          "an."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-ord-6",
+        "fr": "Le bail dure un an.",
+        "l2": "Le bail dure un an.",
+        "en": "lease",
+        "gloss": {
+          "en": "lease",
+          "es": "alquiler",
+          "ru": "арендовать"
+        },
+        "words": [
+          "Le",
+          "bail",
+          "dure",
+          "un",
+          "an."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-ord-7",
+        "fr": "Les charges comprennent l’eau.",
+        "l2": "Les charges comprennent l’eau.",
+        "en": "service charges",
+        "gloss": {
+          "en": "service charges",
+          "es": "cargos por servicio",
+          "ru": "плата за обслуживание"
+        },
+        "words": [
+          "Les",
+          "charges",
+          "comprennent",
+          "l’eau."
+        ]
+      },
+      {
+        "id": "remote-housing-a2-ord-8",
+        "fr": "Il faut verser une caution.",
+        "l2": "Il faut verser une caution.",
+        "en": "deposit",
+        "gloss": {
+          "en": "deposit",
+          "es": "depósito",
+          "ru": "депозит"
+        },
+        "words": [
+          "Il",
+          "faut",
+          "verser",
+          "une",
+          "caution."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-housing-a2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "lɔʒ.mɑ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "logement",
+          "l2": "logement",
+          "en": "housing / accommodation",
+          "gloss": {
+            "en": "housing / accommodation",
+            "es": "vivienda / alojamiento",
+            "ru": "жилье / размещение"
+          },
+          "ipa": "lɔʒ.mɑ̃"
+        },
+        {
+          "fr": "appartement",
+          "l2": "appartement",
+          "en": "apartment / flat",
+          "gloss": {
+            "en": "apartment / flat",
+            "es": "apartamento / piso",
+            "ru": "квартира / квартира"
+          },
+          "ipa": "a.paʁ.tə.mɑ̃"
+        },
+        {
+          "fr": "loyer",
+          "l2": "loyer",
+          "en": "rent",
+          "gloss": {
+            "en": "rent",
+            "es": "alquilar",
+            "ru": "арендовать"
+          },
+          "ipa": "lwa.je"
+        },
+        {
+          "fr": "propriétaire",
+          "l2": "propriétaire",
+          "en": "landlord / owner",
+          "gloss": {
+            "en": "landlord / owner",
+            "es": "propietario / propietario",
+            "ru": "арендодатель/владелец"
+          },
+          "ipa": "pʁɔ.pʁi.je.tɛʁ"
+        },
+        {
+          "fr": "locataire",
+          "l2": "locataire",
+          "en": "tenant",
+          "gloss": {
+            "en": "tenant",
+            "es": "arrendatario",
+            "ru": "жилец"
+          },
+          "ipa": "lɔ.ka.tɛʁ"
+        }
+      ]
+    }
+  ]
 }

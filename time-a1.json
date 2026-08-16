@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "time-a1",
-  "version": 4,
+  "version": 5,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "C’est",
             "Il est",
             "Il a"
-          ]
+          ],
+          "gloss": {
+            "en": "___ eight o’clock.",
+            "es": "___ las ocho.",
+            "ru": "___ восемь часов."
+          },
+          "why": {
+            "fr": "Pour l’heure : « Il est… » (pas C’est).",
+            "en": "For clock time: Il est… (not C’est).",
+            "es": "Para la hora: Il est… (no C’est).",
+            "ru": "Для времени: Il est… (не C’est)."
+          }
         },
         {
           "id": "remote-time-gq-2",
@@ -537,7 +548,18 @@
             "et demie",
             "moins le quart",
             "midi"
-          ]
+          ],
+          "gloss": {
+            "en": "It is two ___.",
+            "es": "Son las dos ___.",
+            "ru": "Сейчас два ___."
+          },
+          "why": {
+            "fr": "Et demie = half past.",
+            "en": "Et demie = half past.",
+            "es": "Et demie = y media.",
+            "ru": "Et demie = половина."
+          }
         },
         {
           "id": "remote-time-gq-3",
@@ -547,13 +569,25 @@
             "midi",
             "minuit",
             "semaine"
-          ]
+          ],
+          "gloss": {
+            "en": "We eat at ___.",
+            "es": "Comemos a ___.",
+            "ru": "Мы едим в ___."
+          },
+          "why": {
+            "fr": "Midi = noon (12:00).",
+            "en": "Midi = noon (12:00).",
+            "es": "Midi = mediodía.",
+            "ru": "Midi = полдень."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Telling the time.",
         "es": "Útil cuando necesitas aplicar: Decir la hora.",
-        "ru": "Полезно, когда вам нужно подать заявку: Указание времени."
+        "ru": "Полезно, когда вам нужно подать заявку: Указание времени.",
+        "fr": "Utile pour appliquer : Dire l’heure."
       }
     },
     {
@@ -606,7 +640,18 @@
             "le",
             "la",
             "l’"
-          ]
+          ],
+          "gloss": {
+            "en": "I work ___ morning.",
+            "es": "Trabajo ___ mañana.",
+            "ru": "Я работаю ___ утром."
+          },
+          "why": {
+            "fr": "Le matin (masculin).",
+            "en": "Le matin (masculine).",
+            "es": "Le matin (masculino).",
+            "ru": "Le matin (мужской род)."
+          }
         },
         {
           "id": "remote-time-gq-5",
@@ -616,7 +661,18 @@
             "le",
             "la",
             "les"
-          ]
+          ],
+          "gloss": {
+            "en": "I sleep ___ night.",
+            "es": "Duermo ___ noche.",
+            "ru": "Я сплю ___ ночью."
+          },
+          "why": {
+            "fr": "La nuit (féminin).",
+            "en": "La nuit (feminine).",
+            "es": "La nuit (femenino).",
+            "ru": "La nuit (женский род)."
+          }
         },
         {
           "id": "remote-time-gq-6",
@@ -626,13 +682,25 @@
             "le",
             "la",
             "l’"
-          ]
+          ],
+          "gloss": {
+            "en": "See you ___ afternoon.",
+            "es": "Nos vemos ___ tarde.",
+            "ru": "Увидимся ___ днём."
+          },
+          "why": {
+            "fr": "L’après-midi (élision devant voyelle).",
+            "en": "L’après-midi (elision before a vowel).",
+            "es": "L’après-midi (elisión ante vocal).",
+            "ru": "L’après-midi (элизия перед гласной)."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Articles with times of day.",
         "es": "Útil cuando necesitas aplicar: Artículos con horas del día.",
-        "ru": "Полезно, когда нужно подать заявку: Артикли с указанием времени суток."
+        "ru": "Полезно, когда нужно подать заявку: Артикли с указанием времени суток.",
+        "fr": "Utile pour appliquer : Le / la devant les moments."
       }
     }
   ],
@@ -851,6 +919,997 @@
         },
         "l2": "J’arrive à midi."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-time-fren-1",
+        "fr": "heure",
+        "en": "hour",
+        "gloss": {
+          "en": "hour",
+          "es": "hora",
+          "ru": "час"
+        },
+        "l2": "heure"
+      },
+      {
+        "id": "remote-time-fren-2",
+        "fr": "minute",
+        "en": "minute",
+        "gloss": {
+          "en": "minute",
+          "es": "minuto",
+          "ru": "минута"
+        },
+        "l2": "minute"
+      },
+      {
+        "id": "remote-time-fren-3",
+        "fr": "montre",
+        "en": "watch",
+        "gloss": {
+          "en": "watch",
+          "es": "mirar",
+          "ru": "смотреть"
+        },
+        "l2": "montre"
+      },
+      {
+        "id": "remote-time-fren-4",
+        "fr": "horloge",
+        "en": "clock",
+        "gloss": {
+          "en": "clock",
+          "es": "reloj",
+          "ru": "часы"
+        },
+        "l2": "horloge"
+      },
+      {
+        "id": "remote-time-fren-5",
+        "fr": "matin",
+        "en": "morning",
+        "gloss": {
+          "en": "morning",
+          "es": "mañana",
+          "ru": "утро"
+        },
+        "l2": "matin"
+      },
+      {
+        "id": "remote-time-fren-6",
+        "fr": "après-midi",
+        "en": "afternoon",
+        "gloss": {
+          "en": "afternoon",
+          "es": "tarde",
+          "ru": "полдень"
+        },
+        "l2": "après-midi"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-time-a1-enl2-1",
+        "fr": "Quelle heure est-il ?",
+        "l2": "Quelle heure est-il ?",
+        "en": "hour / time",
+        "gloss": {
+          "en": "hour / time",
+          "es": "hora / hora",
+          "ru": "час / время"
+        },
+        "prompt": "hour / time",
+        "choices": [
+          "Quelle heure est-il ?",
+          "J’attends cinq minutes.",
+          "Ma montre est cassée."
+        ]
+      },
+      {
+        "id": "remote-time-a1-enl2-2",
+        "fr": "J’attends cinq minutes.",
+        "l2": "J’attends cinq minutes.",
+        "en": "minute",
+        "gloss": {
+          "en": "minute",
+          "es": "minuto",
+          "ru": "минута"
+        },
+        "prompt": "minute",
+        "choices": [
+          "J’attends cinq minutes.",
+          "Quelle heure est-il ?",
+          "Ma montre est cassée."
+        ]
+      },
+      {
+        "id": "remote-time-a1-enl2-3",
+        "fr": "Ma montre est cassée.",
+        "l2": "Ma montre est cassée.",
+        "en": "watch",
+        "gloss": {
+          "en": "watch",
+          "es": "mirar",
+          "ru": "смотреть"
+        },
+        "prompt": "watch",
+        "choices": [
+          "Ma montre est cassée.",
+          "Quelle heure est-il ?",
+          "J’attends cinq minutes."
+        ]
+      },
+      {
+        "id": "remote-time-a1-enl2-4",
+        "fr": "L’horloge est dans le salon.",
+        "l2": "L’horloge est dans le salon.",
+        "en": "clock",
+        "gloss": {
+          "en": "clock",
+          "es": "reloj",
+          "ru": "часы"
+        },
+        "prompt": "clock",
+        "choices": [
+          "L’horloge est dans le salon.",
+          "Quelle heure est-il ?",
+          "J’attends cinq minutes."
+        ]
+      },
+      {
+        "id": "remote-time-a1-enl2-5",
+        "fr": "Je me lève le matin.",
+        "l2": "Je me lève le matin.",
+        "en": "morning",
+        "gloss": {
+          "en": "morning",
+          "es": "mañana",
+          "ru": "утро"
+        },
+        "prompt": "morning",
+        "choices": [
+          "Je me lève le matin.",
+          "Quelle heure est-il ?",
+          "J’attends cinq minutes."
+        ]
+      },
+      {
+        "id": "remote-time-a1-enl2-6",
+        "fr": "On se voit cet après-midi.",
+        "l2": "On se voit cet après-midi.",
+        "en": "afternoon",
+        "gloss": {
+          "en": "afternoon",
+          "es": "tarde",
+          "ru": "полдень"
+        },
+        "prompt": "afternoon",
+        "choices": [
+          "On se voit cet après-midi.",
+          "Quelle heure est-il ?",
+          "J’attends cinq minutes."
+        ]
+      },
+      {
+        "id": "remote-time-a1-enl2-7",
+        "fr": "Je dîne le soir.",
+        "l2": "Je dîne le soir.",
+        "en": "evening",
+        "gloss": {
+          "en": "evening",
+          "es": "noche",
+          "ru": "вечер"
+        },
+        "prompt": "evening",
+        "choices": [
+          "Je dîne le soir.",
+          "Quelle heure est-il ?",
+          "J’attends cinq minutes."
+        ]
+      },
+      {
+        "id": "remote-time-a1-enl2-8",
+        "fr": "La nuit, je dors.",
+        "l2": "La nuit, je dors.",
+        "en": "night",
+        "gloss": {
+          "en": "night",
+          "es": "noche",
+          "ru": "ночь"
+        },
+        "prompt": "night",
+        "choices": [
+          "La nuit, je dors.",
+          "Quelle heure est-il ?",
+          "J’attends cinq minutes."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-time-a1-prm-1",
+        "en": "hour / time",
+        "gloss": {
+          "en": "hour / time",
+          "es": "hora / hora",
+          "ru": "час / время"
+        },
+        "answers": [
+          "heure",
+          "l' heure"
+        ],
+        "target": "l' heure"
+      },
+      {
+        "id": "remote-time-a1-prm-2",
+        "en": "minute",
+        "gloss": {
+          "en": "minute",
+          "es": "minuto",
+          "ru": "минута"
+        },
+        "answers": [
+          "minute",
+          "la minute"
+        ],
+        "target": "la minute"
+      },
+      {
+        "id": "remote-time-a1-prm-3",
+        "en": "watch",
+        "gloss": {
+          "en": "watch",
+          "es": "mirar",
+          "ru": "смотреть"
+        },
+        "answers": [
+          "montre",
+          "la montre"
+        ],
+        "target": "la montre"
+      },
+      {
+        "id": "remote-time-a1-prm-4",
+        "en": "clock",
+        "gloss": {
+          "en": "clock",
+          "es": "reloj",
+          "ru": "часы"
+        },
+        "answers": [
+          "horloge",
+          "l' horloge"
+        ],
+        "target": "l' horloge"
+      },
+      {
+        "id": "remote-time-a1-prm-5",
+        "en": "morning",
+        "gloss": {
+          "en": "morning",
+          "es": "mañana",
+          "ru": "утро"
+        },
+        "answers": [
+          "matin",
+          "le matin"
+        ],
+        "target": "le matin"
+      },
+      {
+        "id": "remote-time-a1-prm-6",
+        "en": "afternoon",
+        "gloss": {
+          "en": "afternoon",
+          "es": "tarde",
+          "ru": "полдень"
+        },
+        "answers": [
+          "après-midi",
+          "l' après-midi"
+        ],
+        "target": "l' après-midi"
+      },
+      {
+        "id": "remote-time-a1-prm-7",
+        "en": "evening",
+        "gloss": {
+          "en": "evening",
+          "es": "noche",
+          "ru": "вечер"
+        },
+        "answers": [
+          "soir",
+          "le soir"
+        ],
+        "target": "le soir"
+      },
+      {
+        "id": "remote-time-a1-prm-8",
+        "en": "night",
+        "gloss": {
+          "en": "night",
+          "es": "noche",
+          "ru": "ночь"
+        },
+        "answers": [
+          "nuit",
+          "la nuit"
+        ],
+        "target": "la nuit"
+      },
+      {
+        "id": "remote-time-a1-prm-9",
+        "en": "day",
+        "gloss": {
+          "en": "day",
+          "es": "día",
+          "ru": "день"
+        },
+        "answers": [
+          "jour",
+          "le jour"
+        ],
+        "target": "le jour"
+      },
+      {
+        "id": "remote-time-a1-prm-10",
+        "en": "week",
+        "gloss": {
+          "en": "week",
+          "es": "semana",
+          "ru": "неделя"
+        },
+        "answers": [
+          "semaine",
+          "la semaine"
+        ],
+        "target": "la semaine"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-time-a1-sign-1",
+        "fr": "heure",
+        "l2": "heure",
+        "en": "hour / time",
+        "gloss": {
+          "en": "hour / time",
+          "es": "hora / hora",
+          "ru": "час / время"
+        },
+        "choices": [
+          "hour / time",
+          "minute",
+          "watch"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-2",
+        "fr": "minute",
+        "l2": "minute",
+        "en": "minute",
+        "gloss": {
+          "en": "minute",
+          "es": "minuto",
+          "ru": "минута"
+        },
+        "choices": [
+          "minute",
+          "hour / time",
+          "watch"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-3",
+        "fr": "montre",
+        "l2": "montre",
+        "en": "watch",
+        "gloss": {
+          "en": "watch",
+          "es": "mirar",
+          "ru": "смотреть"
+        },
+        "choices": [
+          "watch",
+          "hour / time",
+          "minute"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-4",
+        "fr": "horloge",
+        "l2": "horloge",
+        "en": "clock",
+        "gloss": {
+          "en": "clock",
+          "es": "reloj",
+          "ru": "часы"
+        },
+        "choices": [
+          "clock",
+          "hour / time",
+          "minute"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-5",
+        "fr": "matin",
+        "l2": "matin",
+        "en": "morning",
+        "gloss": {
+          "en": "morning",
+          "es": "mañana",
+          "ru": "утро"
+        },
+        "choices": [
+          "morning",
+          "hour / time",
+          "minute"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-6",
+        "fr": "après-midi",
+        "l2": "après-midi",
+        "en": "afternoon",
+        "gloss": {
+          "en": "afternoon",
+          "es": "tarde",
+          "ru": "полдень"
+        },
+        "choices": [
+          "afternoon",
+          "hour / time",
+          "minute"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-7",
+        "fr": "soir",
+        "l2": "soir",
+        "en": "evening",
+        "gloss": {
+          "en": "evening",
+          "es": "noche",
+          "ru": "вечер"
+        },
+        "choices": [
+          "evening",
+          "hour / time",
+          "minute"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-8",
+        "fr": "nuit",
+        "l2": "nuit",
+        "en": "night",
+        "gloss": {
+          "en": "night",
+          "es": "noche",
+          "ru": "ночь"
+        },
+        "choices": [
+          "night",
+          "hour / time",
+          "minute"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-9",
+        "fr": "jour",
+        "l2": "jour",
+        "en": "day",
+        "gloss": {
+          "en": "day",
+          "es": "día",
+          "ru": "день"
+        },
+        "choices": [
+          "day",
+          "hour / time",
+          "minute"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-10",
+        "fr": "semaine",
+        "l2": "semaine",
+        "en": "week",
+        "gloss": {
+          "en": "week",
+          "es": "semana",
+          "ru": "неделя"
+        },
+        "choices": [
+          "week",
+          "hour / time",
+          "minute"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-11",
+        "fr": "mois",
+        "l2": "mois",
+        "en": "month",
+        "gloss": {
+          "en": "month",
+          "es": "mes",
+          "ru": "месяц"
+        },
+        "choices": [
+          "month",
+          "hour / time",
+          "minute"
+        ]
+      },
+      {
+        "id": "remote-time-a1-sign-12",
+        "fr": "année",
+        "l2": "année",
+        "en": "year",
+        "gloss": {
+          "en": "year",
+          "es": "año",
+          "ru": "год"
+        },
+        "choices": [
+          "year",
+          "hour / time",
+          "minute"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-time-a1-pair-1",
+        "a": {
+          "fr": "heure",
+          "l2": "heure",
+          "en": "hour / time",
+          "gloss": {
+            "en": "hour / time",
+            "es": "hora / hora",
+            "ru": "час / время"
+          }
+        },
+        "b": {
+          "fr": "minute",
+          "l2": "minute",
+          "en": "minute",
+          "gloss": {
+            "en": "minute",
+            "es": "minuto",
+            "ru": "минута"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-time-a1-pair-2",
+        "a": {
+          "fr": "montre",
+          "l2": "montre",
+          "en": "watch",
+          "gloss": {
+            "en": "watch",
+            "es": "mirar",
+            "ru": "смотреть"
+          }
+        },
+        "b": {
+          "fr": "horloge",
+          "l2": "horloge",
+          "en": "clock",
+          "gloss": {
+            "en": "clock",
+            "es": "reloj",
+            "ru": "часы"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-time-a1-pair-3",
+        "a": {
+          "fr": "matin",
+          "l2": "matin",
+          "en": "morning",
+          "gloss": {
+            "en": "morning",
+            "es": "mañana",
+            "ru": "утро"
+          }
+        },
+        "b": {
+          "fr": "après-midi",
+          "l2": "après-midi",
+          "en": "afternoon",
+          "gloss": {
+            "en": "afternoon",
+            "es": "tarde",
+            "ru": "полдень"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-time-a1-pair-4",
+        "a": {
+          "fr": "soir",
+          "l2": "soir",
+          "en": "evening",
+          "gloss": {
+            "en": "evening",
+            "es": "noche",
+            "ru": "вечер"
+          }
+        },
+        "b": {
+          "fr": "nuit",
+          "l2": "nuit",
+          "en": "night",
+          "gloss": {
+            "en": "night",
+            "es": "noche",
+            "ru": "ночь"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-time-a1-pair-5",
+        "a": {
+          "fr": "jour",
+          "l2": "jour",
+          "en": "day",
+          "gloss": {
+            "en": "day",
+            "es": "día",
+            "ru": "день"
+          }
+        },
+        "b": {
+          "fr": "semaine",
+          "l2": "semaine",
+          "en": "week",
+          "gloss": {
+            "en": "week",
+            "es": "semana",
+            "ru": "неделя"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-time-a1-gap-1",
+        "fr": "Quelle heure est-il ?",
+        "l2": "Quelle heure est-il ?",
+        "speak": "Quelle heure est-il ?",
+        "blank": "heure",
+        "en": "hour / time",
+        "gloss": {
+          "en": "hour / time",
+          "es": "hora / hora",
+          "ru": "час / время"
+        }
+      },
+      {
+        "id": "remote-time-a1-gap-2",
+        "fr": "J’attends cinq minutes.",
+        "l2": "J’attends cinq minutes.",
+        "speak": "J’attends cinq minutes.",
+        "blank": "minute",
+        "en": "minute",
+        "gloss": {
+          "en": "minute",
+          "es": "minuto",
+          "ru": "минута"
+        }
+      },
+      {
+        "id": "remote-time-a1-gap-3",
+        "fr": "Ma montre est cassée.",
+        "l2": "Ma montre est cassée.",
+        "speak": "Ma montre est cassée.",
+        "blank": "montre",
+        "en": "watch",
+        "gloss": {
+          "en": "watch",
+          "es": "mirar",
+          "ru": "смотреть"
+        }
+      },
+      {
+        "id": "remote-time-a1-gap-4",
+        "fr": "L’horloge est dans le salon.",
+        "l2": "L’horloge est dans le salon.",
+        "speak": "L’horloge est dans le salon.",
+        "blank": "horloge",
+        "en": "clock",
+        "gloss": {
+          "en": "clock",
+          "es": "reloj",
+          "ru": "часы"
+        }
+      },
+      {
+        "id": "remote-time-a1-gap-5",
+        "fr": "Je me lève le matin.",
+        "l2": "Je me lève le matin.",
+        "speak": "Je me lève le matin.",
+        "blank": "matin",
+        "en": "morning",
+        "gloss": {
+          "en": "morning",
+          "es": "mañana",
+          "ru": "утро"
+        }
+      },
+      {
+        "id": "remote-time-a1-gap-6",
+        "fr": "On se voit cet après-midi.",
+        "l2": "On se voit cet après-midi.",
+        "speak": "On se voit cet après-midi.",
+        "blank": "après-midi",
+        "en": "afternoon",
+        "gloss": {
+          "en": "afternoon",
+          "es": "tarde",
+          "ru": "полдень"
+        }
+      },
+      {
+        "id": "remote-time-a1-gap-7",
+        "fr": "Je dîne le soir.",
+        "l2": "Je dîne le soir.",
+        "speak": "Je dîne le soir.",
+        "blank": "soir",
+        "en": "evening",
+        "gloss": {
+          "en": "evening",
+          "es": "noche",
+          "ru": "вечер"
+        }
+      },
+      {
+        "id": "remote-time-a1-gap-8",
+        "fr": "La nuit, je dors.",
+        "l2": "La nuit, je dors.",
+        "speak": "La nuit, je dors.",
+        "blank": "nuit",
+        "en": "night",
+        "gloss": {
+          "en": "night",
+          "es": "noche",
+          "ru": "ночь"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-time-a1-ord-1",
+        "fr": "Quelle heure est-il ?",
+        "l2": "Quelle heure est-il ?",
+        "en": "hour / time",
+        "gloss": {
+          "en": "hour / time",
+          "es": "hora / hora",
+          "ru": "час / время"
+        },
+        "words": [
+          "Quelle",
+          "heure",
+          "est-il",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-time-a1-ord-2",
+        "fr": "J’attends cinq minutes.",
+        "l2": "J’attends cinq minutes.",
+        "en": "minute",
+        "gloss": {
+          "en": "minute",
+          "es": "minuto",
+          "ru": "минута"
+        },
+        "words": [
+          "J’attends",
+          "cinq",
+          "minutes."
+        ]
+      },
+      {
+        "id": "remote-time-a1-ord-3",
+        "fr": "Ma montre est cassée.",
+        "l2": "Ma montre est cassée.",
+        "en": "watch",
+        "gloss": {
+          "en": "watch",
+          "es": "mirar",
+          "ru": "смотреть"
+        },
+        "words": [
+          "Ma",
+          "montre",
+          "est",
+          "cassée."
+        ]
+      },
+      {
+        "id": "remote-time-a1-ord-4",
+        "fr": "L’horloge est dans le salon.",
+        "l2": "L’horloge est dans le salon.",
+        "en": "clock",
+        "gloss": {
+          "en": "clock",
+          "es": "reloj",
+          "ru": "часы"
+        },
+        "words": [
+          "L’horloge",
+          "est",
+          "dans",
+          "le",
+          "salon."
+        ]
+      },
+      {
+        "id": "remote-time-a1-ord-5",
+        "fr": "Je me lève le matin.",
+        "l2": "Je me lève le matin.",
+        "en": "morning",
+        "gloss": {
+          "en": "morning",
+          "es": "mañana",
+          "ru": "утро"
+        },
+        "words": [
+          "Je",
+          "me",
+          "lève",
+          "le",
+          "matin."
+        ]
+      },
+      {
+        "id": "remote-time-a1-ord-6",
+        "fr": "On se voit cet après-midi.",
+        "l2": "On se voit cet après-midi.",
+        "en": "afternoon",
+        "gloss": {
+          "en": "afternoon",
+          "es": "tarde",
+          "ru": "полдень"
+        },
+        "words": [
+          "On",
+          "se",
+          "voit",
+          "cet",
+          "après-midi."
+        ]
+      },
+      {
+        "id": "remote-time-a1-ord-7",
+        "fr": "Je dîne le soir.",
+        "l2": "Je dîne le soir.",
+        "en": "evening",
+        "gloss": {
+          "en": "evening",
+          "es": "noche",
+          "ru": "вечер"
+        },
+        "words": [
+          "Je",
+          "dîne",
+          "le",
+          "soir."
+        ]
+      },
+      {
+        "id": "remote-time-a1-ord-8",
+        "fr": "La nuit, je dors.",
+        "l2": "La nuit, je dors.",
+        "en": "night",
+        "gloss": {
+          "en": "night",
+          "es": "noche",
+          "ru": "ночь"
+        },
+        "words": [
+          "La",
+          "nuit,",
+          "je",
+          "dors."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-time-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "œʁ",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "heure",
+          "l2": "heure",
+          "en": "hour / time",
+          "gloss": {
+            "en": "hour / time",
+            "es": "hora / hora",
+            "ru": "час / время"
+          },
+          "ipa": "œʁ"
+        },
+        {
+          "fr": "minute",
+          "l2": "minute",
+          "en": "minute",
+          "gloss": {
+            "en": "minute",
+            "es": "minuto",
+            "ru": "минута"
+          },
+          "ipa": "mi.nyt"
+        },
+        {
+          "fr": "montre",
+          "l2": "montre",
+          "en": "watch",
+          "gloss": {
+            "en": "watch",
+            "es": "mirar",
+            "ru": "смотреть"
+          },
+          "ipa": "mɔ̃tʁ"
+        },
+        {
+          "fr": "horloge",
+          "l2": "horloge",
+          "en": "clock",
+          "gloss": {
+            "en": "clock",
+            "es": "reloj",
+            "ru": "часы"
+          },
+          "ipa": "ɔʁ.lɔʒ"
+        },
+        {
+          "fr": "matin",
+          "l2": "matin",
+          "en": "morning",
+          "gloss": {
+            "en": "morning",
+            "es": "mañana",
+            "ru": "утро"
+          },
+          "ipa": "ma.tɛ̃"
+        }
+      ]
+    }
+  ]
 }

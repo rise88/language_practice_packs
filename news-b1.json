@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "news-b1",
-  "version": 4,
+  "version": 5,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "D’après",
             "Parce que",
             "Pendant"
-          ]
+          ],
+          "gloss": {
+            "en": "___ the newspaper, the strike continues.",
+            "es": "___ el periódico, la huelga continúa.",
+            "ru": "___ газета, забастовка продолжается."
+          },
+          "why": {
+            "fr": "Réponse : « D’après ».",
+            "en": "Answer: “D’après”.",
+            "es": "Respuesta: « D’après ».",
+            "ru": "Ответ: « D’après »."
+          }
         },
         {
           "id": "remote-news-gq-2",
@@ -537,7 +548,18 @@
             "que",
             "qui",
             "dont"
-          ]
+          ],
+          "gloss": {
+            "en": "We say ___ it will last.",
+            "es": "Decimos ___ que durará.",
+            "ru": "Мы говорим ___ , что это продлится."
+          },
+          "why": {
+            "fr": "Réponse : « que ».",
+            "en": "Answer: “que”.",
+            "es": "Respuesta: « que ».",
+            "ru": "Ответ: « que »."
+          }
         },
         {
           "id": "remote-news-gq-3",
@@ -547,13 +569,25 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "I don't think this ___ true.",
+            "es": "No creo que esto ___ sea cierto.",
+            "ru": "Я не думаю, что это ___ правда."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Reporting what people say.",
         "es": "Útil cuando necesita presentar una solicitud: informar lo que dice la gente.",
-        "ru": "Полезно, когда вам нужно подать заявку: Отчет о том, что говорят люди."
+        "ru": "Полезно, когда вам нужно подать заявку: Отчет о том, что говорят люди.",
+        "fr": "Utile pour appliquer : On dit que / d’après."
       }
     },
     {
@@ -606,7 +640,18 @@
             "dure",
             "durera",
             "a duré"
-          ]
+          ],
+          "gloss": {
+            "en": "The strike ___ until Wednesday.",
+            "es": "La huelga ___ hasta el miércoles.",
+            "ru": "Забастовка ___ до среды."
+          },
+          "why": {
+            "fr": "Réponse : « durera ».",
+            "en": "Answer: “durera”.",
+            "es": "Respuesta: « durera ».",
+            "ru": "Ответ: « durera »."
+          }
         },
         {
           "id": "remote-news-gq-5",
@@ -616,13 +661,25 @@
             "a",
             "aura",
             "avait"
-          ]
+          ],
+          "gloss": {
+            "en": "The election ___ takes place on Sunday.",
+            "es": "La elección ___ tendrá lugar el domingo.",
+            "ru": "Выборы ___ состоятся в воскресенье."
+          },
+          "why": {
+            "fr": "Réponse : « aura ».",
+            "en": "Answer: “aura”.",
+            "es": "Respuesta: « aura ».",
+            "ru": "Ответ: « aura »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Futur simple in the news.",
         "es": "Útil cuando necesitas postularte: Futur simple en las noticias.",
-        "ru": "Полезно, когда вам нужно подать заявку: Futur simple в новостях."
+        "ru": "Полезно, когда вам нужно подать заявку: Futur simple в новостях.",
+        "fr": "Utile pour appliquer : Le futur simple pour l’actualité."
       }
     }
   ],
@@ -847,6 +904,1015 @@
         },
         "l2": "La grève va durer jusqu’à mercredi."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-news-fren-1",
+        "fr": "actualité",
+        "en": "current events",
+        "gloss": {
+          "en": "current events",
+          "es": "eventos actuales",
+          "ru": "текущие события"
+        },
+        "l2": "actualité"
+      },
+      {
+        "id": "remote-news-fren-2",
+        "fr": "titre",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "l2": "titre"
+      },
+      {
+        "id": "remote-news-fren-3",
+        "fr": "journal",
+        "en": "newspaper",
+        "gloss": {
+          "en": "newspaper",
+          "es": "periódico",
+          "ru": "газета"
+        },
+        "l2": "journal"
+      },
+      {
+        "id": "remote-news-fren-4",
+        "fr": "article",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        },
+        "l2": "article"
+      },
+      {
+        "id": "remote-news-fren-5",
+        "fr": "source",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "l2": "source"
+      },
+      {
+        "id": "remote-news-fren-6",
+        "fr": "journaliste",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        },
+        "l2": "journaliste"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-news-b1-enl2-1",
+        "fr": "Je suis l’actualité le matin à la radio.",
+        "l2": "Je suis l’actualité le matin à la radio.",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        },
+        "prompt": "current events / news",
+        "choices": [
+          "Je suis l’actualité le matin à la radio.",
+          "Le titre de l’article est trompeur.",
+          "Le journal de vingt heures commence."
+        ]
+      },
+      {
+        "id": "remote-news-b1-enl2-2",
+        "fr": "Le titre de l’article est trompeur.",
+        "l2": "Le titre de l’article est trompeur.",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "prompt": "headline",
+        "choices": [
+          "Le titre de l’article est trompeur.",
+          "Je suis l’actualité le matin à la radio.",
+          "Le journal de vingt heures commence."
+        ]
+      },
+      {
+        "id": "remote-news-b1-enl2-3",
+        "fr": "Le journal de vingt heures commence.",
+        "l2": "Le journal de vingt heures commence.",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        },
+        "prompt": "newspaper / news programme",
+        "choices": [
+          "Le journal de vingt heures commence.",
+          "Je suis l’actualité le matin à la radio.",
+          "Le titre de l’article est trompeur."
+        ]
+      },
+      {
+        "id": "remote-news-b1-enl2-4",
+        "fr": "Cet article présente plusieurs points de vue.",
+        "l2": "Cet article présente plusieurs points de vue.",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        },
+        "prompt": "article",
+        "choices": [
+          "Cet article présente plusieurs points de vue.",
+          "Je suis l’actualité le matin à la radio.",
+          "Le titre de l’article est trompeur."
+        ]
+      },
+      {
+        "id": "remote-news-b1-enl2-5",
+        "fr": "Il faut vérifier la source avant de partager.",
+        "l2": "Il faut vérifier la source avant de partager.",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "prompt": "source",
+        "choices": [
+          "Il faut vérifier la source avant de partager.",
+          "Je suis l’actualité le matin à la radio.",
+          "Le titre de l’article est trompeur."
+        ]
+      },
+      {
+        "id": "remote-news-b1-enl2-6",
+        "fr": "La journaliste pose une question précise.",
+        "l2": "La journaliste pose une question précise.",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        },
+        "prompt": "journalist",
+        "choices": [
+          "La journaliste pose une question précise.",
+          "Je suis l’actualité le matin à la radio.",
+          "Le titre de l’article est trompeur."
+        ]
+      },
+      {
+        "id": "remote-news-b1-enl2-7",
+        "fr": "L’interview a duré vingt minutes.",
+        "l2": "L’interview a duré vingt minutes.",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        },
+        "prompt": "interview",
+        "choices": [
+          "L’interview a duré vingt minutes.",
+          "Je suis l’actualité le matin à la radio.",
+          "Le titre de l’article est trompeur."
+        ]
+      },
+      {
+        "id": "remote-news-b1-enl2-8",
+        "fr": "Le débat est devenu trop agressif.",
+        "l2": "Le débat est devenu trop agressif.",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        },
+        "prompt": "debate",
+        "choices": [
+          "Le débat est devenu trop agressif.",
+          "Je suis l’actualité le matin à la radio.",
+          "Le titre de l’article est trompeur."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-news-b1-prm-1",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        },
+        "answers": [
+          "actualité",
+          "l' actualité"
+        ],
+        "target": "l' actualité"
+      },
+      {
+        "id": "remote-news-b1-prm-2",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "answers": [
+          "titre",
+          "le titre"
+        ],
+        "target": "le titre"
+      },
+      {
+        "id": "remote-news-b1-prm-3",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        },
+        "answers": [
+          "journal",
+          "le journal"
+        ],
+        "target": "le journal"
+      },
+      {
+        "id": "remote-news-b1-prm-4",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        },
+        "answers": [
+          "article",
+          "l' article"
+        ],
+        "target": "l' article"
+      },
+      {
+        "id": "remote-news-b1-prm-5",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "answers": [
+          "source",
+          "la source"
+        ],
+        "target": "la source"
+      },
+      {
+        "id": "remote-news-b1-prm-6",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        },
+        "answers": [
+          "journaliste",
+          "le journaliste"
+        ],
+        "target": "le journaliste"
+      },
+      {
+        "id": "remote-news-b1-prm-7",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        },
+        "answers": [
+          "interview",
+          "l' interview"
+        ],
+        "target": "l' interview"
+      },
+      {
+        "id": "remote-news-b1-prm-8",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        },
+        "answers": [
+          "débat",
+          "le débat"
+        ],
+        "target": "le débat"
+      },
+      {
+        "id": "remote-news-b1-prm-9",
+        "en": "rumour",
+        "gloss": {
+          "en": "rumour",
+          "es": "rumor",
+          "ru": "слух"
+        },
+        "answers": [
+          "rumeur",
+          "la rumeur"
+        ],
+        "target": "la rumeur"
+      },
+      {
+        "id": "remote-news-b1-prm-10",
+        "en": "fake news",
+        "gloss": {
+          "en": "fake news",
+          "es": "noticias falsas",
+          "ru": "фейковые новости"
+        },
+        "answers": [
+          "fake news",
+          "les fake news"
+        ],
+        "target": "les fake news"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-news-b1-sign-1",
+        "fr": "actualité",
+        "l2": "actualité",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        },
+        "choices": [
+          "current events / news",
+          "headline",
+          "newspaper / news programme"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-2",
+        "fr": "titre",
+        "l2": "titre",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "choices": [
+          "headline",
+          "current events / news",
+          "newspaper / news programme"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-3",
+        "fr": "journal",
+        "l2": "journal",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        },
+        "choices": [
+          "newspaper / news programme",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-4",
+        "fr": "article",
+        "l2": "article",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        },
+        "choices": [
+          "article",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-5",
+        "fr": "source",
+        "l2": "source",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "choices": [
+          "source",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-6",
+        "fr": "journaliste",
+        "l2": "journaliste",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        },
+        "choices": [
+          "journalist",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-7",
+        "fr": "interview",
+        "l2": "interview",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        },
+        "choices": [
+          "interview",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-8",
+        "fr": "débat",
+        "l2": "débat",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        },
+        "choices": [
+          "debate",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-9",
+        "fr": "rumeur",
+        "l2": "rumeur",
+        "en": "rumour",
+        "gloss": {
+          "en": "rumour",
+          "es": "rumor",
+          "ru": "слух"
+        },
+        "choices": [
+          "rumour",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-10",
+        "fr": "fake news",
+        "l2": "fake news",
+        "en": "fake news",
+        "gloss": {
+          "en": "fake news",
+          "es": "noticias falsas",
+          "ru": "фейковые новости"
+        },
+        "choices": [
+          "fake news",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-11",
+        "fr": "direct",
+        "l2": "direct",
+        "en": "live (broadcast)",
+        "gloss": {
+          "en": "live (broadcast)",
+          "es": "transmisión en vivo)",
+          "ru": "прямой эфир (трансляция)"
+        },
+        "choices": [
+          "live (broadcast)",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-news-b1-sign-12",
+        "fr": "une",
+        "l2": "une",
+        "en": "front page",
+        "gloss": {
+          "en": "front page",
+          "es": "página delantera",
+          "ru": "первая страница"
+        },
+        "choices": [
+          "front page",
+          "current events / news",
+          "headline"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-news-b1-pair-1",
+        "a": {
+          "fr": "actualité",
+          "l2": "actualité",
+          "en": "current events / news",
+          "gloss": {
+            "en": "current events / news",
+            "es": "eventos actuales / noticias",
+            "ru": "текущие события/новости"
+          }
+        },
+        "b": {
+          "fr": "titre",
+          "l2": "titre",
+          "en": "headline",
+          "gloss": {
+            "en": "headline",
+            "es": "titular",
+            "ru": "заголовок"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-news-b1-pair-2",
+        "a": {
+          "fr": "journal",
+          "l2": "journal",
+          "en": "newspaper / news programme",
+          "gloss": {
+            "en": "newspaper / news programme",
+            "es": "periódico/programa de noticias",
+            "ru": "газета/информационная программа"
+          }
+        },
+        "b": {
+          "fr": "article",
+          "l2": "article",
+          "en": "article",
+          "gloss": {
+            "en": "article",
+            "es": "artículo",
+            "ru": "статья"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-news-b1-pair-3",
+        "a": {
+          "fr": "source",
+          "l2": "source",
+          "en": "source",
+          "gloss": {
+            "en": "source",
+            "es": "fuente",
+            "ru": "источник"
+          }
+        },
+        "b": {
+          "fr": "journaliste",
+          "l2": "journaliste",
+          "en": "journalist",
+          "gloss": {
+            "en": "journalist",
+            "es": "periodista",
+            "ru": "журналист"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-news-b1-pair-4",
+        "a": {
+          "fr": "interview",
+          "l2": "interview",
+          "en": "interview",
+          "gloss": {
+            "en": "interview",
+            "es": "entrevista",
+            "ru": "интервью"
+          }
+        },
+        "b": {
+          "fr": "débat",
+          "l2": "débat",
+          "en": "debate",
+          "gloss": {
+            "en": "debate",
+            "es": "debate",
+            "ru": "дебаты"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-news-b1-pair-5",
+        "a": {
+          "fr": "rumeur",
+          "l2": "rumeur",
+          "en": "rumour",
+          "gloss": {
+            "en": "rumour",
+            "es": "rumor",
+            "ru": "слух"
+          }
+        },
+        "b": {
+          "fr": "fake news",
+          "l2": "fake news",
+          "en": "fake news",
+          "gloss": {
+            "en": "fake news",
+            "es": "noticias falsas",
+            "ru": "фейковые новости"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-news-b1-gap-1",
+        "fr": "Je suis l’actualité le matin à la radio.",
+        "l2": "Je suis l’actualité le matin à la radio.",
+        "speak": "Je suis l’actualité le matin à la radio.",
+        "blank": "actualité",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        }
+      },
+      {
+        "id": "remote-news-b1-gap-2",
+        "fr": "Le titre de l’article est trompeur.",
+        "l2": "Le titre de l’article est trompeur.",
+        "speak": "Le titre de l’article est trompeur.",
+        "blank": "titre",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        }
+      },
+      {
+        "id": "remote-news-b1-gap-3",
+        "fr": "Le journal de vingt heures commence.",
+        "l2": "Le journal de vingt heures commence.",
+        "speak": "Le journal de vingt heures commence.",
+        "blank": "journal",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        }
+      },
+      {
+        "id": "remote-news-b1-gap-4",
+        "fr": "Cet article présente plusieurs points de vue.",
+        "l2": "Cet article présente plusieurs points de vue.",
+        "speak": "Cet article présente plusieurs points de vue.",
+        "blank": "article",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        }
+      },
+      {
+        "id": "remote-news-b1-gap-5",
+        "fr": "Il faut vérifier la source avant de partager.",
+        "l2": "Il faut vérifier la source avant de partager.",
+        "speak": "Il faut vérifier la source avant de partager.",
+        "blank": "source",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
+      },
+      {
+        "id": "remote-news-b1-gap-6",
+        "fr": "La journaliste pose une question précise.",
+        "l2": "La journaliste pose une question précise.",
+        "speak": "La journaliste pose une question précise.",
+        "blank": "journaliste",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        }
+      },
+      {
+        "id": "remote-news-b1-gap-7",
+        "fr": "L’interview a duré vingt minutes.",
+        "l2": "L’interview a duré vingt minutes.",
+        "speak": "L’interview a duré vingt minutes.",
+        "blank": "interview",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        }
+      },
+      {
+        "id": "remote-news-b1-gap-8",
+        "fr": "Le débat est devenu trop agressif.",
+        "l2": "Le débat est devenu trop agressif.",
+        "speak": "Le débat est devenu trop agressif.",
+        "blank": "débat",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-news-b1-ord-1",
+        "fr": "Je suis l’actualité le matin à la radio.",
+        "l2": "Je suis l’actualité le matin à la radio.",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        },
+        "words": [
+          "Je",
+          "suis",
+          "l’actualité",
+          "le",
+          "matin",
+          "à",
+          "la",
+          "radio."
+        ]
+      },
+      {
+        "id": "remote-news-b1-ord-2",
+        "fr": "Le titre de l’article est trompeur.",
+        "l2": "Le titre de l’article est trompeur.",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "words": [
+          "Le",
+          "titre",
+          "de",
+          "l’article",
+          "est",
+          "trompeur."
+        ]
+      },
+      {
+        "id": "remote-news-b1-ord-3",
+        "fr": "Le journal de vingt heures commence.",
+        "l2": "Le journal de vingt heures commence.",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        },
+        "words": [
+          "Le",
+          "journal",
+          "de",
+          "vingt",
+          "heures",
+          "commence."
+        ]
+      },
+      {
+        "id": "remote-news-b1-ord-4",
+        "fr": "Cet article présente plusieurs points de vue.",
+        "l2": "Cet article présente plusieurs points de vue.",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        },
+        "words": [
+          "Cet",
+          "article",
+          "présente",
+          "plusieurs",
+          "points",
+          "de",
+          "vue."
+        ]
+      },
+      {
+        "id": "remote-news-b1-ord-5",
+        "fr": "Il faut vérifier la source avant de partager.",
+        "l2": "Il faut vérifier la source avant de partager.",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "words": [
+          "Il",
+          "faut",
+          "vérifier",
+          "la",
+          "source",
+          "avant",
+          "de",
+          "partager."
+        ]
+      },
+      {
+        "id": "remote-news-b1-ord-6",
+        "fr": "La journaliste pose une question précise.",
+        "l2": "La journaliste pose une question précise.",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        },
+        "words": [
+          "La",
+          "journaliste",
+          "pose",
+          "une",
+          "question",
+          "précise."
+        ]
+      },
+      {
+        "id": "remote-news-b1-ord-7",
+        "fr": "L’interview a duré vingt minutes.",
+        "l2": "L’interview a duré vingt minutes.",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        },
+        "words": [
+          "L’interview",
+          "a",
+          "duré",
+          "vingt",
+          "minutes."
+        ]
+      },
+      {
+        "id": "remote-news-b1-ord-8",
+        "fr": "Le débat est devenu trop agressif.",
+        "l2": "Le débat est devenu trop agressif.",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        },
+        "words": [
+          "Le",
+          "débat",
+          "est",
+          "devenu",
+          "trop",
+          "agressif."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-news-b1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ak.tɥa.li.te",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "actualité",
+          "l2": "actualité",
+          "en": "current events / news",
+          "gloss": {
+            "en": "current events / news",
+            "es": "eventos actuales / noticias",
+            "ru": "текущие события/новости"
+          },
+          "ipa": "ak.tɥa.li.te"
+        },
+        {
+          "fr": "titre",
+          "l2": "titre",
+          "en": "headline",
+          "gloss": {
+            "en": "headline",
+            "es": "titular",
+            "ru": "заголовок"
+          },
+          "ipa": "titʁ"
+        },
+        {
+          "fr": "journal",
+          "l2": "journal",
+          "en": "newspaper / news programme",
+          "gloss": {
+            "en": "newspaper / news programme",
+            "es": "periódico/programa de noticias",
+            "ru": "газета/информационная программа"
+          },
+          "ipa": "ʒuʁ.nal"
+        },
+        {
+          "fr": "article",
+          "l2": "article",
+          "en": "article",
+          "gloss": {
+            "en": "article",
+            "es": "artículo",
+            "ru": "статья"
+          },
+          "ipa": "aʁ.tikl"
+        },
+        {
+          "fr": "source",
+          "l2": "source",
+          "en": "source",
+          "gloss": {
+            "en": "source",
+            "es": "fuente",
+            "ru": "источник"
+          },
+          "ipa": "suʁs"
+        }
+      ]
+    }
+  ]
 }

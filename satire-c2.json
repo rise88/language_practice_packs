@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "satire-c2",
-  "version": 4,
+  "version": 5,
   "level": "c2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "burlesque",
             "soutenu homogène",
             "technique"
-          ]
+          ],
+          "gloss": {
+            "en": "The clash “The monarch, this guy, tripped” is of the ___ register.",
+            "es": "El choque “El monarca, este tipo, tropezó” es del registro ___ .",
+            "ru": "Le heurt « Le monarque, ce type-là, piqua un croc-en-jambe » est de registre ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « burlesque ».",
+            "en": "Answer: “burlesque”.",
+            "es": "Respuesta: « burlesque ».",
+            "ru": "Ответ: « burlesque »."
+          }
         },
         {
           "id": "remote-satire-gq-2",
@@ -537,7 +548,18 @@
             "héroï-comique",
             "pamphlet",
             "dithyrambe"
-          ]
+          ],
+          "gloss": {
+            "en": "“An oyster quarrel ensued” falls under ___ .",
+            "es": "“Se produjo una pelea de ostras” corresponde a ___ .",
+            "ru": "«Завязалась устричная ссора» подпадает под ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « héroï-comique ».",
+            "en": "Answer: “héroï-comique”.",
+            "es": "Respuesta: « héroï-comique ».",
+            "ru": "Ответ: « héroï-comique »."
+          }
         },
         {
           "id": "remote-satire-gq-3",
@@ -547,13 +569,25 @@
             "un basculement de registre",
             "un ne explétif",
             "une hypotaxe"
-          ]
+          ],
+          "gloss": {
+            "en": "The familiarity in a solemn peroration produces ___ .",
+            "es": "La familiaridad en una peroración solemne produce ___ .",
+            "ru": "Фамильярность в торжественной речи производит ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « un basculement de registre ».",
+            "en": "Answer: “un basculement de registre”.",
+            "es": "Respuesta: « un basculement de registre ».",
+            "ru": "Ответ: « un basculement de registre »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Register switching.",
         "es": "Útil cuando necesita solicitar: Cambio de registro.",
-        "ru": "Полезно, когда нужно применить: Переключение регистров."
+        "ru": "Полезно, когда нужно применить: Переключение регистров.",
+        "fr": "Utile pour appliquer : Le basculement de registre."
       }
     },
     {
@@ -606,7 +640,18 @@
             "une litote",
             "une restriction ne… que",
             "une hyperbole"
-          ]
+          ],
+          "gloss": {
+            "en": "“It’s not bad” functions here as ___ .",
+            "es": "“No está mal” funciona aquí como ___ .",
+            "ru": "«Неплохо» здесь выступает как ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « une litote ».",
+            "en": "Answer: “une litote”.",
+            "es": "Respuesta: « une litote ».",
+            "ru": "Ответ: « une litote »."
+          }
         },
         {
           "id": "remote-satire-gq-5",
@@ -616,13 +661,25 @@
             "une restriction",
             "une litote",
             "une antiphrase"
-          ]
+          ],
+          "gloss": {
+            "en": "“It’s just nonsense” expresses ___ .",
+            "es": "“Es simplemente una tontería” expresa ___ .",
+            "ru": "«Это просто ерунда» выражает ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « une restriction ».",
+            "en": "Answer: “une restriction”.",
+            "es": "Respuesta: « une restriction ».",
+            "ru": "Ответ: « une restriction »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Ne… que and litotes.",
         "es": "Útil cuando necesitas aplicar: Ne… que y litotes.",
-        "ru": "Полезно, когда нужно применить: Ne… que и литоты."
+        "ru": "Полезно, когда нужно применить: Ne… que и литоты.",
+        "fr": "Utile pour appliquer : Ne… que et la litote."
       }
     }
   ],
@@ -863,6 +920,1080 @@
         },
         "l2": "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-satire-fren-1",
+        "fr": "méiose",
+        "en": "understatement",
+        "gloss": {
+          "en": "understatement",
+          "es": "atenuación",
+          "ru": "преуменьшение"
+        },
+        "l2": "méiose"
+      },
+      {
+        "id": "remote-satire-fren-2",
+        "fr": "parodie",
+        "en": "parody",
+        "gloss": {
+          "en": "parody",
+          "es": "parodia",
+          "ru": "пародия"
+        },
+        "l2": "parodie"
+      },
+      {
+        "id": "remote-satire-fren-3",
+        "fr": "invective",
+        "en": "invective",
+        "gloss": {
+          "en": "invective",
+          "es": "invectiva",
+          "ru": "оскорбление"
+        },
+        "l2": "invective"
+      },
+      {
+        "id": "remote-satire-fren-4",
+        "fr": "sarcasme",
+        "en": "sarcasm",
+        "gloss": {
+          "en": "sarcasm",
+          "es": "sarcasmo",
+          "ru": "сарказм"
+        },
+        "l2": "sarcasme"
+      },
+      {
+        "id": "remote-satire-fren-5",
+        "fr": "pastiche",
+        "en": "pastiche",
+        "gloss": {
+          "en": "pastiche",
+          "es": "pastiche",
+          "ru": "стилизация"
+        },
+        "l2": "pastiche"
+      },
+      {
+        "id": "remote-satire-fren-6",
+        "fr": "antiphrase",
+        "en": "antiphrasis",
+        "gloss": {
+          "en": "antiphrasis",
+          "es": "antífrasis",
+          "ru": "антифразис"
+        },
+        "l2": "antiphrase"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-satire-c2-enl2-1",
+        "fr": "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+        "l2": "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+        "en": "understatement / meiosis",
+        "gloss": {
+          "en": "understatement / meiosis",
+          "es": "eufemismo / meiosis",
+          "ru": "преуменьшение / мейоз"
+        },
+        "prompt": "understatement / meiosis",
+        "choices": [
+          "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+          "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
+          "L’invective, brutale, renonce à l’ironie pour frapper nommément."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-enl2-2",
+        "fr": "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
+        "l2": "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
+        "en": "parody",
+        "gloss": {
+          "en": "parody",
+          "es": "parodia",
+          "ru": "пародия"
+        },
+        "prompt": "parody",
+        "choices": [
+          "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
+          "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+          "L’invective, brutale, renonce à l’ironie pour frapper nommément."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-enl2-3",
+        "fr": "L’invective, brutale, renonce à l’ironie pour frapper nommément.",
+        "l2": "L’invective, brutale, renonce à l’ironie pour frapper nommément.",
+        "en": "invective",
+        "gloss": {
+          "en": "invective",
+          "es": "invectiva",
+          "ru": "оскорбление"
+        },
+        "prompt": "invective",
+        "choices": [
+          "L’invective, brutale, renonce à l’ironie pour frapper nommément.",
+          "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+          "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-enl2-4",
+        "fr": "Le sarcasme, plus acéré que l’ironie, vise la personne autant que la thèse.",
+        "l2": "Le sarcasme, plus acéré que l’ironie, vise la personne autant que la thèse.",
+        "en": "sarcasm",
+        "gloss": {
+          "en": "sarcasm",
+          "es": "sarcasmo",
+          "ru": "сарказм"
+        },
+        "prompt": "sarcasm",
+        "choices": [
+          "Le sarcasme, plus acéré que l’ironie, vise la personne autant que la thèse.",
+          "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+          "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-enl2-5",
+        "fr": "Le pastiche imite sans nécessairement railler : hommage et charge peuvent y cohabiter.",
+        "l2": "Le pastiche imite sans nécessairement railler : hommage et charge peuvent y cohabiter.",
+        "en": "pastiche",
+        "gloss": {
+          "en": "pastiche",
+          "es": "pastiche",
+          "ru": "стилизация"
+        },
+        "prompt": "pastiche",
+        "choices": [
+          "Le pastiche imite sans nécessairement railler : hommage et charge peuvent y cohabiter.",
+          "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+          "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-enl2-6",
+        "fr": "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper.",
+        "l2": "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper.",
+        "en": "antiphrasis",
+        "gloss": {
+          "en": "antiphrasis",
+          "es": "antífrasis",
+          "ru": "антифразис"
+        },
+        "prompt": "antiphrasis",
+        "choices": [
+          "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper.",
+          "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+          "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-enl2-7",
+        "fr": "Le burlesque travesti le noble en trivial, ou le trivial en noble, par un écart de registre.",
+        "l2": "Le burlesque travesti le noble en trivial, ou le trivial en noble, par un écart de registre.",
+        "en": "burlesque",
+        "gloss": {
+          "en": "burlesque",
+          "es": "burlesco",
+          "ru": "бурлеск"
+        },
+        "prompt": "burlesque",
+        "choices": [
+          "Le burlesque travesti le noble en trivial, ou le trivial en noble, par un écart de registre.",
+          "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+          "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-enl2-8",
+        "fr": "Le pamphlet, genre bref et vengeur, ne vise pas l’amendement : il vise la chute.",
+        "l2": "Le pamphlet, genre bref et vengeur, ne vise pas l’amendement : il vise la chute.",
+        "en": "lampoon / pamphlet",
+        "gloss": {
+          "en": "lampoon / pamphlet",
+          "es": "satirizar / panfleto",
+          "ru": "пасквиль / брошюра"
+        },
+        "prompt": "lampoon / pamphlet",
+        "choices": [
+          "Le pamphlet, genre bref et vengeur, ne vise pas l’amendement : il vise la chute.",
+          "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+          "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-satire-c2-prm-1",
+        "en": "understatement / meiosis",
+        "gloss": {
+          "en": "understatement / meiosis",
+          "es": "eufemismo / meiosis",
+          "ru": "преуменьшение / мейоз"
+        },
+        "answers": [
+          "méiose",
+          "la méiose"
+        ],
+        "target": "la méiose"
+      },
+      {
+        "id": "remote-satire-c2-prm-2",
+        "en": "parody",
+        "gloss": {
+          "en": "parody",
+          "es": "parodia",
+          "ru": "пародия"
+        },
+        "answers": [
+          "parodie",
+          "la parodie"
+        ],
+        "target": "la parodie"
+      },
+      {
+        "id": "remote-satire-c2-prm-3",
+        "en": "invective",
+        "gloss": {
+          "en": "invective",
+          "es": "invectiva",
+          "ru": "оскорбление"
+        },
+        "answers": [
+          "invective",
+          "l' invective"
+        ],
+        "target": "l' invective"
+      },
+      {
+        "id": "remote-satire-c2-prm-4",
+        "en": "sarcasm",
+        "gloss": {
+          "en": "sarcasm",
+          "es": "sarcasmo",
+          "ru": "сарказм"
+        },
+        "answers": [
+          "sarcasme",
+          "le sarcasme"
+        ],
+        "target": "le sarcasme"
+      },
+      {
+        "id": "remote-satire-c2-prm-5",
+        "en": "pastiche",
+        "gloss": {
+          "en": "pastiche",
+          "es": "pastiche",
+          "ru": "стилизация"
+        },
+        "answers": [
+          "pastiche",
+          "le pastiche"
+        ],
+        "target": "le pastiche"
+      },
+      {
+        "id": "remote-satire-c2-prm-6",
+        "en": "antiphrasis",
+        "gloss": {
+          "en": "antiphrasis",
+          "es": "antífrasis",
+          "ru": "антифразис"
+        },
+        "answers": [
+          "antiphrase",
+          "l' antiphrase"
+        ],
+        "target": "l' antiphrase"
+      },
+      {
+        "id": "remote-satire-c2-prm-7",
+        "en": "burlesque",
+        "gloss": {
+          "en": "burlesque",
+          "es": "burlesco",
+          "ru": "бурлеск"
+        },
+        "answers": [
+          "burlesque",
+          "le burlesque"
+        ],
+        "target": "le burlesque"
+      },
+      {
+        "id": "remote-satire-c2-prm-8",
+        "en": "lampoon / pamphlet",
+        "gloss": {
+          "en": "lampoon / pamphlet",
+          "es": "satirizar / panfleto",
+          "ru": "пасквиль / брошюра"
+        },
+        "answers": [
+          "pamphlet",
+          "le pamphlet"
+        ],
+        "target": "le pamphlet"
+      },
+      {
+        "id": "remote-satire-c2-prm-9",
+        "en": "caricature / lampoon",
+        "gloss": {
+          "en": "caricature / lampoon",
+          "es": "caricatura / satirismo",
+          "ru": "карикатура / пасквиль"
+        },
+        "answers": [
+          "charge",
+          "la charge"
+        ],
+        "target": "la charge"
+      },
+      {
+        "id": "remote-satire-c2-prm-10",
+        "en": "travesty",
+        "gloss": {
+          "en": "travesty",
+          "es": "parodia",
+          "ru": "пародия"
+        },
+        "answers": [
+          "travestissement",
+          "le travestissement"
+        ],
+        "target": "le travestissement"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-satire-c2-sign-1",
+        "fr": "méiose",
+        "l2": "méiose",
+        "en": "understatement / meiosis",
+        "gloss": {
+          "en": "understatement / meiosis",
+          "es": "eufemismo / meiosis",
+          "ru": "преуменьшение / мейоз"
+        },
+        "choices": [
+          "understatement / meiosis",
+          "parody",
+          "invective"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-2",
+        "fr": "parodie",
+        "l2": "parodie",
+        "en": "parody",
+        "gloss": {
+          "en": "parody",
+          "es": "parodia",
+          "ru": "пародия"
+        },
+        "choices": [
+          "parody",
+          "understatement / meiosis",
+          "invective"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-3",
+        "fr": "invective",
+        "l2": "invective",
+        "en": "invective",
+        "gloss": {
+          "en": "invective",
+          "es": "invectiva",
+          "ru": "оскорбление"
+        },
+        "choices": [
+          "invective",
+          "understatement / meiosis",
+          "parody"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-4",
+        "fr": "sarcasme",
+        "l2": "sarcasme",
+        "en": "sarcasm",
+        "gloss": {
+          "en": "sarcasm",
+          "es": "sarcasmo",
+          "ru": "сарказм"
+        },
+        "choices": [
+          "sarcasm",
+          "understatement / meiosis",
+          "parody"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-5",
+        "fr": "pastiche",
+        "l2": "pastiche",
+        "en": "pastiche",
+        "gloss": {
+          "en": "pastiche",
+          "es": "pastiche",
+          "ru": "стилизация"
+        },
+        "choices": [
+          "pastiche",
+          "understatement / meiosis",
+          "parody"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-6",
+        "fr": "antiphrase",
+        "l2": "antiphrase",
+        "en": "antiphrasis",
+        "gloss": {
+          "en": "antiphrasis",
+          "es": "antífrasis",
+          "ru": "антифразис"
+        },
+        "choices": [
+          "antiphrasis",
+          "understatement / meiosis",
+          "parody"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-7",
+        "fr": "burlesque",
+        "l2": "burlesque",
+        "en": "burlesque",
+        "gloss": {
+          "en": "burlesque",
+          "es": "burlesco",
+          "ru": "бурлеск"
+        },
+        "choices": [
+          "burlesque",
+          "understatement / meiosis",
+          "parody"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-8",
+        "fr": "pamphlet",
+        "l2": "pamphlet",
+        "en": "lampoon / pamphlet",
+        "gloss": {
+          "en": "lampoon / pamphlet",
+          "es": "satirizar / panfleto",
+          "ru": "пасквиль / брошюра"
+        },
+        "choices": [
+          "lampoon / pamphlet",
+          "understatement / meiosis",
+          "parody"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-9",
+        "fr": "charge",
+        "l2": "charge",
+        "en": "caricature / lampoon",
+        "gloss": {
+          "en": "caricature / lampoon",
+          "es": "caricatura / satirismo",
+          "ru": "карикатура / пасквиль"
+        },
+        "choices": [
+          "caricature / lampoon",
+          "understatement / meiosis",
+          "parody"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-10",
+        "fr": "travestissement",
+        "l2": "travestissement",
+        "en": "travesty",
+        "gloss": {
+          "en": "travesty",
+          "es": "parodia",
+          "ru": "пародия"
+        },
+        "choices": [
+          "travesty",
+          "understatement / meiosis",
+          "parody"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-11",
+        "fr": "persiflage",
+        "l2": "persiflage",
+        "en": "persiflage / mockery",
+        "gloss": {
+          "en": "persiflage / mockery",
+          "es": "persiflaje / burla",
+          "ru": "персифляж / издевательство"
+        },
+        "choices": [
+          "persiflage / mockery",
+          "understatement / meiosis",
+          "parody"
+        ]
+      },
+      {
+        "id": "remote-satire-c2-sign-12",
+        "fr": "raillerie",
+        "l2": "raillerie",
+        "en": "raillery",
+        "gloss": {
+          "en": "raillery",
+          "es": "burlas",
+          "ru": "насмешка"
+        },
+        "choices": [
+          "raillery",
+          "understatement / meiosis",
+          "parody"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-satire-c2-pair-1",
+        "a": {
+          "fr": "méiose",
+          "l2": "méiose",
+          "en": "understatement / meiosis",
+          "gloss": {
+            "en": "understatement / meiosis",
+            "es": "eufemismo / meiosis",
+            "ru": "преуменьшение / мейоз"
+          }
+        },
+        "b": {
+          "fr": "parodie",
+          "l2": "parodie",
+          "en": "parody",
+          "gloss": {
+            "en": "parody",
+            "es": "parodia",
+            "ru": "пародия"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-satire-c2-pair-2",
+        "a": {
+          "fr": "invective",
+          "l2": "invective",
+          "en": "invective",
+          "gloss": {
+            "en": "invective",
+            "es": "invectiva",
+            "ru": "оскорбление"
+          }
+        },
+        "b": {
+          "fr": "sarcasme",
+          "l2": "sarcasme",
+          "en": "sarcasm",
+          "gloss": {
+            "en": "sarcasm",
+            "es": "sarcasmo",
+            "ru": "сарказм"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-satire-c2-pair-3",
+        "a": {
+          "fr": "pastiche",
+          "l2": "pastiche",
+          "en": "pastiche",
+          "gloss": {
+            "en": "pastiche",
+            "es": "pastiche",
+            "ru": "стилизация"
+          }
+        },
+        "b": {
+          "fr": "antiphrase",
+          "l2": "antiphrase",
+          "en": "antiphrasis",
+          "gloss": {
+            "en": "antiphrasis",
+            "es": "antífrasis",
+            "ru": "антифразис"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-satire-c2-pair-4",
+        "a": {
+          "fr": "burlesque",
+          "l2": "burlesque",
+          "en": "burlesque",
+          "gloss": {
+            "en": "burlesque",
+            "es": "burlesco",
+            "ru": "бурлеск"
+          }
+        },
+        "b": {
+          "fr": "pamphlet",
+          "l2": "pamphlet",
+          "en": "lampoon / pamphlet",
+          "gloss": {
+            "en": "lampoon / pamphlet",
+            "es": "satirizar / panfleto",
+            "ru": "пасквиль / брошюра"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-satire-c2-pair-5",
+        "a": {
+          "fr": "charge",
+          "l2": "charge",
+          "en": "caricature / lampoon",
+          "gloss": {
+            "en": "caricature / lampoon",
+            "es": "caricatura / satirismo",
+            "ru": "карикатура / пасквиль"
+          }
+        },
+        "b": {
+          "fr": "travestissement",
+          "l2": "travestissement",
+          "en": "travesty",
+          "gloss": {
+            "en": "travesty",
+            "es": "parodia",
+            "ru": "пародия"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-satire-c2-gap-1",
+        "fr": "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+        "l2": "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+        "speak": "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+        "blank": "méiose",
+        "en": "understatement / meiosis",
+        "gloss": {
+          "en": "understatement / meiosis",
+          "es": "eufemismo / meiosis",
+          "ru": "преуменьшение / мейоз"
+        }
+      },
+      {
+        "id": "remote-satire-c2-gap-2",
+        "fr": "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
+        "l2": "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
+        "speak": "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
+        "blank": "parodie",
+        "en": "parody",
+        "gloss": {
+          "en": "parody",
+          "es": "parodia",
+          "ru": "пародия"
+        }
+      },
+      {
+        "id": "remote-satire-c2-gap-3",
+        "fr": "L’invective, brutale, renonce à l’ironie pour frapper nommément.",
+        "l2": "L’invective, brutale, renonce à l’ironie pour frapper nommément.",
+        "speak": "L’invective, brutale, renonce à l’ironie pour frapper nommément.",
+        "blank": "invective",
+        "en": "invective",
+        "gloss": {
+          "en": "invective",
+          "es": "invectiva",
+          "ru": "оскорбление"
+        }
+      },
+      {
+        "id": "remote-satire-c2-gap-4",
+        "fr": "Le sarcasme, plus acéré que l’ironie, vise la personne autant que la thèse.",
+        "l2": "Le sarcasme, plus acéré que l’ironie, vise la personne autant que la thèse.",
+        "speak": "Le sarcasme, plus acéré que l’ironie, vise la personne autant que la thèse.",
+        "blank": "sarcasme",
+        "en": "sarcasm",
+        "gloss": {
+          "en": "sarcasm",
+          "es": "sarcasmo",
+          "ru": "сарказм"
+        }
+      },
+      {
+        "id": "remote-satire-c2-gap-5",
+        "fr": "Le pastiche imite sans nécessairement railler : hommage et charge peuvent y cohabiter.",
+        "l2": "Le pastiche imite sans nécessairement railler : hommage et charge peuvent y cohabiter.",
+        "speak": "Le pastiche imite sans nécessairement railler : hommage et charge peuvent y cohabiter.",
+        "blank": "pastiche",
+        "en": "pastiche",
+        "gloss": {
+          "en": "pastiche",
+          "es": "pastiche",
+          "ru": "стилизация"
+        }
+      },
+      {
+        "id": "remote-satire-c2-gap-6",
+        "fr": "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper.",
+        "l2": "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper.",
+        "speak": "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper.",
+        "blank": "antiphrase",
+        "en": "antiphrasis",
+        "gloss": {
+          "en": "antiphrasis",
+          "es": "antífrasis",
+          "ru": "антифразис"
+        }
+      },
+      {
+        "id": "remote-satire-c2-gap-7",
+        "fr": "Le burlesque travesti le noble en trivial, ou le trivial en noble, par un écart de registre.",
+        "l2": "Le burlesque travesti le noble en trivial, ou le trivial en noble, par un écart de registre.",
+        "speak": "Le burlesque travesti le noble en trivial, ou le trivial en noble, par un écart de registre.",
+        "blank": "burlesque",
+        "en": "burlesque",
+        "gloss": {
+          "en": "burlesque",
+          "es": "burlesco",
+          "ru": "бурлеск"
+        }
+      },
+      {
+        "id": "remote-satire-c2-gap-8",
+        "fr": "Le pamphlet, genre bref et vengeur, ne vise pas l’amendement : il vise la chute.",
+        "l2": "Le pamphlet, genre bref et vengeur, ne vise pas l’amendement : il vise la chute.",
+        "speak": "Le pamphlet, genre bref et vengeur, ne vise pas l’amendement : il vise la chute.",
+        "blank": "pamphlet",
+        "en": "lampoon / pamphlet",
+        "gloss": {
+          "en": "lampoon / pamphlet",
+          "es": "satirizar / panfleto",
+          "ru": "пасквиль / брошюра"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-satire-c2-ord-1",
+        "fr": "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+        "l2": "La méiose, en disant moins, en fait entendre davantage : « ce n’est pas mal » pour un chef-d’œuvre.",
+        "en": "understatement / meiosis",
+        "gloss": {
+          "en": "understatement / meiosis",
+          "es": "eufemismo / meiosis",
+          "ru": "преуменьшение / мейоз"
+        },
+        "words": [
+          "La",
+          "méiose,",
+          "en",
+          "disant",
+          "moins,",
+          "en",
+          "fait",
+          "entendre",
+          "davantage",
+          ":",
+          "«",
+          "ce",
+          "n’est",
+          "pas",
+          "mal",
+          "»",
+          "pour",
+          "un",
+          "chef-d’œuvre."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-ord-2",
+        "fr": "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
+        "l2": "La parodie imite pour dégonfler : elle emprunte le style afin d’en exhiber le ridicule.",
+        "en": "parody",
+        "gloss": {
+          "en": "parody",
+          "es": "parodia",
+          "ru": "пародия"
+        },
+        "words": [
+          "La",
+          "parodie",
+          "imite",
+          "pour",
+          "dégonfler",
+          ":",
+          "elle",
+          "emprunte",
+          "le",
+          "style",
+          "afin",
+          "d’en",
+          "exhiber",
+          "le",
+          "ridicule."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-ord-3",
+        "fr": "L’invective, brutale, renonce à l’ironie pour frapper nommément.",
+        "l2": "L’invective, brutale, renonce à l’ironie pour frapper nommément.",
+        "en": "invective",
+        "gloss": {
+          "en": "invective",
+          "es": "invectiva",
+          "ru": "оскорбление"
+        },
+        "words": [
+          "L’invective,",
+          "brutale,",
+          "renonce",
+          "à",
+          "l’ironie",
+          "pour",
+          "frapper",
+          "nommément."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-ord-4",
+        "fr": "Le sarcasme, plus acéré que l’ironie, vise la personne autant que la thèse.",
+        "l2": "Le sarcasme, plus acéré que l’ironie, vise la personne autant que la thèse.",
+        "en": "sarcasm",
+        "gloss": {
+          "en": "sarcasm",
+          "es": "sarcasmo",
+          "ru": "сарказм"
+        },
+        "words": [
+          "Le",
+          "sarcasme,",
+          "plus",
+          "acéré",
+          "que",
+          "l’ironie,",
+          "vise",
+          "la",
+          "personne",
+          "autant",
+          "que",
+          "la",
+          "thèse."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-ord-5",
+        "fr": "Le pastiche imite sans nécessairement railler : hommage et charge peuvent y cohabiter.",
+        "l2": "Le pastiche imite sans nécessairement railler : hommage et charge peuvent y cohabiter.",
+        "en": "pastiche",
+        "gloss": {
+          "en": "pastiche",
+          "es": "pastiche",
+          "ru": "стилизация"
+        },
+        "words": [
+          "Le",
+          "pastiche",
+          "imite",
+          "sans",
+          "nécessairement",
+          "railler",
+          ":",
+          "hommage",
+          "et",
+          "charge",
+          "peuvent",
+          "y",
+          "cohabiter."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-ord-6",
+        "fr": "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper.",
+        "l2": "L’antiphrase dit le contraire de ce qu’elle veut faire entendre, sur un ton trop appuyé pour tromper.",
+        "en": "antiphrasis",
+        "gloss": {
+          "en": "antiphrasis",
+          "es": "antífrasis",
+          "ru": "антифразис"
+        },
+        "words": [
+          "L’antiphrase",
+          "dit",
+          "le",
+          "contraire",
+          "de",
+          "ce",
+          "qu’elle",
+          "veut",
+          "faire",
+          "entendre,",
+          "sur",
+          "un",
+          "ton",
+          "trop",
+          "appuyé",
+          "pour",
+          "tromper."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-ord-7",
+        "fr": "Le burlesque travesti le noble en trivial, ou le trivial en noble, par un écart de registre.",
+        "l2": "Le burlesque travesti le noble en trivial, ou le trivial en noble, par un écart de registre.",
+        "en": "burlesque",
+        "gloss": {
+          "en": "burlesque",
+          "es": "burlesco",
+          "ru": "бурлеск"
+        },
+        "words": [
+          "Le",
+          "burlesque",
+          "travesti",
+          "le",
+          "noble",
+          "en",
+          "trivial,",
+          "ou",
+          "le",
+          "trivial",
+          "en",
+          "noble,",
+          "par",
+          "un",
+          "écart",
+          "de",
+          "registre."
+        ]
+      },
+      {
+        "id": "remote-satire-c2-ord-8",
+        "fr": "Le pamphlet, genre bref et vengeur, ne vise pas l’amendement : il vise la chute.",
+        "l2": "Le pamphlet, genre bref et vengeur, ne vise pas l’amendement : il vise la chute.",
+        "en": "lampoon / pamphlet",
+        "gloss": {
+          "en": "lampoon / pamphlet",
+          "es": "satirizar / panfleto",
+          "ru": "пасквиль / брошюра"
+        },
+        "words": [
+          "Le",
+          "pamphlet,",
+          "genre",
+          "bref",
+          "et",
+          "vengeur,",
+          "ne",
+          "vise",
+          "pas",
+          "l’amendement",
+          ":",
+          "il",
+          "vise",
+          "la",
+          "chute."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-satire-c2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "me.joz",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "méiose",
+          "l2": "méiose",
+          "en": "understatement / meiosis",
+          "gloss": {
+            "en": "understatement / meiosis",
+            "es": "eufemismo / meiosis",
+            "ru": "преуменьшение / мейоз"
+          },
+          "ipa": "me.joz"
+        },
+        {
+          "fr": "parodie",
+          "l2": "parodie",
+          "en": "parody",
+          "gloss": {
+            "en": "parody",
+            "es": "parodia",
+            "ru": "пародия"
+          },
+          "ipa": "pa.ʁɔ.di"
+        },
+        {
+          "fr": "invective",
+          "l2": "invective",
+          "en": "invective",
+          "gloss": {
+            "en": "invective",
+            "es": "invectiva",
+            "ru": "оскорбление"
+          },
+          "ipa": "ɛ̃.vɛk.tiv"
+        },
+        {
+          "fr": "sarcasme",
+          "l2": "sarcasme",
+          "en": "sarcasm",
+          "gloss": {
+            "en": "sarcasm",
+            "es": "sarcasmo",
+            "ru": "сарказм"
+          },
+          "ipa": "saʁ.kasm"
+        },
+        {
+          "fr": "pastiche",
+          "l2": "pastiche",
+          "en": "pastiche",
+          "gloss": {
+            "en": "pastiche",
+            "es": "pastiche",
+            "ru": "стилизация"
+          },
+          "ipa": "pas.tiʃ"
+        }
+      ]
+    }
+  ]
 }

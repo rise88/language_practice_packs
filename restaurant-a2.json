@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "restaurant-a2",
-  "version": 4,
+  "version": 5,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "Je suis",
             "Je voudrais",
             "J’ai"
-          ]
+          ],
+          "gloss": {
+            "en": "___ the dish of the day, please.",
+            "es": "___ el plato del día, por favor.",
+            "ru": "___ блюдо дня, пожалуйста."
+          },
+          "why": {
+            "fr": "Réponse : « Je voudrais ».",
+            "en": "Answer: “Je voudrais”.",
+            "es": "Respuesta: « Je voudrais ».",
+            "ru": "Ответ: « Je voudrais »."
+          }
         },
         {
           "id": "remote-restaurant-gq-2",
@@ -537,7 +548,18 @@
             "Je prends",
             "Puis-je",
             "Je mange"
-          ]
+          ],
+          "gloss": {
+            "en": "___ reserve a table for this evening?",
+            "es": "___ ¿reservar una mesa para esta noche?",
+            "ru": "___ зарезервировать столик на этот вечер?"
+          },
+          "why": {
+            "fr": "Réponse : « Puis-je ».",
+            "en": "Answer: “Puis-je”.",
+            "es": "Respuesta: « Puis-je ».",
+            "ru": "Ответ: « Puis-je »."
+          }
         },
         {
           "id": "remote-restaurant-gq-3",
@@ -547,13 +569,25 @@
             "prends",
             "voudrais",
             "suis"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ the salad as a starter.",
+            "es": "Yo ___ la ensalada como entrante.",
+            "ru": "Я ___ салат в качестве закуски."
+          },
+          "why": {
+            "fr": "Réponse : « prends ».",
+            "en": "Answer: “prends”.",
+            "es": "Respuesta: « prends ».",
+            "ru": "Ответ: « prends »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Polite ordering.",
         "es": "Útil cuando necesita presentar una solicitud: pedidos educados.",
-        "ru": "Полезно, когда вам нужно подать заявку: Вежливый заказ."
+        "ru": "Полезно, когда вам нужно подать заявку: Вежливый заказ.",
+        "fr": "Utile pour appliquer : Je voudrais / Je prends."
       }
     },
     {
@@ -606,7 +640,18 @@
             "en",
             "comme",
             "de"
-          ]
+          ],
+          "gloss": {
+            "en": "I take the salad ___ starter.",
+            "es": "Tomo la ensalada ___ entrante.",
+            "ru": "Я беру салат ___ закуску."
+          },
+          "why": {
+            "fr": "Réponse : « en ».",
+            "en": "Answer: “en”.",
+            "es": "Respuesta: « en ».",
+            "ru": "Ответ: « en »."
+          }
         },
         {
           "id": "remote-restaurant-gq-5",
@@ -616,13 +661,25 @@
             "en",
             "comme",
             "de"
-          ]
+          ],
+          "gloss": {
+            "en": "What dish do you recommend ___ main course?",
+            "es": "¿Qué plato me recomiendas ___ plato principal?",
+            "ru": "Какое блюдо вы порекомендуете ___ основному блюду?"
+          },
+          "why": {
+            "fr": "Réponse : « comme ».",
+            "en": "Answer: “comme”.",
+            "es": "Respuesta: « comme ».",
+            "ru": "Ответ: « comme »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: En / comme for courses.",
         "es": "Útil cuando necesita postularse: En / comme para cursos.",
-        "ru": "Полезно, когда вам нужно подать заявку: En/comme на курсы."
+        "ru": "Полезно, когда вам нужно подать заявку: En/comme на курсы.",
+        "fr": "Utile pour appliquer : En / comme pour les repas."
       }
     }
   ],
@@ -869,6 +926,815 @@
         },
         "l2": "fermé"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-restaurant-fren-1",
+        "fr": "menu",
+        "en": "menu",
+        "gloss": {
+          "en": "menu",
+          "es": "menú",
+          "ru": "меню"
+        },
+        "l2": "menu"
+      },
+      {
+        "id": "remote-restaurant-fren-2",
+        "fr": "entrée",
+        "en": "starter",
+        "gloss": {
+          "en": "starter",
+          "es": "motor de arranque",
+          "ru": "стартер"
+        },
+        "l2": "entrée"
+      },
+      {
+        "id": "remote-restaurant-fren-3",
+        "fr": "addition",
+        "en": "bill",
+        "gloss": {
+          "en": "bill",
+          "es": "factura",
+          "ru": "счет"
+        },
+        "l2": "addition"
+      },
+      {
+        "id": "remote-restaurant-fren-4",
+        "fr": "réservation",
+        "en": "reservation",
+        "gloss": {
+          "en": "reservation",
+          "es": "reserva",
+          "ru": "бронирование"
+        },
+        "l2": "réservation"
+      },
+      {
+        "id": "remote-restaurant-fren-5",
+        "fr": "spécialité",
+        "en": "specialty",
+        "gloss": {
+          "en": "specialty",
+          "es": "especialidad",
+          "ru": "специальность"
+        },
+        "l2": "spécialité"
+      },
+      {
+        "id": "remote-restaurant-fren-6",
+        "fr": "serveur",
+        "en": "waiter",
+        "gloss": {
+          "en": "waiter",
+          "es": "mesero",
+          "ru": "официант"
+        },
+        "l2": "serveur"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-restaurant-a2-enl2-1",
+        "fr": "Ce restaurant est très populaire.",
+        "l2": "Ce restaurant est très populaire.",
+        "en": "restaurant",
+        "gloss": {
+          "en": "restaurant",
+          "es": "restaurante",
+          "ru": "ресторан"
+        },
+        "prompt": "restaurant",
+        "choices": [
+          "Ce restaurant est très populaire.",
+          "Le serveur prend notre commande.",
+          "La serveuse apporte les plats."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-enl2-2",
+        "fr": "Le serveur prend notre commande.",
+        "l2": "Le serveur prend notre commande.",
+        "en": "waiter",
+        "gloss": {
+          "en": "waiter",
+          "es": "mesero",
+          "ru": "официант"
+        },
+        "prompt": "waiter",
+        "choices": [
+          "Le serveur prend notre commande.",
+          "Ce restaurant est très populaire.",
+          "La serveuse apporte les plats."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-enl2-3",
+        "fr": "La serveuse apporte les plats.",
+        "l2": "La serveuse apporte les plats.",
+        "en": "waitress",
+        "gloss": {
+          "en": "waitress",
+          "es": "camarera",
+          "ru": "официантка"
+        },
+        "prompt": "waitress",
+        "choices": [
+          "La serveuse apporte les plats.",
+          "Ce restaurant est très populaire.",
+          "Le serveur prend notre commande."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-enl2-4",
+        "fr": "Puis-je voir le menu, s’il vous plaît ?",
+        "l2": "Puis-je voir le menu, s’il vous plaît ?",
+        "en": "menu",
+        "gloss": {
+          "en": "menu",
+          "es": "menú",
+          "ru": "меню"
+        },
+        "prompt": "menu",
+        "choices": [
+          "Puis-je voir le menu, s’il vous plaît ?",
+          "Ce restaurant est très populaire.",
+          "Le serveur prend notre commande."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-enl2-5",
+        "fr": "La carte des vins est sur la table.",
+        "l2": "La carte des vins est sur la table.",
+        "en": "menu / wine list",
+        "gloss": {
+          "en": "menu / wine list",
+          "es": "menú/carta de vinos",
+          "ru": "меню/винная карта"
+        },
+        "prompt": "menu / wine list",
+        "choices": [
+          "La carte des vins est sur la table.",
+          "Ce restaurant est très populaire.",
+          "Le serveur prend notre commande."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-enl2-6",
+        "fr": "Je prends une salade en entrée.",
+        "l2": "Je prends une salade en entrée.",
+        "en": "starter / appetizer",
+        "gloss": {
+          "en": "starter / appetizer",
+          "es": "entrante/aperitivo",
+          "ru": "закуска/закуска"
+        },
+        "prompt": "starter / appetizer",
+        "choices": [
+          "Je prends une salade en entrée.",
+          "Ce restaurant est très populaire.",
+          "Le serveur prend notre commande."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-enl2-7",
+        "fr": "Quel plat recommandez-vous ?",
+        "l2": "Quel plat recommandez-vous ?",
+        "en": "main course / dish",
+        "gloss": {
+          "en": "main course / dish",
+          "es": "plato principal/plato",
+          "ru": "основное блюдо/блюдо"
+        },
+        "prompt": "main course / dish",
+        "choices": [
+          "Quel plat recommandez-vous ?",
+          "Ce restaurant est très populaire.",
+          "Le serveur prend notre commande."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-enl2-8",
+        "fr": "Avez-vous des desserts maison ?",
+        "l2": "Avez-vous des desserts maison ?",
+        "en": "dessert",
+        "gloss": {
+          "en": "dessert",
+          "es": "postre",
+          "ru": "десерт"
+        },
+        "prompt": "dessert",
+        "choices": [
+          "Avez-vous des desserts maison ?",
+          "Ce restaurant est très populaire.",
+          "Le serveur prend notre commande."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-restaurant-a2-prm-1",
+        "en": "restaurant",
+        "gloss": {
+          "en": "restaurant",
+          "es": "restaurante",
+          "ru": "ресторан"
+        },
+        "answers": [
+          "restaurant",
+          "le restaurant"
+        ],
+        "target": "le restaurant"
+      },
+      {
+        "id": "remote-restaurant-a2-prm-2",
+        "en": "waiter",
+        "gloss": {
+          "en": "waiter",
+          "es": "mesero",
+          "ru": "официант"
+        },
+        "answers": [
+          "serveur",
+          "le serveur"
+        ],
+        "target": "le serveur"
+      },
+      {
+        "id": "remote-restaurant-a2-prm-3",
+        "en": "waitress",
+        "gloss": {
+          "en": "waitress",
+          "es": "camarera",
+          "ru": "официантка"
+        },
+        "answers": [
+          "serveuse",
+          "la serveuse"
+        ],
+        "target": "la serveuse"
+      },
+      {
+        "id": "remote-restaurant-a2-prm-4",
+        "en": "menu",
+        "gloss": {
+          "en": "menu",
+          "es": "menú",
+          "ru": "меню"
+        },
+        "answers": [
+          "menu",
+          "le menu"
+        ],
+        "target": "le menu"
+      },
+      {
+        "id": "remote-restaurant-a2-prm-5",
+        "en": "menu / wine list",
+        "gloss": {
+          "en": "menu / wine list",
+          "es": "menú/carta de vinos",
+          "ru": "меню/винная карта"
+        },
+        "answers": [
+          "carte",
+          "la carte"
+        ],
+        "target": "la carte"
+      },
+      {
+        "id": "remote-restaurant-a2-prm-6",
+        "en": "starter / appetizer",
+        "gloss": {
+          "en": "starter / appetizer",
+          "es": "entrante/aperitivo",
+          "ru": "закуска/закуска"
+        },
+        "answers": [
+          "entrée",
+          "la entrée"
+        ],
+        "target": "la entrée"
+      },
+      {
+        "id": "remote-restaurant-a2-prm-7",
+        "en": "main course / dish",
+        "gloss": {
+          "en": "main course / dish",
+          "es": "plato principal/plato",
+          "ru": "основное блюдо/блюдо"
+        },
+        "answers": [
+          "plat",
+          "le plat"
+        ],
+        "target": "le plat"
+      },
+      {
+        "id": "remote-restaurant-a2-prm-8",
+        "en": "dessert",
+        "gloss": {
+          "en": "dessert",
+          "es": "postre",
+          "ru": "десерт"
+        },
+        "answers": [
+          "dessert",
+          "le dessert"
+        ],
+        "target": "le dessert"
+      },
+      {
+        "id": "remote-restaurant-a2-prm-9",
+        "en": "bill / check",
+        "gloss": {
+          "en": "bill / check",
+          "es": "factura / cheque",
+          "ru": "счет/чек"
+        },
+        "answers": [
+          "addition",
+          "la addition"
+        ],
+        "target": "la addition"
+      },
+      {
+        "id": "remote-restaurant-a2-prm-10",
+        "en": "reservation / booking",
+        "gloss": {
+          "en": "reservation / booking",
+          "es": "reserva / reserva",
+          "ru": "бронирование / бронирование"
+        },
+        "answers": [
+          "réservation",
+          "la réservation"
+        ],
+        "target": "la réservation"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-restaurant-a2-pair-1",
+        "a": {
+          "fr": "restaurant",
+          "l2": "restaurant",
+          "en": "restaurant",
+          "gloss": {
+            "en": "restaurant",
+            "es": "restaurante",
+            "ru": "ресторан"
+          }
+        },
+        "b": {
+          "fr": "serveur",
+          "l2": "serveur",
+          "en": "waiter",
+          "gloss": {
+            "en": "waiter",
+            "es": "mesero",
+            "ru": "официант"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-restaurant-a2-pair-2",
+        "a": {
+          "fr": "serveuse",
+          "l2": "serveuse",
+          "en": "waitress",
+          "gloss": {
+            "en": "waitress",
+            "es": "camarera",
+            "ru": "официантка"
+          }
+        },
+        "b": {
+          "fr": "menu",
+          "l2": "menu",
+          "en": "menu",
+          "gloss": {
+            "en": "menu",
+            "es": "menú",
+            "ru": "меню"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-restaurant-a2-pair-3",
+        "a": {
+          "fr": "carte",
+          "l2": "carte",
+          "en": "menu / wine list",
+          "gloss": {
+            "en": "menu / wine list",
+            "es": "menú/carta de vinos",
+            "ru": "меню/винная карта"
+          }
+        },
+        "b": {
+          "fr": "entrée",
+          "l2": "entrée",
+          "en": "starter / appetizer",
+          "gloss": {
+            "en": "starter / appetizer",
+            "es": "entrante/aperitivo",
+            "ru": "закуска/закуска"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-restaurant-a2-pair-4",
+        "a": {
+          "fr": "plat",
+          "l2": "plat",
+          "en": "main course / dish",
+          "gloss": {
+            "en": "main course / dish",
+            "es": "plato principal/plato",
+            "ru": "основное блюдо/блюдо"
+          }
+        },
+        "b": {
+          "fr": "dessert",
+          "l2": "dessert",
+          "en": "dessert",
+          "gloss": {
+            "en": "dessert",
+            "es": "postre",
+            "ru": "десерт"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-restaurant-a2-pair-5",
+        "a": {
+          "fr": "addition",
+          "l2": "addition",
+          "en": "bill / check",
+          "gloss": {
+            "en": "bill / check",
+            "es": "factura / cheque",
+            "ru": "счет/чек"
+          }
+        },
+        "b": {
+          "fr": "réservation",
+          "l2": "réservation",
+          "en": "reservation / booking",
+          "gloss": {
+            "en": "reservation / booking",
+            "es": "reserva / reserva",
+            "ru": "бронирование / бронирование"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-restaurant-a2-gap-1",
+        "fr": "Ce restaurant est très populaire.",
+        "l2": "Ce restaurant est très populaire.",
+        "speak": "Ce restaurant est très populaire.",
+        "blank": "restaurant",
+        "en": "restaurant",
+        "gloss": {
+          "en": "restaurant",
+          "es": "restaurante",
+          "ru": "ресторан"
+        }
+      },
+      {
+        "id": "remote-restaurant-a2-gap-2",
+        "fr": "Le serveur prend notre commande.",
+        "l2": "Le serveur prend notre commande.",
+        "speak": "Le serveur prend notre commande.",
+        "blank": "serveur",
+        "en": "waiter",
+        "gloss": {
+          "en": "waiter",
+          "es": "mesero",
+          "ru": "официант"
+        }
+      },
+      {
+        "id": "remote-restaurant-a2-gap-3",
+        "fr": "La serveuse apporte les plats.",
+        "l2": "La serveuse apporte les plats.",
+        "speak": "La serveuse apporte les plats.",
+        "blank": "serveuse",
+        "en": "waitress",
+        "gloss": {
+          "en": "waitress",
+          "es": "camarera",
+          "ru": "официантка"
+        }
+      },
+      {
+        "id": "remote-restaurant-a2-gap-4",
+        "fr": "Puis-je voir le menu, s’il vous plaît ?",
+        "l2": "Puis-je voir le menu, s’il vous plaît ?",
+        "speak": "Puis-je voir le menu, s’il vous plaît ?",
+        "blank": "menu",
+        "en": "menu",
+        "gloss": {
+          "en": "menu",
+          "es": "menú",
+          "ru": "меню"
+        }
+      },
+      {
+        "id": "remote-restaurant-a2-gap-5",
+        "fr": "La carte des vins est sur la table.",
+        "l2": "La carte des vins est sur la table.",
+        "speak": "La carte des vins est sur la table.",
+        "blank": "carte",
+        "en": "menu / wine list",
+        "gloss": {
+          "en": "menu / wine list",
+          "es": "menú/carta de vinos",
+          "ru": "меню/винная карта"
+        }
+      },
+      {
+        "id": "remote-restaurant-a2-gap-6",
+        "fr": "Je prends une salade en entrée.",
+        "l2": "Je prends une salade en entrée.",
+        "speak": "Je prends une salade en entrée.",
+        "blank": "entrée",
+        "en": "starter / appetizer",
+        "gloss": {
+          "en": "starter / appetizer",
+          "es": "entrante/aperitivo",
+          "ru": "закуска/закуска"
+        }
+      },
+      {
+        "id": "remote-restaurant-a2-gap-7",
+        "fr": "Quel plat recommandez-vous ?",
+        "l2": "Quel plat recommandez-vous ?",
+        "speak": "Quel plat recommandez-vous ?",
+        "blank": "plat",
+        "en": "main course / dish",
+        "gloss": {
+          "en": "main course / dish",
+          "es": "plato principal/plato",
+          "ru": "основное блюдо/блюдо"
+        }
+      },
+      {
+        "id": "remote-restaurant-a2-gap-8",
+        "fr": "Avez-vous des desserts maison ?",
+        "l2": "Avez-vous des desserts maison ?",
+        "speak": "Avez-vous des desserts maison ?",
+        "blank": "dessert",
+        "en": "dessert",
+        "gloss": {
+          "en": "dessert",
+          "es": "postre",
+          "ru": "десерт"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-restaurant-a2-ord-1",
+        "fr": "Ce restaurant est très populaire.",
+        "l2": "Ce restaurant est très populaire.",
+        "en": "restaurant",
+        "gloss": {
+          "en": "restaurant",
+          "es": "restaurante",
+          "ru": "ресторан"
+        },
+        "words": [
+          "Ce",
+          "restaurant",
+          "est",
+          "très",
+          "populaire."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-ord-2",
+        "fr": "Le serveur prend notre commande.",
+        "l2": "Le serveur prend notre commande.",
+        "en": "waiter",
+        "gloss": {
+          "en": "waiter",
+          "es": "mesero",
+          "ru": "официант"
+        },
+        "words": [
+          "Le",
+          "serveur",
+          "prend",
+          "notre",
+          "commande."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-ord-3",
+        "fr": "La serveuse apporte les plats.",
+        "l2": "La serveuse apporte les plats.",
+        "en": "waitress",
+        "gloss": {
+          "en": "waitress",
+          "es": "camarera",
+          "ru": "официантка"
+        },
+        "words": [
+          "La",
+          "serveuse",
+          "apporte",
+          "les",
+          "plats."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-ord-4",
+        "fr": "Puis-je voir le menu, s’il vous plaît ?",
+        "l2": "Puis-je voir le menu, s’il vous plaît ?",
+        "en": "menu",
+        "gloss": {
+          "en": "menu",
+          "es": "menú",
+          "ru": "меню"
+        },
+        "words": [
+          "Puis-je",
+          "voir",
+          "le",
+          "menu,",
+          "s’il",
+          "vous",
+          "plaît",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-ord-5",
+        "fr": "La carte des vins est sur la table.",
+        "l2": "La carte des vins est sur la table.",
+        "en": "menu / wine list",
+        "gloss": {
+          "en": "menu / wine list",
+          "es": "menú/carta de vinos",
+          "ru": "меню/винная карта"
+        },
+        "words": [
+          "La",
+          "carte",
+          "des",
+          "vins",
+          "est",
+          "sur",
+          "la",
+          "table."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-ord-6",
+        "fr": "Je prends une salade en entrée.",
+        "l2": "Je prends une salade en entrée.",
+        "en": "starter / appetizer",
+        "gloss": {
+          "en": "starter / appetizer",
+          "es": "entrante/aperitivo",
+          "ru": "закуска/закуска"
+        },
+        "words": [
+          "Je",
+          "prends",
+          "une",
+          "salade",
+          "en",
+          "entrée."
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-ord-7",
+        "fr": "Quel plat recommandez-vous ?",
+        "l2": "Quel plat recommandez-vous ?",
+        "en": "main course / dish",
+        "gloss": {
+          "en": "main course / dish",
+          "es": "plato principal/plato",
+          "ru": "основное блюдо/блюдо"
+        },
+        "words": [
+          "Quel",
+          "plat",
+          "recommandez-vous",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-restaurant-a2-ord-8",
+        "fr": "Avez-vous des desserts maison ?",
+        "l2": "Avez-vous des desserts maison ?",
+        "en": "dessert",
+        "gloss": {
+          "en": "dessert",
+          "es": "postre",
+          "ru": "десерт"
+        },
+        "words": [
+          "Avez-vous",
+          "des",
+          "desserts",
+          "maison",
+          "?"
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-restaurant-a2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ʁɛs.tɔ.ʁɑ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "restaurant",
+          "l2": "restaurant",
+          "en": "restaurant",
+          "gloss": {
+            "en": "restaurant",
+            "es": "restaurante",
+            "ru": "ресторан"
+          },
+          "ipa": "ʁɛs.tɔ.ʁɑ̃"
+        },
+        {
+          "fr": "serveur",
+          "l2": "serveur",
+          "en": "waiter",
+          "gloss": {
+            "en": "waiter",
+            "es": "mesero",
+            "ru": "официант"
+          },
+          "ipa": "sɛʁ.vœʁ"
+        },
+        {
+          "fr": "serveuse",
+          "l2": "serveuse",
+          "en": "waitress",
+          "gloss": {
+            "en": "waitress",
+            "es": "camarera",
+            "ru": "официантка"
+          },
+          "ipa": "sɛʁ.vøz"
+        },
+        {
+          "fr": "menu",
+          "l2": "menu",
+          "en": "menu",
+          "gloss": {
+            "en": "menu",
+            "es": "menú",
+            "ru": "меню"
+          },
+          "ipa": "mə.ny"
+        },
+        {
+          "fr": "carte",
+          "l2": "carte",
+          "en": "menu / wine list",
+          "gloss": {
+            "en": "menu / wine list",
+            "es": "menú/carta de vinos",
+            "ru": "меню/винная карта"
+          },
+          "ipa": "kaʁt"
+        }
+      ]
+    }
+  ]
 }

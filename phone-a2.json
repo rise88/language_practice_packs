@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "phone-a2",
-  "version": 4,
+  "version": 5,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "peux",
             "veux",
             "dois"
-          ]
+          ],
+          "gloss": {
+            "en": "Will you ___ call me back later?",
+            "es": "¿Me ___ volverás a llamar más tarde?",
+            "ru": "Ты ___ перезвонишь мне позже?"
+          },
+          "why": {
+            "fr": "Réponse : « peux ».",
+            "en": "Answer: “peux”.",
+            "es": "Respuesta: « peux ».",
+            "ru": "Ответ: « peux »."
+          }
         },
         {
           "id": "remote-phone-gq-2",
@@ -537,7 +548,18 @@
             "voudrais",
             "peux",
             "marche"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ talk to Léa.",
+            "es": "Yo ___ hablo con Léa.",
+            "ru": "Я ___ разговариваю с Леей."
+          },
+          "why": {
+            "fr": "Réponse : « voudrais ».",
+            "en": "Answer: “voudrais”.",
+            "es": "Respuesta: « voudrais ».",
+            "ru": "Ответ: « voudrais »."
+          }
         },
         {
           "id": "remote-phone-gq-3",
@@ -547,13 +569,25 @@
             "rappelle",
             "décroche",
             "raccroche"
-          ]
+          ],
+          "gloss": {
+            "en": "I'll ___ you in five minutes.",
+            "es": "Te ___ en cinco minutos.",
+            "ru": "Я ___ тебя через пять минут."
+          },
+          "why": {
+            "fr": "Réponse : « rappelle ».",
+            "en": "Answer: “rappelle”.",
+            "es": "Respuesta: « rappelle ».",
+            "ru": "Ответ: « rappelle »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Pouvoir and vouloir on the phone.",
         "es": "Útil cuando necesitas aplicar: Pouvoir y vouloir en el teléfono.",
-        "ru": "Полезно, когда нужно подать заявку: Pouvoir и vuloir по телефону."
+        "ru": "Полезно, когда нужно подать заявку: Pouvoir и vuloir по телефону.",
+        "fr": "Utile pour appliquer : Pouvoir / vouloir au téléphone."
       }
     },
     {
@@ -606,7 +640,18 @@
             "ne",
             "pas",
             "n’"
-          ]
+          ],
+          "gloss": {
+            "en": "Le téléphone ___ marche pas.",
+            "es": "El teléfono ___ no funciona.",
+            "ru": "Телефон ___ не работает."
+          },
+          "why": {
+            "fr": "Réponse : « ne ».",
+            "en": "Answer: “ne”.",
+            "es": "Respuesta: « ne ».",
+            "ru": "Ответ: « ne »."
+          }
         },
         {
           "id": "remote-phone-gq-5",
@@ -616,7 +661,18 @@
             "n’ai",
             "ne ai",
             "pas ai"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ no network.",
+            "es": "Yo ___ no tengo red.",
+            "ru": "У меня ___ нет сети."
+          },
+          "why": {
+            "fr": "Réponse : « n’ai ».",
+            "en": "Answer: “n’ai”.",
+            "es": "Respuesta: « n’ai ».",
+            "ru": "Ответ: « n’ai »."
+          }
         },
         {
           "id": "remote-phone-gq-6",
@@ -626,13 +682,25 @@
             "n’y a",
             "y a",
             "n’a"
-          ]
+          ],
+          "gloss": {
+            "en": "Il ___ pas de wifi ici.",
+            "es": "No ___ no hay wifi aquí.",
+            "ru": "Здесь ___ нет Wi-Fi."
+          },
+          "why": {
+            "fr": "Réponse : « n’y a ».",
+            "en": "Answer: “n’y a”.",
+            "es": "Respuesta: « n’y a ».",
+            "ru": "Ответ: « n’y a »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Negation with devices.",
         "es": "Útil cuando necesitas aplicar: Negación con dispositivos.",
-        "ru": "Полезно, когда нужно применить: Отрицание с устройствами."
+        "ru": "Полезно, когда нужно применить: Отрицание с устройствами.",
+        "fr": "Utile pour appliquer : Ne… pas avec les appareils."
       }
     }
   ],
@@ -855,6 +923,1000 @@
         },
         "l2": "J’ai oublié mon mot de passe."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-phone-fren-1",
+        "fr": "téléphone",
+        "en": "phone",
+        "gloss": {
+          "en": "phone",
+          "es": "teléfono",
+          "ru": "телефон"
+        },
+        "l2": "téléphone"
+      },
+      {
+        "id": "remote-phone-fren-2",
+        "fr": "appel",
+        "en": "call",
+        "gloss": {
+          "en": "call",
+          "es": "llamar",
+          "ru": "вызов"
+        },
+        "l2": "appel"
+      },
+      {
+        "id": "remote-phone-fren-3",
+        "fr": "message",
+        "en": "message",
+        "gloss": {
+          "en": "message",
+          "es": "mensaje",
+          "ru": "сообщение"
+        },
+        "l2": "message"
+      },
+      {
+        "id": "remote-phone-fren-4",
+        "fr": "numéro",
+        "en": "number",
+        "gloss": {
+          "en": "number",
+          "es": "número",
+          "ru": "число"
+        },
+        "l2": "numéro"
+      },
+      {
+        "id": "remote-phone-fren-5",
+        "fr": "réseau",
+        "en": "network",
+        "gloss": {
+          "en": "network",
+          "es": "red",
+          "ru": "сеть"
+        },
+        "l2": "réseau"
+      },
+      {
+        "id": "remote-phone-fren-6",
+        "fr": "wifi",
+        "en": "Wi-Fi",
+        "gloss": {
+          "en": "Wi-Fi",
+          "es": "Wifi",
+          "ru": "Wi-Fi"
+        },
+        "l2": "wifi"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-phone-a2-enl2-1",
+        "fr": "Mon téléphone est déchargé.",
+        "l2": "Mon téléphone est déchargé.",
+        "en": "phone",
+        "gloss": {
+          "en": "phone",
+          "es": "teléfono",
+          "ru": "телефон"
+        },
+        "prompt": "phone",
+        "choices": [
+          "Mon téléphone est déchargé.",
+          "J’ai raté un appel.",
+          "Je t’envoie un message."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-enl2-2",
+        "fr": "J’ai raté un appel.",
+        "l2": "J’ai raté un appel.",
+        "en": "call",
+        "gloss": {
+          "en": "call",
+          "es": "llamar",
+          "ru": "вызов"
+        },
+        "prompt": "call",
+        "choices": [
+          "J’ai raté un appel.",
+          "Mon téléphone est déchargé.",
+          "Je t’envoie un message."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-enl2-3",
+        "fr": "Je t’envoie un message.",
+        "l2": "Je t’envoie un message.",
+        "en": "message",
+        "gloss": {
+          "en": "message",
+          "es": "mensaje",
+          "ru": "сообщение"
+        },
+        "prompt": "message",
+        "choices": [
+          "Je t’envoie un message.",
+          "Mon téléphone est déchargé.",
+          "J’ai raté un appel."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-enl2-4",
+        "fr": "Quel est ton numéro ?",
+        "l2": "Quel est ton numéro ?",
+        "en": "number",
+        "gloss": {
+          "en": "number",
+          "es": "número",
+          "ru": "число"
+        },
+        "prompt": "number",
+        "choices": [
+          "Quel est ton numéro ?",
+          "Mon téléphone est déchargé.",
+          "J’ai raté un appel."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-enl2-5",
+        "fr": "Il n’y a pas de réseau ici.",
+        "l2": "Il n’y a pas de réseau ici.",
+        "en": "network / signal",
+        "gloss": {
+          "en": "network / signal",
+          "es": "red / señal",
+          "ru": "сеть/сигнал"
+        },
+        "prompt": "network / signal",
+        "choices": [
+          "Il n’y a pas de réseau ici.",
+          "Mon téléphone est déchargé.",
+          "J’ai raté un appel."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-enl2-6",
+        "fr": "Le wifi est gratuit.",
+        "l2": "Le wifi est gratuit.",
+        "en": "Wi-Fi",
+        "gloss": {
+          "en": "Wi-Fi",
+          "es": "Wifi",
+          "ru": "Wi-Fi"
+        },
+        "prompt": "Wi-Fi",
+        "choices": [
+          "Le wifi est gratuit.",
+          "Mon téléphone est déchargé.",
+          "J’ai raté un appel."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-enl2-7",
+        "fr": "La batterie est presque vide.",
+        "l2": "La batterie est presque vide.",
+        "en": "battery",
+        "gloss": {
+          "en": "battery",
+          "es": "batería",
+          "ru": "батарея"
+        },
+        "prompt": "battery",
+        "choices": [
+          "La batterie est presque vide.",
+          "Mon téléphone est déchargé.",
+          "J’ai raté un appel."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-enl2-8",
+        "fr": "J’ai oublié mon chargeur.",
+        "l2": "J’ai oublié mon chargeur.",
+        "en": "charger",
+        "gloss": {
+          "en": "charger",
+          "es": "cargador",
+          "ru": "зарядное устройство"
+        },
+        "prompt": "charger",
+        "choices": [
+          "J’ai oublié mon chargeur.",
+          "Mon téléphone est déchargé.",
+          "J’ai raté un appel."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-phone-a2-prm-1",
+        "en": "phone",
+        "gloss": {
+          "en": "phone",
+          "es": "teléfono",
+          "ru": "телефон"
+        },
+        "answers": [
+          "téléphone",
+          "le téléphone"
+        ],
+        "target": "le téléphone"
+      },
+      {
+        "id": "remote-phone-a2-prm-2",
+        "en": "call",
+        "gloss": {
+          "en": "call",
+          "es": "llamar",
+          "ru": "вызов"
+        },
+        "answers": [
+          "appel",
+          "l' appel"
+        ],
+        "target": "l' appel"
+      },
+      {
+        "id": "remote-phone-a2-prm-3",
+        "en": "message",
+        "gloss": {
+          "en": "message",
+          "es": "mensaje",
+          "ru": "сообщение"
+        },
+        "answers": [
+          "message",
+          "le message"
+        ],
+        "target": "le message"
+      },
+      {
+        "id": "remote-phone-a2-prm-4",
+        "en": "number",
+        "gloss": {
+          "en": "number",
+          "es": "número",
+          "ru": "число"
+        },
+        "answers": [
+          "numéro",
+          "le numéro"
+        ],
+        "target": "le numéro"
+      },
+      {
+        "id": "remote-phone-a2-prm-5",
+        "en": "network / signal",
+        "gloss": {
+          "en": "network / signal",
+          "es": "red / señal",
+          "ru": "сеть/сигнал"
+        },
+        "answers": [
+          "réseau",
+          "le réseau"
+        ],
+        "target": "le réseau"
+      },
+      {
+        "id": "remote-phone-a2-prm-6",
+        "en": "Wi-Fi",
+        "gloss": {
+          "en": "Wi-Fi",
+          "es": "Wifi",
+          "ru": "Wi-Fi"
+        },
+        "answers": [
+          "wifi",
+          "le wifi"
+        ],
+        "target": "le wifi"
+      },
+      {
+        "id": "remote-phone-a2-prm-7",
+        "en": "battery",
+        "gloss": {
+          "en": "battery",
+          "es": "batería",
+          "ru": "батарея"
+        },
+        "answers": [
+          "batterie",
+          "la batterie"
+        ],
+        "target": "la batterie"
+      },
+      {
+        "id": "remote-phone-a2-prm-8",
+        "en": "charger",
+        "gloss": {
+          "en": "charger",
+          "es": "cargador",
+          "ru": "зарядное устройство"
+        },
+        "answers": [
+          "chargeur",
+          "le chargeur"
+        ],
+        "target": "le chargeur"
+      },
+      {
+        "id": "remote-phone-a2-prm-9",
+        "en": "screen",
+        "gloss": {
+          "en": "screen",
+          "es": "pantalla",
+          "ru": "экран"
+        },
+        "answers": [
+          "écran",
+          "l' écran"
+        ],
+        "target": "l' écran"
+      },
+      {
+        "id": "remote-phone-a2-prm-10",
+        "en": "app",
+        "gloss": {
+          "en": "app",
+          "es": "aplicación",
+          "ru": "приложение"
+        },
+        "answers": [
+          "application",
+          "l' application"
+        ],
+        "target": "l' application"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-phone-a2-sign-1",
+        "fr": "téléphone",
+        "l2": "téléphone",
+        "en": "phone",
+        "gloss": {
+          "en": "phone",
+          "es": "teléfono",
+          "ru": "телефон"
+        },
+        "choices": [
+          "phone",
+          "call",
+          "message"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-2",
+        "fr": "appel",
+        "l2": "appel",
+        "en": "call",
+        "gloss": {
+          "en": "call",
+          "es": "llamar",
+          "ru": "вызов"
+        },
+        "choices": [
+          "call",
+          "phone",
+          "message"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-3",
+        "fr": "message",
+        "l2": "message",
+        "en": "message",
+        "gloss": {
+          "en": "message",
+          "es": "mensaje",
+          "ru": "сообщение"
+        },
+        "choices": [
+          "message",
+          "phone",
+          "call"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-4",
+        "fr": "numéro",
+        "l2": "numéro",
+        "en": "number",
+        "gloss": {
+          "en": "number",
+          "es": "número",
+          "ru": "число"
+        },
+        "choices": [
+          "number",
+          "phone",
+          "call"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-5",
+        "fr": "réseau",
+        "l2": "réseau",
+        "en": "network / signal",
+        "gloss": {
+          "en": "network / signal",
+          "es": "red / señal",
+          "ru": "сеть/сигнал"
+        },
+        "choices": [
+          "network / signal",
+          "phone",
+          "call"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-6",
+        "fr": "wifi",
+        "l2": "wifi",
+        "en": "Wi-Fi",
+        "gloss": {
+          "en": "Wi-Fi",
+          "es": "Wifi",
+          "ru": "Wi-Fi"
+        },
+        "choices": [
+          "Wi-Fi",
+          "phone",
+          "call"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-7",
+        "fr": "batterie",
+        "l2": "batterie",
+        "en": "battery",
+        "gloss": {
+          "en": "battery",
+          "es": "batería",
+          "ru": "батарея"
+        },
+        "choices": [
+          "battery",
+          "phone",
+          "call"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-8",
+        "fr": "chargeur",
+        "l2": "chargeur",
+        "en": "charger",
+        "gloss": {
+          "en": "charger",
+          "es": "cargador",
+          "ru": "зарядное устройство"
+        },
+        "choices": [
+          "charger",
+          "phone",
+          "call"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-9",
+        "fr": "écran",
+        "l2": "écran",
+        "en": "screen",
+        "gloss": {
+          "en": "screen",
+          "es": "pantalla",
+          "ru": "экран"
+        },
+        "choices": [
+          "screen",
+          "phone",
+          "call"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-10",
+        "fr": "application",
+        "l2": "application",
+        "en": "app",
+        "gloss": {
+          "en": "app",
+          "es": "aplicación",
+          "ru": "приложение"
+        },
+        "choices": [
+          "app",
+          "phone",
+          "call"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-11",
+        "fr": "mot de passe",
+        "l2": "mot de passe",
+        "en": "password",
+        "gloss": {
+          "en": "password",
+          "es": "contraseña",
+          "ru": "пароль"
+        },
+        "choices": [
+          "password",
+          "phone",
+          "call"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-sign-12",
+        "fr": "compte",
+        "l2": "compte",
+        "en": "account",
+        "gloss": {
+          "en": "account",
+          "es": "cuenta",
+          "ru": "счет"
+        },
+        "choices": [
+          "account",
+          "phone",
+          "call"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-phone-a2-pair-1",
+        "a": {
+          "fr": "téléphone",
+          "l2": "téléphone",
+          "en": "phone",
+          "gloss": {
+            "en": "phone",
+            "es": "teléfono",
+            "ru": "телефон"
+          }
+        },
+        "b": {
+          "fr": "appel",
+          "l2": "appel",
+          "en": "call",
+          "gloss": {
+            "en": "call",
+            "es": "llamar",
+            "ru": "вызов"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-phone-a2-pair-2",
+        "a": {
+          "fr": "message",
+          "l2": "message",
+          "en": "message",
+          "gloss": {
+            "en": "message",
+            "es": "mensaje",
+            "ru": "сообщение"
+          }
+        },
+        "b": {
+          "fr": "numéro",
+          "l2": "numéro",
+          "en": "number",
+          "gloss": {
+            "en": "number",
+            "es": "número",
+            "ru": "число"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-phone-a2-pair-3",
+        "a": {
+          "fr": "réseau",
+          "l2": "réseau",
+          "en": "network / signal",
+          "gloss": {
+            "en": "network / signal",
+            "es": "red / señal",
+            "ru": "сеть/сигнал"
+          }
+        },
+        "b": {
+          "fr": "wifi",
+          "l2": "wifi",
+          "en": "Wi-Fi",
+          "gloss": {
+            "en": "Wi-Fi",
+            "es": "Wifi",
+            "ru": "Wi-Fi"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-phone-a2-pair-4",
+        "a": {
+          "fr": "batterie",
+          "l2": "batterie",
+          "en": "battery",
+          "gloss": {
+            "en": "battery",
+            "es": "batería",
+            "ru": "батарея"
+          }
+        },
+        "b": {
+          "fr": "chargeur",
+          "l2": "chargeur",
+          "en": "charger",
+          "gloss": {
+            "en": "charger",
+            "es": "cargador",
+            "ru": "зарядное устройство"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-phone-a2-pair-5",
+        "a": {
+          "fr": "écran",
+          "l2": "écran",
+          "en": "screen",
+          "gloss": {
+            "en": "screen",
+            "es": "pantalla",
+            "ru": "экран"
+          }
+        },
+        "b": {
+          "fr": "application",
+          "l2": "application",
+          "en": "app",
+          "gloss": {
+            "en": "app",
+            "es": "aplicación",
+            "ru": "приложение"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-phone-a2-gap-1",
+        "fr": "Mon téléphone est déchargé.",
+        "l2": "Mon téléphone est déchargé.",
+        "speak": "Mon téléphone est déchargé.",
+        "blank": "téléphone",
+        "en": "phone",
+        "gloss": {
+          "en": "phone",
+          "es": "teléfono",
+          "ru": "телефон"
+        }
+      },
+      {
+        "id": "remote-phone-a2-gap-2",
+        "fr": "J’ai raté un appel.",
+        "l2": "J’ai raté un appel.",
+        "speak": "J’ai raté un appel.",
+        "blank": "appel",
+        "en": "call",
+        "gloss": {
+          "en": "call",
+          "es": "llamar",
+          "ru": "вызов"
+        }
+      },
+      {
+        "id": "remote-phone-a2-gap-3",
+        "fr": "Je t’envoie un message.",
+        "l2": "Je t’envoie un message.",
+        "speak": "Je t’envoie un message.",
+        "blank": "message",
+        "en": "message",
+        "gloss": {
+          "en": "message",
+          "es": "mensaje",
+          "ru": "сообщение"
+        }
+      },
+      {
+        "id": "remote-phone-a2-gap-4",
+        "fr": "Quel est ton numéro ?",
+        "l2": "Quel est ton numéro ?",
+        "speak": "Quel est ton numéro ?",
+        "blank": "numéro",
+        "en": "number",
+        "gloss": {
+          "en": "number",
+          "es": "número",
+          "ru": "число"
+        }
+      },
+      {
+        "id": "remote-phone-a2-gap-5",
+        "fr": "Il n’y a pas de réseau ici.",
+        "l2": "Il n’y a pas de réseau ici.",
+        "speak": "Il n’y a pas de réseau ici.",
+        "blank": "réseau",
+        "en": "network / signal",
+        "gloss": {
+          "en": "network / signal",
+          "es": "red / señal",
+          "ru": "сеть/сигнал"
+        }
+      },
+      {
+        "id": "remote-phone-a2-gap-6",
+        "fr": "Le wifi est gratuit.",
+        "l2": "Le wifi est gratuit.",
+        "speak": "Le wifi est gratuit.",
+        "blank": "wifi",
+        "en": "Wi-Fi",
+        "gloss": {
+          "en": "Wi-Fi",
+          "es": "Wifi",
+          "ru": "Wi-Fi"
+        }
+      },
+      {
+        "id": "remote-phone-a2-gap-7",
+        "fr": "La batterie est presque vide.",
+        "l2": "La batterie est presque vide.",
+        "speak": "La batterie est presque vide.",
+        "blank": "batterie",
+        "en": "battery",
+        "gloss": {
+          "en": "battery",
+          "es": "batería",
+          "ru": "батарея"
+        }
+      },
+      {
+        "id": "remote-phone-a2-gap-8",
+        "fr": "J’ai oublié mon chargeur.",
+        "l2": "J’ai oublié mon chargeur.",
+        "speak": "J’ai oublié mon chargeur.",
+        "blank": "chargeur",
+        "en": "charger",
+        "gloss": {
+          "en": "charger",
+          "es": "cargador",
+          "ru": "зарядное устройство"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-phone-a2-ord-1",
+        "fr": "Mon téléphone est déchargé.",
+        "l2": "Mon téléphone est déchargé.",
+        "en": "phone",
+        "gloss": {
+          "en": "phone",
+          "es": "teléfono",
+          "ru": "телефон"
+        },
+        "words": [
+          "Mon",
+          "téléphone",
+          "est",
+          "déchargé."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-ord-2",
+        "fr": "J’ai raté un appel.",
+        "l2": "J’ai raté un appel.",
+        "en": "call",
+        "gloss": {
+          "en": "call",
+          "es": "llamar",
+          "ru": "вызов"
+        },
+        "words": [
+          "J’ai",
+          "raté",
+          "un",
+          "appel."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-ord-3",
+        "fr": "Je t’envoie un message.",
+        "l2": "Je t’envoie un message.",
+        "en": "message",
+        "gloss": {
+          "en": "message",
+          "es": "mensaje",
+          "ru": "сообщение"
+        },
+        "words": [
+          "Je",
+          "t’envoie",
+          "un",
+          "message."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-ord-4",
+        "fr": "Quel est ton numéro ?",
+        "l2": "Quel est ton numéro ?",
+        "en": "number",
+        "gloss": {
+          "en": "number",
+          "es": "número",
+          "ru": "число"
+        },
+        "words": [
+          "Quel",
+          "est",
+          "ton",
+          "numéro",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-phone-a2-ord-5",
+        "fr": "Il n’y a pas de réseau ici.",
+        "l2": "Il n’y a pas de réseau ici.",
+        "en": "network / signal",
+        "gloss": {
+          "en": "network / signal",
+          "es": "red / señal",
+          "ru": "сеть/сигнал"
+        },
+        "words": [
+          "Il",
+          "n’y",
+          "a",
+          "pas",
+          "de",
+          "réseau",
+          "ici."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-ord-6",
+        "fr": "Le wifi est gratuit.",
+        "l2": "Le wifi est gratuit.",
+        "en": "Wi-Fi",
+        "gloss": {
+          "en": "Wi-Fi",
+          "es": "Wifi",
+          "ru": "Wi-Fi"
+        },
+        "words": [
+          "Le",
+          "wifi",
+          "est",
+          "gratuit."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-ord-7",
+        "fr": "La batterie est presque vide.",
+        "l2": "La batterie est presque vide.",
+        "en": "battery",
+        "gloss": {
+          "en": "battery",
+          "es": "batería",
+          "ru": "батарея"
+        },
+        "words": [
+          "La",
+          "batterie",
+          "est",
+          "presque",
+          "vide."
+        ]
+      },
+      {
+        "id": "remote-phone-a2-ord-8",
+        "fr": "J’ai oublié mon chargeur.",
+        "l2": "J’ai oublié mon chargeur.",
+        "en": "charger",
+        "gloss": {
+          "en": "charger",
+          "es": "cargador",
+          "ru": "зарядное устройство"
+        },
+        "words": [
+          "J’ai",
+          "oublié",
+          "mon",
+          "chargeur."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-phone-a2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "te.le.fɔn",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "téléphone",
+          "l2": "téléphone",
+          "en": "phone",
+          "gloss": {
+            "en": "phone",
+            "es": "teléfono",
+            "ru": "телефон"
+          },
+          "ipa": "te.le.fɔn"
+        },
+        {
+          "fr": "appel",
+          "l2": "appel",
+          "en": "call",
+          "gloss": {
+            "en": "call",
+            "es": "llamar",
+            "ru": "вызов"
+          },
+          "ipa": "a.pɛl"
+        },
+        {
+          "fr": "message",
+          "l2": "message",
+          "en": "message",
+          "gloss": {
+            "en": "message",
+            "es": "mensaje",
+            "ru": "сообщение"
+          },
+          "ipa": "me.saʒ"
+        },
+        {
+          "fr": "numéro",
+          "l2": "numéro",
+          "en": "number",
+          "gloss": {
+            "en": "number",
+            "es": "número",
+            "ru": "число"
+          },
+          "ipa": "ny.me.ʁo"
+        },
+        {
+          "fr": "réseau",
+          "l2": "réseau",
+          "en": "network / signal",
+          "gloss": {
+            "en": "network / signal",
+            "es": "red / señal",
+            "ru": "сеть/сигнал"
+          },
+          "ipa": "ʁe.zo"
+        }
+      ]
+    }
+  ]
 }

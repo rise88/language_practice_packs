@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "city-a1",
-  "version": 4,
+  "version": 5,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "à",
             "au",
             "à la"
-          ]
+          ],
+          "gloss": {
+            "en": "We’re going ___ cinema.",
+            "es": "Vamos ___ cine.",
+            "ru": "Мы идём ___ кино."
+          },
+          "why": {
+            "fr": "À + le cinéma → « au ».",
+            "en": "À + le cinéma → au.",
+            "es": "À + le cinéma → au.",
+            "ru": "À + le cinéma → au."
+          }
         },
         {
           "id": "remote-city-gq-2",
@@ -537,7 +548,18 @@
             "au",
             "à la",
             "à l’"
-          ]
+          ],
+          "gloss": {
+            "en": "I’m going ___ station.",
+            "es": "Voy ___ estación.",
+            "ru": "Я иду ___ вокзал."
+          },
+          "why": {
+            "fr": "À + la gare → « à la ».",
+            "en": "À + la gare → à la.",
+            "es": "À + la gare → à la.",
+            "ru": "À + la gare → à la."
+          }
         },
         {
           "id": "remote-city-gq-3",
@@ -547,13 +569,25 @@
             "au",
             "à la",
             "à l’"
-          ]
+          ],
+          "gloss": {
+            "en": "He’s going ___ church.",
+            "es": "Va ___ iglesia.",
+            "ru": "Он идёт ___ церковь."
+          },
+          "why": {
+            "fr": "À + l’église → « à l’ ».",
+            "en": "À + l’église → à l’.",
+            "es": "À + l’église → à l’.",
+            "ru": "À + l’église → à l’."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Going to a place.",
         "es": "Útil cuando necesitas aplicar: Ir a un lugar.",
-        "ru": "Полезно, когда вам нужно подать заявку: Поездка в место."
+        "ru": "Полезно, когда вам нужно подать заявку: Поездка в место.",
+        "fr": "Utile pour appliquer : À / au / à la / à l’."
       }
     },
     {
@@ -606,7 +640,18 @@
             "Qui",
             "Où",
             "Quand"
-          ]
+          ],
+          "gloss": {
+            "en": "___ is the post office?",
+            "es": "¿___ está Correos?",
+            "ru": "___ почта?"
+          },
+          "why": {
+            "fr": "Où = where.",
+            "en": "Où = where.",
+            "es": "Où = dónde.",
+            "ru": "Où = где."
+          }
         },
         {
           "id": "remote-city-gq-5",
@@ -616,7 +661,18 @@
             "à",
             "au",
             "de"
-          ]
+          ],
+          "gloss": {
+            "en": "Turn ___ left.",
+            "es": "Gire ___ izquierda.",
+            "ru": "Поверните ___ налево."
+          },
+          "why": {
+            "fr": "À gauche / à droite.",
+            "en": "À gauche / à droite.",
+            "es": "À gauche / à droite.",
+            "ru": "À gauche / à droite."
+          }
         },
         {
           "id": "remote-city-gq-6",
@@ -626,13 +682,25 @@
             "droite",
             "droit",
             "gauche"
-          ]
+          ],
+          "gloss": {
+            "en": "Go straight ___.",
+            "es": "Siga todo ___.",
+            "ru": "Идите прямо ___."
+          },
+          "why": {
+            "fr": "Tout droit = straight ahead.",
+            "en": "Tout droit = straight ahead.",
+            "es": "Tout droit = todo recto.",
+            "ru": "Tout droit = прямо."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Asking where something is.",
         "es": "Útil cuando necesitas presentar una solicitud: preguntar dónde está algo.",
-        "ru": "Полезно, когда вам нужно подать заявку: Спросить, где что-то находится."
+        "ru": "Полезно, когда вам нужно подать заявку: Спросить, где что-то находится.",
+        "fr": "Utile pour appliquer : Où est… ?."
       }
     }
   ],
@@ -877,6 +945,807 @@
         },
         "l2": "gare"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-city-fren-1",
+        "fr": "ville",
+        "en": "town",
+        "gloss": {
+          "en": "town",
+          "es": "ciudad",
+          "ru": "город"
+        },
+        "l2": "ville"
+      },
+      {
+        "id": "remote-city-fren-2",
+        "fr": "rue",
+        "en": "street",
+        "gloss": {
+          "en": "street",
+          "es": "calle",
+          "ru": "улица"
+        },
+        "l2": "rue"
+      },
+      {
+        "id": "remote-city-fren-3",
+        "fr": "place",
+        "en": "square",
+        "gloss": {
+          "en": "square",
+          "es": "cuadrado",
+          "ru": "квадрат"
+        },
+        "l2": "place"
+      },
+      {
+        "id": "remote-city-fren-4",
+        "fr": "magasin",
+        "en": "shop",
+        "gloss": {
+          "en": "shop",
+          "es": "comercio",
+          "ru": "магазин"
+        },
+        "l2": "magasin"
+      },
+      {
+        "id": "remote-city-fren-5",
+        "fr": "banque",
+        "en": "bank",
+        "gloss": {
+          "en": "bank",
+          "es": "banco",
+          "ru": "банк"
+        },
+        "l2": "banque"
+      },
+      {
+        "id": "remote-city-fren-6",
+        "fr": "poste",
+        "en": "post office",
+        "gloss": {
+          "en": "post office",
+          "es": "oficina de correos",
+          "ru": "почтовое отделение"
+        },
+        "l2": "poste"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-city-a1-enl2-1",
+        "fr": "J’habite en ville.",
+        "l2": "J’habite en ville.",
+        "en": "town / city",
+        "gloss": {
+          "en": "town / city",
+          "es": "pueblo / ciudad",
+          "ru": "город / город"
+        },
+        "prompt": "town / city",
+        "choices": [
+          "J’habite en ville.",
+          "Ma rue est calme.",
+          "La place est au centre."
+        ]
+      },
+      {
+        "id": "remote-city-a1-enl2-2",
+        "fr": "Ma rue est calme.",
+        "l2": "Ma rue est calme.",
+        "en": "street",
+        "gloss": {
+          "en": "street",
+          "es": "calle",
+          "ru": "улица"
+        },
+        "prompt": "street",
+        "choices": [
+          "Ma rue est calme.",
+          "J’habite en ville.",
+          "La place est au centre."
+        ]
+      },
+      {
+        "id": "remote-city-a1-enl2-3",
+        "fr": "La place est au centre.",
+        "l2": "La place est au centre.",
+        "en": "square",
+        "gloss": {
+          "en": "square",
+          "es": "cuadrado",
+          "ru": "квадрат"
+        },
+        "prompt": "square",
+        "choices": [
+          "La place est au centre.",
+          "J’habite en ville.",
+          "Ma rue est calme."
+        ]
+      },
+      {
+        "id": "remote-city-a1-enl2-4",
+        "fr": "Le magasin ouvre à neuf heures.",
+        "l2": "Le magasin ouvre à neuf heures.",
+        "en": "shop",
+        "gloss": {
+          "en": "shop",
+          "es": "comercio",
+          "ru": "магазин"
+        },
+        "prompt": "shop",
+        "choices": [
+          "Le magasin ouvre à neuf heures.",
+          "J’habite en ville.",
+          "Ma rue est calme."
+        ]
+      },
+      {
+        "id": "remote-city-a1-enl2-5",
+        "fr": "La banque est fermée.",
+        "l2": "La banque est fermée.",
+        "en": "bank",
+        "gloss": {
+          "en": "bank",
+          "es": "banco",
+          "ru": "банк"
+        },
+        "prompt": "bank",
+        "choices": [
+          "La banque est fermée.",
+          "J’habite en ville.",
+          "Ma rue est calme."
+        ]
+      },
+      {
+        "id": "remote-city-a1-enl2-6",
+        "fr": "J’envoie une lettre à la poste.",
+        "l2": "J’envoie une lettre à la poste.",
+        "en": "post office",
+        "gloss": {
+          "en": "post office",
+          "es": "oficina de correos",
+          "ru": "почтовое отделение"
+        },
+        "prompt": "post office",
+        "choices": [
+          "J’envoie une lettre à la poste.",
+          "J’habite en ville.",
+          "Ma rue est calme."
+        ]
+      },
+      {
+        "id": "remote-city-a1-enl2-7",
+        "fr": "Nous allons au cinéma.",
+        "l2": "Nous allons au cinéma.",
+        "en": "cinema",
+        "gloss": {
+          "en": "cinema",
+          "es": "cine",
+          "ru": "кино"
+        },
+        "prompt": "cinema",
+        "choices": [
+          "Nous allons au cinéma.",
+          "J’habite en ville.",
+          "Ma rue est calme."
+        ]
+      },
+      {
+        "id": "remote-city-a1-enl2-8",
+        "fr": "Les enfants jouent dans le parc.",
+        "l2": "Les enfants jouent dans le parc.",
+        "en": "park",
+        "gloss": {
+          "en": "park",
+          "es": "parque",
+          "ru": "парк"
+        },
+        "prompt": "park",
+        "choices": [
+          "Les enfants jouent dans le parc.",
+          "J’habite en ville.",
+          "Ma rue est calme."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-city-a1-prm-1",
+        "en": "town / city",
+        "gloss": {
+          "en": "town / city",
+          "es": "pueblo / ciudad",
+          "ru": "город / город"
+        },
+        "answers": [
+          "ville",
+          "la ville"
+        ],
+        "target": "la ville"
+      },
+      {
+        "id": "remote-city-a1-prm-2",
+        "en": "street",
+        "gloss": {
+          "en": "street",
+          "es": "calle",
+          "ru": "улица"
+        },
+        "answers": [
+          "rue",
+          "la rue"
+        ],
+        "target": "la rue"
+      },
+      {
+        "id": "remote-city-a1-prm-3",
+        "en": "square",
+        "gloss": {
+          "en": "square",
+          "es": "cuadrado",
+          "ru": "квадрат"
+        },
+        "answers": [
+          "place",
+          "la place"
+        ],
+        "target": "la place"
+      },
+      {
+        "id": "remote-city-a1-prm-4",
+        "en": "shop",
+        "gloss": {
+          "en": "shop",
+          "es": "comercio",
+          "ru": "магазин"
+        },
+        "answers": [
+          "magasin",
+          "le magasin"
+        ],
+        "target": "le magasin"
+      },
+      {
+        "id": "remote-city-a1-prm-5",
+        "en": "bank",
+        "gloss": {
+          "en": "bank",
+          "es": "banco",
+          "ru": "банк"
+        },
+        "answers": [
+          "banque",
+          "la banque"
+        ],
+        "target": "la banque"
+      },
+      {
+        "id": "remote-city-a1-prm-6",
+        "en": "post office",
+        "gloss": {
+          "en": "post office",
+          "es": "oficina de correos",
+          "ru": "почтовое отделение"
+        },
+        "answers": [
+          "poste",
+          "la poste"
+        ],
+        "target": "la poste"
+      },
+      {
+        "id": "remote-city-a1-prm-7",
+        "en": "cinema",
+        "gloss": {
+          "en": "cinema",
+          "es": "cine",
+          "ru": "кино"
+        },
+        "answers": [
+          "cinéma",
+          "le cinéma"
+        ],
+        "target": "le cinéma"
+      },
+      {
+        "id": "remote-city-a1-prm-8",
+        "en": "park",
+        "gloss": {
+          "en": "park",
+          "es": "parque",
+          "ru": "парк"
+        },
+        "answers": [
+          "parc",
+          "le parc"
+        ],
+        "target": "le parc"
+      },
+      {
+        "id": "remote-city-a1-prm-9",
+        "en": "museum",
+        "gloss": {
+          "en": "museum",
+          "es": "museo",
+          "ru": "музей"
+        },
+        "answers": [
+          "musée",
+          "le musée"
+        ],
+        "target": "le musée"
+      },
+      {
+        "id": "remote-city-a1-prm-10",
+        "en": "train station",
+        "gloss": {
+          "en": "train station",
+          "es": "estación de tren",
+          "ru": "железнодорожная станция"
+        },
+        "answers": [
+          "gare",
+          "la gare"
+        ],
+        "target": "la gare"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-city-a1-pair-1",
+        "a": {
+          "fr": "ville",
+          "l2": "ville",
+          "en": "town / city",
+          "gloss": {
+            "en": "town / city",
+            "es": "pueblo / ciudad",
+            "ru": "город / город"
+          }
+        },
+        "b": {
+          "fr": "rue",
+          "l2": "rue",
+          "en": "street",
+          "gloss": {
+            "en": "street",
+            "es": "calle",
+            "ru": "улица"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-city-a1-pair-2",
+        "a": {
+          "fr": "place",
+          "l2": "place",
+          "en": "square",
+          "gloss": {
+            "en": "square",
+            "es": "cuadrado",
+            "ru": "квадрат"
+          }
+        },
+        "b": {
+          "fr": "magasin",
+          "l2": "magasin",
+          "en": "shop",
+          "gloss": {
+            "en": "shop",
+            "es": "comercio",
+            "ru": "магазин"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-city-a1-pair-3",
+        "a": {
+          "fr": "banque",
+          "l2": "banque",
+          "en": "bank",
+          "gloss": {
+            "en": "bank",
+            "es": "banco",
+            "ru": "банк"
+          }
+        },
+        "b": {
+          "fr": "poste",
+          "l2": "poste",
+          "en": "post office",
+          "gloss": {
+            "en": "post office",
+            "es": "oficina de correos",
+            "ru": "почтовое отделение"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-city-a1-pair-4",
+        "a": {
+          "fr": "cinéma",
+          "l2": "cinéma",
+          "en": "cinema",
+          "gloss": {
+            "en": "cinema",
+            "es": "cine",
+            "ru": "кино"
+          }
+        },
+        "b": {
+          "fr": "parc",
+          "l2": "parc",
+          "en": "park",
+          "gloss": {
+            "en": "park",
+            "es": "parque",
+            "ru": "парк"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-city-a1-pair-5",
+        "a": {
+          "fr": "musée",
+          "l2": "musée",
+          "en": "museum",
+          "gloss": {
+            "en": "museum",
+            "es": "museo",
+            "ru": "музей"
+          }
+        },
+        "b": {
+          "fr": "gare",
+          "l2": "gare",
+          "en": "train station",
+          "gloss": {
+            "en": "train station",
+            "es": "estación de tren",
+            "ru": "железнодорожная станция"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-city-a1-gap-1",
+        "fr": "J’habite en ville.",
+        "l2": "J’habite en ville.",
+        "speak": "J’habite en ville.",
+        "blank": "ville",
+        "en": "town / city",
+        "gloss": {
+          "en": "town / city",
+          "es": "pueblo / ciudad",
+          "ru": "город / город"
+        }
+      },
+      {
+        "id": "remote-city-a1-gap-2",
+        "fr": "Ma rue est calme.",
+        "l2": "Ma rue est calme.",
+        "speak": "Ma rue est calme.",
+        "blank": "rue",
+        "en": "street",
+        "gloss": {
+          "en": "street",
+          "es": "calle",
+          "ru": "улица"
+        }
+      },
+      {
+        "id": "remote-city-a1-gap-3",
+        "fr": "La place est au centre.",
+        "l2": "La place est au centre.",
+        "speak": "La place est au centre.",
+        "blank": "place",
+        "en": "square",
+        "gloss": {
+          "en": "square",
+          "es": "cuadrado",
+          "ru": "квадрат"
+        }
+      },
+      {
+        "id": "remote-city-a1-gap-4",
+        "fr": "Le magasin ouvre à neuf heures.",
+        "l2": "Le magasin ouvre à neuf heures.",
+        "speak": "Le magasin ouvre à neuf heures.",
+        "blank": "magasin",
+        "en": "shop",
+        "gloss": {
+          "en": "shop",
+          "es": "comercio",
+          "ru": "магазин"
+        }
+      },
+      {
+        "id": "remote-city-a1-gap-5",
+        "fr": "La banque est fermée.",
+        "l2": "La banque est fermée.",
+        "speak": "La banque est fermée.",
+        "blank": "banque",
+        "en": "bank",
+        "gloss": {
+          "en": "bank",
+          "es": "banco",
+          "ru": "банк"
+        }
+      },
+      {
+        "id": "remote-city-a1-gap-6",
+        "fr": "J’envoie une lettre à la poste.",
+        "l2": "J’envoie une lettre à la poste.",
+        "speak": "J’envoie une lettre à la poste.",
+        "blank": "poste",
+        "en": "post office",
+        "gloss": {
+          "en": "post office",
+          "es": "oficina de correos",
+          "ru": "почтовое отделение"
+        }
+      },
+      {
+        "id": "remote-city-a1-gap-7",
+        "fr": "Nous allons au cinéma.",
+        "l2": "Nous allons au cinéma.",
+        "speak": "Nous allons au cinéma.",
+        "blank": "cinéma",
+        "en": "cinema",
+        "gloss": {
+          "en": "cinema",
+          "es": "cine",
+          "ru": "кино"
+        }
+      },
+      {
+        "id": "remote-city-a1-gap-8",
+        "fr": "Les enfants jouent dans le parc.",
+        "l2": "Les enfants jouent dans le parc.",
+        "speak": "Les enfants jouent dans le parc.",
+        "blank": "parc",
+        "en": "park",
+        "gloss": {
+          "en": "park",
+          "es": "parque",
+          "ru": "парк"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-city-a1-ord-1",
+        "fr": "J’habite en ville.",
+        "l2": "J’habite en ville.",
+        "en": "town / city",
+        "gloss": {
+          "en": "town / city",
+          "es": "pueblo / ciudad",
+          "ru": "город / город"
+        },
+        "words": [
+          "J’habite",
+          "en",
+          "ville."
+        ]
+      },
+      {
+        "id": "remote-city-a1-ord-2",
+        "fr": "Ma rue est calme.",
+        "l2": "Ma rue est calme.",
+        "en": "street",
+        "gloss": {
+          "en": "street",
+          "es": "calle",
+          "ru": "улица"
+        },
+        "words": [
+          "Ma",
+          "rue",
+          "est",
+          "calme."
+        ]
+      },
+      {
+        "id": "remote-city-a1-ord-3",
+        "fr": "La place est au centre.",
+        "l2": "La place est au centre.",
+        "en": "square",
+        "gloss": {
+          "en": "square",
+          "es": "cuadrado",
+          "ru": "квадрат"
+        },
+        "words": [
+          "La",
+          "place",
+          "est",
+          "au",
+          "centre."
+        ]
+      },
+      {
+        "id": "remote-city-a1-ord-4",
+        "fr": "Le magasin ouvre à neuf heures.",
+        "l2": "Le magasin ouvre à neuf heures.",
+        "en": "shop",
+        "gloss": {
+          "en": "shop",
+          "es": "comercio",
+          "ru": "магазин"
+        },
+        "words": [
+          "Le",
+          "magasin",
+          "ouvre",
+          "à",
+          "neuf",
+          "heures."
+        ]
+      },
+      {
+        "id": "remote-city-a1-ord-5",
+        "fr": "La banque est fermée.",
+        "l2": "La banque est fermée.",
+        "en": "bank",
+        "gloss": {
+          "en": "bank",
+          "es": "banco",
+          "ru": "банк"
+        },
+        "words": [
+          "La",
+          "banque",
+          "est",
+          "fermée."
+        ]
+      },
+      {
+        "id": "remote-city-a1-ord-6",
+        "fr": "J’envoie une lettre à la poste.",
+        "l2": "J’envoie une lettre à la poste.",
+        "en": "post office",
+        "gloss": {
+          "en": "post office",
+          "es": "oficina de correos",
+          "ru": "почтовое отделение"
+        },
+        "words": [
+          "J’envoie",
+          "une",
+          "lettre",
+          "à",
+          "la",
+          "poste."
+        ]
+      },
+      {
+        "id": "remote-city-a1-ord-7",
+        "fr": "Nous allons au cinéma.",
+        "l2": "Nous allons au cinéma.",
+        "en": "cinema",
+        "gloss": {
+          "en": "cinema",
+          "es": "cine",
+          "ru": "кино"
+        },
+        "words": [
+          "Nous",
+          "allons",
+          "au",
+          "cinéma."
+        ]
+      },
+      {
+        "id": "remote-city-a1-ord-8",
+        "fr": "Les enfants jouent dans le parc.",
+        "l2": "Les enfants jouent dans le parc.",
+        "en": "park",
+        "gloss": {
+          "en": "park",
+          "es": "parque",
+          "ru": "парк"
+        },
+        "words": [
+          "Les",
+          "enfants",
+          "jouent",
+          "dans",
+          "le",
+          "parc."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-city-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "vil",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "ville",
+          "l2": "ville",
+          "en": "town / city",
+          "gloss": {
+            "en": "town / city",
+            "es": "pueblo / ciudad",
+            "ru": "город / город"
+          },
+          "ipa": "vil"
+        },
+        {
+          "fr": "rue",
+          "l2": "rue",
+          "en": "street",
+          "gloss": {
+            "en": "street",
+            "es": "calle",
+            "ru": "улица"
+          },
+          "ipa": "ʁy"
+        },
+        {
+          "fr": "place",
+          "l2": "place",
+          "en": "square",
+          "gloss": {
+            "en": "square",
+            "es": "cuadrado",
+            "ru": "квадрат"
+          },
+          "ipa": "plas"
+        },
+        {
+          "fr": "magasin",
+          "l2": "magasin",
+          "en": "shop",
+          "gloss": {
+            "en": "shop",
+            "es": "comercio",
+            "ru": "магазин"
+          },
+          "ipa": "ma.ɡa.zɛ̃"
+        },
+        {
+          "fr": "banque",
+          "l2": "banque",
+          "en": "bank",
+          "gloss": {
+            "en": "bank",
+            "es": "banco",
+            "ru": "банк"
+          },
+          "ipa": "bɑ̃k"
+        }
+      ]
+    }
+  ]
 }

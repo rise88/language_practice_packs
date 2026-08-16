@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "novosti-b1",
-  "version": 1,
+  "version": 2,
   "level": "b1",
   "lang": "ru",
   "title": {
@@ -464,7 +464,8 @@
       "why": {
         "en": "Essential for negation and quantities.",
         "es": "Esencial para la negación y las cantidades.",
-        "ru": "Необходимо для отрицания и количеств."
+        "ru": "Необходимо для отрицания и количеств.",
+        "fr": "Utile pour appliquer : Génitif après нет / много."
       },
       "table": [
         [
@@ -492,7 +493,18 @@
             "родительный",
             "винительный",
             "дательный"
-          ]
+          ],
+          "gloss": {
+            "en": "After “no” you need ___ case.",
+            "es": "Después de “no” necesitas ___ caso.",
+            "ru": "После «нет» нужен ___ падеж."
+          },
+          "why": {
+            "fr": "Réponse : « родительный ».",
+            "en": "Answer: “родительный”.",
+            "es": "Respuesta: « родительный ».",
+            "ru": "Ответ: « родительный »."
+          }
         },
         {
           "id": "remote-novosti-b1-gq-1-2",
@@ -502,7 +514,18 @@
             "заголовок",
             "есть",
             "это"
-          ]
+          ],
+          "gloss": {
+            "en": "I have no ___ . (topic: title)",
+            "es": "No tengo ___ . (tema: título)",
+            "ru": "У меня нет ___ . (тема: заголовок)"
+          },
+          "why": {
+            "fr": "Réponse : « заголовок ».",
+            "en": "Answer: “заголовок”.",
+            "es": "Respuesta: « заголовок ».",
+            "ru": "Ответ: « заголовок »."
+          }
         },
         {
           "id": "remote-novosti-b1-gq-1-3",
@@ -512,7 +535,18 @@
             "родительный",
             "творительный",
             "именительный"
-          ]
+          ],
+          "gloss": {
+            "en": "A lot / little / without → ___ case.",
+            "es": "Mucho / poco / sin → ___ caso.",
+            "ru": "Много / мало / без → ___ падеж."
+          },
+          "why": {
+            "fr": "Réponse : « родительный ».",
+            "en": "Answer: “родительный”.",
+            "es": "Respuesta: « родительный ».",
+            "ru": "Ответ: « родительный »."
+          }
         },
         {
           "id": "remote-novosti-b1-gq-1-4",
@@ -522,7 +556,18 @@
             "м",
             "ж",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "Link to topic: title/source. Kind of \"heading\"?",
+            "es": "Enlace al tema: título/fuente. ¿Una especie de \"rumbo\"?",
+            "ru": "Свяжите с темой: заголовок / источник. Род «заголовок»?"
+          },
+          "why": {
+            "fr": "Réponse : « м ».",
+            "en": "Answer: “м”.",
+            "es": "Respuesta: « м ».",
+            "ru": "Ответ: « м »."
+          }
         },
         {
           "id": "remote-novosti-b1-gq-1-5",
@@ -532,7 +577,18 @@
             "м",
             "ж",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "Link to topic: title/source. Kind of \"heading\"?",
+            "es": "Enlace al tema: título/fuente. ¿Una especie de \"rumbo\"?",
+            "ru": "Свяжите с темой: заголовок / источник. Род «заголовок»?"
+          },
+          "why": {
+            "fr": "Réponse : « м ».",
+            "en": "Answer: “м”.",
+            "es": "Respuesta: « м ».",
+            "ru": "Ответ: « м »."
+          }
         }
       ]
     },
@@ -553,7 +609,8 @@
       "why": {
         "en": "Choosing the right motion verb sounds natural.",
         "es": "Elegir el verbo de movimiento correcto suena natural.",
-        "ru": "Правильный глагол движения звучит естественно."
+        "ru": "Правильный глагол движения звучит естественно.",
+        "fr": "Utile pour appliquer : Verbes de mouvement (идти / ехать)."
       },
       "table": [
         [
@@ -581,7 +638,18 @@
             "иду",
             "еду",
             "летаю"
-          ]
+          ],
+          "gloss": {
+            "en": "Walking to the park: I ___ .",
+            "es": "Caminando al parque: Yo ___ .",
+            "ru": "Пешком в парк: я ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « иду ».",
+            "en": "Answer: “иду”.",
+            "es": "Respuesta: « иду ».",
+            "ru": "Ответ: « иду »."
+          }
         },
         {
           "id": "remote-novosti-b1-gq-2-2",
@@ -591,7 +659,18 @@
             "еду",
             "иду",
             "хожу"
-          ]
+          ],
+          "gloss": {
+            "en": "By bus: I ___ .",
+            "es": "En autobús: Yo ___ .",
+            "ru": "На автобусе: я ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « еду ».",
+            "en": "Answer: “еду”.",
+            "es": "Respuesta: « еду ».",
+            "ru": "Ответ: « еду »."
+          }
         },
         {
           "id": "remote-novosti-b1-gq-2-3",
@@ -601,7 +680,18 @@
             "ехать",
             "идти",
             "быть"
-          ]
+          ],
+          "gloss": {
+            "en": "A specific direction by car is the verb ___ .",
+            "es": "Una dirección específica en coche es el verbo ___ .",
+            "ru": "Конкретное направление на машине — глагол ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « ехать ».",
+            "en": "Answer: “ехать”.",
+            "es": "Respuesta: « ехать ».",
+            "ru": "Ответ: « ехать »."
+          }
         },
         {
           "id": "remote-novosti-b1-gq-2-4",
@@ -611,7 +701,18 @@
             "ж",
             "м",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "Relate to the topic: newspaper/journalist. Kind of \"newspaper\"?",
+            "es": "Relacionado con el tema: periódico/periodista. ¿Una especie de \"periódico\"?",
+            "ru": "Свяжите с темой: газета / журналист. Род «газета»?"
+          },
+          "why": {
+            "fr": "Réponse : « ж ».",
+            "en": "Answer: “ж”.",
+            "es": "Respuesta: « ж ».",
+            "ru": "Ответ: « ж »."
+          }
         },
         {
           "id": "remote-novosti-b1-gq-2-5",
@@ -621,7 +722,18 @@
             "ж",
             "м",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "Relate to the topic: newspaper/journalist. Kind of \"newspaper\"?",
+            "es": "Relacionado con el tema: periódico/periodista. ¿Una especie de \"periódico\"?",
+            "ru": "Свяжите с темой: газета / журналист. Род «газета»?"
+          },
+          "why": {
+            "fr": "Réponse : « ж ».",
+            "en": "Answer: “ж”.",
+            "es": "Respuesta: « ж ».",
+            "ru": "Ответ: « ж »."
+          }
         }
       ]
     }
@@ -827,7 +939,998 @@
           "среды."
         ]
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-novosti-b1-fren-1",
+        "l2": "текущие события",
+        "en": "current events",
+        "gloss": {
+          "en": "current events",
+          "es": "eventos actuales",
+          "ru": "текущие события"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-2",
+        "l2": "заголовок",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-3",
+        "l2": "газета",
+        "en": "newspaper",
+        "gloss": {
+          "en": "newspaper",
+          "es": "periódico",
+          "ru": "газета"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-4",
+        "l2": "статья",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-5",
+        "l2": "источник",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-6",
+        "l2": "журналист",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        }
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-novosti-b1-enl2-1",
+        "fr": "Я слежу за новостями по утрам по радио.",
+        "l2": "Я слежу за новостями по утрам по радио.",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        },
+        "prompt": "current events / news",
+        "choices": [
+          "Я слежу за новостями по утрам по радио.",
+          "Название статьи вводит в заблуждение.",
+          "Начинаются восьмичасовые новости."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-enl2-2",
+        "fr": "Название статьи вводит в заблуждение.",
+        "l2": "Название статьи вводит в заблуждение.",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "prompt": "headline",
+        "choices": [
+          "Название статьи вводит в заблуждение.",
+          "Я слежу за новостями по утрам по радио.",
+          "Начинаются восьмичасовые новости."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-enl2-3",
+        "fr": "Начинаются восьмичасовые новости.",
+        "l2": "Начинаются восьмичасовые новости.",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        },
+        "prompt": "newspaper / news programme",
+        "choices": [
+          "Начинаются восьмичасовые новости.",
+          "Я слежу за новостями по утрам по радио.",
+          "Название статьи вводит в заблуждение."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-enl2-4",
+        "fr": "В данной статье представлены несколько точек зрения.",
+        "l2": "В данной статье представлены несколько точек зрения.",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        },
+        "prompt": "article",
+        "choices": [
+          "В данной статье представлены несколько точек зрения.",
+          "Я слежу за новостями по утрам по радио.",
+          "Название статьи вводит в заблуждение."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-enl2-5",
+        "fr": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+        "l2": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "prompt": "source",
+        "choices": [
+          "Пожалуйста, проверьте источник, прежде чем поделиться.",
+          "Я слежу за новостями по утрам по радио.",
+          "Название статьи вводит в заблуждение."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-enl2-6",
+        "fr": "Журналист задает конкретный вопрос.",
+        "l2": "Журналист задает конкретный вопрос.",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        },
+        "prompt": "journalist",
+        "choices": [
+          "Журналист задает конкретный вопрос.",
+          "Я слежу за новостями по утрам по радио.",
+          "Название статьи вводит в заблуждение."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-enl2-7",
+        "fr": "Интервью длилось двадцать минут.",
+        "l2": "Интервью длилось двадцать минут.",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        },
+        "prompt": "interview",
+        "choices": [
+          "Интервью длилось двадцать минут.",
+          "Я слежу за новостями по утрам по радио.",
+          "Название статьи вводит в заблуждение."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-enl2-8",
+        "fr": "Дебаты стали слишком агрессивными.",
+        "l2": "Дебаты стали слишком агрессивными.",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        },
+        "prompt": "debate",
+        "choices": [
+          "Дебаты стали слишком агрессивными.",
+          "Я слежу за новостями по утрам по радио.",
+          "Название статьи вводит в заблуждение."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-novosti-b1-prm-1",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        },
+        "answers": [
+          "текущие события",
+          "ж текущие события"
+        ],
+        "target": "ж текущие события"
+      },
+      {
+        "id": "remote-novosti-b1-prm-2",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "answers": [
+          "заголовок",
+          "м заголовок"
+        ],
+        "target": "м заголовок"
+      },
+      {
+        "id": "remote-novosti-b1-prm-3",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        },
+        "answers": [
+          "газета",
+          "ж газета"
+        ],
+        "target": "ж газета"
+      },
+      {
+        "id": "remote-novosti-b1-prm-4",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        },
+        "answers": [
+          "статья",
+          "ж статья"
+        ],
+        "target": "ж статья"
+      },
+      {
+        "id": "remote-novosti-b1-prm-5",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "answers": [
+          "источник",
+          "м источник"
+        ],
+        "target": "м источник"
+      },
+      {
+        "id": "remote-novosti-b1-prm-6",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        },
+        "answers": [
+          "журналист",
+          "м журналист"
+        ],
+        "target": "м журналист"
+      },
+      {
+        "id": "remote-novosti-b1-prm-7",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        },
+        "answers": [
+          "интервью",
+          "м интервью"
+        ],
+        "target": "м интервью"
+      },
+      {
+        "id": "remote-novosti-b1-prm-8",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        },
+        "answers": [
+          "дебаты",
+          "м дебаты"
+        ],
+        "target": "м дебаты"
+      },
+      {
+        "id": "remote-novosti-b1-prm-9",
+        "en": "rumour",
+        "gloss": {
+          "en": "rumour",
+          "es": "rumor",
+          "ru": "слух"
+        },
+        "answers": [
+          "слух",
+          "м слух"
+        ],
+        "target": "м слух"
+      },
+      {
+        "id": "remote-novosti-b1-prm-10",
+        "en": "fake news",
+        "gloss": {
+          "en": "fake news",
+          "es": "noticias falsas",
+          "ru": "фейковые новости"
+        },
+        "answers": [
+          "фейковые новости",
+          "м фейковые новости"
+        ],
+        "target": "м фейковые новости"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-novosti-b1-sign-1",
+        "fr": "текущие события",
+        "l2": "текущие события",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        },
+        "choices": [
+          "current events / news",
+          "headline",
+          "newspaper / news programme"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-2",
+        "fr": "заголовок",
+        "l2": "заголовок",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "choices": [
+          "headline",
+          "current events / news",
+          "newspaper / news programme"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-3",
+        "fr": "газета",
+        "l2": "газета",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        },
+        "choices": [
+          "newspaper / news programme",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-4",
+        "fr": "статья",
+        "l2": "статья",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        },
+        "choices": [
+          "article",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-5",
+        "fr": "источник",
+        "l2": "источник",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "choices": [
+          "source",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-6",
+        "fr": "журналист",
+        "l2": "журналист",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        },
+        "choices": [
+          "journalist",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-7",
+        "fr": "интервью",
+        "l2": "интервью",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        },
+        "choices": [
+          "interview",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-8",
+        "fr": "дебаты",
+        "l2": "дебаты",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        },
+        "choices": [
+          "debate",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-9",
+        "fr": "слух",
+        "l2": "слух",
+        "en": "rumour",
+        "gloss": {
+          "en": "rumour",
+          "es": "rumor",
+          "ru": "слух"
+        },
+        "choices": [
+          "rumour",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-10",
+        "fr": "фейковые новости",
+        "l2": "фейковые новости",
+        "en": "fake news",
+        "gloss": {
+          "en": "fake news",
+          "es": "noticias falsas",
+          "ru": "фейковые новости"
+        },
+        "choices": [
+          "fake news",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-11",
+        "fr": "прямой эфир",
+        "l2": "прямой эфир",
+        "en": "live (broadcast)",
+        "gloss": {
+          "en": "live (broadcast)",
+          "es": "transmisión en vivo)",
+          "ru": "прямой эфир (трансляция)"
+        },
+        "choices": [
+          "live (broadcast)",
+          "current events / news",
+          "headline"
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-sign-12",
+        "fr": "первая страница",
+        "l2": "первая страница",
+        "en": "front page",
+        "gloss": {
+          "en": "front page",
+          "es": "página delantera",
+          "ru": "первая страница"
+        },
+        "choices": [
+          "front page",
+          "current events / news",
+          "headline"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-novosti-b1-pair-1",
+        "a": {
+          "fr": "текущие события",
+          "l2": "текущие события",
+          "en": "current events / news",
+          "gloss": {
+            "en": "current events / news",
+            "es": "eventos actuales / noticias",
+            "ru": "текущие события/новости"
+          }
+        },
+        "b": {
+          "fr": "заголовок",
+          "l2": "заголовок",
+          "en": "headline",
+          "gloss": {
+            "en": "headline",
+            "es": "titular",
+            "ru": "заголовок"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-novosti-b1-pair-2",
+        "a": {
+          "fr": "газета",
+          "l2": "газета",
+          "en": "newspaper / news programme",
+          "gloss": {
+            "en": "newspaper / news programme",
+            "es": "periódico/programa de noticias",
+            "ru": "газета/информационная программа"
+          }
+        },
+        "b": {
+          "fr": "статья",
+          "l2": "статья",
+          "en": "article",
+          "gloss": {
+            "en": "article",
+            "es": "artículo",
+            "ru": "статья"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-novosti-b1-pair-3",
+        "a": {
+          "fr": "источник",
+          "l2": "источник",
+          "en": "source",
+          "gloss": {
+            "en": "source",
+            "es": "fuente",
+            "ru": "источник"
+          }
+        },
+        "b": {
+          "fr": "журналист",
+          "l2": "журналист",
+          "en": "journalist",
+          "gloss": {
+            "en": "journalist",
+            "es": "periodista",
+            "ru": "журналист"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-novosti-b1-pair-4",
+        "a": {
+          "fr": "интервью",
+          "l2": "интервью",
+          "en": "interview",
+          "gloss": {
+            "en": "interview",
+            "es": "entrevista",
+            "ru": "интервью"
+          }
+        },
+        "b": {
+          "fr": "дебаты",
+          "l2": "дебаты",
+          "en": "debate",
+          "gloss": {
+            "en": "debate",
+            "es": "debate",
+            "ru": "дебаты"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-novosti-b1-pair-5",
+        "a": {
+          "fr": "слух",
+          "l2": "слух",
+          "en": "rumour",
+          "gloss": {
+            "en": "rumour",
+            "es": "rumor",
+            "ru": "слух"
+          }
+        },
+        "b": {
+          "fr": "фейковые новости",
+          "l2": "фейковые новости",
+          "en": "fake news",
+          "gloss": {
+            "en": "fake news",
+            "es": "noticias falsas",
+            "ru": "фейковые новости"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-novosti-b1-gap-1",
+        "fr": "Я слежу за новостями по утрам по радио.",
+        "l2": "Я слежу за новостями по утрам по радио.",
+        "speak": "Я слежу за новостями по утрам по радио.",
+        "blank": "текущие события",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-gap-2",
+        "fr": "Название статьи вводит в заблуждение.",
+        "l2": "Название статьи вводит в заблуждение.",
+        "speak": "Название статьи вводит в заблуждение.",
+        "blank": "заголовок",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-gap-3",
+        "fr": "Начинаются восьмичасовые новости.",
+        "l2": "Начинаются восьмичасовые новости.",
+        "speak": "Начинаются восьмичасовые новости.",
+        "blank": "газета",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-gap-4",
+        "fr": "В данной статье представлены несколько точек зрения.",
+        "l2": "В данной статье представлены несколько точек зрения.",
+        "speak": "В данной статье представлены несколько точек зрения.",
+        "blank": "статья",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-gap-5",
+        "fr": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+        "l2": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+        "speak": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+        "blank": "источник",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-gap-6",
+        "fr": "Журналист задает конкретный вопрос.",
+        "l2": "Журналист задает конкретный вопрос.",
+        "speak": "Журналист задает конкретный вопрос.",
+        "blank": "журналист",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-gap-7",
+        "fr": "Интервью длилось двадцать минут.",
+        "l2": "Интервью длилось двадцать минут.",
+        "speak": "Интервью длилось двадцать минут.",
+        "blank": "интервью",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-gap-8",
+        "fr": "Дебаты стали слишком агрессивными.",
+        "l2": "Дебаты стали слишком агрессивными.",
+        "speak": "Дебаты стали слишком агрессивными.",
+        "blank": "дебаты",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-novosti-b1-ord-1",
+        "fr": "Я слежу за новостями по утрам по радио.",
+        "l2": "Я слежу за новостями по утрам по радио.",
+        "en": "current events / news",
+        "gloss": {
+          "en": "current events / news",
+          "es": "eventos actuales / noticias",
+          "ru": "текущие события/новости"
+        },
+        "words": [
+          "Я",
+          "слежу",
+          "за",
+          "новостями",
+          "по",
+          "утрам",
+          "по",
+          "радио."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-ord-2",
+        "fr": "Название статьи вводит в заблуждение.",
+        "l2": "Название статьи вводит в заблуждение.",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "words": [
+          "Название",
+          "статьи",
+          "вводит",
+          "в",
+          "заблуждение."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-ord-3",
+        "fr": "Начинаются восьмичасовые новости.",
+        "l2": "Начинаются восьмичасовые новости.",
+        "en": "newspaper / news programme",
+        "gloss": {
+          "en": "newspaper / news programme",
+          "es": "periódico/programa de noticias",
+          "ru": "газета/информационная программа"
+        },
+        "words": [
+          "Начинаются",
+          "восьмичасовые",
+          "новости."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-ord-4",
+        "fr": "В данной статье представлены несколько точек зрения.",
+        "l2": "В данной статье представлены несколько точек зрения.",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        },
+        "words": [
+          "В",
+          "данной",
+          "статье",
+          "представлены",
+          "несколько",
+          "точек",
+          "зрения."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-ord-5",
+        "fr": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+        "l2": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "words": [
+          "Пожалуйста,",
+          "проверьте",
+          "источник,",
+          "прежде",
+          "чем",
+          "поделиться."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-ord-6",
+        "fr": "Журналист задает конкретный вопрос.",
+        "l2": "Журналист задает конкретный вопрос.",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        },
+        "words": [
+          "Журналист",
+          "задает",
+          "конкретный",
+          "вопрос."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-ord-7",
+        "fr": "Интервью длилось двадцать минут.",
+        "l2": "Интервью длилось двадцать минут.",
+        "en": "interview",
+        "gloss": {
+          "en": "interview",
+          "es": "entrevista",
+          "ru": "интервью"
+        },
+        "words": [
+          "Интервью",
+          "длилось",
+          "двадцать",
+          "минут."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-ord-8",
+        "fr": "Дебаты стали слишком агрессивными.",
+        "l2": "Дебаты стали слишком агрессивными.",
+        "en": "debate",
+        "gloss": {
+          "en": "debate",
+          "es": "debate",
+          "ru": "дебаты"
+        },
+        "words": [
+          "Дебаты",
+          "стали",
+          "слишком",
+          "агрессивными."
+        ]
+      }
     ]
   },
-  "sounds": []
+  "sounds": [
+    {
+      "id": "remote-novosti-b1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "tjekuɕːije sobɨtˈija",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "текущие события",
+          "l2": "текущие события",
+          "en": "current events / news",
+          "gloss": {
+            "en": "current events / news",
+            "es": "eventos actuales / noticias",
+            "ru": "текущие события/новости"
+          },
+          "ipa": "tjekuɕːije sobɨtˈija"
+        },
+        {
+          "fr": "заголовок",
+          "l2": "заголовок",
+          "en": "headline",
+          "gloss": {
+            "en": "headline",
+            "es": "titular",
+            "ru": "заголовок"
+          },
+          "ipa": "zaɡolˈovok"
+        },
+        {
+          "fr": "газета",
+          "l2": "газета",
+          "en": "newspaper / news programme",
+          "gloss": {
+            "en": "newspaper / news programme",
+            "es": "periódico/programa de noticias",
+            "ru": "газета/информационная программа"
+          },
+          "ipa": "ɡˈazjeta"
+        },
+        {
+          "fr": "статья",
+          "l2": "статья",
+          "en": "article",
+          "gloss": {
+            "en": "article",
+            "es": "artículo",
+            "ru": "статья"
+          },
+          "ipa": "stˈatʲja"
+        },
+        {
+          "fr": "источник",
+          "l2": "источник",
+          "en": "source",
+          "gloss": {
+            "en": "source",
+            "es": "fuente",
+            "ru": "источник"
+          },
+          "ipa": "istˈotɕnik"
+        }
+      ]
+    }
+  ]
 }

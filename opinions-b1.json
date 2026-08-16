@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "opinions-b1",
-  "version": 4,
+  "version": 5,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "I think it ___ a good idea.",
+            "es": "Creo que ___ es una buena idea.",
+            "ru": "Я думаю, что это ___ хорошая идея."
+          },
+          "why": {
+            "fr": "Réponse : « est ».",
+            "en": "Answer: “est”.",
+            "es": "Respuesta: « est ».",
+            "ru": "Ответ: « est »."
+          }
         },
         {
           "id": "remote-opinions-gq-2",
@@ -537,7 +548,18 @@
             "est",
             "soit",
             "était"
-          ]
+          ],
+          "gloss": {
+            "en": "I don't think this ___ so simple.",
+            "es": "No creo que esto ___ sea tan simple.",
+            "ru": "Я не думаю, что это ___ так просто."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-opinions-gq-3",
@@ -547,13 +569,25 @@
             "as",
             "aies",
             "auras"
-          ]
+          ],
+          "gloss": {
+            "en": "I doubt you ___ right.",
+            "es": "Dudo que ___ tengas razón.",
+            "ru": "Я сомневаюсь, что ты ___ прав."
+          },
+          "why": {
+            "fr": "Réponse : « aies ».",
+            "en": "Answer: “aies”.",
+            "es": "Respuesta: « aies ».",
+            "ru": "Ответ: « aies »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Indicative vs subjunctive after opinion.",
         "es": "Útil cuando necesitas aplicar: Indicativo vs subjuntivo después de opinión.",
-        "ru": "Полезно, когда вам нужно подать заявку: Указательное наклонение или сослагательное наклонение после мнения."
+        "ru": "Полезно, когда вам нужно подать заявку: Указательное наклонение или сослагательное наклонение после мнения.",
+        "fr": "Utile pour appliquer : Je pense que / je ne pense pas que."
       }
     },
     {
@@ -606,7 +640,18 @@
             "D’un côté",
             "Parce que",
             "Alors"
-          ]
+          ],
+          "gloss": {
+            "en": "___ it’s practical, on the other hand it’s expensive.",
+            "es": "___ es práctico, por otro lado es caro.",
+            "ru": "___ это практично, но с другой стороны дорого."
+          },
+          "why": {
+            "fr": "Réponse : « D’un côté ».",
+            "en": "Answer: “D’un côté”.",
+            "es": "Respuesta: « D’un côté ».",
+            "ru": "Ответ: « D’un côté »."
+          }
         },
         {
           "id": "remote-opinions-gq-5",
@@ -616,13 +661,25 @@
             "en revanche",
             "parce que",
             "donc"
-          ]
+          ],
+          "gloss": {
+            "en": "It’s useful, ___ it’s expensive.",
+            "es": "Es útil, ___ es caro.",
+            "ru": "Это полезно, ___ это дорого."
+          },
+          "why": {
+            "fr": "Réponse : « en revanche ».",
+            "en": "Answer: “en revanche”.",
+            "es": "Respuesta: « en revanche ».",
+            "ru": "Ответ: « en revanche »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Weighing two sides.",
         "es": "Útil cuando es necesario aplicar: Pesaje por dos caras.",
-        "ru": "Полезно, когда нужно применить: Взвешивание двух сторон."
+        "ru": "Полезно, когда нужно применить: Взвешивание двух сторон.",
+        "fr": "Utile pour appliquer : D’un côté / de l’autre."
       }
     }
   ],
@@ -849,6 +906,1014 @@
         },
         "l2": "Il faut nuancer : ça dépend du contexte."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-opinions-fren-1",
+        "fr": "avis",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "l2": "avis"
+      },
+      {
+        "id": "remote-opinions-fren-2",
+        "fr": "opinion",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "l2": "opinion"
+      },
+      {
+        "id": "remote-opinions-fren-3",
+        "fr": "argument",
+        "en": "argument (reason)",
+        "gloss": {
+          "en": "argument (reason)",
+          "es": "argumento (razón)",
+          "ru": "аргумент (причина)"
+        },
+        "l2": "argument"
+      },
+      {
+        "id": "remote-opinions-fren-4",
+        "fr": "accord",
+        "en": "agreement",
+        "gloss": {
+          "en": "agreement",
+          "es": "acuerdo",
+          "ru": "соглашение"
+        },
+        "l2": "accord"
+      },
+      {
+        "id": "remote-opinions-fren-5",
+        "fr": "désaccord",
+        "en": "disagreement",
+        "gloss": {
+          "en": "disagreement",
+          "es": "desacuerdo",
+          "ru": "несогласие"
+        },
+        "l2": "désaccord"
+      },
+      {
+        "id": "remote-opinions-fren-6",
+        "fr": "point de vue",
+        "en": "point of view",
+        "gloss": {
+          "en": "point of view",
+          "es": "Punto de vista",
+          "ru": "точка зрения"
+        },
+        "l2": "point de vue"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-opinions-b1-enl2-1",
+        "fr": "À mon avis, cette idée est trop simple.",
+        "l2": "À mon avis, cette idée est trop simple.",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "prompt": "opinion",
+        "choices": [
+          "À mon avis, cette idée est trop simple.",
+          "Son opinion a changé après le débat.",
+          "Donne au moins un argument solide."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-enl2-2",
+        "fr": "Son opinion a changé après le débat.",
+        "l2": "Son opinion a changé après le débat.",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "prompt": "opinion",
+        "choices": [
+          "Son opinion a changé après le débat.",
+          "À mon avis, cette idée est trop simple.",
+          "Donne au moins un argument solide."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-enl2-3",
+        "fr": "Donne au moins un argument solide.",
+        "l2": "Donne au moins un argument solide.",
+        "en": "argument (reason)",
+        "gloss": {
+          "en": "argument (reason)",
+          "es": "argumento (razón)",
+          "ru": "аргумент (причина)"
+        },
+        "prompt": "argument (reason)",
+        "choices": [
+          "Donne au moins un argument solide.",
+          "À mon avis, cette idée est trop simple.",
+          "Son opinion a changé après le débat."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-enl2-4",
+        "fr": "Nous sommes d’accord sur l’essentiel.",
+        "l2": "Nous sommes d’accord sur l’essentiel.",
+        "en": "agreement",
+        "gloss": {
+          "en": "agreement",
+          "es": "acuerdo",
+          "ru": "соглашение"
+        },
+        "prompt": "agreement",
+        "choices": [
+          "Nous sommes d’accord sur l’essentiel.",
+          "À mon avis, cette idée est trop simple.",
+          "Son opinion a changé après le débat."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-enl2-5",
+        "fr": "Le désaccord porte surtout sur le budget.",
+        "l2": "Le désaccord porte surtout sur le budget.",
+        "en": "disagreement",
+        "gloss": {
+          "en": "disagreement",
+          "es": "desacuerdo",
+          "ru": "несогласие"
+        },
+        "prompt": "disagreement",
+        "choices": [
+          "Le désaccord porte surtout sur le budget.",
+          "À mon avis, cette idée est trop simple.",
+          "Son opinion a changé après le débat."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-enl2-6",
+        "fr": "Essayons de voir un autre point de vue.",
+        "l2": "Essayons de voir un autre point de vue.",
+        "en": "point of view",
+        "gloss": {
+          "en": "point of view",
+          "es": "Punto de vista",
+          "ru": "точка зрения"
+        },
+        "prompt": "point of view",
+        "choices": [
+          "Essayons de voir un autre point de vue.",
+          "À mon avis, cette idée est trop simple.",
+          "Son opinion a changé après le débat."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-enl2-7",
+        "fr": "L’avantage, c’est le gain de temps.",
+        "l2": "L’avantage, c’est le gain de temps.",
+        "en": "advantage",
+        "gloss": {
+          "en": "advantage",
+          "es": "ventaja",
+          "ru": "преимущество"
+        },
+        "prompt": "advantage",
+        "choices": [
+          "L’avantage, c’est le gain de temps.",
+          "À mon avis, cette idée est trop simple.",
+          "Son opinion a changé après le débat."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-enl2-8",
+        "fr": "L’inconvénient, c’est le prix.",
+        "l2": "L’inconvénient, c’est le prix.",
+        "en": "drawback",
+        "gloss": {
+          "en": "drawback",
+          "es": "inconveniente",
+          "ru": "недостаток"
+        },
+        "prompt": "drawback",
+        "choices": [
+          "L’inconvénient, c’est le prix.",
+          "À mon avis, cette idée est trop simple.",
+          "Son opinion a changé après le débat."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-opinions-b1-prm-1",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "answers": [
+          "avis",
+          "l' avis"
+        ],
+        "target": "l' avis"
+      },
+      {
+        "id": "remote-opinions-b1-prm-2",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "answers": [
+          "opinion",
+          "l' opinion"
+        ],
+        "target": "l' opinion"
+      },
+      {
+        "id": "remote-opinions-b1-prm-3",
+        "en": "argument (reason)",
+        "gloss": {
+          "en": "argument (reason)",
+          "es": "argumento (razón)",
+          "ru": "аргумент (причина)"
+        },
+        "answers": [
+          "argument",
+          "l' argument"
+        ],
+        "target": "l' argument"
+      },
+      {
+        "id": "remote-opinions-b1-prm-4",
+        "en": "agreement",
+        "gloss": {
+          "en": "agreement",
+          "es": "acuerdo",
+          "ru": "соглашение"
+        },
+        "answers": [
+          "accord",
+          "l' accord"
+        ],
+        "target": "l' accord"
+      },
+      {
+        "id": "remote-opinions-b1-prm-5",
+        "en": "disagreement",
+        "gloss": {
+          "en": "disagreement",
+          "es": "desacuerdo",
+          "ru": "несогласие"
+        },
+        "answers": [
+          "désaccord",
+          "le désaccord"
+        ],
+        "target": "le désaccord"
+      },
+      {
+        "id": "remote-opinions-b1-prm-6",
+        "en": "point of view",
+        "gloss": {
+          "en": "point of view",
+          "es": "Punto de vista",
+          "ru": "точка зрения"
+        },
+        "answers": [
+          "point de vue",
+          "le point de vue"
+        ],
+        "target": "le point de vue"
+      },
+      {
+        "id": "remote-opinions-b1-prm-7",
+        "en": "advantage",
+        "gloss": {
+          "en": "advantage",
+          "es": "ventaja",
+          "ru": "преимущество"
+        },
+        "answers": [
+          "avantage",
+          "l' avantage"
+        ],
+        "target": "l' avantage"
+      },
+      {
+        "id": "remote-opinions-b1-prm-8",
+        "en": "drawback",
+        "gloss": {
+          "en": "drawback",
+          "es": "inconveniente",
+          "ru": "недостаток"
+        },
+        "answers": [
+          "inconvénient",
+          "l' inconvénient"
+        ],
+        "target": "l' inconvénient"
+      },
+      {
+        "id": "remote-opinions-b1-prm-9",
+        "en": "proof / evidence",
+        "gloss": {
+          "en": "proof / evidence",
+          "es": "prueba / evidencia",
+          "ru": "доказательство / доказательства"
+        },
+        "answers": [
+          "preuve",
+          "la preuve"
+        ],
+        "target": "la preuve"
+      },
+      {
+        "id": "remote-opinions-b1-prm-10",
+        "en": "example",
+        "gloss": {
+          "en": "example",
+          "es": "ejemplo",
+          "ru": "пример"
+        },
+        "answers": [
+          "exemple",
+          "l' exemple"
+        ],
+        "target": "l' exemple"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-opinions-b1-sign-1",
+        "fr": "avis",
+        "l2": "avis",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "choices": [
+          "opinion",
+          "argument (reason)",
+          "agreement"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-2",
+        "fr": "opinion",
+        "l2": "opinion",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "choices": [
+          "opinion",
+          "argument (reason)",
+          "agreement"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-3",
+        "fr": "argument",
+        "l2": "argument",
+        "en": "argument (reason)",
+        "gloss": {
+          "en": "argument (reason)",
+          "es": "argumento (razón)",
+          "ru": "аргумент (причина)"
+        },
+        "choices": [
+          "argument (reason)",
+          "opinion",
+          "opinion"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-4",
+        "fr": "accord",
+        "l2": "accord",
+        "en": "agreement",
+        "gloss": {
+          "en": "agreement",
+          "es": "acuerdo",
+          "ru": "соглашение"
+        },
+        "choices": [
+          "agreement",
+          "opinion",
+          "opinion"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-5",
+        "fr": "désaccord",
+        "l2": "désaccord",
+        "en": "disagreement",
+        "gloss": {
+          "en": "disagreement",
+          "es": "desacuerdo",
+          "ru": "несогласие"
+        },
+        "choices": [
+          "disagreement",
+          "opinion",
+          "opinion"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-6",
+        "fr": "point de vue",
+        "l2": "point de vue",
+        "en": "point of view",
+        "gloss": {
+          "en": "point of view",
+          "es": "Punto de vista",
+          "ru": "точка зрения"
+        },
+        "choices": [
+          "point of view",
+          "opinion",
+          "opinion"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-7",
+        "fr": "avantage",
+        "l2": "avantage",
+        "en": "advantage",
+        "gloss": {
+          "en": "advantage",
+          "es": "ventaja",
+          "ru": "преимущество"
+        },
+        "choices": [
+          "advantage",
+          "opinion",
+          "opinion"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-8",
+        "fr": "inconvénient",
+        "l2": "inconvénient",
+        "en": "drawback",
+        "gloss": {
+          "en": "drawback",
+          "es": "inconveniente",
+          "ru": "недостаток"
+        },
+        "choices": [
+          "drawback",
+          "opinion",
+          "opinion"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-9",
+        "fr": "preuve",
+        "l2": "preuve",
+        "en": "proof / evidence",
+        "gloss": {
+          "en": "proof / evidence",
+          "es": "prueba / evidencia",
+          "ru": "доказательство / доказательства"
+        },
+        "choices": [
+          "proof / evidence",
+          "opinion",
+          "opinion"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-10",
+        "fr": "exemple",
+        "l2": "exemple",
+        "en": "example",
+        "gloss": {
+          "en": "example",
+          "es": "ejemplo",
+          "ru": "пример"
+        },
+        "choices": [
+          "example",
+          "opinion",
+          "opinion"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-11",
+        "fr": "nuance",
+        "l2": "nuance",
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        },
+        "choices": [
+          "nuance",
+          "opinion",
+          "opinion"
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-sign-12",
+        "fr": "certitude",
+        "l2": "certitude",
+        "en": "certainty",
+        "gloss": {
+          "en": "certainty",
+          "es": "certeza",
+          "ru": "уверенность"
+        },
+        "choices": [
+          "certainty",
+          "opinion",
+          "opinion"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-opinions-b1-pair-1",
+        "a": {
+          "fr": "avis",
+          "l2": "avis",
+          "en": "opinion",
+          "gloss": {
+            "en": "opinion",
+            "es": "opinión",
+            "ru": "мнение"
+          }
+        },
+        "b": {
+          "fr": "opinion",
+          "l2": "opinion",
+          "en": "opinion",
+          "gloss": {
+            "en": "opinion",
+            "es": "opinión",
+            "ru": "мнение"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-opinions-b1-pair-2",
+        "a": {
+          "fr": "argument",
+          "l2": "argument",
+          "en": "argument (reason)",
+          "gloss": {
+            "en": "argument (reason)",
+            "es": "argumento (razón)",
+            "ru": "аргумент (причина)"
+          }
+        },
+        "b": {
+          "fr": "accord",
+          "l2": "accord",
+          "en": "agreement",
+          "gloss": {
+            "en": "agreement",
+            "es": "acuerdo",
+            "ru": "соглашение"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-opinions-b1-pair-3",
+        "a": {
+          "fr": "désaccord",
+          "l2": "désaccord",
+          "en": "disagreement",
+          "gloss": {
+            "en": "disagreement",
+            "es": "desacuerdo",
+            "ru": "несогласие"
+          }
+        },
+        "b": {
+          "fr": "point de vue",
+          "l2": "point de vue",
+          "en": "point of view",
+          "gloss": {
+            "en": "point of view",
+            "es": "Punto de vista",
+            "ru": "точка зрения"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-opinions-b1-pair-4",
+        "a": {
+          "fr": "avantage",
+          "l2": "avantage",
+          "en": "advantage",
+          "gloss": {
+            "en": "advantage",
+            "es": "ventaja",
+            "ru": "преимущество"
+          }
+        },
+        "b": {
+          "fr": "inconvénient",
+          "l2": "inconvénient",
+          "en": "drawback",
+          "gloss": {
+            "en": "drawback",
+            "es": "inconveniente",
+            "ru": "недостаток"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-opinions-b1-pair-5",
+        "a": {
+          "fr": "preuve",
+          "l2": "preuve",
+          "en": "proof / evidence",
+          "gloss": {
+            "en": "proof / evidence",
+            "es": "prueba / evidencia",
+            "ru": "доказательство / доказательства"
+          }
+        },
+        "b": {
+          "fr": "exemple",
+          "l2": "exemple",
+          "en": "example",
+          "gloss": {
+            "en": "example",
+            "es": "ejemplo",
+            "ru": "пример"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-opinions-b1-gap-1",
+        "fr": "À mon avis, cette idée est trop simple.",
+        "l2": "À mon avis, cette idée est trop simple.",
+        "speak": "À mon avis, cette idée est trop simple.",
+        "blank": "avis",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        }
+      },
+      {
+        "id": "remote-opinions-b1-gap-2",
+        "fr": "Son opinion a changé après le débat.",
+        "l2": "Son opinion a changé après le débat.",
+        "speak": "Son opinion a changé après le débat.",
+        "blank": "opinion",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        }
+      },
+      {
+        "id": "remote-opinions-b1-gap-3",
+        "fr": "Donne au moins un argument solide.",
+        "l2": "Donne au moins un argument solide.",
+        "speak": "Donne au moins un argument solide.",
+        "blank": "argument",
+        "en": "argument (reason)",
+        "gloss": {
+          "en": "argument (reason)",
+          "es": "argumento (razón)",
+          "ru": "аргумент (причина)"
+        }
+      },
+      {
+        "id": "remote-opinions-b1-gap-4",
+        "fr": "Nous sommes d’accord sur l’essentiel.",
+        "l2": "Nous sommes d’accord sur l’essentiel.",
+        "speak": "Nous sommes d’accord sur l’essentiel.",
+        "blank": "accord",
+        "en": "agreement",
+        "gloss": {
+          "en": "agreement",
+          "es": "acuerdo",
+          "ru": "соглашение"
+        }
+      },
+      {
+        "id": "remote-opinions-b1-gap-5",
+        "fr": "Le désaccord porte surtout sur le budget.",
+        "l2": "Le désaccord porte surtout sur le budget.",
+        "speak": "Le désaccord porte surtout sur le budget.",
+        "blank": "désaccord",
+        "en": "disagreement",
+        "gloss": {
+          "en": "disagreement",
+          "es": "desacuerdo",
+          "ru": "несогласие"
+        }
+      },
+      {
+        "id": "remote-opinions-b1-gap-6",
+        "fr": "Essayons de voir un autre point de vue.",
+        "l2": "Essayons de voir un autre point de vue.",
+        "speak": "Essayons de voir un autre point de vue.",
+        "blank": "point de vue",
+        "en": "point of view",
+        "gloss": {
+          "en": "point of view",
+          "es": "Punto de vista",
+          "ru": "точка зрения"
+        }
+      },
+      {
+        "id": "remote-opinions-b1-gap-7",
+        "fr": "L’avantage, c’est le gain de temps.",
+        "l2": "L’avantage, c’est le gain de temps.",
+        "speak": "L’avantage, c’est le gain de temps.",
+        "blank": "avantage",
+        "en": "advantage",
+        "gloss": {
+          "en": "advantage",
+          "es": "ventaja",
+          "ru": "преимущество"
+        }
+      },
+      {
+        "id": "remote-opinions-b1-gap-8",
+        "fr": "L’inconvénient, c’est le prix.",
+        "l2": "L’inconvénient, c’est le prix.",
+        "speak": "L’inconvénient, c’est le prix.",
+        "blank": "inconvénient",
+        "en": "drawback",
+        "gloss": {
+          "en": "drawback",
+          "es": "inconveniente",
+          "ru": "недостаток"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-opinions-b1-ord-1",
+        "fr": "À mon avis, cette idée est trop simple.",
+        "l2": "À mon avis, cette idée est trop simple.",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "words": [
+          "À",
+          "mon",
+          "avis,",
+          "cette",
+          "idée",
+          "est",
+          "trop",
+          "simple."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-ord-2",
+        "fr": "Son opinion a changé après le débat.",
+        "l2": "Son opinion a changé après le débat.",
+        "en": "opinion",
+        "gloss": {
+          "en": "opinion",
+          "es": "opinión",
+          "ru": "мнение"
+        },
+        "words": [
+          "Son",
+          "opinion",
+          "a",
+          "changé",
+          "après",
+          "le",
+          "débat."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-ord-3",
+        "fr": "Donne au moins un argument solide.",
+        "l2": "Donne au moins un argument solide.",
+        "en": "argument (reason)",
+        "gloss": {
+          "en": "argument (reason)",
+          "es": "argumento (razón)",
+          "ru": "аргумент (причина)"
+        },
+        "words": [
+          "Donne",
+          "au",
+          "moins",
+          "un",
+          "argument",
+          "solide."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-ord-4",
+        "fr": "Nous sommes d’accord sur l’essentiel.",
+        "l2": "Nous sommes d’accord sur l’essentiel.",
+        "en": "agreement",
+        "gloss": {
+          "en": "agreement",
+          "es": "acuerdo",
+          "ru": "соглашение"
+        },
+        "words": [
+          "Nous",
+          "sommes",
+          "d’accord",
+          "sur",
+          "l’essentiel."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-ord-5",
+        "fr": "Le désaccord porte surtout sur le budget.",
+        "l2": "Le désaccord porte surtout sur le budget.",
+        "en": "disagreement",
+        "gloss": {
+          "en": "disagreement",
+          "es": "desacuerdo",
+          "ru": "несогласие"
+        },
+        "words": [
+          "Le",
+          "désaccord",
+          "porte",
+          "surtout",
+          "sur",
+          "le",
+          "budget."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-ord-6",
+        "fr": "Essayons de voir un autre point de vue.",
+        "l2": "Essayons de voir un autre point de vue.",
+        "en": "point of view",
+        "gloss": {
+          "en": "point of view",
+          "es": "Punto de vista",
+          "ru": "точка зрения"
+        },
+        "words": [
+          "Essayons",
+          "de",
+          "voir",
+          "un",
+          "autre",
+          "point",
+          "de",
+          "vue."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-ord-7",
+        "fr": "L’avantage, c’est le gain de temps.",
+        "l2": "L’avantage, c’est le gain de temps.",
+        "en": "advantage",
+        "gloss": {
+          "en": "advantage",
+          "es": "ventaja",
+          "ru": "преимущество"
+        },
+        "words": [
+          "L’avantage,",
+          "c’est",
+          "le",
+          "gain",
+          "de",
+          "temps."
+        ]
+      },
+      {
+        "id": "remote-opinions-b1-ord-8",
+        "fr": "L’inconvénient, c’est le prix.",
+        "l2": "L’inconvénient, c’est le prix.",
+        "en": "drawback",
+        "gloss": {
+          "en": "drawback",
+          "es": "inconveniente",
+          "ru": "недостаток"
+        },
+        "words": [
+          "L’inconvénient,",
+          "c’est",
+          "le",
+          "prix."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-opinions-b1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "a.vi",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "avis",
+          "l2": "avis",
+          "en": "opinion",
+          "gloss": {
+            "en": "opinion",
+            "es": "opinión",
+            "ru": "мнение"
+          },
+          "ipa": "a.vi"
+        },
+        {
+          "fr": "opinion",
+          "l2": "opinion",
+          "en": "opinion",
+          "gloss": {
+            "en": "opinion",
+            "es": "opinión",
+            "ru": "мнение"
+          },
+          "ipa": "ɔ.pi.njɔ̃"
+        },
+        {
+          "fr": "argument",
+          "l2": "argument",
+          "en": "argument (reason)",
+          "gloss": {
+            "en": "argument (reason)",
+            "es": "argumento (razón)",
+            "ru": "аргумент (причина)"
+          },
+          "ipa": "aʁ.ɡy.mɑ̃"
+        },
+        {
+          "fr": "accord",
+          "l2": "accord",
+          "en": "agreement",
+          "gloss": {
+            "en": "agreement",
+            "es": "acuerdo",
+            "ru": "соглашение"
+          },
+          "ipa": "a.kɔʁ"
+        },
+        {
+          "fr": "désaccord",
+          "l2": "désaccord",
+          "en": "disagreement",
+          "gloss": {
+            "en": "disagreement",
+            "es": "desacuerdo",
+            "ru": "несогласие"
+          },
+          "ipa": "de.za.kɔʁ"
+        }
+      ]
+    }
+  ]
 }

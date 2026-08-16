@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "economy-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "croissance",
             "croissant",
             "croissance économique"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: grow → the ___ .",
+            "es": "Completo: crecer → el ___ .",
+            "ru": "Выполните: вырасти → ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « croissance ».",
+            "en": "Answer: “croissance”.",
+            "es": "Respuesta: « croissance ».",
+            "ru": "Ответ: « croissance »."
+          }
         },
         {
           "id": "remote-economy-gq-2",
@@ -537,7 +548,18 @@
             "investisseur",
             "investissement",
             "investi"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: invest → the ___ .",
+            "es": "Completo: invertir → el ___ .",
+            "ru": "Завершите: инвестируйте → ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « investissement ».",
+            "en": "Answer: “investissement”.",
+            "es": "Respuesta: « investissement ».",
+            "ru": "Ответ: « investissement »."
+          }
         },
         {
           "id": "remote-economy-gq-3",
@@ -547,13 +569,25 @@
             "chômage",
             "chômé",
             "chômeur"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: We say the ___ of young people, and not the unemployment of young people.",
+            "es": "Completo: Decimos el ___ de los jóvenes, y no el desempleo de los jóvenes.",
+            "ru": "Завершить: Мы говорим о ___ молодежи, а не о безработице среди молодежи."
+          },
+          "why": {
+            "fr": "Réponse : « chômage ».",
+            "en": "Answer: “chômage”.",
+            "es": "Respuesta: « chômage ».",
+            "ru": "Ответ: « chômage »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Economic nominalization.",
         "es": "Útil cuando necesitas aplicar: Nominalización económica.",
-        "ru": "Полезно, когда нужно применить: Экономическую номинализацию."
+        "ru": "Полезно, когда нужно применить: Экономическую номинализацию.",
+        "fr": "Utile pour appliquer : La nominalisation économique."
       }
     },
     {
@@ -601,7 +635,18 @@
             "afin que",
             "toutefois",
             "parce que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Growth is picking up, ___ youth unemployment remains worrying.",
+            "es": "Completo: El crecimiento se está recuperando, ___ el desempleo juvenil sigue siendo preocupante.",
+            "ru": "Завершено: экономический рост ускоряется, безработица среди молодежи ___ по-прежнему вызывает тревогу."
+          },
+          "why": {
+            "fr": "Réponse : « toutefois ».",
+            "en": "Answer: “toutefois”.",
+            "es": "Respuesta: « toutefois ».",
+            "ru": "Ответ: « toutefois »."
+          }
         },
         {
           "id": "remote-economy-gq-5",
@@ -611,13 +656,25 @@
             "En revanche",
             "Bien que",
             "Si"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Exports are holding up. ___ domestic consumption is running out of steam.",
+            "es": "Completo: Las exportaciones se mantienen firmes. ___ El consumo interno está perdiendo fuelle.",
+            "ru": "Завершено: экспорт сохраняется. ___ внутреннее потребление иссякает."
+          },
+          "why": {
+            "fr": "Réponse : « En revanche ».",
+            "en": "Answer: “En revanche”.",
+            "es": "Respuesta: « En revanche ».",
+            "ru": "Ответ: « En revanche »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Contrast markers in economic argument.",
         "es": "Útil cuando es necesario aplicar: Marcadores de contraste en argumentos económicos.",
-        "ru": "Полезно, когда вам нужно применить: Контрастные маркеры в экономических аргументах."
+        "ru": "Полезно, когда вам нужно применить: Контрастные маркеры в экономических аргументах.",
+        "fr": "Utile pour appliquer : En revanche, toutefois, cependant."
       }
     }
   ],
@@ -850,6 +907,1053 @@
         },
         "l2": "Le chômage des jeunes demeure plus élevé que la moyenne nationale."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-economy-fren-1",
+        "fr": "croissance",
+        "en": "growth",
+        "gloss": {
+          "en": "growth",
+          "es": "crecimiento",
+          "ru": "рост"
+        },
+        "l2": "croissance"
+      },
+      {
+        "id": "remote-economy-fren-2",
+        "fr": "inflation",
+        "en": "inflation",
+        "gloss": {
+          "en": "inflation",
+          "es": "inflación",
+          "ru": "инфляция"
+        },
+        "l2": "inflation"
+      },
+      {
+        "id": "remote-economy-fren-3",
+        "fr": "chômage",
+        "en": "unemployment",
+        "gloss": {
+          "en": "unemployment",
+          "es": "desempleo",
+          "ru": "безработица"
+        },
+        "l2": "chômage"
+      },
+      {
+        "id": "remote-economy-fren-4",
+        "fr": "marché",
+        "en": "market",
+        "gloss": {
+          "en": "market",
+          "es": "mercado",
+          "ru": "рынок"
+        },
+        "l2": "marché"
+      },
+      {
+        "id": "remote-economy-fren-5",
+        "fr": "investissement",
+        "en": "investment",
+        "gloss": {
+          "en": "investment",
+          "es": "inversión",
+          "ru": "инвестиции"
+        },
+        "l2": "investissement"
+      },
+      {
+        "id": "remote-economy-fren-6",
+        "fr": "PIB",
+        "en": "GDP",
+        "gloss": {
+          "en": "GDP",
+          "es": "PIB",
+          "ru": "ВВП"
+        },
+        "l2": "PIB"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-economy-b2-enl2-1",
+        "fr": "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+        "l2": "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+        "en": "growth",
+        "gloss": {
+          "en": "growth",
+          "es": "crecimiento",
+          "ru": "рост"
+        },
+        "prompt": "growth",
+        "choices": [
+          "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+          "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+          "Le chômage des jeunes demeure plus élevé que la moyenne nationale."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-enl2-2",
+        "fr": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+        "l2": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+        "en": "inflation",
+        "gloss": {
+          "en": "inflation",
+          "es": "inflación",
+          "ru": "инфляция"
+        },
+        "prompt": "inflation",
+        "choices": [
+          "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+          "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+          "Le chômage des jeunes demeure plus élevé que la moyenne nationale."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-enl2-3",
+        "fr": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+        "l2": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+        "en": "unemployment",
+        "gloss": {
+          "en": "unemployment",
+          "es": "desempleo",
+          "ru": "безработица"
+        },
+        "prompt": "unemployment",
+        "choices": [
+          "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+          "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+          "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-enl2-4",
+        "fr": "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
+        "l2": "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
+        "en": "market",
+        "gloss": {
+          "en": "market",
+          "es": "mercado",
+          "ru": "рынок"
+        },
+        "prompt": "market",
+        "choices": [
+          "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
+          "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+          "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-enl2-5",
+        "fr": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+        "l2": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+        "en": "investment",
+        "gloss": {
+          "en": "investment",
+          "es": "inversión",
+          "ru": "инвестиции"
+        },
+        "prompt": "investment",
+        "choices": [
+          "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+          "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+          "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-enl2-6",
+        "fr": "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
+        "l2": "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
+        "en": "GDP",
+        "gloss": {
+          "en": "GDP",
+          "es": "PIB",
+          "ru": "ВВП"
+        },
+        "prompt": "GDP",
+        "choices": [
+          "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
+          "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+          "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-enl2-7",
+        "fr": "Une récession technique n’implique pas forcément une crise sociale durable.",
+        "l2": "Une récession technique n’implique pas forcément une crise sociale durable.",
+        "en": "recession",
+        "gloss": {
+          "en": "recession",
+          "es": "recesión",
+          "ru": "рецессия"
+        },
+        "prompt": "recession",
+        "choices": [
+          "Une récession technique n’implique pas forcément une crise sociale durable.",
+          "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+          "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-enl2-8",
+        "fr": "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
+        "l2": "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
+        "en": "debt",
+        "gloss": {
+          "en": "debt",
+          "es": "deuda",
+          "ru": "долг"
+        },
+        "prompt": "debt",
+        "choices": [
+          "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
+          "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+          "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-economy-b2-prm-1",
+        "en": "growth",
+        "gloss": {
+          "en": "growth",
+          "es": "crecimiento",
+          "ru": "рост"
+        },
+        "answers": [
+          "croissance",
+          "la croissance"
+        ],
+        "target": "la croissance"
+      },
+      {
+        "id": "remote-economy-b2-prm-2",
+        "en": "inflation",
+        "gloss": {
+          "en": "inflation",
+          "es": "inflación",
+          "ru": "инфляция"
+        },
+        "answers": [
+          "inflation",
+          "l' inflation"
+        ],
+        "target": "l' inflation"
+      },
+      {
+        "id": "remote-economy-b2-prm-3",
+        "en": "unemployment",
+        "gloss": {
+          "en": "unemployment",
+          "es": "desempleo",
+          "ru": "безработица"
+        },
+        "answers": [
+          "chômage",
+          "le chômage"
+        ],
+        "target": "le chômage"
+      },
+      {
+        "id": "remote-economy-b2-prm-4",
+        "en": "market",
+        "gloss": {
+          "en": "market",
+          "es": "mercado",
+          "ru": "рынок"
+        },
+        "answers": [
+          "marché",
+          "le marché"
+        ],
+        "target": "le marché"
+      },
+      {
+        "id": "remote-economy-b2-prm-5",
+        "en": "investment",
+        "gloss": {
+          "en": "investment",
+          "es": "inversión",
+          "ru": "инвестиции"
+        },
+        "answers": [
+          "investissement",
+          "l' investissement"
+        ],
+        "target": "l' investissement"
+      },
+      {
+        "id": "remote-economy-b2-prm-6",
+        "en": "GDP",
+        "gloss": {
+          "en": "GDP",
+          "es": "PIB",
+          "ru": "ВВП"
+        },
+        "answers": [
+          "PIB",
+          "le PIB"
+        ],
+        "target": "le PIB"
+      },
+      {
+        "id": "remote-economy-b2-prm-7",
+        "en": "recession",
+        "gloss": {
+          "en": "recession",
+          "es": "recesión",
+          "ru": "рецессия"
+        },
+        "answers": [
+          "récession",
+          "la récession"
+        ],
+        "target": "la récession"
+      },
+      {
+        "id": "remote-economy-b2-prm-8",
+        "en": "debt",
+        "gloss": {
+          "en": "debt",
+          "es": "deuda",
+          "ru": "долг"
+        },
+        "answers": [
+          "dette",
+          "la dette"
+        ],
+        "target": "la dette"
+      },
+      {
+        "id": "remote-economy-b2-prm-9",
+        "en": "purchasing power",
+        "gloss": {
+          "en": "purchasing power",
+          "es": "poder adquisitivo",
+          "ru": "покупательная способность"
+        },
+        "answers": [
+          "pouvoir d’achat",
+          "le pouvoir d’achat"
+        ],
+        "target": "le pouvoir d’achat"
+      },
+      {
+        "id": "remote-economy-b2-prm-10",
+        "en": "economic climate",
+        "gloss": {
+          "en": "economic climate",
+          "es": "clima económico",
+          "ru": "экономический климат"
+        },
+        "answers": [
+          "conjoncture",
+          "la conjoncture"
+        ],
+        "target": "la conjoncture"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-economy-b2-sign-1",
+        "fr": "croissance",
+        "l2": "croissance",
+        "en": "growth",
+        "gloss": {
+          "en": "growth",
+          "es": "crecimiento",
+          "ru": "рост"
+        },
+        "choices": [
+          "growth",
+          "inflation",
+          "unemployment"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-2",
+        "fr": "inflation",
+        "l2": "inflation",
+        "en": "inflation",
+        "gloss": {
+          "en": "inflation",
+          "es": "inflación",
+          "ru": "инфляция"
+        },
+        "choices": [
+          "inflation",
+          "growth",
+          "unemployment"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-3",
+        "fr": "chômage",
+        "l2": "chômage",
+        "en": "unemployment",
+        "gloss": {
+          "en": "unemployment",
+          "es": "desempleo",
+          "ru": "безработица"
+        },
+        "choices": [
+          "unemployment",
+          "growth",
+          "inflation"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-4",
+        "fr": "marché",
+        "l2": "marché",
+        "en": "market",
+        "gloss": {
+          "en": "market",
+          "es": "mercado",
+          "ru": "рынок"
+        },
+        "choices": [
+          "market",
+          "growth",
+          "inflation"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-5",
+        "fr": "investissement",
+        "l2": "investissement",
+        "en": "investment",
+        "gloss": {
+          "en": "investment",
+          "es": "inversión",
+          "ru": "инвестиции"
+        },
+        "choices": [
+          "investment",
+          "growth",
+          "inflation"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-6",
+        "fr": "PIB",
+        "l2": "PIB",
+        "en": "GDP",
+        "gloss": {
+          "en": "GDP",
+          "es": "PIB",
+          "ru": "ВВП"
+        },
+        "choices": [
+          "GDP",
+          "growth",
+          "inflation"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-7",
+        "fr": "récession",
+        "l2": "récession",
+        "en": "recession",
+        "gloss": {
+          "en": "recession",
+          "es": "recesión",
+          "ru": "рецессия"
+        },
+        "choices": [
+          "recession",
+          "growth",
+          "inflation"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-8",
+        "fr": "dette",
+        "l2": "dette",
+        "en": "debt",
+        "gloss": {
+          "en": "debt",
+          "es": "deuda",
+          "ru": "долг"
+        },
+        "choices": [
+          "debt",
+          "growth",
+          "inflation"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-9",
+        "fr": "pouvoir d’achat",
+        "l2": "pouvoir d’achat",
+        "en": "purchasing power",
+        "gloss": {
+          "en": "purchasing power",
+          "es": "poder adquisitivo",
+          "ru": "покупательная способность"
+        },
+        "choices": [
+          "purchasing power",
+          "growth",
+          "inflation"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-10",
+        "fr": "conjoncture",
+        "l2": "conjoncture",
+        "en": "economic climate",
+        "gloss": {
+          "en": "economic climate",
+          "es": "clima económico",
+          "ru": "экономический климат"
+        },
+        "choices": [
+          "economic climate",
+          "growth",
+          "inflation"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-11",
+        "fr": "offre",
+        "l2": "offre",
+        "en": "supply",
+        "gloss": {
+          "en": "supply",
+          "es": "suministrar",
+          "ru": "поставлять"
+        },
+        "choices": [
+          "supply",
+          "growth",
+          "inflation"
+        ]
+      },
+      {
+        "id": "remote-economy-b2-sign-12",
+        "fr": "demande",
+        "l2": "demande",
+        "en": "demand",
+        "gloss": {
+          "en": "demand",
+          "es": "demanda",
+          "ru": "требовать"
+        },
+        "choices": [
+          "demand",
+          "growth",
+          "inflation"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-economy-b2-pair-1",
+        "a": {
+          "fr": "croissance",
+          "l2": "croissance",
+          "en": "growth",
+          "gloss": {
+            "en": "growth",
+            "es": "crecimiento",
+            "ru": "рост"
+          }
+        },
+        "b": {
+          "fr": "inflation",
+          "l2": "inflation",
+          "en": "inflation",
+          "gloss": {
+            "en": "inflation",
+            "es": "inflación",
+            "ru": "инфляция"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-economy-b2-pair-2",
+        "a": {
+          "fr": "chômage",
+          "l2": "chômage",
+          "en": "unemployment",
+          "gloss": {
+            "en": "unemployment",
+            "es": "desempleo",
+            "ru": "безработица"
+          }
+        },
+        "b": {
+          "fr": "marché",
+          "l2": "marché",
+          "en": "market",
+          "gloss": {
+            "en": "market",
+            "es": "mercado",
+            "ru": "рынок"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-economy-b2-pair-3",
+        "a": {
+          "fr": "investissement",
+          "l2": "investissement",
+          "en": "investment",
+          "gloss": {
+            "en": "investment",
+            "es": "inversión",
+            "ru": "инвестиции"
+          }
+        },
+        "b": {
+          "fr": "PIB",
+          "l2": "PIB",
+          "en": "GDP",
+          "gloss": {
+            "en": "GDP",
+            "es": "PIB",
+            "ru": "ВВП"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-economy-b2-pair-4",
+        "a": {
+          "fr": "récession",
+          "l2": "récession",
+          "en": "recession",
+          "gloss": {
+            "en": "recession",
+            "es": "recesión",
+            "ru": "рецессия"
+          }
+        },
+        "b": {
+          "fr": "dette",
+          "l2": "dette",
+          "en": "debt",
+          "gloss": {
+            "en": "debt",
+            "es": "deuda",
+            "ru": "долг"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-economy-b2-pair-5",
+        "a": {
+          "fr": "pouvoir d’achat",
+          "l2": "pouvoir d’achat",
+          "en": "purchasing power",
+          "gloss": {
+            "en": "purchasing power",
+            "es": "poder adquisitivo",
+            "ru": "покупательная способность"
+          }
+        },
+        "b": {
+          "fr": "conjoncture",
+          "l2": "conjoncture",
+          "en": "economic climate",
+          "gloss": {
+            "en": "economic climate",
+            "es": "clima económico",
+            "ru": "экономический климат"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-economy-b2-gap-1",
+        "fr": "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+        "l2": "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+        "speak": "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+        "blank": "croissance",
+        "en": "growth",
+        "gloss": {
+          "en": "growth",
+          "es": "crecimiento",
+          "ru": "рост"
+        }
+      },
+      {
+        "id": "remote-economy-b2-gap-2",
+        "fr": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+        "l2": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+        "speak": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+        "blank": "inflation",
+        "en": "inflation",
+        "gloss": {
+          "en": "inflation",
+          "es": "inflación",
+          "ru": "инфляция"
+        }
+      },
+      {
+        "id": "remote-economy-b2-gap-3",
+        "fr": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+        "l2": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+        "speak": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+        "blank": "chômage",
+        "en": "unemployment",
+        "gloss": {
+          "en": "unemployment",
+          "es": "desempleo",
+          "ru": "безработица"
+        }
+      },
+      {
+        "id": "remote-economy-b2-gap-4",
+        "fr": "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
+        "l2": "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
+        "speak": "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
+        "blank": "marché",
+        "en": "market",
+        "gloss": {
+          "en": "market",
+          "es": "mercado",
+          "ru": "рынок"
+        }
+      },
+      {
+        "id": "remote-economy-b2-gap-5",
+        "fr": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+        "l2": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+        "speak": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+        "blank": "investissement",
+        "en": "investment",
+        "gloss": {
+          "en": "investment",
+          "es": "inversión",
+          "ru": "инвестиции"
+        }
+      },
+      {
+        "id": "remote-economy-b2-gap-6",
+        "fr": "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
+        "l2": "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
+        "speak": "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
+        "blank": "PIB",
+        "en": "GDP",
+        "gloss": {
+          "en": "GDP",
+          "es": "PIB",
+          "ru": "ВВП"
+        }
+      },
+      {
+        "id": "remote-economy-b2-gap-7",
+        "fr": "Une récession technique n’implique pas forcément une crise sociale durable.",
+        "l2": "Une récession technique n’implique pas forcément une crise sociale durable.",
+        "speak": "Une récession technique n’implique pas forcément une crise sociale durable.",
+        "blank": "récession",
+        "en": "recession",
+        "gloss": {
+          "en": "recession",
+          "es": "recesión",
+          "ru": "рецессия"
+        }
+      },
+      {
+        "id": "remote-economy-b2-gap-8",
+        "fr": "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
+        "l2": "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
+        "speak": "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
+        "blank": "dette",
+        "en": "debt",
+        "gloss": {
+          "en": "debt",
+          "es": "deuda",
+          "ru": "долг"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-economy-b2-ord-1",
+        "fr": "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+        "l2": "La croissance a ralenti, toutefois les investissements n’ont pas encore reculé.",
+        "en": "growth",
+        "gloss": {
+          "en": "growth",
+          "es": "crecimiento",
+          "ru": "рост"
+        },
+        "words": [
+          "La",
+          "croissance",
+          "a",
+          "ralenti,",
+          "toutefois",
+          "les",
+          "investissements",
+          "n’ont",
+          "pas",
+          "encore",
+          "reculé."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-ord-2",
+        "fr": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+        "l2": "L’inflation pèse sur le pouvoir d’achat, surtout pour les ménages modestes.",
+        "en": "inflation",
+        "gloss": {
+          "en": "inflation",
+          "es": "inflación",
+          "ru": "инфляция"
+        },
+        "words": [
+          "L’inflation",
+          "pèse",
+          "sur",
+          "le",
+          "pouvoir",
+          "d’achat,",
+          "surtout",
+          "pour",
+          "les",
+          "ménages",
+          "modestes."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-ord-3",
+        "fr": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+        "l2": "Le chômage des jeunes demeure plus élevé que la moyenne nationale.",
+        "en": "unemployment",
+        "gloss": {
+          "en": "unemployment",
+          "es": "desempleo",
+          "ru": "безработица"
+        },
+        "words": [
+          "Le",
+          "chômage",
+          "des",
+          "jeunes",
+          "demeure",
+          "plus",
+          "élevé",
+          "que",
+          "la",
+          "moyenne",
+          "nationale."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-ord-4",
+        "fr": "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
+        "l2": "Le marché de l’emploi se tend, en revanche certains secteurs manquent de main-d’œuvre.",
+        "en": "market",
+        "gloss": {
+          "en": "market",
+          "es": "mercado",
+          "ru": "рынок"
+        },
+        "words": [
+          "Le",
+          "marché",
+          "de",
+          "l’emploi",
+          "se",
+          "tend,",
+          "en",
+          "revanche",
+          "certains",
+          "secteurs",
+          "manquent",
+          "de",
+          "main-d’œuvre."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-ord-5",
+        "fr": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+        "l2": "L’investissement public dans les infrastructures pourrait relancer l’activité.",
+        "en": "investment",
+        "gloss": {
+          "en": "investment",
+          "es": "inversión",
+          "ru": "инвестиции"
+        },
+        "words": [
+          "L’investissement",
+          "public",
+          "dans",
+          "les",
+          "infrastructures",
+          "pourrait",
+          "relancer",
+          "l’activité."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-ord-6",
+        "fr": "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
+        "l2": "Le PIB a reculé au deuxième trimestre, ce qui alimente les craintes de récession.",
+        "en": "GDP",
+        "gloss": {
+          "en": "GDP",
+          "es": "PIB",
+          "ru": "ВВП"
+        },
+        "words": [
+          "Le",
+          "PIB",
+          "a",
+          "reculé",
+          "au",
+          "deuxième",
+          "trimestre,",
+          "ce",
+          "qui",
+          "alimente",
+          "les",
+          "craintes",
+          "de",
+          "récession."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-ord-7",
+        "fr": "Une récession technique n’implique pas forcément une crise sociale durable.",
+        "l2": "Une récession technique n’implique pas forcément une crise sociale durable.",
+        "en": "recession",
+        "gloss": {
+          "en": "recession",
+          "es": "recesión",
+          "ru": "рецессия"
+        },
+        "words": [
+          "Une",
+          "récession",
+          "technique",
+          "n’implique",
+          "pas",
+          "forcément",
+          "une",
+          "crise",
+          "sociale",
+          "durable."
+        ]
+      },
+      {
+        "id": "remote-economy-b2-ord-8",
+        "fr": "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
+        "l2": "La dette publique a augmenté afin que l’État puisse soutenir les entreprises.",
+        "en": "debt",
+        "gloss": {
+          "en": "debt",
+          "es": "deuda",
+          "ru": "долг"
+        },
+        "words": [
+          "La",
+          "dette",
+          "publique",
+          "a",
+          "augmenté",
+          "afin",
+          "que",
+          "l’État",
+          "puisse",
+          "soutenir",
+          "les",
+          "entreprises."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-economy-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "kʁwa.sɑ̃s",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "croissance",
+          "l2": "croissance",
+          "en": "growth",
+          "gloss": {
+            "en": "growth",
+            "es": "crecimiento",
+            "ru": "рост"
+          },
+          "ipa": "kʁwa.sɑ̃s"
+        },
+        {
+          "fr": "inflation",
+          "l2": "inflation",
+          "en": "inflation",
+          "gloss": {
+            "en": "inflation",
+            "es": "inflación",
+            "ru": "инфляция"
+          },
+          "ipa": "ɛ̃.fla.sjɔ̃"
+        },
+        {
+          "fr": "chômage",
+          "l2": "chômage",
+          "en": "unemployment",
+          "gloss": {
+            "en": "unemployment",
+            "es": "desempleo",
+            "ru": "безработица"
+          },
+          "ipa": "ʃo.maʒ"
+        },
+        {
+          "fr": "marché",
+          "l2": "marché",
+          "en": "market",
+          "gloss": {
+            "en": "market",
+            "es": "mercado",
+            "ru": "рынок"
+          },
+          "ipa": "maʁ.ʃe"
+        },
+        {
+          "fr": "investissement",
+          "l2": "investissement",
+          "en": "investment",
+          "gloss": {
+            "en": "investment",
+            "es": "inversión",
+            "ru": "инвестиции"
+          },
+          "ipa": "ɛ̃.vɛs.tis.mɑ̃"
+        }
+      ]
+    }
+  ]
 }

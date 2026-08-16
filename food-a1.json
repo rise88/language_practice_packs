@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "food-a1",
-  "version": 6,
+  "version": 7,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -560,7 +560,18 @@
             "du",
             "de la",
             "des"
-          ]
+          ],
+          "gloss": {
+            "en": "I would like ___ coffee.",
+            "es": "Me gustaría ___ café.",
+            "ru": "Я бы хотел(а) ___ кофе."
+          },
+          "why": {
+            "fr": "« Café » est masculin : on utilise « du ».",
+            "en": "Café is masculine, so use du.",
+            "es": "Café es masculino: se usa du.",
+            "ru": "Café — мужского рода, поэтому du."
+          }
         },
         {
           "id": "remote-food-gq-2",
@@ -570,7 +581,18 @@
             "du",
             "de la",
             "de l’"
-          ]
+          ],
+          "gloss": {
+            "en": "She drinks ___ water.",
+            "es": "Ella bebe ___ agua.",
+            "ru": "Она пьёт ___ воду."
+          },
+          "why": {
+            "fr": "« Eau » commence par une voyelle : « de l’ ».",
+            "en": "Eau starts with a vowel: use de l’.",
+            "es": "Eau empieza por vocal: se usa de l’.",
+            "ru": "Eau начинается с гласной — de l’."
+          }
         },
         {
           "id": "remote-food-gq-3",
@@ -580,13 +602,25 @@
             "du",
             "de",
             "des"
-          ]
+          ],
+          "gloss": {
+            "en": "I don’t buy ___ meat.",
+            "es": "No compro ___ carne.",
+            "ru": "Я не покупаю ___ мясо."
+          },
+          "why": {
+            "fr": "Après une négation, le partitif devient « de ».",
+            "en": "After negation, the partitive becomes de.",
+            "es": "Tras la negación, el partitivo pasa a de.",
+            "ru": "После отрицания партитив становится de."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Partitive articles.",
         "es": "Útil cuando necesitas aplicar: Artículos partitivos.",
-        "ru": "Полезно, когда нужно применить: Разделительные артикли."
+        "ru": "Полезно, когда нужно применить: Разделительные артикли.",
+        "fr": "Utile pour appliquer : Les articles partitifs."
       }
     },
     {
@@ -639,7 +673,18 @@
             "Je suis",
             "Je voudrais",
             "J’ai"
-          ]
+          ],
+          "gloss": {
+            "en": "___ an orange juice, please.",
+            "es": "___ un zumo de naranja, por favor.",
+            "ru": "___ апельсиновый сок, пожалуйста."
+          },
+          "why": {
+            "fr": "Pour commander poliment : « Je voudrais… ».",
+            "en": "To order politely: Je voudrais…",
+            "es": "Para pedir con cortesía: Je voudrais…",
+            "ru": "Вежливый заказ: Je voudrais…"
+          }
         },
         {
           "id": "remote-food-gq-5",
@@ -649,13 +694,25 @@
             "un",
             "une",
             "du"
-          ]
+          ],
+          "gloss": {
+            "en": "I’ll take ___ apple.",
+            "es": "Tomaré ___ manzana.",
+            "ru": "Я возьму ___ яблоко."
+          },
+          "why": {
+            "fr": "« Pomme » est féminin : « une ».",
+            "en": "Pomme is feminine: une.",
+            "es": "Pomme es femenino: une.",
+            "ru": "Pomme — женского рода: une."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Ordering at a café.",
         "es": "Útil cuando necesitas presentar una solicitud: hacer un pedido en una cafetería.",
-        "ru": "Полезно, когда нужно подать заявку: Заказ в кафе."
+        "ru": "Полезно, когда нужно подать заявку: Заказ в кафе.",
+        "fr": "Utile pour appliquer : Commander au café."
       }
     }
   ],
@@ -876,6 +933,1000 @@
         },
         "l2": "Nous mangeons du riz ce soir."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-food-fren-1",
+        "fr": "pain",
+        "en": "bread",
+        "gloss": {
+          "en": "bread",
+          "es": "pan",
+          "ru": "хлеб"
+        },
+        "l2": "pain"
+      },
+      {
+        "id": "remote-food-fren-2",
+        "fr": "fromage",
+        "en": "cheese",
+        "gloss": {
+          "en": "cheese",
+          "es": "queso",
+          "ru": "сыр"
+        },
+        "l2": "fromage"
+      },
+      {
+        "id": "remote-food-fren-3",
+        "fr": "pomme",
+        "en": "apple",
+        "gloss": {
+          "en": "apple",
+          "es": "manzana",
+          "ru": "яблоко"
+        },
+        "l2": "pomme"
+      },
+      {
+        "id": "remote-food-fren-4",
+        "fr": "eau",
+        "en": "water",
+        "gloss": {
+          "en": "water",
+          "es": "agua",
+          "ru": "вода"
+        },
+        "l2": "eau"
+      },
+      {
+        "id": "remote-food-fren-5",
+        "fr": "café",
+        "en": "coffee",
+        "gloss": {
+          "en": "coffee",
+          "es": "café",
+          "ru": "кофе"
+        },
+        "l2": "café"
+      },
+      {
+        "id": "remote-food-fren-6",
+        "fr": "poulet",
+        "en": "chicken",
+        "gloss": {
+          "en": "chicken",
+          "es": "pollo",
+          "ru": "курица"
+        },
+        "l2": "poulet"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-food-a1-enl2-1",
+        "fr": "Je mange du pain le matin.",
+        "l2": "Je mange du pain le matin.",
+        "en": "bread",
+        "gloss": {
+          "en": "bread",
+          "es": "pan",
+          "ru": "хлеб"
+        },
+        "prompt": "bread",
+        "choices": [
+          "Je mange du pain le matin.",
+          "Le fromage est délicieux.",
+          "Je prends une pomme."
+        ]
+      },
+      {
+        "id": "remote-food-a1-enl2-2",
+        "fr": "Le fromage est délicieux.",
+        "l2": "Le fromage est délicieux.",
+        "en": "cheese",
+        "gloss": {
+          "en": "cheese",
+          "es": "queso",
+          "ru": "сыр"
+        },
+        "prompt": "cheese",
+        "choices": [
+          "Le fromage est délicieux.",
+          "Je mange du pain le matin.",
+          "Je prends une pomme."
+        ]
+      },
+      {
+        "id": "remote-food-a1-enl2-3",
+        "fr": "Je prends une pomme.",
+        "l2": "Je prends une pomme.",
+        "en": "apple",
+        "gloss": {
+          "en": "apple",
+          "es": "manzana",
+          "ru": "яблоко"
+        },
+        "prompt": "apple",
+        "choices": [
+          "Je prends une pomme.",
+          "Je mange du pain le matin.",
+          "Le fromage est délicieux."
+        ]
+      },
+      {
+        "id": "remote-food-a1-enl2-4",
+        "fr": "Une bouteille d’eau, s’il vous plaît.",
+        "l2": "Une bouteille d’eau, s’il vous plaît.",
+        "en": "water",
+        "gloss": {
+          "en": "water",
+          "es": "agua",
+          "ru": "вода"
+        },
+        "prompt": "water",
+        "choices": [
+          "Une bouteille d’eau, s’il vous plaît.",
+          "Je mange du pain le matin.",
+          "Le fromage est délicieux."
+        ]
+      },
+      {
+        "id": "remote-food-a1-enl2-5",
+        "fr": "Je bois un café.",
+        "l2": "Je bois un café.",
+        "en": "coffee / café",
+        "gloss": {
+          "en": "coffee / café",
+          "es": "café / cafetería",
+          "ru": "кофе / кафе"
+        },
+        "prompt": "coffee / café",
+        "choices": [
+          "Je bois un café.",
+          "Je mange du pain le matin.",
+          "Le fromage est délicieux."
+        ]
+      },
+      {
+        "id": "remote-food-a1-enl2-6",
+        "fr": "Du lait dans le café ?",
+        "l2": "Du lait dans le café ?",
+        "en": "milk",
+        "gloss": {
+          "en": "milk",
+          "es": "leche",
+          "ru": "молоко"
+        },
+        "prompt": "milk",
+        "choices": [
+          "Du lait dans le café ?",
+          "Je mange du pain le matin.",
+          "Le fromage est délicieux."
+        ]
+      },
+      {
+        "id": "remote-food-a1-enl2-7",
+        "fr": "La soupe est chaude.",
+        "l2": "La soupe est chaude.",
+        "en": "soup",
+        "gloss": {
+          "en": "soup",
+          "es": "sopa",
+          "ru": "суп"
+        },
+        "prompt": "soup",
+        "choices": [
+          "La soupe est chaude.",
+          "Je mange du pain le matin.",
+          "Le fromage est délicieux."
+        ]
+      },
+      {
+        "id": "remote-food-a1-enl2-8",
+        "fr": "J’aime les fruits.",
+        "l2": "J’aime les fruits.",
+        "en": "fruit",
+        "gloss": {
+          "en": "fruit",
+          "es": "fruta",
+          "ru": "фрукты"
+        },
+        "prompt": "fruit",
+        "choices": [
+          "J’aime les fruits.",
+          "Je mange du pain le matin.",
+          "Le fromage est délicieux."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-food-a1-prm-1",
+        "en": "bread",
+        "gloss": {
+          "en": "bread",
+          "es": "pan",
+          "ru": "хлеб"
+        },
+        "answers": [
+          "pain",
+          "le pain"
+        ],
+        "target": "le pain"
+      },
+      {
+        "id": "remote-food-a1-prm-2",
+        "en": "cheese",
+        "gloss": {
+          "en": "cheese",
+          "es": "queso",
+          "ru": "сыр"
+        },
+        "answers": [
+          "fromage",
+          "le fromage"
+        ],
+        "target": "le fromage"
+      },
+      {
+        "id": "remote-food-a1-prm-3",
+        "en": "apple",
+        "gloss": {
+          "en": "apple",
+          "es": "manzana",
+          "ru": "яблоко"
+        },
+        "answers": [
+          "pomme",
+          "la pomme"
+        ],
+        "target": "la pomme"
+      },
+      {
+        "id": "remote-food-a1-prm-4",
+        "en": "water",
+        "gloss": {
+          "en": "water",
+          "es": "agua",
+          "ru": "вода"
+        },
+        "answers": [
+          "eau",
+          "la eau"
+        ],
+        "target": "la eau"
+      },
+      {
+        "id": "remote-food-a1-prm-5",
+        "en": "coffee / café",
+        "gloss": {
+          "en": "coffee / café",
+          "es": "café / cafetería",
+          "ru": "кофе / кафе"
+        },
+        "answers": [
+          "café",
+          "le café"
+        ],
+        "target": "le café"
+      },
+      {
+        "id": "remote-food-a1-prm-6",
+        "en": "milk",
+        "gloss": {
+          "en": "milk",
+          "es": "leche",
+          "ru": "молоко"
+        },
+        "answers": [
+          "lait",
+          "le lait"
+        ],
+        "target": "le lait"
+      },
+      {
+        "id": "remote-food-a1-prm-7",
+        "en": "soup",
+        "gloss": {
+          "en": "soup",
+          "es": "sopa",
+          "ru": "суп"
+        },
+        "answers": [
+          "soupe",
+          "la soupe"
+        ],
+        "target": "la soupe"
+      },
+      {
+        "id": "remote-food-a1-prm-8",
+        "en": "fruit",
+        "gloss": {
+          "en": "fruit",
+          "es": "fruta",
+          "ru": "фрукты"
+        },
+        "answers": [
+          "fruit",
+          "le fruit"
+        ],
+        "target": "le fruit"
+      },
+      {
+        "id": "remote-food-a1-prm-9",
+        "en": "egg",
+        "gloss": {
+          "en": "egg",
+          "es": "huevo",
+          "ru": "яйцо"
+        },
+        "answers": [
+          "œuf",
+          "le œuf"
+        ],
+        "target": "le œuf"
+      },
+      {
+        "id": "remote-food-a1-prm-10",
+        "en": "butter",
+        "gloss": {
+          "en": "butter",
+          "es": "manteca",
+          "ru": "масло"
+        },
+        "answers": [
+          "beurre",
+          "le beurre"
+        ],
+        "target": "le beurre"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-food-a1-sign-1",
+        "fr": "pain",
+        "l2": "pain",
+        "en": "bread",
+        "gloss": {
+          "en": "bread",
+          "es": "pan",
+          "ru": "хлеб"
+        },
+        "choices": [
+          "bread",
+          "cheese",
+          "apple"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-2",
+        "fr": "fromage",
+        "l2": "fromage",
+        "en": "cheese",
+        "gloss": {
+          "en": "cheese",
+          "es": "queso",
+          "ru": "сыр"
+        },
+        "choices": [
+          "cheese",
+          "bread",
+          "apple"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-3",
+        "fr": "pomme",
+        "l2": "pomme",
+        "en": "apple",
+        "gloss": {
+          "en": "apple",
+          "es": "manzana",
+          "ru": "яблоко"
+        },
+        "choices": [
+          "apple",
+          "bread",
+          "cheese"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-4",
+        "fr": "eau",
+        "l2": "eau",
+        "en": "water",
+        "gloss": {
+          "en": "water",
+          "es": "agua",
+          "ru": "вода"
+        },
+        "choices": [
+          "water",
+          "bread",
+          "cheese"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-5",
+        "fr": "café",
+        "l2": "café",
+        "en": "coffee / café",
+        "gloss": {
+          "en": "coffee / café",
+          "es": "café / cafetería",
+          "ru": "кофе / кафе"
+        },
+        "choices": [
+          "coffee / café",
+          "bread",
+          "cheese"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-6",
+        "fr": "lait",
+        "l2": "lait",
+        "en": "milk",
+        "gloss": {
+          "en": "milk",
+          "es": "leche",
+          "ru": "молоко"
+        },
+        "choices": [
+          "milk",
+          "bread",
+          "cheese"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-7",
+        "fr": "soupe",
+        "l2": "soupe",
+        "en": "soup",
+        "gloss": {
+          "en": "soup",
+          "es": "sopa",
+          "ru": "суп"
+        },
+        "choices": [
+          "soup",
+          "bread",
+          "cheese"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-8",
+        "fr": "fruit",
+        "l2": "fruit",
+        "en": "fruit",
+        "gloss": {
+          "en": "fruit",
+          "es": "fruta",
+          "ru": "фрукты"
+        },
+        "choices": [
+          "fruit",
+          "bread",
+          "cheese"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-9",
+        "fr": "œuf",
+        "l2": "œuf",
+        "en": "egg",
+        "gloss": {
+          "en": "egg",
+          "es": "huevo",
+          "ru": "яйцо"
+        },
+        "choices": [
+          "egg",
+          "bread",
+          "cheese"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-10",
+        "fr": "beurre",
+        "l2": "beurre",
+        "en": "butter",
+        "gloss": {
+          "en": "butter",
+          "es": "manteca",
+          "ru": "масло"
+        },
+        "choices": [
+          "butter",
+          "bread",
+          "cheese"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-11",
+        "fr": "riz",
+        "l2": "riz",
+        "en": "rice",
+        "gloss": {
+          "en": "rice",
+          "es": "arroz",
+          "ru": "рис"
+        },
+        "choices": [
+          "rice",
+          "bread",
+          "cheese"
+        ]
+      },
+      {
+        "id": "remote-food-a1-sign-12",
+        "fr": "poulet",
+        "l2": "poulet",
+        "en": "chicken",
+        "gloss": {
+          "en": "chicken",
+          "es": "pollo",
+          "ru": "курица"
+        },
+        "choices": [
+          "chicken",
+          "bread",
+          "cheese"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-food-a1-pair-1",
+        "a": {
+          "fr": "pain",
+          "l2": "pain",
+          "en": "bread",
+          "gloss": {
+            "en": "bread",
+            "es": "pan",
+            "ru": "хлеб"
+          }
+        },
+        "b": {
+          "fr": "fromage",
+          "l2": "fromage",
+          "en": "cheese",
+          "gloss": {
+            "en": "cheese",
+            "es": "queso",
+            "ru": "сыр"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-food-a1-pair-2",
+        "a": {
+          "fr": "pomme",
+          "l2": "pomme",
+          "en": "apple",
+          "gloss": {
+            "en": "apple",
+            "es": "manzana",
+            "ru": "яблоко"
+          }
+        },
+        "b": {
+          "fr": "eau",
+          "l2": "eau",
+          "en": "water",
+          "gloss": {
+            "en": "water",
+            "es": "agua",
+            "ru": "вода"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-food-a1-pair-3",
+        "a": {
+          "fr": "café",
+          "l2": "café",
+          "en": "coffee / café",
+          "gloss": {
+            "en": "coffee / café",
+            "es": "café / cafetería",
+            "ru": "кофе / кафе"
+          }
+        },
+        "b": {
+          "fr": "lait",
+          "l2": "lait",
+          "en": "milk",
+          "gloss": {
+            "en": "milk",
+            "es": "leche",
+            "ru": "молоко"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-food-a1-pair-4",
+        "a": {
+          "fr": "soupe",
+          "l2": "soupe",
+          "en": "soup",
+          "gloss": {
+            "en": "soup",
+            "es": "sopa",
+            "ru": "суп"
+          }
+        },
+        "b": {
+          "fr": "fruit",
+          "l2": "fruit",
+          "en": "fruit",
+          "gloss": {
+            "en": "fruit",
+            "es": "fruta",
+            "ru": "фрукты"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-food-a1-pair-5",
+        "a": {
+          "fr": "œuf",
+          "l2": "œuf",
+          "en": "egg",
+          "gloss": {
+            "en": "egg",
+            "es": "huevo",
+            "ru": "яйцо"
+          }
+        },
+        "b": {
+          "fr": "beurre",
+          "l2": "beurre",
+          "en": "butter",
+          "gloss": {
+            "en": "butter",
+            "es": "manteca",
+            "ru": "масло"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-food-a1-gap-1",
+        "fr": "Je mange du pain le matin.",
+        "l2": "Je mange du pain le matin.",
+        "speak": "Je mange du pain le matin.",
+        "blank": "pain",
+        "en": "bread",
+        "gloss": {
+          "en": "bread",
+          "es": "pan",
+          "ru": "хлеб"
+        }
+      },
+      {
+        "id": "remote-food-a1-gap-2",
+        "fr": "Le fromage est délicieux.",
+        "l2": "Le fromage est délicieux.",
+        "speak": "Le fromage est délicieux.",
+        "blank": "fromage",
+        "en": "cheese",
+        "gloss": {
+          "en": "cheese",
+          "es": "queso",
+          "ru": "сыр"
+        }
+      },
+      {
+        "id": "remote-food-a1-gap-3",
+        "fr": "Je prends une pomme.",
+        "l2": "Je prends une pomme.",
+        "speak": "Je prends une pomme.",
+        "blank": "pomme",
+        "en": "apple",
+        "gloss": {
+          "en": "apple",
+          "es": "manzana",
+          "ru": "яблоко"
+        }
+      },
+      {
+        "id": "remote-food-a1-gap-4",
+        "fr": "Une bouteille d’eau, s’il vous plaît.",
+        "l2": "Une bouteille d’eau, s’il vous plaît.",
+        "speak": "Une bouteille d’eau, s’il vous plaît.",
+        "blank": "eau",
+        "en": "water",
+        "gloss": {
+          "en": "water",
+          "es": "agua",
+          "ru": "вода"
+        }
+      },
+      {
+        "id": "remote-food-a1-gap-5",
+        "fr": "Je bois un café.",
+        "l2": "Je bois un café.",
+        "speak": "Je bois un café.",
+        "blank": "café",
+        "en": "coffee / café",
+        "gloss": {
+          "en": "coffee / café",
+          "es": "café / cafetería",
+          "ru": "кофе / кафе"
+        }
+      },
+      {
+        "id": "remote-food-a1-gap-6",
+        "fr": "Du lait dans le café ?",
+        "l2": "Du lait dans le café ?",
+        "speak": "Du lait dans le café ?",
+        "blank": "lait",
+        "en": "milk",
+        "gloss": {
+          "en": "milk",
+          "es": "leche",
+          "ru": "молоко"
+        }
+      },
+      {
+        "id": "remote-food-a1-gap-7",
+        "fr": "La soupe est chaude.",
+        "l2": "La soupe est chaude.",
+        "speak": "La soupe est chaude.",
+        "blank": "soupe",
+        "en": "soup",
+        "gloss": {
+          "en": "soup",
+          "es": "sopa",
+          "ru": "суп"
+        }
+      },
+      {
+        "id": "remote-food-a1-gap-8",
+        "fr": "J’aime les fruits.",
+        "l2": "J’aime les fruits.",
+        "speak": "J’aime les fruits.",
+        "blank": "fruit",
+        "en": "fruit",
+        "gloss": {
+          "en": "fruit",
+          "es": "fruta",
+          "ru": "фрукты"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-food-a1-ord-1",
+        "fr": "Je mange du pain le matin.",
+        "l2": "Je mange du pain le matin.",
+        "en": "bread",
+        "gloss": {
+          "en": "bread",
+          "es": "pan",
+          "ru": "хлеб"
+        },
+        "words": [
+          "Je",
+          "mange",
+          "du",
+          "pain",
+          "le",
+          "matin."
+        ]
+      },
+      {
+        "id": "remote-food-a1-ord-2",
+        "fr": "Le fromage est délicieux.",
+        "l2": "Le fromage est délicieux.",
+        "en": "cheese",
+        "gloss": {
+          "en": "cheese",
+          "es": "queso",
+          "ru": "сыр"
+        },
+        "words": [
+          "Le",
+          "fromage",
+          "est",
+          "délicieux."
+        ]
+      },
+      {
+        "id": "remote-food-a1-ord-3",
+        "fr": "Je prends une pomme.",
+        "l2": "Je prends une pomme.",
+        "en": "apple",
+        "gloss": {
+          "en": "apple",
+          "es": "manzana",
+          "ru": "яблоко"
+        },
+        "words": [
+          "Je",
+          "prends",
+          "une",
+          "pomme."
+        ]
+      },
+      {
+        "id": "remote-food-a1-ord-4",
+        "fr": "Une bouteille d’eau, s’il vous plaît.",
+        "l2": "Une bouteille d’eau, s’il vous plaît.",
+        "en": "water",
+        "gloss": {
+          "en": "water",
+          "es": "agua",
+          "ru": "вода"
+        },
+        "words": [
+          "Une",
+          "bouteille",
+          "d’eau,",
+          "s’il",
+          "vous",
+          "plaît."
+        ]
+      },
+      {
+        "id": "remote-food-a1-ord-5",
+        "fr": "Je bois un café.",
+        "l2": "Je bois un café.",
+        "en": "coffee / café",
+        "gloss": {
+          "en": "coffee / café",
+          "es": "café / cafetería",
+          "ru": "кофе / кафе"
+        },
+        "words": [
+          "Je",
+          "bois",
+          "un",
+          "café."
+        ]
+      },
+      {
+        "id": "remote-food-a1-ord-6",
+        "fr": "Du lait dans le café ?",
+        "l2": "Du lait dans le café ?",
+        "en": "milk",
+        "gloss": {
+          "en": "milk",
+          "es": "leche",
+          "ru": "молоко"
+        },
+        "words": [
+          "Du",
+          "lait",
+          "dans",
+          "le",
+          "café",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-food-a1-ord-7",
+        "fr": "La soupe est chaude.",
+        "l2": "La soupe est chaude.",
+        "en": "soup",
+        "gloss": {
+          "en": "soup",
+          "es": "sopa",
+          "ru": "суп"
+        },
+        "words": [
+          "La",
+          "soupe",
+          "est",
+          "chaude."
+        ]
+      },
+      {
+        "id": "remote-food-a1-ord-8",
+        "fr": "J’aime les fruits.",
+        "l2": "J’aime les fruits.",
+        "en": "fruit",
+        "gloss": {
+          "en": "fruit",
+          "es": "fruta",
+          "ru": "фрукты"
+        },
+        "words": [
+          "J’aime",
+          "les",
+          "fruits."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-food-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "pɛ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "pain",
+          "l2": "pain",
+          "en": "bread",
+          "gloss": {
+            "en": "bread",
+            "es": "pan",
+            "ru": "хлеб"
+          },
+          "ipa": "pɛ̃"
+        },
+        {
+          "fr": "fromage",
+          "l2": "fromage",
+          "en": "cheese",
+          "gloss": {
+            "en": "cheese",
+            "es": "queso",
+            "ru": "сыр"
+          },
+          "ipa": "fʁɔ.maʒ"
+        },
+        {
+          "fr": "pomme",
+          "l2": "pomme",
+          "en": "apple",
+          "gloss": {
+            "en": "apple",
+            "es": "manzana",
+            "ru": "яблоко"
+          },
+          "ipa": "pɔm"
+        },
+        {
+          "fr": "eau",
+          "l2": "eau",
+          "en": "water",
+          "gloss": {
+            "en": "water",
+            "es": "agua",
+            "ru": "вода"
+          },
+          "ipa": "o"
+        },
+        {
+          "fr": "café",
+          "l2": "café",
+          "en": "coffee / café",
+          "gloss": {
+            "en": "coffee / café",
+            "es": "café / cafetería",
+            "ru": "кофе / кафе"
+          },
+          "ipa": "ka.fe"
+        }
+      ]
+    }
+  ]
 }

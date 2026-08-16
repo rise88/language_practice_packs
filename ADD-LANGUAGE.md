@@ -30,6 +30,12 @@ Do **not** build or rely on a translation backend: ship L2 text in the pack JSON
 | `listen[].distractors` | Distractors in the **practice language** (not translated) |
 | `grammar[].title` / `rule` / `why` | Locale maps (rule keeps a practice-language entry; why is learner-facing) |
 | `skills.*.gloss` | Meanings for Studio drills |
+| `skills.l2en` | Preferred Sens drill id (L2 → meaning). Legacy `fren` is an alias kept for older app builds. |
+| `skills.enfr` / `prompt` / `signs` / `pairs` / `gap` / `reorder` | Extra studio coverage (also auto-derived from seed when omitted) |
+| `sounds` | Prononcer → Sons families (also derived from seed IPA when omitted) |
+| `grammar[].questions[].gloss` | Learner meaning of the prompt (`en`/`es`/`ru`/…) |
+| `grammar[].questions[].why` | Feedback after answering (include `fr` + gloss locales) |
+| `grammar[].why.fr` | Practice-language blurb for the lesson why map |
 | `skills.meaning.choices` | Optional; **omit** when `gloss` exists — the app derives MCQ distractors from other cards’ `gloss[lang]` |
 
 Keep gloss locale maps when adding L2 packs — do not remove `en` / `es` / `ru`.

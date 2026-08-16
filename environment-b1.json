@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "environment-b1",
-  "version": 4,
+  "version": 5,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "Il faut",
             "On a",
             "C’est"
-          ]
+          ],
+          "gloss": {
+            "en": "___ reduce our waste.",
+            "es": "___ reducir nuestros residuos.",
+            "ru": "___ сократить наши отходы."
+          },
+          "why": {
+            "fr": "Réponse : « Il faut ».",
+            "en": "Answer: “Il faut”.",
+            "es": "Respuesta: « Il faut ».",
+            "ru": "Ответ: « Il faut »."
+          }
         },
         {
           "id": "remote-environment-gq-2",
@@ -537,7 +548,18 @@
             "devrait",
             "faut",
             "doit de"
-          ]
+          ],
+          "gloss": {
+            "en": "We ___ take the train.",
+            "es": "Nosotros ___ tomamos el tren.",
+            "ru": "Мы ___ садимся на поезд."
+          },
+          "why": {
+            "fr": "Réponse : « devrait ».",
+            "en": "Answer: “devrait”.",
+            "es": "Respuesta: « devrait ».",
+            "ru": "Ответ: « devrait »."
+          }
         },
         {
           "id": "remote-environment-gq-3",
@@ -547,13 +569,25 @@
             "faudrait",
             "fautait",
             "fallait de"
-          ]
+          ],
+          "gloss": {
+            "en": "He ___ ban these pesticides.",
+            "es": "Él ___ prohibe estos pesticidas.",
+            "ru": "Он ___ запретил эти пестициды."
+          },
+          "why": {
+            "fr": "Réponse : « faudrait ».",
+            "en": "Answer: “faudrait”.",
+            "es": "Respuesta: « faudrait ».",
+            "ru": "Ответ: « faudrait »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Il faut and on devrait.",
         "es": "Útil cuando es necesario aplicar: Il faut y on devrait.",
-        "ru": "Полезно, когда нужно применить: Ильфо и на деврайт."
+        "ru": "Полезно, когда нужно применить: Ильфо и на деврайт.",
+        "fr": "Utile pour appliquer : Il faut / on devrait."
       }
     },
     {
@@ -606,7 +640,18 @@
             "trie",
             "triait",
             "triera"
-          ]
+          ],
+          "gloss": {
+            "en": "If everyone ___ , it would be easier.",
+            "es": "Si todos ___ , sería más fácil.",
+            "ru": "Если бы все ___ , было бы проще."
+          },
+          "why": {
+            "fr": "Réponse : « triait ».",
+            "en": "Answer: “triait”.",
+            "es": "Respuesta: « triait ».",
+            "ru": "Ответ: « triait »."
+          }
         },
         {
           "id": "remote-environment-gq-5",
@@ -616,13 +661,25 @@
             "pollue",
             "polluerait",
             "a pollué"
-          ]
+          ],
+          "gloss": {
+            "en": "If we took the train, we ___ less.",
+            "es": "Si cogiéramos el tren, ___ menos.",
+            "ru": "Если бы мы поехали на поезде, мы ___ меньше."
+          },
+          "why": {
+            "fr": "Réponse : « polluerait ».",
+            "en": "Answer: “polluerait”.",
+            "es": "Respuesta: « polluerait ».",
+            "ru": "Ответ: « polluerait »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Hypothetical si clauses.",
         "es": "Útil cuando necesitas aplicar: Cláusulas si hipotéticas.",
-        "ru": "Полезно, когда вам нужно подать заявку: Гипотетические предложения si."
+        "ru": "Полезно, когда вам нужно подать заявку: Гипотетические предложения si.",
+        "fr": "Utile pour appliquer : Si + imparfait + conditionnel."
       }
     }
   ],
@@ -848,6 +905,1019 @@
         },
         "l2": "On devrait interdire les pesticides les plus dangereux."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-environment-fren-1",
+        "fr": "environnement",
+        "en": "environment",
+        "gloss": {
+          "en": "environment",
+          "es": "ambiente",
+          "ru": "среда"
+        },
+        "l2": "environnement"
+      },
+      {
+        "id": "remote-environment-fren-2",
+        "fr": "pollution",
+        "en": "pollution",
+        "gloss": {
+          "en": "pollution",
+          "es": "contaminación",
+          "ru": "загрязнение"
+        },
+        "l2": "pollution"
+      },
+      {
+        "id": "remote-environment-fren-3",
+        "fr": "déchet",
+        "en": "waste",
+        "gloss": {
+          "en": "waste",
+          "es": "desperdiciar",
+          "ru": "напрасно тратить"
+        },
+        "l2": "déchet"
+      },
+      {
+        "id": "remote-environment-fren-4",
+        "fr": "recyclage",
+        "en": "recycling",
+        "gloss": {
+          "en": "recycling",
+          "es": "reciclaje",
+          "ru": "переработка"
+        },
+        "l2": "recyclage"
+      },
+      {
+        "id": "remote-environment-fren-5",
+        "fr": "tri",
+        "en": "sorting (waste)",
+        "gloss": {
+          "en": "sorting (waste)",
+          "es": "clasificación (residuos)",
+          "ru": "сортировка (отходов)"
+        },
+        "l2": "tri"
+      },
+      {
+        "id": "remote-environment-fren-6",
+        "fr": "énergie",
+        "en": "energy",
+        "gloss": {
+          "en": "energy",
+          "es": "energía",
+          "ru": "энергия"
+        },
+        "l2": "énergie"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-environment-b1-enl2-1",
+        "fr": "Il faut protéger l’environnement autour de chez nous.",
+        "l2": "Il faut protéger l’environnement autour de chez nous.",
+        "en": "environment",
+        "gloss": {
+          "en": "environment",
+          "es": "ambiente",
+          "ru": "среда"
+        },
+        "prompt": "environment",
+        "choices": [
+          "Il faut protéger l’environnement autour de chez nous.",
+          "La pollution de l’air augmente en ville.",
+          "Nous produisons trop de déchets plastiques."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-enl2-2",
+        "fr": "La pollution de l’air augmente en ville.",
+        "l2": "La pollution de l’air augmente en ville.",
+        "en": "pollution",
+        "gloss": {
+          "en": "pollution",
+          "es": "contaminación",
+          "ru": "загрязнение"
+        },
+        "prompt": "pollution",
+        "choices": [
+          "La pollution de l’air augmente en ville.",
+          "Il faut protéger l’environnement autour de chez nous.",
+          "Nous produisons trop de déchets plastiques."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-enl2-3",
+        "fr": "Nous produisons trop de déchets plastiques.",
+        "l2": "Nous produisons trop de déchets plastiques.",
+        "en": "waste / rubbish",
+        "gloss": {
+          "en": "waste / rubbish",
+          "es": "residuos / basura",
+          "ru": "отходы / мусор"
+        },
+        "prompt": "waste / rubbish",
+        "choices": [
+          "Nous produisons trop de déchets plastiques.",
+          "Il faut protéger l’environnement autour de chez nous.",
+          "La pollution de l’air augmente en ville."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-enl2-4",
+        "fr": "Le recyclage n’est pas encore automatique partout.",
+        "l2": "Le recyclage n’est pas encore automatique partout.",
+        "en": "recycling",
+        "gloss": {
+          "en": "recycling",
+          "es": "reciclaje",
+          "ru": "переработка"
+        },
+        "prompt": "recycling",
+        "choices": [
+          "Le recyclage n’est pas encore automatique partout.",
+          "Il faut protéger l’environnement autour de chez nous.",
+          "La pollution de l’air augmente en ville."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-enl2-5",
+        "fr": "Le tri sélectif commence dans la cuisine.",
+        "l2": "Le tri sélectif commence dans la cuisine.",
+        "en": "sorting (waste)",
+        "gloss": {
+          "en": "sorting (waste)",
+          "es": "clasificación (residuos)",
+          "ru": "сортировка (отходов)"
+        },
+        "prompt": "sorting (waste)",
+        "choices": [
+          "Le tri sélectif commence dans la cuisine.",
+          "Il faut protéger l’environnement autour de chez nous.",
+          "La pollution de l’air augmente en ville."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-enl2-6",
+        "fr": "Cette énergie vient du vent et du soleil.",
+        "l2": "Cette énergie vient du vent et du soleil.",
+        "en": "energy",
+        "gloss": {
+          "en": "energy",
+          "es": "energía",
+          "ru": "энергия"
+        },
+        "prompt": "energy",
+        "choices": [
+          "Cette énergie vient du vent et du soleil.",
+          "Il faut protéger l’environnement autour de chez nous.",
+          "La pollution de l’air augmente en ville."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-enl2-7",
+        "fr": "Les énergies renouvelables se développent vite.",
+        "l2": "Les énergies renouvelables se développent vite.",
+        "en": "renewable (energy)",
+        "gloss": {
+          "en": "renewable (energy)",
+          "es": "renovable (energía)",
+          "ru": "возобновляемый (энергия)"
+        },
+        "prompt": "renewable (energy)",
+        "choices": [
+          "Les énergies renouvelables se développent vite.",
+          "Il faut protéger l’environnement autour de chez nous.",
+          "La pollution de l’air augmente en ville."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-enl2-8",
+        "fr": "Les émissions de CO2 restent trop élevées.",
+        "l2": "Les émissions de CO2 restent trop élevées.",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        },
+        "prompt": "emission",
+        "choices": [
+          "Les émissions de CO2 restent trop élevées.",
+          "Il faut protéger l’environnement autour de chez nous.",
+          "La pollution de l’air augmente en ville."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-environment-b1-prm-1",
+        "en": "environment",
+        "gloss": {
+          "en": "environment",
+          "es": "ambiente",
+          "ru": "среда"
+        },
+        "answers": [
+          "environnement",
+          "l' environnement"
+        ],
+        "target": "l' environnement"
+      },
+      {
+        "id": "remote-environment-b1-prm-2",
+        "en": "pollution",
+        "gloss": {
+          "en": "pollution",
+          "es": "contaminación",
+          "ru": "загрязнение"
+        },
+        "answers": [
+          "pollution",
+          "la pollution"
+        ],
+        "target": "la pollution"
+      },
+      {
+        "id": "remote-environment-b1-prm-3",
+        "en": "waste / rubbish",
+        "gloss": {
+          "en": "waste / rubbish",
+          "es": "residuos / basura",
+          "ru": "отходы / мусор"
+        },
+        "answers": [
+          "déchet",
+          "le déchet"
+        ],
+        "target": "le déchet"
+      },
+      {
+        "id": "remote-environment-b1-prm-4",
+        "en": "recycling",
+        "gloss": {
+          "en": "recycling",
+          "es": "reciclaje",
+          "ru": "переработка"
+        },
+        "answers": [
+          "recyclage",
+          "le recyclage"
+        ],
+        "target": "le recyclage"
+      },
+      {
+        "id": "remote-environment-b1-prm-5",
+        "en": "sorting (waste)",
+        "gloss": {
+          "en": "sorting (waste)",
+          "es": "clasificación (residuos)",
+          "ru": "сортировка (отходов)"
+        },
+        "answers": [
+          "tri",
+          "le tri"
+        ],
+        "target": "le tri"
+      },
+      {
+        "id": "remote-environment-b1-prm-6",
+        "en": "energy",
+        "gloss": {
+          "en": "energy",
+          "es": "energía",
+          "ru": "энергия"
+        },
+        "answers": [
+          "énergie",
+          "l' énergie"
+        ],
+        "target": "l' énergie"
+      },
+      {
+        "id": "remote-environment-b1-prm-7",
+        "en": "renewable (energy)",
+        "gloss": {
+          "en": "renewable (energy)",
+          "es": "renovable (energía)",
+          "ru": "возобновляемый (энергия)"
+        },
+        "answers": [
+          "renouvelable",
+          "l' renouvelable"
+        ],
+        "target": "l' renouvelable"
+      },
+      {
+        "id": "remote-environment-b1-prm-8",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        },
+        "answers": [
+          "émission",
+          "l' émission"
+        ],
+        "target": "l' émission"
+      },
+      {
+        "id": "remote-environment-b1-prm-9",
+        "en": "climate",
+        "gloss": {
+          "en": "climate",
+          "es": "clima",
+          "ru": "климат"
+        },
+        "answers": [
+          "climat",
+          "le climat"
+        ],
+        "target": "le climat"
+      },
+      {
+        "id": "remote-environment-b1-prm-10",
+        "en": "drought",
+        "gloss": {
+          "en": "drought",
+          "es": "sequía",
+          "ru": "засуха"
+        },
+        "answers": [
+          "sécheresse",
+          "la sécheresse"
+        ],
+        "target": "la sécheresse"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-environment-b1-sign-1",
+        "fr": "environnement",
+        "l2": "environnement",
+        "en": "environment",
+        "gloss": {
+          "en": "environment",
+          "es": "ambiente",
+          "ru": "среда"
+        },
+        "choices": [
+          "environment",
+          "pollution",
+          "waste / rubbish"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-2",
+        "fr": "pollution",
+        "l2": "pollution",
+        "en": "pollution",
+        "gloss": {
+          "en": "pollution",
+          "es": "contaminación",
+          "ru": "загрязнение"
+        },
+        "choices": [
+          "pollution",
+          "environment",
+          "waste / rubbish"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-3",
+        "fr": "déchet",
+        "l2": "déchet",
+        "en": "waste / rubbish",
+        "gloss": {
+          "en": "waste / rubbish",
+          "es": "residuos / basura",
+          "ru": "отходы / мусор"
+        },
+        "choices": [
+          "waste / rubbish",
+          "environment",
+          "pollution"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-4",
+        "fr": "recyclage",
+        "l2": "recyclage",
+        "en": "recycling",
+        "gloss": {
+          "en": "recycling",
+          "es": "reciclaje",
+          "ru": "переработка"
+        },
+        "choices": [
+          "recycling",
+          "environment",
+          "pollution"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-5",
+        "fr": "tri",
+        "l2": "tri",
+        "en": "sorting (waste)",
+        "gloss": {
+          "en": "sorting (waste)",
+          "es": "clasificación (residuos)",
+          "ru": "сортировка (отходов)"
+        },
+        "choices": [
+          "sorting (waste)",
+          "environment",
+          "pollution"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-6",
+        "fr": "énergie",
+        "l2": "énergie",
+        "en": "energy",
+        "gloss": {
+          "en": "energy",
+          "es": "energía",
+          "ru": "энергия"
+        },
+        "choices": [
+          "energy",
+          "environment",
+          "pollution"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-7",
+        "fr": "renouvelable",
+        "l2": "renouvelable",
+        "en": "renewable (energy)",
+        "gloss": {
+          "en": "renewable (energy)",
+          "es": "renovable (energía)",
+          "ru": "возобновляемый (энергия)"
+        },
+        "choices": [
+          "renewable (energy)",
+          "environment",
+          "pollution"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-8",
+        "fr": "émission",
+        "l2": "émission",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        },
+        "choices": [
+          "emission",
+          "environment",
+          "pollution"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-9",
+        "fr": "climat",
+        "l2": "climat",
+        "en": "climate",
+        "gloss": {
+          "en": "climate",
+          "es": "clima",
+          "ru": "климат"
+        },
+        "choices": [
+          "climate",
+          "environment",
+          "pollution"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-10",
+        "fr": "sécheresse",
+        "l2": "sécheresse",
+        "en": "drought",
+        "gloss": {
+          "en": "drought",
+          "es": "sequía",
+          "ru": "засуха"
+        },
+        "choices": [
+          "drought",
+          "environment",
+          "pollution"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-11",
+        "fr": "inondation",
+        "l2": "inondation",
+        "en": "flood",
+        "gloss": {
+          "en": "flood",
+          "es": "inundación",
+          "ru": "наводнение"
+        },
+        "choices": [
+          "flood",
+          "environment",
+          "pollution"
+        ]
+      },
+      {
+        "id": "remote-environment-b1-sign-12",
+        "fr": "biodiversité",
+        "l2": "biodiversité",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        },
+        "choices": [
+          "biodiversity",
+          "environment",
+          "pollution"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-environment-b1-pair-1",
+        "a": {
+          "fr": "environnement",
+          "l2": "environnement",
+          "en": "environment",
+          "gloss": {
+            "en": "environment",
+            "es": "ambiente",
+            "ru": "среда"
+          }
+        },
+        "b": {
+          "fr": "pollution",
+          "l2": "pollution",
+          "en": "pollution",
+          "gloss": {
+            "en": "pollution",
+            "es": "contaminación",
+            "ru": "загрязнение"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-environment-b1-pair-2",
+        "a": {
+          "fr": "déchet",
+          "l2": "déchet",
+          "en": "waste / rubbish",
+          "gloss": {
+            "en": "waste / rubbish",
+            "es": "residuos / basura",
+            "ru": "отходы / мусор"
+          }
+        },
+        "b": {
+          "fr": "recyclage",
+          "l2": "recyclage",
+          "en": "recycling",
+          "gloss": {
+            "en": "recycling",
+            "es": "reciclaje",
+            "ru": "переработка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-environment-b1-pair-3",
+        "a": {
+          "fr": "tri",
+          "l2": "tri",
+          "en": "sorting (waste)",
+          "gloss": {
+            "en": "sorting (waste)",
+            "es": "clasificación (residuos)",
+            "ru": "сортировка (отходов)"
+          }
+        },
+        "b": {
+          "fr": "énergie",
+          "l2": "énergie",
+          "en": "energy",
+          "gloss": {
+            "en": "energy",
+            "es": "energía",
+            "ru": "энергия"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-environment-b1-pair-4",
+        "a": {
+          "fr": "renouvelable",
+          "l2": "renouvelable",
+          "en": "renewable (energy)",
+          "gloss": {
+            "en": "renewable (energy)",
+            "es": "renovable (energía)",
+            "ru": "возобновляемый (энергия)"
+          }
+        },
+        "b": {
+          "fr": "émission",
+          "l2": "émission",
+          "en": "emission",
+          "gloss": {
+            "en": "emission",
+            "es": "emisión",
+            "ru": "выбросы"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-environment-b1-pair-5",
+        "a": {
+          "fr": "climat",
+          "l2": "climat",
+          "en": "climate",
+          "gloss": {
+            "en": "climate",
+            "es": "clima",
+            "ru": "климат"
+          }
+        },
+        "b": {
+          "fr": "sécheresse",
+          "l2": "sécheresse",
+          "en": "drought",
+          "gloss": {
+            "en": "drought",
+            "es": "sequía",
+            "ru": "засуха"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-environment-b1-gap-1",
+        "fr": "Il faut protéger l’environnement autour de chez nous.",
+        "l2": "Il faut protéger l’environnement autour de chez nous.",
+        "speak": "Il faut protéger l’environnement autour de chez nous.",
+        "blank": "environnement",
+        "en": "environment",
+        "gloss": {
+          "en": "environment",
+          "es": "ambiente",
+          "ru": "среда"
+        }
+      },
+      {
+        "id": "remote-environment-b1-gap-2",
+        "fr": "La pollution de l’air augmente en ville.",
+        "l2": "La pollution de l’air augmente en ville.",
+        "speak": "La pollution de l’air augmente en ville.",
+        "blank": "pollution",
+        "en": "pollution",
+        "gloss": {
+          "en": "pollution",
+          "es": "contaminación",
+          "ru": "загрязнение"
+        }
+      },
+      {
+        "id": "remote-environment-b1-gap-3",
+        "fr": "Nous produisons trop de déchets plastiques.",
+        "l2": "Nous produisons trop de déchets plastiques.",
+        "speak": "Nous produisons trop de déchets plastiques.",
+        "blank": "déchet",
+        "en": "waste / rubbish",
+        "gloss": {
+          "en": "waste / rubbish",
+          "es": "residuos / basura",
+          "ru": "отходы / мусор"
+        }
+      },
+      {
+        "id": "remote-environment-b1-gap-4",
+        "fr": "Le recyclage n’est pas encore automatique partout.",
+        "l2": "Le recyclage n’est pas encore automatique partout.",
+        "speak": "Le recyclage n’est pas encore automatique partout.",
+        "blank": "recyclage",
+        "en": "recycling",
+        "gloss": {
+          "en": "recycling",
+          "es": "reciclaje",
+          "ru": "переработка"
+        }
+      },
+      {
+        "id": "remote-environment-b1-gap-5",
+        "fr": "Le tri sélectif commence dans la cuisine.",
+        "l2": "Le tri sélectif commence dans la cuisine.",
+        "speak": "Le tri sélectif commence dans la cuisine.",
+        "blank": "tri",
+        "en": "sorting (waste)",
+        "gloss": {
+          "en": "sorting (waste)",
+          "es": "clasificación (residuos)",
+          "ru": "сортировка (отходов)"
+        }
+      },
+      {
+        "id": "remote-environment-b1-gap-6",
+        "fr": "Cette énergie vient du vent et du soleil.",
+        "l2": "Cette énergie vient du vent et du soleil.",
+        "speak": "Cette énergie vient du vent et du soleil.",
+        "blank": "énergie",
+        "en": "energy",
+        "gloss": {
+          "en": "energy",
+          "es": "energía",
+          "ru": "энергия"
+        }
+      },
+      {
+        "id": "remote-environment-b1-gap-7",
+        "fr": "Les énergies renouvelables se développent vite.",
+        "l2": "Les énergies renouvelables se développent vite.",
+        "speak": "Les énergies renouvelables se développent vite.",
+        "blank": "renouvelable",
+        "en": "renewable (energy)",
+        "gloss": {
+          "en": "renewable (energy)",
+          "es": "renovable (energía)",
+          "ru": "возобновляемый (энергия)"
+        }
+      },
+      {
+        "id": "remote-environment-b1-gap-8",
+        "fr": "Les émissions de CO2 restent trop élevées.",
+        "l2": "Les émissions de CO2 restent trop élevées.",
+        "speak": "Les émissions de CO2 restent trop élevées.",
+        "blank": "émission",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-environment-b1-ord-1",
+        "fr": "Il faut protéger l’environnement autour de chez nous.",
+        "l2": "Il faut protéger l’environnement autour de chez nous.",
+        "en": "environment",
+        "gloss": {
+          "en": "environment",
+          "es": "ambiente",
+          "ru": "среда"
+        },
+        "words": [
+          "Il",
+          "faut",
+          "protéger",
+          "l’environnement",
+          "autour",
+          "de",
+          "chez",
+          "nous."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-ord-2",
+        "fr": "La pollution de l’air augmente en ville.",
+        "l2": "La pollution de l’air augmente en ville.",
+        "en": "pollution",
+        "gloss": {
+          "en": "pollution",
+          "es": "contaminación",
+          "ru": "загрязнение"
+        },
+        "words": [
+          "La",
+          "pollution",
+          "de",
+          "l’air",
+          "augmente",
+          "en",
+          "ville."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-ord-3",
+        "fr": "Nous produisons trop de déchets plastiques.",
+        "l2": "Nous produisons trop de déchets plastiques.",
+        "en": "waste / rubbish",
+        "gloss": {
+          "en": "waste / rubbish",
+          "es": "residuos / basura",
+          "ru": "отходы / мусор"
+        },
+        "words": [
+          "Nous",
+          "produisons",
+          "trop",
+          "de",
+          "déchets",
+          "plastiques."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-ord-4",
+        "fr": "Le recyclage n’est pas encore automatique partout.",
+        "l2": "Le recyclage n’est pas encore automatique partout.",
+        "en": "recycling",
+        "gloss": {
+          "en": "recycling",
+          "es": "reciclaje",
+          "ru": "переработка"
+        },
+        "words": [
+          "Le",
+          "recyclage",
+          "n’est",
+          "pas",
+          "encore",
+          "automatique",
+          "partout."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-ord-5",
+        "fr": "Le tri sélectif commence dans la cuisine.",
+        "l2": "Le tri sélectif commence dans la cuisine.",
+        "en": "sorting (waste)",
+        "gloss": {
+          "en": "sorting (waste)",
+          "es": "clasificación (residuos)",
+          "ru": "сортировка (отходов)"
+        },
+        "words": [
+          "Le",
+          "tri",
+          "sélectif",
+          "commence",
+          "dans",
+          "la",
+          "cuisine."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-ord-6",
+        "fr": "Cette énergie vient du vent et du soleil.",
+        "l2": "Cette énergie vient du vent et du soleil.",
+        "en": "energy",
+        "gloss": {
+          "en": "energy",
+          "es": "energía",
+          "ru": "энергия"
+        },
+        "words": [
+          "Cette",
+          "énergie",
+          "vient",
+          "du",
+          "vent",
+          "et",
+          "du",
+          "soleil."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-ord-7",
+        "fr": "Les énergies renouvelables se développent vite.",
+        "l2": "Les énergies renouvelables se développent vite.",
+        "en": "renewable (energy)",
+        "gloss": {
+          "en": "renewable (energy)",
+          "es": "renovable (energía)",
+          "ru": "возобновляемый (энергия)"
+        },
+        "words": [
+          "Les",
+          "énergies",
+          "renouvelables",
+          "se",
+          "développent",
+          "vite."
+        ]
+      },
+      {
+        "id": "remote-environment-b1-ord-8",
+        "fr": "Les émissions de CO2 restent trop élevées.",
+        "l2": "Les émissions de CO2 restent trop élevées.",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        },
+        "words": [
+          "Les",
+          "émissions",
+          "de",
+          "CO2",
+          "restent",
+          "trop",
+          "élevées."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-environment-b1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ɑ̃.vi.ʁɔn.mɑ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "environnement",
+          "l2": "environnement",
+          "en": "environment",
+          "gloss": {
+            "en": "environment",
+            "es": "ambiente",
+            "ru": "среда"
+          },
+          "ipa": "ɑ̃.vi.ʁɔn.mɑ̃"
+        },
+        {
+          "fr": "pollution",
+          "l2": "pollution",
+          "en": "pollution",
+          "gloss": {
+            "en": "pollution",
+            "es": "contaminación",
+            "ru": "загрязнение"
+          },
+          "ipa": "pɔ.ly.sjɔ̃"
+        },
+        {
+          "fr": "déchet",
+          "l2": "déchet",
+          "en": "waste / rubbish",
+          "gloss": {
+            "en": "waste / rubbish",
+            "es": "residuos / basura",
+            "ru": "отходы / мусор"
+          },
+          "ipa": "de.ʃɛ"
+        },
+        {
+          "fr": "recyclage",
+          "l2": "recyclage",
+          "en": "recycling",
+          "gloss": {
+            "en": "recycling",
+            "es": "reciclaje",
+            "ru": "переработка"
+          },
+          "ipa": "ʁə.si.klaʒ"
+        },
+        {
+          "fr": "tri",
+          "l2": "tri",
+          "en": "sorting (waste)",
+          "gloss": {
+            "en": "sorting (waste)",
+            "es": "clasificación (residuos)",
+            "ru": "сортировка (отходов)"
+          },
+          "ipa": "tʁi"
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "relationships-b1",
-  "version": 4,
+  "version": 5,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "s’entend",
             "entend",
             "s’écoute"
-          ]
+          ],
+          "gloss": {
+            "en": "We ___ well for years.",
+            "es": "On ___ bien depuis des années.",
+            "ru": "Мы ___ хорошо уже много лет."
+          },
+          "why": {
+            "fr": "Réponse : « s’entend ».",
+            "en": "Answer: “s’entend”.",
+            "es": "Respuesta: « s’entend ».",
+            "ru": "Ответ: « s’entend »."
+          }
         },
         {
           "id": "remote-relationships-gq-2",
@@ -537,7 +548,18 @@
             "sont disputés",
             "ont disputé",
             "disputaient"
-          ]
+          ],
+          "gloss": {
+            "en": "They ___ last night.",
+            "es": "Ellos ___ anoche.",
+            "ru": "Они ___ вчера вечером."
+          },
+          "why": {
+            "fr": "Réponse : « sont disputés ».",
+            "en": "Answer: “sont disputés”.",
+            "es": "Respuesta: « sont disputés ».",
+            "ru": "Ответ: « sont disputés »."
+          }
         },
         {
           "id": "remote-relationships-gq-3",
@@ -547,13 +569,25 @@
             "parlé",
             "parlés",
             "parlée"
-          ]
+          ],
+          "gloss": {
+            "en": "We ___ a long time.",
+            "es": "Nosotros ___ desde hace mucho tiempo.",
+            "ru": "Мы ___ долгое время."
+          },
+          "why": {
+            "fr": "Réponse : « parlé ».",
+            "en": "Answer: “parlé”.",
+            "es": "Respuesta: « parlé ».",
+            "ru": "Ответ: « parlé »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Reciprocal se.",
         "es": "Útil cuando es necesario aplicar: Se recíproco.",
-        "ru": "Полезно, когда нужно применить: Взаимное se."
+        "ru": "Полезно, когда нужно применить: Взаимное se.",
+        "fr": "Utile pour appliquer : Se + verbe pour les relations."
       }
     },
     {
@@ -606,7 +640,18 @@
             "Même si",
             "Bien que",
             "Parce que"
-          ]
+          ],
+          "gloss": {
+            "en": "___ we don’t agree, we get along.",
+            "es": "___ no estamos de acuerdo, nos llevamos bien.",
+            "ru": "___ мы не согласны, мы ладим."
+          },
+          "why": {
+            "fr": "Réponse : « Même si ».",
+            "en": "Answer: “Même si”.",
+            "es": "Respuesta: « Même si ».",
+            "ru": "Ответ: « Même si »."
+          }
         },
         {
           "id": "remote-relationships-gq-5",
@@ -616,13 +661,25 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Although he ___ tired, he listens.",
+            "es": "Aunque ___ está cansado, escucha.",
+            "ru": "Хотя он ___ устал, он слушает."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Même si vs bien que.",
         "es": "Útil cuando necesitas postularte: Même si vs bien que.",
-        "ru": "Полезно, когда вам нужно подать заявку: Même si vs bien que."
+        "ru": "Полезно, когда вам нужно подать заявку: Même si vs bien que.",
+        "fr": "Utile pour appliquer : Même si / bien que."
       }
     }
   ],
@@ -850,6 +907,1011 @@
         },
         "l2": "J’ai besoin de ton soutien en ce moment."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-relationships-fren-1",
+        "fr": "relation",
+        "en": "relationship",
+        "gloss": {
+          "en": "relationship",
+          "es": "relación",
+          "ru": "отношение"
+        },
+        "l2": "relation"
+      },
+      {
+        "id": "remote-relationships-fren-2",
+        "fr": "amitié",
+        "en": "friendship",
+        "gloss": {
+          "en": "friendship",
+          "es": "amistad",
+          "ru": "дружба"
+        },
+        "l2": "amitié"
+      },
+      {
+        "id": "remote-relationships-fren-3",
+        "fr": "confiance",
+        "en": "trust",
+        "gloss": {
+          "en": "trust",
+          "es": "confianza",
+          "ru": "доверять"
+        },
+        "l2": "confiance"
+      },
+      {
+        "id": "remote-relationships-fren-4",
+        "fr": "couple",
+        "en": "couple",
+        "gloss": {
+          "en": "couple",
+          "es": "pareja",
+          "ru": "пара"
+        },
+        "l2": "couple"
+      },
+      {
+        "id": "remote-relationships-fren-5",
+        "fr": "dispute",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        },
+        "l2": "dispute"
+      },
+      {
+        "id": "remote-relationships-fren-6",
+        "fr": "excuse",
+        "en": "apology",
+        "gloss": {
+          "en": "apology",
+          "es": "disculpa",
+          "ru": "извинение"
+        },
+        "l2": "excuse"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-relationships-b1-enl2-1",
+        "fr": "Notre relation a changé depuis l’année dernière.",
+        "l2": "Notre relation a changé depuis l’année dernière.",
+        "en": "relationship",
+        "gloss": {
+          "en": "relationship",
+          "es": "relación",
+          "ru": "отношение"
+        },
+        "prompt": "relationship",
+        "choices": [
+          "Notre relation a changé depuis l’année dernière.",
+          "L’amitié se construit avec le temps.",
+          "La confiance se gagne lentement."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-enl2-2",
+        "fr": "L’amitié se construit avec le temps.",
+        "l2": "L’amitié se construit avec le temps.",
+        "en": "friendship",
+        "gloss": {
+          "en": "friendship",
+          "es": "amistad",
+          "ru": "дружба"
+        },
+        "prompt": "friendship",
+        "choices": [
+          "L’amitié se construit avec le temps.",
+          "Notre relation a changé depuis l’année dernière.",
+          "La confiance se gagne lentement."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-enl2-3",
+        "fr": "La confiance se gagne lentement.",
+        "l2": "La confiance se gagne lentement.",
+        "en": "trust",
+        "gloss": {
+          "en": "trust",
+          "es": "confianza",
+          "ru": "доверять"
+        },
+        "prompt": "trust",
+        "choices": [
+          "La confiance se gagne lentement.",
+          "Notre relation a changé depuis l’année dernière.",
+          "L’amitié se construit avec le temps."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-enl2-4",
+        "fr": "Le couple discute souvent le soir.",
+        "l2": "Le couple discute souvent le soir.",
+        "en": "couple",
+        "gloss": {
+          "en": "couple",
+          "es": "pareja",
+          "ru": "пара"
+        },
+        "prompt": "couple",
+        "choices": [
+          "Le couple discute souvent le soir.",
+          "Notre relation a changé depuis l’année dernière.",
+          "L’amitié se construit avec le temps."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-enl2-5",
+        "fr": "Après la dispute, ils ont fait la paix.",
+        "l2": "Après la dispute, ils ont fait la paix.",
+        "en": "argument / row",
+        "gloss": {
+          "en": "argument / row",
+          "es": "argumento/fila",
+          "ru": "аргумент/строка"
+        },
+        "prompt": "argument / row",
+        "choices": [
+          "Après la dispute, ils ont fait la paix.",
+          "Notre relation a changé depuis l’année dernière.",
+          "L’amitié se construit avec le temps."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-enl2-6",
+        "fr": "Elle a présenté ses excuses.",
+        "l2": "Elle a présenté ses excuses.",
+        "en": "apology / excuse",
+        "gloss": {
+          "en": "apology / excuse",
+          "es": "disculpa / excusa",
+          "ru": "извинение / оправдание"
+        },
+        "prompt": "apology / excuse",
+        "choices": [
+          "Elle a présenté ses excuses.",
+          "Notre relation a changé depuis l’année dernière.",
+          "L’amitié se construit avec le temps."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-enl2-7",
+        "fr": "La jalousie a abîmé leur amitié.",
+        "l2": "La jalousie a abîmé leur amitié.",
+        "en": "jealousy",
+        "gloss": {
+          "en": "jealousy",
+          "es": "celos",
+          "ru": "ревность"
+        },
+        "prompt": "jealousy",
+        "choices": [
+          "La jalousie a abîmé leur amitié.",
+          "Notre relation a changé depuis l’année dernière.",
+          "L’amitié se construit avec le temps."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-enl2-8",
+        "fr": "J’ai besoin de ton soutien.",
+        "l2": "J’ai besoin de ton soutien.",
+        "en": "support",
+        "gloss": {
+          "en": "support",
+          "es": "apoyo",
+          "ru": "поддерживать"
+        },
+        "prompt": "support",
+        "choices": [
+          "J’ai besoin de ton soutien.",
+          "Notre relation a changé depuis l’année dernière.",
+          "L’amitié se construit avec le temps."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-relationships-b1-prm-1",
+        "en": "relationship",
+        "gloss": {
+          "en": "relationship",
+          "es": "relación",
+          "ru": "отношение"
+        },
+        "answers": [
+          "relation",
+          "la relation"
+        ],
+        "target": "la relation"
+      },
+      {
+        "id": "remote-relationships-b1-prm-2",
+        "en": "friendship",
+        "gloss": {
+          "en": "friendship",
+          "es": "amistad",
+          "ru": "дружба"
+        },
+        "answers": [
+          "amitié",
+          "l' amitié"
+        ],
+        "target": "l' amitié"
+      },
+      {
+        "id": "remote-relationships-b1-prm-3",
+        "en": "trust",
+        "gloss": {
+          "en": "trust",
+          "es": "confianza",
+          "ru": "доверять"
+        },
+        "answers": [
+          "confiance",
+          "la confiance"
+        ],
+        "target": "la confiance"
+      },
+      {
+        "id": "remote-relationships-b1-prm-4",
+        "en": "couple",
+        "gloss": {
+          "en": "couple",
+          "es": "pareja",
+          "ru": "пара"
+        },
+        "answers": [
+          "couple",
+          "le couple"
+        ],
+        "target": "le couple"
+      },
+      {
+        "id": "remote-relationships-b1-prm-5",
+        "en": "argument / row",
+        "gloss": {
+          "en": "argument / row",
+          "es": "argumento/fila",
+          "ru": "аргумент/строка"
+        },
+        "answers": [
+          "dispute",
+          "la dispute"
+        ],
+        "target": "la dispute"
+      },
+      {
+        "id": "remote-relationships-b1-prm-6",
+        "en": "apology / excuse",
+        "gloss": {
+          "en": "apology / excuse",
+          "es": "disculpa / excusa",
+          "ru": "извинение / оправдание"
+        },
+        "answers": [
+          "excuse",
+          "l' excuse"
+        ],
+        "target": "l' excuse"
+      },
+      {
+        "id": "remote-relationships-b1-prm-7",
+        "en": "jealousy",
+        "gloss": {
+          "en": "jealousy",
+          "es": "celos",
+          "ru": "ревность"
+        },
+        "answers": [
+          "jalousie",
+          "la jalousie"
+        ],
+        "target": "la jalousie"
+      },
+      {
+        "id": "remote-relationships-b1-prm-8",
+        "en": "support",
+        "gloss": {
+          "en": "support",
+          "es": "apoyo",
+          "ru": "поддерживать"
+        },
+        "answers": [
+          "soutien",
+          "le soutien"
+        ],
+        "target": "le soutien"
+      },
+      {
+        "id": "remote-relationships-b1-prm-9",
+        "en": "closeness / complicity",
+        "gloss": {
+          "en": "closeness / complicity",
+          "es": "cercanía / complicidad",
+          "ru": "близость/соучастие"
+        },
+        "answers": [
+          "complicité",
+          "la complicité"
+        ],
+        "target": "la complicité"
+      },
+      {
+        "id": "remote-relationships-b1-prm-10",
+        "en": "break-up",
+        "gloss": {
+          "en": "break-up",
+          "es": "ruptura",
+          "ru": "расставаться"
+        },
+        "answers": [
+          "rupture",
+          "la rupture"
+        ],
+        "target": "la rupture"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-relationships-b1-sign-1",
+        "fr": "relation",
+        "l2": "relation",
+        "en": "relationship",
+        "gloss": {
+          "en": "relationship",
+          "es": "relación",
+          "ru": "отношение"
+        },
+        "choices": [
+          "relationship",
+          "friendship",
+          "trust"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-2",
+        "fr": "amitié",
+        "l2": "amitié",
+        "en": "friendship",
+        "gloss": {
+          "en": "friendship",
+          "es": "amistad",
+          "ru": "дружба"
+        },
+        "choices": [
+          "friendship",
+          "relationship",
+          "trust"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-3",
+        "fr": "confiance",
+        "l2": "confiance",
+        "en": "trust",
+        "gloss": {
+          "en": "trust",
+          "es": "confianza",
+          "ru": "доверять"
+        },
+        "choices": [
+          "trust",
+          "relationship",
+          "friendship"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-4",
+        "fr": "couple",
+        "l2": "couple",
+        "en": "couple",
+        "gloss": {
+          "en": "couple",
+          "es": "pareja",
+          "ru": "пара"
+        },
+        "choices": [
+          "couple",
+          "relationship",
+          "friendship"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-5",
+        "fr": "dispute",
+        "l2": "dispute",
+        "en": "argument / row",
+        "gloss": {
+          "en": "argument / row",
+          "es": "argumento/fila",
+          "ru": "аргумент/строка"
+        },
+        "choices": [
+          "argument / row",
+          "relationship",
+          "friendship"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-6",
+        "fr": "excuse",
+        "l2": "excuse",
+        "en": "apology / excuse",
+        "gloss": {
+          "en": "apology / excuse",
+          "es": "disculpa / excusa",
+          "ru": "извинение / оправдание"
+        },
+        "choices": [
+          "apology / excuse",
+          "relationship",
+          "friendship"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-7",
+        "fr": "jalousie",
+        "l2": "jalousie",
+        "en": "jealousy",
+        "gloss": {
+          "en": "jealousy",
+          "es": "celos",
+          "ru": "ревность"
+        },
+        "choices": [
+          "jealousy",
+          "relationship",
+          "friendship"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-8",
+        "fr": "soutien",
+        "l2": "soutien",
+        "en": "support",
+        "gloss": {
+          "en": "support",
+          "es": "apoyo",
+          "ru": "поддерживать"
+        },
+        "choices": [
+          "support",
+          "relationship",
+          "friendship"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-9",
+        "fr": "complicité",
+        "l2": "complicité",
+        "en": "closeness / complicity",
+        "gloss": {
+          "en": "closeness / complicity",
+          "es": "cercanía / complicidad",
+          "ru": "близость/соучастие"
+        },
+        "choices": [
+          "closeness / complicity",
+          "relationship",
+          "friendship"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-10",
+        "fr": "rupture",
+        "l2": "rupture",
+        "en": "break-up",
+        "gloss": {
+          "en": "break-up",
+          "es": "ruptura",
+          "ru": "расставаться"
+        },
+        "choices": [
+          "break-up",
+          "relationship",
+          "friendship"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-11",
+        "fr": "rencontre",
+        "l2": "rencontre",
+        "en": "meeting / encounter",
+        "gloss": {
+          "en": "meeting / encounter",
+          "es": "reunión / encuentro",
+          "ru": "встреча / встреча"
+        },
+        "choices": [
+          "meeting / encounter",
+          "relationship",
+          "friendship"
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-sign-12",
+        "fr": "célibataire",
+        "l2": "célibataire",
+        "en": "single person",
+        "gloss": {
+          "en": "single person",
+          "es": "persona soltera",
+          "ru": "одинокий человек"
+        },
+        "choices": [
+          "single person",
+          "relationship",
+          "friendship"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-relationships-b1-pair-1",
+        "a": {
+          "fr": "relation",
+          "l2": "relation",
+          "en": "relationship",
+          "gloss": {
+            "en": "relationship",
+            "es": "relación",
+            "ru": "отношение"
+          }
+        },
+        "b": {
+          "fr": "amitié",
+          "l2": "amitié",
+          "en": "friendship",
+          "gloss": {
+            "en": "friendship",
+            "es": "amistad",
+            "ru": "дружба"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-relationships-b1-pair-2",
+        "a": {
+          "fr": "confiance",
+          "l2": "confiance",
+          "en": "trust",
+          "gloss": {
+            "en": "trust",
+            "es": "confianza",
+            "ru": "доверять"
+          }
+        },
+        "b": {
+          "fr": "couple",
+          "l2": "couple",
+          "en": "couple",
+          "gloss": {
+            "en": "couple",
+            "es": "pareja",
+            "ru": "пара"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-relationships-b1-pair-3",
+        "a": {
+          "fr": "dispute",
+          "l2": "dispute",
+          "en": "argument / row",
+          "gloss": {
+            "en": "argument / row",
+            "es": "argumento/fila",
+            "ru": "аргумент/строка"
+          }
+        },
+        "b": {
+          "fr": "excuse",
+          "l2": "excuse",
+          "en": "apology / excuse",
+          "gloss": {
+            "en": "apology / excuse",
+            "es": "disculpa / excusa",
+            "ru": "извинение / оправдание"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-relationships-b1-pair-4",
+        "a": {
+          "fr": "jalousie",
+          "l2": "jalousie",
+          "en": "jealousy",
+          "gloss": {
+            "en": "jealousy",
+            "es": "celos",
+            "ru": "ревность"
+          }
+        },
+        "b": {
+          "fr": "soutien",
+          "l2": "soutien",
+          "en": "support",
+          "gloss": {
+            "en": "support",
+            "es": "apoyo",
+            "ru": "поддерживать"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-relationships-b1-pair-5",
+        "a": {
+          "fr": "complicité",
+          "l2": "complicité",
+          "en": "closeness / complicity",
+          "gloss": {
+            "en": "closeness / complicity",
+            "es": "cercanía / complicidad",
+            "ru": "близость/соучастие"
+          }
+        },
+        "b": {
+          "fr": "rupture",
+          "l2": "rupture",
+          "en": "break-up",
+          "gloss": {
+            "en": "break-up",
+            "es": "ruptura",
+            "ru": "расставаться"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-relationships-b1-gap-1",
+        "fr": "Notre relation a changé depuis l’année dernière.",
+        "l2": "Notre relation a changé depuis l’année dernière.",
+        "speak": "Notre relation a changé depuis l’année dernière.",
+        "blank": "relation",
+        "en": "relationship",
+        "gloss": {
+          "en": "relationship",
+          "es": "relación",
+          "ru": "отношение"
+        }
+      },
+      {
+        "id": "remote-relationships-b1-gap-2",
+        "fr": "L’amitié se construit avec le temps.",
+        "l2": "L’amitié se construit avec le temps.",
+        "speak": "L’amitié se construit avec le temps.",
+        "blank": "amitié",
+        "en": "friendship",
+        "gloss": {
+          "en": "friendship",
+          "es": "amistad",
+          "ru": "дружба"
+        }
+      },
+      {
+        "id": "remote-relationships-b1-gap-3",
+        "fr": "La confiance se gagne lentement.",
+        "l2": "La confiance se gagne lentement.",
+        "speak": "La confiance se gagne lentement.",
+        "blank": "confiance",
+        "en": "trust",
+        "gloss": {
+          "en": "trust",
+          "es": "confianza",
+          "ru": "доверять"
+        }
+      },
+      {
+        "id": "remote-relationships-b1-gap-4",
+        "fr": "Le couple discute souvent le soir.",
+        "l2": "Le couple discute souvent le soir.",
+        "speak": "Le couple discute souvent le soir.",
+        "blank": "couple",
+        "en": "couple",
+        "gloss": {
+          "en": "couple",
+          "es": "pareja",
+          "ru": "пара"
+        }
+      },
+      {
+        "id": "remote-relationships-b1-gap-5",
+        "fr": "Après la dispute, ils ont fait la paix.",
+        "l2": "Après la dispute, ils ont fait la paix.",
+        "speak": "Après la dispute, ils ont fait la paix.",
+        "blank": "dispute",
+        "en": "argument / row",
+        "gloss": {
+          "en": "argument / row",
+          "es": "argumento/fila",
+          "ru": "аргумент/строка"
+        }
+      },
+      {
+        "id": "remote-relationships-b1-gap-6",
+        "fr": "Elle a présenté ses excuses.",
+        "l2": "Elle a présenté ses excuses.",
+        "speak": "Elle a présenté ses excuses.",
+        "blank": "excuse",
+        "en": "apology / excuse",
+        "gloss": {
+          "en": "apology / excuse",
+          "es": "disculpa / excusa",
+          "ru": "извинение / оправдание"
+        }
+      },
+      {
+        "id": "remote-relationships-b1-gap-7",
+        "fr": "La jalousie a abîmé leur amitié.",
+        "l2": "La jalousie a abîmé leur amitié.",
+        "speak": "La jalousie a abîmé leur amitié.",
+        "blank": "jalousie",
+        "en": "jealousy",
+        "gloss": {
+          "en": "jealousy",
+          "es": "celos",
+          "ru": "ревность"
+        }
+      },
+      {
+        "id": "remote-relationships-b1-gap-8",
+        "fr": "J’ai besoin de ton soutien.",
+        "l2": "J’ai besoin de ton soutien.",
+        "speak": "J’ai besoin de ton soutien.",
+        "blank": "soutien",
+        "en": "support",
+        "gloss": {
+          "en": "support",
+          "es": "apoyo",
+          "ru": "поддерживать"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-relationships-b1-ord-1",
+        "fr": "Notre relation a changé depuis l’année dernière.",
+        "l2": "Notre relation a changé depuis l’année dernière.",
+        "en": "relationship",
+        "gloss": {
+          "en": "relationship",
+          "es": "relación",
+          "ru": "отношение"
+        },
+        "words": [
+          "Notre",
+          "relation",
+          "a",
+          "changé",
+          "depuis",
+          "l’année",
+          "dernière."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-ord-2",
+        "fr": "L’amitié se construit avec le temps.",
+        "l2": "L’amitié se construit avec le temps.",
+        "en": "friendship",
+        "gloss": {
+          "en": "friendship",
+          "es": "amistad",
+          "ru": "дружба"
+        },
+        "words": [
+          "L’amitié",
+          "se",
+          "construit",
+          "avec",
+          "le",
+          "temps."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-ord-3",
+        "fr": "La confiance se gagne lentement.",
+        "l2": "La confiance se gagne lentement.",
+        "en": "trust",
+        "gloss": {
+          "en": "trust",
+          "es": "confianza",
+          "ru": "доверять"
+        },
+        "words": [
+          "La",
+          "confiance",
+          "se",
+          "gagne",
+          "lentement."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-ord-4",
+        "fr": "Le couple discute souvent le soir.",
+        "l2": "Le couple discute souvent le soir.",
+        "en": "couple",
+        "gloss": {
+          "en": "couple",
+          "es": "pareja",
+          "ru": "пара"
+        },
+        "words": [
+          "Le",
+          "couple",
+          "discute",
+          "souvent",
+          "le",
+          "soir."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-ord-5",
+        "fr": "Après la dispute, ils ont fait la paix.",
+        "l2": "Après la dispute, ils ont fait la paix.",
+        "en": "argument / row",
+        "gloss": {
+          "en": "argument / row",
+          "es": "argumento/fila",
+          "ru": "аргумент/строка"
+        },
+        "words": [
+          "Après",
+          "la",
+          "dispute,",
+          "ils",
+          "ont",
+          "fait",
+          "la",
+          "paix."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-ord-6",
+        "fr": "Elle a présenté ses excuses.",
+        "l2": "Elle a présenté ses excuses.",
+        "en": "apology / excuse",
+        "gloss": {
+          "en": "apology / excuse",
+          "es": "disculpa / excusa",
+          "ru": "извинение / оправдание"
+        },
+        "words": [
+          "Elle",
+          "a",
+          "présenté",
+          "ses",
+          "excuses."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-ord-7",
+        "fr": "La jalousie a abîmé leur amitié.",
+        "l2": "La jalousie a abîmé leur amitié.",
+        "en": "jealousy",
+        "gloss": {
+          "en": "jealousy",
+          "es": "celos",
+          "ru": "ревность"
+        },
+        "words": [
+          "La",
+          "jalousie",
+          "a",
+          "abîmé",
+          "leur",
+          "amitié."
+        ]
+      },
+      {
+        "id": "remote-relationships-b1-ord-8",
+        "fr": "J’ai besoin de ton soutien.",
+        "l2": "J’ai besoin de ton soutien.",
+        "en": "support",
+        "gloss": {
+          "en": "support",
+          "es": "apoyo",
+          "ru": "поддерживать"
+        },
+        "words": [
+          "J’ai",
+          "besoin",
+          "de",
+          "ton",
+          "soutien."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-relationships-b1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ʁə.la.sjɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "relation",
+          "l2": "relation",
+          "en": "relationship",
+          "gloss": {
+            "en": "relationship",
+            "es": "relación",
+            "ru": "отношение"
+          },
+          "ipa": "ʁə.la.sjɔ̃"
+        },
+        {
+          "fr": "amitié",
+          "l2": "amitié",
+          "en": "friendship",
+          "gloss": {
+            "en": "friendship",
+            "es": "amistad",
+            "ru": "дружба"
+          },
+          "ipa": "a.mi.tje"
+        },
+        {
+          "fr": "confiance",
+          "l2": "confiance",
+          "en": "trust",
+          "gloss": {
+            "en": "trust",
+            "es": "confianza",
+            "ru": "доверять"
+          },
+          "ipa": "kɔ̃.fjɑ̃s"
+        },
+        {
+          "fr": "couple",
+          "l2": "couple",
+          "en": "couple",
+          "gloss": {
+            "en": "couple",
+            "es": "pareja",
+            "ru": "пара"
+          },
+          "ipa": "kupl"
+        },
+        {
+          "fr": "dispute",
+          "l2": "dispute",
+          "en": "argument / row",
+          "gloss": {
+            "en": "argument / row",
+            "es": "argumento/fila",
+            "ru": "аргумент/строка"
+          },
+          "ipa": "dis.pyt"
+        }
+      ]
+    }
+  ]
 }

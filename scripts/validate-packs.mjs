@@ -78,6 +78,40 @@ for (const file of packFiles) {
     }
   });
 
+  const locales = Array.isArray(catalog.locales) ? catalog.locales : ["en", "es", "ru"];
+  (pack.seed || []).forEach((card, i) => {
+    const gloss = card.gloss || {};
+    for (const loc of locales) {
+      if (!(gloss[loc] || (loc === "en" && card.en))) {
+        warnings.push(`${file}: seed[${i}] missing gloss.${loc}`);
+        break;
+      }
+    }
+  });
+  for (const lesson of pack.grammar || []) {
+    const why = lesson.why;
+    if (why && typeof why === "object" && !why.fr) {
+      warnings.push(`${file}: grammar ${lesson.id || "?"} why missing fr`);
+    }
+    for (const q of lesson.questions || []) {
+      if (!q.gloss || typeof q.gloss !== "object") {
+        warnings.push(`${file}: grammar question ${q.id || q.prompt || "?"} missing gloss`);
+        break;
+      }
+      if (!q.why || typeof q.why !== "object") {
+        warnings.push(`${file}: grammar question ${q.id || q.prompt || "?"} missing why`);
+        break;
+      }
+    }
+  }
+  const skills = pack.skills || {};
+  if (skills.fren && !skills.l2en) {
+    warnings.push(`${file}: has fren but missing l2en alias`);
+  }
+  if (!Array.isArray(pack.sounds) || !pack.sounds.length) {
+    warnings.push(`${file}: missing sounds (Prononcer → Sons)`);
+  }
+
   const entry = catalogById.get(pack.id);
   if (!entry) {
     errors.push(`${file}: id ${pack.id} not listed in catalog.json`);

@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "rights-c2",
-  "version": 4,
+  "version": 5,
   "level": "c2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "soit",
             "est",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Pourvu que le recours ___ effectif, le droit n’est plus une formule.",
+            "es": "Siempre que el remedio ___ sea efectivo, el derecho deja de ser una fórmula.",
+            "ru": "Pourvu que le recours ___ effectif, le droit n’est plus une formule."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-rights-gq-2",
@@ -537,7 +548,18 @@
             "ne",
             "pas",
             "n’en"
-          ]
+          ],
+          "gloss": {
+            "en": "Unless the law ___ excludes it, habeas corpus applies.",
+            "es": "A menos que la ley ___ lo excluya, se aplica el hábeas corpus.",
+            "ru": "Если закон ___ не исключает этого, применяется хабеас корпус."
+          },
+          "why": {
+            "fr": "Réponse : « ne ».",
+            "en": "Answer: “ne”.",
+            "es": "Respuesta: « ne ».",
+            "ru": "Ответ: « ne »."
+          }
         },
         {
           "id": "remote-rights-gq-3",
@@ -547,13 +569,25 @@
             "saurait",
             "peut",
             "doit"
-          ]
+          ],
+          "gloss": {
+            "en": "The exemption does not ___ abolish the principle of dignity.",
+            "es": "La dérogation ne ___ abolir le principe de dignité.",
+            "ru": "La dérogation ne ___ abolir le principe de dignité."
+          },
+          "why": {
+            "fr": "Réponse : « saurait ».",
+            "en": "Answer: “saurait”.",
+            "es": "Respuesta: « saurait ».",
+            "ru": "Ответ: « saurait »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: The legal subjunctive.",
         "es": "Útil cuando necesitas aplicar: El subjuntivo legal.",
-        "ru": "Полезно, когда вам нужно применить: Юридическое сослагательное наклонение."
+        "ru": "Полезно, когда вам нужно применить: Юридическое сослагательное наклонение.",
+        "fr": "Utile pour appliquer : Le subjonctif du droit."
       }
     },
     {
@@ -606,7 +640,18 @@
             "la dérogation au droit",
             "déroger le droit",
             "un droit dérogé"
-          ]
+          ],
+          "gloss": {
+            "en": "We nominalize “derogate from a right” in ___ .",
+            "es": "Nominalizamos “derogación de un derecho” en ___ .",
+            "ru": "Мы номинализируем «отступление от права» в ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « la dérogation au droit ».",
+            "en": "Answer: “la dérogation au droit”.",
+            "es": "Respuesta: « la dérogation au droit ».",
+            "ru": "Ответ: « la dérogation au droit »."
+          }
         },
         {
           "id": "remote-rights-gq-5",
@@ -616,13 +661,25 @@
             "la justiciabilité",
             "le justiciable",
             "la justice"
-          ]
+          ],
+          "gloss": {
+            "en": "“Being justiciable” has the name ___ .",
+            "es": "“Ser justiciable” tiene el nombre ___ .",
+            "ru": "« Être justiciable » a pour nom ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « la justiciabilité ».",
+            "en": "Answer: “la justiciabilité”.",
+            "es": "Respuesta: « la justiciabilité ».",
+            "ru": "Ответ: « la justiciabilité »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Legal nominalization.",
         "es": "Útil cuando necesitas aplicar: Nominalización legal.",
-        "ru": "Полезно, когда вам нужно подать заявку: Юридическая номинализация."
+        "ru": "Полезно, когда вам нужно подать заявку: Юридическая номинализация.",
+        "fr": "Utile pour appliquer : La nominalisation juridique."
       }
     }
   ],
@@ -856,6 +913,1078 @@
         },
         "l2": "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-rights-fren-1",
+        "fr": "habeas corpus",
+        "en": "habeas corpus",
+        "gloss": {
+          "en": "habeas corpus",
+          "es": "hábeas corpus",
+          "ru": "хабеас корпус"
+        },
+        "l2": "habeas corpus"
+      },
+      {
+        "id": "remote-rights-fren-2",
+        "fr": "proportionnalité",
+        "en": "proportionality",
+        "gloss": {
+          "en": "proportionality",
+          "es": "proporcionalidad",
+          "ru": "пропорциональность"
+        },
+        "l2": "proportionnalité"
+      },
+      {
+        "id": "remote-rights-fren-3",
+        "fr": "dignité",
+        "en": "dignity",
+        "gloss": {
+          "en": "dignity",
+          "es": "dignidad",
+          "ru": "достоинство"
+        },
+        "l2": "dignité"
+      },
+      {
+        "id": "remote-rights-fren-4",
+        "fr": "dérogation",
+        "en": "derogation",
+        "gloss": {
+          "en": "derogation",
+          "es": "humillación",
+          "ru": "умаление"
+        },
+        "l2": "dérogation"
+      },
+      {
+        "id": "remote-rights-fren-5",
+        "fr": "jurisprudence",
+        "en": "case law",
+        "gloss": {
+          "en": "case law",
+          "es": "jurisprudencia",
+          "ru": "прецедентное право"
+        },
+        "l2": "jurisprudence"
+      },
+      {
+        "id": "remote-rights-fren-6",
+        "fr": "imprescriptibilité",
+        "en": "imprescriptibility",
+        "gloss": {
+          "en": "imprescriptibility",
+          "es": "imprescriptibilidad",
+          "ru": "непринужденность"
+        },
+        "l2": "imprescriptibilité"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-rights-c2-enl2-1",
+        "fr": "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+        "l2": "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+        "en": "habeas corpus",
+        "gloss": {
+          "en": "habeas corpus",
+          "es": "hábeas corpus",
+          "ru": "хабеас корпус"
+        },
+        "prompt": "habeas corpus",
+        "choices": [
+          "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+          "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
+          "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-enl2-2",
+        "fr": "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
+        "l2": "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
+        "en": "proportionality",
+        "gloss": {
+          "en": "proportionality",
+          "es": "proporcionalidad",
+          "ru": "пропорциональность"
+        },
+        "prompt": "proportionality",
+        "choices": [
+          "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
+          "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+          "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-enl2-3",
+        "fr": "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence.",
+        "l2": "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence.",
+        "en": "dignity",
+        "gloss": {
+          "en": "dignity",
+          "es": "dignidad",
+          "ru": "достоинство"
+        },
+        "prompt": "dignity",
+        "choices": [
+          "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence.",
+          "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+          "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-enl2-4",
+        "fr": "La dérogation, quand bien même elle serait motivée par le péril, demeure exceptionnelle et contrôlée.",
+        "l2": "La dérogation, quand bien même elle serait motivée par le péril, demeure exceptionnelle et contrôlée.",
+        "en": "derogation",
+        "gloss": {
+          "en": "derogation",
+          "es": "humillación",
+          "ru": "умаление"
+        },
+        "prompt": "derogation",
+        "choices": [
+          "La dérogation, quand bien même elle serait motivée par le péril, demeure exceptionnelle et contrôlée.",
+          "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+          "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-enl2-5",
+        "fr": "La jurisprudence, loin d’être un commentaire, constitue le droit vivant des libertés.",
+        "l2": "La jurisprudence, loin d’être un commentaire, constitue le droit vivant des libertés.",
+        "en": "case law / jurisprudence",
+        "gloss": {
+          "en": "case law / jurisprudence",
+          "es": "jurisprudencia / jurisprudencia",
+          "ru": "прецедентное право / юриспруденция"
+        },
+        "prompt": "case law / jurisprudence",
+        "choices": [
+          "La jurisprudence, loin d’être un commentaire, constitue le droit vivant des libertés.",
+          "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+          "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-enl2-6",
+        "fr": "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique.",
+        "l2": "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique.",
+        "en": "imprescriptibility",
+        "gloss": {
+          "en": "imprescriptibility",
+          "es": "imprescriptibilidad",
+          "ru": "непринужденность"
+        },
+        "prompt": "imprescriptibility",
+        "choices": [
+          "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique.",
+          "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+          "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-enl2-7",
+        "fr": "L’inaliénabilité interdit que le titulaire lui-même cède le droit qui le constitue en personne.",
+        "l2": "L’inaliénabilité interdit que le titulaire lui-même cède le droit qui le constitue en personne.",
+        "en": "inalienability",
+        "gloss": {
+          "en": "inalienability",
+          "es": "inalienabilidad",
+          "ru": "неотчуждаемость"
+        },
+        "prompt": "inalienability",
+        "choices": [
+          "L’inaliénabilité interdit que le titulaire lui-même cède le droit qui le constitue en personne.",
+          "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+          "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-enl2-8",
+        "fr": "L’effectivité d’un droit se mesure à la voie de recours qui le rend saisissable, non à sa seule proclamation.",
+        "l2": "L’effectivité d’un droit se mesure à la voie de recours qui le rend saisissable, non à sa seule proclamation.",
+        "en": "effectiveness",
+        "gloss": {
+          "en": "effectiveness",
+          "es": "eficacia",
+          "ru": "эффективность"
+        },
+        "prompt": "effectiveness",
+        "choices": [
+          "L’effectivité d’un droit se mesure à la voie de recours qui le rend saisissable, non à sa seule proclamation.",
+          "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+          "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-rights-c2-prm-1",
+        "en": "habeas corpus",
+        "gloss": {
+          "en": "habeas corpus",
+          "es": "hábeas corpus",
+          "ru": "хабеас корпус"
+        },
+        "answers": [
+          "habeas corpus",
+          "l' habeas corpus"
+        ],
+        "target": "l' habeas corpus"
+      },
+      {
+        "id": "remote-rights-c2-prm-2",
+        "en": "proportionality",
+        "gloss": {
+          "en": "proportionality",
+          "es": "proporcionalidad",
+          "ru": "пропорциональность"
+        },
+        "answers": [
+          "proportionnalité",
+          "la proportionnalité"
+        ],
+        "target": "la proportionnalité"
+      },
+      {
+        "id": "remote-rights-c2-prm-3",
+        "en": "dignity",
+        "gloss": {
+          "en": "dignity",
+          "es": "dignidad",
+          "ru": "достоинство"
+        },
+        "answers": [
+          "dignité",
+          "la dignité"
+        ],
+        "target": "la dignité"
+      },
+      {
+        "id": "remote-rights-c2-prm-4",
+        "en": "derogation",
+        "gloss": {
+          "en": "derogation",
+          "es": "humillación",
+          "ru": "умаление"
+        },
+        "answers": [
+          "dérogation",
+          "la dérogation"
+        ],
+        "target": "la dérogation"
+      },
+      {
+        "id": "remote-rights-c2-prm-5",
+        "en": "case law / jurisprudence",
+        "gloss": {
+          "en": "case law / jurisprudence",
+          "es": "jurisprudencia / jurisprudencia",
+          "ru": "прецедентное право / юриспруденция"
+        },
+        "answers": [
+          "jurisprudence",
+          "la jurisprudence"
+        ],
+        "target": "la jurisprudence"
+      },
+      {
+        "id": "remote-rights-c2-prm-6",
+        "en": "imprescriptibility",
+        "gloss": {
+          "en": "imprescriptibility",
+          "es": "imprescriptibilidad",
+          "ru": "непринужденность"
+        },
+        "answers": [
+          "imprescriptibilité",
+          "l' imprescriptibilité"
+        ],
+        "target": "l' imprescriptibilité"
+      },
+      {
+        "id": "remote-rights-c2-prm-7",
+        "en": "inalienability",
+        "gloss": {
+          "en": "inalienability",
+          "es": "inalienabilidad",
+          "ru": "неотчуждаемость"
+        },
+        "answers": [
+          "inaliénabilité",
+          "l' inaliénabilité"
+        ],
+        "target": "l' inaliénabilité"
+      },
+      {
+        "id": "remote-rights-c2-prm-8",
+        "en": "effectiveness",
+        "gloss": {
+          "en": "effectiveness",
+          "es": "eficacia",
+          "ru": "эффективность"
+        },
+        "answers": [
+          "effectivité",
+          "l' effectivité"
+        ],
+        "target": "l' effectivité"
+      },
+      {
+        "id": "remote-rights-c2-prm-9",
+        "en": "justiciability",
+        "gloss": {
+          "en": "justiciability",
+          "es": "justiciabilidad",
+          "ru": "возможность судебной защиты"
+        },
+        "answers": [
+          "justiciabilité",
+          "la justiciabilité"
+        ],
+        "target": "la justiciabilité"
+      },
+      {
+        "id": "remote-rights-c2-prm-10",
+        "en": "conventionality",
+        "gloss": {
+          "en": "conventionality",
+          "es": "convencionalismo",
+          "ru": "условность"
+        },
+        "answers": [
+          "conventionnalité",
+          "la conventionnalité"
+        ],
+        "target": "la conventionnalité"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-rights-c2-sign-1",
+        "fr": "habeas corpus",
+        "l2": "habeas corpus",
+        "en": "habeas corpus",
+        "gloss": {
+          "en": "habeas corpus",
+          "es": "hábeas corpus",
+          "ru": "хабеас корпус"
+        },
+        "choices": [
+          "habeas corpus",
+          "proportionality",
+          "dignity"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-2",
+        "fr": "proportionnalité",
+        "l2": "proportionnalité",
+        "en": "proportionality",
+        "gloss": {
+          "en": "proportionality",
+          "es": "proporcionalidad",
+          "ru": "пропорциональность"
+        },
+        "choices": [
+          "proportionality",
+          "habeas corpus",
+          "dignity"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-3",
+        "fr": "dignité",
+        "l2": "dignité",
+        "en": "dignity",
+        "gloss": {
+          "en": "dignity",
+          "es": "dignidad",
+          "ru": "достоинство"
+        },
+        "choices": [
+          "dignity",
+          "habeas corpus",
+          "proportionality"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-4",
+        "fr": "dérogation",
+        "l2": "dérogation",
+        "en": "derogation",
+        "gloss": {
+          "en": "derogation",
+          "es": "humillación",
+          "ru": "умаление"
+        },
+        "choices": [
+          "derogation",
+          "habeas corpus",
+          "proportionality"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-5",
+        "fr": "jurisprudence",
+        "l2": "jurisprudence",
+        "en": "case law / jurisprudence",
+        "gloss": {
+          "en": "case law / jurisprudence",
+          "es": "jurisprudencia / jurisprudencia",
+          "ru": "прецедентное право / юриспруденция"
+        },
+        "choices": [
+          "case law / jurisprudence",
+          "habeas corpus",
+          "proportionality"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-6",
+        "fr": "imprescriptibilité",
+        "l2": "imprescriptibilité",
+        "en": "imprescriptibility",
+        "gloss": {
+          "en": "imprescriptibility",
+          "es": "imprescriptibilidad",
+          "ru": "непринужденность"
+        },
+        "choices": [
+          "imprescriptibility",
+          "habeas corpus",
+          "proportionality"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-7",
+        "fr": "inaliénabilité",
+        "l2": "inaliénabilité",
+        "en": "inalienability",
+        "gloss": {
+          "en": "inalienability",
+          "es": "inalienabilidad",
+          "ru": "неотчуждаемость"
+        },
+        "choices": [
+          "inalienability",
+          "habeas corpus",
+          "proportionality"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-8",
+        "fr": "effectivité",
+        "l2": "effectivité",
+        "en": "effectiveness",
+        "gloss": {
+          "en": "effectiveness",
+          "es": "eficacia",
+          "ru": "эффективность"
+        },
+        "choices": [
+          "effectiveness",
+          "habeas corpus",
+          "proportionality"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-9",
+        "fr": "justiciabilité",
+        "l2": "justiciabilité",
+        "en": "justiciability",
+        "gloss": {
+          "en": "justiciability",
+          "es": "justiciabilidad",
+          "ru": "возможность судебной защиты"
+        },
+        "choices": [
+          "justiciability",
+          "habeas corpus",
+          "proportionality"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-10",
+        "fr": "conventionnalité",
+        "l2": "conventionnalité",
+        "en": "conventionality",
+        "gloss": {
+          "en": "conventionality",
+          "es": "convencionalismo",
+          "ru": "условность"
+        },
+        "choices": [
+          "conventionality",
+          "habeas corpus",
+          "proportionality"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-11",
+        "fr": "intérêt à agir",
+        "l2": "intérêt à agir",
+        "en": "standing / interest to sue",
+        "gloss": {
+          "en": "standing / interest to sue",
+          "es": "posición / interés para demandar",
+          "ru": "правоспособность / интерес подать в суд"
+        },
+        "choices": [
+          "standing / interest to sue",
+          "habeas corpus",
+          "proportionality"
+        ]
+      },
+      {
+        "id": "remote-rights-c2-sign-12",
+        "fr": "non-rétroactivité",
+        "l2": "non-rétroactivité",
+        "en": "non-retroactivity",
+        "gloss": {
+          "en": "non-retroactivity",
+          "es": "irretroactividad",
+          "ru": "не имеющий обратной силы"
+        },
+        "choices": [
+          "non-retroactivity",
+          "habeas corpus",
+          "proportionality"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-rights-c2-pair-1",
+        "a": {
+          "fr": "habeas corpus",
+          "l2": "habeas corpus",
+          "en": "habeas corpus",
+          "gloss": {
+            "en": "habeas corpus",
+            "es": "hábeas corpus",
+            "ru": "хабеас корпус"
+          }
+        },
+        "b": {
+          "fr": "proportionnalité",
+          "l2": "proportionnalité",
+          "en": "proportionality",
+          "gloss": {
+            "en": "proportionality",
+            "es": "proporcionalidad",
+            "ru": "пропорциональность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-rights-c2-pair-2",
+        "a": {
+          "fr": "dignité",
+          "l2": "dignité",
+          "en": "dignity",
+          "gloss": {
+            "en": "dignity",
+            "es": "dignidad",
+            "ru": "достоинство"
+          }
+        },
+        "b": {
+          "fr": "dérogation",
+          "l2": "dérogation",
+          "en": "derogation",
+          "gloss": {
+            "en": "derogation",
+            "es": "humillación",
+            "ru": "умаление"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-rights-c2-pair-3",
+        "a": {
+          "fr": "jurisprudence",
+          "l2": "jurisprudence",
+          "en": "case law / jurisprudence",
+          "gloss": {
+            "en": "case law / jurisprudence",
+            "es": "jurisprudencia / jurisprudencia",
+            "ru": "прецедентное право / юриспруденция"
+          }
+        },
+        "b": {
+          "fr": "imprescriptibilité",
+          "l2": "imprescriptibilité",
+          "en": "imprescriptibility",
+          "gloss": {
+            "en": "imprescriptibility",
+            "es": "imprescriptibilidad",
+            "ru": "непринужденность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-rights-c2-pair-4",
+        "a": {
+          "fr": "inaliénabilité",
+          "l2": "inaliénabilité",
+          "en": "inalienability",
+          "gloss": {
+            "en": "inalienability",
+            "es": "inalienabilidad",
+            "ru": "неотчуждаемость"
+          }
+        },
+        "b": {
+          "fr": "effectivité",
+          "l2": "effectivité",
+          "en": "effectiveness",
+          "gloss": {
+            "en": "effectiveness",
+            "es": "eficacia",
+            "ru": "эффективность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-rights-c2-pair-5",
+        "a": {
+          "fr": "justiciabilité",
+          "l2": "justiciabilité",
+          "en": "justiciability",
+          "gloss": {
+            "en": "justiciability",
+            "es": "justiciabilidad",
+            "ru": "возможность судебной защиты"
+          }
+        },
+        "b": {
+          "fr": "conventionnalité",
+          "l2": "conventionnalité",
+          "en": "conventionality",
+          "gloss": {
+            "en": "conventionality",
+            "es": "convencionalismo",
+            "ru": "условность"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-rights-c2-gap-1",
+        "fr": "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+        "l2": "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+        "speak": "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+        "blank": "habeas corpus",
+        "en": "habeas corpus",
+        "gloss": {
+          "en": "habeas corpus",
+          "es": "hábeas corpus",
+          "ru": "хабеас корпус"
+        }
+      },
+      {
+        "id": "remote-rights-c2-gap-2",
+        "fr": "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
+        "l2": "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
+        "speak": "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
+        "blank": "proportionnalité",
+        "en": "proportionality",
+        "gloss": {
+          "en": "proportionality",
+          "es": "proporcionalidad",
+          "ru": "пропорциональность"
+        }
+      },
+      {
+        "id": "remote-rights-c2-gap-3",
+        "fr": "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence.",
+        "l2": "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence.",
+        "speak": "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence.",
+        "blank": "dignité",
+        "en": "dignity",
+        "gloss": {
+          "en": "dignity",
+          "es": "dignidad",
+          "ru": "достоинство"
+        }
+      },
+      {
+        "id": "remote-rights-c2-gap-4",
+        "fr": "La dérogation, quand bien même elle serait motivée par le péril, demeure exceptionnelle et contrôlée.",
+        "l2": "La dérogation, quand bien même elle serait motivée par le péril, demeure exceptionnelle et contrôlée.",
+        "speak": "La dérogation, quand bien même elle serait motivée par le péril, demeure exceptionnelle et contrôlée.",
+        "blank": "dérogation",
+        "en": "derogation",
+        "gloss": {
+          "en": "derogation",
+          "es": "humillación",
+          "ru": "умаление"
+        }
+      },
+      {
+        "id": "remote-rights-c2-gap-5",
+        "fr": "La jurisprudence, loin d’être un commentaire, constitue le droit vivant des libertés.",
+        "l2": "La jurisprudence, loin d’être un commentaire, constitue le droit vivant des libertés.",
+        "speak": "La jurisprudence, loin d’être un commentaire, constitue le droit vivant des libertés.",
+        "blank": "jurisprudence",
+        "en": "case law / jurisprudence",
+        "gloss": {
+          "en": "case law / jurisprudence",
+          "es": "jurisprudencia / jurisprudencia",
+          "ru": "прецедентное право / юриспруденция"
+        }
+      },
+      {
+        "id": "remote-rights-c2-gap-6",
+        "fr": "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique.",
+        "l2": "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique.",
+        "speak": "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique.",
+        "blank": "imprescriptibilité",
+        "en": "imprescriptibility",
+        "gloss": {
+          "en": "imprescriptibility",
+          "es": "imprescriptibilidad",
+          "ru": "непринужденность"
+        }
+      },
+      {
+        "id": "remote-rights-c2-gap-7",
+        "fr": "L’inaliénabilité interdit que le titulaire lui-même cède le droit qui le constitue en personne.",
+        "l2": "L’inaliénabilité interdit que le titulaire lui-même cède le droit qui le constitue en personne.",
+        "speak": "L’inaliénabilité interdit que le titulaire lui-même cède le droit qui le constitue en personne.",
+        "blank": "inaliénabilité",
+        "en": "inalienability",
+        "gloss": {
+          "en": "inalienability",
+          "es": "inalienabilidad",
+          "ru": "неотчуждаемость"
+        }
+      },
+      {
+        "id": "remote-rights-c2-gap-8",
+        "fr": "L’effectivité d’un droit se mesure à la voie de recours qui le rend saisissable, non à sa seule proclamation.",
+        "l2": "L’effectivité d’un droit se mesure à la voie de recours qui le rend saisissable, non à sa seule proclamation.",
+        "speak": "L’effectivité d’un droit se mesure à la voie de recours qui le rend saisissable, non à sa seule proclamation.",
+        "blank": "effectivité",
+        "en": "effectiveness",
+        "gloss": {
+          "en": "effectiveness",
+          "es": "eficacia",
+          "ru": "эффективность"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-rights-c2-ord-1",
+        "fr": "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+        "l2": "L’habeas corpus, garantie contre la détention arbitraire, enjoint de produire le corps du détenu devant le juge.",
+        "en": "habeas corpus",
+        "gloss": {
+          "en": "habeas corpus",
+          "es": "hábeas corpus",
+          "ru": "хабеас корпус"
+        },
+        "words": [
+          "L’habeas",
+          "corpus,",
+          "garantie",
+          "contre",
+          "la",
+          "détention",
+          "arbitraire,",
+          "enjoint",
+          "de",
+          "produire",
+          "le",
+          "corps",
+          "du",
+          "détenu",
+          "devant",
+          "le",
+          "juge."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-ord-2",
+        "fr": "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
+        "l2": "La proportionnalité exige que la mesure, fût-elle légitime dans son but, n’excède pas ce qui est nécessaire.",
+        "en": "proportionality",
+        "gloss": {
+          "en": "proportionality",
+          "es": "proporcionalidad",
+          "ru": "пропорциональность"
+        },
+        "words": [
+          "La",
+          "proportionnalité",
+          "exige",
+          "que",
+          "la",
+          "mesure,",
+          "fût-elle",
+          "légitime",
+          "dans",
+          "son",
+          "but,",
+          "n’excède",
+          "pas",
+          "ce",
+          "qui",
+          "est",
+          "nécessaire."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-ord-3",
+        "fr": "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence.",
+        "l2": "La dignité, principe indérogeable, résiste y compris aux clauses d’urgence.",
+        "en": "dignity",
+        "gloss": {
+          "en": "dignity",
+          "es": "dignidad",
+          "ru": "достоинство"
+        },
+        "words": [
+          "La",
+          "dignité,",
+          "principe",
+          "indérogeable,",
+          "résiste",
+          "y",
+          "compris",
+          "aux",
+          "clauses",
+          "d’urgence."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-ord-4",
+        "fr": "La dérogation, quand bien même elle serait motivée par le péril, demeure exceptionnelle et contrôlée.",
+        "l2": "La dérogation, quand bien même elle serait motivée par le péril, demeure exceptionnelle et contrôlée.",
+        "en": "derogation",
+        "gloss": {
+          "en": "derogation",
+          "es": "humillación",
+          "ru": "умаление"
+        },
+        "words": [
+          "La",
+          "dérogation,",
+          "quand",
+          "bien",
+          "même",
+          "elle",
+          "serait",
+          "motivée",
+          "par",
+          "le",
+          "péril,",
+          "demeure",
+          "exceptionnelle",
+          "et",
+          "contrôlée."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-ord-5",
+        "fr": "La jurisprudence, loin d’être un commentaire, constitue le droit vivant des libertés.",
+        "l2": "La jurisprudence, loin d’être un commentaire, constitue le droit vivant des libertés.",
+        "en": "case law / jurisprudence",
+        "gloss": {
+          "en": "case law / jurisprudence",
+          "es": "jurisprudencia / jurisprudencia",
+          "ru": "прецедентное право / юриспруденция"
+        },
+        "words": [
+          "La",
+          "jurisprudence,",
+          "loin",
+          "d’être",
+          "un",
+          "commentaire,",
+          "constitue",
+          "le",
+          "droit",
+          "vivant",
+          "des",
+          "libertés."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-ord-6",
+        "fr": "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique.",
+        "l2": "L’imprescriptibilité soustrait certains crimes au temps qui, d’ordinaire, éteint l’action publique.",
+        "en": "imprescriptibility",
+        "gloss": {
+          "en": "imprescriptibility",
+          "es": "imprescriptibilidad",
+          "ru": "непринужденность"
+        },
+        "words": [
+          "L’imprescriptibilité",
+          "soustrait",
+          "certains",
+          "crimes",
+          "au",
+          "temps",
+          "qui,",
+          "d’ordinaire,",
+          "éteint",
+          "l’action",
+          "publique."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-ord-7",
+        "fr": "L’inaliénabilité interdit que le titulaire lui-même cède le droit qui le constitue en personne.",
+        "l2": "L’inaliénabilité interdit que le titulaire lui-même cède le droit qui le constitue en personne.",
+        "en": "inalienability",
+        "gloss": {
+          "en": "inalienability",
+          "es": "inalienabilidad",
+          "ru": "неотчуждаемость"
+        },
+        "words": [
+          "L’inaliénabilité",
+          "interdit",
+          "que",
+          "le",
+          "titulaire",
+          "lui-même",
+          "cède",
+          "le",
+          "droit",
+          "qui",
+          "le",
+          "constitue",
+          "en",
+          "personne."
+        ]
+      },
+      {
+        "id": "remote-rights-c2-ord-8",
+        "fr": "L’effectivité d’un droit se mesure à la voie de recours qui le rend saisissable, non à sa seule proclamation.",
+        "l2": "L’effectivité d’un droit se mesure à la voie de recours qui le rend saisissable, non à sa seule proclamation.",
+        "en": "effectiveness",
+        "gloss": {
+          "en": "effectiveness",
+          "es": "eficacia",
+          "ru": "эффективность"
+        },
+        "words": [
+          "L’effectivité",
+          "d’un",
+          "droit",
+          "se",
+          "mesure",
+          "à",
+          "la",
+          "voie",
+          "de",
+          "recours",
+          "qui",
+          "le",
+          "rend",
+          "saisissable,",
+          "non",
+          "à",
+          "sa",
+          "seule",
+          "proclamation."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-rights-c2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "a.be.as kɔʁ.pys",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "habeas corpus",
+          "l2": "habeas corpus",
+          "en": "habeas corpus",
+          "gloss": {
+            "en": "habeas corpus",
+            "es": "hábeas corpus",
+            "ru": "хабеас корпус"
+          },
+          "ipa": "a.be.as kɔʁ.pys"
+        },
+        {
+          "fr": "proportionnalité",
+          "l2": "proportionnalité",
+          "en": "proportionality",
+          "gloss": {
+            "en": "proportionality",
+            "es": "proporcionalidad",
+            "ru": "пропорциональность"
+          },
+          "ipa": "pʁɔ.pɔʁ.sjɔ.na.li.te"
+        },
+        {
+          "fr": "dignité",
+          "l2": "dignité",
+          "en": "dignity",
+          "gloss": {
+            "en": "dignity",
+            "es": "dignidad",
+            "ru": "достоинство"
+          },
+          "ipa": "di.ɲi.te"
+        },
+        {
+          "fr": "dérogation",
+          "l2": "dérogation",
+          "en": "derogation",
+          "gloss": {
+            "en": "derogation",
+            "es": "humillación",
+            "ru": "умаление"
+          },
+          "ipa": "de.ʁɔ.ɡa.sjɔ̃"
+        },
+        {
+          "fr": "jurisprudence",
+          "l2": "jurisprudence",
+          "en": "case law / jurisprudence",
+          "gloss": {
+            "en": "case law / jurisprudence",
+            "es": "jurisprudencia / jurisprudencia",
+            "ru": "прецедентное право / юриспруденция"
+          },
+          "ipa": "ʒy.ʁis.pʁy.dɑ̃s"
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "sustainability-c1",
-  "version": 4,
+  "version": 5,
   "level": "c1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "ne soient",
             "sont",
             "ne sont pas"
-          ]
+          ],
+          "gloss": {
+            "en": "À moins que les seuils ___ respectés, la résilience basculera.",
+            "es": "A menos que se alcancen ___ umbrales, la resiliencia se derrumbará.",
+            "ru": "Если не будут достигнуты ___ пороговые значения, устойчивость будет опрокинута."
+          },
+          "why": {
+            "fr": "Réponse : « ne soient ».",
+            "en": "Answer: “ne soient”.",
+            "es": "Respuesta: « ne soient ».",
+            "ru": "Ответ: « ne soient »."
+          }
         },
         {
           "id": "remote-sustainability-gq-2",
@@ -537,7 +548,18 @@
             "d’être",
             "qu’elle est",
             "de soit"
-          ]
+          ],
+          "gloss": {
+            "en": "The compensation, unless additional ___ , remains cosmetic.",
+            "es": "La compensación, a menos que ___ adicional, sigue siendo cosmética.",
+            "ru": "Компенсация, за исключением дополнительных ___ , остается косметической."
+          },
+          "why": {
+            "fr": "Réponse : « d’être ».",
+            "en": "Answer: “d’être”.",
+            "es": "Respuesta: « d’être ».",
+            "ru": "Ответ: « d’être »."
+          }
         },
         {
           "id": "remote-sustainability-gq-3",
@@ -547,13 +569,25 @@
             "ne bascule",
             "bascule pas",
             "basculera"
-          ]
+          ],
+          "gloss": {
+            "en": "Before the ecosystem ___ , we must reduce the footprint.",
+            "es": "Antes que el ecosistema ___ , debemos reducir la huella.",
+            "ru": "Прежде чем экосистема ___ , мы должны уменьшить воздействие."
+          },
+          "why": {
+            "fr": "Réponse : « ne bascule ».",
+            "en": "Answer: “ne bascule”.",
+            "es": "Respuesta: « ne bascule ».",
+            "ru": "Ответ: « ne bascule »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: À moins que and expletive ne.",
         "es": "Útil cuando es necesario aplicar: À moins que y grosería ne.",
-        "ru": "Полезно, когда нужно применить: À moins que и ругательство ne."
+        "ru": "Полезно, когда нужно применить: À moins que и ругательство ne.",
+        "fr": "Utile pour appliquer : À moins que et le ne explétif."
       }
     },
     {
@@ -606,7 +640,18 @@
             "avait été",
             "aurait été",
             "était été"
-          ]
+          ],
+          "gloss": {
+            "en": "If mitigation ___ faster, adaptation would weigh less.",
+            "es": "Si la mitigación fuera más rápida, la adaptación pesaría menos.",
+            "ru": "Если смягчение последствий ___ будет происходить быстрее, адаптация будет иметь меньший вес."
+          },
+          "why": {
+            "fr": "Réponse : « avait été ».",
+            "en": "Answer: “avait été”.",
+            "es": "Respuesta: « avait été ».",
+            "ru": "Ответ: « avait été »."
+          }
         },
         {
           "id": "remote-sustainability-gq-5",
@@ -616,13 +661,25 @@
             "avaient été",
             "auraient été",
             "soient"
-          ]
+          ],
+          "gloss": {
+            "en": "If the thresholds ___ respected, the switch would not have taken place.",
+            "es": "Si se respetaran los umbrales ___ , el cambio no se habría producido.",
+            "ru": "Si les seuils ___ respectés, la bascule n’aurait pas eu lieu."
+          },
+          "why": {
+            "fr": "Réponse : « avaient été ».",
+            "en": "Answer: “avaient été”.",
+            "es": "Respuesta: « avaient été ».",
+            "ru": "Ответ: « avaient été »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Tense harmony: si + pluperfect.",
         "es": "Útil cuando es necesario aplicar: Armonía tensa: si + pluscuamperfecto.",
-        "ru": "Полезно, когда нужно применить: Напряженная гармония: си + плюперфект."
+        "ru": "Полезно, когда нужно применить: Напряженная гармония: си + плюперфект.",
+        "fr": "Utile pour appliquer : Concordance : si + plus-que-parfait."
       }
     }
   ],
@@ -853,6 +910,1088 @@
         },
         "l2": "Loin d’être un simple recyclage, l’économie circulaire réduit l’obsolescence."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-sustainability-fren-1",
+        "fr": "décarbonation",
+        "en": "decarbonization",
+        "gloss": {
+          "en": "decarbonization",
+          "es": "descarbonización",
+          "ru": "декарбонизация"
+        },
+        "l2": "décarbonation"
+      },
+      {
+        "id": "remote-sustainability-fren-2",
+        "fr": "économie circulaire",
+        "en": "circular economy",
+        "gloss": {
+          "en": "circular economy",
+          "es": "economía circular",
+          "ru": "циркулярная экономика"
+        },
+        "l2": "économie circulaire"
+      },
+      {
+        "id": "remote-sustainability-fren-3",
+        "fr": "biodiversité",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        },
+        "l2": "biodiversité"
+      },
+      {
+        "id": "remote-sustainability-fren-4",
+        "fr": "externalité",
+        "en": "externality",
+        "gloss": {
+          "en": "externality",
+          "es": "exterioridad",
+          "ru": "внешние эффекты"
+        },
+        "l2": "externalité"
+      },
+      {
+        "id": "remote-sustainability-fren-5",
+        "fr": "transition",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        },
+        "l2": "transition"
+      },
+      {
+        "id": "remote-sustainability-fren-6",
+        "fr": "empreinte",
+        "en": "footprint",
+        "gloss": {
+          "en": "footprint",
+          "es": "huella",
+          "ru": "след"
+        },
+        "l2": "empreinte"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-sustainability-c1-enl2-1",
+        "fr": "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+        "l2": "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+        "en": "decarbonization",
+        "gloss": {
+          "en": "decarbonization",
+          "es": "descarbonización",
+          "ru": "декарбонизация"
+        },
+        "prompt": "decarbonization",
+        "choices": [
+          "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+          "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+          "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-enl2-2",
+        "fr": "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+        "l2": "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+        "en": "circular economy",
+        "gloss": {
+          "en": "circular economy",
+          "es": "economía circular",
+          "ru": "циркулярная экономика"
+        },
+        "prompt": "circular economy",
+        "choices": [
+          "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+          "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+          "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-enl2-3",
+        "fr": "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés.",
+        "l2": "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés.",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        },
+        "prompt": "biodiversity",
+        "choices": [
+          "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés.",
+          "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+          "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-enl2-4",
+        "fr": "Cette externalité négative, quitte à n’apparaître dans aucun prix, pèse sur des tiers que le marché ignore.",
+        "l2": "Cette externalité négative, quitte à n’apparaître dans aucun prix, pèse sur des tiers que le marché ignore.",
+        "en": "externality",
+        "gloss": {
+          "en": "externality",
+          "es": "exterioridad",
+          "ru": "внешние эффекты"
+        },
+        "prompt": "externality",
+        "choices": [
+          "Cette externalité négative, quitte à n’apparaître dans aucun prix, pèse sur des tiers que le marché ignore.",
+          "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+          "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-enl2-5",
+        "fr": "La transition écologique, à moins qu’elle ne soit juste, risque de reproduire les inégalités qu’elle prétend corriger.",
+        "l2": "La transition écologique, à moins qu’elle ne soit juste, risque de reproduire les inégalités qu’elle prétend corriger.",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        },
+        "prompt": "transition",
+        "choices": [
+          "La transition écologique, à moins qu’elle ne soit juste, risque de reproduire les inégalités qu’elle prétend corriger.",
+          "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+          "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-enl2-6",
+        "fr": "L’empreinte carbone, dont le calcul reste un cadrage contesté, oriente néanmoins l’atténuation des organisations.",
+        "l2": "L’empreinte carbone, dont le calcul reste un cadrage contesté, oriente néanmoins l’atténuation des organisations.",
+        "en": "footprint",
+        "gloss": {
+          "en": "footprint",
+          "es": "huella",
+          "ru": "след"
+        },
+        "prompt": "footprint",
+        "choices": [
+          "L’empreinte carbone, dont le calcul reste un cadrage contesté, oriente néanmoins l’atténuation des organisations.",
+          "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+          "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-enl2-7",
+        "fr": "L’atténuation, loin de dispenser de l’adaptation, demeure prioritaire tant que les seuils critiques ne sont pas franchis.",
+        "l2": "L’atténuation, loin de dispenser de l’adaptation, demeure prioritaire tant que les seuils critiques ne sont pas franchis.",
+        "en": "mitigation",
+        "gloss": {
+          "en": "mitigation",
+          "es": "mitigación",
+          "ru": "смягчение последствий"
+        },
+        "prompt": "mitigation",
+        "choices": [
+          "L’atténuation, loin de dispenser de l’adaptation, demeure prioritaire tant que les seuils critiques ne sont pas franchis.",
+          "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+          "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-enl2-8",
+        "fr": "La résilience d’un écosystème, encore qu’elle soit célébrée, a des limites que le réchauffement peut faire basculer.",
+        "l2": "La résilience d’un écosystème, encore qu’elle soit célébrée, a des limites que le réchauffement peut faire basculer.",
+        "en": "resilience",
+        "gloss": {
+          "en": "resilience",
+          "es": "resiliencia",
+          "ru": "устойчивость"
+        },
+        "prompt": "resilience",
+        "choices": [
+          "La résilience d’un écosystème, encore qu’elle soit célébrée, a des limites que le réchauffement peut faire basculer.",
+          "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+          "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-sustainability-c1-prm-1",
+        "en": "decarbonization",
+        "gloss": {
+          "en": "decarbonization",
+          "es": "descarbonización",
+          "ru": "декарбонизация"
+        },
+        "answers": [
+          "décarbonation",
+          "la décarbonation"
+        ],
+        "target": "la décarbonation"
+      },
+      {
+        "id": "remote-sustainability-c1-prm-2",
+        "en": "circular economy",
+        "gloss": {
+          "en": "circular economy",
+          "es": "economía circular",
+          "ru": "циркулярная экономика"
+        },
+        "answers": [
+          "économie circulaire",
+          "l' économie circulaire"
+        ],
+        "target": "l' économie circulaire"
+      },
+      {
+        "id": "remote-sustainability-c1-prm-3",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        },
+        "answers": [
+          "biodiversité",
+          "la biodiversité"
+        ],
+        "target": "la biodiversité"
+      },
+      {
+        "id": "remote-sustainability-c1-prm-4",
+        "en": "externality",
+        "gloss": {
+          "en": "externality",
+          "es": "exterioridad",
+          "ru": "внешние эффекты"
+        },
+        "answers": [
+          "externalité",
+          "l' externalité"
+        ],
+        "target": "l' externalité"
+      },
+      {
+        "id": "remote-sustainability-c1-prm-5",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        },
+        "answers": [
+          "transition",
+          "la transition"
+        ],
+        "target": "la transition"
+      },
+      {
+        "id": "remote-sustainability-c1-prm-6",
+        "en": "footprint",
+        "gloss": {
+          "en": "footprint",
+          "es": "huella",
+          "ru": "след"
+        },
+        "answers": [
+          "empreinte",
+          "l' empreinte"
+        ],
+        "target": "l' empreinte"
+      },
+      {
+        "id": "remote-sustainability-c1-prm-7",
+        "en": "mitigation",
+        "gloss": {
+          "en": "mitigation",
+          "es": "mitigación",
+          "ru": "смягчение последствий"
+        },
+        "answers": [
+          "atténuation",
+          "l' atténuation"
+        ],
+        "target": "l' atténuation"
+      },
+      {
+        "id": "remote-sustainability-c1-prm-8",
+        "en": "resilience",
+        "gloss": {
+          "en": "resilience",
+          "es": "resiliencia",
+          "ru": "устойчивость"
+        },
+        "answers": [
+          "résilience",
+          "la résilience"
+        ],
+        "target": "la résilience"
+      },
+      {
+        "id": "remote-sustainability-c1-prm-9",
+        "en": "sufficiency",
+        "gloss": {
+          "en": "sufficiency",
+          "es": "suficiencia",
+          "ru": "достаточность"
+        },
+        "answers": [
+          "sobriété",
+          "la sobriété"
+        ],
+        "target": "la sobriété"
+      },
+      {
+        "id": "remote-sustainability-c1-prm-10",
+        "en": "offsetting",
+        "gloss": {
+          "en": "offsetting",
+          "es": "compensando",
+          "ru": "компенсирующий"
+        },
+        "answers": [
+          "compensation",
+          "la compensation"
+        ],
+        "target": "la compensation"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-sustainability-c1-sign-1",
+        "fr": "décarbonation",
+        "l2": "décarbonation",
+        "en": "decarbonization",
+        "gloss": {
+          "en": "decarbonization",
+          "es": "descarbonización",
+          "ru": "декарбонизация"
+        },
+        "choices": [
+          "decarbonization",
+          "circular economy",
+          "biodiversity"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-2",
+        "fr": "économie circulaire",
+        "l2": "économie circulaire",
+        "en": "circular economy",
+        "gloss": {
+          "en": "circular economy",
+          "es": "economía circular",
+          "ru": "циркулярная экономика"
+        },
+        "choices": [
+          "circular economy",
+          "decarbonization",
+          "biodiversity"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-3",
+        "fr": "biodiversité",
+        "l2": "biodiversité",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        },
+        "choices": [
+          "biodiversity",
+          "decarbonization",
+          "circular economy"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-4",
+        "fr": "externalité",
+        "l2": "externalité",
+        "en": "externality",
+        "gloss": {
+          "en": "externality",
+          "es": "exterioridad",
+          "ru": "внешние эффекты"
+        },
+        "choices": [
+          "externality",
+          "decarbonization",
+          "circular economy"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-5",
+        "fr": "transition",
+        "l2": "transition",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        },
+        "choices": [
+          "transition",
+          "decarbonization",
+          "circular economy"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-6",
+        "fr": "empreinte",
+        "l2": "empreinte",
+        "en": "footprint",
+        "gloss": {
+          "en": "footprint",
+          "es": "huella",
+          "ru": "след"
+        },
+        "choices": [
+          "footprint",
+          "decarbonization",
+          "circular economy"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-7",
+        "fr": "atténuation",
+        "l2": "atténuation",
+        "en": "mitigation",
+        "gloss": {
+          "en": "mitigation",
+          "es": "mitigación",
+          "ru": "смягчение последствий"
+        },
+        "choices": [
+          "mitigation",
+          "decarbonization",
+          "circular economy"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-8",
+        "fr": "résilience",
+        "l2": "résilience",
+        "en": "resilience",
+        "gloss": {
+          "en": "resilience",
+          "es": "resiliencia",
+          "ru": "устойчивость"
+        },
+        "choices": [
+          "resilience",
+          "decarbonization",
+          "circular economy"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-9",
+        "fr": "sobriété",
+        "l2": "sobriété",
+        "en": "sufficiency",
+        "gloss": {
+          "en": "sufficiency",
+          "es": "suficiencia",
+          "ru": "достаточность"
+        },
+        "choices": [
+          "sufficiency",
+          "decarbonization",
+          "circular economy"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-10",
+        "fr": "compensation",
+        "l2": "compensation",
+        "en": "offsetting",
+        "gloss": {
+          "en": "offsetting",
+          "es": "compensando",
+          "ru": "компенсирующий"
+        },
+        "choices": [
+          "offsetting",
+          "decarbonization",
+          "circular economy"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-11",
+        "fr": "écosystème",
+        "l2": "écosystème",
+        "en": "ecosystem",
+        "gloss": {
+          "en": "ecosystem",
+          "es": "ecosistema",
+          "ru": "экосистема"
+        },
+        "choices": [
+          "ecosystem",
+          "decarbonization",
+          "circular economy"
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-sign-12",
+        "fr": "réchauffement",
+        "l2": "réchauffement",
+        "en": "warming",
+        "gloss": {
+          "en": "warming",
+          "es": "calentamiento",
+          "ru": "потепление"
+        },
+        "choices": [
+          "warming",
+          "decarbonization",
+          "circular economy"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-sustainability-c1-pair-1",
+        "a": {
+          "fr": "décarbonation",
+          "l2": "décarbonation",
+          "en": "decarbonization",
+          "gloss": {
+            "en": "decarbonization",
+            "es": "descarbonización",
+            "ru": "декарбонизация"
+          }
+        },
+        "b": {
+          "fr": "économie circulaire",
+          "l2": "économie circulaire",
+          "en": "circular economy",
+          "gloss": {
+            "en": "circular economy",
+            "es": "economía circular",
+            "ru": "циркулярная экономика"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-sustainability-c1-pair-2",
+        "a": {
+          "fr": "biodiversité",
+          "l2": "biodiversité",
+          "en": "biodiversity",
+          "gloss": {
+            "en": "biodiversity",
+            "es": "biodiversidad",
+            "ru": "биоразнообразие"
+          }
+        },
+        "b": {
+          "fr": "externalité",
+          "l2": "externalité",
+          "en": "externality",
+          "gloss": {
+            "en": "externality",
+            "es": "exterioridad",
+            "ru": "внешние эффекты"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-sustainability-c1-pair-3",
+        "a": {
+          "fr": "transition",
+          "l2": "transition",
+          "en": "transition",
+          "gloss": {
+            "en": "transition",
+            "es": "transición",
+            "ru": "переход"
+          }
+        },
+        "b": {
+          "fr": "empreinte",
+          "l2": "empreinte",
+          "en": "footprint",
+          "gloss": {
+            "en": "footprint",
+            "es": "huella",
+            "ru": "след"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-sustainability-c1-pair-4",
+        "a": {
+          "fr": "atténuation",
+          "l2": "atténuation",
+          "en": "mitigation",
+          "gloss": {
+            "en": "mitigation",
+            "es": "mitigación",
+            "ru": "смягчение последствий"
+          }
+        },
+        "b": {
+          "fr": "résilience",
+          "l2": "résilience",
+          "en": "resilience",
+          "gloss": {
+            "en": "resilience",
+            "es": "resiliencia",
+            "ru": "устойчивость"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-sustainability-c1-pair-5",
+        "a": {
+          "fr": "sobriété",
+          "l2": "sobriété",
+          "en": "sufficiency",
+          "gloss": {
+            "en": "sufficiency",
+            "es": "suficiencia",
+            "ru": "достаточность"
+          }
+        },
+        "b": {
+          "fr": "compensation",
+          "l2": "compensation",
+          "en": "offsetting",
+          "gloss": {
+            "en": "offsetting",
+            "es": "compensando",
+            "ru": "компенсирующий"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-sustainability-c1-gap-1",
+        "fr": "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+        "l2": "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+        "speak": "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+        "blank": "décarbonation",
+        "en": "decarbonization",
+        "gloss": {
+          "en": "decarbonization",
+          "es": "descarbonización",
+          "ru": "декарбонизация"
+        }
+      },
+      {
+        "id": "remote-sustainability-c1-gap-2",
+        "fr": "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+        "l2": "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+        "speak": "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+        "blank": "économie circulaire",
+        "en": "circular economy",
+        "gloss": {
+          "en": "circular economy",
+          "es": "economía circular",
+          "ru": "циркулярная экономика"
+        }
+      },
+      {
+        "id": "remote-sustainability-c1-gap-3",
+        "fr": "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés.",
+        "l2": "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés.",
+        "speak": "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés.",
+        "blank": "biodiversité",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        }
+      },
+      {
+        "id": "remote-sustainability-c1-gap-4",
+        "fr": "Cette externalité négative, quitte à n’apparaître dans aucun prix, pèse sur des tiers que le marché ignore.",
+        "l2": "Cette externalité négative, quitte à n’apparaître dans aucun prix, pèse sur des tiers que le marché ignore.",
+        "speak": "Cette externalité négative, quitte à n’apparaître dans aucun prix, pèse sur des tiers que le marché ignore.",
+        "blank": "externalité",
+        "en": "externality",
+        "gloss": {
+          "en": "externality",
+          "es": "exterioridad",
+          "ru": "внешние эффекты"
+        }
+      },
+      {
+        "id": "remote-sustainability-c1-gap-5",
+        "fr": "La transition écologique, à moins qu’elle ne soit juste, risque de reproduire les inégalités qu’elle prétend corriger.",
+        "l2": "La transition écologique, à moins qu’elle ne soit juste, risque de reproduire les inégalités qu’elle prétend corriger.",
+        "speak": "La transition écologique, à moins qu’elle ne soit juste, risque de reproduire les inégalités qu’elle prétend corriger.",
+        "blank": "transition",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        }
+      },
+      {
+        "id": "remote-sustainability-c1-gap-6",
+        "fr": "L’empreinte carbone, dont le calcul reste un cadrage contesté, oriente néanmoins l’atténuation des organisations.",
+        "l2": "L’empreinte carbone, dont le calcul reste un cadrage contesté, oriente néanmoins l’atténuation des organisations.",
+        "speak": "L’empreinte carbone, dont le calcul reste un cadrage contesté, oriente néanmoins l’atténuation des organisations.",
+        "blank": "empreinte",
+        "en": "footprint",
+        "gloss": {
+          "en": "footprint",
+          "es": "huella",
+          "ru": "след"
+        }
+      },
+      {
+        "id": "remote-sustainability-c1-gap-7",
+        "fr": "L’atténuation, loin de dispenser de l’adaptation, demeure prioritaire tant que les seuils critiques ne sont pas franchis.",
+        "l2": "L’atténuation, loin de dispenser de l’adaptation, demeure prioritaire tant que les seuils critiques ne sont pas franchis.",
+        "speak": "L’atténuation, loin de dispenser de l’adaptation, demeure prioritaire tant que les seuils critiques ne sont pas franchis.",
+        "blank": "atténuation",
+        "en": "mitigation",
+        "gloss": {
+          "en": "mitigation",
+          "es": "mitigación",
+          "ru": "смягчение последствий"
+        }
+      },
+      {
+        "id": "remote-sustainability-c1-gap-8",
+        "fr": "La résilience d’un écosystème, encore qu’elle soit célébrée, a des limites que le réchauffement peut faire basculer.",
+        "l2": "La résilience d’un écosystème, encore qu’elle soit célébrée, a des limites que le réchauffement peut faire basculer.",
+        "speak": "La résilience d’un écosystème, encore qu’elle soit célébrée, a des limites que le réchauffement peut faire basculer.",
+        "blank": "résilience",
+        "en": "resilience",
+        "gloss": {
+          "en": "resilience",
+          "es": "resiliencia",
+          "ru": "устойчивость"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-sustainability-c1-ord-1",
+        "fr": "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+        "l2": "La décarbonation, dont le rythme demeure insuffisant, suppose un arbitrage entre compétitivité et sobriété.",
+        "en": "decarbonization",
+        "gloss": {
+          "en": "decarbonization",
+          "es": "descarbonización",
+          "ru": "декарбонизация"
+        },
+        "words": [
+          "La",
+          "décarbonation,",
+          "dont",
+          "le",
+          "rythme",
+          "demeure",
+          "insuffisant,",
+          "suppose",
+          "un",
+          "arbitrage",
+          "entre",
+          "compétitivité",
+          "et",
+          "sobriété."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-ord-2",
+        "fr": "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+        "l2": "L’économie circulaire, loin d’être un simple recyclage, vise à concevoir des flux qui réduisent l’obsolescence.",
+        "en": "circular economy",
+        "gloss": {
+          "en": "circular economy",
+          "es": "economía circular",
+          "ru": "циркулярная экономика"
+        },
+        "words": [
+          "L’économie",
+          "circulaire,",
+          "loin",
+          "d’être",
+          "un",
+          "simple",
+          "recyclage,",
+          "vise",
+          "à",
+          "concevoir",
+          "des",
+          "flux",
+          "qui",
+          "réduisent",
+          "l’obsolescence."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-ord-3",
+        "fr": "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés.",
+        "l2": "La biodiversité, encore qu’on la traite comme externalité, conditionne la résilience des écosystèmes cultivés.",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        },
+        "words": [
+          "La",
+          "biodiversité,",
+          "encore",
+          "qu’on",
+          "la",
+          "traite",
+          "comme",
+          "externalité,",
+          "conditionne",
+          "la",
+          "résilience",
+          "des",
+          "écosystèmes",
+          "cultivés."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-ord-4",
+        "fr": "Cette externalité négative, quitte à n’apparaître dans aucun prix, pèse sur des tiers que le marché ignore.",
+        "l2": "Cette externalité négative, quitte à n’apparaître dans aucun prix, pèse sur des tiers que le marché ignore.",
+        "en": "externality",
+        "gloss": {
+          "en": "externality",
+          "es": "exterioridad",
+          "ru": "внешние эффекты"
+        },
+        "words": [
+          "Cette",
+          "externalité",
+          "négative,",
+          "quitte",
+          "à",
+          "n’apparaître",
+          "dans",
+          "aucun",
+          "prix,",
+          "pèse",
+          "sur",
+          "des",
+          "tiers",
+          "que",
+          "le",
+          "marché",
+          "ignore."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-ord-5",
+        "fr": "La transition écologique, à moins qu’elle ne soit juste, risque de reproduire les inégalités qu’elle prétend corriger.",
+        "l2": "La transition écologique, à moins qu’elle ne soit juste, risque de reproduire les inégalités qu’elle prétend corriger.",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        },
+        "words": [
+          "La",
+          "transition",
+          "écologique,",
+          "à",
+          "moins",
+          "qu’elle",
+          "ne",
+          "soit",
+          "juste,",
+          "risque",
+          "de",
+          "reproduire",
+          "les",
+          "inégalités",
+          "qu’elle",
+          "prétend",
+          "corriger."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-ord-6",
+        "fr": "L’empreinte carbone, dont le calcul reste un cadrage contesté, oriente néanmoins l’atténuation des organisations.",
+        "l2": "L’empreinte carbone, dont le calcul reste un cadrage contesté, oriente néanmoins l’atténuation des organisations.",
+        "en": "footprint",
+        "gloss": {
+          "en": "footprint",
+          "es": "huella",
+          "ru": "след"
+        },
+        "words": [
+          "L’empreinte",
+          "carbone,",
+          "dont",
+          "le",
+          "calcul",
+          "reste",
+          "un",
+          "cadrage",
+          "contesté,",
+          "oriente",
+          "néanmoins",
+          "l’atténuation",
+          "des",
+          "organisations."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-ord-7",
+        "fr": "L’atténuation, loin de dispenser de l’adaptation, demeure prioritaire tant que les seuils critiques ne sont pas franchis.",
+        "l2": "L’atténuation, loin de dispenser de l’adaptation, demeure prioritaire tant que les seuils critiques ne sont pas franchis.",
+        "en": "mitigation",
+        "gloss": {
+          "en": "mitigation",
+          "es": "mitigación",
+          "ru": "смягчение последствий"
+        },
+        "words": [
+          "L’atténuation,",
+          "loin",
+          "de",
+          "dispenser",
+          "de",
+          "l’adaptation,",
+          "demeure",
+          "prioritaire",
+          "tant",
+          "que",
+          "les",
+          "seuils",
+          "critiques",
+          "ne",
+          "sont",
+          "pas",
+          "franchis."
+        ]
+      },
+      {
+        "id": "remote-sustainability-c1-ord-8",
+        "fr": "La résilience d’un écosystème, encore qu’elle soit célébrée, a des limites que le réchauffement peut faire basculer.",
+        "l2": "La résilience d’un écosystème, encore qu’elle soit célébrée, a des limites que le réchauffement peut faire basculer.",
+        "en": "resilience",
+        "gloss": {
+          "en": "resilience",
+          "es": "resiliencia",
+          "ru": "устойчивость"
+        },
+        "words": [
+          "La",
+          "résilience",
+          "d’un",
+          "écosystème,",
+          "encore",
+          "qu’elle",
+          "soit",
+          "célébrée,",
+          "a",
+          "des",
+          "limites",
+          "que",
+          "le",
+          "réchauffement",
+          "peut",
+          "faire",
+          "basculer."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-sustainability-c1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "de.kaʁ.bɔ.na.sjɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "décarbonation",
+          "l2": "décarbonation",
+          "en": "decarbonization",
+          "gloss": {
+            "en": "decarbonization",
+            "es": "descarbonización",
+            "ru": "декарбонизация"
+          },
+          "ipa": "de.kaʁ.bɔ.na.sjɔ̃"
+        },
+        {
+          "fr": "économie circulaire",
+          "l2": "économie circulaire",
+          "en": "circular economy",
+          "gloss": {
+            "en": "circular economy",
+            "es": "economía circular",
+            "ru": "циркулярная экономика"
+          },
+          "ipa": "e.kɔ.nɔ.mi siʁ.ky.lɛʁ"
+        },
+        {
+          "fr": "biodiversité",
+          "l2": "biodiversité",
+          "en": "biodiversity",
+          "gloss": {
+            "en": "biodiversity",
+            "es": "biodiversidad",
+            "ru": "биоразнообразие"
+          },
+          "ipa": "bjɔ.di.vɛʁ.si.te"
+        },
+        {
+          "fr": "externalité",
+          "l2": "externalité",
+          "en": "externality",
+          "gloss": {
+            "en": "externality",
+            "es": "exterioridad",
+            "ru": "внешние эффекты"
+          },
+          "ipa": "ɛk.stɛʁ.na.li.te"
+        },
+        {
+          "fr": "transition",
+          "l2": "transition",
+          "en": "transition",
+          "gloss": {
+            "en": "transition",
+            "es": "transición",
+            "ru": "переход"
+          },
+          "ipa": "tʁɑ̃.zi.sjɔ̃"
+        }
+      ]
+    }
+  ]
 }

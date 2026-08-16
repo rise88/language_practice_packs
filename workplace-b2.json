@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "workplace-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "soit",
             "est",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: It is important that the report ___ sent.",
+            "es": "Completo: Es importante que el informe ___ enviado.",
+            "ru": "Завершено: Важно, чтобы отчет ___ был отправлен."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-workplace-gq-2",
@@ -537,7 +548,18 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: I don't think this deadline ___ realistic.",
+            "es": "Completo: No creo que este plazo ___ sea realista.",
+            "ru": "Завершено: Я не думаю, что этот срок ___ реалистичен."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-workplace-gq-3",
@@ -547,13 +569,25 @@
             "soit",
             "est",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: I think this training ___ useful.",
+            "es": "Completo: Creo que esta capacitación ___ es útil.",
+            "ru": "Завершено: Я считаю этот тренинг ___ полезным."
+          },
+          "why": {
+            "fr": "Réponse : « est ».",
+            "en": "Answer: “est”.",
+            "es": "Respuesta: « est ».",
+            "ru": "Ответ: « est »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Subjunctive after opinion and emotion.",
         "es": "Útil cuando necesitas aplicar: Subjuntivo después de opinión y emoción.",
-        "ru": "Полезно, когда нужно применить: сослагательное наклонение после мнения и эмоции."
+        "ru": "Полезно, когда нужно применить: сослагательное наклонение после мнения и эмоции.",
+        "fr": "Utile pour appliquer : Le subjonctif après l’opinion et l’émotion."
       }
     },
     {
@@ -601,7 +635,18 @@
             "avais",
             "aurais",
             "ai"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: If I ___ more autonomy, I would reorganize my schedule.",
+            "es": "Completo: Si tuviera ___ más autonomía, reorganizaría mi agenda.",
+            "ru": "Завершено: Если бы я ___ получил больше самостоятельности, я бы реорганизовал свой график."
+          },
+          "why": {
+            "fr": "Réponse : « avais ».",
+            "en": "Answer: “avais”.",
+            "es": "Respuesta: « avais ».",
+            "ru": "Ответ: « avais »."
+          }
         },
         {
           "id": "remote-workplace-gq-5",
@@ -611,13 +656,25 @@
             "sommes",
             "serions",
             "étions"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: If the meeting was shorter, we would ___ more effective.",
+            "es": "Completo: Si la reunión fuera más corta, seríamos ___ más efectivos.",
+            "ru": "Завершено: Если бы встреча была короче, мы были бы ___ более эффективными."
+          },
+          "why": {
+            "fr": "Réponse : « serions ».",
+            "en": "Answer: “serions”.",
+            "es": "Respuesta: « serions ».",
+            "ru": "Ответ: « serions »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Hypothetical si-clauses.",
         "es": "Útil cuando necesitas aplicar: Cláusulas si hipotéticas.",
-        "ru": "Полезно, когда вам нужно применить: Гипотетические предложения."
+        "ru": "Полезно, когда вам нужно применить: Гипотетические предложения.",
+        "fr": "Utile pour appliquer : Si + imparfait + conditionnel."
       }
     }
   ],
@@ -848,6 +905,1050 @@
         },
         "l2": "La productivité a chuté, néanmoins la qualité du travail reste remarquable."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-workplace-fren-1",
+        "fr": "hiérarchie",
+        "en": "hierarchy",
+        "gloss": {
+          "en": "hierarchy",
+          "es": "jerarquía",
+          "ru": "иерархия"
+        },
+        "l2": "hiérarchie"
+      },
+      {
+        "id": "remote-workplace-fren-2",
+        "fr": "télétravail",
+        "en": "remote work",
+        "gloss": {
+          "en": "remote work",
+          "es": "trabajo remoto",
+          "ru": "удаленная работа"
+        },
+        "l2": "télétravail"
+      },
+      {
+        "id": "remote-workplace-fren-3",
+        "fr": "évaluation",
+        "en": "performance review",
+        "gloss": {
+          "en": "performance review",
+          "es": "revisión de desempeño",
+          "ru": "обзор производительности"
+        },
+        "l2": "évaluation"
+      },
+      {
+        "id": "remote-workplace-fren-4",
+        "fr": "carrière",
+        "en": "career",
+        "gloss": {
+          "en": "career",
+          "es": "carrera",
+          "ru": "карьера"
+        },
+        "l2": "carrière"
+      },
+      {
+        "id": "remote-workplace-fren-5",
+        "fr": "promotion",
+        "en": "promotion",
+        "gloss": {
+          "en": "promotion",
+          "es": "promoción",
+          "ru": "повышение"
+        },
+        "l2": "promotion"
+      },
+      {
+        "id": "remote-workplace-fren-6",
+        "fr": "supérieur",
+        "en": "line manager",
+        "gloss": {
+          "en": "line manager",
+          "es": "gerente de línea",
+          "ru": "линейный менеджер"
+        },
+        "l2": "supérieur"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-workplace-b2-enl2-1",
+        "fr": "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+        "l2": "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+        "en": "hierarchy",
+        "gloss": {
+          "en": "hierarchy",
+          "es": "jerarquía",
+          "ru": "иерархия"
+        },
+        "prompt": "hierarchy",
+        "choices": [
+          "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+          "Le télétravail a redéfini la frontière entre vie privée et professionnelle.",
+          "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-enl2-2",
+        "fr": "Le télétravail a redéfini la frontière entre vie privée et professionnelle.",
+        "l2": "Le télétravail a redéfini la frontière entre vie privée et professionnelle.",
+        "en": "remote work",
+        "gloss": {
+          "en": "remote work",
+          "es": "trabajo remoto",
+          "ru": "удаленная работа"
+        },
+        "prompt": "remote work",
+        "choices": [
+          "Le télétravail a redéfini la frontière entre vie privée et professionnelle.",
+          "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+          "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-enl2-3",
+        "fr": "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées.",
+        "l2": "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées.",
+        "en": "performance review",
+        "gloss": {
+          "en": "performance review",
+          "es": "revisión de desempeño",
+          "ru": "обзор производительности"
+        },
+        "prompt": "performance review",
+        "choices": [
+          "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées.",
+          "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+          "Le télétravail a redéfini la frontière entre vie privée et professionnelle."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-enl2-4",
+        "fr": "Elle a réorienté sa carrière afin d’obtenir davantage de responsabilités.",
+        "l2": "Elle a réorienté sa carrière afin d’obtenir davantage de responsabilités.",
+        "en": "career",
+        "gloss": {
+          "en": "career",
+          "es": "carrera",
+          "ru": "карьера"
+        },
+        "prompt": "career",
+        "choices": [
+          "Elle a réorienté sa carrière afin d’obtenir davantage de responsabilités.",
+          "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+          "Le télétravail a redéfini la frontière entre vie privée et professionnelle."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-enl2-5",
+        "fr": "Il aurait obtenu la promotion s’il avait mieux défendu son bilan.",
+        "l2": "Il aurait obtenu la promotion s’il avait mieux défendu son bilan.",
+        "en": "promotion",
+        "gloss": {
+          "en": "promotion",
+          "es": "promoción",
+          "ru": "повышение"
+        },
+        "prompt": "promotion",
+        "choices": [
+          "Il aurait obtenu la promotion s’il avait mieux défendu son bilan.",
+          "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+          "Le télétravail a redéfini la frontière entre vie privée et professionnelle."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-enl2-6",
+        "fr": "Mon supérieur hiérarchique exige un compte rendu après chaque réunion.",
+        "l2": "Mon supérieur hiérarchique exige un compte rendu après chaque réunion.",
+        "en": "line manager",
+        "gloss": {
+          "en": "line manager",
+          "es": "gerente de línea",
+          "ru": "линейный менеджер"
+        },
+        "prompt": "line manager",
+        "choices": [
+          "Mon supérieur hiérarchique exige un compte rendu après chaque réunion.",
+          "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+          "Le télétravail a redéfini la frontière entre vie privée et professionnelle."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-enl2-7",
+        "fr": "Nous n’atteindrons pas l’objectif trimestriel à moins de revoir les priorités.",
+        "l2": "Nous n’atteindrons pas l’objectif trimestriel à moins de revoir les priorités.",
+        "en": "objective / goal",
+        "gloss": {
+          "en": "objective / goal",
+          "es": "objetivo / meta",
+          "ru": "цель / цель"
+        },
+        "prompt": "objective / goal",
+        "choices": [
+          "Nous n’atteindrons pas l’objectif trimestriel à moins de revoir les priorités.",
+          "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+          "Le télétravail a redéfini la frontière entre vie privée et professionnelle."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-enl2-8",
+        "fr": "La productivité a chuté, néanmoins la qualité du travail reste remarquable.",
+        "l2": "La productivité a chuté, néanmoins la qualité du travail reste remarquable.",
+        "en": "productivity",
+        "gloss": {
+          "en": "productivity",
+          "es": "productividad",
+          "ru": "производительность"
+        },
+        "prompt": "productivity",
+        "choices": [
+          "La productivité a chuté, néanmoins la qualité du travail reste remarquable.",
+          "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+          "Le télétravail a redéfini la frontière entre vie privée et professionnelle."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-workplace-b2-prm-1",
+        "en": "hierarchy",
+        "gloss": {
+          "en": "hierarchy",
+          "es": "jerarquía",
+          "ru": "иерархия"
+        },
+        "answers": [
+          "hiérarchie",
+          "la hiérarchie"
+        ],
+        "target": "la hiérarchie"
+      },
+      {
+        "id": "remote-workplace-b2-prm-2",
+        "en": "remote work",
+        "gloss": {
+          "en": "remote work",
+          "es": "trabajo remoto",
+          "ru": "удаленная работа"
+        },
+        "answers": [
+          "télétravail",
+          "le télétravail"
+        ],
+        "target": "le télétravail"
+      },
+      {
+        "id": "remote-workplace-b2-prm-3",
+        "en": "performance review",
+        "gloss": {
+          "en": "performance review",
+          "es": "revisión de desempeño",
+          "ru": "обзор производительности"
+        },
+        "answers": [
+          "évaluation",
+          "l' évaluation"
+        ],
+        "target": "l' évaluation"
+      },
+      {
+        "id": "remote-workplace-b2-prm-4",
+        "en": "career",
+        "gloss": {
+          "en": "career",
+          "es": "carrera",
+          "ru": "карьера"
+        },
+        "answers": [
+          "carrière",
+          "la carrière"
+        ],
+        "target": "la carrière"
+      },
+      {
+        "id": "remote-workplace-b2-prm-5",
+        "en": "promotion",
+        "gloss": {
+          "en": "promotion",
+          "es": "promoción",
+          "ru": "повышение"
+        },
+        "answers": [
+          "promotion",
+          "la promotion"
+        ],
+        "target": "la promotion"
+      },
+      {
+        "id": "remote-workplace-b2-prm-6",
+        "en": "line manager",
+        "gloss": {
+          "en": "line manager",
+          "es": "gerente de línea",
+          "ru": "линейный менеджер"
+        },
+        "answers": [
+          "supérieur",
+          "le supérieur"
+        ],
+        "target": "le supérieur"
+      },
+      {
+        "id": "remote-workplace-b2-prm-7",
+        "en": "objective / goal",
+        "gloss": {
+          "en": "objective / goal",
+          "es": "objetivo / meta",
+          "ru": "цель / цель"
+        },
+        "answers": [
+          "objectif",
+          "l' objectif"
+        ],
+        "target": "l' objectif"
+      },
+      {
+        "id": "remote-workplace-b2-prm-8",
+        "en": "productivity",
+        "gloss": {
+          "en": "productivity",
+          "es": "productividad",
+          "ru": "производительность"
+        },
+        "answers": [
+          "productivité",
+          "la productivité"
+        ],
+        "target": "la productivité"
+      },
+      {
+        "id": "remote-workplace-b2-prm-9",
+        "en": "delegation",
+        "gloss": {
+          "en": "delegation",
+          "es": "delegación",
+          "ru": "делегация"
+        },
+        "answers": [
+          "délégation",
+          "la délégation"
+        ],
+        "target": "la délégation"
+      },
+      {
+        "id": "remote-workplace-b2-prm-10",
+        "en": "workload overload",
+        "gloss": {
+          "en": "workload overload",
+          "es": "sobrecarga de carga de trabajo",
+          "ru": "перегрузка рабочей нагрузкой"
+        },
+        "answers": [
+          "surcharge",
+          "la surcharge"
+        ],
+        "target": "la surcharge"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-workplace-b2-sign-1",
+        "fr": "hiérarchie",
+        "l2": "hiérarchie",
+        "en": "hierarchy",
+        "gloss": {
+          "en": "hierarchy",
+          "es": "jerarquía",
+          "ru": "иерархия"
+        },
+        "choices": [
+          "hierarchy",
+          "remote work",
+          "performance review"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-2",
+        "fr": "télétravail",
+        "l2": "télétravail",
+        "en": "remote work",
+        "gloss": {
+          "en": "remote work",
+          "es": "trabajo remoto",
+          "ru": "удаленная работа"
+        },
+        "choices": [
+          "remote work",
+          "hierarchy",
+          "performance review"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-3",
+        "fr": "évaluation",
+        "l2": "évaluation",
+        "en": "performance review",
+        "gloss": {
+          "en": "performance review",
+          "es": "revisión de desempeño",
+          "ru": "обзор производительности"
+        },
+        "choices": [
+          "performance review",
+          "hierarchy",
+          "remote work"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-4",
+        "fr": "carrière",
+        "l2": "carrière",
+        "en": "career",
+        "gloss": {
+          "en": "career",
+          "es": "carrera",
+          "ru": "карьера"
+        },
+        "choices": [
+          "career",
+          "hierarchy",
+          "remote work"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-5",
+        "fr": "promotion",
+        "l2": "promotion",
+        "en": "promotion",
+        "gloss": {
+          "en": "promotion",
+          "es": "promoción",
+          "ru": "повышение"
+        },
+        "choices": [
+          "promotion",
+          "hierarchy",
+          "remote work"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-6",
+        "fr": "supérieur",
+        "l2": "supérieur",
+        "en": "line manager",
+        "gloss": {
+          "en": "line manager",
+          "es": "gerente de línea",
+          "ru": "линейный менеджер"
+        },
+        "choices": [
+          "line manager",
+          "hierarchy",
+          "remote work"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-7",
+        "fr": "objectif",
+        "l2": "objectif",
+        "en": "objective / goal",
+        "gloss": {
+          "en": "objective / goal",
+          "es": "objetivo / meta",
+          "ru": "цель / цель"
+        },
+        "choices": [
+          "objective / goal",
+          "hierarchy",
+          "remote work"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-8",
+        "fr": "productivité",
+        "l2": "productivité",
+        "en": "productivity",
+        "gloss": {
+          "en": "productivity",
+          "es": "productividad",
+          "ru": "производительность"
+        },
+        "choices": [
+          "productivity",
+          "hierarchy",
+          "remote work"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-9",
+        "fr": "délégation",
+        "l2": "délégation",
+        "en": "delegation",
+        "gloss": {
+          "en": "delegation",
+          "es": "delegación",
+          "ru": "делегация"
+        },
+        "choices": [
+          "delegation",
+          "hierarchy",
+          "remote work"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-10",
+        "fr": "surcharge",
+        "l2": "surcharge",
+        "en": "workload overload",
+        "gloss": {
+          "en": "workload overload",
+          "es": "sobrecarga de carga de trabajo",
+          "ru": "перегрузка рабочей нагрузкой"
+        },
+        "choices": [
+          "workload overload",
+          "hierarchy",
+          "remote work"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-11",
+        "fr": "compétence",
+        "l2": "compétence",
+        "en": "skill / competency",
+        "gloss": {
+          "en": "skill / competency",
+          "es": "habilidad / competencia",
+          "ru": "умение/компетентность"
+        },
+        "choices": [
+          "skill / competency",
+          "hierarchy",
+          "remote work"
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-sign-12",
+        "fr": "échéance",
+        "l2": "échéance",
+        "en": "deadline",
+        "gloss": {
+          "en": "deadline",
+          "es": "fecha límite",
+          "ru": "крайний срок"
+        },
+        "choices": [
+          "deadline",
+          "hierarchy",
+          "remote work"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-workplace-b2-pair-1",
+        "a": {
+          "fr": "hiérarchie",
+          "l2": "hiérarchie",
+          "en": "hierarchy",
+          "gloss": {
+            "en": "hierarchy",
+            "es": "jerarquía",
+            "ru": "иерархия"
+          }
+        },
+        "b": {
+          "fr": "télétravail",
+          "l2": "télétravail",
+          "en": "remote work",
+          "gloss": {
+            "en": "remote work",
+            "es": "trabajo remoto",
+            "ru": "удаленная работа"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-workplace-b2-pair-2",
+        "a": {
+          "fr": "évaluation",
+          "l2": "évaluation",
+          "en": "performance review",
+          "gloss": {
+            "en": "performance review",
+            "es": "revisión de desempeño",
+            "ru": "обзор производительности"
+          }
+        },
+        "b": {
+          "fr": "carrière",
+          "l2": "carrière",
+          "en": "career",
+          "gloss": {
+            "en": "career",
+            "es": "carrera",
+            "ru": "карьера"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-workplace-b2-pair-3",
+        "a": {
+          "fr": "promotion",
+          "l2": "promotion",
+          "en": "promotion",
+          "gloss": {
+            "en": "promotion",
+            "es": "promoción",
+            "ru": "повышение"
+          }
+        },
+        "b": {
+          "fr": "supérieur",
+          "l2": "supérieur",
+          "en": "line manager",
+          "gloss": {
+            "en": "line manager",
+            "es": "gerente de línea",
+            "ru": "линейный менеджер"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-workplace-b2-pair-4",
+        "a": {
+          "fr": "objectif",
+          "l2": "objectif",
+          "en": "objective / goal",
+          "gloss": {
+            "en": "objective / goal",
+            "es": "objetivo / meta",
+            "ru": "цель / цель"
+          }
+        },
+        "b": {
+          "fr": "productivité",
+          "l2": "productivité",
+          "en": "productivity",
+          "gloss": {
+            "en": "productivity",
+            "es": "productividad",
+            "ru": "производительность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-workplace-b2-pair-5",
+        "a": {
+          "fr": "délégation",
+          "l2": "délégation",
+          "en": "delegation",
+          "gloss": {
+            "en": "delegation",
+            "es": "delegación",
+            "ru": "делегация"
+          }
+        },
+        "b": {
+          "fr": "surcharge",
+          "l2": "surcharge",
+          "en": "workload overload",
+          "gloss": {
+            "en": "workload overload",
+            "es": "sobrecarga de carga de trabajo",
+            "ru": "перегрузка рабочей нагрузкой"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-workplace-b2-gap-1",
+        "fr": "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+        "l2": "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+        "speak": "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+        "blank": "hiérarchie",
+        "en": "hierarchy",
+        "gloss": {
+          "en": "hierarchy",
+          "es": "jerarquía",
+          "ru": "иерархия"
+        }
+      },
+      {
+        "id": "remote-workplace-b2-gap-2",
+        "fr": "Le télétravail a redéfini la frontière entre vie privée et professionnelle.",
+        "l2": "Le télétravail a redéfini la frontière entre vie privée et professionnelle.",
+        "speak": "Le télétravail a redéfini la frontière entre vie privée et professionnelle.",
+        "blank": "télétravail",
+        "en": "remote work",
+        "gloss": {
+          "en": "remote work",
+          "es": "trabajo remoto",
+          "ru": "удаленная работа"
+        }
+      },
+      {
+        "id": "remote-workplace-b2-gap-3",
+        "fr": "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées.",
+        "l2": "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées.",
+        "speak": "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées.",
+        "blank": "évaluation",
+        "en": "performance review",
+        "gloss": {
+          "en": "performance review",
+          "es": "revisión de desempeño",
+          "ru": "обзор производительности"
+        }
+      },
+      {
+        "id": "remote-workplace-b2-gap-4",
+        "fr": "Elle a réorienté sa carrière afin d’obtenir davantage de responsabilités.",
+        "l2": "Elle a réorienté sa carrière afin d’obtenir davantage de responsabilités.",
+        "speak": "Elle a réorienté sa carrière afin d’obtenir davantage de responsabilités.",
+        "blank": "carrière",
+        "en": "career",
+        "gloss": {
+          "en": "career",
+          "es": "carrera",
+          "ru": "карьера"
+        }
+      },
+      {
+        "id": "remote-workplace-b2-gap-5",
+        "fr": "Il aurait obtenu la promotion s’il avait mieux défendu son bilan.",
+        "l2": "Il aurait obtenu la promotion s’il avait mieux défendu son bilan.",
+        "speak": "Il aurait obtenu la promotion s’il avait mieux défendu son bilan.",
+        "blank": "promotion",
+        "en": "promotion",
+        "gloss": {
+          "en": "promotion",
+          "es": "promoción",
+          "ru": "повышение"
+        }
+      },
+      {
+        "id": "remote-workplace-b2-gap-6",
+        "fr": "Mon supérieur hiérarchique exige un compte rendu après chaque réunion.",
+        "l2": "Mon supérieur hiérarchique exige un compte rendu après chaque réunion.",
+        "speak": "Mon supérieur hiérarchique exige un compte rendu après chaque réunion.",
+        "blank": "supérieur",
+        "en": "line manager",
+        "gloss": {
+          "en": "line manager",
+          "es": "gerente de línea",
+          "ru": "линейный менеджер"
+        }
+      },
+      {
+        "id": "remote-workplace-b2-gap-7",
+        "fr": "Nous n’atteindrons pas l’objectif trimestriel à moins de revoir les priorités.",
+        "l2": "Nous n’atteindrons pas l’objectif trimestriel à moins de revoir les priorités.",
+        "speak": "Nous n’atteindrons pas l’objectif trimestriel à moins de revoir les priorités.",
+        "blank": "objectif",
+        "en": "objective / goal",
+        "gloss": {
+          "en": "objective / goal",
+          "es": "objetivo / meta",
+          "ru": "цель / цель"
+        }
+      },
+      {
+        "id": "remote-workplace-b2-gap-8",
+        "fr": "La productivité a chuté, néanmoins la qualité du travail reste remarquable.",
+        "l2": "La productivité a chuté, néanmoins la qualité du travail reste remarquable.",
+        "speak": "La productivité a chuté, néanmoins la qualité du travail reste remarquable.",
+        "blank": "productivité",
+        "en": "productivity",
+        "gloss": {
+          "en": "productivity",
+          "es": "productividad",
+          "ru": "производительность"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-workplace-b2-ord-1",
+        "fr": "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+        "l2": "Bien que la hiérarchie soit claire, les équipes échangent sans formalité excessive.",
+        "en": "hierarchy",
+        "gloss": {
+          "en": "hierarchy",
+          "es": "jerarquía",
+          "ru": "иерархия"
+        },
+        "words": [
+          "Bien",
+          "que",
+          "la",
+          "hiérarchie",
+          "soit",
+          "claire,",
+          "les",
+          "équipes",
+          "échangent",
+          "sans",
+          "formalité",
+          "excessive."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-ord-2",
+        "fr": "Le télétravail a redéfini la frontière entre vie privée et professionnelle.",
+        "l2": "Le télétravail a redéfini la frontière entre vie privée et professionnelle.",
+        "en": "remote work",
+        "gloss": {
+          "en": "remote work",
+          "es": "trabajo remoto",
+          "ru": "удаленная работа"
+        },
+        "words": [
+          "Le",
+          "télétravail",
+          "a",
+          "redéfini",
+          "la",
+          "frontière",
+          "entre",
+          "vie",
+          "privée",
+          "et",
+          "professionnelle."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-ord-3",
+        "fr": "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées.",
+        "l2": "Son évaluation annuelle a mis en évidence des compétences encore sous-utilisées.",
+        "en": "performance review",
+        "gloss": {
+          "en": "performance review",
+          "es": "revisión de desempeño",
+          "ru": "обзор производительности"
+        },
+        "words": [
+          "Son",
+          "évaluation",
+          "annuelle",
+          "a",
+          "mis",
+          "en",
+          "évidence",
+          "des",
+          "compétences",
+          "encore",
+          "sous-utilisées."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-ord-4",
+        "fr": "Elle a réorienté sa carrière afin d’obtenir davantage de responsabilités.",
+        "l2": "Elle a réorienté sa carrière afin d’obtenir davantage de responsabilités.",
+        "en": "career",
+        "gloss": {
+          "en": "career",
+          "es": "carrera",
+          "ru": "карьера"
+        },
+        "words": [
+          "Elle",
+          "a",
+          "réorienté",
+          "sa",
+          "carrière",
+          "afin",
+          "d’obtenir",
+          "davantage",
+          "de",
+          "responsabilités."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-ord-5",
+        "fr": "Il aurait obtenu la promotion s’il avait mieux défendu son bilan.",
+        "l2": "Il aurait obtenu la promotion s’il avait mieux défendu son bilan.",
+        "en": "promotion",
+        "gloss": {
+          "en": "promotion",
+          "es": "promoción",
+          "ru": "повышение"
+        },
+        "words": [
+          "Il",
+          "aurait",
+          "obtenu",
+          "la",
+          "promotion",
+          "s’il",
+          "avait",
+          "mieux",
+          "défendu",
+          "son",
+          "bilan."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-ord-6",
+        "fr": "Mon supérieur hiérarchique exige un compte rendu après chaque réunion.",
+        "l2": "Mon supérieur hiérarchique exige un compte rendu après chaque réunion.",
+        "en": "line manager",
+        "gloss": {
+          "en": "line manager",
+          "es": "gerente de línea",
+          "ru": "линейный менеджер"
+        },
+        "words": [
+          "Mon",
+          "supérieur",
+          "hiérarchique",
+          "exige",
+          "un",
+          "compte",
+          "rendu",
+          "après",
+          "chaque",
+          "réunion."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-ord-7",
+        "fr": "Nous n’atteindrons pas l’objectif trimestriel à moins de revoir les priorités.",
+        "l2": "Nous n’atteindrons pas l’objectif trimestriel à moins de revoir les priorités.",
+        "en": "objective / goal",
+        "gloss": {
+          "en": "objective / goal",
+          "es": "objetivo / meta",
+          "ru": "цель / цель"
+        },
+        "words": [
+          "Nous",
+          "n’atteindrons",
+          "pas",
+          "l’objectif",
+          "trimestriel",
+          "à",
+          "moins",
+          "de",
+          "revoir",
+          "les",
+          "priorités."
+        ]
+      },
+      {
+        "id": "remote-workplace-b2-ord-8",
+        "fr": "La productivité a chuté, néanmoins la qualité du travail reste remarquable.",
+        "l2": "La productivité a chuté, néanmoins la qualité du travail reste remarquable.",
+        "en": "productivity",
+        "gloss": {
+          "en": "productivity",
+          "es": "productividad",
+          "ru": "производительность"
+        },
+        "words": [
+          "La",
+          "productivité",
+          "a",
+          "chuté,",
+          "néanmoins",
+          "la",
+          "qualité",
+          "du",
+          "travail",
+          "reste",
+          "remarquable."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-workplace-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "je.ʁaʁ.ʃi",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "hiérarchie",
+          "l2": "hiérarchie",
+          "en": "hierarchy",
+          "gloss": {
+            "en": "hierarchy",
+            "es": "jerarquía",
+            "ru": "иерархия"
+          },
+          "ipa": "je.ʁaʁ.ʃi"
+        },
+        {
+          "fr": "télétravail",
+          "l2": "télétravail",
+          "en": "remote work",
+          "gloss": {
+            "en": "remote work",
+            "es": "trabajo remoto",
+            "ru": "удаленная работа"
+          },
+          "ipa": "te.le.tʁa.vaj"
+        },
+        {
+          "fr": "évaluation",
+          "l2": "évaluation",
+          "en": "performance review",
+          "gloss": {
+            "en": "performance review",
+            "es": "revisión de desempeño",
+            "ru": "обзор производительности"
+          },
+          "ipa": "e.va.lɥa.sjɔ̃"
+        },
+        {
+          "fr": "carrière",
+          "l2": "carrière",
+          "en": "career",
+          "gloss": {
+            "en": "career",
+            "es": "carrera",
+            "ru": "карьера"
+          },
+          "ipa": "ka.ʁjɛʁ"
+        },
+        {
+          "fr": "promotion",
+          "l2": "promotion",
+          "en": "promotion",
+          "gloss": {
+            "en": "promotion",
+            "es": "promoción",
+            "ru": "повышение"
+          },
+          "ipa": "pʁɔ.mɔ.sjɔ̃"
+        }
+      ]
+    }
+  ]
 }

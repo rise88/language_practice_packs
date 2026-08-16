@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "debate-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "afin que",
             "toutefois",
             "dont"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Certainly the objection is serious; ___ it does not ruin the thesis.",
+            "es": "Completo: Ciertamente la objeción es seria; ___ no arruina la tesis.",
+            "ru": "Полный: Конечно, возражение серьезное; ___ это не портит диссертацию."
+          },
+          "why": {
+            "fr": "Réponse : « toutefois ».",
+            "en": "Answer: “toutefois”.",
+            "es": "Respuesta: « toutefois ».",
+            "ru": "Ответ: « toutefois »."
+          }
         },
         {
           "id": "remote-debate-gq-2",
@@ -537,7 +548,18 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Although the analogy ___ attractive, the situations are not comparable.",
+            "es": "Completo: Aunque la analogía ___ es atractiva, las situaciones no son comparables.",
+            "ru": "Полный: Хотя аналогия ___ привлекательна, ситуации несопоставимы."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-debate-gq-3",
@@ -547,13 +569,25 @@
             "Bien que",
             "Même si",
             "Afin que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: ___ we disagree, we can clarify the issue.",
+            "es": "Completo: ___ no estamos de acuerdo, podemos aclarar el tema.",
+            "ru": "Заполнено: ___ мы не согласны, можем уточнить вопрос."
+          },
+          "why": {
+            "fr": "Réponse : « Même si ».",
+            "en": "Answer: “Même si”.",
+            "es": "Respuesta: « Même si ».",
+            "ru": "Ответ: « Même si »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Concession: certes, bien que, toutefois.",
         "es": "Útil cuando necesitas solicitar: Concesión: certes, bien que, toutefois.",
-        "ru": "Полезно, когда вам нужно подать заявку: Концессия: certes, bien que, toutefois."
+        "ru": "Полезно, когда вам нужно подать заявку: Концессия: certes, bien que, toutefois.",
+        "fr": "Utile pour appliquer : La concession : certes, bien que, toutefois."
       }
     },
     {
@@ -601,7 +635,18 @@
             "peut",
             "pourrait",
             "pourra"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: We ___ object that rhetoric trumps evidence.",
+            "es": "Completo: Nosotros ___ objetamos que la retórica triunfa sobre la evidencia.",
+            "ru": "Завершено: Мы ___ возражаем против того, чтобы риторика превосходила доказательства."
+          },
+          "why": {
+            "fr": "Réponse : « pourrait ».",
+            "en": "Answer: “pourrait”.",
+            "es": "Respuesta: « pourrait ».",
+            "ru": "Ответ: « pourrait »."
+          }
         },
         {
           "id": "remote-debate-gq-5",
@@ -611,13 +656,25 @@
             "avance",
             "avancerait",
             "a avancé"
-          ]
+          ],
+          "gloss": {
+            "en": "Complète : Si l’on concédait ce point, le débat ___ .",
+            "es": "Completo: Si concedemos este punto, el debate ___ .",
+            "ru": "Завершено: Если мы признаем этот пункт, дискуссия ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « avancerait ».",
+            "en": "Answer: “avancerait”.",
+            "es": "Respuesta: « avancerait ».",
+            "ru": "Ответ: « avancerait »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: The conditional for hedging.",
         "es": "Útil cuando necesitas aplicar: El condicional para cobertura.",
-        "ru": "Полезно, когда вам нужно применить: Условное хеджирование."
+        "ru": "Полезно, когда вам нужно применить: Условное хеджирование.",
+        "fr": "Utile pour appliquer : Le conditionnel pour atténuer."
       }
     }
   ],
@@ -853,6 +910,1069 @@
         },
         "l2": "Cette généralisation abusive repose sur trois cas, ce qui la rend fragile."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-debate-fren-1",
+        "fr": "thèse",
+        "en": "claim",
+        "gloss": {
+          "en": "claim",
+          "es": "afirmar",
+          "ru": "требовать"
+        },
+        "l2": "thèse"
+      },
+      {
+        "id": "remote-debate-fren-2",
+        "fr": "contre-argument",
+        "en": "counterargument",
+        "gloss": {
+          "en": "counterargument",
+          "es": "contraargumento",
+          "ru": "контраргумент"
+        },
+        "l2": "contre-argument"
+      },
+      {
+        "id": "remote-debate-fren-3",
+        "fr": "nuance",
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        },
+        "l2": "nuance"
+      },
+      {
+        "id": "remote-debate-fren-4",
+        "fr": "concession",
+        "en": "concession",
+        "gloss": {
+          "en": "concession",
+          "es": "concesión",
+          "ru": "уступка"
+        },
+        "l2": "concession"
+      },
+      {
+        "id": "remote-debate-fren-5",
+        "fr": "argument",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        },
+        "l2": "argument"
+      },
+      {
+        "id": "remote-debate-fren-6",
+        "fr": "assertion",
+        "en": "assertion",
+        "gloss": {
+          "en": "assertion",
+          "es": "afirmación",
+          "ru": "утверждение"
+        },
+        "l2": "assertion"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-debate-b2-enl2-1",
+        "fr": "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+        "l2": "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+        "en": "claim / thesis",
+        "gloss": {
+          "en": "claim / thesis",
+          "es": "reclamo / tesis",
+          "ru": "претензия / тезис"
+        },
+        "prompt": "claim / thesis",
+        "choices": [
+          "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+          "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+          "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-enl2-2",
+        "fr": "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+        "l2": "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+        "en": "counterargument",
+        "gloss": {
+          "en": "counterargument",
+          "es": "contraargumento",
+          "ru": "контраргумент"
+        },
+        "prompt": "counterargument",
+        "choices": [
+          "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+          "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+          "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-enl2-3",
+        "fr": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+        "l2": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        },
+        "prompt": "nuance",
+        "choices": [
+          "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+          "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+          "Le contre-argument le plus sérieux porte sur le manque de données comparables."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-enl2-4",
+        "fr": "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
+        "l2": "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
+        "en": "concession",
+        "gloss": {
+          "en": "concession",
+          "es": "concesión",
+          "ru": "уступка"
+        },
+        "prompt": "concession",
+        "choices": [
+          "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
+          "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+          "Le contre-argument le plus sérieux porte sur le manque de données comparables."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-enl2-5",
+        "fr": "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
+        "l2": "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        },
+        "prompt": "argument",
+        "choices": [
+          "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
+          "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+          "Le contre-argument le plus sérieux porte sur le manque de données comparables."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-enl2-6",
+        "fr": "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
+        "l2": "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
+        "en": "assertion",
+        "gloss": {
+          "en": "assertion",
+          "es": "afirmación",
+          "ru": "утверждение"
+        },
+        "prompt": "assertion",
+        "choices": [
+          "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
+          "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+          "Le contre-argument le plus sérieux porte sur le manque de données comparables."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-enl2-7",
+        "fr": "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
+        "l2": "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
+        "en": "rebuttal / refutation",
+        "gloss": {
+          "en": "rebuttal / refutation",
+          "es": "refutación / refutación",
+          "ru": "опровержение / опровержение"
+        },
+        "prompt": "rebuttal / refutation",
+        "choices": [
+          "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
+          "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+          "Le contre-argument le plus sérieux porte sur le manque de données comparables."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-enl2-8",
+        "fr": "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
+        "l2": "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
+        "en": "assumption / presupposition",
+        "gloss": {
+          "en": "assumption / presupposition",
+          "es": "suposición / presuposición",
+          "ru": "предположение/предпосылка"
+        },
+        "prompt": "assumption / presupposition",
+        "choices": [
+          "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
+          "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+          "Le contre-argument le plus sérieux porte sur le manque de données comparables."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-debate-b2-prm-1",
+        "en": "claim / thesis",
+        "gloss": {
+          "en": "claim / thesis",
+          "es": "reclamo / tesis",
+          "ru": "претензия / тезис"
+        },
+        "answers": [
+          "thèse",
+          "la thèse"
+        ],
+        "target": "la thèse"
+      },
+      {
+        "id": "remote-debate-b2-prm-2",
+        "en": "counterargument",
+        "gloss": {
+          "en": "counterargument",
+          "es": "contraargumento",
+          "ru": "контраргумент"
+        },
+        "answers": [
+          "contre-argument",
+          "le contre-argument"
+        ],
+        "target": "le contre-argument"
+      },
+      {
+        "id": "remote-debate-b2-prm-3",
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        },
+        "answers": [
+          "nuance",
+          "la nuance"
+        ],
+        "target": "la nuance"
+      },
+      {
+        "id": "remote-debate-b2-prm-4",
+        "en": "concession",
+        "gloss": {
+          "en": "concession",
+          "es": "concesión",
+          "ru": "уступка"
+        },
+        "answers": [
+          "concession",
+          "la concession"
+        ],
+        "target": "la concession"
+      },
+      {
+        "id": "remote-debate-b2-prm-5",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        },
+        "answers": [
+          "argument",
+          "l' argument"
+        ],
+        "target": "l' argument"
+      },
+      {
+        "id": "remote-debate-b2-prm-6",
+        "en": "assertion",
+        "gloss": {
+          "en": "assertion",
+          "es": "afirmación",
+          "ru": "утверждение"
+        },
+        "answers": [
+          "assertion",
+          "l' assertion"
+        ],
+        "target": "l' assertion"
+      },
+      {
+        "id": "remote-debate-b2-prm-7",
+        "en": "rebuttal / refutation",
+        "gloss": {
+          "en": "rebuttal / refutation",
+          "es": "refutación / refutación",
+          "ru": "опровержение / опровержение"
+        },
+        "answers": [
+          "réfutation",
+          "la réfutation"
+        ],
+        "target": "la réfutation"
+      },
+      {
+        "id": "remote-debate-b2-prm-8",
+        "en": "assumption / presupposition",
+        "gloss": {
+          "en": "assumption / presupposition",
+          "es": "suposición / presuposición",
+          "ru": "предположение/предпосылка"
+        },
+        "answers": [
+          "présupposé",
+          "le présupposé"
+        ],
+        "target": "le présupposé"
+      },
+      {
+        "id": "remote-debate-b2-prm-9",
+        "en": "analogy",
+        "gloss": {
+          "en": "analogy",
+          "es": "analogía",
+          "ru": "аналогия"
+        },
+        "answers": [
+          "analogie",
+          "l' analogie"
+        ],
+        "target": "l' analogie"
+      },
+      {
+        "id": "remote-debate-b2-prm-10",
+        "en": "rhetoric",
+        "gloss": {
+          "en": "rhetoric",
+          "es": "retórica",
+          "ru": "риторика"
+        },
+        "answers": [
+          "rhétorique",
+          "la rhétorique"
+        ],
+        "target": "la rhétorique"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-debate-b2-sign-1",
+        "fr": "thèse",
+        "l2": "thèse",
+        "en": "claim / thesis",
+        "gloss": {
+          "en": "claim / thesis",
+          "es": "reclamo / tesis",
+          "ru": "претензия / тезис"
+        },
+        "choices": [
+          "claim / thesis",
+          "counterargument",
+          "nuance"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-2",
+        "fr": "contre-argument",
+        "l2": "contre-argument",
+        "en": "counterargument",
+        "gloss": {
+          "en": "counterargument",
+          "es": "contraargumento",
+          "ru": "контраргумент"
+        },
+        "choices": [
+          "counterargument",
+          "claim / thesis",
+          "nuance"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-3",
+        "fr": "nuance",
+        "l2": "nuance",
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        },
+        "choices": [
+          "nuance",
+          "claim / thesis",
+          "counterargument"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-4",
+        "fr": "concession",
+        "l2": "concession",
+        "en": "concession",
+        "gloss": {
+          "en": "concession",
+          "es": "concesión",
+          "ru": "уступка"
+        },
+        "choices": [
+          "concession",
+          "claim / thesis",
+          "counterargument"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-5",
+        "fr": "argument",
+        "l2": "argument",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        },
+        "choices": [
+          "argument",
+          "claim / thesis",
+          "counterargument"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-6",
+        "fr": "assertion",
+        "l2": "assertion",
+        "en": "assertion",
+        "gloss": {
+          "en": "assertion",
+          "es": "afirmación",
+          "ru": "утверждение"
+        },
+        "choices": [
+          "assertion",
+          "claim / thesis",
+          "counterargument"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-7",
+        "fr": "réfutation",
+        "l2": "réfutation",
+        "en": "rebuttal / refutation",
+        "gloss": {
+          "en": "rebuttal / refutation",
+          "es": "refutación / refutación",
+          "ru": "опровержение / опровержение"
+        },
+        "choices": [
+          "rebuttal / refutation",
+          "claim / thesis",
+          "counterargument"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-8",
+        "fr": "présupposé",
+        "l2": "présupposé",
+        "en": "assumption / presupposition",
+        "gloss": {
+          "en": "assumption / presupposition",
+          "es": "suposición / presuposición",
+          "ru": "предположение/предпосылка"
+        },
+        "choices": [
+          "assumption / presupposition",
+          "claim / thesis",
+          "counterargument"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-9",
+        "fr": "analogie",
+        "l2": "analogie",
+        "en": "analogy",
+        "gloss": {
+          "en": "analogy",
+          "es": "analogía",
+          "ru": "аналогия"
+        },
+        "choices": [
+          "analogy",
+          "claim / thesis",
+          "counterargument"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-10",
+        "fr": "rhétorique",
+        "l2": "rhétorique",
+        "en": "rhetoric",
+        "gloss": {
+          "en": "rhetoric",
+          "es": "retórica",
+          "ru": "риторика"
+        },
+        "choices": [
+          "rhetoric",
+          "claim / thesis",
+          "counterargument"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-11",
+        "fr": "objection",
+        "l2": "objection",
+        "en": "objection",
+        "gloss": {
+          "en": "objection",
+          "es": "objeción",
+          "ru": "возражение"
+        },
+        "choices": [
+          "objection",
+          "claim / thesis",
+          "counterargument"
+        ]
+      },
+      {
+        "id": "remote-debate-b2-sign-12",
+        "fr": "synthèse",
+        "l2": "synthèse",
+        "en": "synthesis",
+        "gloss": {
+          "en": "synthesis",
+          "es": "síntesis",
+          "ru": "синтез"
+        },
+        "choices": [
+          "synthesis",
+          "claim / thesis",
+          "counterargument"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-debate-b2-pair-1",
+        "a": {
+          "fr": "thèse",
+          "l2": "thèse",
+          "en": "claim / thesis",
+          "gloss": {
+            "en": "claim / thesis",
+            "es": "reclamo / tesis",
+            "ru": "претензия / тезис"
+          }
+        },
+        "b": {
+          "fr": "contre-argument",
+          "l2": "contre-argument",
+          "en": "counterargument",
+          "gloss": {
+            "en": "counterargument",
+            "es": "contraargumento",
+            "ru": "контраргумент"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-debate-b2-pair-2",
+        "a": {
+          "fr": "nuance",
+          "l2": "nuance",
+          "en": "nuance",
+          "gloss": {
+            "en": "nuance",
+            "es": "matiz",
+            "ru": "нюанс"
+          }
+        },
+        "b": {
+          "fr": "concession",
+          "l2": "concession",
+          "en": "concession",
+          "gloss": {
+            "en": "concession",
+            "es": "concesión",
+            "ru": "уступка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-debate-b2-pair-3",
+        "a": {
+          "fr": "argument",
+          "l2": "argument",
+          "en": "argument",
+          "gloss": {
+            "en": "argument",
+            "es": "argumento",
+            "ru": "аргумент"
+          }
+        },
+        "b": {
+          "fr": "assertion",
+          "l2": "assertion",
+          "en": "assertion",
+          "gloss": {
+            "en": "assertion",
+            "es": "afirmación",
+            "ru": "утверждение"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-debate-b2-pair-4",
+        "a": {
+          "fr": "réfutation",
+          "l2": "réfutation",
+          "en": "rebuttal / refutation",
+          "gloss": {
+            "en": "rebuttal / refutation",
+            "es": "refutación / refutación",
+            "ru": "опровержение / опровержение"
+          }
+        },
+        "b": {
+          "fr": "présupposé",
+          "l2": "présupposé",
+          "en": "assumption / presupposition",
+          "gloss": {
+            "en": "assumption / presupposition",
+            "es": "suposición / presuposición",
+            "ru": "предположение/предпосылка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-debate-b2-pair-5",
+        "a": {
+          "fr": "analogie",
+          "l2": "analogie",
+          "en": "analogy",
+          "gloss": {
+            "en": "analogy",
+            "es": "analogía",
+            "ru": "аналогия"
+          }
+        },
+        "b": {
+          "fr": "rhétorique",
+          "l2": "rhétorique",
+          "en": "rhetoric",
+          "gloss": {
+            "en": "rhetoric",
+            "es": "retórica",
+            "ru": "риторика"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-debate-b2-gap-1",
+        "fr": "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+        "l2": "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+        "speak": "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+        "blank": "thèse",
+        "en": "claim / thesis",
+        "gloss": {
+          "en": "claim / thesis",
+          "es": "reclamo / tesis",
+          "ru": "претензия / тезис"
+        }
+      },
+      {
+        "id": "remote-debate-b2-gap-2",
+        "fr": "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+        "l2": "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+        "speak": "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+        "blank": "contre-argument",
+        "en": "counterargument",
+        "gloss": {
+          "en": "counterargument",
+          "es": "contraargumento",
+          "ru": "контраргумент"
+        }
+      },
+      {
+        "id": "remote-debate-b2-gap-3",
+        "fr": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+        "l2": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+        "speak": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+        "blank": "nuance",
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        }
+      },
+      {
+        "id": "remote-debate-b2-gap-4",
+        "fr": "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
+        "l2": "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
+        "speak": "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
+        "blank": "concession",
+        "en": "concession",
+        "gloss": {
+          "en": "concession",
+          "es": "concesión",
+          "ru": "уступка"
+        }
+      },
+      {
+        "id": "remote-debate-b2-gap-5",
+        "fr": "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
+        "l2": "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
+        "speak": "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
+        "blank": "argument",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        }
+      },
+      {
+        "id": "remote-debate-b2-gap-6",
+        "fr": "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
+        "l2": "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
+        "speak": "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
+        "blank": "assertion",
+        "en": "assertion",
+        "gloss": {
+          "en": "assertion",
+          "es": "afirmación",
+          "ru": "утверждение"
+        }
+      },
+      {
+        "id": "remote-debate-b2-gap-7",
+        "fr": "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
+        "l2": "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
+        "speak": "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
+        "blank": "réfutation",
+        "en": "rebuttal / refutation",
+        "gloss": {
+          "en": "rebuttal / refutation",
+          "es": "refutación / refutación",
+          "ru": "опровержение / опровержение"
+        }
+      },
+      {
+        "id": "remote-debate-b2-gap-8",
+        "fr": "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
+        "l2": "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
+        "speak": "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
+        "blank": "présupposé",
+        "en": "assumption / presupposition",
+        "gloss": {
+          "en": "assumption / presupposition",
+          "es": "suposición / presuposición",
+          "ru": "предположение/предпосылка"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-debate-b2-ord-1",
+        "fr": "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+        "l2": "Sa thèse est claire, toutefois les exemples avancés restent trop particuliers.",
+        "en": "claim / thesis",
+        "gloss": {
+          "en": "claim / thesis",
+          "es": "reclamo / tesis",
+          "ru": "претензия / тезис"
+        },
+        "words": [
+          "Sa",
+          "thèse",
+          "est",
+          "claire,",
+          "toutefois",
+          "les",
+          "exemples",
+          "avancés",
+          "restent",
+          "trop",
+          "particuliers."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-ord-2",
+        "fr": "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+        "l2": "Le contre-argument le plus sérieux porte sur le manque de données comparables.",
+        "en": "counterargument",
+        "gloss": {
+          "en": "counterargument",
+          "es": "contraargumento",
+          "ru": "контраргумент"
+        },
+        "words": [
+          "Le",
+          "contre-argument",
+          "le",
+          "plus",
+          "sérieux",
+          "porte",
+          "sur",
+          "le",
+          "manque",
+          "de",
+          "données",
+          "comparables."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-ord-3",
+        "fr": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+        "l2": "Une nuance bien placée n’affaiblit pas la thèse, elle la rend plus crédible.",
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        },
+        "words": [
+          "Une",
+          "nuance",
+          "bien",
+          "placée",
+          "n’affaiblit",
+          "pas",
+          "la",
+          "thèse,",
+          "elle",
+          "la",
+          "rend",
+          "plus",
+          "crédible."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-ord-4",
+        "fr": "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
+        "l2": "La concession (« certes… cependant ») désarme l’interlocuteur avant la réplique.",
+        "en": "concession",
+        "gloss": {
+          "en": "concession",
+          "es": "concesión",
+          "ru": "уступка"
+        },
+        "words": [
+          "La",
+          "concession",
+          "(«",
+          "certes…",
+          "cependant",
+          "»)",
+          "désarme",
+          "l’interlocuteur",
+          "avant",
+          "la",
+          "réplique."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-ord-5",
+        "fr": "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
+        "l2": "Un argument n’est pas une opinion : il s’appuie sur une raison que l’on peut discuter.",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        },
+        "words": [
+          "Un",
+          "argument",
+          "n’est",
+          "pas",
+          "une",
+          "opinion",
+          ":",
+          "il",
+          "s’appuie",
+          "sur",
+          "une",
+          "raison",
+          "que",
+          "l’on",
+          "peut",
+          "discuter."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-ord-6",
+        "fr": "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
+        "l2": "Cette assertion péremptoire aurait besoin d’être étayée par au moins une étude.",
+        "en": "assertion",
+        "gloss": {
+          "en": "assertion",
+          "es": "afirmación",
+          "ru": "утверждение"
+        },
+        "words": [
+          "Cette",
+          "assertion",
+          "péremptoire",
+          "aurait",
+          "besoin",
+          "d’être",
+          "étayée",
+          "par",
+          "au",
+          "moins",
+          "une",
+          "étude."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-ord-7",
+        "fr": "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
+        "l2": "La réfutation ne consiste pas à ridiculiser l’autre, mais à montrer où le raisonnement pèche.",
+        "en": "rebuttal / refutation",
+        "gloss": {
+          "en": "rebuttal / refutation",
+          "es": "refutación / refutación",
+          "ru": "опровержение / опровержение"
+        },
+        "words": [
+          "La",
+          "réfutation",
+          "ne",
+          "consiste",
+          "pas",
+          "à",
+          "ridiculiser",
+          "l’autre,",
+          "mais",
+          "à",
+          "montrer",
+          "où",
+          "le",
+          "raisonnement",
+          "pèche."
+        ]
+      },
+      {
+        "id": "remote-debate-b2-ord-8",
+        "fr": "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
+        "l2": "Le présupposé non dit (« tout le monde le sait ») mérite d’être mis au jour.",
+        "en": "assumption / presupposition",
+        "gloss": {
+          "en": "assumption / presupposition",
+          "es": "suposición / presuposición",
+          "ru": "предположение/предпосылка"
+        },
+        "words": [
+          "Le",
+          "présupposé",
+          "non",
+          "dit",
+          "(«",
+          "tout",
+          "le",
+          "monde",
+          "le",
+          "sait",
+          "»)",
+          "mérite",
+          "d’être",
+          "mis",
+          "au",
+          "jour."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-debate-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "tɛz",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "thèse",
+          "l2": "thèse",
+          "en": "claim / thesis",
+          "gloss": {
+            "en": "claim / thesis",
+            "es": "reclamo / tesis",
+            "ru": "претензия / тезис"
+          },
+          "ipa": "tɛz"
+        },
+        {
+          "fr": "contre-argument",
+          "l2": "contre-argument",
+          "en": "counterargument",
+          "gloss": {
+            "en": "counterargument",
+            "es": "contraargumento",
+            "ru": "контраргумент"
+          },
+          "ipa": "kɔ̃.tʁaʁ.ɡy.mɑ̃"
+        },
+        {
+          "fr": "nuance",
+          "l2": "nuance",
+          "en": "nuance",
+          "gloss": {
+            "en": "nuance",
+            "es": "matiz",
+            "ru": "нюанс"
+          },
+          "ipa": "nɥɑ̃s"
+        },
+        {
+          "fr": "concession",
+          "l2": "concession",
+          "en": "concession",
+          "gloss": {
+            "en": "concession",
+            "es": "concesión",
+            "ru": "уступка"
+          },
+          "ipa": "kɔ̃.sɛ.sjɔ̃"
+        },
+        {
+          "fr": "argument",
+          "l2": "argument",
+          "en": "argument",
+          "gloss": {
+            "en": "argument",
+            "es": "argumento",
+            "ru": "аргумент"
+          },
+          "ipa": "aʁ.ɡy.mɑ̃"
+        }
+      ]
+    }
+  ]
 }

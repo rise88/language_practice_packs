@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "weather-a1",
-  "version": 4,
+  "version": 5,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "Il",
             "Elle",
             "Ils"
-          ]
+          ],
+          "gloss": {
+            "en": "___ is cold in winter.",
+            "es": "___ hace frío en invierno.",
+            "ru": "___ холодно зимой."
+          },
+          "why": {
+            "fr": "Météo impersonnelle : « Il fait… ».",
+            "en": "Impersonal weather: Il fait…",
+            "es": "Clima impersonal: Il fait…",
+            "ru": "Безличная погода: Il fait…"
+          }
         },
         {
           "id": "remote-weather-gq-2",
@@ -537,7 +548,18 @@
             "fait",
             "y a",
             "pleut"
-          ]
+          ],
+          "gloss": {
+            "en": "There ___ sun today.",
+            "es": "Hoy ___ sol.",
+            "ru": "Сегодня ___ солнце."
+          },
+          "why": {
+            "fr": "Il y a + nom (du soleil).",
+            "en": "Il y a + noun (du soleil).",
+            "es": "Il y a + nombre (du soleil).",
+            "ru": "Il y a + существительное (du soleil)."
+          }
         },
         {
           "id": "remote-weather-gq-3",
@@ -547,13 +569,25 @@
             "fait",
             "neige",
             "pleut"
-          ]
+          ],
+          "gloss": {
+            "en": "It ___ this morning.",
+            "es": "___ esta mañana.",
+            "ru": "Сегодня утром ___."
+          },
+          "why": {
+            "fr": "Il pleut = it’s raining.",
+            "en": "Il pleut = it’s raining.",
+            "es": "Il pleut = está lloviendo.",
+            "ru": "Il pleut = идёт дождь."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Describing the weather.",
         "es": "Útil cuando necesitas aplicar: Describir el clima.",
-        "ru": "Полезно, когда нужно подать заявку: Описание погоды."
+        "ru": "Полезно, когда нужно подать заявку: Описание погоды.",
+        "fr": "Utile pour appliquer : Il fait / Il y a."
       }
     },
     {
@@ -606,7 +640,18 @@
             "en",
             "au",
             "à la"
-          ]
+          ],
+          "gloss": {
+            "en": "Flowers grow ___ spring.",
+            "es": "Las flores crecen ___ primavera.",
+            "ru": "Цветы растут ___ весной."
+          },
+          "why": {
+            "fr": "Au printemps (exception : au, pas en).",
+            "en": "Au printemps (exception: au, not en).",
+            "es": "Au printemps (excepción: au, no en).",
+            "ru": "Au printemps (исключение: au, не en)."
+          }
         },
         {
           "id": "remote-weather-gq-5",
@@ -616,13 +661,25 @@
             "en",
             "au",
             "à l’"
-          ]
+          ],
+          "gloss": {
+            "en": "It’s hot ___ summer.",
+            "es": "Hace calor ___ verano.",
+            "ru": "Жарко ___ летом."
+          },
+          "why": {
+            "fr": "En + saison (été, hiver, automne).",
+            "en": "En + season (été, hiver, automne).",
+            "es": "En + estación (été, hiver, automne).",
+            "ru": "En + время года (été, hiver, automne)."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Seasons with en.",
         "es": "Útil cuando necesitas aplicar: Temporadas con en.",
-        "ru": "Полезно, когда нужно подать заявку: Времена года с англ."
+        "ru": "Полезно, когда нужно подать заявку: Времена года с англ.",
+        "fr": "Utile pour appliquer : Les saisons avec en."
       }
     }
   ],
@@ -845,6 +902,1008 @@
         },
         "l2": "Mets ton manteau, il fait froid."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-weather-fren-1",
+        "fr": "soleil",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        },
+        "l2": "soleil"
+      },
+      {
+        "id": "remote-weather-fren-2",
+        "fr": "pluie",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        },
+        "l2": "pluie"
+      },
+      {
+        "id": "remote-weather-fren-3",
+        "fr": "neige",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        },
+        "l2": "neige"
+      },
+      {
+        "id": "remote-weather-fren-4",
+        "fr": "chaud",
+        "en": "hot",
+        "gloss": {
+          "en": "hot",
+          "es": "caliente",
+          "ru": "горячий"
+        },
+        "l2": "chaud"
+      },
+      {
+        "id": "remote-weather-fren-5",
+        "fr": "froid",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        },
+        "l2": "froid"
+      },
+      {
+        "id": "remote-weather-fren-6",
+        "fr": "parapluie",
+        "en": "umbrella",
+        "gloss": {
+          "en": "umbrella",
+          "es": "paraguas",
+          "ru": "зонтик"
+        },
+        "l2": "parapluie"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-weather-a1-enl2-1",
+        "fr": "Il y a du soleil aujourd’hui.",
+        "l2": "Il y a du soleil aujourd’hui.",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        },
+        "prompt": "sun",
+        "choices": [
+          "Il y a du soleil aujourd’hui.",
+          "La pluie tombe depuis ce matin.",
+          "Le ciel est couvert de nuages."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-enl2-2",
+        "fr": "La pluie tombe depuis ce matin.",
+        "l2": "La pluie tombe depuis ce matin.",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        },
+        "prompt": "rain",
+        "choices": [
+          "La pluie tombe depuis ce matin.",
+          "Il y a du soleil aujourd’hui.",
+          "Le ciel est couvert de nuages."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-enl2-3",
+        "fr": "Le ciel est couvert de nuages.",
+        "l2": "Le ciel est couvert de nuages.",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        },
+        "prompt": "cloud",
+        "choices": [
+          "Le ciel est couvert de nuages.",
+          "Il y a du soleil aujourd’hui.",
+          "La pluie tombe depuis ce matin."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-enl2-4",
+        "fr": "Il y a beaucoup de vent aujourd’hui.",
+        "l2": "Il y a beaucoup de vent aujourd’hui.",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        },
+        "prompt": "wind",
+        "choices": [
+          "Il y a beaucoup de vent aujourd’hui.",
+          "Il y a du soleil aujourd’hui.",
+          "La pluie tombe depuis ce matin."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-enl2-5",
+        "fr": "La neige recouvre les montagnes.",
+        "l2": "La neige recouvre les montagnes.",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        },
+        "prompt": "snow",
+        "choices": [
+          "La neige recouvre les montagnes.",
+          "Il y a du soleil aujourd’hui.",
+          "La pluie tombe depuis ce matin."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-enl2-6",
+        "fr": "Il fait chaud en été.",
+        "l2": "Il fait chaud en été.",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        },
+        "prompt": "hot / warm",
+        "choices": [
+          "Il fait chaud en été.",
+          "Il y a du soleil aujourd’hui.",
+          "La pluie tombe depuis ce matin."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-enl2-7",
+        "fr": "Il fait froid en hiver.",
+        "l2": "Il fait froid en hiver.",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        },
+        "prompt": "cold",
+        "choices": [
+          "Il fait froid en hiver.",
+          "Il y a du soleil aujourd’hui.",
+          "La pluie tombe depuis ce matin."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-enl2-8",
+        "fr": "Les fleurs poussent au printemps.",
+        "l2": "Les fleurs poussent au printemps.",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        },
+        "prompt": "spring",
+        "choices": [
+          "Les fleurs poussent au printemps.",
+          "Il y a du soleil aujourd’hui.",
+          "La pluie tombe depuis ce matin."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-weather-a1-prm-1",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        },
+        "answers": [
+          "soleil",
+          "le soleil"
+        ],
+        "target": "le soleil"
+      },
+      {
+        "id": "remote-weather-a1-prm-2",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        },
+        "answers": [
+          "pluie",
+          "la pluie"
+        ],
+        "target": "la pluie"
+      },
+      {
+        "id": "remote-weather-a1-prm-3",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        },
+        "answers": [
+          "nuage",
+          "le nuage"
+        ],
+        "target": "le nuage"
+      },
+      {
+        "id": "remote-weather-a1-prm-4",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        },
+        "answers": [
+          "vent",
+          "le vent"
+        ],
+        "target": "le vent"
+      },
+      {
+        "id": "remote-weather-a1-prm-5",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        },
+        "answers": [
+          "neige",
+          "la neige"
+        ],
+        "target": "la neige"
+      },
+      {
+        "id": "remote-weather-a1-prm-6",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        },
+        "answers": [
+          "chaud",
+          "le chaud"
+        ],
+        "target": "le chaud"
+      },
+      {
+        "id": "remote-weather-a1-prm-7",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        },
+        "answers": [
+          "froid",
+          "le froid"
+        ],
+        "target": "le froid"
+      },
+      {
+        "id": "remote-weather-a1-prm-8",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        },
+        "answers": [
+          "printemps",
+          "le printemps"
+        ],
+        "target": "le printemps"
+      },
+      {
+        "id": "remote-weather-a1-prm-9",
+        "en": "summer",
+        "gloss": {
+          "en": "summer",
+          "es": "verano",
+          "ru": "лето"
+        },
+        "answers": [
+          "été",
+          "la été"
+        ],
+        "target": "la été"
+      },
+      {
+        "id": "remote-weather-a1-prm-10",
+        "en": "autumn / fall",
+        "gloss": {
+          "en": "autumn / fall",
+          "es": "otoño / otoño",
+          "ru": "осень / осень"
+        },
+        "answers": [
+          "automne",
+          "la automne"
+        ],
+        "target": "la automne"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-weather-a1-sign-1",
+        "fr": "soleil",
+        "l2": "soleil",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        },
+        "choices": [
+          "sun",
+          "rain",
+          "cloud"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-2",
+        "fr": "pluie",
+        "l2": "pluie",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        },
+        "choices": [
+          "rain",
+          "sun",
+          "cloud"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-3",
+        "fr": "nuage",
+        "l2": "nuage",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        },
+        "choices": [
+          "cloud",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-4",
+        "fr": "vent",
+        "l2": "vent",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        },
+        "choices": [
+          "wind",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-5",
+        "fr": "neige",
+        "l2": "neige",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        },
+        "choices": [
+          "snow",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-6",
+        "fr": "chaud",
+        "l2": "chaud",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        },
+        "choices": [
+          "hot / warm",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-7",
+        "fr": "froid",
+        "l2": "froid",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        },
+        "choices": [
+          "cold",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-8",
+        "fr": "printemps",
+        "l2": "printemps",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        },
+        "choices": [
+          "spring",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-9",
+        "fr": "été",
+        "l2": "été",
+        "en": "summer",
+        "gloss": {
+          "en": "summer",
+          "es": "verano",
+          "ru": "лето"
+        },
+        "choices": [
+          "summer",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-10",
+        "fr": "automne",
+        "l2": "automne",
+        "en": "autumn / fall",
+        "gloss": {
+          "en": "autumn / fall",
+          "es": "otoño / otoño",
+          "ru": "осень / осень"
+        },
+        "choices": [
+          "autumn / fall",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-11",
+        "fr": "hiver",
+        "l2": "hiver",
+        "en": "winter",
+        "gloss": {
+          "en": "winter",
+          "es": "invierno",
+          "ru": "зима"
+        },
+        "choices": [
+          "winter",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-weather-a1-sign-12",
+        "fr": "ciel",
+        "l2": "ciel",
+        "en": "sky",
+        "gloss": {
+          "en": "sky",
+          "es": "cielo",
+          "ru": "небо"
+        },
+        "choices": [
+          "sky",
+          "sun",
+          "rain"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-weather-a1-pair-1",
+        "a": {
+          "fr": "soleil",
+          "l2": "soleil",
+          "en": "sun",
+          "gloss": {
+            "en": "sun",
+            "es": "sol",
+            "ru": "солнце"
+          }
+        },
+        "b": {
+          "fr": "pluie",
+          "l2": "pluie",
+          "en": "rain",
+          "gloss": {
+            "en": "rain",
+            "es": "lluvia",
+            "ru": "дождь"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-weather-a1-pair-2",
+        "a": {
+          "fr": "nuage",
+          "l2": "nuage",
+          "en": "cloud",
+          "gloss": {
+            "en": "cloud",
+            "es": "nube",
+            "ru": "облако"
+          }
+        },
+        "b": {
+          "fr": "vent",
+          "l2": "vent",
+          "en": "wind",
+          "gloss": {
+            "en": "wind",
+            "es": "viento",
+            "ru": "ветер"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-weather-a1-pair-3",
+        "a": {
+          "fr": "neige",
+          "l2": "neige",
+          "en": "snow",
+          "gloss": {
+            "en": "snow",
+            "es": "nieve",
+            "ru": "снег"
+          }
+        },
+        "b": {
+          "fr": "chaud",
+          "l2": "chaud",
+          "en": "hot / warm",
+          "gloss": {
+            "en": "hot / warm",
+            "es": "caliente / tibio",
+            "ru": "горячий/теплый"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-weather-a1-pair-4",
+        "a": {
+          "fr": "froid",
+          "l2": "froid",
+          "en": "cold",
+          "gloss": {
+            "en": "cold",
+            "es": "frío",
+            "ru": "холодный"
+          }
+        },
+        "b": {
+          "fr": "printemps",
+          "l2": "printemps",
+          "en": "spring",
+          "gloss": {
+            "en": "spring",
+            "es": "primavera",
+            "ru": "весна"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-weather-a1-pair-5",
+        "a": {
+          "fr": "été",
+          "l2": "été",
+          "en": "summer",
+          "gloss": {
+            "en": "summer",
+            "es": "verano",
+            "ru": "лето"
+          }
+        },
+        "b": {
+          "fr": "automne",
+          "l2": "automne",
+          "en": "autumn / fall",
+          "gloss": {
+            "en": "autumn / fall",
+            "es": "otoño / otoño",
+            "ru": "осень / осень"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-weather-a1-gap-1",
+        "fr": "Il y a du soleil aujourd’hui.",
+        "l2": "Il y a du soleil aujourd’hui.",
+        "speak": "Il y a du soleil aujourd’hui.",
+        "blank": "soleil",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        }
+      },
+      {
+        "id": "remote-weather-a1-gap-2",
+        "fr": "La pluie tombe depuis ce matin.",
+        "l2": "La pluie tombe depuis ce matin.",
+        "speak": "La pluie tombe depuis ce matin.",
+        "blank": "pluie",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        }
+      },
+      {
+        "id": "remote-weather-a1-gap-3",
+        "fr": "Le ciel est couvert de nuages.",
+        "l2": "Le ciel est couvert de nuages.",
+        "speak": "Le ciel est couvert de nuages.",
+        "blank": "nuage",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        }
+      },
+      {
+        "id": "remote-weather-a1-gap-4",
+        "fr": "Il y a beaucoup de vent aujourd’hui.",
+        "l2": "Il y a beaucoup de vent aujourd’hui.",
+        "speak": "Il y a beaucoup de vent aujourd’hui.",
+        "blank": "vent",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        }
+      },
+      {
+        "id": "remote-weather-a1-gap-5",
+        "fr": "La neige recouvre les montagnes.",
+        "l2": "La neige recouvre les montagnes.",
+        "speak": "La neige recouvre les montagnes.",
+        "blank": "neige",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        }
+      },
+      {
+        "id": "remote-weather-a1-gap-6",
+        "fr": "Il fait chaud en été.",
+        "l2": "Il fait chaud en été.",
+        "speak": "Il fait chaud en été.",
+        "blank": "chaud",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        }
+      },
+      {
+        "id": "remote-weather-a1-gap-7",
+        "fr": "Il fait froid en hiver.",
+        "l2": "Il fait froid en hiver.",
+        "speak": "Il fait froid en hiver.",
+        "blank": "froid",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        }
+      },
+      {
+        "id": "remote-weather-a1-gap-8",
+        "fr": "Les fleurs poussent au printemps.",
+        "l2": "Les fleurs poussent au printemps.",
+        "speak": "Les fleurs poussent au printemps.",
+        "blank": "printemps",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-weather-a1-ord-1",
+        "fr": "Il y a du soleil aujourd’hui.",
+        "l2": "Il y a du soleil aujourd’hui.",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        },
+        "words": [
+          "Il",
+          "y",
+          "a",
+          "du",
+          "soleil",
+          "aujourd’hui."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-ord-2",
+        "fr": "La pluie tombe depuis ce matin.",
+        "l2": "La pluie tombe depuis ce matin.",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        },
+        "words": [
+          "La",
+          "pluie",
+          "tombe",
+          "depuis",
+          "ce",
+          "matin."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-ord-3",
+        "fr": "Le ciel est couvert de nuages.",
+        "l2": "Le ciel est couvert de nuages.",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        },
+        "words": [
+          "Le",
+          "ciel",
+          "est",
+          "couvert",
+          "de",
+          "nuages."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-ord-4",
+        "fr": "Il y a beaucoup de vent aujourd’hui.",
+        "l2": "Il y a beaucoup de vent aujourd’hui.",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        },
+        "words": [
+          "Il",
+          "y",
+          "a",
+          "beaucoup",
+          "de",
+          "vent",
+          "aujourd’hui."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-ord-5",
+        "fr": "La neige recouvre les montagnes.",
+        "l2": "La neige recouvre les montagnes.",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        },
+        "words": [
+          "La",
+          "neige",
+          "recouvre",
+          "les",
+          "montagnes."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-ord-6",
+        "fr": "Il fait chaud en été.",
+        "l2": "Il fait chaud en été.",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        },
+        "words": [
+          "Il",
+          "fait",
+          "chaud",
+          "en",
+          "été."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-ord-7",
+        "fr": "Il fait froid en hiver.",
+        "l2": "Il fait froid en hiver.",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        },
+        "words": [
+          "Il",
+          "fait",
+          "froid",
+          "en",
+          "hiver."
+        ]
+      },
+      {
+        "id": "remote-weather-a1-ord-8",
+        "fr": "Les fleurs poussent au printemps.",
+        "l2": "Les fleurs poussent au printemps.",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        },
+        "words": [
+          "Les",
+          "fleurs",
+          "poussent",
+          "au",
+          "printemps."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-weather-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "sɔ.lɛj",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "soleil",
+          "l2": "soleil",
+          "en": "sun",
+          "gloss": {
+            "en": "sun",
+            "es": "sol",
+            "ru": "солнце"
+          },
+          "ipa": "sɔ.lɛj"
+        },
+        {
+          "fr": "pluie",
+          "l2": "pluie",
+          "en": "rain",
+          "gloss": {
+            "en": "rain",
+            "es": "lluvia",
+            "ru": "дождь"
+          },
+          "ipa": "plɥi"
+        },
+        {
+          "fr": "nuage",
+          "l2": "nuage",
+          "en": "cloud",
+          "gloss": {
+            "en": "cloud",
+            "es": "nube",
+            "ru": "облако"
+          },
+          "ipa": "nɥaʒ"
+        },
+        {
+          "fr": "vent",
+          "l2": "vent",
+          "en": "wind",
+          "gloss": {
+            "en": "wind",
+            "es": "viento",
+            "ru": "ветер"
+          },
+          "ipa": "vɑ̃"
+        },
+        {
+          "fr": "neige",
+          "l2": "neige",
+          "en": "snow",
+          "gloss": {
+            "en": "snow",
+            "es": "nieve",
+            "ru": "снег"
+          },
+          "ipa": "nɛʒ"
+        }
+      ]
+    }
+  ]
 }

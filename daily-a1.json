@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "daily-a1",
-  "version": 4,
+  "version": 5,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "me lève",
             "lève",
             "se lève"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ at seven.",
+            "es": "Yo ___ a las siete.",
+            "ru": "Я ___ в семь."
+          },
+          "why": {
+            "fr": "Je + se lever → « me lève ».",
+            "en": "Je + se lever → me lève.",
+            "es": "Je + se lever → me lève.",
+            "ru": "Je + se lever → me lève."
+          }
         },
         {
           "id": "remote-daily-gq-2",
@@ -537,7 +548,18 @@
             "couche",
             "se couche",
             "me couche"
-          ]
+          ],
+          "gloss": {
+            "en": "She ___ early.",
+            "es": "Ella ___ temprano.",
+            "ru": "Она ___ рано."
+          },
+          "why": {
+            "fr": "Elle + se coucher → « se couche ».",
+            "en": "Elle + se coucher → se couche.",
+            "es": "Elle + se coucher → se couche.",
+            "ru": "Elle + se coucher → se couche."
+          }
         },
         {
           "id": "remote-daily-gq-3",
@@ -547,13 +569,25 @@
             "nous levons",
             "se levons",
             "levons"
-          ]
+          ],
+          "gloss": {
+            "en": "We ___ at six.",
+            "es": "Nosotros ___ a las seis.",
+            "ru": "Мы ___ в шесть."
+          },
+          "why": {
+            "fr": "Nous + se lever → « nous levons ».",
+            "en": "Nous + se lever → nous levons.",
+            "es": "Nous + se lever → nous levons.",
+            "ru": "Nous + se lever → nous levons."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Reflexive verbs in daily life.",
         "es": "Útil cuando necesitas aplicar: Verbos reflexivos en la vida diaria.",
-        "ru": "Полезно, когда нужно применить: Возвратные глаголы в повседневной жизни."
+        "ru": "Полезно, когда нужно применить: Возвратные глаголы в повседневной жизни.",
+        "fr": "Utile pour appliquer : Les verbes pronominaux du quotidien."
       }
     },
     {
@@ -606,7 +640,18 @@
             "Quelle",
             "À quelle",
             "Quand"
-          ]
+          ],
+          "gloss": {
+            "en": "___ time do you get up?",
+            "es": "¿___ hora te levantas?",
+            "ru": "___ часу ты встаёшь?"
+          },
+          "why": {
+            "fr": "À quelle heure… ?",
+            "en": "À quelle heure… ?",
+            "es": "À quelle heure… ?",
+            "ru": "À quelle heure… ?"
+          }
         },
         {
           "id": "remote-daily-gq-5",
@@ -616,7 +661,18 @@
             "à",
             "de",
             "en"
-          ]
+          ],
+          "gloss": {
+            "en": "I have dinner ___ seven p.m.",
+            "es": "Ceno ___ las diecinueve.",
+            "ru": "Я ужинаю ___ девятнадцати."
+          },
+          "why": {
+            "fr": "À + heure exacte.",
+            "en": "À + exact clock time.",
+            "es": "À + hora exacta.",
+            "ru": "À + точное время."
+          }
         },
         {
           "id": "remote-daily-gq-6",
@@ -626,13 +682,25 @@
             "dans",
             "vers",
             "pour"
-          ]
+          ],
+          "gloss": {
+            "en": "I get up ___ seven.",
+            "es": "Me levanto ___ las siete.",
+            "ru": "Я встаю ___ семи."
+          },
+          "why": {
+            "fr": "Vers = around / about (approximate time).",
+            "en": "Vers = around / about.",
+            "es": "Vers = hacia / alrededor de.",
+            "ru": "Vers = около."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Asking what time.",
         "es": "Útil cuando necesitas aplicar: Preguntar a qué hora.",
-        "ru": "Полезно, когда вам нужно подать заявку: Спросить, в какое время."
+        "ru": "Полезно, когда вам нужно подать заявку: Спросить, в какое время.",
+        "fr": "Utile pour appliquer : À quelle heure… ?."
       }
     }
   ],
@@ -855,6 +923,1013 @@
         },
         "l2": "On prend une pause à dix heures."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-daily-fren-1",
+        "fr": "réveil",
+        "en": "alarm clock",
+        "gloss": {
+          "en": "alarm clock",
+          "es": "despertador",
+          "ru": "будильник"
+        },
+        "l2": "réveil"
+      },
+      {
+        "id": "remote-daily-fren-2",
+        "fr": "douche",
+        "en": "shower",
+        "gloss": {
+          "en": "shower",
+          "es": "ducha",
+          "ru": "душ"
+        },
+        "l2": "douche"
+      },
+      {
+        "id": "remote-daily-fren-3",
+        "fr": "petit-déjeuner",
+        "en": "breakfast",
+        "gloss": {
+          "en": "breakfast",
+          "es": "desayuno",
+          "ru": "завтрак"
+        },
+        "l2": "petit-déjeuner"
+      },
+      {
+        "id": "remote-daily-fren-4",
+        "fr": "brosse",
+        "en": "brush",
+        "gloss": {
+          "en": "brush",
+          "es": "cepillar",
+          "ru": "щетка"
+        },
+        "l2": "brosse"
+      },
+      {
+        "id": "remote-daily-fren-5",
+        "fr": "savon",
+        "en": "soap",
+        "gloss": {
+          "en": "soap",
+          "es": "jabón",
+          "ru": "мыло"
+        },
+        "l2": "savon"
+      },
+      {
+        "id": "remote-daily-fren-6",
+        "fr": "serviette",
+        "en": "towel",
+        "gloss": {
+          "en": "towel",
+          "es": "toalla",
+          "ru": "полотенце"
+        },
+        "l2": "serviette"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-daily-a1-enl2-1",
+        "fr": "Le réveil sonne à sept heures.",
+        "l2": "Le réveil sonne à sept heures.",
+        "en": "alarm clock",
+        "gloss": {
+          "en": "alarm clock",
+          "es": "despertador",
+          "ru": "будильник"
+        },
+        "prompt": "alarm clock",
+        "choices": [
+          "Le réveil sonne à sept heures.",
+          "Je prends une douche le matin.",
+          "Le petit-déjeuner est à huit heures."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-enl2-2",
+        "fr": "Je prends une douche le matin.",
+        "l2": "Je prends une douche le matin.",
+        "en": "shower",
+        "gloss": {
+          "en": "shower",
+          "es": "ducha",
+          "ru": "душ"
+        },
+        "prompt": "shower",
+        "choices": [
+          "Je prends une douche le matin.",
+          "Le réveil sonne à sept heures.",
+          "Le petit-déjeuner est à huit heures."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-enl2-3",
+        "fr": "Le petit-déjeuner est à huit heures.",
+        "l2": "Le petit-déjeuner est à huit heures.",
+        "en": "breakfast",
+        "gloss": {
+          "en": "breakfast",
+          "es": "desayuno",
+          "ru": "завтрак"
+        },
+        "prompt": "breakfast",
+        "choices": [
+          "Le petit-déjeuner est à huit heures.",
+          "Le réveil sonne à sept heures.",
+          "Je prends une douche le matin."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-enl2-4",
+        "fr": "Je prends ma brosse à dents.",
+        "l2": "Je prends ma brosse à dents.",
+        "en": "brush",
+        "gloss": {
+          "en": "brush",
+          "es": "cepillar",
+          "ru": "щетка"
+        },
+        "prompt": "brush",
+        "choices": [
+          "Je prends ma brosse à dents.",
+          "Le réveil sonne à sept heures.",
+          "Je prends une douche le matin."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-enl2-5",
+        "fr": "Le savon est dans la salle de bain.",
+        "l2": "Le savon est dans la salle de bain.",
+        "en": "soap",
+        "gloss": {
+          "en": "soap",
+          "es": "jabón",
+          "ru": "мыло"
+        },
+        "prompt": "soap",
+        "choices": [
+          "Le savon est dans la salle de bain.",
+          "Le réveil sonne à sept heures.",
+          "Je prends une douche le matin."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-enl2-6",
+        "fr": "Passe-moi une serviette, s’il te plaît.",
+        "l2": "Passe-moi une serviette, s’il te plaît.",
+        "en": "towel",
+        "gloss": {
+          "en": "towel",
+          "es": "toalla",
+          "ru": "полотенце"
+        },
+        "prompt": "towel",
+        "choices": [
+          "Passe-moi une serviette, s’il te plaît.",
+          "Le réveil sonne à sept heures.",
+          "Je prends une douche le matin."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-enl2-7",
+        "fr": "On prend une pause à dix heures.",
+        "l2": "On prend une pause à dix heures.",
+        "en": "break",
+        "gloss": {
+          "en": "break",
+          "es": "romper",
+          "ru": "перерыв"
+        },
+        "prompt": "break",
+        "choices": [
+          "On prend une pause à dix heures.",
+          "Le réveil sonne à sept heures.",
+          "Je prends une douche le matin."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-enl2-8",
+        "fr": "Le déjeuner est à midi.",
+        "l2": "Le déjeuner est à midi.",
+        "en": "lunch",
+        "gloss": {
+          "en": "lunch",
+          "es": "almuerzo",
+          "ru": "обед"
+        },
+        "prompt": "lunch",
+        "choices": [
+          "Le déjeuner est à midi.",
+          "Le réveil sonne à sept heures.",
+          "Je prends une douche le matin."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-daily-a1-prm-1",
+        "en": "alarm clock",
+        "gloss": {
+          "en": "alarm clock",
+          "es": "despertador",
+          "ru": "будильник"
+        },
+        "answers": [
+          "réveil",
+          "le réveil"
+        ],
+        "target": "le réveil"
+      },
+      {
+        "id": "remote-daily-a1-prm-2",
+        "en": "shower",
+        "gloss": {
+          "en": "shower",
+          "es": "ducha",
+          "ru": "душ"
+        },
+        "answers": [
+          "douche",
+          "la douche"
+        ],
+        "target": "la douche"
+      },
+      {
+        "id": "remote-daily-a1-prm-3",
+        "en": "breakfast",
+        "gloss": {
+          "en": "breakfast",
+          "es": "desayuno",
+          "ru": "завтрак"
+        },
+        "answers": [
+          "petit-déjeuner",
+          "le petit-déjeuner"
+        ],
+        "target": "le petit-déjeuner"
+      },
+      {
+        "id": "remote-daily-a1-prm-4",
+        "en": "brush",
+        "gloss": {
+          "en": "brush",
+          "es": "cepillar",
+          "ru": "щетка"
+        },
+        "answers": [
+          "brosse",
+          "la brosse"
+        ],
+        "target": "la brosse"
+      },
+      {
+        "id": "remote-daily-a1-prm-5",
+        "en": "soap",
+        "gloss": {
+          "en": "soap",
+          "es": "jabón",
+          "ru": "мыло"
+        },
+        "answers": [
+          "savon",
+          "le savon"
+        ],
+        "target": "le savon"
+      },
+      {
+        "id": "remote-daily-a1-prm-6",
+        "en": "towel",
+        "gloss": {
+          "en": "towel",
+          "es": "toalla",
+          "ru": "полотенце"
+        },
+        "answers": [
+          "serviette",
+          "la serviette"
+        ],
+        "target": "la serviette"
+      },
+      {
+        "id": "remote-daily-a1-prm-7",
+        "en": "break",
+        "gloss": {
+          "en": "break",
+          "es": "romper",
+          "ru": "перерыв"
+        },
+        "answers": [
+          "pause",
+          "la pause"
+        ],
+        "target": "la pause"
+      },
+      {
+        "id": "remote-daily-a1-prm-8",
+        "en": "lunch",
+        "gloss": {
+          "en": "lunch",
+          "es": "almuerzo",
+          "ru": "обед"
+        },
+        "answers": [
+          "déjeuner",
+          "le déjeuner"
+        ],
+        "target": "le déjeuner"
+      },
+      {
+        "id": "remote-daily-a1-prm-9",
+        "en": "dinner",
+        "gloss": {
+          "en": "dinner",
+          "es": "cena",
+          "ru": "ужин"
+        },
+        "answers": [
+          "dîner",
+          "le dîner"
+        ],
+        "target": "le dîner"
+      },
+      {
+        "id": "remote-daily-a1-prm-10",
+        "en": "bed",
+        "gloss": {
+          "en": "bed",
+          "es": "cama",
+          "ru": "кровать"
+        },
+        "answers": [
+          "lit",
+          "le lit"
+        ],
+        "target": "le lit"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-daily-a1-sign-1",
+        "fr": "réveil",
+        "l2": "réveil",
+        "en": "alarm clock",
+        "gloss": {
+          "en": "alarm clock",
+          "es": "despertador",
+          "ru": "будильник"
+        },
+        "choices": [
+          "alarm clock",
+          "shower",
+          "breakfast"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-2",
+        "fr": "douche",
+        "l2": "douche",
+        "en": "shower",
+        "gloss": {
+          "en": "shower",
+          "es": "ducha",
+          "ru": "душ"
+        },
+        "choices": [
+          "shower",
+          "alarm clock",
+          "breakfast"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-3",
+        "fr": "petit-déjeuner",
+        "l2": "petit-déjeuner",
+        "en": "breakfast",
+        "gloss": {
+          "en": "breakfast",
+          "es": "desayuno",
+          "ru": "завтрак"
+        },
+        "choices": [
+          "breakfast",
+          "alarm clock",
+          "shower"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-4",
+        "fr": "brosse",
+        "l2": "brosse",
+        "en": "brush",
+        "gloss": {
+          "en": "brush",
+          "es": "cepillar",
+          "ru": "щетка"
+        },
+        "choices": [
+          "brush",
+          "alarm clock",
+          "shower"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-5",
+        "fr": "savon",
+        "l2": "savon",
+        "en": "soap",
+        "gloss": {
+          "en": "soap",
+          "es": "jabón",
+          "ru": "мыло"
+        },
+        "choices": [
+          "soap",
+          "alarm clock",
+          "shower"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-6",
+        "fr": "serviette",
+        "l2": "serviette",
+        "en": "towel",
+        "gloss": {
+          "en": "towel",
+          "es": "toalla",
+          "ru": "полотенце"
+        },
+        "choices": [
+          "towel",
+          "alarm clock",
+          "shower"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-7",
+        "fr": "pause",
+        "l2": "pause",
+        "en": "break",
+        "gloss": {
+          "en": "break",
+          "es": "romper",
+          "ru": "перерыв"
+        },
+        "choices": [
+          "break",
+          "alarm clock",
+          "shower"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-8",
+        "fr": "déjeuner",
+        "l2": "déjeuner",
+        "en": "lunch",
+        "gloss": {
+          "en": "lunch",
+          "es": "almuerzo",
+          "ru": "обед"
+        },
+        "choices": [
+          "lunch",
+          "alarm clock",
+          "shower"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-9",
+        "fr": "dîner",
+        "l2": "dîner",
+        "en": "dinner",
+        "gloss": {
+          "en": "dinner",
+          "es": "cena",
+          "ru": "ужин"
+        },
+        "choices": [
+          "dinner",
+          "alarm clock",
+          "shower"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-10",
+        "fr": "lit",
+        "l2": "lit",
+        "en": "bed",
+        "gloss": {
+          "en": "bed",
+          "es": "cama",
+          "ru": "кровать"
+        },
+        "choices": [
+          "bed",
+          "alarm clock",
+          "shower"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-11",
+        "fr": "sommeil",
+        "l2": "sommeil",
+        "en": "sleep",
+        "gloss": {
+          "en": "sleep",
+          "es": "dormir",
+          "ru": "спать"
+        },
+        "choices": [
+          "sleep",
+          "alarm clock",
+          "shower"
+        ]
+      },
+      {
+        "id": "remote-daily-a1-sign-12",
+        "fr": "journée",
+        "l2": "journée",
+        "en": "day (daytime)",
+        "gloss": {
+          "en": "day (daytime)",
+          "es": "día (durante el día)",
+          "ru": "день (дневное время)"
+        },
+        "choices": [
+          "day (daytime)",
+          "alarm clock",
+          "shower"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-daily-a1-pair-1",
+        "a": {
+          "fr": "réveil",
+          "l2": "réveil",
+          "en": "alarm clock",
+          "gloss": {
+            "en": "alarm clock",
+            "es": "despertador",
+            "ru": "будильник"
+          }
+        },
+        "b": {
+          "fr": "douche",
+          "l2": "douche",
+          "en": "shower",
+          "gloss": {
+            "en": "shower",
+            "es": "ducha",
+            "ru": "душ"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-daily-a1-pair-2",
+        "a": {
+          "fr": "petit-déjeuner",
+          "l2": "petit-déjeuner",
+          "en": "breakfast",
+          "gloss": {
+            "en": "breakfast",
+            "es": "desayuno",
+            "ru": "завтрак"
+          }
+        },
+        "b": {
+          "fr": "brosse",
+          "l2": "brosse",
+          "en": "brush",
+          "gloss": {
+            "en": "brush",
+            "es": "cepillar",
+            "ru": "щетка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-daily-a1-pair-3",
+        "a": {
+          "fr": "savon",
+          "l2": "savon",
+          "en": "soap",
+          "gloss": {
+            "en": "soap",
+            "es": "jabón",
+            "ru": "мыло"
+          }
+        },
+        "b": {
+          "fr": "serviette",
+          "l2": "serviette",
+          "en": "towel",
+          "gloss": {
+            "en": "towel",
+            "es": "toalla",
+            "ru": "полотенце"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-daily-a1-pair-4",
+        "a": {
+          "fr": "pause",
+          "l2": "pause",
+          "en": "break",
+          "gloss": {
+            "en": "break",
+            "es": "romper",
+            "ru": "перерыв"
+          }
+        },
+        "b": {
+          "fr": "déjeuner",
+          "l2": "déjeuner",
+          "en": "lunch",
+          "gloss": {
+            "en": "lunch",
+            "es": "almuerzo",
+            "ru": "обед"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-daily-a1-pair-5",
+        "a": {
+          "fr": "dîner",
+          "l2": "dîner",
+          "en": "dinner",
+          "gloss": {
+            "en": "dinner",
+            "es": "cena",
+            "ru": "ужин"
+          }
+        },
+        "b": {
+          "fr": "lit",
+          "l2": "lit",
+          "en": "bed",
+          "gloss": {
+            "en": "bed",
+            "es": "cama",
+            "ru": "кровать"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-daily-a1-gap-1",
+        "fr": "Le réveil sonne à sept heures.",
+        "l2": "Le réveil sonne à sept heures.",
+        "speak": "Le réveil sonne à sept heures.",
+        "blank": "réveil",
+        "en": "alarm clock",
+        "gloss": {
+          "en": "alarm clock",
+          "es": "despertador",
+          "ru": "будильник"
+        }
+      },
+      {
+        "id": "remote-daily-a1-gap-2",
+        "fr": "Je prends une douche le matin.",
+        "l2": "Je prends une douche le matin.",
+        "speak": "Je prends une douche le matin.",
+        "blank": "douche",
+        "en": "shower",
+        "gloss": {
+          "en": "shower",
+          "es": "ducha",
+          "ru": "душ"
+        }
+      },
+      {
+        "id": "remote-daily-a1-gap-3",
+        "fr": "Le petit-déjeuner est à huit heures.",
+        "l2": "Le petit-déjeuner est à huit heures.",
+        "speak": "Le petit-déjeuner est à huit heures.",
+        "blank": "petit-déjeuner",
+        "en": "breakfast",
+        "gloss": {
+          "en": "breakfast",
+          "es": "desayuno",
+          "ru": "завтрак"
+        }
+      },
+      {
+        "id": "remote-daily-a1-gap-4",
+        "fr": "Je prends ma brosse à dents.",
+        "l2": "Je prends ma brosse à dents.",
+        "speak": "Je prends ma brosse à dents.",
+        "blank": "brosse",
+        "en": "brush",
+        "gloss": {
+          "en": "brush",
+          "es": "cepillar",
+          "ru": "щетка"
+        }
+      },
+      {
+        "id": "remote-daily-a1-gap-5",
+        "fr": "Le savon est dans la salle de bain.",
+        "l2": "Le savon est dans la salle de bain.",
+        "speak": "Le savon est dans la salle de bain.",
+        "blank": "savon",
+        "en": "soap",
+        "gloss": {
+          "en": "soap",
+          "es": "jabón",
+          "ru": "мыло"
+        }
+      },
+      {
+        "id": "remote-daily-a1-gap-6",
+        "fr": "Passe-moi une serviette, s’il te plaît.",
+        "l2": "Passe-moi une serviette, s’il te plaît.",
+        "speak": "Passe-moi une serviette, s’il te plaît.",
+        "blank": "serviette",
+        "en": "towel",
+        "gloss": {
+          "en": "towel",
+          "es": "toalla",
+          "ru": "полотенце"
+        }
+      },
+      {
+        "id": "remote-daily-a1-gap-7",
+        "fr": "On prend une pause à dix heures.",
+        "l2": "On prend une pause à dix heures.",
+        "speak": "On prend une pause à dix heures.",
+        "blank": "pause",
+        "en": "break",
+        "gloss": {
+          "en": "break",
+          "es": "romper",
+          "ru": "перерыв"
+        }
+      },
+      {
+        "id": "remote-daily-a1-gap-8",
+        "fr": "Le déjeuner est à midi.",
+        "l2": "Le déjeuner est à midi.",
+        "speak": "Le déjeuner est à midi.",
+        "blank": "déjeuner",
+        "en": "lunch",
+        "gloss": {
+          "en": "lunch",
+          "es": "almuerzo",
+          "ru": "обед"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-daily-a1-ord-1",
+        "fr": "Le réveil sonne à sept heures.",
+        "l2": "Le réveil sonne à sept heures.",
+        "en": "alarm clock",
+        "gloss": {
+          "en": "alarm clock",
+          "es": "despertador",
+          "ru": "будильник"
+        },
+        "words": [
+          "Le",
+          "réveil",
+          "sonne",
+          "à",
+          "sept",
+          "heures."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-ord-2",
+        "fr": "Je prends une douche le matin.",
+        "l2": "Je prends une douche le matin.",
+        "en": "shower",
+        "gloss": {
+          "en": "shower",
+          "es": "ducha",
+          "ru": "душ"
+        },
+        "words": [
+          "Je",
+          "prends",
+          "une",
+          "douche",
+          "le",
+          "matin."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-ord-3",
+        "fr": "Le petit-déjeuner est à huit heures.",
+        "l2": "Le petit-déjeuner est à huit heures.",
+        "en": "breakfast",
+        "gloss": {
+          "en": "breakfast",
+          "es": "desayuno",
+          "ru": "завтрак"
+        },
+        "words": [
+          "Le",
+          "petit-déjeuner",
+          "est",
+          "à",
+          "huit",
+          "heures."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-ord-4",
+        "fr": "Je prends ma brosse à dents.",
+        "l2": "Je prends ma brosse à dents.",
+        "en": "brush",
+        "gloss": {
+          "en": "brush",
+          "es": "cepillar",
+          "ru": "щетка"
+        },
+        "words": [
+          "Je",
+          "prends",
+          "ma",
+          "brosse",
+          "à",
+          "dents."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-ord-5",
+        "fr": "Le savon est dans la salle de bain.",
+        "l2": "Le savon est dans la salle de bain.",
+        "en": "soap",
+        "gloss": {
+          "en": "soap",
+          "es": "jabón",
+          "ru": "мыло"
+        },
+        "words": [
+          "Le",
+          "savon",
+          "est",
+          "dans",
+          "la",
+          "salle",
+          "de",
+          "bain."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-ord-6",
+        "fr": "Passe-moi une serviette, s’il te plaît.",
+        "l2": "Passe-moi une serviette, s’il te plaît.",
+        "en": "towel",
+        "gloss": {
+          "en": "towel",
+          "es": "toalla",
+          "ru": "полотенце"
+        },
+        "words": [
+          "Passe-moi",
+          "une",
+          "serviette,",
+          "s’il",
+          "te",
+          "plaît."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-ord-7",
+        "fr": "On prend une pause à dix heures.",
+        "l2": "On prend une pause à dix heures.",
+        "en": "break",
+        "gloss": {
+          "en": "break",
+          "es": "romper",
+          "ru": "перерыв"
+        },
+        "words": [
+          "On",
+          "prend",
+          "une",
+          "pause",
+          "à",
+          "dix",
+          "heures."
+        ]
+      },
+      {
+        "id": "remote-daily-a1-ord-8",
+        "fr": "Le déjeuner est à midi.",
+        "l2": "Le déjeuner est à midi.",
+        "en": "lunch",
+        "gloss": {
+          "en": "lunch",
+          "es": "almuerzo",
+          "ru": "обед"
+        },
+        "words": [
+          "Le",
+          "déjeuner",
+          "est",
+          "à",
+          "midi."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-daily-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ʁe.vɛj",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "réveil",
+          "l2": "réveil",
+          "en": "alarm clock",
+          "gloss": {
+            "en": "alarm clock",
+            "es": "despertador",
+            "ru": "будильник"
+          },
+          "ipa": "ʁe.vɛj"
+        },
+        {
+          "fr": "douche",
+          "l2": "douche",
+          "en": "shower",
+          "gloss": {
+            "en": "shower",
+            "es": "ducha",
+            "ru": "душ"
+          },
+          "ipa": "duʃ"
+        },
+        {
+          "fr": "petit-déjeuner",
+          "l2": "petit-déjeuner",
+          "en": "breakfast",
+          "gloss": {
+            "en": "breakfast",
+            "es": "desayuno",
+            "ru": "завтрак"
+          },
+          "ipa": "pə.ti.de.ʒœ.ne"
+        },
+        {
+          "fr": "brosse",
+          "l2": "brosse",
+          "en": "brush",
+          "gloss": {
+            "en": "brush",
+            "es": "cepillar",
+            "ru": "щетка"
+          },
+          "ipa": "bʁɔs"
+        },
+        {
+          "fr": "savon",
+          "l2": "savon",
+          "en": "soap",
+          "gloss": {
+            "en": "soap",
+            "es": "jabón",
+            "ru": "мыло"
+          },
+          "ipa": "sa.vɔ̃"
+        }
+      ]
+    }
+  ]
 }

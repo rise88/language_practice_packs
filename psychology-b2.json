@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "psychology-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "épuise",
             "n’épuise",
             "épuisera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: I fear that this stress will increase his concentration.",
+            "es": "Completo: Temo que este estrés aumente su concentración.",
+            "ru": "Завершено: Я боюсь, что этот стресс повысит его концентрацию."
+          },
+          "why": {
+            "fr": "Réponse : « n’épuise ».",
+            "en": "Answer: “n’épuise”.",
+            "es": "Respuesta: « n’épuise ».",
+            "ru": "Ответ: « n’épuise »."
+          }
         },
         {
           "id": "remote-psychology-gq-2",
@@ -537,7 +548,18 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: It is normal for anxiety to be stronger before the test.",
+            "es": "Completo: Es normal que la ansiedad sea más fuerte antes de la prueba.",
+            "ru": "Полный: усиление беспокойства перед тестом является нормальным."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-psychology-gq-3",
@@ -547,13 +569,25 @@
             "altère",
             "altère pas",
             "ait altéré"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: I notice that stress ___ sleep.",
+            "es": "Completo: Noto que el estrés ___ duerme.",
+            "ru": "Полный: Я замечаю, что стресс ___ сна."
+          },
+          "why": {
+            "fr": "Réponse : « altère ».",
+            "en": "Answer: “altère”.",
+            "es": "Respuesta: « altère ».",
+            "ru": "Ответ: « altère »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Subjunctive after emotion.",
         "es": "Útil cuando necesitas aplicar: Subjuntivo después de emoción.",
-        "ru": "Полезно, когда нужно применить: Сослагательное наклонение после эмоции."
+        "ru": "Полезно, когда нужно применить: Сослагательное наклонение после эмоции.",
+        "fr": "Utile pour appliquer : Le subjonctif après l’émotion."
       }
     },
     {
@@ -601,7 +635,18 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Comprehensive: Although therapy ___ demanding, it offers lasting tools.",
+            "es": "Integral: Aunque la terapia ___ es exigente, ofrece herramientas duraderas.",
+            "ru": "Всеобъемлющий: хотя терапия ___ требовательна, она предлагает надежные инструменты."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-psychology-gq-5",
@@ -611,13 +656,25 @@
             "bien que",
             "au prix d’",
             "afin que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: The mechanism protects self-esteem ___ a distortion of reality.",
+            "es": "Completo: El mecanismo protege la autoestima ___ una distorsión de la realidad.",
+            "ru": "Выполнено: Механизм защищает самооценку ___ от искажения реальности."
+          },
+          "why": {
+            "fr": "Réponse : « au prix d’ ».",
+            "en": "Answer: “au prix d’”.",
+            "es": "Respuesta: « au prix d’ ».",
+            "ru": "Ответ: « au prix d’ »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Bien que with the subjunctive.",
         "es": "Útil cuando necesitas aplicar: Bien que con el subjuntivo.",
-        "ru": "Полезно, когда нужно применить: Bien que с сослагательным наклонением."
+        "ru": "Полезно, когда нужно применить: Bien que с сослагательным наклонением.",
+        "fr": "Utile pour appliquer : Bien que + subjonctif."
       }
     }
   ],
@@ -851,6 +908,1062 @@
         },
         "l2": "L’empathie permet de comprendre l’autre, toutefois elle n’implique pas d’approuver ses actes."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-psychology-fren-1",
+        "fr": "émotion",
+        "en": "emotion",
+        "gloss": {
+          "en": "emotion",
+          "es": "emoción",
+          "ru": "эмоция"
+        },
+        "l2": "émotion"
+      },
+      {
+        "id": "remote-psychology-fren-2",
+        "fr": "comportement",
+        "en": "behaviour",
+        "gloss": {
+          "en": "behaviour",
+          "es": "comportamiento",
+          "ru": "поведение"
+        },
+        "l2": "comportement"
+      },
+      {
+        "id": "remote-psychology-fren-3",
+        "fr": "stress",
+        "en": "stress",
+        "gloss": {
+          "en": "stress",
+          "es": "estrés",
+          "ru": "стресс"
+        },
+        "l2": "stress"
+      },
+      {
+        "id": "remote-psychology-fren-4",
+        "fr": "thérapie",
+        "en": "therapy",
+        "gloss": {
+          "en": "therapy",
+          "es": "terapia",
+          "ru": "терапия"
+        },
+        "l2": "thérapie"
+      },
+      {
+        "id": "remote-psychology-fren-5",
+        "fr": "biais cognitif",
+        "en": "cognitive bias",
+        "gloss": {
+          "en": "cognitive bias",
+          "es": "sesgo cognitivo",
+          "ru": "когнитивная предвзятость"
+        },
+        "l2": "biais cognitif"
+      },
+      {
+        "id": "remote-psychology-fren-6",
+        "fr": "anxiété",
+        "en": "anxiety",
+        "gloss": {
+          "en": "anxiety",
+          "es": "ansiedad",
+          "ru": "беспокойство"
+        },
+        "l2": "anxiété"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-psychology-b2-enl2-1",
+        "fr": "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+        "l2": "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+        "en": "emotion",
+        "gloss": {
+          "en": "emotion",
+          "es": "emoción",
+          "ru": "эмоция"
+        },
+        "prompt": "emotion",
+        "choices": [
+          "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+          "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété.",
+          "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-enl2-2",
+        "fr": "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété.",
+        "l2": "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété.",
+        "en": "behaviour / behavior",
+        "gloss": {
+          "en": "behaviour / behavior",
+          "es": "comportamiento / comportamiento",
+          "ru": "поведение / поведение"
+        },
+        "prompt": "behaviour / behavior",
+        "choices": [
+          "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété.",
+          "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+          "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-enl2-3",
+        "fr": "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent.",
+        "l2": "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent.",
+        "en": "stress",
+        "gloss": {
+          "en": "stress",
+          "es": "estrés",
+          "ru": "стресс"
+        },
+        "prompt": "stress",
+        "choices": [
+          "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent.",
+          "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+          "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-enl2-4",
+        "fr": "La thérapie cognitive vise à identifier les pensées automatiques qui entretiennent le trouble.",
+        "l2": "La thérapie cognitive vise à identifier les pensées automatiques qui entretiennent le trouble.",
+        "en": "therapy",
+        "gloss": {
+          "en": "therapy",
+          "es": "terapia",
+          "ru": "терапия"
+        },
+        "prompt": "therapy",
+        "choices": [
+          "La thérapie cognitive vise à identifier les pensées automatiques qui entretiennent le trouble.",
+          "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+          "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-enl2-5",
+        "fr": "Ce biais cognitif nous pousse à retenir surtout les informations qui confirment notre avis.",
+        "l2": "Ce biais cognitif nous pousse à retenir surtout les informations qui confirment notre avis.",
+        "en": "cognitive bias",
+        "gloss": {
+          "en": "cognitive bias",
+          "es": "sesgo cognitivo",
+          "ru": "когнитивная предвзятость"
+        },
+        "prompt": "cognitive bias",
+        "choices": [
+          "Ce biais cognitif nous pousse à retenir surtout les informations qui confirment notre avis.",
+          "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+          "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-enl2-6",
+        "fr": "L’anxiété anticipatoire apparaît bien avant la situation redoutée elle-même.",
+        "l2": "L’anxiété anticipatoire apparaît bien avant la situation redoutée elle-même.",
+        "en": "anxiety",
+        "gloss": {
+          "en": "anxiety",
+          "es": "ansiedad",
+          "ru": "беспокойство"
+        },
+        "prompt": "anxiety",
+        "choices": [
+          "L’anxiété anticipatoire apparaît bien avant la situation redoutée elle-même.",
+          "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+          "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-enl2-7",
+        "fr": "L’estime de soi se construit aussi dans le regard des autres, ce qui la rend fragile.",
+        "l2": "L’estime de soi se construit aussi dans le regard des autres, ce qui la rend fragile.",
+        "en": "self-esteem",
+        "gloss": {
+          "en": "self-esteem",
+          "es": "autoestima",
+          "ru": "чувство собственного достоинства"
+        },
+        "prompt": "self-esteem",
+        "choices": [
+          "L’estime de soi se construit aussi dans le regard des autres, ce qui la rend fragile.",
+          "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+          "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-enl2-8",
+        "fr": "La motivation intrinsèque dure davantage que les récompenses externes à long terme.",
+        "l2": "La motivation intrinsèque dure davantage que les récompenses externes à long terme.",
+        "en": "motivation",
+        "gloss": {
+          "en": "motivation",
+          "es": "motivación",
+          "ru": "мотивация"
+        },
+        "prompt": "motivation",
+        "choices": [
+          "La motivation intrinsèque dure davantage que les récompenses externes à long terme.",
+          "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+          "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-psychology-b2-prm-1",
+        "en": "emotion",
+        "gloss": {
+          "en": "emotion",
+          "es": "emoción",
+          "ru": "эмоция"
+        },
+        "answers": [
+          "émotion",
+          "l' émotion"
+        ],
+        "target": "l' émotion"
+      },
+      {
+        "id": "remote-psychology-b2-prm-2",
+        "en": "behaviour / behavior",
+        "gloss": {
+          "en": "behaviour / behavior",
+          "es": "comportamiento / comportamiento",
+          "ru": "поведение / поведение"
+        },
+        "answers": [
+          "comportement",
+          "le comportement"
+        ],
+        "target": "le comportement"
+      },
+      {
+        "id": "remote-psychology-b2-prm-3",
+        "en": "stress",
+        "gloss": {
+          "en": "stress",
+          "es": "estrés",
+          "ru": "стресс"
+        },
+        "answers": [
+          "stress",
+          "le stress"
+        ],
+        "target": "le stress"
+      },
+      {
+        "id": "remote-psychology-b2-prm-4",
+        "en": "therapy",
+        "gloss": {
+          "en": "therapy",
+          "es": "terapia",
+          "ru": "терапия"
+        },
+        "answers": [
+          "thérapie",
+          "la thérapie"
+        ],
+        "target": "la thérapie"
+      },
+      {
+        "id": "remote-psychology-b2-prm-5",
+        "en": "cognitive bias",
+        "gloss": {
+          "en": "cognitive bias",
+          "es": "sesgo cognitivo",
+          "ru": "когнитивная предвзятость"
+        },
+        "answers": [
+          "biais cognitif",
+          "le biais cognitif"
+        ],
+        "target": "le biais cognitif"
+      },
+      {
+        "id": "remote-psychology-b2-prm-6",
+        "en": "anxiety",
+        "gloss": {
+          "en": "anxiety",
+          "es": "ansiedad",
+          "ru": "беспокойство"
+        },
+        "answers": [
+          "anxiété",
+          "l' anxiété"
+        ],
+        "target": "l' anxiété"
+      },
+      {
+        "id": "remote-psychology-b2-prm-7",
+        "en": "self-esteem",
+        "gloss": {
+          "en": "self-esteem",
+          "es": "autoestima",
+          "ru": "чувство собственного достоинства"
+        },
+        "answers": [
+          "estime de soi",
+          "l' estime de soi"
+        ],
+        "target": "l' estime de soi"
+      },
+      {
+        "id": "remote-psychology-b2-prm-8",
+        "en": "motivation",
+        "gloss": {
+          "en": "motivation",
+          "es": "motivación",
+          "ru": "мотивация"
+        },
+        "answers": [
+          "motivation",
+          "la motivation"
+        ],
+        "target": "la motivation"
+      },
+      {
+        "id": "remote-psychology-b2-prm-9",
+        "en": "trauma",
+        "gloss": {
+          "en": "trauma",
+          "es": "trauma",
+          "ru": "травма"
+        },
+        "answers": [
+          "traumatisme",
+          "le traumatisme"
+        ],
+        "target": "le traumatisme"
+      },
+      {
+        "id": "remote-psychology-b2-prm-10",
+        "en": "empathy",
+        "gloss": {
+          "en": "empathy",
+          "es": "empatía",
+          "ru": "сочувствие"
+        },
+        "answers": [
+          "empathie",
+          "l' empathie"
+        ],
+        "target": "l' empathie"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-psychology-b2-sign-1",
+        "fr": "émotion",
+        "l2": "émotion",
+        "en": "emotion",
+        "gloss": {
+          "en": "emotion",
+          "es": "emoción",
+          "ru": "эмоция"
+        },
+        "choices": [
+          "emotion",
+          "behaviour / behavior",
+          "stress"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-2",
+        "fr": "comportement",
+        "l2": "comportement",
+        "en": "behaviour / behavior",
+        "gloss": {
+          "en": "behaviour / behavior",
+          "es": "comportamiento / comportamiento",
+          "ru": "поведение / поведение"
+        },
+        "choices": [
+          "behaviour / behavior",
+          "emotion",
+          "stress"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-3",
+        "fr": "stress",
+        "l2": "stress",
+        "en": "stress",
+        "gloss": {
+          "en": "stress",
+          "es": "estrés",
+          "ru": "стресс"
+        },
+        "choices": [
+          "stress",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-4",
+        "fr": "thérapie",
+        "l2": "thérapie",
+        "en": "therapy",
+        "gloss": {
+          "en": "therapy",
+          "es": "terapia",
+          "ru": "терапия"
+        },
+        "choices": [
+          "therapy",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-5",
+        "fr": "biais cognitif",
+        "l2": "biais cognitif",
+        "en": "cognitive bias",
+        "gloss": {
+          "en": "cognitive bias",
+          "es": "sesgo cognitivo",
+          "ru": "когнитивная предвзятость"
+        },
+        "choices": [
+          "cognitive bias",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-6",
+        "fr": "anxiété",
+        "l2": "anxiété",
+        "en": "anxiety",
+        "gloss": {
+          "en": "anxiety",
+          "es": "ansiedad",
+          "ru": "беспокойство"
+        },
+        "choices": [
+          "anxiety",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-7",
+        "fr": "estime de soi",
+        "l2": "estime de soi",
+        "en": "self-esteem",
+        "gloss": {
+          "en": "self-esteem",
+          "es": "autoestima",
+          "ru": "чувство собственного достоинства"
+        },
+        "choices": [
+          "self-esteem",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-8",
+        "fr": "motivation",
+        "l2": "motivation",
+        "en": "motivation",
+        "gloss": {
+          "en": "motivation",
+          "es": "motivación",
+          "ru": "мотивация"
+        },
+        "choices": [
+          "motivation",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-9",
+        "fr": "traumatisme",
+        "l2": "traumatisme",
+        "en": "trauma",
+        "gloss": {
+          "en": "trauma",
+          "es": "trauma",
+          "ru": "травма"
+        },
+        "choices": [
+          "trauma",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-10",
+        "fr": "empathie",
+        "l2": "empathie",
+        "en": "empathy",
+        "gloss": {
+          "en": "empathy",
+          "es": "empatía",
+          "ru": "сочувствие"
+        },
+        "choices": [
+          "empathy",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-11",
+        "fr": "personnalité",
+        "l2": "personnalité",
+        "en": "personality",
+        "gloss": {
+          "en": "personality",
+          "es": "personalidad",
+          "ru": "личность"
+        },
+        "choices": [
+          "personality",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-sign-12",
+        "fr": "inconscient",
+        "l2": "inconscient",
+        "en": "unconscious",
+        "gloss": {
+          "en": "unconscious",
+          "es": "inconsciente",
+          "ru": "бессознательный"
+        },
+        "choices": [
+          "unconscious",
+          "emotion",
+          "behaviour / behavior"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-psychology-b2-pair-1",
+        "a": {
+          "fr": "émotion",
+          "l2": "émotion",
+          "en": "emotion",
+          "gloss": {
+            "en": "emotion",
+            "es": "emoción",
+            "ru": "эмоция"
+          }
+        },
+        "b": {
+          "fr": "comportement",
+          "l2": "comportement",
+          "en": "behaviour / behavior",
+          "gloss": {
+            "en": "behaviour / behavior",
+            "es": "comportamiento / comportamiento",
+            "ru": "поведение / поведение"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-psychology-b2-pair-2",
+        "a": {
+          "fr": "stress",
+          "l2": "stress",
+          "en": "stress",
+          "gloss": {
+            "en": "stress",
+            "es": "estrés",
+            "ru": "стресс"
+          }
+        },
+        "b": {
+          "fr": "thérapie",
+          "l2": "thérapie",
+          "en": "therapy",
+          "gloss": {
+            "en": "therapy",
+            "es": "terapia",
+            "ru": "терапия"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-psychology-b2-pair-3",
+        "a": {
+          "fr": "biais cognitif",
+          "l2": "biais cognitif",
+          "en": "cognitive bias",
+          "gloss": {
+            "en": "cognitive bias",
+            "es": "sesgo cognitivo",
+            "ru": "когнитивная предвзятость"
+          }
+        },
+        "b": {
+          "fr": "anxiété",
+          "l2": "anxiété",
+          "en": "anxiety",
+          "gloss": {
+            "en": "anxiety",
+            "es": "ansiedad",
+            "ru": "беспокойство"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-psychology-b2-pair-4",
+        "a": {
+          "fr": "estime de soi",
+          "l2": "estime de soi",
+          "en": "self-esteem",
+          "gloss": {
+            "en": "self-esteem",
+            "es": "autoestima",
+            "ru": "чувство собственного достоинства"
+          }
+        },
+        "b": {
+          "fr": "motivation",
+          "l2": "motivation",
+          "en": "motivation",
+          "gloss": {
+            "en": "motivation",
+            "es": "motivación",
+            "ru": "мотивация"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-psychology-b2-pair-5",
+        "a": {
+          "fr": "traumatisme",
+          "l2": "traumatisme",
+          "en": "trauma",
+          "gloss": {
+            "en": "trauma",
+            "es": "trauma",
+            "ru": "травма"
+          }
+        },
+        "b": {
+          "fr": "empathie",
+          "l2": "empathie",
+          "en": "empathy",
+          "gloss": {
+            "en": "empathy",
+            "es": "empatía",
+            "ru": "сочувствие"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-psychology-b2-gap-1",
+        "fr": "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+        "l2": "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+        "speak": "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+        "blank": "émotion",
+        "en": "emotion",
+        "gloss": {
+          "en": "emotion",
+          "es": "emoción",
+          "ru": "эмоция"
+        }
+      },
+      {
+        "id": "remote-psychology-b2-gap-2",
+        "fr": "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété.",
+        "l2": "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété.",
+        "speak": "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété.",
+        "blank": "comportement",
+        "en": "behaviour / behavior",
+        "gloss": {
+          "en": "behaviour / behavior",
+          "es": "comportamiento / comportamiento",
+          "ru": "поведение / поведение"
+        }
+      },
+      {
+        "id": "remote-psychology-b2-gap-3",
+        "fr": "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent.",
+        "l2": "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent.",
+        "speak": "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent.",
+        "blank": "stress",
+        "en": "stress",
+        "gloss": {
+          "en": "stress",
+          "es": "estrés",
+          "ru": "стресс"
+        }
+      },
+      {
+        "id": "remote-psychology-b2-gap-4",
+        "fr": "La thérapie cognitive vise à identifier les pensées automatiques qui entretiennent le trouble.",
+        "l2": "La thérapie cognitive vise à identifier les pensées automatiques qui entretiennent le trouble.",
+        "speak": "La thérapie cognitive vise à identifier les pensées automatiques qui entretiennent le trouble.",
+        "blank": "thérapie",
+        "en": "therapy",
+        "gloss": {
+          "en": "therapy",
+          "es": "terapia",
+          "ru": "терапия"
+        }
+      },
+      {
+        "id": "remote-psychology-b2-gap-5",
+        "fr": "Ce biais cognitif nous pousse à retenir surtout les informations qui confirment notre avis.",
+        "l2": "Ce biais cognitif nous pousse à retenir surtout les informations qui confirment notre avis.",
+        "speak": "Ce biais cognitif nous pousse à retenir surtout les informations qui confirment notre avis.",
+        "blank": "biais cognitif",
+        "en": "cognitive bias",
+        "gloss": {
+          "en": "cognitive bias",
+          "es": "sesgo cognitivo",
+          "ru": "когнитивная предвзятость"
+        }
+      },
+      {
+        "id": "remote-psychology-b2-gap-6",
+        "fr": "L’anxiété anticipatoire apparaît bien avant la situation redoutée elle-même.",
+        "l2": "L’anxiété anticipatoire apparaît bien avant la situation redoutée elle-même.",
+        "speak": "L’anxiété anticipatoire apparaît bien avant la situation redoutée elle-même.",
+        "blank": "anxiété",
+        "en": "anxiety",
+        "gloss": {
+          "en": "anxiety",
+          "es": "ansiedad",
+          "ru": "беспокойство"
+        }
+      },
+      {
+        "id": "remote-psychology-b2-gap-7",
+        "fr": "L’estime de soi se construit aussi dans le regard des autres, ce qui la rend fragile.",
+        "l2": "L’estime de soi se construit aussi dans le regard des autres, ce qui la rend fragile.",
+        "speak": "L’estime de soi se construit aussi dans le regard des autres, ce qui la rend fragile.",
+        "blank": "estime de soi",
+        "en": "self-esteem",
+        "gloss": {
+          "en": "self-esteem",
+          "es": "autoestima",
+          "ru": "чувство собственного достоинства"
+        }
+      },
+      {
+        "id": "remote-psychology-b2-gap-8",
+        "fr": "La motivation intrinsèque dure davantage que les récompenses externes à long terme.",
+        "l2": "La motivation intrinsèque dure davantage que les récompenses externes à long terme.",
+        "speak": "La motivation intrinsèque dure davantage que les récompenses externes à long terme.",
+        "blank": "motivation",
+        "en": "motivation",
+        "gloss": {
+          "en": "motivation",
+          "es": "motivación",
+          "ru": "мотивация"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-psychology-b2-ord-1",
+        "fr": "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+        "l2": "Une émotion intense précède souvent le comportement, même lorsque l’on s’en défend.",
+        "en": "emotion",
+        "gloss": {
+          "en": "emotion",
+          "es": "emoción",
+          "ru": "эмоция"
+        },
+        "words": [
+          "Une",
+          "émotion",
+          "intense",
+          "précède",
+          "souvent",
+          "le",
+          "comportement,",
+          "même",
+          "lorsque",
+          "l’on",
+          "s’en",
+          "défend."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-ord-2",
+        "fr": "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété.",
+        "l2": "Ce comportement d’évitement soulage à court terme, néanmoins il aggrave l’anxiété.",
+        "en": "behaviour / behavior",
+        "gloss": {
+          "en": "behaviour / behavior",
+          "es": "comportamiento / comportamiento",
+          "ru": "поведение / поведение"
+        },
+        "words": [
+          "Ce",
+          "comportement",
+          "d’évitement",
+          "soulage",
+          "à",
+          "court",
+          "terme,",
+          "néanmoins",
+          "il",
+          "aggrave",
+          "l’anxiété."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-ord-3",
+        "fr": "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent.",
+        "l2": "Le stress chronique altère la concentration, bien que certaines personnes s’en accommodent.",
+        "en": "stress",
+        "gloss": {
+          "en": "stress",
+          "es": "estrés",
+          "ru": "стресс"
+        },
+        "words": [
+          "Le",
+          "stress",
+          "chronique",
+          "altère",
+          "la",
+          "concentration,",
+          "bien",
+          "que",
+          "certaines",
+          "personnes",
+          "s’en",
+          "accommodent."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-ord-4",
+        "fr": "La thérapie cognitive vise à identifier les pensées automatiques qui entretiennent le trouble.",
+        "l2": "La thérapie cognitive vise à identifier les pensées automatiques qui entretiennent le trouble.",
+        "en": "therapy",
+        "gloss": {
+          "en": "therapy",
+          "es": "terapia",
+          "ru": "терапия"
+        },
+        "words": [
+          "La",
+          "thérapie",
+          "cognitive",
+          "vise",
+          "à",
+          "identifier",
+          "les",
+          "pensées",
+          "automatiques",
+          "qui",
+          "entretiennent",
+          "le",
+          "trouble."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-ord-5",
+        "fr": "Ce biais cognitif nous pousse à retenir surtout les informations qui confirment notre avis.",
+        "l2": "Ce biais cognitif nous pousse à retenir surtout les informations qui confirment notre avis.",
+        "en": "cognitive bias",
+        "gloss": {
+          "en": "cognitive bias",
+          "es": "sesgo cognitivo",
+          "ru": "когнитивная предвзятость"
+        },
+        "words": [
+          "Ce",
+          "biais",
+          "cognitif",
+          "nous",
+          "pousse",
+          "à",
+          "retenir",
+          "surtout",
+          "les",
+          "informations",
+          "qui",
+          "confirment",
+          "notre",
+          "avis."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-ord-6",
+        "fr": "L’anxiété anticipatoire apparaît bien avant la situation redoutée elle-même.",
+        "l2": "L’anxiété anticipatoire apparaît bien avant la situation redoutée elle-même.",
+        "en": "anxiety",
+        "gloss": {
+          "en": "anxiety",
+          "es": "ansiedad",
+          "ru": "беспокойство"
+        },
+        "words": [
+          "L’anxiété",
+          "anticipatoire",
+          "apparaît",
+          "bien",
+          "avant",
+          "la",
+          "situation",
+          "redoutée",
+          "elle-même."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-ord-7",
+        "fr": "L’estime de soi se construit aussi dans le regard des autres, ce qui la rend fragile.",
+        "l2": "L’estime de soi se construit aussi dans le regard des autres, ce qui la rend fragile.",
+        "en": "self-esteem",
+        "gloss": {
+          "en": "self-esteem",
+          "es": "autoestima",
+          "ru": "чувство собственного достоинства"
+        },
+        "words": [
+          "L’estime",
+          "de",
+          "soi",
+          "se",
+          "construit",
+          "aussi",
+          "dans",
+          "le",
+          "regard",
+          "des",
+          "autres,",
+          "ce",
+          "qui",
+          "la",
+          "rend",
+          "fragile."
+        ]
+      },
+      {
+        "id": "remote-psychology-b2-ord-8",
+        "fr": "La motivation intrinsèque dure davantage que les récompenses externes à long terme.",
+        "l2": "La motivation intrinsèque dure davantage que les récompenses externes à long terme.",
+        "en": "motivation",
+        "gloss": {
+          "en": "motivation",
+          "es": "motivación",
+          "ru": "мотивация"
+        },
+        "words": [
+          "La",
+          "motivation",
+          "intrinsèque",
+          "dure",
+          "davantage",
+          "que",
+          "les",
+          "récompenses",
+          "externes",
+          "à",
+          "long",
+          "terme."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-psychology-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "e.mɔ.sjɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "émotion",
+          "l2": "émotion",
+          "en": "emotion",
+          "gloss": {
+            "en": "emotion",
+            "es": "emoción",
+            "ru": "эмоция"
+          },
+          "ipa": "e.mɔ.sjɔ̃"
+        },
+        {
+          "fr": "comportement",
+          "l2": "comportement",
+          "en": "behaviour / behavior",
+          "gloss": {
+            "en": "behaviour / behavior",
+            "es": "comportamiento / comportamiento",
+            "ru": "поведение / поведение"
+          },
+          "ipa": "kɔ̃.pɔʁ.tə.mɑ̃"
+        },
+        {
+          "fr": "stress",
+          "l2": "stress",
+          "en": "stress",
+          "gloss": {
+            "en": "stress",
+            "es": "estrés",
+            "ru": "стресс"
+          },
+          "ipa": "stʁɛs"
+        },
+        {
+          "fr": "thérapie",
+          "l2": "thérapie",
+          "en": "therapy",
+          "gloss": {
+            "en": "therapy",
+            "es": "terapia",
+            "ru": "терапия"
+          },
+          "ipa": "te.ʁa.pi"
+        },
+        {
+          "fr": "biais cognitif",
+          "l2": "biais cognitif",
+          "en": "cognitive bias",
+          "gloss": {
+            "en": "cognitive bias",
+            "es": "sesgo cognitivo",
+            "ru": "когнитивная предвзятость"
+          },
+          "ipa": "bjɛ kɔ.ɡni.tif"
+        }
+      ]
+    }
+  ]
 }

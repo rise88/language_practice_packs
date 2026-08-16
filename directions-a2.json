@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "directions-a2",
-  "version": 4,
+  "version": 5,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "Tournez",
             "Tourner",
             "Tournons"
-          ]
+          ],
+          "gloss": {
+            "en": "___ left at the light.",
+            "es": "___ se fue en el semáforo.",
+            "ru": "___ вышел на свет."
+          },
+          "why": {
+            "fr": "Réponse : « Tournez ».",
+            "en": "Answer: “Tournez”.",
+            "es": "Respuesta: « Tournez ».",
+            "ru": "Ответ: « Tournez »."
+          }
         },
         {
           "id": "remote-directions-gq-2",
@@ -537,7 +548,18 @@
             "Prenez",
             "Prendre",
             "Prends"
-          ]
+          ],
+          "gloss": {
+            "en": "___ the second street on the right.",
+            "es": "___ la segunda calle a la derecha.",
+            "ru": "___ вторая улица направо."
+          },
+          "why": {
+            "fr": "Réponse : « Prenez ».",
+            "en": "Answer: “Prenez”.",
+            "es": "Respuesta: « Prenez ».",
+            "ru": "Ответ: « Prenez »."
+          }
         },
         {
           "id": "remote-directions-gq-3",
@@ -547,13 +569,25 @@
             "Aller",
             "Allez",
             "Allons"
-          ]
+          ],
+          "gloss": {
+            "en": "___ straight ahead.",
+            "es": "___ todo derecho.",
+            "ru": "___ прямо."
+          },
+          "why": {
+            "fr": "Réponse : « Allez ».",
+            "en": "Answer: “Allez”.",
+            "es": "Respuesta: « Allez ».",
+            "ru": "Ответ: « Allez »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Imperative for directions.",
         "es": "Útil cuando es necesario aplicar: Imperativo para indicaciones.",
-        "ru": "Полезно, когда вам нужно подать заявку: Обязательно указывать направления."
+        "ru": "Полезно, когда вам нужно подать заявку: Обязательно указывать направления.",
+        "fr": "Utile pour appliquer : L’impératif pour indiquer le chemin."
       }
     },
     {
@@ -606,7 +640,18 @@
             "en face",
             "au bout",
             "loin"
-          ]
+          ],
+          "gloss": {
+            "en": "The museum is ___ from the hotel.",
+            "es": "El museo está a ___ del hotel.",
+            "ru": "Музей находится ___ от отеля."
+          },
+          "why": {
+            "fr": "Réponse : « en face ».",
+            "en": "Answer: “en face”.",
+            "es": "Respuesta: « en face ».",
+            "ru": "Ответ: « en face »."
+          }
         },
         {
           "id": "remote-directions-gq-5",
@@ -616,7 +661,18 @@
             "à côté",
             "en face",
             "au nord"
-          ]
+          ],
+          "gloss": {
+            "en": "The pharmacy is ___ from the bakery.",
+            "es": "La farmacia es ___ de la panadería.",
+            "ru": "Аптека ___ от пекарни."
+          },
+          "why": {
+            "fr": "Réponse : « à côté ».",
+            "en": "Answer: “à côté”.",
+            "es": "Respuesta: « à côté ».",
+            "ru": "Ответ: « à côté »."
+          }
         },
         {
           "id": "remote-directions-gq-6",
@@ -626,13 +682,25 @@
             "au bout",
             "en face",
             "à pied"
-          ]
+          ],
+          "gloss": {
+            "en": "The park is ___ from the street.",
+            "es": "El parque está a ___ de la calle.",
+            "ru": "Парк находится ___ от ул."
+          },
+          "why": {
+            "fr": "Réponse : « au bout ».",
+            "en": "Answer: “au bout”.",
+            "es": "Respuesta: « au bout ».",
+            "ru": "Ответ: « au bout »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Location prepositions.",
         "es": "Útil cuando necesitas aplicar: Preposiciones de ubicación.",
-        "ru": "Полезно, когда вам нужно применить: Предлоги местоположения."
+        "ru": "Полезно, когда вам нужно применить: Предлоги местоположения.",
+        "fr": "Utile pour appliquer : En face / à côté / au bout."
       }
     }
   ],
@@ -882,6 +950,813 @@
         },
         "l2": "sortie"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-directions-fren-1",
+        "fr": "chemin",
+        "en": "way",
+        "gloss": {
+          "en": "way",
+          "es": "forma",
+          "ru": "способ"
+        },
+        "l2": "chemin"
+      },
+      {
+        "id": "remote-directions-fren-2",
+        "fr": "itinéraire",
+        "en": "route",
+        "gloss": {
+          "en": "route",
+          "es": "ruta",
+          "ru": "маршрут"
+        },
+        "l2": "itinéraire"
+      },
+      {
+        "id": "remote-directions-fren-3",
+        "fr": "carrefour",
+        "en": "crossroads",
+        "gloss": {
+          "en": "crossroads",
+          "es": "encrucijada",
+          "ru": "перекресток"
+        },
+        "l2": "carrefour"
+      },
+      {
+        "id": "remote-directions-fren-4",
+        "fr": "feu",
+        "en": "traffic light",
+        "gloss": {
+          "en": "traffic light",
+          "es": "semáforo",
+          "ru": "светофор"
+        },
+        "l2": "feu"
+      },
+      {
+        "id": "remote-directions-fren-5",
+        "fr": "piéton",
+        "en": "pedestrian",
+        "gloss": {
+          "en": "pedestrian",
+          "es": "peatonal",
+          "ru": "пешеход"
+        },
+        "l2": "piéton"
+      },
+      {
+        "id": "remote-directions-fren-6",
+        "fr": "passage",
+        "en": "crossing",
+        "gloss": {
+          "en": "crossing",
+          "es": "cruce",
+          "ru": "пересечение"
+        },
+        "l2": "passage"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-directions-a2-enl2-1",
+        "fr": "Quel est le plus court chemin ?",
+        "l2": "Quel est le plus court chemin ?",
+        "en": "way / path",
+        "gloss": {
+          "en": "way / path",
+          "es": "camino / camino",
+          "ru": "путь / путь"
+        },
+        "prompt": "way / path",
+        "choices": [
+          "Quel est le plus court chemin ?",
+          "Voici l’itinéraire jusqu’à l’hôtel.",
+          "Tournez à droite au carrefour."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-enl2-2",
+        "fr": "Voici l’itinéraire jusqu’à l’hôtel.",
+        "l2": "Voici l’itinéraire jusqu’à l’hôtel.",
+        "en": "route",
+        "gloss": {
+          "en": "route",
+          "es": "ruta",
+          "ru": "маршрут"
+        },
+        "prompt": "route",
+        "choices": [
+          "Voici l’itinéraire jusqu’à l’hôtel.",
+          "Quel est le plus court chemin ?",
+          "Tournez à droite au carrefour."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-enl2-3",
+        "fr": "Tournez à droite au carrefour.",
+        "l2": "Tournez à droite au carrefour.",
+        "en": "crossroads",
+        "gloss": {
+          "en": "crossroads",
+          "es": "encrucijada",
+          "ru": "перекресток"
+        },
+        "prompt": "crossroads",
+        "choices": [
+          "Tournez à droite au carrefour.",
+          "Quel est le plus court chemin ?",
+          "Voici l’itinéraire jusqu’à l’hôtel."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-enl2-4",
+        "fr": "Arrêtez-vous au feu rouge.",
+        "l2": "Arrêtez-vous au feu rouge.",
+        "en": "traffic light",
+        "gloss": {
+          "en": "traffic light",
+          "es": "semáforo",
+          "ru": "светофор"
+        },
+        "prompt": "traffic light",
+        "choices": [
+          "Arrêtez-vous au feu rouge.",
+          "Quel est le plus court chemin ?",
+          "Voici l’itinéraire jusqu’à l’hôtel."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-enl2-5",
+        "fr": "Les piétons traversent ici.",
+        "l2": "Les piétons traversent ici.",
+        "en": "pedestrian",
+        "gloss": {
+          "en": "pedestrian",
+          "es": "peatonal",
+          "ru": "пешеход"
+        },
+        "prompt": "pedestrian",
+        "choices": [
+          "Les piétons traversent ici.",
+          "Quel est le plus court chemin ?",
+          "Voici l’itinéraire jusqu’à l’hôtel."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-enl2-6",
+        "fr": "Le passage piéton est devant vous.",
+        "l2": "Le passage piéton est devant vous.",
+        "en": "crossing / passage",
+        "gloss": {
+          "en": "crossing / passage",
+          "es": "cruce / paso",
+          "ru": "переезд/проход"
+        },
+        "prompt": "crossing / passage",
+        "choices": [
+          "Le passage piéton est devant vous.",
+          "Quel est le plus court chemin ?",
+          "Voici l’itinéraire jusqu’à l’hôtel."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-enl2-7",
+        "fr": "Le café est au coin de la rue.",
+        "l2": "Le café est au coin de la rue.",
+        "en": "corner",
+        "gloss": {
+          "en": "corner",
+          "es": "esquina",
+          "ru": "угол"
+        },
+        "prompt": "corner",
+        "choices": [
+          "Le café est au coin de la rue.",
+          "Quel est le plus court chemin ?",
+          "Voici l’itinéraire jusqu’à l’hôtel."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-enl2-8",
+        "fr": "Prenez la deuxième sortie au rond-point.",
+        "l2": "Prenez la deuxième sortie au rond-point.",
+        "en": "roundabout",
+        "gloss": {
+          "en": "roundabout",
+          "es": "rotonda",
+          "ru": "кольцевая развязка"
+        },
+        "prompt": "roundabout",
+        "choices": [
+          "Prenez la deuxième sortie au rond-point.",
+          "Quel est le plus court chemin ?",
+          "Voici l’itinéraire jusqu’à l’hôtel."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-directions-a2-prm-1",
+        "en": "way / path",
+        "gloss": {
+          "en": "way / path",
+          "es": "camino / camino",
+          "ru": "путь / путь"
+        },
+        "answers": [
+          "chemin",
+          "le chemin"
+        ],
+        "target": "le chemin"
+      },
+      {
+        "id": "remote-directions-a2-prm-2",
+        "en": "route",
+        "gloss": {
+          "en": "route",
+          "es": "ruta",
+          "ru": "маршрут"
+        },
+        "answers": [
+          "itinéraire",
+          "l' itinéraire"
+        ],
+        "target": "l' itinéraire"
+      },
+      {
+        "id": "remote-directions-a2-prm-3",
+        "en": "crossroads",
+        "gloss": {
+          "en": "crossroads",
+          "es": "encrucijada",
+          "ru": "перекресток"
+        },
+        "answers": [
+          "carrefour",
+          "le carrefour"
+        ],
+        "target": "le carrefour"
+      },
+      {
+        "id": "remote-directions-a2-prm-4",
+        "en": "traffic light",
+        "gloss": {
+          "en": "traffic light",
+          "es": "semáforo",
+          "ru": "светофор"
+        },
+        "answers": [
+          "feu",
+          "le feu"
+        ],
+        "target": "le feu"
+      },
+      {
+        "id": "remote-directions-a2-prm-5",
+        "en": "pedestrian",
+        "gloss": {
+          "en": "pedestrian",
+          "es": "peatonal",
+          "ru": "пешеход"
+        },
+        "answers": [
+          "piéton",
+          "le piéton"
+        ],
+        "target": "le piéton"
+      },
+      {
+        "id": "remote-directions-a2-prm-6",
+        "en": "crossing / passage",
+        "gloss": {
+          "en": "crossing / passage",
+          "es": "cruce / paso",
+          "ru": "переезд/проход"
+        },
+        "answers": [
+          "passage",
+          "le passage"
+        ],
+        "target": "le passage"
+      },
+      {
+        "id": "remote-directions-a2-prm-7",
+        "en": "corner",
+        "gloss": {
+          "en": "corner",
+          "es": "esquina",
+          "ru": "угол"
+        },
+        "answers": [
+          "coin",
+          "le coin"
+        ],
+        "target": "le coin"
+      },
+      {
+        "id": "remote-directions-a2-prm-8",
+        "en": "roundabout",
+        "gloss": {
+          "en": "roundabout",
+          "es": "rotonda",
+          "ru": "кольцевая развязка"
+        },
+        "answers": [
+          "rond-point",
+          "le rond-point"
+        ],
+        "target": "le rond-point"
+      },
+      {
+        "id": "remote-directions-a2-prm-9",
+        "en": "north",
+        "gloss": {
+          "en": "north",
+          "es": "norte",
+          "ru": "север"
+        },
+        "answers": [
+          "nord",
+          "le nord"
+        ],
+        "target": "le nord"
+      },
+      {
+        "id": "remote-directions-a2-prm-10",
+        "en": "south",
+        "gloss": {
+          "en": "south",
+          "es": "sur",
+          "ru": "юг"
+        },
+        "answers": [
+          "sud",
+          "le sud"
+        ],
+        "target": "le sud"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-directions-a2-pair-1",
+        "a": {
+          "fr": "chemin",
+          "l2": "chemin",
+          "en": "way / path",
+          "gloss": {
+            "en": "way / path",
+            "es": "camino / camino",
+            "ru": "путь / путь"
+          }
+        },
+        "b": {
+          "fr": "itinéraire",
+          "l2": "itinéraire",
+          "en": "route",
+          "gloss": {
+            "en": "route",
+            "es": "ruta",
+            "ru": "маршрут"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-directions-a2-pair-2",
+        "a": {
+          "fr": "carrefour",
+          "l2": "carrefour",
+          "en": "crossroads",
+          "gloss": {
+            "en": "crossroads",
+            "es": "encrucijada",
+            "ru": "перекресток"
+          }
+        },
+        "b": {
+          "fr": "feu",
+          "l2": "feu",
+          "en": "traffic light",
+          "gloss": {
+            "en": "traffic light",
+            "es": "semáforo",
+            "ru": "светофор"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-directions-a2-pair-3",
+        "a": {
+          "fr": "piéton",
+          "l2": "piéton",
+          "en": "pedestrian",
+          "gloss": {
+            "en": "pedestrian",
+            "es": "peatonal",
+            "ru": "пешеход"
+          }
+        },
+        "b": {
+          "fr": "passage",
+          "l2": "passage",
+          "en": "crossing / passage",
+          "gloss": {
+            "en": "crossing / passage",
+            "es": "cruce / paso",
+            "ru": "переезд/проход"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-directions-a2-pair-4",
+        "a": {
+          "fr": "coin",
+          "l2": "coin",
+          "en": "corner",
+          "gloss": {
+            "en": "corner",
+            "es": "esquina",
+            "ru": "угол"
+          }
+        },
+        "b": {
+          "fr": "rond-point",
+          "l2": "rond-point",
+          "en": "roundabout",
+          "gloss": {
+            "en": "roundabout",
+            "es": "rotonda",
+            "ru": "кольцевая развязка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-directions-a2-pair-5",
+        "a": {
+          "fr": "nord",
+          "l2": "nord",
+          "en": "north",
+          "gloss": {
+            "en": "north",
+            "es": "norte",
+            "ru": "север"
+          }
+        },
+        "b": {
+          "fr": "sud",
+          "l2": "sud",
+          "en": "south",
+          "gloss": {
+            "en": "south",
+            "es": "sur",
+            "ru": "юг"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-directions-a2-gap-1",
+        "fr": "Quel est le plus court chemin ?",
+        "l2": "Quel est le plus court chemin ?",
+        "speak": "Quel est le plus court chemin ?",
+        "blank": "chemin",
+        "en": "way / path",
+        "gloss": {
+          "en": "way / path",
+          "es": "camino / camino",
+          "ru": "путь / путь"
+        }
+      },
+      {
+        "id": "remote-directions-a2-gap-2",
+        "fr": "Voici l’itinéraire jusqu’à l’hôtel.",
+        "l2": "Voici l’itinéraire jusqu’à l’hôtel.",
+        "speak": "Voici l’itinéraire jusqu’à l’hôtel.",
+        "blank": "itinéraire",
+        "en": "route",
+        "gloss": {
+          "en": "route",
+          "es": "ruta",
+          "ru": "маршрут"
+        }
+      },
+      {
+        "id": "remote-directions-a2-gap-3",
+        "fr": "Tournez à droite au carrefour.",
+        "l2": "Tournez à droite au carrefour.",
+        "speak": "Tournez à droite au carrefour.",
+        "blank": "carrefour",
+        "en": "crossroads",
+        "gloss": {
+          "en": "crossroads",
+          "es": "encrucijada",
+          "ru": "перекресток"
+        }
+      },
+      {
+        "id": "remote-directions-a2-gap-4",
+        "fr": "Arrêtez-vous au feu rouge.",
+        "l2": "Arrêtez-vous au feu rouge.",
+        "speak": "Arrêtez-vous au feu rouge.",
+        "blank": "feu",
+        "en": "traffic light",
+        "gloss": {
+          "en": "traffic light",
+          "es": "semáforo",
+          "ru": "светофор"
+        }
+      },
+      {
+        "id": "remote-directions-a2-gap-5",
+        "fr": "Les piétons traversent ici.",
+        "l2": "Les piétons traversent ici.",
+        "speak": "Les piétons traversent ici.",
+        "blank": "piéton",
+        "en": "pedestrian",
+        "gloss": {
+          "en": "pedestrian",
+          "es": "peatonal",
+          "ru": "пешеход"
+        }
+      },
+      {
+        "id": "remote-directions-a2-gap-6",
+        "fr": "Le passage piéton est devant vous.",
+        "l2": "Le passage piéton est devant vous.",
+        "speak": "Le passage piéton est devant vous.",
+        "blank": "passage",
+        "en": "crossing / passage",
+        "gloss": {
+          "en": "crossing / passage",
+          "es": "cruce / paso",
+          "ru": "переезд/проход"
+        }
+      },
+      {
+        "id": "remote-directions-a2-gap-7",
+        "fr": "Le café est au coin de la rue.",
+        "l2": "Le café est au coin de la rue.",
+        "speak": "Le café est au coin de la rue.",
+        "blank": "coin",
+        "en": "corner",
+        "gloss": {
+          "en": "corner",
+          "es": "esquina",
+          "ru": "угол"
+        }
+      },
+      {
+        "id": "remote-directions-a2-gap-8",
+        "fr": "Prenez la deuxième sortie au rond-point.",
+        "l2": "Prenez la deuxième sortie au rond-point.",
+        "speak": "Prenez la deuxième sortie au rond-point.",
+        "blank": "rond-point",
+        "en": "roundabout",
+        "gloss": {
+          "en": "roundabout",
+          "es": "rotonda",
+          "ru": "кольцевая развязка"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-directions-a2-ord-1",
+        "fr": "Quel est le plus court chemin ?",
+        "l2": "Quel est le plus court chemin ?",
+        "en": "way / path",
+        "gloss": {
+          "en": "way / path",
+          "es": "camino / camino",
+          "ru": "путь / путь"
+        },
+        "words": [
+          "Quel",
+          "est",
+          "le",
+          "plus",
+          "court",
+          "chemin",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-directions-a2-ord-2",
+        "fr": "Voici l’itinéraire jusqu’à l’hôtel.",
+        "l2": "Voici l’itinéraire jusqu’à l’hôtel.",
+        "en": "route",
+        "gloss": {
+          "en": "route",
+          "es": "ruta",
+          "ru": "маршрут"
+        },
+        "words": [
+          "Voici",
+          "l’itinéraire",
+          "jusqu’à",
+          "l’hôtel."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-ord-3",
+        "fr": "Tournez à droite au carrefour.",
+        "l2": "Tournez à droite au carrefour.",
+        "en": "crossroads",
+        "gloss": {
+          "en": "crossroads",
+          "es": "encrucijada",
+          "ru": "перекресток"
+        },
+        "words": [
+          "Tournez",
+          "à",
+          "droite",
+          "au",
+          "carrefour."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-ord-4",
+        "fr": "Arrêtez-vous au feu rouge.",
+        "l2": "Arrêtez-vous au feu rouge.",
+        "en": "traffic light",
+        "gloss": {
+          "en": "traffic light",
+          "es": "semáforo",
+          "ru": "светофор"
+        },
+        "words": [
+          "Arrêtez-vous",
+          "au",
+          "feu",
+          "rouge."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-ord-5",
+        "fr": "Les piétons traversent ici.",
+        "l2": "Les piétons traversent ici.",
+        "en": "pedestrian",
+        "gloss": {
+          "en": "pedestrian",
+          "es": "peatonal",
+          "ru": "пешеход"
+        },
+        "words": [
+          "Les",
+          "piétons",
+          "traversent",
+          "ici."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-ord-6",
+        "fr": "Le passage piéton est devant vous.",
+        "l2": "Le passage piéton est devant vous.",
+        "en": "crossing / passage",
+        "gloss": {
+          "en": "crossing / passage",
+          "es": "cruce / paso",
+          "ru": "переезд/проход"
+        },
+        "words": [
+          "Le",
+          "passage",
+          "piéton",
+          "est",
+          "devant",
+          "vous."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-ord-7",
+        "fr": "Le café est au coin de la rue.",
+        "l2": "Le café est au coin de la rue.",
+        "en": "corner",
+        "gloss": {
+          "en": "corner",
+          "es": "esquina",
+          "ru": "угол"
+        },
+        "words": [
+          "Le",
+          "café",
+          "est",
+          "au",
+          "coin",
+          "de",
+          "la",
+          "rue."
+        ]
+      },
+      {
+        "id": "remote-directions-a2-ord-8",
+        "fr": "Prenez la deuxième sortie au rond-point.",
+        "l2": "Prenez la deuxième sortie au rond-point.",
+        "en": "roundabout",
+        "gloss": {
+          "en": "roundabout",
+          "es": "rotonda",
+          "ru": "кольцевая развязка"
+        },
+        "words": [
+          "Prenez",
+          "la",
+          "deuxième",
+          "sortie",
+          "au",
+          "rond-point."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-directions-a2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ʃə.mɛ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "chemin",
+          "l2": "chemin",
+          "en": "way / path",
+          "gloss": {
+            "en": "way / path",
+            "es": "camino / camino",
+            "ru": "путь / путь"
+          },
+          "ipa": "ʃə.mɛ̃"
+        },
+        {
+          "fr": "itinéraire",
+          "l2": "itinéraire",
+          "en": "route",
+          "gloss": {
+            "en": "route",
+            "es": "ruta",
+            "ru": "маршрут"
+          },
+          "ipa": "i.ti.ne.ʁɛʁ"
+        },
+        {
+          "fr": "carrefour",
+          "l2": "carrefour",
+          "en": "crossroads",
+          "gloss": {
+            "en": "crossroads",
+            "es": "encrucijada",
+            "ru": "перекресток"
+          },
+          "ipa": "kaʁ.fuʁ"
+        },
+        {
+          "fr": "feu",
+          "l2": "feu",
+          "en": "traffic light",
+          "gloss": {
+            "en": "traffic light",
+            "es": "semáforo",
+            "ru": "светофор"
+          },
+          "ipa": "fø"
+        },
+        {
+          "fr": "piéton",
+          "l2": "piéton",
+          "en": "pedestrian",
+          "gloss": {
+            "en": "pedestrian",
+            "es": "peatonal",
+            "ru": "пешеход"
+          },
+          "ipa": "pje.tɔ̃"
+        }
+      ]
+    }
+  ]
 }

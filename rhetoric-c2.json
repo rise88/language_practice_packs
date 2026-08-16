@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "rhetoric-c2",
-  "version": 4,
+  "version": 5,
   "level": "c2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "conclut-il",
             "il conclut",
             "conclut"
-          ]
+          ],
+          "gloss": {
+            "en": "Also the speaker ___ by a brief peroration.",
+            "es": "También el orador ___ mediante una breve perorata.",
+            "ru": "Также оратор ___ с кратким выступлением."
+          },
+          "why": {
+            "fr": "Réponse : « conclut-il ».",
+            "en": "Answer: “conclut-il”.",
+            "es": "Respuesta: « conclut-il ».",
+            "ru": "Ответ: « conclut-il »."
+          }
         },
         {
           "id": "remote-rhetoric-gq-2",
@@ -537,7 +548,18 @@
             "cède-t-on",
             "on cède",
             "cède-on"
-          ]
+          ],
+          "gloss": {
+            "en": "Maybe ___ too much pathos.",
+            "es": "Quizás ___ demasiado patetismo.",
+            "ru": "Возможно ___ слишком много пафоса."
+          },
+          "why": {
+            "fr": "Réponse : « cède-t-on ».",
+            "en": "Answer: “cède-t-on”.",
+            "es": "Respuesta: « cède-t-on ».",
+            "ru": "Ответ: « cède-t-on »."
+          }
         },
         {
           "id": "remote-rhetoric-gq-3",
@@ -547,13 +569,25 @@
             "eut-il",
             "il eut",
             "avait"
-          ]
+          ],
+          "gloss": {
+            "en": "À peine ___ commencé l’exorde que l’assemblée se tut.",
+            "es": "À peine ___ commencé l’exorde que l’assemblée se tut.",
+            "ru": "Едва началось вступление, как собрание воцарилось молчание."
+          },
+          "why": {
+            "fr": "Réponse : « eut-il ».",
+            "en": "Answer: “eut-il”.",
+            "es": "Respuesta: « eut-il ».",
+            "ru": "Ответ: « eut-il »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Stylistic inversion.",
         "es": "Útil cuando necesitas aplicar: Inversión estilística.",
-        "ru": "Полезно, когда нужно применить: Стилистическую инверсию."
+        "ru": "Полезно, когда нужно применить: Стилистическую инверсию.",
+        "fr": "Utile pour appliquer : L’inversion stylistique."
       }
     },
     {
@@ -606,7 +640,18 @@
             "ne",
             "pas",
             "n’en"
-          ]
+          ],
+          "gloss": {
+            "en": "I fear this ___ trope is too conventional.",
+            "es": "Me temo que este tropo ___ es demasiado convencional.",
+            "ru": "Боюсь, этот ___ образ слишком условен."
+          },
+          "why": {
+            "fr": "Réponse : « ne ».",
+            "en": "Answer: “ne”.",
+            "es": "Respuesta: « ne ».",
+            "ru": "Ответ: « ne »."
+          }
         },
         {
           "id": "remote-rhetoric-gq-5",
@@ -616,13 +661,25 @@
             "ne",
             "pas",
             "n’"
-          ]
+          ],
+          "gloss": {
+            "en": "The speaker is more skillful than one would think.",
+            "es": "El orador es más hábil de lo que uno podría pensar.",
+            "ru": "Оратор более искусен, чем можно было бы подумать."
+          },
+          "why": {
+            "fr": "Réponse : « ne ».",
+            "en": "Answer: “ne”.",
+            "es": "Respuesta: « ne ».",
+            "ru": "Ответ: « ne »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Expletive ne.",
         "es": "Útil cuando es necesario aplicar: Impropio ne.",
-        "ru": "Полезно, когда нужно применить: Ругательство н.э."
+        "ru": "Полезно, когда нужно применить: Ругательство н.э.",
+        "fr": "Utile pour appliquer : Le ne explétif."
       }
     }
   ],
@@ -866,6 +923,1065 @@
         },
         "l2": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-rhetoric-fren-1",
+        "fr": "trope",
+        "en": "trope",
+        "gloss": {
+          "en": "trope",
+          "es": "tropo",
+          "ru": "образ"
+        },
+        "l2": "trope"
+      },
+      {
+        "id": "remote-rhetoric-fren-2",
+        "fr": "éthos",
+        "en": "ethos",
+        "gloss": {
+          "en": "ethos",
+          "es": "carácter distintivo",
+          "ru": "этос"
+        },
+        "l2": "éthos"
+      },
+      {
+        "id": "remote-rhetoric-fren-3",
+        "fr": "pathos",
+        "en": "pathos",
+        "gloss": {
+          "en": "pathos",
+          "es": "patetismo",
+          "ru": "пафос"
+        },
+        "l2": "pathos"
+      },
+      {
+        "id": "remote-rhetoric-fren-4",
+        "fr": "chiasme",
+        "en": "chiasmus",
+        "gloss": {
+          "en": "chiasmus",
+          "es": "quiasmo",
+          "ru": "хиазм"
+        },
+        "l2": "chiasme"
+      },
+      {
+        "id": "remote-rhetoric-fren-5",
+        "fr": "péroraison",
+        "en": "peroration",
+        "gloss": {
+          "en": "peroration",
+          "es": "perorata",
+          "ru": "выступление"
+        },
+        "l2": "péroraison"
+      },
+      {
+        "id": "remote-rhetoric-fren-6",
+        "fr": "métaphore",
+        "en": "metaphor",
+        "gloss": {
+          "en": "metaphor",
+          "es": "metáfora",
+          "ru": "метафора"
+        },
+        "l2": "métaphore"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-rhetoric-c2-enl2-1",
+        "fr": "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+        "l2": "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+        "en": "trope",
+        "gloss": {
+          "en": "trope",
+          "es": "tropo",
+          "ru": "образ"
+        },
+        "prompt": "trope",
+        "choices": [
+          "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+          "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+          "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-enl2-2",
+        "fr": "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+        "l2": "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+        "en": "ethos",
+        "gloss": {
+          "en": "ethos",
+          "es": "carácter distintivo",
+          "ru": "этос"
+        },
+        "prompt": "ethos",
+        "choices": [
+          "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+          "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+          "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-enl2-3",
+        "fr": "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement.",
+        "l2": "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement.",
+        "en": "pathos",
+        "gloss": {
+          "en": "pathos",
+          "es": "patetismo",
+          "ru": "пафос"
+        },
+        "prompt": "pathos",
+        "choices": [
+          "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement.",
+          "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+          "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-enl2-4",
+        "fr": "Par un chiasme serré, la maxime se referme sur elle-même et force l’attention.",
+        "l2": "Par un chiasme serré, la maxime se referme sur elle-même et force l’attention.",
+        "en": "chiasmus",
+        "gloss": {
+          "en": "chiasmus",
+          "es": "quiasmo",
+          "ru": "хиазм"
+        },
+        "prompt": "chiasmus",
+        "choices": [
+          "Par un chiasme serré, la maxime se referme sur elle-même et force l’attention.",
+          "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+          "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-enl2-5",
+        "fr": "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+        "l2": "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+        "en": "peroration",
+        "gloss": {
+          "en": "peroration",
+          "es": "perorata",
+          "ru": "выступление"
+        },
+        "prompt": "peroration",
+        "choices": [
+          "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+          "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+          "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-enl2-6",
+        "fr": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+        "l2": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+        "en": "metaphor",
+        "gloss": {
+          "en": "metaphor",
+          "es": "metáfora",
+          "ru": "метафора"
+        },
+        "prompt": "metaphor",
+        "choices": [
+          "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+          "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+          "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-enl2-7",
+        "fr": "Par métonymie, le palais désigne le souverain, et le sceptre le pouvoir.",
+        "l2": "Par métonymie, le palais désigne le souverain, et le sceptre le pouvoir.",
+        "en": "metonymy",
+        "gloss": {
+          "en": "metonymy",
+          "es": "metonimia",
+          "ru": "метонимия"
+        },
+        "prompt": "metonymy",
+        "choices": [
+          "Par métonymie, le palais désigne le souverain, et le sceptre le pouvoir.",
+          "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+          "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-enl2-8",
+        "fr": "L’anaphore martèle l’accusation jusqu’à ce que l’oreille n’en puisse plus douter.",
+        "l2": "L’anaphore martèle l’accusation jusqu’à ce que l’oreille n’en puisse plus douter.",
+        "en": "anaphora",
+        "gloss": {
+          "en": "anaphora",
+          "es": "anáfora",
+          "ru": "анафора"
+        },
+        "prompt": "anaphora",
+        "choices": [
+          "L’anaphore martèle l’accusation jusqu’à ce que l’oreille n’en puisse plus douter.",
+          "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+          "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-rhetoric-c2-prm-1",
+        "en": "trope",
+        "gloss": {
+          "en": "trope",
+          "es": "tropo",
+          "ru": "образ"
+        },
+        "answers": [
+          "trope",
+          "le trope"
+        ],
+        "target": "le trope"
+      },
+      {
+        "id": "remote-rhetoric-c2-prm-2",
+        "en": "ethos",
+        "gloss": {
+          "en": "ethos",
+          "es": "carácter distintivo",
+          "ru": "этос"
+        },
+        "answers": [
+          "éthos",
+          "l' éthos"
+        ],
+        "target": "l' éthos"
+      },
+      {
+        "id": "remote-rhetoric-c2-prm-3",
+        "en": "pathos",
+        "gloss": {
+          "en": "pathos",
+          "es": "patetismo",
+          "ru": "пафос"
+        },
+        "answers": [
+          "pathos",
+          "le pathos"
+        ],
+        "target": "le pathos"
+      },
+      {
+        "id": "remote-rhetoric-c2-prm-4",
+        "en": "chiasmus",
+        "gloss": {
+          "en": "chiasmus",
+          "es": "quiasmo",
+          "ru": "хиазм"
+        },
+        "answers": [
+          "chiasme",
+          "le chiasme"
+        ],
+        "target": "le chiasme"
+      },
+      {
+        "id": "remote-rhetoric-c2-prm-5",
+        "en": "peroration",
+        "gloss": {
+          "en": "peroration",
+          "es": "perorata",
+          "ru": "выступление"
+        },
+        "answers": [
+          "péroraison",
+          "la péroraison"
+        ],
+        "target": "la péroraison"
+      },
+      {
+        "id": "remote-rhetoric-c2-prm-6",
+        "en": "metaphor",
+        "gloss": {
+          "en": "metaphor",
+          "es": "metáfora",
+          "ru": "метафора"
+        },
+        "answers": [
+          "métaphore",
+          "la métaphore"
+        ],
+        "target": "la métaphore"
+      },
+      {
+        "id": "remote-rhetoric-c2-prm-7",
+        "en": "metonymy",
+        "gloss": {
+          "en": "metonymy",
+          "es": "metonimia",
+          "ru": "метонимия"
+        },
+        "answers": [
+          "métonymie",
+          "la métonymie"
+        ],
+        "target": "la métonymie"
+      },
+      {
+        "id": "remote-rhetoric-c2-prm-8",
+        "en": "anaphora",
+        "gloss": {
+          "en": "anaphora",
+          "es": "anáfora",
+          "ru": "анафора"
+        },
+        "answers": [
+          "anaphore",
+          "l' anaphore"
+        ],
+        "target": "l' anaphore"
+      },
+      {
+        "id": "remote-rhetoric-c2-prm-9",
+        "en": "antithesis",
+        "gloss": {
+          "en": "antithesis",
+          "es": "antítesis",
+          "ru": "антитеза"
+        },
+        "answers": [
+          "antithèse",
+          "l' antithèse"
+        ],
+        "target": "l' antithèse"
+      },
+      {
+        "id": "remote-rhetoric-c2-prm-10",
+        "en": "exordium",
+        "gloss": {
+          "en": "exordium",
+          "es": "exordio",
+          "ru": "экзордий"
+        },
+        "answers": [
+          "exorde",
+          "l' exorde"
+        ],
+        "target": "l' exorde"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-rhetoric-c2-sign-1",
+        "fr": "trope",
+        "l2": "trope",
+        "en": "trope",
+        "gloss": {
+          "en": "trope",
+          "es": "tropo",
+          "ru": "образ"
+        },
+        "choices": [
+          "trope",
+          "ethos",
+          "pathos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-2",
+        "fr": "éthos",
+        "l2": "éthos",
+        "en": "ethos",
+        "gloss": {
+          "en": "ethos",
+          "es": "carácter distintivo",
+          "ru": "этос"
+        },
+        "choices": [
+          "ethos",
+          "trope",
+          "pathos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-3",
+        "fr": "pathos",
+        "l2": "pathos",
+        "en": "pathos",
+        "gloss": {
+          "en": "pathos",
+          "es": "patetismo",
+          "ru": "пафос"
+        },
+        "choices": [
+          "pathos",
+          "trope",
+          "ethos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-4",
+        "fr": "chiasme",
+        "l2": "chiasme",
+        "en": "chiasmus",
+        "gloss": {
+          "en": "chiasmus",
+          "es": "quiasmo",
+          "ru": "хиазм"
+        },
+        "choices": [
+          "chiasmus",
+          "trope",
+          "ethos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-5",
+        "fr": "péroraison",
+        "l2": "péroraison",
+        "en": "peroration",
+        "gloss": {
+          "en": "peroration",
+          "es": "perorata",
+          "ru": "выступление"
+        },
+        "choices": [
+          "peroration",
+          "trope",
+          "ethos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-6",
+        "fr": "métaphore",
+        "l2": "métaphore",
+        "en": "metaphor",
+        "gloss": {
+          "en": "metaphor",
+          "es": "metáfora",
+          "ru": "метафора"
+        },
+        "choices": [
+          "metaphor",
+          "trope",
+          "ethos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-7",
+        "fr": "métonymie",
+        "l2": "métonymie",
+        "en": "metonymy",
+        "gloss": {
+          "en": "metonymy",
+          "es": "metonimia",
+          "ru": "метонимия"
+        },
+        "choices": [
+          "metonymy",
+          "trope",
+          "ethos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-8",
+        "fr": "anaphore",
+        "l2": "anaphore",
+        "en": "anaphora",
+        "gloss": {
+          "en": "anaphora",
+          "es": "anáfora",
+          "ru": "анафора"
+        },
+        "choices": [
+          "anaphora",
+          "trope",
+          "ethos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-9",
+        "fr": "antithèse",
+        "l2": "antithèse",
+        "en": "antithesis",
+        "gloss": {
+          "en": "antithesis",
+          "es": "antítesis",
+          "ru": "антитеза"
+        },
+        "choices": [
+          "antithesis",
+          "trope",
+          "ethos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-10",
+        "fr": "exorde",
+        "l2": "exorde",
+        "en": "exordium",
+        "gloss": {
+          "en": "exordium",
+          "es": "exordio",
+          "ru": "экзордий"
+        },
+        "choices": [
+          "exordium",
+          "trope",
+          "ethos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-11",
+        "fr": "enthymème",
+        "l2": "enthymème",
+        "en": "enthymeme",
+        "gloss": {
+          "en": "enthymeme",
+          "es": "entimema",
+          "ru": "энтимем"
+        },
+        "choices": [
+          "enthymeme",
+          "trope",
+          "ethos"
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-sign-12",
+        "fr": "hypotypose",
+        "l2": "hypotypose",
+        "en": "hypotyposis",
+        "gloss": {
+          "en": "hypotyposis",
+          "es": "hipotiposis",
+          "ru": "гипотипия"
+        },
+        "choices": [
+          "hypotyposis",
+          "trope",
+          "ethos"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-rhetoric-c2-pair-1",
+        "a": {
+          "fr": "trope",
+          "l2": "trope",
+          "en": "trope",
+          "gloss": {
+            "en": "trope",
+            "es": "tropo",
+            "ru": "образ"
+          }
+        },
+        "b": {
+          "fr": "éthos",
+          "l2": "éthos",
+          "en": "ethos",
+          "gloss": {
+            "en": "ethos",
+            "es": "carácter distintivo",
+            "ru": "этос"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-rhetoric-c2-pair-2",
+        "a": {
+          "fr": "pathos",
+          "l2": "pathos",
+          "en": "pathos",
+          "gloss": {
+            "en": "pathos",
+            "es": "patetismo",
+            "ru": "пафос"
+          }
+        },
+        "b": {
+          "fr": "chiasme",
+          "l2": "chiasme",
+          "en": "chiasmus",
+          "gloss": {
+            "en": "chiasmus",
+            "es": "quiasmo",
+            "ru": "хиазм"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-rhetoric-c2-pair-3",
+        "a": {
+          "fr": "péroraison",
+          "l2": "péroraison",
+          "en": "peroration",
+          "gloss": {
+            "en": "peroration",
+            "es": "perorata",
+            "ru": "выступление"
+          }
+        },
+        "b": {
+          "fr": "métaphore",
+          "l2": "métaphore",
+          "en": "metaphor",
+          "gloss": {
+            "en": "metaphor",
+            "es": "metáfora",
+            "ru": "метафора"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-rhetoric-c2-pair-4",
+        "a": {
+          "fr": "métonymie",
+          "l2": "métonymie",
+          "en": "metonymy",
+          "gloss": {
+            "en": "metonymy",
+            "es": "metonimia",
+            "ru": "метонимия"
+          }
+        },
+        "b": {
+          "fr": "anaphore",
+          "l2": "anaphore",
+          "en": "anaphora",
+          "gloss": {
+            "en": "anaphora",
+            "es": "anáfora",
+            "ru": "анафора"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-rhetoric-c2-pair-5",
+        "a": {
+          "fr": "antithèse",
+          "l2": "antithèse",
+          "en": "antithesis",
+          "gloss": {
+            "en": "antithesis",
+            "es": "antítesis",
+            "ru": "антитеза"
+          }
+        },
+        "b": {
+          "fr": "exorde",
+          "l2": "exorde",
+          "en": "exordium",
+          "gloss": {
+            "en": "exordium",
+            "es": "exordio",
+            "ru": "экзордий"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-rhetoric-c2-gap-1",
+        "fr": "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+        "l2": "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+        "speak": "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+        "blank": "trope",
+        "en": "trope",
+        "gloss": {
+          "en": "trope",
+          "es": "tropo",
+          "ru": "образ"
+        }
+      },
+      {
+        "id": "remote-rhetoric-c2-gap-2",
+        "fr": "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+        "l2": "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+        "speak": "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+        "blank": "éthos",
+        "en": "ethos",
+        "gloss": {
+          "en": "ethos",
+          "es": "carácter distintivo",
+          "ru": "этос"
+        }
+      },
+      {
+        "id": "remote-rhetoric-c2-gap-3",
+        "fr": "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement.",
+        "l2": "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement.",
+        "speak": "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement.",
+        "blank": "pathos",
+        "en": "pathos",
+        "gloss": {
+          "en": "pathos",
+          "es": "patetismo",
+          "ru": "пафос"
+        }
+      },
+      {
+        "id": "remote-rhetoric-c2-gap-4",
+        "fr": "Par un chiasme serré, la maxime se referme sur elle-même et force l’attention.",
+        "l2": "Par un chiasme serré, la maxime se referme sur elle-même et force l’attention.",
+        "speak": "Par un chiasme serré, la maxime se referme sur elle-même et force l’attention.",
+        "blank": "chiasme",
+        "en": "chiasmus",
+        "gloss": {
+          "en": "chiasmus",
+          "es": "quiasmo",
+          "ru": "хиазм"
+        }
+      },
+      {
+        "id": "remote-rhetoric-c2-gap-5",
+        "fr": "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+        "l2": "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+        "speak": "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+        "blank": "péroraison",
+        "en": "peroration",
+        "gloss": {
+          "en": "peroration",
+          "es": "perorata",
+          "ru": "выступление"
+        }
+      },
+      {
+        "id": "remote-rhetoric-c2-gap-6",
+        "fr": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+        "l2": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+        "speak": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+        "blank": "métaphore",
+        "en": "metaphor",
+        "gloss": {
+          "en": "metaphor",
+          "es": "metáfora",
+          "ru": "метафора"
+        }
+      },
+      {
+        "id": "remote-rhetoric-c2-gap-7",
+        "fr": "Par métonymie, le palais désigne le souverain, et le sceptre le pouvoir.",
+        "l2": "Par métonymie, le palais désigne le souverain, et le sceptre le pouvoir.",
+        "speak": "Par métonymie, le palais désigne le souverain, et le sceptre le pouvoir.",
+        "blank": "métonymie",
+        "en": "metonymy",
+        "gloss": {
+          "en": "metonymy",
+          "es": "metonimia",
+          "ru": "метонимия"
+        }
+      },
+      {
+        "id": "remote-rhetoric-c2-gap-8",
+        "fr": "L’anaphore martèle l’accusation jusqu’à ce que l’oreille n’en puisse plus douter.",
+        "l2": "L’anaphore martèle l’accusation jusqu’à ce que l’oreille n’en puisse plus douter.",
+        "speak": "L’anaphore martèle l’accusation jusqu’à ce que l’oreille n’en puisse plus douter.",
+        "blank": "anaphore",
+        "en": "anaphora",
+        "gloss": {
+          "en": "anaphora",
+          "es": "anáfora",
+          "ru": "анафора"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-rhetoric-c2-ord-1",
+        "fr": "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+        "l2": "Le trope, loin d’orner seulement le discours, en infléchit la portée argumentative.",
+        "en": "trope",
+        "gloss": {
+          "en": "trope",
+          "es": "tropo",
+          "ru": "образ"
+        },
+        "words": [
+          "Le",
+          "trope,",
+          "loin",
+          "d’orner",
+          "seulement",
+          "le",
+          "discours,",
+          "en",
+          "infléchit",
+          "la",
+          "portée",
+          "argumentative."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-ord-2",
+        "fr": "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+        "l2": "L’éthos de l’orateur, construit dès l’exorde, précède et conditionne l’adhésion.",
+        "en": "ethos",
+        "gloss": {
+          "en": "ethos",
+          "es": "carácter distintivo",
+          "ru": "этос"
+        },
+        "words": [
+          "L’éthos",
+          "de",
+          "l’orateur,",
+          "construit",
+          "dès",
+          "l’exorde,",
+          "précède",
+          "et",
+          "conditionne",
+          "l’adhésion."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-ord-3",
+        "fr": "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement.",
+        "l2": "Le pathos, s’il n’est pas contenu, déporte l’auditoire hors du jugement.",
+        "en": "pathos",
+        "gloss": {
+          "en": "pathos",
+          "es": "patetismo",
+          "ru": "пафос"
+        },
+        "words": [
+          "Le",
+          "pathos,",
+          "s’il",
+          "n’est",
+          "pas",
+          "contenu,",
+          "déporte",
+          "l’auditoire",
+          "hors",
+          "du",
+          "jugement."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-ord-4",
+        "fr": "Par un chiasme serré, la maxime se referme sur elle-même et force l’attention.",
+        "l2": "Par un chiasme serré, la maxime se referme sur elle-même et force l’attention.",
+        "en": "chiasmus",
+        "gloss": {
+          "en": "chiasmus",
+          "es": "quiasmo",
+          "ru": "хиазм"
+        },
+        "words": [
+          "Par",
+          "un",
+          "chiasme",
+          "serré,",
+          "la",
+          "maxime",
+          "se",
+          "referme",
+          "sur",
+          "elle-même",
+          "et",
+          "force",
+          "l’attention."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-ord-5",
+        "fr": "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+        "l2": "La péroraison, brève et cinglante, ne retint des arguments que ce qui pouvait emporter la décision.",
+        "en": "peroration",
+        "gloss": {
+          "en": "peroration",
+          "es": "perorata",
+          "ru": "выступление"
+        },
+        "words": [
+          "La",
+          "péroraison,",
+          "brève",
+          "et",
+          "cinglante,",
+          "ne",
+          "retint",
+          "des",
+          "arguments",
+          "que",
+          "ce",
+          "qui",
+          "pouvait",
+          "emporter",
+          "la",
+          "décision."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-ord-6",
+        "fr": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+        "l2": "La métaphore, ici, ne compare point : elle substitue un régime d’images à un régime de preuves.",
+        "en": "metaphor",
+        "gloss": {
+          "en": "metaphor",
+          "es": "metáfora",
+          "ru": "метафора"
+        },
+        "words": [
+          "La",
+          "métaphore,",
+          "ici,",
+          "ne",
+          "compare",
+          "point",
+          ":",
+          "elle",
+          "substitue",
+          "un",
+          "régime",
+          "d’images",
+          "à",
+          "un",
+          "régime",
+          "de",
+          "preuves."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-ord-7",
+        "fr": "Par métonymie, le palais désigne le souverain, et le sceptre le pouvoir.",
+        "l2": "Par métonymie, le palais désigne le souverain, et le sceptre le pouvoir.",
+        "en": "metonymy",
+        "gloss": {
+          "en": "metonymy",
+          "es": "metonimia",
+          "ru": "метонимия"
+        },
+        "words": [
+          "Par",
+          "métonymie,",
+          "le",
+          "palais",
+          "désigne",
+          "le",
+          "souverain,",
+          "et",
+          "le",
+          "sceptre",
+          "le",
+          "pouvoir."
+        ]
+      },
+      {
+        "id": "remote-rhetoric-c2-ord-8",
+        "fr": "L’anaphore martèle l’accusation jusqu’à ce que l’oreille n’en puisse plus douter.",
+        "l2": "L’anaphore martèle l’accusation jusqu’à ce que l’oreille n’en puisse plus douter.",
+        "en": "anaphora",
+        "gloss": {
+          "en": "anaphora",
+          "es": "anáfora",
+          "ru": "анафора"
+        },
+        "words": [
+          "L’anaphore",
+          "martèle",
+          "l’accusation",
+          "jusqu’à",
+          "ce",
+          "que",
+          "l’oreille",
+          "n’en",
+          "puisse",
+          "plus",
+          "douter."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-rhetoric-c2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "tʁɔp",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "trope",
+          "l2": "trope",
+          "en": "trope",
+          "gloss": {
+            "en": "trope",
+            "es": "tropo",
+            "ru": "образ"
+          },
+          "ipa": "tʁɔp"
+        },
+        {
+          "fr": "éthos",
+          "l2": "éthos",
+          "en": "ethos",
+          "gloss": {
+            "en": "ethos",
+            "es": "carácter distintivo",
+            "ru": "этос"
+          },
+          "ipa": "e.tos"
+        },
+        {
+          "fr": "pathos",
+          "l2": "pathos",
+          "en": "pathos",
+          "gloss": {
+            "en": "pathos",
+            "es": "patetismo",
+            "ru": "пафос"
+          },
+          "ipa": "pa.tos"
+        },
+        {
+          "fr": "chiasme",
+          "l2": "chiasme",
+          "en": "chiasmus",
+          "gloss": {
+            "en": "chiasmus",
+            "es": "quiasmo",
+            "ru": "хиазм"
+          },
+          "ipa": "kjasm"
+        },
+        {
+          "fr": "péroraison",
+          "l2": "péroraison",
+          "en": "peroration",
+          "gloss": {
+            "en": "peroration",
+            "es": "perorata",
+            "ru": "выступление"
+          },
+          "ipa": "pe.ʁɔ.ʁɛ.zɔ̃"
+        }
+      ]
+    }
+  ]
 }

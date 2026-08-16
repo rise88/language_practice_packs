@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "media-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "parce que",
             "toutefois",
             "afin que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: This title is catchy, ___ it simplifies the file.",
+            "es": "Completo: Este título es pegadizo, ___ simplifica el archivo.",
+            "ru": "Завершено: этот заголовок запоминающийся, ___ он упрощает файл."
+          },
+          "why": {
+            "fr": "Réponse : « toutefois ».",
+            "en": "Answer: “toutefois”.",
+            "es": "Respuesta: « toutefois ».",
+            "ru": "Ответ: « toutefois »."
+          }
         },
         {
           "id": "remote-media-gq-2",
@@ -537,7 +548,18 @@
             "En revanche",
             "Afin que",
             "Puisque"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Logs check. ___ networks prioritize speed.",
+            "es": "Completo: verificación de registros. ___ las redes priorizan la velocidad.",
+            "ru": "Завершено: проверка журналов. ___ сети отдают приоритет скорости."
+          },
+          "why": {
+            "fr": "Réponse : « En revanche ».",
+            "en": "Answer: “En revanche”.",
+            "es": "Respuesta: « En revanche ».",
+            "ru": "Ответ: « En revanche »."
+          }
         },
         {
           "id": "remote-media-gq-3",
@@ -547,13 +569,25 @@
             "donc",
             "néanmoins",
             "lorsque"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: The investigation is solid; ___ bias shows through.",
+            "es": "Completo: La investigación es sólida; ___ el sesgo se nota.",
+            "ru": "Завершено: расследование проведено убедительно; ___ предвзятость проявляется."
+          },
+          "why": {
+            "fr": "Réponse : « néanmoins ».",
+            "en": "Answer: “néanmoins”.",
+            "es": "Respuesta: « néanmoins ».",
+            "ru": "Ответ: « néanmoins »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Discourse markers: contrast.",
         "es": "Útil cuando es necesario aplicar: Marcadores discursivos: contraste.",
-        "ru": "Полезно, когда вам нужно применить: Маркеры дискурса: контраст."
+        "ru": "Полезно, когда вам нужно применить: Маркеры дискурса: контраст.",
+        "fr": "Utile pour appliquer : Marqueurs de discours : en revanche, toutefois, néanmoins."
       }
     },
     {
@@ -606,7 +640,18 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Although the article ___ well-researched, bias is apparent.",
+            "es": "Completo: aunque el artículo ___ está bien investigado, el sesgo es evidente.",
+            "ru": "Завершено: Хотя статья ___ хорошо изучена, предвзятость очевидна."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-media-gq-5",
@@ -616,13 +661,25 @@
             "bien que",
             "malgré",
             "afin que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: The correspondent transmitted images ___ censorship.",
+            "es": "Complète : Le correspondant a transmis des images ___ la censure.",
+            "ru": "Завершено: Корреспондент передал изображения ___ цензуры."
+          },
+          "why": {
+            "fr": "Réponse : « malgré ».",
+            "en": "Answer: “malgré”.",
+            "es": "Respuesta: « malgré ».",
+            "ru": "Ответ: « malgré »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Concessive: bien que vs malgré.",
         "es": "Útil cuando necesitas aplicar: Concesivo: bien que vs malgré.",
-        "ru": "Полезно, когда вам нужно подать заявку: Уступка: bien que vs malgré."
+        "ru": "Полезно, когда вам нужно подать заявку: Уступка: bien que vs malgré.",
+        "fr": "Utile pour appliquer : Bien que + subjonctif / malgré + nom."
       }
     }
   ],
@@ -877,6 +934,850 @@
         },
         "l2": "rédaction"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-media-fren-1",
+        "fr": "rédaction",
+        "en": "newsroom",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        },
+        "l2": "rédaction"
+      },
+      {
+        "id": "remote-media-fren-2",
+        "fr": "impartialité",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        },
+        "l2": "impartialité"
+      },
+      {
+        "id": "remote-media-fren-3",
+        "fr": "source",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "l2": "source"
+      },
+      {
+        "id": "remote-media-fren-4",
+        "fr": "biais",
+        "en": "bias",
+        "gloss": {
+          "en": "bias",
+          "es": "inclinación",
+          "ru": "предвзятость"
+        },
+        "l2": "biais"
+      },
+      {
+        "id": "remote-media-fren-5",
+        "fr": "désinformation",
+        "en": "disinformation",
+        "gloss": {
+          "en": "disinformation",
+          "es": "desinformación",
+          "ru": "дезинформация"
+        },
+        "l2": "désinformation"
+      },
+      {
+        "id": "remote-media-fren-6",
+        "fr": "titre",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "l2": "titre"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-media-b2-enl2-1",
+        "fr": "La rédaction a décidé de vérifier chaque source avant publication.",
+        "l2": "La rédaction a décidé de vérifier chaque source avant publication.",
+        "en": "newsroom",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        },
+        "prompt": "newsroom",
+        "choices": [
+          "La rédaction a décidé de vérifier chaque source avant publication.",
+          "L’impartialité du journal est mise en doute depuis cette enquête.",
+          "Aucune source indépendante n’a encore confirmé cette information."
+        ]
+      },
+      {
+        "id": "remote-media-b2-enl2-2",
+        "fr": "L’impartialité du journal est mise en doute depuis cette enquête.",
+        "l2": "L’impartialité du journal est mise en doute depuis cette enquête.",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        },
+        "prompt": "impartiality",
+        "choices": [
+          "L’impartialité du journal est mise en doute depuis cette enquête.",
+          "La rédaction a décidé de vérifier chaque source avant publication.",
+          "Aucune source indépendante n’a encore confirmé cette information."
+        ]
+      },
+      {
+        "id": "remote-media-b2-enl2-3",
+        "fr": "Aucune source indépendante n’a encore confirmé cette information.",
+        "l2": "Aucune source indépendante n’a encore confirmé cette information.",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "prompt": "source",
+        "choices": [
+          "Aucune source indépendante n’a encore confirmé cette information.",
+          "La rédaction a décidé de vérifier chaque source avant publication.",
+          "L’impartialité du journal est mise en doute depuis cette enquête."
+        ]
+      },
+      {
+        "id": "remote-media-b2-enl2-4",
+        "fr": "Ce biais éditorial transparaît dès le choix des titres en une.",
+        "l2": "Ce biais éditorial transparaît dès le choix des titres en une.",
+        "en": "bias",
+        "gloss": {
+          "en": "bias",
+          "es": "inclinación",
+          "ru": "предвзятость"
+        },
+        "prompt": "bias",
+        "choices": [
+          "Ce biais éditorial transparaît dès le choix des titres en une.",
+          "La rédaction a décidé de vérifier chaque source avant publication.",
+          "L’impartialité du journal est mise en doute depuis cette enquête."
+        ]
+      },
+      {
+        "id": "remote-media-b2-enl2-5",
+        "fr": "La désinformation se propage plus vite que le démenti officiel.",
+        "l2": "La désinformation se propage plus vite que le démenti officiel.",
+        "en": "disinformation",
+        "gloss": {
+          "en": "disinformation",
+          "es": "desinformación",
+          "ru": "дезинформация"
+        },
+        "prompt": "disinformation",
+        "choices": [
+          "La désinformation se propage plus vite que le démenti officiel.",
+          "La rédaction a décidé de vérifier chaque source avant publication.",
+          "L’impartialité du journal est mise en doute depuis cette enquête."
+        ]
+      },
+      {
+        "id": "remote-media-b2-enl2-6",
+        "fr": "Le titre choc a été jugé trompeur par une partie des lecteurs.",
+        "l2": "Le titre choc a été jugé trompeur par une partie des lecteurs.",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "prompt": "headline",
+        "choices": [
+          "Le titre choc a été jugé trompeur par une partie des lecteurs.",
+          "La rédaction a décidé de vérifier chaque source avant publication.",
+          "L’impartialité du journal est mise en doute depuis cette enquête."
+        ]
+      },
+      {
+        "id": "remote-media-b2-enl2-7",
+        "fr": "L’enquête journalistique a révélé des conflits d’intérêts jusqu’alors ignorés.",
+        "l2": "L’enquête journalistique a révélé des conflits d’intérêts jusqu’alors ignorés.",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        },
+        "prompt": "investigation",
+        "choices": [
+          "L’enquête journalistique a révélé des conflits d’intérêts jusqu’alors ignorés.",
+          "La rédaction a décidé de vérifier chaque source avant publication.",
+          "L’impartialité du journal est mise en doute depuis cette enquête."
+        ]
+      },
+      {
+        "id": "remote-media-b2-enl2-8",
+        "fr": "Le correspondant à l’étranger a transmis des images malgré la censure.",
+        "l2": "Le correspondant à l’étranger a transmis des images malgré la censure.",
+        "en": "correspondent",
+        "gloss": {
+          "en": "correspondent",
+          "es": "corresponsal",
+          "ru": "корреспондент"
+        },
+        "prompt": "correspondent",
+        "choices": [
+          "Le correspondant à l’étranger a transmis des images malgré la censure.",
+          "La rédaction a décidé de vérifier chaque source avant publication.",
+          "L’impartialité du journal est mise en doute depuis cette enquête."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-media-b2-prm-1",
+        "en": "newsroom",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        },
+        "answers": [
+          "rédaction",
+          "la rédaction"
+        ],
+        "target": "la rédaction"
+      },
+      {
+        "id": "remote-media-b2-prm-2",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        },
+        "answers": [
+          "impartialité",
+          "l' impartialité"
+        ],
+        "target": "l' impartialité"
+      },
+      {
+        "id": "remote-media-b2-prm-3",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "answers": [
+          "source",
+          "la source"
+        ],
+        "target": "la source"
+      },
+      {
+        "id": "remote-media-b2-prm-4",
+        "en": "bias",
+        "gloss": {
+          "en": "bias",
+          "es": "inclinación",
+          "ru": "предвзятость"
+        },
+        "answers": [
+          "biais",
+          "le biais"
+        ],
+        "target": "le biais"
+      },
+      {
+        "id": "remote-media-b2-prm-5",
+        "en": "disinformation",
+        "gloss": {
+          "en": "disinformation",
+          "es": "desinformación",
+          "ru": "дезинформация"
+        },
+        "answers": [
+          "désinformation",
+          "la désinformation"
+        ],
+        "target": "la désinformation"
+      },
+      {
+        "id": "remote-media-b2-prm-6",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "answers": [
+          "titre",
+          "le titre"
+        ],
+        "target": "le titre"
+      },
+      {
+        "id": "remote-media-b2-prm-7",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        },
+        "answers": [
+          "enquête",
+          "l' enquête"
+        ],
+        "target": "l' enquête"
+      },
+      {
+        "id": "remote-media-b2-prm-8",
+        "en": "correspondent",
+        "gloss": {
+          "en": "correspondent",
+          "es": "corresponsal",
+          "ru": "корреспондент"
+        },
+        "answers": [
+          "correspondant",
+          "le correspondant"
+        ],
+        "target": "le correspondant"
+      },
+      {
+        "id": "remote-media-b2-prm-9",
+        "en": "fact-checking",
+        "gloss": {
+          "en": "fact-checking",
+          "es": "verificación de hechos",
+          "ru": "проверка фактов"
+        },
+        "answers": [
+          "vérification",
+          "la vérification"
+        ],
+        "target": "la vérification"
+      },
+      {
+        "id": "remote-media-b2-prm-10",
+        "en": "polarization",
+        "gloss": {
+          "en": "polarization",
+          "es": "polarización",
+          "ru": "поляризация"
+        },
+        "answers": [
+          "polarisation",
+          "la polarisation"
+        ],
+        "target": "la polarisation"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-media-b2-pair-1",
+        "a": {
+          "fr": "rédaction",
+          "l2": "rédaction",
+          "en": "newsroom",
+          "gloss": {
+            "en": "newsroom",
+            "es": "sala de redacción",
+            "ru": "отдел новостей"
+          }
+        },
+        "b": {
+          "fr": "impartialité",
+          "l2": "impartialité",
+          "en": "impartiality",
+          "gloss": {
+            "en": "impartiality",
+            "es": "imparcialidad",
+            "ru": "беспристрастность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-media-b2-pair-2",
+        "a": {
+          "fr": "source",
+          "l2": "source",
+          "en": "source",
+          "gloss": {
+            "en": "source",
+            "es": "fuente",
+            "ru": "источник"
+          }
+        },
+        "b": {
+          "fr": "biais",
+          "l2": "biais",
+          "en": "bias",
+          "gloss": {
+            "en": "bias",
+            "es": "inclinación",
+            "ru": "предвзятость"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-media-b2-pair-3",
+        "a": {
+          "fr": "désinformation",
+          "l2": "désinformation",
+          "en": "disinformation",
+          "gloss": {
+            "en": "disinformation",
+            "es": "desinformación",
+            "ru": "дезинформация"
+          }
+        },
+        "b": {
+          "fr": "titre",
+          "l2": "titre",
+          "en": "headline",
+          "gloss": {
+            "en": "headline",
+            "es": "titular",
+            "ru": "заголовок"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-media-b2-pair-4",
+        "a": {
+          "fr": "enquête",
+          "l2": "enquête",
+          "en": "investigation",
+          "gloss": {
+            "en": "investigation",
+            "es": "investigación",
+            "ru": "расследование"
+          }
+        },
+        "b": {
+          "fr": "correspondant",
+          "l2": "correspondant",
+          "en": "correspondent",
+          "gloss": {
+            "en": "correspondent",
+            "es": "corresponsal",
+            "ru": "корреспондент"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-media-b2-pair-5",
+        "a": {
+          "fr": "vérification",
+          "l2": "vérification",
+          "en": "fact-checking",
+          "gloss": {
+            "en": "fact-checking",
+            "es": "verificación de hechos",
+            "ru": "проверка фактов"
+          }
+        },
+        "b": {
+          "fr": "polarisation",
+          "l2": "polarisation",
+          "en": "polarization",
+          "gloss": {
+            "en": "polarization",
+            "es": "polarización",
+            "ru": "поляризация"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-media-b2-gap-1",
+        "fr": "La rédaction a décidé de vérifier chaque source avant publication.",
+        "l2": "La rédaction a décidé de vérifier chaque source avant publication.",
+        "speak": "La rédaction a décidé de vérifier chaque source avant publication.",
+        "blank": "rédaction",
+        "en": "newsroom",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        }
+      },
+      {
+        "id": "remote-media-b2-gap-2",
+        "fr": "L’impartialité du journal est mise en doute depuis cette enquête.",
+        "l2": "L’impartialité du journal est mise en doute depuis cette enquête.",
+        "speak": "L’impartialité du journal est mise en doute depuis cette enquête.",
+        "blank": "impartialité",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        }
+      },
+      {
+        "id": "remote-media-b2-gap-3",
+        "fr": "Aucune source indépendante n’a encore confirmé cette information.",
+        "l2": "Aucune source indépendante n’a encore confirmé cette information.",
+        "speak": "Aucune source indépendante n’a encore confirmé cette information.",
+        "blank": "source",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
+      },
+      {
+        "id": "remote-media-b2-gap-4",
+        "fr": "Ce biais éditorial transparaît dès le choix des titres en une.",
+        "l2": "Ce biais éditorial transparaît dès le choix des titres en une.",
+        "speak": "Ce biais éditorial transparaît dès le choix des titres en une.",
+        "blank": "biais",
+        "en": "bias",
+        "gloss": {
+          "en": "bias",
+          "es": "inclinación",
+          "ru": "предвзятость"
+        }
+      },
+      {
+        "id": "remote-media-b2-gap-5",
+        "fr": "La désinformation se propage plus vite que le démenti officiel.",
+        "l2": "La désinformation se propage plus vite que le démenti officiel.",
+        "speak": "La désinformation se propage plus vite que le démenti officiel.",
+        "blank": "désinformation",
+        "en": "disinformation",
+        "gloss": {
+          "en": "disinformation",
+          "es": "desinformación",
+          "ru": "дезинформация"
+        }
+      },
+      {
+        "id": "remote-media-b2-gap-6",
+        "fr": "Le titre choc a été jugé trompeur par une partie des lecteurs.",
+        "l2": "Le titre choc a été jugé trompeur par une partie des lecteurs.",
+        "speak": "Le titre choc a été jugé trompeur par une partie des lecteurs.",
+        "blank": "titre",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        }
+      },
+      {
+        "id": "remote-media-b2-gap-7",
+        "fr": "L’enquête journalistique a révélé des conflits d’intérêts jusqu’alors ignorés.",
+        "l2": "L’enquête journalistique a révélé des conflits d’intérêts jusqu’alors ignorés.",
+        "speak": "L’enquête journalistique a révélé des conflits d’intérêts jusqu’alors ignorés.",
+        "blank": "enquête",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        }
+      },
+      {
+        "id": "remote-media-b2-gap-8",
+        "fr": "Le correspondant à l’étranger a transmis des images malgré la censure.",
+        "l2": "Le correspondant à l’étranger a transmis des images malgré la censure.",
+        "speak": "Le correspondant à l’étranger a transmis des images malgré la censure.",
+        "blank": "correspondant",
+        "en": "correspondent",
+        "gloss": {
+          "en": "correspondent",
+          "es": "corresponsal",
+          "ru": "корреспондент"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-media-b2-ord-1",
+        "fr": "La rédaction a décidé de vérifier chaque source avant publication.",
+        "l2": "La rédaction a décidé de vérifier chaque source avant publication.",
+        "en": "newsroom",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        },
+        "words": [
+          "La",
+          "rédaction",
+          "a",
+          "décidé",
+          "de",
+          "vérifier",
+          "chaque",
+          "source",
+          "avant",
+          "publication."
+        ]
+      },
+      {
+        "id": "remote-media-b2-ord-2",
+        "fr": "L’impartialité du journal est mise en doute depuis cette enquête.",
+        "l2": "L’impartialité du journal est mise en doute depuis cette enquête.",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        },
+        "words": [
+          "L’impartialité",
+          "du",
+          "journal",
+          "est",
+          "mise",
+          "en",
+          "doute",
+          "depuis",
+          "cette",
+          "enquête."
+        ]
+      },
+      {
+        "id": "remote-media-b2-ord-3",
+        "fr": "Aucune source indépendante n’a encore confirmé cette information.",
+        "l2": "Aucune source indépendante n’a encore confirmé cette information.",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "words": [
+          "Aucune",
+          "source",
+          "indépendante",
+          "n’a",
+          "encore",
+          "confirmé",
+          "cette",
+          "information."
+        ]
+      },
+      {
+        "id": "remote-media-b2-ord-4",
+        "fr": "Ce biais éditorial transparaît dès le choix des titres en une.",
+        "l2": "Ce biais éditorial transparaît dès le choix des titres en une.",
+        "en": "bias",
+        "gloss": {
+          "en": "bias",
+          "es": "inclinación",
+          "ru": "предвзятость"
+        },
+        "words": [
+          "Ce",
+          "biais",
+          "éditorial",
+          "transparaît",
+          "dès",
+          "le",
+          "choix",
+          "des",
+          "titres",
+          "en",
+          "une."
+        ]
+      },
+      {
+        "id": "remote-media-b2-ord-5",
+        "fr": "La désinformation se propage plus vite que le démenti officiel.",
+        "l2": "La désinformation se propage plus vite que le démenti officiel.",
+        "en": "disinformation",
+        "gloss": {
+          "en": "disinformation",
+          "es": "desinformación",
+          "ru": "дезинформация"
+        },
+        "words": [
+          "La",
+          "désinformation",
+          "se",
+          "propage",
+          "plus",
+          "vite",
+          "que",
+          "le",
+          "démenti",
+          "officiel."
+        ]
+      },
+      {
+        "id": "remote-media-b2-ord-6",
+        "fr": "Le titre choc a été jugé trompeur par une partie des lecteurs.",
+        "l2": "Le titre choc a été jugé trompeur par une partie des lecteurs.",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        },
+        "words": [
+          "Le",
+          "titre",
+          "choc",
+          "a",
+          "été",
+          "jugé",
+          "trompeur",
+          "par",
+          "une",
+          "partie",
+          "des",
+          "lecteurs."
+        ]
+      },
+      {
+        "id": "remote-media-b2-ord-7",
+        "fr": "L’enquête journalistique a révélé des conflits d’intérêts jusqu’alors ignorés.",
+        "l2": "L’enquête journalistique a révélé des conflits d’intérêts jusqu’alors ignorés.",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        },
+        "words": [
+          "L’enquête",
+          "journalistique",
+          "a",
+          "révélé",
+          "des",
+          "conflits",
+          "d’intérêts",
+          "jusqu’alors",
+          "ignorés."
+        ]
+      },
+      {
+        "id": "remote-media-b2-ord-8",
+        "fr": "Le correspondant à l’étranger a transmis des images malgré la censure.",
+        "l2": "Le correspondant à l’étranger a transmis des images malgré la censure.",
+        "en": "correspondent",
+        "gloss": {
+          "en": "correspondent",
+          "es": "corresponsal",
+          "ru": "корреспондент"
+        },
+        "words": [
+          "Le",
+          "correspondant",
+          "à",
+          "l’étranger",
+          "a",
+          "transmis",
+          "des",
+          "images",
+          "malgré",
+          "la",
+          "censure."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-media-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ʁe.dak.sjɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "rédaction",
+          "l2": "rédaction",
+          "en": "newsroom",
+          "gloss": {
+            "en": "newsroom",
+            "es": "sala de redacción",
+            "ru": "отдел новостей"
+          },
+          "ipa": "ʁe.dak.sjɔ̃"
+        },
+        {
+          "fr": "impartialité",
+          "l2": "impartialité",
+          "en": "impartiality",
+          "gloss": {
+            "en": "impartiality",
+            "es": "imparcialidad",
+            "ru": "беспристрастность"
+          },
+          "ipa": "ɛ̃.paʁ.sja.li.te"
+        },
+        {
+          "fr": "source",
+          "l2": "source",
+          "en": "source",
+          "gloss": {
+            "en": "source",
+            "es": "fuente",
+            "ru": "источник"
+          },
+          "ipa": "suʁs"
+        },
+        {
+          "fr": "biais",
+          "l2": "biais",
+          "en": "bias",
+          "gloss": {
+            "en": "bias",
+            "es": "inclinación",
+            "ru": "предвзятость"
+          },
+          "ipa": "bjɛ"
+        },
+        {
+          "fr": "désinformation",
+          "l2": "désinformation",
+          "en": "disinformation",
+          "gloss": {
+            "en": "disinformation",
+            "es": "desinformación",
+            "ru": "дезинформация"
+          },
+          "ipa": "de.zɛ̃.fɔʁ.ma.sjɔ̃"
+        }
+      ]
+    }
+  ]
 }

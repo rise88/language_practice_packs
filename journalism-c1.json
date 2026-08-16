@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "journalism-c1",
-  "version": 4,
+  "version": 5,
   "level": "c1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "déclare",
             "déclarer",
             "déclaré"
-          ]
+          ],
+          "gloss": {
+            "en": "“The facts are established,” ___ he, while the angle remains selective.",
+            "es": "“Los hechos están establecidos”, ___ él, mientras el ángulo sigue siendo selectivo.",
+            "ru": "«Факты установлены», — ___ он, при этом ракурс остается избирательным."
+          },
+          "why": {
+            "fr": "Réponse : « déclare ».",
+            "en": "Answer: “déclare”.",
+            "es": "Respuesta: « déclare ».",
+            "ru": "Ответ: « déclare »."
+          }
         },
         {
           "id": "remote-journalism-gq-2",
@@ -537,7 +548,18 @@
             "rappelle",
             "rappelé",
             "rappeler"
-          ]
+          ],
+          "gloss": {
+            "en": "The framing, ___ -she, begins with the title.",
+            "es": "El encuadre, ___ -ella, comienza con el título.",
+            "ru": "Обрамление, ___ -она, начинается с заголовка."
+          },
+          "why": {
+            "fr": "Réponse : « rappelle ».",
+            "en": "Answer: “rappelle”.",
+            "es": "Respuesta: « rappelle ».",
+            "ru": "Ответ: « rappelle »."
+          }
         },
         {
           "id": "remote-journalism-gq-3",
@@ -547,13 +569,25 @@
             "assure",
             "assurer",
             "assuré"
-          ]
+          ],
+          "gloss": {
+            "en": "The sources, ___ -one, will remain protected.",
+            "es": "Las fuentes, ___ -una, quedarán protegidas.",
+            "ru": "Источники, ___ -один, останутся под защитой."
+          },
+          "why": {
+            "fr": "Réponse : « assure ».",
+            "en": "Answer: “assure”.",
+            "es": "Respuesta: « assure ».",
+            "ru": "Ответ: « assure »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Inverted reporting clauses.",
         "es": "Útil cuando necesita aplicar: Cláusulas de informes invertidas.",
-        "ru": "Полезно, когда вам нужно применить: Инвертированные положения об отчетности."
+        "ru": "Полезно, когда вам нужно применить: Инвертированные положения об отчетности.",
+        "fr": "Utile pour appliquer : Incises inversées du discours rapporté."
       }
     },
     {
@@ -606,7 +640,18 @@
             "avait",
             "a",
             "aurait"
-          ]
+          ],
+          "gloss": {
+            "en": "He declared that the investigation ___ was completed before the embargo.",
+            "es": "Declaró que la investigación ___ concluyó antes del embargo.",
+            "ru": "Он заявил, что расследование ___ было завершено до введения эмбарго."
+          },
+          "why": {
+            "fr": "Réponse : « avait ».",
+            "en": "Answer: “avait”.",
+            "es": "Respuesta: « avait ».",
+            "ru": "Ответ: « avait »."
+          }
         },
         {
           "id": "remote-journalism-gq-5",
@@ -616,13 +661,25 @@
             "serait",
             "est",
             "soit"
-          ]
+          ],
+          "gloss": {
+            "en": "She assured that the source ___ protected.",
+            "es": "Aseguró que la fuente ___ protegió.",
+            "ru": "Она заверила, что источник ___ защищен."
+          },
+          "why": {
+            "fr": "Réponse : « serait ».",
+            "en": "Answer: “serait”.",
+            "es": "Respuesta: « serait ».",
+            "ru": "Ответ: « serait »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Sequence of tenses in reported speech.",
         "es": "Útil cuando es necesario aplicar: Secuencia de tiempos en el estilo indirecto.",
-        "ru": "Полезно, когда нужно применить: Последовательность времен в сообщаемой речи."
+        "ru": "Полезно, когда нужно применить: Последовательность времен в сообщаемой речи.",
+        "fr": "Utile pour appliquer : Concordance des temps dans le rapporté."
       }
     }
   ],
@@ -854,6 +911,1109 @@
         },
         "l2": "Loin d’être anodine, la titraille accomplit déjà un cadrage."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-journalism-fren-1",
+        "fr": "investigation",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        },
+        "l2": "investigation"
+      },
+      {
+        "id": "remote-journalism-fren-2",
+        "fr": "source",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "l2": "source"
+      },
+      {
+        "id": "remote-journalism-fren-3",
+        "fr": "cadrage",
+        "en": "framing",
+        "gloss": {
+          "en": "framing",
+          "es": "enmarcado",
+          "ru": "обрамление"
+        },
+        "l2": "cadrage"
+      },
+      {
+        "id": "remote-journalism-fren-4",
+        "fr": "éditorial",
+        "en": "editorial",
+        "gloss": {
+          "en": "editorial",
+          "es": "editorial",
+          "ru": "редакционная статья"
+        },
+        "l2": "éditorial"
+      },
+      {
+        "id": "remote-journalism-fren-5",
+        "fr": "vérification",
+        "en": "fact-checking",
+        "gloss": {
+          "en": "fact-checking",
+          "es": "verificación de hechos",
+          "ru": "проверка фактов"
+        },
+        "l2": "vérification"
+      },
+      {
+        "id": "remote-journalism-fren-6",
+        "fr": "scoop",
+        "en": "scoop",
+        "gloss": {
+          "en": "scoop",
+          "es": "cuchara",
+          "ru": "совок"
+        },
+        "l2": "scoop"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-journalism-c1-enl2-1",
+        "fr": "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+        "l2": "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        },
+        "prompt": "investigation",
+        "choices": [
+          "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+          "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée.",
+          "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-enl2-2",
+        "fr": "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée.",
+        "l2": "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée.",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "prompt": "source",
+        "choices": [
+          "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée.",
+          "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+          "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-enl2-3",
+        "fr": "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits.",
+        "l2": "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits.",
+        "en": "framing",
+        "gloss": {
+          "en": "framing",
+          "es": "enmarcado",
+          "ru": "обрамление"
+        },
+        "prompt": "framing",
+        "choices": [
+          "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits.",
+          "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+          "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-enl2-4",
+        "fr": "L’éditorial, quitte à assumer une ligne, se distingue de l’enquête en ce qu’il endosse une thèse plutôt que de la documenter.",
+        "l2": "L’éditorial, quitte à assumer une ligne, se distingue de l’enquête en ce qu’il endosse une thèse plutôt que de la documenter.",
+        "en": "editorial",
+        "gloss": {
+          "en": "editorial",
+          "es": "editorial",
+          "ru": "редакционная статья"
+        },
+        "prompt": "editorial",
+        "choices": [
+          "L’éditorial, quitte à assumer une ligne, se distingue de l’enquête en ce qu’il endosse une thèse plutôt que de la documenter.",
+          "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+          "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-enl2-5",
+        "fr": "La vérification des faits, à moins d’intervenir avant publication, arrive trop tard pour corriger une infox déjà virale.",
+        "l2": "La vérification des faits, à moins d’intervenir avant publication, arrive trop tard pour corriger une infox déjà virale.",
+        "en": "fact-checking",
+        "gloss": {
+          "en": "fact-checking",
+          "es": "verificación de hechos",
+          "ru": "проверка фактов"
+        },
+        "prompt": "fact-checking",
+        "choices": [
+          "La vérification des faits, à moins d’intervenir avant publication, arrive trop tard pour corriger une infox déjà virale.",
+          "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+          "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-enl2-6",
+        "fr": "Le scoop, dont la course mine parfois la déontologie, ne vaut que s’il survit à une relecture contradictoire.",
+        "l2": "Le scoop, dont la course mine parfois la déontologie, ne vaut que s’il survit à une relecture contradictoire.",
+        "en": "scoop",
+        "gloss": {
+          "en": "scoop",
+          "es": "cuchara",
+          "ru": "совок"
+        },
+        "prompt": "scoop",
+        "choices": [
+          "Le scoop, dont la course mine parfois la déontologie, ne vaut que s’il survit à une relecture contradictoire.",
+          "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+          "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-enl2-7",
+        "fr": "La ligne éditoriale, encore qu’elle soit revendiquée, peut glisser du cadrage légitime à un parti pris non déclaré.",
+        "l2": "La ligne éditoriale, encore qu’elle soit revendiquée, peut glisser du cadrage légitime à un parti pris non déclaré.",
+        "en": "editorial line",
+        "gloss": {
+          "en": "editorial line",
+          "es": "linea editorial",
+          "ru": "редакционная линия"
+        },
+        "prompt": "editorial line",
+        "choices": [
+          "La ligne éditoriale, encore qu’elle soit revendiquée, peut glisser du cadrage légitime à un parti pris non déclaré.",
+          "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+          "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-enl2-8",
+        "fr": "L’envoyé spécial, loin de n’être qu’un relais, produit un angle dont la rédaction devra répondre en cas de préjudice.",
+        "l2": "L’envoyé spécial, loin de n’être qu’un relais, produit un angle dont la rédaction devra répondre en cas de préjudice.",
+        "en": "correspondent / special envoy",
+        "gloss": {
+          "en": "correspondent / special envoy",
+          "es": "corresponsal / enviado especial",
+          "ru": "корреспондент / специальный посланник"
+        },
+        "prompt": "correspondent / special envoy",
+        "choices": [
+          "L’envoyé spécial, loin de n’être qu’un relais, produit un angle dont la rédaction devra répondre en cas de préjudice.",
+          "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+          "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-journalism-c1-prm-1",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        },
+        "answers": [
+          "investigation",
+          "l' investigation"
+        ],
+        "target": "l' investigation"
+      },
+      {
+        "id": "remote-journalism-c1-prm-2",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "answers": [
+          "source",
+          "la source"
+        ],
+        "target": "la source"
+      },
+      {
+        "id": "remote-journalism-c1-prm-3",
+        "en": "framing",
+        "gloss": {
+          "en": "framing",
+          "es": "enmarcado",
+          "ru": "обрамление"
+        },
+        "answers": [
+          "cadrage",
+          "le cadrage"
+        ],
+        "target": "le cadrage"
+      },
+      {
+        "id": "remote-journalism-c1-prm-4",
+        "en": "editorial",
+        "gloss": {
+          "en": "editorial",
+          "es": "editorial",
+          "ru": "редакционная статья"
+        },
+        "answers": [
+          "éditorial",
+          "l' éditorial"
+        ],
+        "target": "l' éditorial"
+      },
+      {
+        "id": "remote-journalism-c1-prm-5",
+        "en": "fact-checking",
+        "gloss": {
+          "en": "fact-checking",
+          "es": "verificación de hechos",
+          "ru": "проверка фактов"
+        },
+        "answers": [
+          "vérification",
+          "la vérification"
+        ],
+        "target": "la vérification"
+      },
+      {
+        "id": "remote-journalism-c1-prm-6",
+        "en": "scoop",
+        "gloss": {
+          "en": "scoop",
+          "es": "cuchara",
+          "ru": "совок"
+        },
+        "answers": [
+          "scoop",
+          "le scoop"
+        ],
+        "target": "le scoop"
+      },
+      {
+        "id": "remote-journalism-c1-prm-7",
+        "en": "editorial line",
+        "gloss": {
+          "en": "editorial line",
+          "es": "linea editorial",
+          "ru": "редакционная линия"
+        },
+        "answers": [
+          "ligne éditoriale",
+          "la ligne éditoriale"
+        ],
+        "target": "la ligne éditoriale"
+      },
+      {
+        "id": "remote-journalism-c1-prm-8",
+        "en": "correspondent / special envoy",
+        "gloss": {
+          "en": "correspondent / special envoy",
+          "es": "corresponsal / enviado especial",
+          "ru": "корреспондент / специальный посланник"
+        },
+        "answers": [
+          "envoyé",
+          "l' envoyé"
+        ],
+        "target": "l' envoyé"
+      },
+      {
+        "id": "remote-journalism-c1-prm-9",
+        "en": "angle",
+        "gloss": {
+          "en": "angle",
+          "es": "ángulo",
+          "ru": "угол"
+        },
+        "answers": [
+          "angle",
+          "l' angle"
+        ],
+        "target": "l' angle"
+      },
+      {
+        "id": "remote-journalism-c1-prm-10",
+        "en": "front page",
+        "gloss": {
+          "en": "front page",
+          "es": "página delantera",
+          "ru": "первая страница"
+        },
+        "answers": [
+          "une",
+          "la une"
+        ],
+        "target": "la une"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-journalism-c1-sign-1",
+        "fr": "investigation",
+        "l2": "investigation",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        },
+        "choices": [
+          "investigation",
+          "source",
+          "framing"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-2",
+        "fr": "source",
+        "l2": "source",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "choices": [
+          "source",
+          "investigation",
+          "framing"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-3",
+        "fr": "cadrage",
+        "l2": "cadrage",
+        "en": "framing",
+        "gloss": {
+          "en": "framing",
+          "es": "enmarcado",
+          "ru": "обрамление"
+        },
+        "choices": [
+          "framing",
+          "investigation",
+          "source"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-4",
+        "fr": "éditorial",
+        "l2": "éditorial",
+        "en": "editorial",
+        "gloss": {
+          "en": "editorial",
+          "es": "editorial",
+          "ru": "редакционная статья"
+        },
+        "choices": [
+          "editorial",
+          "investigation",
+          "source"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-5",
+        "fr": "vérification",
+        "l2": "vérification",
+        "en": "fact-checking",
+        "gloss": {
+          "en": "fact-checking",
+          "es": "verificación de hechos",
+          "ru": "проверка фактов"
+        },
+        "choices": [
+          "fact-checking",
+          "investigation",
+          "source"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-6",
+        "fr": "scoop",
+        "l2": "scoop",
+        "en": "scoop",
+        "gloss": {
+          "en": "scoop",
+          "es": "cuchara",
+          "ru": "совок"
+        },
+        "choices": [
+          "scoop",
+          "investigation",
+          "source"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-7",
+        "fr": "ligne éditoriale",
+        "l2": "ligne éditoriale",
+        "en": "editorial line",
+        "gloss": {
+          "en": "editorial line",
+          "es": "linea editorial",
+          "ru": "редакционная линия"
+        },
+        "choices": [
+          "editorial line",
+          "investigation",
+          "source"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-8",
+        "fr": "envoyé",
+        "l2": "envoyé",
+        "en": "correspondent / special envoy",
+        "gloss": {
+          "en": "correspondent / special envoy",
+          "es": "corresponsal / enviado especial",
+          "ru": "корреспондент / специальный посланник"
+        },
+        "choices": [
+          "correspondent / special envoy",
+          "investigation",
+          "source"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-9",
+        "fr": "angle",
+        "l2": "angle",
+        "en": "angle",
+        "gloss": {
+          "en": "angle",
+          "es": "ángulo",
+          "ru": "угол"
+        },
+        "choices": [
+          "angle",
+          "investigation",
+          "source"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-10",
+        "fr": "une",
+        "l2": "une",
+        "en": "front page",
+        "gloss": {
+          "en": "front page",
+          "es": "página delantera",
+          "ru": "первая страница"
+        },
+        "choices": [
+          "front page",
+          "investigation",
+          "source"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-11",
+        "fr": "rédaction",
+        "l2": "rédaction",
+        "en": "newsroom",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        },
+        "choices": [
+          "newsroom",
+          "investigation",
+          "source"
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-sign-12",
+        "fr": "infox",
+        "l2": "infox",
+        "en": "disinformation / fake news",
+        "gloss": {
+          "en": "disinformation / fake news",
+          "es": "desinformación/noticias falsas",
+          "ru": "дезинформация/фейковые новости"
+        },
+        "choices": [
+          "disinformation / fake news",
+          "investigation",
+          "source"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-journalism-c1-pair-1",
+        "a": {
+          "fr": "investigation",
+          "l2": "investigation",
+          "en": "investigation",
+          "gloss": {
+            "en": "investigation",
+            "es": "investigación",
+            "ru": "расследование"
+          }
+        },
+        "b": {
+          "fr": "source",
+          "l2": "source",
+          "en": "source",
+          "gloss": {
+            "en": "source",
+            "es": "fuente",
+            "ru": "источник"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-journalism-c1-pair-2",
+        "a": {
+          "fr": "cadrage",
+          "l2": "cadrage",
+          "en": "framing",
+          "gloss": {
+            "en": "framing",
+            "es": "enmarcado",
+            "ru": "обрамление"
+          }
+        },
+        "b": {
+          "fr": "éditorial",
+          "l2": "éditorial",
+          "en": "editorial",
+          "gloss": {
+            "en": "editorial",
+            "es": "editorial",
+            "ru": "редакционная статья"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-journalism-c1-pair-3",
+        "a": {
+          "fr": "vérification",
+          "l2": "vérification",
+          "en": "fact-checking",
+          "gloss": {
+            "en": "fact-checking",
+            "es": "verificación de hechos",
+            "ru": "проверка фактов"
+          }
+        },
+        "b": {
+          "fr": "scoop",
+          "l2": "scoop",
+          "en": "scoop",
+          "gloss": {
+            "en": "scoop",
+            "es": "cuchara",
+            "ru": "совок"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-journalism-c1-pair-4",
+        "a": {
+          "fr": "ligne éditoriale",
+          "l2": "ligne éditoriale",
+          "en": "editorial line",
+          "gloss": {
+            "en": "editorial line",
+            "es": "linea editorial",
+            "ru": "редакционная линия"
+          }
+        },
+        "b": {
+          "fr": "envoyé",
+          "l2": "envoyé",
+          "en": "correspondent / special envoy",
+          "gloss": {
+            "en": "correspondent / special envoy",
+            "es": "corresponsal / enviado especial",
+            "ru": "корреспондент / специальный посланник"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-journalism-c1-pair-5",
+        "a": {
+          "fr": "angle",
+          "l2": "angle",
+          "en": "angle",
+          "gloss": {
+            "en": "angle",
+            "es": "ángulo",
+            "ru": "угол"
+          }
+        },
+        "b": {
+          "fr": "une",
+          "l2": "une",
+          "en": "front page",
+          "gloss": {
+            "en": "front page",
+            "es": "página delantera",
+            "ru": "первая страница"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-journalism-c1-gap-1",
+        "fr": "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+        "l2": "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+        "speak": "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+        "blank": "investigation",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        }
+      },
+      {
+        "id": "remote-journalism-c1-gap-2",
+        "fr": "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée.",
+        "l2": "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée.",
+        "speak": "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée.",
+        "blank": "source",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
+      },
+      {
+        "id": "remote-journalism-c1-gap-3",
+        "fr": "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits.",
+        "l2": "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits.",
+        "speak": "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits.",
+        "blank": "cadrage",
+        "en": "framing",
+        "gloss": {
+          "en": "framing",
+          "es": "enmarcado",
+          "ru": "обрамление"
+        }
+      },
+      {
+        "id": "remote-journalism-c1-gap-4",
+        "fr": "L’éditorial, quitte à assumer une ligne, se distingue de l’enquête en ce qu’il endosse une thèse plutôt que de la documenter.",
+        "l2": "L’éditorial, quitte à assumer une ligne, se distingue de l’enquête en ce qu’il endosse une thèse plutôt que de la documenter.",
+        "speak": "L’éditorial, quitte à assumer une ligne, se distingue de l’enquête en ce qu’il endosse une thèse plutôt que de la documenter.",
+        "blank": "éditorial",
+        "en": "editorial",
+        "gloss": {
+          "en": "editorial",
+          "es": "editorial",
+          "ru": "редакционная статья"
+        }
+      },
+      {
+        "id": "remote-journalism-c1-gap-5",
+        "fr": "La vérification des faits, à moins d’intervenir avant publication, arrive trop tard pour corriger une infox déjà virale.",
+        "l2": "La vérification des faits, à moins d’intervenir avant publication, arrive trop tard pour corriger une infox déjà virale.",
+        "speak": "La vérification des faits, à moins d’intervenir avant publication, arrive trop tard pour corriger une infox déjà virale.",
+        "blank": "vérification",
+        "en": "fact-checking",
+        "gloss": {
+          "en": "fact-checking",
+          "es": "verificación de hechos",
+          "ru": "проверка фактов"
+        }
+      },
+      {
+        "id": "remote-journalism-c1-gap-6",
+        "fr": "Le scoop, dont la course mine parfois la déontologie, ne vaut que s’il survit à une relecture contradictoire.",
+        "l2": "Le scoop, dont la course mine parfois la déontologie, ne vaut que s’il survit à une relecture contradictoire.",
+        "speak": "Le scoop, dont la course mine parfois la déontologie, ne vaut que s’il survit à une relecture contradictoire.",
+        "blank": "scoop",
+        "en": "scoop",
+        "gloss": {
+          "en": "scoop",
+          "es": "cuchara",
+          "ru": "совок"
+        }
+      },
+      {
+        "id": "remote-journalism-c1-gap-7",
+        "fr": "La ligne éditoriale, encore qu’elle soit revendiquée, peut glisser du cadrage légitime à un parti pris non déclaré.",
+        "l2": "La ligne éditoriale, encore qu’elle soit revendiquée, peut glisser du cadrage légitime à un parti pris non déclaré.",
+        "speak": "La ligne éditoriale, encore qu’elle soit revendiquée, peut glisser du cadrage légitime à un parti pris non déclaré.",
+        "blank": "ligne éditoriale",
+        "en": "editorial line",
+        "gloss": {
+          "en": "editorial line",
+          "es": "linea editorial",
+          "ru": "редакционная линия"
+        }
+      },
+      {
+        "id": "remote-journalism-c1-gap-8",
+        "fr": "L’envoyé spécial, loin de n’être qu’un relais, produit un angle dont la rédaction devra répondre en cas de préjudice.",
+        "l2": "L’envoyé spécial, loin de n’être qu’un relais, produit un angle dont la rédaction devra répondre en cas de préjudice.",
+        "speak": "L’envoyé spécial, loin de n’être qu’un relais, produit un angle dont la rédaction devra répondre en cas de préjudice.",
+        "blank": "envoyé",
+        "en": "correspondent / special envoy",
+        "gloss": {
+          "en": "correspondent / special envoy",
+          "es": "corresponsal / enviado especial",
+          "ru": "корреспондент / специальный посланник"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-journalism-c1-ord-1",
+        "fr": "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+        "l2": "L’investigation, dont la portée dépend de la protection des sources, se heurte à un embargo que la rédaction doit arbitrer.",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        },
+        "words": [
+          "L’investigation,",
+          "dont",
+          "la",
+          "portée",
+          "dépend",
+          "de",
+          "la",
+          "protection",
+          "des",
+          "sources,",
+          "se",
+          "heurte",
+          "à",
+          "un",
+          "embargo",
+          "que",
+          "la",
+          "rédaction",
+          "doit",
+          "arbitrer."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-ord-2",
+        "fr": "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée.",
+        "l2": "La source, encore qu’elle exige l’anonymat, n’exonère pas la rédaction d’un devoir de vérification croisée.",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        },
+        "words": [
+          "La",
+          "source,",
+          "encore",
+          "qu’elle",
+          "exige",
+          "l’anonymat,",
+          "n’exonère",
+          "pas",
+          "la",
+          "rédaction",
+          "d’un",
+          "devoir",
+          "de",
+          "vérification",
+          "croisée."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-ord-3",
+        "fr": "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits.",
+        "l2": "Le cadrage, loin d’être un accessoire de titraille, configure d’emblée l’inférence que le lecteur tirera des faits.",
+        "en": "framing",
+        "gloss": {
+          "en": "framing",
+          "es": "enmarcado",
+          "ru": "обрамление"
+        },
+        "words": [
+          "Le",
+          "cadrage,",
+          "loin",
+          "d’être",
+          "un",
+          "accessoire",
+          "de",
+          "titraille,",
+          "configure",
+          "d’emblée",
+          "l’inférence",
+          "que",
+          "le",
+          "lecteur",
+          "tirera",
+          "des",
+          "faits."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-ord-4",
+        "fr": "L’éditorial, quitte à assumer une ligne, se distingue de l’enquête en ce qu’il endosse une thèse plutôt que de la documenter.",
+        "l2": "L’éditorial, quitte à assumer une ligne, se distingue de l’enquête en ce qu’il endosse une thèse plutôt que de la documenter.",
+        "en": "editorial",
+        "gloss": {
+          "en": "editorial",
+          "es": "editorial",
+          "ru": "редакционная статья"
+        },
+        "words": [
+          "L’éditorial,",
+          "quitte",
+          "à",
+          "assumer",
+          "une",
+          "ligne,",
+          "se",
+          "distingue",
+          "de",
+          "l’enquête",
+          "en",
+          "ce",
+          "qu’il",
+          "endosse",
+          "une",
+          "thèse",
+          "plutôt",
+          "que",
+          "de",
+          "la",
+          "documenter."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-ord-5",
+        "fr": "La vérification des faits, à moins d’intervenir avant publication, arrive trop tard pour corriger une infox déjà virale.",
+        "l2": "La vérification des faits, à moins d’intervenir avant publication, arrive trop tard pour corriger une infox déjà virale.",
+        "en": "fact-checking",
+        "gloss": {
+          "en": "fact-checking",
+          "es": "verificación de hechos",
+          "ru": "проверка фактов"
+        },
+        "words": [
+          "La",
+          "vérification",
+          "des",
+          "faits,",
+          "à",
+          "moins",
+          "d’intervenir",
+          "avant",
+          "publication,",
+          "arrive",
+          "trop",
+          "tard",
+          "pour",
+          "corriger",
+          "une",
+          "infox",
+          "déjà",
+          "virale."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-ord-6",
+        "fr": "Le scoop, dont la course mine parfois la déontologie, ne vaut que s’il survit à une relecture contradictoire.",
+        "l2": "Le scoop, dont la course mine parfois la déontologie, ne vaut que s’il survit à une relecture contradictoire.",
+        "en": "scoop",
+        "gloss": {
+          "en": "scoop",
+          "es": "cuchara",
+          "ru": "совок"
+        },
+        "words": [
+          "Le",
+          "scoop,",
+          "dont",
+          "la",
+          "course",
+          "mine",
+          "parfois",
+          "la",
+          "déontologie,",
+          "ne",
+          "vaut",
+          "que",
+          "s’il",
+          "survit",
+          "à",
+          "une",
+          "relecture",
+          "contradictoire."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-ord-7",
+        "fr": "La ligne éditoriale, encore qu’elle soit revendiquée, peut glisser du cadrage légitime à un parti pris non déclaré.",
+        "l2": "La ligne éditoriale, encore qu’elle soit revendiquée, peut glisser du cadrage légitime à un parti pris non déclaré.",
+        "en": "editorial line",
+        "gloss": {
+          "en": "editorial line",
+          "es": "linea editorial",
+          "ru": "редакционная линия"
+        },
+        "words": [
+          "La",
+          "ligne",
+          "éditoriale,",
+          "encore",
+          "qu’elle",
+          "soit",
+          "revendiquée,",
+          "peut",
+          "glisser",
+          "du",
+          "cadrage",
+          "légitime",
+          "à",
+          "un",
+          "parti",
+          "pris",
+          "non",
+          "déclaré."
+        ]
+      },
+      {
+        "id": "remote-journalism-c1-ord-8",
+        "fr": "L’envoyé spécial, loin de n’être qu’un relais, produit un angle dont la rédaction devra répondre en cas de préjudice.",
+        "l2": "L’envoyé spécial, loin de n’être qu’un relais, produit un angle dont la rédaction devra répondre en cas de préjudice.",
+        "en": "correspondent / special envoy",
+        "gloss": {
+          "en": "correspondent / special envoy",
+          "es": "corresponsal / enviado especial",
+          "ru": "корреспондент / специальный посланник"
+        },
+        "words": [
+          "L’envoyé",
+          "spécial,",
+          "loin",
+          "de",
+          "n’être",
+          "qu’un",
+          "relais,",
+          "produit",
+          "un",
+          "angle",
+          "dont",
+          "la",
+          "rédaction",
+          "devra",
+          "répondre",
+          "en",
+          "cas",
+          "de",
+          "préjudice."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-journalism-c1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ɛ̃.vɛs.ti.ɡa.sjɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "investigation",
+          "l2": "investigation",
+          "en": "investigation",
+          "gloss": {
+            "en": "investigation",
+            "es": "investigación",
+            "ru": "расследование"
+          },
+          "ipa": "ɛ̃.vɛs.ti.ɡa.sjɔ̃"
+        },
+        {
+          "fr": "source",
+          "l2": "source",
+          "en": "source",
+          "gloss": {
+            "en": "source",
+            "es": "fuente",
+            "ru": "источник"
+          },
+          "ipa": "suʁs"
+        },
+        {
+          "fr": "cadrage",
+          "l2": "cadrage",
+          "en": "framing",
+          "gloss": {
+            "en": "framing",
+            "es": "enmarcado",
+            "ru": "обрамление"
+          },
+          "ipa": "ka.dʁaʒ"
+        },
+        {
+          "fr": "éditorial",
+          "l2": "éditorial",
+          "en": "editorial",
+          "gloss": {
+            "en": "editorial",
+            "es": "editorial",
+            "ru": "редакционная статья"
+          },
+          "ipa": "e.di.tɔ.ʁjal"
+        },
+        {
+          "fr": "vérification",
+          "l2": "vérification",
+          "en": "fact-checking",
+          "gloss": {
+            "en": "fact-checking",
+            "es": "verificación de hechos",
+            "ru": "проверка фактов"
+          },
+          "ipa": "ve.ʁi.fi.ka.sjɔ̃"
+        }
+      ]
+    }
+  ]
 }

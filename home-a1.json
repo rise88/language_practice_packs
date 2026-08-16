@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "home-a1",
-  "version": 5,
+  "version": 6,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "Il y a",
             "C’est",
             "J’ai"
-          ]
+          ],
+          "gloss": {
+            "en": "___ a fridge in the kitchen.",
+            "es": "___ un frigorífico en la cocina.",
+            "ru": "___ холодильник на кухне."
+          },
+          "why": {
+            "fr": "Pour dire qu’un objet existe : « Il y a ».",
+            "en": "To say something exists: Il y a.",
+            "es": "Para decir que algo existe: Il y a.",
+            "ru": "Чтобы сказать, что что-то есть: Il y a."
+          }
         },
         {
           "id": "remote-home-gq-2",
@@ -537,7 +548,18 @@
             "du",
             "de",
             "des"
-          ]
+          ],
+          "gloss": {
+            "en": "There isn’t ___ garden.",
+            "es": "No hay ___ jardín.",
+            "ru": "Нет ___ сада."
+          },
+          "why": {
+            "fr": "Après « il n’y a pas », on utilise « de ».",
+            "en": "After il n’y a pas, use de.",
+            "es": "Después de il n’y a pas, se usa de.",
+            "ru": "После il n’y a pas — de."
+          }
         },
         {
           "id": "remote-home-gq-3",
@@ -547,13 +569,25 @@
             "du",
             "une",
             "des"
-          ]
+          ],
+          "gloss": {
+            "en": "There are ___ chairs around the table.",
+            "es": "Hay ___ sillas alrededor de la mesa.",
+            "ru": "Есть ___ стулья вокруг стола."
+          },
+          "why": {
+            "fr": "Pluriel indéfini : « des ».",
+            "en": "Indefinite plural: des.",
+            "es": "Plural indefinido: des.",
+            "ru": "Неопределённое множественное: des."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: There is / there isn’t.",
         "es": "Útil cuando necesitas aplicar: Hay/no hay.",
-        "ru": "Полезно, когда нужно подать заявку: Есть/нет."
+        "ru": "Полезно, когда нужно подать заявку: Есть/нет.",
+        "fr": "Utile pour appliquer : Il y a / il n’y a pas."
       }
     },
     {
@@ -611,7 +645,18 @@
             "dans",
             "sur",
             "sous"
-          ]
+          ],
+          "gloss": {
+            "en": "The book is ___ the table.",
+            "es": "El libro está ___ la mesa.",
+            "ru": "Книга ___ столе."
+          },
+          "why": {
+            "fr": "Sur = sur une surface.",
+            "en": "Sur = on a surface.",
+            "es": "Sur = sobre una superficie.",
+            "ru": "Sur = на поверхности."
+          }
         },
         {
           "id": "remote-home-gq-5",
@@ -621,13 +666,25 @@
             "sur",
             "sous",
             "dans"
-          ]
+          ],
+          "gloss": {
+            "en": "The clothes are ___ the wardrobe.",
+            "es": "La ropa está ___ el armario.",
+            "ru": "Одежда ___ шкафу."
+          },
+          "why": {
+            "fr": "Dans = à l’intérieur.",
+            "en": "Dans = inside.",
+            "es": "Dans = dentro.",
+            "ru": "Dans = внутри."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: In / on / under.",
         "es": "Útil cuando necesitas aplicar: In / on / under.",
-        "ru": "Полезно, когда нужно нанести: В/на/под."
+        "ru": "Полезно, когда нужно нанести: В/на/под.",
+        "fr": "Utile pour appliquer : Dans / sur / sous."
       }
     }
   ],
@@ -874,6 +931,813 @@
         },
         "l2": "privé"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-home-fren-1",
+        "fr": "maison",
+        "en": "house",
+        "gloss": {
+          "en": "house",
+          "es": "casa",
+          "ru": "дом"
+        },
+        "l2": "maison"
+      },
+      {
+        "id": "remote-home-fren-2",
+        "fr": "cuisine",
+        "en": "kitchen",
+        "gloss": {
+          "en": "kitchen",
+          "es": "cocina",
+          "ru": "кухня"
+        },
+        "l2": "cuisine"
+      },
+      {
+        "id": "remote-home-fren-3",
+        "fr": "salon",
+        "en": "living room",
+        "gloss": {
+          "en": "living room",
+          "es": "sala de estar",
+          "ru": "гостиная"
+        },
+        "l2": "salon"
+      },
+      {
+        "id": "remote-home-fren-4",
+        "fr": "chambre",
+        "en": "bedroom",
+        "gloss": {
+          "en": "bedroom",
+          "es": "dormitorio",
+          "ru": "спальня"
+        },
+        "l2": "chambre"
+      },
+      {
+        "id": "remote-home-fren-5",
+        "fr": "lit",
+        "en": "bed",
+        "gloss": {
+          "en": "bed",
+          "es": "cama",
+          "ru": "кровать"
+        },
+        "l2": "lit"
+      },
+      {
+        "id": "remote-home-fren-6",
+        "fr": "porte",
+        "en": "door",
+        "gloss": {
+          "en": "door",
+          "es": "puerta",
+          "ru": "дверь"
+        },
+        "l2": "porte"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-home-a1-enl2-1",
+        "fr": "J’habite dans une petite maison.",
+        "l2": "J’habite dans une petite maison.",
+        "en": "house",
+        "gloss": {
+          "en": "house",
+          "es": "casa",
+          "ru": "дом"
+        },
+        "prompt": "house",
+        "choices": [
+          "J’habite dans une petite maison.",
+          "Mon appartement est au deuxième étage.",
+          "La cuisine est grande."
+        ]
+      },
+      {
+        "id": "remote-home-a1-enl2-2",
+        "fr": "Mon appartement est au deuxième étage.",
+        "l2": "Mon appartement est au deuxième étage.",
+        "en": "apartment / flat",
+        "gloss": {
+          "en": "apartment / flat",
+          "es": "apartamento / piso",
+          "ru": "квартира / квартира"
+        },
+        "prompt": "apartment / flat",
+        "choices": [
+          "Mon appartement est au deuxième étage.",
+          "J’habite dans une petite maison.",
+          "La cuisine est grande."
+        ]
+      },
+      {
+        "id": "remote-home-a1-enl2-3",
+        "fr": "La cuisine est grande.",
+        "l2": "La cuisine est grande.",
+        "en": "kitchen",
+        "gloss": {
+          "en": "kitchen",
+          "es": "cocina",
+          "ru": "кухня"
+        },
+        "prompt": "kitchen",
+        "choices": [
+          "La cuisine est grande.",
+          "J’habite dans une petite maison.",
+          "Mon appartement est au deuxième étage."
+        ]
+      },
+      {
+        "id": "remote-home-a1-enl2-4",
+        "fr": "Nous regardons la télé dans le salon.",
+        "l2": "Nous regardons la télé dans le salon.",
+        "en": "living room",
+        "gloss": {
+          "en": "living room",
+          "es": "sala de estar",
+          "ru": "гостиная"
+        },
+        "prompt": "living room",
+        "choices": [
+          "Nous regardons la télé dans le salon.",
+          "J’habite dans une petite maison.",
+          "Mon appartement est au deuxième étage."
+        ]
+      },
+      {
+        "id": "remote-home-a1-enl2-5",
+        "fr": "Ma chambre est calme.",
+        "l2": "Ma chambre est calme.",
+        "en": "bedroom",
+        "gloss": {
+          "en": "bedroom",
+          "es": "dormitorio",
+          "ru": "спальня"
+        },
+        "prompt": "bedroom",
+        "choices": [
+          "Ma chambre est calme.",
+          "J’habite dans une petite maison.",
+          "Mon appartement est au deuxième étage."
+        ]
+      },
+      {
+        "id": "remote-home-a1-enl2-6",
+        "fr": "Où est la salle de bain ?",
+        "l2": "Où est la salle de bain ?",
+        "en": "bathroom",
+        "gloss": {
+          "en": "bathroom",
+          "es": "baño",
+          "ru": "ванная комната"
+        },
+        "prompt": "bathroom",
+        "choices": [
+          "Où est la salle de bain ?",
+          "J’habite dans une petite maison.",
+          "Mon appartement est au deuxième étage."
+        ]
+      },
+      {
+        "id": "remote-home-a1-enl2-7",
+        "fr": "Je vais au lit tôt.",
+        "l2": "Je vais au lit tôt.",
+        "en": "bed",
+        "gloss": {
+          "en": "bed",
+          "es": "cama",
+          "ru": "кровать"
+        },
+        "prompt": "bed",
+        "choices": [
+          "Je vais au lit tôt.",
+          "J’habite dans une petite maison.",
+          "Mon appartement est au deuxième étage."
+        ]
+      },
+      {
+        "id": "remote-home-a1-enl2-8",
+        "fr": "La table est dans la cuisine.",
+        "l2": "La table est dans la cuisine.",
+        "en": "table",
+        "gloss": {
+          "en": "table",
+          "es": "mesa",
+          "ru": "стол"
+        },
+        "prompt": "table",
+        "choices": [
+          "La table est dans la cuisine.",
+          "J’habite dans une petite maison.",
+          "Mon appartement est au deuxième étage."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-home-a1-prm-1",
+        "en": "house",
+        "gloss": {
+          "en": "house",
+          "es": "casa",
+          "ru": "дом"
+        },
+        "answers": [
+          "maison",
+          "la maison"
+        ],
+        "target": "la maison"
+      },
+      {
+        "id": "remote-home-a1-prm-2",
+        "en": "apartment / flat",
+        "gloss": {
+          "en": "apartment / flat",
+          "es": "apartamento / piso",
+          "ru": "квартира / квартира"
+        },
+        "answers": [
+          "appartement",
+          "le appartement"
+        ],
+        "target": "le appartement"
+      },
+      {
+        "id": "remote-home-a1-prm-3",
+        "en": "kitchen",
+        "gloss": {
+          "en": "kitchen",
+          "es": "cocina",
+          "ru": "кухня"
+        },
+        "answers": [
+          "cuisine",
+          "la cuisine"
+        ],
+        "target": "la cuisine"
+      },
+      {
+        "id": "remote-home-a1-prm-4",
+        "en": "living room",
+        "gloss": {
+          "en": "living room",
+          "es": "sala de estar",
+          "ru": "гостиная"
+        },
+        "answers": [
+          "salon",
+          "le salon"
+        ],
+        "target": "le salon"
+      },
+      {
+        "id": "remote-home-a1-prm-5",
+        "en": "bedroom",
+        "gloss": {
+          "en": "bedroom",
+          "es": "dormitorio",
+          "ru": "спальня"
+        },
+        "answers": [
+          "chambre",
+          "la chambre"
+        ],
+        "target": "la chambre"
+      },
+      {
+        "id": "remote-home-a1-prm-6",
+        "en": "bathroom",
+        "gloss": {
+          "en": "bathroom",
+          "es": "baño",
+          "ru": "ванная комната"
+        },
+        "answers": [
+          "salle de bain",
+          "la salle de bain"
+        ],
+        "target": "la salle de bain"
+      },
+      {
+        "id": "remote-home-a1-prm-7",
+        "en": "bed",
+        "gloss": {
+          "en": "bed",
+          "es": "cama",
+          "ru": "кровать"
+        },
+        "answers": [
+          "lit",
+          "le lit"
+        ],
+        "target": "le lit"
+      },
+      {
+        "id": "remote-home-a1-prm-8",
+        "en": "table",
+        "gloss": {
+          "en": "table",
+          "es": "mesa",
+          "ru": "стол"
+        },
+        "answers": [
+          "table",
+          "la table"
+        ],
+        "target": "la table"
+      },
+      {
+        "id": "remote-home-a1-prm-9",
+        "en": "chair",
+        "gloss": {
+          "en": "chair",
+          "es": "silla",
+          "ru": "стул"
+        },
+        "answers": [
+          "chaise",
+          "la chaise"
+        ],
+        "target": "la chaise"
+      },
+      {
+        "id": "remote-home-a1-prm-10",
+        "en": "window",
+        "gloss": {
+          "en": "window",
+          "es": "ventana",
+          "ru": "окно"
+        },
+        "answers": [
+          "fenêtre",
+          "la fenêtre"
+        ],
+        "target": "la fenêtre"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-home-a1-pair-1",
+        "a": {
+          "fr": "maison",
+          "l2": "maison",
+          "en": "house",
+          "gloss": {
+            "en": "house",
+            "es": "casa",
+            "ru": "дом"
+          }
+        },
+        "b": {
+          "fr": "appartement",
+          "l2": "appartement",
+          "en": "apartment / flat",
+          "gloss": {
+            "en": "apartment / flat",
+            "es": "apartamento / piso",
+            "ru": "квартира / квартира"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-home-a1-pair-2",
+        "a": {
+          "fr": "cuisine",
+          "l2": "cuisine",
+          "en": "kitchen",
+          "gloss": {
+            "en": "kitchen",
+            "es": "cocina",
+            "ru": "кухня"
+          }
+        },
+        "b": {
+          "fr": "salon",
+          "l2": "salon",
+          "en": "living room",
+          "gloss": {
+            "en": "living room",
+            "es": "sala de estar",
+            "ru": "гостиная"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-home-a1-pair-3",
+        "a": {
+          "fr": "chambre",
+          "l2": "chambre",
+          "en": "bedroom",
+          "gloss": {
+            "en": "bedroom",
+            "es": "dormitorio",
+            "ru": "спальня"
+          }
+        },
+        "b": {
+          "fr": "salle de bain",
+          "l2": "salle de bain",
+          "en": "bathroom",
+          "gloss": {
+            "en": "bathroom",
+            "es": "baño",
+            "ru": "ванная комната"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-home-a1-pair-4",
+        "a": {
+          "fr": "lit",
+          "l2": "lit",
+          "en": "bed",
+          "gloss": {
+            "en": "bed",
+            "es": "cama",
+            "ru": "кровать"
+          }
+        },
+        "b": {
+          "fr": "table",
+          "l2": "table",
+          "en": "table",
+          "gloss": {
+            "en": "table",
+            "es": "mesa",
+            "ru": "стол"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-home-a1-pair-5",
+        "a": {
+          "fr": "chaise",
+          "l2": "chaise",
+          "en": "chair",
+          "gloss": {
+            "en": "chair",
+            "es": "silla",
+            "ru": "стул"
+          }
+        },
+        "b": {
+          "fr": "fenêtre",
+          "l2": "fenêtre",
+          "en": "window",
+          "gloss": {
+            "en": "window",
+            "es": "ventana",
+            "ru": "окно"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-home-a1-gap-1",
+        "fr": "J’habite dans une petite maison.",
+        "l2": "J’habite dans une petite maison.",
+        "speak": "J’habite dans une petite maison.",
+        "blank": "maison",
+        "en": "house",
+        "gloss": {
+          "en": "house",
+          "es": "casa",
+          "ru": "дом"
+        }
+      },
+      {
+        "id": "remote-home-a1-gap-2",
+        "fr": "Mon appartement est au deuxième étage.",
+        "l2": "Mon appartement est au deuxième étage.",
+        "speak": "Mon appartement est au deuxième étage.",
+        "blank": "appartement",
+        "en": "apartment / flat",
+        "gloss": {
+          "en": "apartment / flat",
+          "es": "apartamento / piso",
+          "ru": "квартира / квартира"
+        }
+      },
+      {
+        "id": "remote-home-a1-gap-3",
+        "fr": "La cuisine est grande.",
+        "l2": "La cuisine est grande.",
+        "speak": "La cuisine est grande.",
+        "blank": "cuisine",
+        "en": "kitchen",
+        "gloss": {
+          "en": "kitchen",
+          "es": "cocina",
+          "ru": "кухня"
+        }
+      },
+      {
+        "id": "remote-home-a1-gap-4",
+        "fr": "Nous regardons la télé dans le salon.",
+        "l2": "Nous regardons la télé dans le salon.",
+        "speak": "Nous regardons la télé dans le salon.",
+        "blank": "salon",
+        "en": "living room",
+        "gloss": {
+          "en": "living room",
+          "es": "sala de estar",
+          "ru": "гостиная"
+        }
+      },
+      {
+        "id": "remote-home-a1-gap-5",
+        "fr": "Ma chambre est calme.",
+        "l2": "Ma chambre est calme.",
+        "speak": "Ma chambre est calme.",
+        "blank": "chambre",
+        "en": "bedroom",
+        "gloss": {
+          "en": "bedroom",
+          "es": "dormitorio",
+          "ru": "спальня"
+        }
+      },
+      {
+        "id": "remote-home-a1-gap-6",
+        "fr": "Où est la salle de bain ?",
+        "l2": "Où est la salle de bain ?",
+        "speak": "Où est la salle de bain ?",
+        "blank": "salle de bain",
+        "en": "bathroom",
+        "gloss": {
+          "en": "bathroom",
+          "es": "baño",
+          "ru": "ванная комната"
+        }
+      },
+      {
+        "id": "remote-home-a1-gap-7",
+        "fr": "Je vais au lit tôt.",
+        "l2": "Je vais au lit tôt.",
+        "speak": "Je vais au lit tôt.",
+        "blank": "lit",
+        "en": "bed",
+        "gloss": {
+          "en": "bed",
+          "es": "cama",
+          "ru": "кровать"
+        }
+      },
+      {
+        "id": "remote-home-a1-gap-8",
+        "fr": "La table est dans la cuisine.",
+        "l2": "La table est dans la cuisine.",
+        "speak": "La table est dans la cuisine.",
+        "blank": "table",
+        "en": "table",
+        "gloss": {
+          "en": "table",
+          "es": "mesa",
+          "ru": "стол"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-home-a1-ord-1",
+        "fr": "J’habite dans une petite maison.",
+        "l2": "J’habite dans une petite maison.",
+        "en": "house",
+        "gloss": {
+          "en": "house",
+          "es": "casa",
+          "ru": "дом"
+        },
+        "words": [
+          "J’habite",
+          "dans",
+          "une",
+          "petite",
+          "maison."
+        ]
+      },
+      {
+        "id": "remote-home-a1-ord-2",
+        "fr": "Mon appartement est au deuxième étage.",
+        "l2": "Mon appartement est au deuxième étage.",
+        "en": "apartment / flat",
+        "gloss": {
+          "en": "apartment / flat",
+          "es": "apartamento / piso",
+          "ru": "квартира / квартира"
+        },
+        "words": [
+          "Mon",
+          "appartement",
+          "est",
+          "au",
+          "deuxième",
+          "étage."
+        ]
+      },
+      {
+        "id": "remote-home-a1-ord-3",
+        "fr": "La cuisine est grande.",
+        "l2": "La cuisine est grande.",
+        "en": "kitchen",
+        "gloss": {
+          "en": "kitchen",
+          "es": "cocina",
+          "ru": "кухня"
+        },
+        "words": [
+          "La",
+          "cuisine",
+          "est",
+          "grande."
+        ]
+      },
+      {
+        "id": "remote-home-a1-ord-4",
+        "fr": "Nous regardons la télé dans le salon.",
+        "l2": "Nous regardons la télé dans le salon.",
+        "en": "living room",
+        "gloss": {
+          "en": "living room",
+          "es": "sala de estar",
+          "ru": "гостиная"
+        },
+        "words": [
+          "Nous",
+          "regardons",
+          "la",
+          "télé",
+          "dans",
+          "le",
+          "salon."
+        ]
+      },
+      {
+        "id": "remote-home-a1-ord-5",
+        "fr": "Ma chambre est calme.",
+        "l2": "Ma chambre est calme.",
+        "en": "bedroom",
+        "gloss": {
+          "en": "bedroom",
+          "es": "dormitorio",
+          "ru": "спальня"
+        },
+        "words": [
+          "Ma",
+          "chambre",
+          "est",
+          "calme."
+        ]
+      },
+      {
+        "id": "remote-home-a1-ord-6",
+        "fr": "Où est la salle de bain ?",
+        "l2": "Où est la salle de bain ?",
+        "en": "bathroom",
+        "gloss": {
+          "en": "bathroom",
+          "es": "baño",
+          "ru": "ванная комната"
+        },
+        "words": [
+          "Où",
+          "est",
+          "la",
+          "salle",
+          "de",
+          "bain",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-home-a1-ord-7",
+        "fr": "Je vais au lit tôt.",
+        "l2": "Je vais au lit tôt.",
+        "en": "bed",
+        "gloss": {
+          "en": "bed",
+          "es": "cama",
+          "ru": "кровать"
+        },
+        "words": [
+          "Je",
+          "vais",
+          "au",
+          "lit",
+          "tôt."
+        ]
+      },
+      {
+        "id": "remote-home-a1-ord-8",
+        "fr": "La table est dans la cuisine.",
+        "l2": "La table est dans la cuisine.",
+        "en": "table",
+        "gloss": {
+          "en": "table",
+          "es": "mesa",
+          "ru": "стол"
+        },
+        "words": [
+          "La",
+          "table",
+          "est",
+          "dans",
+          "la",
+          "cuisine."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-home-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "mɛ.zɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "maison",
+          "l2": "maison",
+          "en": "house",
+          "gloss": {
+            "en": "house",
+            "es": "casa",
+            "ru": "дом"
+          },
+          "ipa": "mɛ.zɔ̃"
+        },
+        {
+          "fr": "appartement",
+          "l2": "appartement",
+          "en": "apartment / flat",
+          "gloss": {
+            "en": "apartment / flat",
+            "es": "apartamento / piso",
+            "ru": "квартира / квартира"
+          },
+          "ipa": "a.paʁ.tə.mɑ̃"
+        },
+        {
+          "fr": "cuisine",
+          "l2": "cuisine",
+          "en": "kitchen",
+          "gloss": {
+            "en": "kitchen",
+            "es": "cocina",
+            "ru": "кухня"
+          },
+          "ipa": "kɥi.zin"
+        },
+        {
+          "fr": "salon",
+          "l2": "salon",
+          "en": "living room",
+          "gloss": {
+            "en": "living room",
+            "es": "sala de estar",
+            "ru": "гостиная"
+          },
+          "ipa": "sa.lɔ̃"
+        },
+        {
+          "fr": "chambre",
+          "l2": "chambre",
+          "en": "bedroom",
+          "gloss": {
+            "en": "bedroom",
+            "es": "dormitorio",
+            "ru": "спальня"
+          },
+          "ipa": "ʃɑ̃bʁ"
+        }
+      ]
+    }
+  ]
 }

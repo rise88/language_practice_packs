@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "science-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "ont",
             "avaient",
             "auraient"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: The researchers ___ already collected the data before formulating the hypothesis.",
+            "es": "Completo: Los investigadores ___ ya recopilaron los datos antes de formular la hipótesis.",
+            "ru": "Завершено: исследователи ___ уже собрали данные, прежде чем сформулировать гипотезу."
+          },
+          "why": {
+            "fr": "Réponse : « avaient ».",
+            "en": "Answer: “avaient”.",
+            "es": "Respuesta: « avaient ».",
+            "ru": "Ответ: « avaient »."
+          }
         },
         {
           "id": "remote-science-gq-2",
@@ -537,7 +548,18 @@
             "a",
             "avait",
             "aurait"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: A chance observation revived a lead that the team ___ abandoned.",
+            "es": "Completo: una observación casual revivió una pista que el equipo ___ abandonó.",
+            "ru": "Завершено: случайное наблюдение возобновило зацепку, от которой команда ___ отказалась."
+          },
+          "why": {
+            "fr": "Réponse : « avait ».",
+            "en": "Answer: “avait”.",
+            "es": "Respuesta: « avait ».",
+            "ru": "Ответ: « avait »."
+          }
         },
         {
           "id": "remote-science-gq-3",
@@ -547,13 +569,25 @@
             "ont",
             "avaient",
             "auraient"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: They ___ already noted each discrepancy before concluding.",
+            "es": "Complète : Ils ___ déjà noté chaque écart avant de conclure.",
+            "ru": "Завершено: они ___ уже отметили каждое несоответствие, прежде чем сделать вывод."
+          },
+          "why": {
+            "fr": "Réponse : « avaient ».",
+            "en": "Answer: “avaient”.",
+            "es": "Respuesta: « avaient ».",
+            "ru": "Ответ: « avaient »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: The pluperfect in scientific narrative.",
         "es": "Útil cuando necesitas aplicar: El pluscuamperfecto en la narrativa científica.",
-        "ru": "Полезно, когда вам нужно применить: плюперфект в научном повествовании."
+        "ru": "Полезно, когда вам нужно применить: плюперфект в научном повествовании.",
+        "fr": "Utile pour appliquer : Le plus-que-parfait dans le récit scientifique."
       }
     },
     {
@@ -601,7 +635,18 @@
             "est",
             "était",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: If the protocol ___ stricter, we would reduce the risk of error.",
+            "es": "Completo: Si el protocolo ___ fuera más estricto, reduciríamos el riesgo de error.",
+            "ru": "Выполнено: Если протокол ___ будет более строгим, мы снизим риск ошибки."
+          },
+          "why": {
+            "fr": "Réponse : « était ».",
+            "en": "Answer: “était”.",
+            "es": "Respuesta: « était ».",
+            "ru": "Ответ: « était »."
+          }
         },
         {
           "id": "remote-science-gq-5",
@@ -611,13 +656,25 @@
             "généralise",
             "généraliserait",
             "a généralisé"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: If the sample was larger, we would ___ .",
+            "es": "Completo: Si la muestra fuera más grande, ___ .",
+            "ru": "Завершено: Если бы выборка была больше, мы бы ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « généraliserait ».",
+            "en": "Answer: “généraliserait”.",
+            "es": "Respuesta: « généraliserait ».",
+            "ru": "Ответ: « généraliserait »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Scientific hypothesis with si-clauses.",
         "es": "Útil cuando necesitas aplicar: Hipótesis científica con cláusulas si.",
-        "ru": "Полезно, когда вам нужно применить: Научную гипотезу с предложениями."
+        "ru": "Полезно, когда вам нужно применить: Научную гипотезу с предложениями.",
+        "fr": "Utile pour appliquer : Hypothèse : si + imparfait + conditionnel."
       }
     }
   ],
@@ -849,6 +906,1054 @@
         },
         "l2": "Une corrélation n’établit pas un lien de cause à effet."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-science-fren-1",
+        "fr": "hypothèse",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        },
+        "l2": "hypothèse"
+      },
+      {
+        "id": "remote-science-fren-2",
+        "fr": "expérience",
+        "en": "experiment",
+        "gloss": {
+          "en": "experiment",
+          "es": "experimento",
+          "ru": "эксперимент"
+        },
+        "l2": "expérience"
+      },
+      {
+        "id": "remote-science-fren-3",
+        "fr": "preuve",
+        "en": "evidence",
+        "gloss": {
+          "en": "evidence",
+          "es": "evidencia",
+          "ru": "доказательство"
+        },
+        "l2": "preuve"
+      },
+      {
+        "id": "remote-science-fren-4",
+        "fr": "laboratoire",
+        "en": "laboratory",
+        "gloss": {
+          "en": "laboratory",
+          "es": "laboratorio",
+          "ru": "лаборатория"
+        },
+        "l2": "laboratoire"
+      },
+      {
+        "id": "remote-science-fren-5",
+        "fr": "recherche",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        },
+        "l2": "recherche"
+      },
+      {
+        "id": "remote-science-fren-6",
+        "fr": "protocole",
+        "en": "protocol",
+        "gloss": {
+          "en": "protocol",
+          "es": "protocolo",
+          "ru": "протокол"
+        },
+        "l2": "protocole"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-science-b2-enl2-1",
+        "fr": "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+        "l2": "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        },
+        "prompt": "hypothesis",
+        "choices": [
+          "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+          "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+          "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche."
+        ]
+      },
+      {
+        "id": "remote-science-b2-enl2-2",
+        "fr": "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+        "l2": "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+        "en": "experiment",
+        "gloss": {
+          "en": "experiment",
+          "es": "experimento",
+          "ru": "эксперимент"
+        },
+        "prompt": "experiment",
+        "choices": [
+          "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+          "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+          "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche."
+        ]
+      },
+      {
+        "id": "remote-science-b2-enl2-3",
+        "fr": "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+        "l2": "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+        "en": "evidence / proof",
+        "gloss": {
+          "en": "evidence / proof",
+          "es": "evidencia / prueba",
+          "ru": "доказательства / доказательства"
+        },
+        "prompt": "evidence / proof",
+        "choices": [
+          "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+          "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+          "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat."
+        ]
+      },
+      {
+        "id": "remote-science-b2-enl2-4",
+        "fr": "Le laboratoire manque de personnel qualifié pour analyser tous les échantillons.",
+        "l2": "Le laboratoire manque de personnel qualifié pour analyser tous les échantillons.",
+        "en": "laboratory",
+        "gloss": {
+          "en": "laboratory",
+          "es": "laboratorio",
+          "ru": "лаборатория"
+        },
+        "prompt": "laboratory",
+        "choices": [
+          "Le laboratoire manque de personnel qualifié pour analyser tous les échantillons.",
+          "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+          "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat."
+        ]
+      },
+      {
+        "id": "remote-science-b2-enl2-5",
+        "fr": "La recherche fondamentale avance lentement, toutefois ses applications peuvent être soudaines.",
+        "l2": "La recherche fondamentale avance lentement, toutefois ses applications peuvent être soudaines.",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        },
+        "prompt": "research",
+        "choices": [
+          "La recherche fondamentale avance lentement, toutefois ses applications peuvent être soudaines.",
+          "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+          "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat."
+        ]
+      },
+      {
+        "id": "remote-science-b2-enl2-6",
+        "fr": "Le protocole impose de noter chaque écart, même minime, dans le cahier.",
+        "l2": "Le protocole impose de noter chaque écart, même minime, dans le cahier.",
+        "en": "protocol",
+        "gloss": {
+          "en": "protocol",
+          "es": "protocolo",
+          "ru": "протокол"
+        },
+        "prompt": "protocol",
+        "choices": [
+          "Le protocole impose de noter chaque écart, même minime, dans le cahier.",
+          "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+          "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat."
+        ]
+      },
+      {
+        "id": "remote-science-b2-enl2-7",
+        "fr": "L’échantillon était trop restreint pour qu’on généralise à l’ensemble de la population.",
+        "l2": "L’échantillon était trop restreint pour qu’on généralise à l’ensemble de la population.",
+        "en": "sample",
+        "gloss": {
+          "en": "sample",
+          "es": "muestra",
+          "ru": "образец"
+        },
+        "prompt": "sample",
+        "choices": [
+          "L’échantillon était trop restreint pour qu’on généralise à l’ensemble de la population.",
+          "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+          "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat."
+        ]
+      },
+      {
+        "id": "remote-science-b2-enl2-8",
+        "fr": "Une variable non contrôlée a probablement faussé les premières mesures.",
+        "l2": "Une variable non contrôlée a probablement faussé les premières mesures.",
+        "en": "variable",
+        "gloss": {
+          "en": "variable",
+          "es": "variable",
+          "ru": "переменная"
+        },
+        "prompt": "variable",
+        "choices": [
+          "Une variable non contrôlée a probablement faussé les premières mesures.",
+          "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+          "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-science-b2-prm-1",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        },
+        "answers": [
+          "hypothèse",
+          "l' hypothèse"
+        ],
+        "target": "l' hypothèse"
+      },
+      {
+        "id": "remote-science-b2-prm-2",
+        "en": "experiment",
+        "gloss": {
+          "en": "experiment",
+          "es": "experimento",
+          "ru": "эксперимент"
+        },
+        "answers": [
+          "expérience",
+          "l' expérience"
+        ],
+        "target": "l' expérience"
+      },
+      {
+        "id": "remote-science-b2-prm-3",
+        "en": "evidence / proof",
+        "gloss": {
+          "en": "evidence / proof",
+          "es": "evidencia / prueba",
+          "ru": "доказательства / доказательства"
+        },
+        "answers": [
+          "preuve",
+          "la preuve"
+        ],
+        "target": "la preuve"
+      },
+      {
+        "id": "remote-science-b2-prm-4",
+        "en": "laboratory",
+        "gloss": {
+          "en": "laboratory",
+          "es": "laboratorio",
+          "ru": "лаборатория"
+        },
+        "answers": [
+          "laboratoire",
+          "le laboratoire"
+        ],
+        "target": "le laboratoire"
+      },
+      {
+        "id": "remote-science-b2-prm-5",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        },
+        "answers": [
+          "recherche",
+          "la recherche"
+        ],
+        "target": "la recherche"
+      },
+      {
+        "id": "remote-science-b2-prm-6",
+        "en": "protocol",
+        "gloss": {
+          "en": "protocol",
+          "es": "protocolo",
+          "ru": "протокол"
+        },
+        "answers": [
+          "protocole",
+          "le protocole"
+        ],
+        "target": "le protocole"
+      },
+      {
+        "id": "remote-science-b2-prm-7",
+        "en": "sample",
+        "gloss": {
+          "en": "sample",
+          "es": "muestra",
+          "ru": "образец"
+        },
+        "answers": [
+          "échantillon",
+          "l' échantillon"
+        ],
+        "target": "l' échantillon"
+      },
+      {
+        "id": "remote-science-b2-prm-8",
+        "en": "variable",
+        "gloss": {
+          "en": "variable",
+          "es": "variable",
+          "ru": "переменная"
+        },
+        "answers": [
+          "variable",
+          "la variable"
+        ],
+        "target": "la variable"
+      },
+      {
+        "id": "remote-science-b2-prm-9",
+        "en": "publication",
+        "gloss": {
+          "en": "publication",
+          "es": "publicación",
+          "ru": "публикация"
+        },
+        "answers": [
+          "publication",
+          "la publication"
+        ],
+        "target": "la publication"
+      },
+      {
+        "id": "remote-science-b2-prm-10",
+        "en": "result",
+        "gloss": {
+          "en": "result",
+          "es": "resultado",
+          "ru": "результат"
+        },
+        "answers": [
+          "résultat",
+          "le résultat"
+        ],
+        "target": "le résultat"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-science-b2-sign-1",
+        "fr": "hypothèse",
+        "l2": "hypothèse",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        },
+        "choices": [
+          "hypothesis",
+          "experiment",
+          "evidence / proof"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-2",
+        "fr": "expérience",
+        "l2": "expérience",
+        "en": "experiment",
+        "gloss": {
+          "en": "experiment",
+          "es": "experimento",
+          "ru": "эксперимент"
+        },
+        "choices": [
+          "experiment",
+          "hypothesis",
+          "evidence / proof"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-3",
+        "fr": "preuve",
+        "l2": "preuve",
+        "en": "evidence / proof",
+        "gloss": {
+          "en": "evidence / proof",
+          "es": "evidencia / prueba",
+          "ru": "доказательства / доказательства"
+        },
+        "choices": [
+          "evidence / proof",
+          "hypothesis",
+          "experiment"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-4",
+        "fr": "laboratoire",
+        "l2": "laboratoire",
+        "en": "laboratory",
+        "gloss": {
+          "en": "laboratory",
+          "es": "laboratorio",
+          "ru": "лаборатория"
+        },
+        "choices": [
+          "laboratory",
+          "hypothesis",
+          "experiment"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-5",
+        "fr": "recherche",
+        "l2": "recherche",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        },
+        "choices": [
+          "research",
+          "hypothesis",
+          "experiment"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-6",
+        "fr": "protocole",
+        "l2": "protocole",
+        "en": "protocol",
+        "gloss": {
+          "en": "protocol",
+          "es": "protocolo",
+          "ru": "протокол"
+        },
+        "choices": [
+          "protocol",
+          "hypothesis",
+          "experiment"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-7",
+        "fr": "échantillon",
+        "l2": "échantillon",
+        "en": "sample",
+        "gloss": {
+          "en": "sample",
+          "es": "muestra",
+          "ru": "образец"
+        },
+        "choices": [
+          "sample",
+          "hypothesis",
+          "experiment"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-8",
+        "fr": "variable",
+        "l2": "variable",
+        "en": "variable",
+        "gloss": {
+          "en": "variable",
+          "es": "variable",
+          "ru": "переменная"
+        },
+        "choices": [
+          "variable",
+          "hypothesis",
+          "experiment"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-9",
+        "fr": "publication",
+        "l2": "publication",
+        "en": "publication",
+        "gloss": {
+          "en": "publication",
+          "es": "publicación",
+          "ru": "публикация"
+        },
+        "choices": [
+          "publication",
+          "hypothesis",
+          "experiment"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-10",
+        "fr": "résultat",
+        "l2": "résultat",
+        "en": "result",
+        "gloss": {
+          "en": "result",
+          "es": "resultado",
+          "ru": "результат"
+        },
+        "choices": [
+          "result",
+          "hypothesis",
+          "experiment"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-11",
+        "fr": "observation",
+        "l2": "observation",
+        "en": "observation",
+        "gloss": {
+          "en": "observation",
+          "es": "observación",
+          "ru": "наблюдение"
+        },
+        "choices": [
+          "observation",
+          "hypothesis",
+          "experiment"
+        ]
+      },
+      {
+        "id": "remote-science-b2-sign-12",
+        "fr": "théorie",
+        "l2": "théorie",
+        "en": "theory",
+        "gloss": {
+          "en": "theory",
+          "es": "teoría",
+          "ru": "теория"
+        },
+        "choices": [
+          "theory",
+          "hypothesis",
+          "experiment"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-science-b2-pair-1",
+        "a": {
+          "fr": "hypothèse",
+          "l2": "hypothèse",
+          "en": "hypothesis",
+          "gloss": {
+            "en": "hypothesis",
+            "es": "hipótesis",
+            "ru": "гипотеза"
+          }
+        },
+        "b": {
+          "fr": "expérience",
+          "l2": "expérience",
+          "en": "experiment",
+          "gloss": {
+            "en": "experiment",
+            "es": "experimento",
+            "ru": "эксперимент"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-science-b2-pair-2",
+        "a": {
+          "fr": "preuve",
+          "l2": "preuve",
+          "en": "evidence / proof",
+          "gloss": {
+            "en": "evidence / proof",
+            "es": "evidencia / prueba",
+            "ru": "доказательства / доказательства"
+          }
+        },
+        "b": {
+          "fr": "laboratoire",
+          "l2": "laboratoire",
+          "en": "laboratory",
+          "gloss": {
+            "en": "laboratory",
+            "es": "laboratorio",
+            "ru": "лаборатория"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-science-b2-pair-3",
+        "a": {
+          "fr": "recherche",
+          "l2": "recherche",
+          "en": "research",
+          "gloss": {
+            "en": "research",
+            "es": "investigación",
+            "ru": "исследовать"
+          }
+        },
+        "b": {
+          "fr": "protocole",
+          "l2": "protocole",
+          "en": "protocol",
+          "gloss": {
+            "en": "protocol",
+            "es": "protocolo",
+            "ru": "протокол"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-science-b2-pair-4",
+        "a": {
+          "fr": "échantillon",
+          "l2": "échantillon",
+          "en": "sample",
+          "gloss": {
+            "en": "sample",
+            "es": "muestra",
+            "ru": "образец"
+          }
+        },
+        "b": {
+          "fr": "variable",
+          "l2": "variable",
+          "en": "variable",
+          "gloss": {
+            "en": "variable",
+            "es": "variable",
+            "ru": "переменная"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-science-b2-pair-5",
+        "a": {
+          "fr": "publication",
+          "l2": "publication",
+          "en": "publication",
+          "gloss": {
+            "en": "publication",
+            "es": "publicación",
+            "ru": "публикация"
+          }
+        },
+        "b": {
+          "fr": "résultat",
+          "l2": "résultat",
+          "en": "result",
+          "gloss": {
+            "en": "result",
+            "es": "resultado",
+            "ru": "результат"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-science-b2-gap-1",
+        "fr": "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+        "l2": "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+        "speak": "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+        "blank": "hypothèse",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        }
+      },
+      {
+        "id": "remote-science-b2-gap-2",
+        "fr": "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+        "l2": "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+        "speak": "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+        "blank": "expérience",
+        "en": "experiment",
+        "gloss": {
+          "en": "experiment",
+          "es": "experimento",
+          "ru": "эксперимент"
+        }
+      },
+      {
+        "id": "remote-science-b2-gap-3",
+        "fr": "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+        "l2": "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+        "speak": "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+        "blank": "preuve",
+        "en": "evidence / proof",
+        "gloss": {
+          "en": "evidence / proof",
+          "es": "evidencia / prueba",
+          "ru": "доказательства / доказательства"
+        }
+      },
+      {
+        "id": "remote-science-b2-gap-4",
+        "fr": "Le laboratoire manque de personnel qualifié pour analyser tous les échantillons.",
+        "l2": "Le laboratoire manque de personnel qualifié pour analyser tous les échantillons.",
+        "speak": "Le laboratoire manque de personnel qualifié pour analyser tous les échantillons.",
+        "blank": "laboratoire",
+        "en": "laboratory",
+        "gloss": {
+          "en": "laboratory",
+          "es": "laboratorio",
+          "ru": "лаборатория"
+        }
+      },
+      {
+        "id": "remote-science-b2-gap-5",
+        "fr": "La recherche fondamentale avance lentement, toutefois ses applications peuvent être soudaines.",
+        "l2": "La recherche fondamentale avance lentement, toutefois ses applications peuvent être soudaines.",
+        "speak": "La recherche fondamentale avance lentement, toutefois ses applications peuvent être soudaines.",
+        "blank": "recherche",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        }
+      },
+      {
+        "id": "remote-science-b2-gap-6",
+        "fr": "Le protocole impose de noter chaque écart, même minime, dans le cahier.",
+        "l2": "Le protocole impose de noter chaque écart, même minime, dans le cahier.",
+        "speak": "Le protocole impose de noter chaque écart, même minime, dans le cahier.",
+        "blank": "protocole",
+        "en": "protocol",
+        "gloss": {
+          "en": "protocol",
+          "es": "protocolo",
+          "ru": "протокол"
+        }
+      },
+      {
+        "id": "remote-science-b2-gap-7",
+        "fr": "L’échantillon était trop restreint pour qu’on généralise à l’ensemble de la population.",
+        "l2": "L’échantillon était trop restreint pour qu’on généralise à l’ensemble de la population.",
+        "speak": "L’échantillon était trop restreint pour qu’on généralise à l’ensemble de la population.",
+        "blank": "échantillon",
+        "en": "sample",
+        "gloss": {
+          "en": "sample",
+          "es": "muestra",
+          "ru": "образец"
+        }
+      },
+      {
+        "id": "remote-science-b2-gap-8",
+        "fr": "Une variable non contrôlée a probablement faussé les premières mesures.",
+        "l2": "Une variable non contrôlée a probablement faussé les premières mesures.",
+        "speak": "Une variable non contrôlée a probablement faussé les premières mesures.",
+        "blank": "variable",
+        "en": "variable",
+        "gloss": {
+          "en": "variable",
+          "es": "variable",
+          "ru": "переменная"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-science-b2-ord-1",
+        "fr": "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+        "l2": "L’hypothèse initiale n’a pas résisté à la deuxième série de mesures.",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        },
+        "words": [
+          "L’hypothèse",
+          "initiale",
+          "n’a",
+          "pas",
+          "résisté",
+          "à",
+          "la",
+          "deuxième",
+          "série",
+          "de",
+          "mesures."
+        ]
+      },
+      {
+        "id": "remote-science-b2-ord-2",
+        "fr": "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+        "l2": "L’expérience a été reproduite dans un autre laboratoire afin de confirmer le résultat.",
+        "en": "experiment",
+        "gloss": {
+          "en": "experiment",
+          "es": "experimento",
+          "ru": "эксперимент"
+        },
+        "words": [
+          "L’expérience",
+          "a",
+          "été",
+          "reproduite",
+          "dans",
+          "un",
+          "autre",
+          "laboratoire",
+          "afin",
+          "de",
+          "confirmer",
+          "le",
+          "résultat."
+        ]
+      },
+      {
+        "id": "remote-science-b2-ord-3",
+        "fr": "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+        "l2": "Cette seule preuve ne suffit pas, néanmoins elle oriente la recherche.",
+        "en": "evidence / proof",
+        "gloss": {
+          "en": "evidence / proof",
+          "es": "evidencia / prueba",
+          "ru": "доказательства / доказательства"
+        },
+        "words": [
+          "Cette",
+          "seule",
+          "preuve",
+          "ne",
+          "suffit",
+          "pas,",
+          "néanmoins",
+          "elle",
+          "oriente",
+          "la",
+          "recherche."
+        ]
+      },
+      {
+        "id": "remote-science-b2-ord-4",
+        "fr": "Le laboratoire manque de personnel qualifié pour analyser tous les échantillons.",
+        "l2": "Le laboratoire manque de personnel qualifié pour analyser tous les échantillons.",
+        "en": "laboratory",
+        "gloss": {
+          "en": "laboratory",
+          "es": "laboratorio",
+          "ru": "лаборатория"
+        },
+        "words": [
+          "Le",
+          "laboratoire",
+          "manque",
+          "de",
+          "personnel",
+          "qualifié",
+          "pour",
+          "analyser",
+          "tous",
+          "les",
+          "échantillons."
+        ]
+      },
+      {
+        "id": "remote-science-b2-ord-5",
+        "fr": "La recherche fondamentale avance lentement, toutefois ses applications peuvent être soudaines.",
+        "l2": "La recherche fondamentale avance lentement, toutefois ses applications peuvent être soudaines.",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        },
+        "words": [
+          "La",
+          "recherche",
+          "fondamentale",
+          "avance",
+          "lentement,",
+          "toutefois",
+          "ses",
+          "applications",
+          "peuvent",
+          "être",
+          "soudaines."
+        ]
+      },
+      {
+        "id": "remote-science-b2-ord-6",
+        "fr": "Le protocole impose de noter chaque écart, même minime, dans le cahier.",
+        "l2": "Le protocole impose de noter chaque écart, même minime, dans le cahier.",
+        "en": "protocol",
+        "gloss": {
+          "en": "protocol",
+          "es": "protocolo",
+          "ru": "протокол"
+        },
+        "words": [
+          "Le",
+          "protocole",
+          "impose",
+          "de",
+          "noter",
+          "chaque",
+          "écart,",
+          "même",
+          "minime,",
+          "dans",
+          "le",
+          "cahier."
+        ]
+      },
+      {
+        "id": "remote-science-b2-ord-7",
+        "fr": "L’échantillon était trop restreint pour qu’on généralise à l’ensemble de la population.",
+        "l2": "L’échantillon était trop restreint pour qu’on généralise à l’ensemble de la population.",
+        "en": "sample",
+        "gloss": {
+          "en": "sample",
+          "es": "muestra",
+          "ru": "образец"
+        },
+        "words": [
+          "L’échantillon",
+          "était",
+          "trop",
+          "restreint",
+          "pour",
+          "qu’on",
+          "généralise",
+          "à",
+          "l’ensemble",
+          "de",
+          "la",
+          "population."
+        ]
+      },
+      {
+        "id": "remote-science-b2-ord-8",
+        "fr": "Une variable non contrôlée a probablement faussé les premières mesures.",
+        "l2": "Une variable non contrôlée a probablement faussé les premières mesures.",
+        "en": "variable",
+        "gloss": {
+          "en": "variable",
+          "es": "variable",
+          "ru": "переменная"
+        },
+        "words": [
+          "Une",
+          "variable",
+          "non",
+          "contrôlée",
+          "a",
+          "probablement",
+          "faussé",
+          "les",
+          "premières",
+          "mesures."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-science-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "i.pɔ.tɛz",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "hypothèse",
+          "l2": "hypothèse",
+          "en": "hypothesis",
+          "gloss": {
+            "en": "hypothesis",
+            "es": "hipótesis",
+            "ru": "гипотеза"
+          },
+          "ipa": "i.pɔ.tɛz"
+        },
+        {
+          "fr": "expérience",
+          "l2": "expérience",
+          "en": "experiment",
+          "gloss": {
+            "en": "experiment",
+            "es": "experimento",
+            "ru": "эксперимент"
+          },
+          "ipa": "ɛk.spe.ʁjɑ̃s"
+        },
+        {
+          "fr": "preuve",
+          "l2": "preuve",
+          "en": "evidence / proof",
+          "gloss": {
+            "en": "evidence / proof",
+            "es": "evidencia / prueba",
+            "ru": "доказательства / доказательства"
+          },
+          "ipa": "pʁœv"
+        },
+        {
+          "fr": "laboratoire",
+          "l2": "laboratoire",
+          "en": "laboratory",
+          "gloss": {
+            "en": "laboratory",
+            "es": "laboratorio",
+            "ru": "лаборатория"
+          },
+          "ipa": "la.bɔ.ʁa.twaʁ"
+        },
+        {
+          "fr": "recherche",
+          "l2": "recherche",
+          "en": "research",
+          "gloss": {
+            "en": "research",
+            "es": "investigación",
+            "ru": "исследовать"
+          },
+          "ipa": "ʁə.ʃɛʁʃ"
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "climate-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -522,7 +522,18 @@
             "faut",
             "faudrait",
             "fallait"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: It ___ that emissions are falling faster.",
+            "es": "Completo: ___ que las emisiones están cayendo más rápido.",
+            "ru": "Завершено: ___ что выбросы сокращаются быстрее."
+          },
+          "why": {
+            "fr": "Réponse : « faudrait ».",
+            "en": "Answer: “faudrait”.",
+            "es": "Respuesta: « faudrait ».",
+            "ru": "Ответ: « faudrait »."
+          }
         },
         {
           "id": "remote-climate-gq-2",
@@ -532,7 +543,18 @@
             "doit",
             "devrait",
             "devra"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: The price of carbon ___ increase to accelerate the transition.",
+            "es": "Completo: El precio del carbono ___ aumenta para acelerar la transición.",
+            "ru": "Выполнено: Цена на углерод ___ увеличится для ускорения перехода."
+          },
+          "why": {
+            "fr": "Réponse : « devrait ».",
+            "en": "Answer: “devrait”.",
+            "es": "Respuesta: « devrait ».",
+            "ru": "Ответ: « devrait »."
+          }
         },
         {
           "id": "remote-climate-gq-3",
@@ -542,13 +564,25 @@
             "atténue",
             "atténuerait",
             "a atténué"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: If we greened cities, we would ___ the effect of heatwaves.",
+            "es": "Completo: Si reverdecieramos las ciudades, ___ el efecto de las olas de calor.",
+            "ru": "Выполнено: Если бы мы озеленили города, мы бы ___ от последствий волн тепла."
+          },
+          "why": {
+            "fr": "Réponse : « atténuerait ».",
+            "en": "Answer: “atténuerait”.",
+            "es": "Respuesta: « atténuerait ».",
+            "ru": "Ответ: « atténuerait »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: The conditional for recommendations.",
         "es": "Útil cuando necesitas aplicar: El condicional para recomendaciones.",
-        "ru": "Полезно, когда нужно подать заявку: Условия для рекомендаций."
+        "ru": "Полезно, когда нужно подать заявку: Условия для рекомендаций.",
+        "fr": "Utile pour appliquer : Le conditionnel pour préconiser."
       }
     },
     {
@@ -596,7 +630,18 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: So that the agreement ___ credible, let us publish a quantified trajectory.",
+            "es": "Completo: Para que el acuerdo ___ sea creíble, publiquemos una trayectoria cuantificada.",
+            "ru": "Завершено: Чтобы соглашение ___ было достоверным, давайте опубликуем количественную оценку траектории."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-climate-gq-5",
@@ -606,13 +651,25 @@
             "afin que",
             "afin de",
             "bien que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Cities are greening ___ reduce the effect of heatwaves.",
+            "es": "Completo: Las ciudades se están volviendo más verdes ___ reducen el efecto de las olas de calor.",
+            "ru": "Выполнено: Города озеленяются ___ уменьшают воздействие волн жары."
+          },
+          "why": {
+            "fr": "Réponse : « afin de ».",
+            "en": "Answer: “afin de”.",
+            "es": "Respuesta: « afin de ».",
+            "ru": "Ответ: « afin de »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Purpose clauses with afin que.",
         "es": "Útil cuando necesitas aplicar: Cláusulas de propósito con afin que.",
-        "ru": "Полезно, когда вам нужно подать заявку: Предложения о цели с afin que."
+        "ru": "Полезно, когда вам нужно подать заявку: Предложения о цели с afin que.",
+        "fr": "Utile pour appliquer : Afin que + subjonctif."
       }
     }
   ],
@@ -874,6 +931,870 @@
         },
         "l2": "tri sélectif"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-climate-fren-1",
+        "fr": "émission",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        },
+        "l2": "émission"
+      },
+      {
+        "id": "remote-climate-fren-2",
+        "fr": "énergie renouvelable",
+        "en": "renewable energy",
+        "gloss": {
+          "en": "renewable energy",
+          "es": "energía renovable",
+          "ru": "возобновляемая энергия"
+        },
+        "l2": "énergie renouvelable"
+      },
+      {
+        "id": "remote-climate-fren-3",
+        "fr": "sécheresse",
+        "en": "drought",
+        "gloss": {
+          "en": "drought",
+          "es": "sequía",
+          "ru": "засуха"
+        },
+        "l2": "sécheresse"
+      },
+      {
+        "id": "remote-climate-fren-4",
+        "fr": "politique climatique",
+        "en": "climate policy",
+        "gloss": {
+          "en": "climate policy",
+          "es": "política climática",
+          "ru": "климатическая политика"
+        },
+        "l2": "politique climatique"
+      },
+      {
+        "id": "remote-climate-fren-5",
+        "fr": "carbone",
+        "en": "carbon",
+        "gloss": {
+          "en": "carbon",
+          "es": "carbón",
+          "ru": "углерод"
+        },
+        "l2": "carbone"
+      },
+      {
+        "id": "remote-climate-fren-6",
+        "fr": "gaz à effet de serre",
+        "en": "greenhouse gas",
+        "gloss": {
+          "en": "greenhouse gas",
+          "es": "gas de efecto invernadero",
+          "ru": "парниковый газ"
+        },
+        "l2": "gaz à effet de serre"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-climate-b2-enl2-1",
+        "fr": "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+        "l2": "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        },
+        "prompt": "emission",
+        "choices": [
+          "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+          "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+          "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-enl2-2",
+        "fr": "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+        "l2": "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+        "en": "renewable energy",
+        "gloss": {
+          "en": "renewable energy",
+          "es": "energía renovable",
+          "ru": "возобновляемая энергия"
+        },
+        "prompt": "renewable energy",
+        "choices": [
+          "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+          "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+          "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-enl2-3",
+        "fr": "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+        "l2": "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+        "en": "drought",
+        "gloss": {
+          "en": "drought",
+          "es": "sequía",
+          "ru": "засуха"
+        },
+        "prompt": "drought",
+        "choices": [
+          "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+          "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+          "L’énergie renouvelable couvre désormais une part croissante de la production électrique."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-enl2-4",
+        "fr": "Cette politique climatique articule tarification du carbone et aides à la rénovation.",
+        "l2": "Cette politique climatique articule tarification du carbone et aides à la rénovation.",
+        "en": "climate policy",
+        "gloss": {
+          "en": "climate policy",
+          "es": "política climática",
+          "ru": "климатическая политика"
+        },
+        "prompt": "climate policy",
+        "choices": [
+          "Cette politique climatique articule tarification du carbone et aides à la rénovation.",
+          "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+          "L’énergie renouvelable couvre désormais une part croissante de la production électrique."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-enl2-5",
+        "fr": "Le prix du carbone devrait augmenter afin que les industriels accélèrent la transition.",
+        "l2": "Le prix du carbone devrait augmenter afin que les industriels accélèrent la transition.",
+        "en": "carbon",
+        "gloss": {
+          "en": "carbon",
+          "es": "carbón",
+          "ru": "углерод"
+        },
+        "prompt": "carbon",
+        "choices": [
+          "Le prix du carbone devrait augmenter afin que les industriels accélèrent la transition.",
+          "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+          "L’énergie renouvelable couvre désormais une part croissante de la production électrique."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-enl2-6",
+        "fr": "Les gaz à effet de serre s’accumulent plus vite que les puits de carbone naturels.",
+        "l2": "Les gaz à effet de serre s’accumulent plus vite que les puits de carbone naturels.",
+        "en": "greenhouse gas",
+        "gloss": {
+          "en": "greenhouse gas",
+          "es": "gas de efecto invernadero",
+          "ru": "парниковый газ"
+        },
+        "prompt": "greenhouse gas",
+        "choices": [
+          "Les gaz à effet de serre s’accumulent plus vite que les puits de carbone naturels.",
+          "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+          "L’énergie renouvelable couvre désormais une part croissante de la production électrique."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-enl2-7",
+        "fr": "La transition énergétique exige des investissements que le marché seul ne fournit pas.",
+        "l2": "La transition énergétique exige des investissements que le marché seul ne fournit pas.",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        },
+        "prompt": "transition",
+        "choices": [
+          "La transition énergétique exige des investissements que le marché seul ne fournit pas.",
+          "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+          "L’énergie renouvelable couvre désormais une part croissante de la production électrique."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-enl2-8",
+        "fr": "La biodiversité s’érode, en revanche certaines espèces protégées recolonisent des milieux.",
+        "l2": "La biodiversité s’érode, en revanche certaines espèces protégées recolonisent des milieux.",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        },
+        "prompt": "biodiversity",
+        "choices": [
+          "La biodiversité s’érode, en revanche certaines espèces protégées recolonisent des milieux.",
+          "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+          "L’énergie renouvelable couvre désormais une part croissante de la production électrique."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-climate-b2-prm-1",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        },
+        "answers": [
+          "émission",
+          "l' émission"
+        ],
+        "target": "l' émission"
+      },
+      {
+        "id": "remote-climate-b2-prm-2",
+        "en": "renewable energy",
+        "gloss": {
+          "en": "renewable energy",
+          "es": "energía renovable",
+          "ru": "возобновляемая энергия"
+        },
+        "answers": [
+          "énergie renouvelable",
+          "l' énergie renouvelable"
+        ],
+        "target": "l' énergie renouvelable"
+      },
+      {
+        "id": "remote-climate-b2-prm-3",
+        "en": "drought",
+        "gloss": {
+          "en": "drought",
+          "es": "sequía",
+          "ru": "засуха"
+        },
+        "answers": [
+          "sécheresse",
+          "la sécheresse"
+        ],
+        "target": "la sécheresse"
+      },
+      {
+        "id": "remote-climate-b2-prm-4",
+        "en": "climate policy",
+        "gloss": {
+          "en": "climate policy",
+          "es": "política climática",
+          "ru": "климатическая политика"
+        },
+        "answers": [
+          "politique climatique",
+          "la politique climatique"
+        ],
+        "target": "la politique climatique"
+      },
+      {
+        "id": "remote-climate-b2-prm-5",
+        "en": "carbon",
+        "gloss": {
+          "en": "carbon",
+          "es": "carbón",
+          "ru": "углерод"
+        },
+        "answers": [
+          "carbone",
+          "le carbone"
+        ],
+        "target": "le carbone"
+      },
+      {
+        "id": "remote-climate-b2-prm-6",
+        "en": "greenhouse gas",
+        "gloss": {
+          "en": "greenhouse gas",
+          "es": "gas de efecto invernadero",
+          "ru": "парниковый газ"
+        },
+        "answers": [
+          "gaz à effet de serre",
+          "les gaz à effet de serre"
+        ],
+        "target": "les gaz à effet de serre"
+      },
+      {
+        "id": "remote-climate-b2-prm-7",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        },
+        "answers": [
+          "transition",
+          "la transition"
+        ],
+        "target": "la transition"
+      },
+      {
+        "id": "remote-climate-b2-prm-8",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        },
+        "answers": [
+          "biodiversité",
+          "la biodiversité"
+        ],
+        "target": "la biodiversité"
+      },
+      {
+        "id": "remote-climate-b2-prm-9",
+        "en": "heatwave",
+        "gloss": {
+          "en": "heatwave",
+          "es": "ola de calor",
+          "ru": "волна тепла"
+        },
+        "answers": [
+          "canicule",
+          "la canicule"
+        ],
+        "target": "la canicule"
+      },
+      {
+        "id": "remote-climate-b2-prm-10",
+        "en": "deforestation",
+        "gloss": {
+          "en": "deforestation",
+          "es": "deforestación",
+          "ru": "вырубка лесов"
+        },
+        "answers": [
+          "déforestation",
+          "la déforestation"
+        ],
+        "target": "la déforestation"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-climate-b2-pair-1",
+        "a": {
+          "fr": "émission",
+          "l2": "émission",
+          "en": "emission",
+          "gloss": {
+            "en": "emission",
+            "es": "emisión",
+            "ru": "выбросы"
+          }
+        },
+        "b": {
+          "fr": "énergie renouvelable",
+          "l2": "énergie renouvelable",
+          "en": "renewable energy",
+          "gloss": {
+            "en": "renewable energy",
+            "es": "energía renovable",
+            "ru": "возобновляемая энергия"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-climate-b2-pair-2",
+        "a": {
+          "fr": "sécheresse",
+          "l2": "sécheresse",
+          "en": "drought",
+          "gloss": {
+            "en": "drought",
+            "es": "sequía",
+            "ru": "засуха"
+          }
+        },
+        "b": {
+          "fr": "politique climatique",
+          "l2": "politique climatique",
+          "en": "climate policy",
+          "gloss": {
+            "en": "climate policy",
+            "es": "política climática",
+            "ru": "климатическая политика"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-climate-b2-pair-3",
+        "a": {
+          "fr": "carbone",
+          "l2": "carbone",
+          "en": "carbon",
+          "gloss": {
+            "en": "carbon",
+            "es": "carbón",
+            "ru": "углерод"
+          }
+        },
+        "b": {
+          "fr": "gaz à effet de serre",
+          "l2": "gaz à effet de serre",
+          "en": "greenhouse gas",
+          "gloss": {
+            "en": "greenhouse gas",
+            "es": "gas de efecto invernadero",
+            "ru": "парниковый газ"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-climate-b2-pair-4",
+        "a": {
+          "fr": "transition",
+          "l2": "transition",
+          "en": "transition",
+          "gloss": {
+            "en": "transition",
+            "es": "transición",
+            "ru": "переход"
+          }
+        },
+        "b": {
+          "fr": "biodiversité",
+          "l2": "biodiversité",
+          "en": "biodiversity",
+          "gloss": {
+            "en": "biodiversity",
+            "es": "biodiversidad",
+            "ru": "биоразнообразие"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-climate-b2-pair-5",
+        "a": {
+          "fr": "canicule",
+          "l2": "canicule",
+          "en": "heatwave",
+          "gloss": {
+            "en": "heatwave",
+            "es": "ola de calor",
+            "ru": "волна тепла"
+          }
+        },
+        "b": {
+          "fr": "déforestation",
+          "l2": "déforestation",
+          "en": "deforestation",
+          "gloss": {
+            "en": "deforestation",
+            "es": "deforestación",
+            "ru": "вырубка лесов"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-climate-b2-gap-1",
+        "fr": "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+        "l2": "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+        "speak": "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+        "blank": "émission",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        }
+      },
+      {
+        "id": "remote-climate-b2-gap-2",
+        "fr": "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+        "l2": "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+        "speak": "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+        "blank": "énergie renouvelable",
+        "en": "renewable energy",
+        "gloss": {
+          "en": "renewable energy",
+          "es": "energía renovable",
+          "ru": "возобновляемая энергия"
+        }
+      },
+      {
+        "id": "remote-climate-b2-gap-3",
+        "fr": "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+        "l2": "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+        "speak": "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+        "blank": "sécheresse",
+        "en": "drought",
+        "gloss": {
+          "en": "drought",
+          "es": "sequía",
+          "ru": "засуха"
+        }
+      },
+      {
+        "id": "remote-climate-b2-gap-4",
+        "fr": "Cette politique climatique articule tarification du carbone et aides à la rénovation.",
+        "l2": "Cette politique climatique articule tarification du carbone et aides à la rénovation.",
+        "speak": "Cette politique climatique articule tarification du carbone et aides à la rénovation.",
+        "blank": "politique climatique",
+        "en": "climate policy",
+        "gloss": {
+          "en": "climate policy",
+          "es": "política climática",
+          "ru": "климатическая политика"
+        }
+      },
+      {
+        "id": "remote-climate-b2-gap-5",
+        "fr": "Le prix du carbone devrait augmenter afin que les industriels accélèrent la transition.",
+        "l2": "Le prix du carbone devrait augmenter afin que les industriels accélèrent la transition.",
+        "speak": "Le prix du carbone devrait augmenter afin que les industriels accélèrent la transition.",
+        "blank": "carbone",
+        "en": "carbon",
+        "gloss": {
+          "en": "carbon",
+          "es": "carbón",
+          "ru": "углерод"
+        }
+      },
+      {
+        "id": "remote-climate-b2-gap-6",
+        "fr": "Les gaz à effet de serre s’accumulent plus vite que les puits de carbone naturels.",
+        "l2": "Les gaz à effet de serre s’accumulent plus vite que les puits de carbone naturels.",
+        "speak": "Les gaz à effet de serre s’accumulent plus vite que les puits de carbone naturels.",
+        "blank": "gaz à effet de serre",
+        "en": "greenhouse gas",
+        "gloss": {
+          "en": "greenhouse gas",
+          "es": "gas de efecto invernadero",
+          "ru": "парниковый газ"
+        }
+      },
+      {
+        "id": "remote-climate-b2-gap-7",
+        "fr": "La transition énergétique exige des investissements que le marché seul ne fournit pas.",
+        "l2": "La transition énergétique exige des investissements que le marché seul ne fournit pas.",
+        "speak": "La transition énergétique exige des investissements que le marché seul ne fournit pas.",
+        "blank": "transition",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        }
+      },
+      {
+        "id": "remote-climate-b2-gap-8",
+        "fr": "La biodiversité s’érode, en revanche certaines espèces protégées recolonisent des milieux.",
+        "l2": "La biodiversité s’érode, en revanche certaines espèces protégées recolonisent des milieux.",
+        "speak": "La biodiversité s’érode, en revanche certaines espèces protégées recolonisent des milieux.",
+        "blank": "biodiversité",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-climate-b2-ord-1",
+        "fr": "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+        "l2": "Les émissions de CO₂ stagnent, néanmoins elles restent trop élevées pour l’accord de Paris.",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        },
+        "words": [
+          "Les",
+          "émissions",
+          "de",
+          "CO₂",
+          "stagnent,",
+          "néanmoins",
+          "elles",
+          "restent",
+          "trop",
+          "élevées",
+          "pour",
+          "l’accord",
+          "de",
+          "Paris."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-ord-2",
+        "fr": "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+        "l2": "L’énergie renouvelable couvre désormais une part croissante de la production électrique.",
+        "en": "renewable energy",
+        "gloss": {
+          "en": "renewable energy",
+          "es": "energía renovable",
+          "ru": "возобновляемая энергия"
+        },
+        "words": [
+          "L’énergie",
+          "renouvelable",
+          "couvre",
+          "désormais",
+          "une",
+          "part",
+          "croissante",
+          "de",
+          "la",
+          "production",
+          "électrique."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-ord-3",
+        "fr": "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+        "l2": "La sécheresse a réduit les rendements agricoles pour la troisième année consécutive.",
+        "en": "drought",
+        "gloss": {
+          "en": "drought",
+          "es": "sequía",
+          "ru": "засуха"
+        },
+        "words": [
+          "La",
+          "sécheresse",
+          "a",
+          "réduit",
+          "les",
+          "rendements",
+          "agricoles",
+          "pour",
+          "la",
+          "troisième",
+          "année",
+          "consécutive."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-ord-4",
+        "fr": "Cette politique climatique articule tarification du carbone et aides à la rénovation.",
+        "l2": "Cette politique climatique articule tarification du carbone et aides à la rénovation.",
+        "en": "climate policy",
+        "gloss": {
+          "en": "climate policy",
+          "es": "política climática",
+          "ru": "климатическая политика"
+        },
+        "words": [
+          "Cette",
+          "politique",
+          "climatique",
+          "articule",
+          "tarification",
+          "du",
+          "carbone",
+          "et",
+          "aides",
+          "à",
+          "la",
+          "rénovation."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-ord-5",
+        "fr": "Le prix du carbone devrait augmenter afin que les industriels accélèrent la transition.",
+        "l2": "Le prix du carbone devrait augmenter afin que les industriels accélèrent la transition.",
+        "en": "carbon",
+        "gloss": {
+          "en": "carbon",
+          "es": "carbón",
+          "ru": "углерод"
+        },
+        "words": [
+          "Le",
+          "prix",
+          "du",
+          "carbone",
+          "devrait",
+          "augmenter",
+          "afin",
+          "que",
+          "les",
+          "industriels",
+          "accélèrent",
+          "la",
+          "transition."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-ord-6",
+        "fr": "Les gaz à effet de serre s’accumulent plus vite que les puits de carbone naturels.",
+        "l2": "Les gaz à effet de serre s’accumulent plus vite que les puits de carbone naturels.",
+        "en": "greenhouse gas",
+        "gloss": {
+          "en": "greenhouse gas",
+          "es": "gas de efecto invernadero",
+          "ru": "парниковый газ"
+        },
+        "words": [
+          "Les",
+          "gaz",
+          "à",
+          "effet",
+          "de",
+          "serre",
+          "s’accumulent",
+          "plus",
+          "vite",
+          "que",
+          "les",
+          "puits",
+          "de",
+          "carbone",
+          "naturels."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-ord-7",
+        "fr": "La transition énergétique exige des investissements que le marché seul ne fournit pas.",
+        "l2": "La transition énergétique exige des investissements que le marché seul ne fournit pas.",
+        "en": "transition",
+        "gloss": {
+          "en": "transition",
+          "es": "transición",
+          "ru": "переход"
+        },
+        "words": [
+          "La",
+          "transition",
+          "énergétique",
+          "exige",
+          "des",
+          "investissements",
+          "que",
+          "le",
+          "marché",
+          "seul",
+          "ne",
+          "fournit",
+          "pas."
+        ]
+      },
+      {
+        "id": "remote-climate-b2-ord-8",
+        "fr": "La biodiversité s’érode, en revanche certaines espèces protégées recolonisent des milieux.",
+        "l2": "La biodiversité s’érode, en revanche certaines espèces protégées recolonisent des milieux.",
+        "en": "biodiversity",
+        "gloss": {
+          "en": "biodiversity",
+          "es": "biodiversidad",
+          "ru": "биоразнообразие"
+        },
+        "words": [
+          "La",
+          "biodiversité",
+          "s’érode,",
+          "en",
+          "revanche",
+          "certaines",
+          "espèces",
+          "protégées",
+          "recolonisent",
+          "des",
+          "milieux."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-climate-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "e.mi.sjɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "émission",
+          "l2": "émission",
+          "en": "emission",
+          "gloss": {
+            "en": "emission",
+            "es": "emisión",
+            "ru": "выбросы"
+          },
+          "ipa": "e.mi.sjɔ̃"
+        },
+        {
+          "fr": "énergie renouvelable",
+          "l2": "énergie renouvelable",
+          "en": "renewable energy",
+          "gloss": {
+            "en": "renewable energy",
+            "es": "energía renovable",
+            "ru": "возобновляемая энергия"
+          },
+          "ipa": "e.nɛʁ.ʒi ʁə.nu.və.labl"
+        },
+        {
+          "fr": "sécheresse",
+          "l2": "sécheresse",
+          "en": "drought",
+          "gloss": {
+            "en": "drought",
+            "es": "sequía",
+            "ru": "засуха"
+          },
+          "ipa": "seʃ.ʁɛs"
+        },
+        {
+          "fr": "politique climatique",
+          "l2": "politique climatique",
+          "en": "climate policy",
+          "gloss": {
+            "en": "climate policy",
+            "es": "política climática",
+            "ru": "климатическая политика"
+          },
+          "ipa": "pɔ.li.tik kli.ma.tik"
+        },
+        {
+          "fr": "carbone",
+          "l2": "carbone",
+          "en": "carbon",
+          "gloss": {
+            "en": "carbon",
+            "es": "carbón",
+            "ru": "углерод"
+          },
+          "ipa": "kaʁ.bɔn"
+        }
+      ]
+    }
+  ]
 }

@@ -75,6 +75,7 @@ Hosting this repo as **public** is free. The app fetches:
 | `ADD-LANGUAGE.md` | Gloss locales (en/es/ru) + practice language (`lang`) |
 | `scripts/migrate-gloss.mjs` | Lift v1 flat `en` → `gloss.en` |
 | `scripts/validate-packs.mjs` | Check every pack has `lang`; every seed has `l2` or `fr` |
+| `scripts/enrich-twelve-fixes.py` | Fill grammar gloss/why, expand skills, derive sounds |
 | `scripts/generate-spanish-packs.py` | Build Spanish L2 twins from French packs |
 | `scripts/generate-russian-packs.py` | Build Russian L2 twins from French packs |
 | `comida-a1.json` … `registros-c2.json` | Full Spanish L2 catalog (60 packs, A1–C2) mirroring French topics |
@@ -123,7 +124,7 @@ Each level has **10 French + 10 Spanish + 10 Russian** packs with the same secti
 
 ### Skills drill ids
 
-Include at least: `dictation`, `meaning`, `fren`, `aloud`. Add `unscramble` or `signs` when they fit the topic.
+Include at least: `dictation`, `meaning`, `l2en` (or legacy `fren`), `aloud`. Prefer also `enfr`, `prompt`, `signs`, `pairs`, `gap`, `reorder`, and a `sounds` family (or let the app derive them from seed IPA).
 
 Seed `example` sentences also let the app auto-derive many drills — still ship explicit `phrases`, `listen`, `prompts`, and a light `skills` set.
 

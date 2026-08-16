@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "academico-c1",
-  "version": 2,
+  "version": 3,
   "level": "c1",
   "lang": "es",
   "title": {
@@ -464,7 +464,8 @@
       "why": {
         "en": "Matches formal academic tone.",
         "es": "Encaja con el tono académico formal.",
-        "ru": "Соответствует формальному академическому тону."
+        "ru": "Соответствует формальному академическому тону.",
+        "fr": "Utile pour appliquer : Nominalisation savante."
       },
       "table": [
         [
@@ -492,7 +493,18 @@
             "revisión",
             "revisar",
             "revisado"
-          ]
+          ],
+          "gloss": {
+            "en": "Prefers: the ___ of the frame. (review)",
+            "es": "Prefiere: la ___ del marco. (revisar)",
+            "ru": "Предпочитает: ___ кадра. (обзор)"
+          },
+          "why": {
+            "fr": "Réponse : « revisión ».",
+            "en": "Answer: “revisión”.",
+            "es": "Respuesta: « revisión ».",
+            "ru": "Ответ: « revisión »."
+          }
         },
         {
           "id": "remote-academico-c1-gq-1-2",
@@ -502,7 +514,18 @@
             "consideración",
             "considerar",
             "considera"
-          ]
+          ],
+          "gloss": {
+            "en": "The consideration of methodology is central.",
+            "es": "La consideración de metodología es central.",
+            "ru": "Рассмотрение методологии является центральным."
+          },
+          "why": {
+            "fr": "Réponse : « consideración ».",
+            "en": "Answer: “consideración”.",
+            "es": "Respuesta: « consideración ».",
+            "ru": "Ответ: « consideración »."
+          }
         },
         {
           "id": "remote-academico-c1-gq-1-3",
@@ -512,7 +535,18 @@
             "analizar",
             "análisis",
             "analítico"
-          ]
+          ],
+          "gloss": {
+            "en": "Better: analysis, not ___ .",
+            "es": "Mejor: el análisis, no ___.",
+            "ru": "Лучше: анализ, а не ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « analizar ».",
+            "en": "Answer: “analizar”.",
+            "es": "Respuesta: « analizar ».",
+            "ru": "Ответ: « analizar »."
+          }
         },
         {
           "id": "remote-academico-c1-gq-1-4",
@@ -522,7 +556,18 @@
             "la",
             "el",
             "los"
-          ]
+          ],
+          "gloss": {
+            "en": "Relates to the topic: methodology / peer review. “Methodology” article?",
+            "es": "Relaciona con el tema: metodología / revisión por pares. ¿Artículo de «metodología»?",
+            "ru": "Относится к теме: методология/экспертная оценка. Статья «Методология»?"
+          },
+          "why": {
+            "fr": "Réponse : « la ».",
+            "en": "Answer: “la”.",
+            "es": "Respuesta: « la ».",
+            "ru": "Ответ: « la »."
+          }
         },
         {
           "id": "remote-academico-c1-gq-1-5",
@@ -532,7 +577,18 @@
             "la",
             "el",
             "los"
-          ]
+          ],
+          "gloss": {
+            "en": "Relates to the topic: methodology / peer review. “Methodology” article?",
+            "es": "Relaciona con el tema: metodología / revisión por pares. ¿Artículo de «metodología»?",
+            "ru": "Относится к теме: методология/экспертная оценка. Статья «Методология»?"
+          },
+          "why": {
+            "fr": "Réponse : « la ».",
+            "en": "Answer: “la”.",
+            "es": "Respuesta: « la ».",
+            "ru": "Ответ: « la »."
+          }
         }
       ]
     },
@@ -553,7 +609,8 @@
       "why": {
         "en": "Signals careful, expert stance.",
         "es": "Señala una postura cuidadosa y experta.",
-        "ru": "Показывает осторожную экспертную позицию."
+        "ru": "Показывает осторожную экспертную позицию.",
+        "fr": "Utile pour appliquer : Conectores de matización."
       },
       "table": [
         [
@@ -581,7 +638,18 @@
             "No obstante",
             "Porque",
             "Entonces"
-          ]
+          ],
+          "gloss": {
+            "en": "___ , the evidence is partial.",
+            "es": "___ , la evidencia es parcial.",
+            "ru": "___ , доказательства частичные."
+          },
+          "why": {
+            "fr": "Réponse : « No obstante ».",
+            "en": "Answer: “No obstante”.",
+            "es": "Respuesta: « No obstante ».",
+            "ru": "Ответ: « No obstante »."
+          }
         },
         {
           "id": "remote-academico-c1-gq-2-2",
@@ -591,7 +659,18 @@
             "Si bien",
             "Porque",
             "Cuando"
-          ]
+          ],
+          "gloss": {
+            "en": "___ the method is sound, the sample is short.",
+            "es": "___ el método es sólido, la muestra es corta.",
+            "ru": "___ метод верный, выборка короткая."
+          },
+          "why": {
+            "fr": "Réponse : « Si bien ».",
+            "en": "Answer: “Si bien”.",
+            "es": "Respuesta: « Si bien ».",
+            "ru": "Ответ: « Si bien »."
+          }
         },
         {
           "id": "remote-academico-c1-gq-2-3",
@@ -601,7 +680,18 @@
             "que",
             "cual",
             "quien"
-          ]
+          ],
+          "gloss": {
+            "en": "To the extent ___ possible.",
+            "es": "En la medida en ___ sea posible.",
+            "ru": "Насколько это возможно ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « que ».",
+            "en": "Answer: “que”.",
+            "es": "Respuesta: « que ».",
+            "ru": "Ответ: « que »."
+          }
         },
         {
           "id": "remote-academico-c1-gq-2-4",
@@ -611,7 +701,18 @@
             "la",
             "el",
             "los"
-          ]
+          ],
+          "gloss": {
+            "en": "Relates to the topic: citation / hypothesis. “citation” article?",
+            "es": "Relaciona con el tema: citación / hipótesis. ¿Artículo de «citación»?",
+            "ru": "Относится к теме: цитата/гипотеза. «цитативная» статья?"
+          },
+          "why": {
+            "fr": "Réponse : « la ».",
+            "en": "Answer: “la”.",
+            "es": "Respuesta: « la ».",
+            "ru": "Ответ: « la »."
+          }
         },
         {
           "id": "remote-academico-c1-gq-2-5",
@@ -621,7 +722,18 @@
             "la",
             "el",
             "los"
-          ]
+          ],
+          "gloss": {
+            "en": "Relates to the topic: citation / hypothesis. “citation” article?",
+            "es": "Relaciona con el tema: citación / hipótesis. ¿Artículo de «citación»?",
+            "ru": "Относится к теме: цитата/гипотеза. «цитативная» статья?"
+          },
+          "why": {
+            "fr": "Réponse : « la ».",
+            "en": "Answer: “la”.",
+            "es": "Respuesta: « la ».",
+            "ru": "Ответ: « la »."
+          }
         }
       ]
     }
@@ -836,7 +948,1091 @@
           "problema."
         ]
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-academico-c1-fren-1",
+        "l2": "tesis",
+        "en": "thesis",
+        "gloss": {
+          "en": "thesis",
+          "es": "tesis",
+          "ru": "диссертация"
+        }
+      },
+      {
+        "id": "remote-academico-c1-fren-2",
+        "l2": "metodología",
+        "en": "methodology",
+        "gloss": {
+          "en": "methodology",
+          "es": "metodología",
+          "ru": "методология"
+        }
+      },
+      {
+        "id": "remote-academico-c1-fren-3",
+        "l2": "citación",
+        "en": "citation",
+        "gloss": {
+          "en": "citation",
+          "es": "citación",
+          "ru": "цитирование"
+        }
+      },
+      {
+        "id": "remote-academico-c1-fren-4",
+        "l2": "abstracto",
+        "en": "abstract",
+        "gloss": {
+          "en": "abstract",
+          "es": "abstracto",
+          "ru": "абстрактный"
+        }
+      },
+      {
+        "id": "remote-academico-c1-fren-5",
+        "l2": "revisión por pares",
+        "en": "peer review",
+        "gloss": {
+          "en": "peer review",
+          "es": "revisión por pares",
+          "ru": "экспертная оценка"
+        }
+      },
+      {
+        "id": "remote-academico-c1-fren-6",
+        "l2": "hipótesis",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        }
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-academico-c1-enl2-1",
+        "fr": "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+        "l2": "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+        "en": "thesis",
+        "gloss": {
+          "en": "thesis",
+          "es": "tesis",
+          "ru": "диссертация"
+        },
+        "prompt": "thesis",
+        "choices": [
+          "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+          "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas.",
+          "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-enl2-2",
+        "fr": "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas.",
+        "l2": "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas.",
+        "en": "methodology",
+        "gloss": {
+          "en": "methodology",
+          "es": "metodología",
+          "ru": "методология"
+        },
+        "prompt": "methodology",
+        "choices": [
+          "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas.",
+          "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+          "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-enl2-3",
+        "fr": "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado.",
+        "l2": "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado.",
+        "en": "citation",
+        "gloss": {
+          "en": "citation",
+          "es": "citación",
+          "ru": "цитирование"
+        },
+        "prompt": "citation",
+        "choices": [
+          "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado.",
+          "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+          "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-enl2-4",
+        "fr": "El resumen, aunque signifique esquematizar el enfoque, debe poner de relieve la cuestión y la contribución.",
+        "l2": "El resumen, aunque signifique esquematizar el enfoque, debe poner de relieve la cuestión y la contribución.",
+        "en": "abstract",
+        "gloss": {
+          "en": "abstract",
+          "es": "abstracto",
+          "ru": "абстрактный"
+        },
+        "prompt": "abstract",
+        "choices": [
+          "El resumen, aunque signifique esquematizar el enfoque, debe poner de relieve la cuestión y la contribución.",
+          "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+          "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-enl2-5",
+        "fr": "La revisión por pares, de la cual la imparcialidad sigue siendo un corolario frágil, condiciona la sumisión.",
+        "l2": "La revisión por pares, de la cual la imparcialidad sigue siendo un corolario frágil, condiciona la sumisión.",
+        "en": "peer review",
+        "gloss": {
+          "en": "peer review",
+          "es": "revisión por pares",
+          "ru": "экспертная оценка"
+        },
+        "prompt": "peer review",
+        "choices": [
+          "La revisión por pares, de la cual la imparcialidad sigue siendo un corolario frágil, condiciona la sumisión.",
+          "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+          "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-enl2-6",
+        "fr": "La hipótesis, a menos que se la ponga en práctica, sigue siendo un postulado cuyo alcance empírico es indeterminado.",
+        "l2": "La hipótesis, a menos que se la ponga en práctica, sigue siendo un postulado cuyo alcance empírico es indeterminado.",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        },
+        "prompt": "hypothesis",
+        "choices": [
+          "La hipótesis, a menos que se la ponga en práctica, sigue siendo un postulado cuyo alcance empírico es indeterminado.",
+          "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+          "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-enl2-7",
+        "fr": "El problema, reformulado tras una relectura, reorienta la investigación sobre una cuestión que el encuadre inicial oscureció.",
+        "l2": "El problema, reformulado tras una relectura, reorienta la investigación sobre una cuestión que el encuadre inicial oscureció.",
+        "en": "research problem",
+        "gloss": {
+          "en": "research problem",
+          "es": "problema de investigacion",
+          "ru": "проблема исследования"
+        },
+        "prompt": "research problem",
+        "choices": [
+          "El problema, reformulado tras una relectura, reorienta la investigación sobre una cuestión que el encuadre inicial oscureció.",
+          "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+          "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-enl2-8",
+        "fr": "El corpus, cuya constitución nunca es neutral, implica un encuadre que guía inmediatamente la interpretación.",
+        "l2": "El corpus, cuya constitución nunca es neutral, implica un encuadre que guía inmediatamente la interpretación.",
+        "en": "corpus",
+        "gloss": {
+          "en": "corpus",
+          "es": "cuerpo",
+          "ru": "корпус"
+        },
+        "prompt": "corpus",
+        "choices": [
+          "El corpus, cuya constitución nunca es neutral, implica un encuadre que guía inmediatamente la interpretación.",
+          "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+          "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-academico-c1-prm-1",
+        "en": "thesis",
+        "gloss": {
+          "en": "thesis",
+          "es": "tesis",
+          "ru": "диссертация"
+        },
+        "answers": [
+          "tesis",
+          "la tesis"
+        ],
+        "target": "la tesis"
+      },
+      {
+        "id": "remote-academico-c1-prm-2",
+        "en": "methodology",
+        "gloss": {
+          "en": "methodology",
+          "es": "metodología",
+          "ru": "методология"
+        },
+        "answers": [
+          "metodología",
+          "la metodología"
+        ],
+        "target": "la metodología"
+      },
+      {
+        "id": "remote-academico-c1-prm-3",
+        "en": "citation",
+        "gloss": {
+          "en": "citation",
+          "es": "citación",
+          "ru": "цитирование"
+        },
+        "answers": [
+          "citación",
+          "la citación"
+        ],
+        "target": "la citación"
+      },
+      {
+        "id": "remote-academico-c1-prm-4",
+        "en": "abstract",
+        "gloss": {
+          "en": "abstract",
+          "es": "abstracto",
+          "ru": "абстрактный"
+        },
+        "answers": [
+          "abstracto",
+          "el abstracto"
+        ],
+        "target": "el abstracto"
+      },
+      {
+        "id": "remote-academico-c1-prm-5",
+        "en": "peer review",
+        "gloss": {
+          "en": "peer review",
+          "es": "revisión por pares",
+          "ru": "экспертная оценка"
+        },
+        "answers": [
+          "revisión por pares",
+          "el revisión por pares"
+        ],
+        "target": "el revisión por pares"
+      },
+      {
+        "id": "remote-academico-c1-prm-6",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        },
+        "answers": [
+          "hipótesis",
+          "el hipótesis"
+        ],
+        "target": "el hipótesis"
+      },
+      {
+        "id": "remote-academico-c1-prm-7",
+        "en": "research problem",
+        "gloss": {
+          "en": "research problem",
+          "es": "problema de investigacion",
+          "ru": "проблема исследования"
+        },
+        "answers": [
+          "problema de investigacion",
+          "el problema de investigacion"
+        ],
+        "target": "el problema de investigacion"
+      },
+      {
+        "id": "remote-academico-c1-prm-8",
+        "en": "corpus",
+        "gloss": {
+          "en": "corpus",
+          "es": "cuerpo",
+          "ru": "корпус"
+        },
+        "answers": [
+          "cuerpo",
+          "el cuerpo"
+        ],
+        "target": "el cuerpo"
+      },
+      {
+        "id": "remote-academico-c1-prm-9",
+        "en": "framing",
+        "gloss": {
+          "en": "framing",
+          "es": "enmarcado",
+          "ru": "обрамление"
+        },
+        "answers": [
+          "enmarcado",
+          "el enmarcado"
+        ],
+        "target": "el enmarcado"
+      },
+      {
+        "id": "remote-academico-c1-prm-10",
+        "en": "presupposition",
+        "gloss": {
+          "en": "presupposition",
+          "es": "presuposición",
+          "ru": "предпосылка"
+        },
+        "answers": [
+          "presuposición",
+          "la presuposición"
+        ],
+        "target": "la presuposición"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-academico-c1-sign-1",
+        "fr": "tesis",
+        "l2": "tesis",
+        "en": "thesis",
+        "gloss": {
+          "en": "thesis",
+          "es": "tesis",
+          "ru": "диссертация"
+        },
+        "choices": [
+          "thesis",
+          "methodology",
+          "citation"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-2",
+        "fr": "metodología",
+        "l2": "metodología",
+        "en": "methodology",
+        "gloss": {
+          "en": "methodology",
+          "es": "metodología",
+          "ru": "методология"
+        },
+        "choices": [
+          "methodology",
+          "thesis",
+          "citation"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-3",
+        "fr": "citación",
+        "l2": "citación",
+        "en": "citation",
+        "gloss": {
+          "en": "citation",
+          "es": "citación",
+          "ru": "цитирование"
+        },
+        "choices": [
+          "citation",
+          "thesis",
+          "methodology"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-4",
+        "fr": "abstracto",
+        "l2": "abstracto",
+        "en": "abstract",
+        "gloss": {
+          "en": "abstract",
+          "es": "abstracto",
+          "ru": "абстрактный"
+        },
+        "choices": [
+          "abstract",
+          "thesis",
+          "methodology"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-5",
+        "fr": "revisión por pares",
+        "l2": "revisión por pares",
+        "en": "peer review",
+        "gloss": {
+          "en": "peer review",
+          "es": "revisión por pares",
+          "ru": "экспертная оценка"
+        },
+        "choices": [
+          "peer review",
+          "thesis",
+          "methodology"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-6",
+        "fr": "hipótesis",
+        "l2": "hipótesis",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        },
+        "choices": [
+          "hypothesis",
+          "thesis",
+          "methodology"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-7",
+        "fr": "problema de investigacion",
+        "l2": "problema de investigacion",
+        "en": "research problem",
+        "gloss": {
+          "en": "research problem",
+          "es": "problema de investigacion",
+          "ru": "проблема исследования"
+        },
+        "choices": [
+          "research problem",
+          "thesis",
+          "methodology"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-8",
+        "fr": "cuerpo",
+        "l2": "cuerpo",
+        "en": "corpus",
+        "gloss": {
+          "en": "corpus",
+          "es": "cuerpo",
+          "ru": "корпус"
+        },
+        "choices": [
+          "corpus",
+          "thesis",
+          "methodology"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-9",
+        "fr": "enmarcado",
+        "l2": "enmarcado",
+        "en": "framing",
+        "gloss": {
+          "en": "framing",
+          "es": "enmarcado",
+          "ru": "обрамление"
+        },
+        "choices": [
+          "framing",
+          "thesis",
+          "methodology"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-10",
+        "fr": "presuposición",
+        "l2": "presuposición",
+        "en": "presupposition",
+        "gloss": {
+          "en": "presupposition",
+          "es": "presuposición",
+          "ru": "предпосылка"
+        },
+        "choices": [
+          "presupposition",
+          "thesis",
+          "methodology"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-11",
+        "fr": "bibliografía",
+        "l2": "bibliografía",
+        "en": "bibliography",
+        "gloss": {
+          "en": "bibliography",
+          "es": "bibliografía",
+          "ru": "библиография"
+        },
+        "choices": [
+          "bibliography",
+          "thesis",
+          "methodology"
+        ]
+      },
+      {
+        "id": "remote-academico-c1-sign-12",
+        "fr": "postulado",
+        "l2": "postulado",
+        "en": "postulate",
+        "gloss": {
+          "en": "postulate",
+          "es": "postulado",
+          "ru": "постулат"
+        },
+        "choices": [
+          "postulate",
+          "thesis",
+          "methodology"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-academico-c1-pair-1",
+        "a": {
+          "fr": "tesis",
+          "l2": "tesis",
+          "en": "thesis",
+          "gloss": {
+            "en": "thesis",
+            "es": "tesis",
+            "ru": "диссертация"
+          }
+        },
+        "b": {
+          "fr": "metodología",
+          "l2": "metodología",
+          "en": "methodology",
+          "gloss": {
+            "en": "methodology",
+            "es": "metodología",
+            "ru": "методология"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-academico-c1-pair-2",
+        "a": {
+          "fr": "citación",
+          "l2": "citación",
+          "en": "citation",
+          "gloss": {
+            "en": "citation",
+            "es": "citación",
+            "ru": "цитирование"
+          }
+        },
+        "b": {
+          "fr": "abstracto",
+          "l2": "abstracto",
+          "en": "abstract",
+          "gloss": {
+            "en": "abstract",
+            "es": "abstracto",
+            "ru": "абстрактный"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-academico-c1-pair-3",
+        "a": {
+          "fr": "revisión por pares",
+          "l2": "revisión por pares",
+          "en": "peer review",
+          "gloss": {
+            "en": "peer review",
+            "es": "revisión por pares",
+            "ru": "экспертная оценка"
+          }
+        },
+        "b": {
+          "fr": "hipótesis",
+          "l2": "hipótesis",
+          "en": "hypothesis",
+          "gloss": {
+            "en": "hypothesis",
+            "es": "hipótesis",
+            "ru": "гипотеза"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-academico-c1-pair-4",
+        "a": {
+          "fr": "problema de investigacion",
+          "l2": "problema de investigacion",
+          "en": "research problem",
+          "gloss": {
+            "en": "research problem",
+            "es": "problema de investigacion",
+            "ru": "проблема исследования"
+          }
+        },
+        "b": {
+          "fr": "cuerpo",
+          "l2": "cuerpo",
+          "en": "corpus",
+          "gloss": {
+            "en": "corpus",
+            "es": "cuerpo",
+            "ru": "корпус"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-academico-c1-pair-5",
+        "a": {
+          "fr": "enmarcado",
+          "l2": "enmarcado",
+          "en": "framing",
+          "gloss": {
+            "en": "framing",
+            "es": "enmarcado",
+            "ru": "обрамление"
+          }
+        },
+        "b": {
+          "fr": "presuposición",
+          "l2": "presuposición",
+          "en": "presupposition",
+          "gloss": {
+            "en": "presupposition",
+            "es": "presuposición",
+            "ru": "предпосылка"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-academico-c1-gap-1",
+        "fr": "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+        "l2": "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+        "speak": "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+        "blank": "tesis",
+        "en": "thesis",
+        "gloss": {
+          "en": "thesis",
+          "es": "tesis",
+          "ru": "диссертация"
+        }
+      },
+      {
+        "id": "remote-academico-c1-gap-2",
+        "fr": "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas.",
+        "l2": "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas.",
+        "speak": "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas.",
+        "blank": "metodología",
+        "en": "methodology",
+        "gloss": {
+          "en": "methodology",
+          "es": "metodología",
+          "ru": "методология"
+        }
+      },
+      {
+        "id": "remote-academico-c1-gap-3",
+        "fr": "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado.",
+        "l2": "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado.",
+        "speak": "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado.",
+        "blank": "citación",
+        "en": "citation",
+        "gloss": {
+          "en": "citation",
+          "es": "citación",
+          "ru": "цитирование"
+        }
+      },
+      {
+        "id": "remote-academico-c1-gap-4",
+        "fr": "El resumen, aunque signifique esquematizar el enfoque, debe poner de relieve la cuestión y la contribución.",
+        "l2": "El resumen, aunque signifique esquematizar el enfoque, debe poner de relieve la cuestión y la contribución.",
+        "speak": "El resumen, aunque signifique esquematizar el enfoque, debe poner de relieve la cuestión y la contribución.",
+        "blank": "abstracto",
+        "en": "abstract",
+        "gloss": {
+          "en": "abstract",
+          "es": "abstracto",
+          "ru": "абстрактный"
+        }
+      },
+      {
+        "id": "remote-academico-c1-gap-5",
+        "fr": "La revisión por pares, de la cual la imparcialidad sigue siendo un corolario frágil, condiciona la sumisión.",
+        "l2": "La revisión por pares, de la cual la imparcialidad sigue siendo un corolario frágil, condiciona la sumisión.",
+        "speak": "La revisión por pares, de la cual la imparcialidad sigue siendo un corolario frágil, condiciona la sumisión.",
+        "blank": "revisión por pares",
+        "en": "peer review",
+        "gloss": {
+          "en": "peer review",
+          "es": "revisión por pares",
+          "ru": "экспертная оценка"
+        }
+      },
+      {
+        "id": "remote-academico-c1-gap-6",
+        "fr": "La hipótesis, a menos que se la ponga en práctica, sigue siendo un postulado cuyo alcance empírico es indeterminado.",
+        "l2": "La hipótesis, a menos que se la ponga en práctica, sigue siendo un postulado cuyo alcance empírico es indeterminado.",
+        "speak": "La hipótesis, a menos que se la ponga en práctica, sigue siendo un postulado cuyo alcance empírico es indeterminado.",
+        "blank": "hipótesis",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        }
+      },
+      {
+        "id": "remote-academico-c1-gap-7",
+        "fr": "El problema, reformulado tras una relectura, reorienta la investigación sobre una cuestión que el encuadre inicial oscureció.",
+        "l2": "El problema, reformulado tras una relectura, reorienta la investigación sobre una cuestión que el encuadre inicial oscureció.",
+        "speak": "El problema, reformulado tras una relectura, reorienta la investigación sobre una cuestión que el encuadre inicial oscureció.",
+        "blank": "problema de investigacion",
+        "en": "research problem",
+        "gloss": {
+          "en": "research problem",
+          "es": "problema de investigacion",
+          "ru": "проблема исследования"
+        }
+      },
+      {
+        "id": "remote-academico-c1-gap-8",
+        "fr": "El corpus, cuya constitución nunca es neutral, implica un encuadre que guía inmediatamente la interpretación.",
+        "l2": "El corpus, cuya constitución nunca es neutral, implica un encuadre que guía inmediatamente la interpretación.",
+        "speak": "El corpus, cuya constitución nunca es neutral, implica un encuadre que guía inmediatamente la interpretación.",
+        "blank": "cuerpo",
+        "en": "corpus",
+        "gloss": {
+          "en": "corpus",
+          "es": "cuerpo",
+          "ru": "корпус"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-academico-c1-ord-1",
+        "fr": "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+        "l2": "La tesis, cuyo alcance va más allá del marco disciplinar, articula un encuadre que el corpus llega a experimentar.",
+        "en": "thesis",
+        "gloss": {
+          "en": "thesis",
+          "es": "tesis",
+          "ru": "диссертация"
+        },
+        "words": [
+          "La",
+          "tesis,",
+          "cuyo",
+          "alcance",
+          "va",
+          "más",
+          "allá",
+          "del",
+          "marco",
+          "disciplinar,",
+          "articula",
+          "un",
+          "encuadre",
+          "que",
+          "el",
+          "corpus",
+          "llega",
+          "a",
+          "experimentar."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-ord-2",
+        "fr": "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas.",
+        "l2": "La metodología, lejos de ser un simple dispositivo técnico, determina la validez de las inferencias propuestas.",
+        "en": "methodology",
+        "gloss": {
+          "en": "methodology",
+          "es": "metodología",
+          "ru": "методология"
+        },
+        "words": [
+          "La",
+          "metodología,",
+          "lejos",
+          "de",
+          "ser",
+          "un",
+          "simple",
+          "dispositivo",
+          "técnico,",
+          "determina",
+          "la",
+          "validez",
+          "de",
+          "las",
+          "inferencias",
+          "propuestas."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-ord-3",
+        "fr": "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado.",
+        "l2": "Cada cita, si bien sustenta el argumento, debe resituarse en el presupuesto del autor citado.",
+        "en": "citation",
+        "gloss": {
+          "en": "citation",
+          "es": "citación",
+          "ru": "цитирование"
+        },
+        "words": [
+          "Cada",
+          "cita,",
+          "si",
+          "bien",
+          "sustenta",
+          "el",
+          "argumento,",
+          "debe",
+          "resituarse",
+          "en",
+          "el",
+          "presupuesto",
+          "del",
+          "autor",
+          "citado."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-ord-4",
+        "fr": "El resumen, aunque signifique esquematizar el enfoque, debe poner de relieve la cuestión y la contribución.",
+        "l2": "El resumen, aunque signifique esquematizar el enfoque, debe poner de relieve la cuestión y la contribución.",
+        "en": "abstract",
+        "gloss": {
+          "en": "abstract",
+          "es": "abstracto",
+          "ru": "абстрактный"
+        },
+        "words": [
+          "El",
+          "resumen,",
+          "aunque",
+          "signifique",
+          "esquematizar",
+          "el",
+          "enfoque,",
+          "debe",
+          "poner",
+          "de",
+          "relieve",
+          "la",
+          "cuestión",
+          "y",
+          "la",
+          "contribución."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-ord-5",
+        "fr": "La revisión por pares, de la cual la imparcialidad sigue siendo un corolario frágil, condiciona la sumisión.",
+        "l2": "La revisión por pares, de la cual la imparcialidad sigue siendo un corolario frágil, condiciona la sumisión.",
+        "en": "peer review",
+        "gloss": {
+          "en": "peer review",
+          "es": "revisión por pares",
+          "ru": "экспертная оценка"
+        },
+        "words": [
+          "La",
+          "revisión",
+          "por",
+          "pares,",
+          "de",
+          "la",
+          "cual",
+          "la",
+          "imparcialidad",
+          "sigue",
+          "siendo",
+          "un",
+          "corolario",
+          "frágil,",
+          "condiciona",
+          "la",
+          "sumisión."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-ord-6",
+        "fr": "La hipótesis, a menos que se la ponga en práctica, sigue siendo un postulado cuyo alcance empírico es indeterminado.",
+        "l2": "La hipótesis, a menos que se la ponga en práctica, sigue siendo un postulado cuyo alcance empírico es indeterminado.",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        },
+        "words": [
+          "La",
+          "hipótesis,",
+          "a",
+          "menos",
+          "que",
+          "se",
+          "la",
+          "ponga",
+          "en",
+          "práctica,",
+          "sigue",
+          "siendo",
+          "un",
+          "postulado",
+          "cuyo",
+          "alcance",
+          "empírico",
+          "es",
+          "indeterminado."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-ord-7",
+        "fr": "El problema, reformulado tras una relectura, reorienta la investigación sobre una cuestión que el encuadre inicial oscureció.",
+        "l2": "El problema, reformulado tras una relectura, reorienta la investigación sobre una cuestión que el encuadre inicial oscureció.",
+        "en": "research problem",
+        "gloss": {
+          "en": "research problem",
+          "es": "problema de investigacion",
+          "ru": "проблема исследования"
+        },
+        "words": [
+          "El",
+          "problema,",
+          "reformulado",
+          "tras",
+          "una",
+          "relectura,",
+          "reorienta",
+          "la",
+          "investigación",
+          "sobre",
+          "una",
+          "cuestión",
+          "que",
+          "el",
+          "encuadre",
+          "inicial",
+          "oscureció."
+        ]
+      },
+      {
+        "id": "remote-academico-c1-ord-8",
+        "fr": "El corpus, cuya constitución nunca es neutral, implica un encuadre que guía inmediatamente la interpretación.",
+        "l2": "El corpus, cuya constitución nunca es neutral, implica un encuadre que guía inmediatamente la interpretación.",
+        "en": "corpus",
+        "gloss": {
+          "en": "corpus",
+          "es": "cuerpo",
+          "ru": "корпус"
+        },
+        "words": [
+          "El",
+          "corpus,",
+          "cuya",
+          "constitución",
+          "nunca",
+          "es",
+          "neutral,",
+          "implica",
+          "un",
+          "encuadre",
+          "que",
+          "guía",
+          "inmediatamente",
+          "la",
+          "interpretación."
+        ]
+      }
     ]
   },
-  "sounds": []
+  "sounds": [
+    {
+      "id": "remote-academico-c1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "tˈe.sis",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "tesis",
+          "l2": "tesis",
+          "en": "thesis",
+          "gloss": {
+            "en": "thesis",
+            "es": "tesis",
+            "ru": "диссертация"
+          },
+          "ipa": "tˈe.sis"
+        },
+        {
+          "fr": "metodología",
+          "l2": "metodología",
+          "en": "methodology",
+          "gloss": {
+            "en": "methodology",
+            "es": "metodología",
+            "ru": "методология"
+          },
+          "ipa": "me.todo.logˈia"
+        },
+        {
+          "fr": "citación",
+          "l2": "citación",
+          "en": "citation",
+          "gloss": {
+            "en": "citation",
+            "es": "citación",
+            "ru": "цитирование"
+          },
+          "ipa": "θi.taθiˈon"
+        },
+        {
+          "fr": "abstracto",
+          "l2": "abstracto",
+          "en": "abstract",
+          "gloss": {
+            "en": "abstract",
+            "es": "abstracto",
+            "ru": "абстрактный"
+          },
+          "ipa": "abstrˈacto"
+        },
+        {
+          "fr": "revisión por pares",
+          "l2": "revisión por pares",
+          "en": "peer review",
+          "gloss": {
+            "en": "peer review",
+            "es": "revisión por pares",
+            "ru": "экспертная оценка"
+          },
+          "ipa": "re.bisiˈon por pa.res"
+        }
+      ]
+    }
+  ]
 }

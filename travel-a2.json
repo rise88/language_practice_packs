@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "travel-a2",
-  "version": 6,
+  "version": 7,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -560,7 +560,18 @@
             "achète",
             "ai acheté",
             "acheter"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ a post yesterday.",
+            "es": "Yo ___ una publicación ayer.",
+            "ru": "Я ___ пост вчера."
+          },
+          "why": {
+            "fr": "Réponse : « ai acheté ».",
+            "en": "Answer: “ai acheté”.",
+            "es": "Respuesta: « ai acheté ».",
+            "ru": "Ответ: « ai acheté »."
+          }
         },
         {
           "id": "remote-travel-gq-2",
@@ -570,7 +581,18 @@
             "arrivons",
             "avons arrivé",
             "sommes arrivés"
-          ]
+          ],
+          "gloss": {
+            "en": "We ___ at the hotel at eight p.m.",
+            "es": "Nosotros ___ en el hotel a las ocho de la noche.",
+            "ru": "Мы ___ в отеле в восемь часов вечера."
+          },
+          "why": {
+            "fr": "Réponse : « sommes arrivés ».",
+            "en": "Answer: “sommes arrivés”.",
+            "es": "Respuesta: « sommes arrivés ».",
+            "ru": "Ответ: « sommes arrivés »."
+          }
         },
         {
           "id": "remote-travel-gq-3",
@@ -580,13 +602,25 @@
             "va",
             "est allée",
             "a allé"
-          ]
+          ],
+          "gloss": {
+            "en": "She ___ to Paris by train.",
+            "es": "Ella ___ a París en tren.",
+            "ru": "Она ___ в Париж на поезде."
+          },
+          "why": {
+            "fr": "Réponse : « est allée ».",
+            "en": "Answer: “est allée”.",
+            "es": "Respuesta: « est allée ».",
+            "ru": "Ответ: « est allée »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Passé composé for travel.",
         "es": "Útil cuando necesitas aplicar: Passé composé para viajes.",
-        "ru": "Полезно, когда вам нужно подать заявку: Passé Composé для путешествий."
+        "ru": "Полезно, когда вам нужно подать заявку: Passé Composé для путешествий.",
+        "fr": "Utile pour appliquer : Passé composé des voyages."
       }
     },
     {
@@ -639,7 +673,18 @@
             "pour",
             "jusqu’à",
             "dans"
-          ]
+          ],
+          "gloss": {
+            "en": "I would like a ticket ___ Nice.",
+            "es": "Me gustaría un billete ___ Bien.",
+            "ru": "Я бы хотел билет ___ Ницца."
+          },
+          "why": {
+            "fr": "Réponse : « pour ».",
+            "en": "Answer: “pour”.",
+            "es": "Respuesta: « pour ».",
+            "ru": "Ответ: « pour »."
+          }
         },
         {
           "id": "remote-travel-gq-5",
@@ -649,13 +694,25 @@
             "pour",
             "jusqu’à",
             "avec"
-          ]
+          ],
+          "gloss": {
+            "en": "Take the metro ___ the central square.",
+            "es": "Tome el metro ___ la plaza central.",
+            "ru": "Сядьте на метро ___ центральная площадь."
+          },
+          "why": {
+            "fr": "Réponse : « jusqu’à ».",
+            "en": "Answer: “jusqu’à”.",
+            "es": "Respuesta: « jusqu’à ».",
+            "ru": "Ответ: « jusqu’à »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: For / until / as far as.",
         "es": "Útil cuando necesitas aplicar: Para / hasta / hasta donde.",
-        "ru": "Полезно, когда нужно применить: На/пока/насколько."
+        "ru": "Полезно, когда нужно применить: На/пока/насколько.",
+        "fr": "Utile pour appliquer : Pour / jusqu’à."
       }
     }
   ],
@@ -917,6 +974,826 @@
         },
         "l2": "guichet"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-travel-fren-1",
+        "fr": "billet",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        },
+        "l2": "billet"
+      },
+      {
+        "id": "remote-travel-fren-2",
+        "fr": "gare",
+        "en": "train station",
+        "gloss": {
+          "en": "train station",
+          "es": "estación de tren",
+          "ru": "железнодорожная станция"
+        },
+        "l2": "gare"
+      },
+      {
+        "id": "remote-travel-fren-3",
+        "fr": "hôtel",
+        "en": "hotel",
+        "gloss": {
+          "en": "hotel",
+          "es": "hotel",
+          "ru": "отель"
+        },
+        "l2": "hôtel"
+      },
+      {
+        "id": "remote-travel-fren-4",
+        "fr": "valise",
+        "en": "suitcase",
+        "gloss": {
+          "en": "suitcase",
+          "es": "maleta",
+          "ru": "чемодан"
+        },
+        "l2": "valise"
+      },
+      {
+        "id": "remote-travel-fren-5",
+        "fr": "passeport",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        },
+        "l2": "passeport"
+      },
+      {
+        "id": "remote-travel-fren-6",
+        "fr": "aéroport",
+        "en": "airport",
+        "gloss": {
+          "en": "airport",
+          "es": "aeropuerto",
+          "ru": "аэропорт"
+        },
+        "l2": "aéroport"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-travel-a2-enl2-1",
+        "fr": "J’ai acheté un billet de train pour Lyon.",
+        "l2": "J’ai acheté un billet de train pour Lyon.",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        },
+        "prompt": "ticket",
+        "choices": [
+          "J’ai acheté un billet de train pour Lyon.",
+          "La gare est à dix minutes à pied.",
+          "Nous dormons dans un hôtel près du centre."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-enl2-2",
+        "fr": "La gare est à dix minutes à pied.",
+        "l2": "La gare est à dix minutes à pied.",
+        "en": "train station",
+        "gloss": {
+          "en": "train station",
+          "es": "estación de tren",
+          "ru": "железнодорожная станция"
+        },
+        "prompt": "train station",
+        "choices": [
+          "La gare est à dix minutes à pied.",
+          "J’ai acheté un billet de train pour Lyon.",
+          "Nous dormons dans un hôtel près du centre."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-enl2-3",
+        "fr": "Nous dormons dans un hôtel près du centre.",
+        "l2": "Nous dormons dans un hôtel près du centre.",
+        "en": "hotel",
+        "gloss": {
+          "en": "hotel",
+          "es": "hotel",
+          "ru": "отель"
+        },
+        "prompt": "hotel",
+        "choices": [
+          "Nous dormons dans un hôtel près du centre.",
+          "J’ai acheté un billet de train pour Lyon.",
+          "La gare est à dix minutes à pied."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-enl2-4",
+        "fr": "J’ai une réservation au nom de Martin.",
+        "l2": "J’ai une réservation au nom de Martin.",
+        "en": "reservation / booking",
+        "gloss": {
+          "en": "reservation / booking",
+          "es": "reserva / reserva",
+          "ru": "бронирование / бронирование"
+        },
+        "prompt": "reservation / booking",
+        "choices": [
+          "J’ai une réservation au nom de Martin.",
+          "J’ai acheté un billet de train pour Lyon.",
+          "La gare est à dix minutes à pied."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-enl2-5",
+        "fr": "Tu as un plan de la ville ?",
+        "l2": "Tu as un plan de la ville ?",
+        "en": "map",
+        "gloss": {
+          "en": "map",
+          "es": "mapa",
+          "ru": "карта"
+        },
+        "prompt": "map",
+        "choices": [
+          "Tu as un plan de la ville ?",
+          "J’ai acheté un billet de train pour Lyon.",
+          "La gare est à dix minutes à pied."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-enl2-6",
+        "fr": "Ma valise est trop lourde.",
+        "l2": "Ma valise est trop lourde.",
+        "en": "suitcase",
+        "gloss": {
+          "en": "suitcase",
+          "es": "maleta",
+          "ru": "чемодан"
+        },
+        "prompt": "suitcase",
+        "choices": [
+          "Ma valise est trop lourde.",
+          "J’ai acheté un billet de train pour Lyon.",
+          "La gare est à dix minutes à pied."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-enl2-7",
+        "fr": "N’oublie pas ton passeport à l’aéroport.",
+        "l2": "N’oublie pas ton passeport à l’aéroport.",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        },
+        "prompt": "passport",
+        "choices": [
+          "N’oublie pas ton passeport à l’aéroport.",
+          "J’ai acheté un billet de train pour Lyon.",
+          "La gare est à dix minutes à pied."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-enl2-8",
+        "fr": "Il y a une correspondance à Paris.",
+        "l2": "Il y a une correspondance à Paris.",
+        "en": "connection (transport)",
+        "gloss": {
+          "en": "connection (transport)",
+          "es": "conexión (transporte)",
+          "ru": "связь (транспорт)"
+        },
+        "prompt": "connection (transport)",
+        "choices": [
+          "Il y a une correspondance à Paris.",
+          "J’ai acheté un billet de train pour Lyon.",
+          "La gare est à dix minutes à pied."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-travel-a2-prm-1",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        },
+        "answers": [
+          "billet",
+          "le billet"
+        ],
+        "target": "le billet"
+      },
+      {
+        "id": "remote-travel-a2-prm-2",
+        "en": "train station",
+        "gloss": {
+          "en": "train station",
+          "es": "estación de tren",
+          "ru": "железнодорожная станция"
+        },
+        "answers": [
+          "gare",
+          "la gare"
+        ],
+        "target": "la gare"
+      },
+      {
+        "id": "remote-travel-a2-prm-3",
+        "en": "hotel",
+        "gloss": {
+          "en": "hotel",
+          "es": "hotel",
+          "ru": "отель"
+        },
+        "answers": [
+          "hôtel",
+          "le hôtel"
+        ],
+        "target": "le hôtel"
+      },
+      {
+        "id": "remote-travel-a2-prm-4",
+        "en": "reservation / booking",
+        "gloss": {
+          "en": "reservation / booking",
+          "es": "reserva / reserva",
+          "ru": "бронирование / бронирование"
+        },
+        "answers": [
+          "réservation",
+          "la réservation"
+        ],
+        "target": "la réservation"
+      },
+      {
+        "id": "remote-travel-a2-prm-5",
+        "en": "map",
+        "gloss": {
+          "en": "map",
+          "es": "mapa",
+          "ru": "карта"
+        },
+        "answers": [
+          "plan",
+          "le plan"
+        ],
+        "target": "le plan"
+      },
+      {
+        "id": "remote-travel-a2-prm-6",
+        "en": "suitcase",
+        "gloss": {
+          "en": "suitcase",
+          "es": "maleta",
+          "ru": "чемодан"
+        },
+        "answers": [
+          "valise",
+          "la valise"
+        ],
+        "target": "la valise"
+      },
+      {
+        "id": "remote-travel-a2-prm-7",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        },
+        "answers": [
+          "passeport",
+          "le passeport"
+        ],
+        "target": "le passeport"
+      },
+      {
+        "id": "remote-travel-a2-prm-8",
+        "en": "connection (transport)",
+        "gloss": {
+          "en": "connection (transport)",
+          "es": "conexión (transporte)",
+          "ru": "связь (транспорт)"
+        },
+        "answers": [
+          "correspondance",
+          "la correspondance"
+        ],
+        "target": "la correspondance"
+      },
+      {
+        "id": "remote-travel-a2-prm-9",
+        "en": "airport",
+        "gloss": {
+          "en": "airport",
+          "es": "aeropuerto",
+          "ru": "аэропорт"
+        },
+        "answers": [
+          "aéroport",
+          "le aéroport"
+        ],
+        "target": "le aéroport"
+      },
+      {
+        "id": "remote-travel-a2-prm-10",
+        "en": "flight",
+        "gloss": {
+          "en": "flight",
+          "es": "vuelo",
+          "ru": "полет"
+        },
+        "answers": [
+          "vol",
+          "le vol"
+        ],
+        "target": "le vol"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-travel-a2-pair-1",
+        "a": {
+          "fr": "billet",
+          "l2": "billet",
+          "en": "ticket",
+          "gloss": {
+            "en": "ticket",
+            "es": "boleto",
+            "ru": "билет"
+          }
+        },
+        "b": {
+          "fr": "gare",
+          "l2": "gare",
+          "en": "train station",
+          "gloss": {
+            "en": "train station",
+            "es": "estación de tren",
+            "ru": "железнодорожная станция"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-travel-a2-pair-2",
+        "a": {
+          "fr": "hôtel",
+          "l2": "hôtel",
+          "en": "hotel",
+          "gloss": {
+            "en": "hotel",
+            "es": "hotel",
+            "ru": "отель"
+          }
+        },
+        "b": {
+          "fr": "réservation",
+          "l2": "réservation",
+          "en": "reservation / booking",
+          "gloss": {
+            "en": "reservation / booking",
+            "es": "reserva / reserva",
+            "ru": "бронирование / бронирование"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-travel-a2-pair-3",
+        "a": {
+          "fr": "plan",
+          "l2": "plan",
+          "en": "map",
+          "gloss": {
+            "en": "map",
+            "es": "mapa",
+            "ru": "карта"
+          }
+        },
+        "b": {
+          "fr": "valise",
+          "l2": "valise",
+          "en": "suitcase",
+          "gloss": {
+            "en": "suitcase",
+            "es": "maleta",
+            "ru": "чемодан"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-travel-a2-pair-4",
+        "a": {
+          "fr": "passeport",
+          "l2": "passeport",
+          "en": "passport",
+          "gloss": {
+            "en": "passport",
+            "es": "pasaporte",
+            "ru": "паспорт"
+          }
+        },
+        "b": {
+          "fr": "correspondance",
+          "l2": "correspondance",
+          "en": "connection (transport)",
+          "gloss": {
+            "en": "connection (transport)",
+            "es": "conexión (transporte)",
+            "ru": "связь (транспорт)"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-travel-a2-pair-5",
+        "a": {
+          "fr": "aéroport",
+          "l2": "aéroport",
+          "en": "airport",
+          "gloss": {
+            "en": "airport",
+            "es": "aeropuerto",
+            "ru": "аэропорт"
+          }
+        },
+        "b": {
+          "fr": "vol",
+          "l2": "vol",
+          "en": "flight",
+          "gloss": {
+            "en": "flight",
+            "es": "vuelo",
+            "ru": "полет"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-travel-a2-gap-1",
+        "fr": "J’ai acheté un billet de train pour Lyon.",
+        "l2": "J’ai acheté un billet de train pour Lyon.",
+        "speak": "J’ai acheté un billet de train pour Lyon.",
+        "blank": "billet",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        }
+      },
+      {
+        "id": "remote-travel-a2-gap-2",
+        "fr": "La gare est à dix minutes à pied.",
+        "l2": "La gare est à dix minutes à pied.",
+        "speak": "La gare est à dix minutes à pied.",
+        "blank": "gare",
+        "en": "train station",
+        "gloss": {
+          "en": "train station",
+          "es": "estación de tren",
+          "ru": "железнодорожная станция"
+        }
+      },
+      {
+        "id": "remote-travel-a2-gap-3",
+        "fr": "Nous dormons dans un hôtel près du centre.",
+        "l2": "Nous dormons dans un hôtel près du centre.",
+        "speak": "Nous dormons dans un hôtel près du centre.",
+        "blank": "hôtel",
+        "en": "hotel",
+        "gloss": {
+          "en": "hotel",
+          "es": "hotel",
+          "ru": "отель"
+        }
+      },
+      {
+        "id": "remote-travel-a2-gap-4",
+        "fr": "J’ai une réservation au nom de Martin.",
+        "l2": "J’ai une réservation au nom de Martin.",
+        "speak": "J’ai une réservation au nom de Martin.",
+        "blank": "réservation",
+        "en": "reservation / booking",
+        "gloss": {
+          "en": "reservation / booking",
+          "es": "reserva / reserva",
+          "ru": "бронирование / бронирование"
+        }
+      },
+      {
+        "id": "remote-travel-a2-gap-5",
+        "fr": "Tu as un plan de la ville ?",
+        "l2": "Tu as un plan de la ville ?",
+        "speak": "Tu as un plan de la ville ?",
+        "blank": "plan",
+        "en": "map",
+        "gloss": {
+          "en": "map",
+          "es": "mapa",
+          "ru": "карта"
+        }
+      },
+      {
+        "id": "remote-travel-a2-gap-6",
+        "fr": "Ma valise est trop lourde.",
+        "l2": "Ma valise est trop lourde.",
+        "speak": "Ma valise est trop lourde.",
+        "blank": "valise",
+        "en": "suitcase",
+        "gloss": {
+          "en": "suitcase",
+          "es": "maleta",
+          "ru": "чемодан"
+        }
+      },
+      {
+        "id": "remote-travel-a2-gap-7",
+        "fr": "N’oublie pas ton passeport à l’aéroport.",
+        "l2": "N’oublie pas ton passeport à l’aéroport.",
+        "speak": "N’oublie pas ton passeport à l’aéroport.",
+        "blank": "passeport",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        }
+      },
+      {
+        "id": "remote-travel-a2-gap-8",
+        "fr": "Il y a une correspondance à Paris.",
+        "l2": "Il y a une correspondance à Paris.",
+        "speak": "Il y a une correspondance à Paris.",
+        "blank": "correspondance",
+        "en": "connection (transport)",
+        "gloss": {
+          "en": "connection (transport)",
+          "es": "conexión (transporte)",
+          "ru": "связь (транспорт)"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-travel-a2-ord-1",
+        "fr": "J’ai acheté un billet de train pour Lyon.",
+        "l2": "J’ai acheté un billet de train pour Lyon.",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        },
+        "words": [
+          "J’ai",
+          "acheté",
+          "un",
+          "billet",
+          "de",
+          "train",
+          "pour",
+          "Lyon."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-ord-2",
+        "fr": "La gare est à dix minutes à pied.",
+        "l2": "La gare est à dix minutes à pied.",
+        "en": "train station",
+        "gloss": {
+          "en": "train station",
+          "es": "estación de tren",
+          "ru": "железнодорожная станция"
+        },
+        "words": [
+          "La",
+          "gare",
+          "est",
+          "à",
+          "dix",
+          "minutes",
+          "à",
+          "pied."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-ord-3",
+        "fr": "Nous dormons dans un hôtel près du centre.",
+        "l2": "Nous dormons dans un hôtel près du centre.",
+        "en": "hotel",
+        "gloss": {
+          "en": "hotel",
+          "es": "hotel",
+          "ru": "отель"
+        },
+        "words": [
+          "Nous",
+          "dormons",
+          "dans",
+          "un",
+          "hôtel",
+          "près",
+          "du",
+          "centre."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-ord-4",
+        "fr": "J’ai une réservation au nom de Martin.",
+        "l2": "J’ai une réservation au nom de Martin.",
+        "en": "reservation / booking",
+        "gloss": {
+          "en": "reservation / booking",
+          "es": "reserva / reserva",
+          "ru": "бронирование / бронирование"
+        },
+        "words": [
+          "J’ai",
+          "une",
+          "réservation",
+          "au",
+          "nom",
+          "de",
+          "Martin."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-ord-5",
+        "fr": "Tu as un plan de la ville ?",
+        "l2": "Tu as un plan de la ville ?",
+        "en": "map",
+        "gloss": {
+          "en": "map",
+          "es": "mapa",
+          "ru": "карта"
+        },
+        "words": [
+          "Tu",
+          "as",
+          "un",
+          "plan",
+          "de",
+          "la",
+          "ville",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-travel-a2-ord-6",
+        "fr": "Ma valise est trop lourde.",
+        "l2": "Ma valise est trop lourde.",
+        "en": "suitcase",
+        "gloss": {
+          "en": "suitcase",
+          "es": "maleta",
+          "ru": "чемодан"
+        },
+        "words": [
+          "Ma",
+          "valise",
+          "est",
+          "trop",
+          "lourde."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-ord-7",
+        "fr": "N’oublie pas ton passeport à l’aéroport.",
+        "l2": "N’oublie pas ton passeport à l’aéroport.",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        },
+        "words": [
+          "N’oublie",
+          "pas",
+          "ton",
+          "passeport",
+          "à",
+          "l’aéroport."
+        ]
+      },
+      {
+        "id": "remote-travel-a2-ord-8",
+        "fr": "Il y a une correspondance à Paris.",
+        "l2": "Il y a une correspondance à Paris.",
+        "en": "connection (transport)",
+        "gloss": {
+          "en": "connection (transport)",
+          "es": "conexión (transporte)",
+          "ru": "связь (транспорт)"
+        },
+        "words": [
+          "Il",
+          "y",
+          "a",
+          "une",
+          "correspondance",
+          "à",
+          "Paris."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-travel-a2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "bi.jɛ",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "billet",
+          "l2": "billet",
+          "en": "ticket",
+          "gloss": {
+            "en": "ticket",
+            "es": "boleto",
+            "ru": "билет"
+          },
+          "ipa": "bi.jɛ"
+        },
+        {
+          "fr": "gare",
+          "l2": "gare",
+          "en": "train station",
+          "gloss": {
+            "en": "train station",
+            "es": "estación de tren",
+            "ru": "железнодорожная станция"
+          },
+          "ipa": "ɡaʁ"
+        },
+        {
+          "fr": "hôtel",
+          "l2": "hôtel",
+          "en": "hotel",
+          "gloss": {
+            "en": "hotel",
+            "es": "hotel",
+            "ru": "отель"
+          },
+          "ipa": "o.tɛl"
+        },
+        {
+          "fr": "réservation",
+          "l2": "réservation",
+          "en": "reservation / booking",
+          "gloss": {
+            "en": "reservation / booking",
+            "es": "reserva / reserva",
+            "ru": "бронирование / бронирование"
+          },
+          "ipa": "ʁe.zɛʁ.va.sjɔ̃"
+        },
+        {
+          "fr": "plan",
+          "l2": "plan",
+          "en": "map",
+          "gloss": {
+            "en": "map",
+            "es": "mapa",
+            "ru": "карта"
+          },
+          "ipa": "plɑ̃"
+        }
+      ]
+    }
+  ]
 }
