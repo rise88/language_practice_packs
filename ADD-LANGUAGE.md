@@ -1,6 +1,6 @@
 # Adding a learner language (gloss locale)
 
-Pratique pack **v2** (`pratiquePack: 2`) shows card meanings in the learner’s language via `gloss` / `wordGloss` maps. Practice targets (`l2` / legacy `fr`, `example`, `prompts`, grammar drills) are written in the pack’s **practice language** (`lang`), not French-by-default.
+Vocalis pack **v2** (`pratiquePack: 2`) shows card meanings in the learner’s language via `gloss` / `wordGloss` maps. Practice targets (`l2` / legacy `fr`, `example`, `prompts`, grammar drills) are written in the pack’s **practice language** (`lang`), not French-by-default.
 
 Supported gloss locales in this catalog: **en**, **es**, **ru** (see `catalog.json` → `locales`).
 
@@ -69,7 +69,7 @@ Requires every pack + catalog entry to declare `lang`, and every seed item to ha
 
 After migrate, add `es` and `ru` on every gloss map (and pack `title` / `description`). Prefer matching seed lemmas for `skills.fren` / `listen.wordGloss`. Keep practice-language text in the pack’s `lang`.
 
-## Try in Pratique
+## Try in Vocalis
 
 1. Point the app at this catalog branch (or merge to `main`).
 2. **Ajouter → Packs distants → Mettre à jour** (reload catalog).

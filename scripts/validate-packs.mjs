@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Validate pratique packs for multi-L2:
+ * Validate Vocalis packs for multi-L2:
  * - every pack JSON + catalog entry has `lang`
  * - every seed item has headword `l2` or legacy `fr`
  * - non-French packs should use `l2` (warn if only `fr`)

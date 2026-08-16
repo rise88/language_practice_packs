@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fill gloss.es / gloss.ru (and related locale maps) for pratique packs.
+"""Fill gloss.es / gloss.ru (and related locale maps) for Vocalis packs.
 
 Translates unique strings once (cached), then applies to packs.
 Usage:
