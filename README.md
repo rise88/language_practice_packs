@@ -1,6 +1,6 @@
 # pratique-packs
 
-Public JSON catalog for [Pratique](https://github.com/rise88/language_practice) (the web app can stay **private**).
+Public JSON catalog for [Vocalis](https://github.com/rise88/language_practice) (the web app can stay **private**).
 
 Hosting this repo as **public** is free. The app fetches:
 
@@ -106,7 +106,7 @@ Non-French packs should use `l2` for headwords. Do not remove gloss locale maps 
 
 Each level has **10 French + 10 Spanish + 10 Russian** packs with the same section depth (seed, phrases, listen, prompts, grammar, skills).
 
-## Pack fields → Pratique modes
+## Pack fields → Vocalis modes
 
 | Pack field | Feeds |
 |------------|--------|
@@ -135,7 +135,7 @@ Seed `example` sentences also let the app auto-derive many drills — still ship
 6. Add an entry to `catalog.json` with matching `id`, `version`, `lang`, `cardCount`, and `"url": "./school-a2.json"`; set `updatedAt` to today
 7. Run `node scripts/validate-packs.mjs`
 8. Commit and push to `main`
-9. In Pratique → **Ajouter → Packs distants → GitHub → Charger**
+9. In Vocalis → **Ajouter → Packs distants → GitHub → Charger**
 
 ## Privacy split
 
