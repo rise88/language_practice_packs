@@ -1,0 +1,858 @@
+{
+  "pratiquePack": 2,
+  "id": "dokumenty-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "ru",
+  "title": {
+    "fr": "Démarches B1 (RU)",
+    "en": "Admin B1 (RU)",
+    "es": "Administrador B1 (RU)",
+    "ru": "Администратор Б1"
+  },
+  "description": {
+    "fr": "Papiers, rendez-vous et formulaires pour les démarches du quotidien — pack russe.",
+    "en": "Paperwork, appointments, and forms for everyday administration — Russian pack.",
+    "es": "Trámites, citas y formularios para la administración diaria — paquete ruso.",
+    "ru": "Оформление документов, встречи и формы для повседневного администрирования — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-dokumenty-b1-1",
+      "l2": "административный шаг",
+      "en": "administrative step",
+      "gloss": {
+        "en": "administrative step",
+        "es": "paso administrativo",
+        "ru": "административный шаг"
+      },
+      "example": "Этот процесс осуществляется полностью онлайн.",
+      "ipa": "administrativnˈɨj ʂaɡ",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-2",
+      "l2": "форма",
+      "en": "form",
+      "gloss": {
+        "en": "form",
+        "es": "forma",
+        "ru": "форма"
+      },
+      "example": "Форма запрашивает слишком много вложений.",
+      "ipa": "fˈorma",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dokumenty-b1-3",
+      "l2": "файл",
+      "en": "file / application",
+      "gloss": {
+        "en": "file / application",
+        "es": "archivo/aplicación",
+        "ru": "файл/приложение"
+      },
+      "example": "Мой файл еще не завершен.",
+      "ipa": "fˈajl",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-4",
+      "l2": "документ",
+      "en": "ID document",
+      "gloss": {
+        "en": "ID document",
+        "es": "documento de identidad",
+        "ru": "документ, удостоверяющий личность"
+      },
+      "example": "Требуется документ, удостоверяющий личность.",
+      "ipa": "dˈokumjent",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-5",
+      "l2": "паспорт",
+      "en": "passport",
+      "gloss": {
+        "en": "passport",
+        "es": "pasaporte",
+        "ru": "паспорт"
+      },
+      "example": "Срок действия моего паспорта истекает через шесть месяцев.",
+      "ipa": "pˈasport",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-6",
+      "l2": "подтверждающий документ",
+      "en": "supporting document",
+      "gloss": {
+        "en": "supporting document",
+        "es": "documento de respaldo",
+        "ru": "подтверждающий документ"
+      },
+      "example": "Подтверждение адреса отсутствует.",
+      "ipa": "podtvjerʐdajuɕːij dˈokumjent",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-7",
+      "l2": "место жительства",
+      "en": "place of residence",
+      "gloss": {
+        "en": "place of residence",
+        "es": "domicilio",
+        "ru": "место жительства"
+      },
+      "example": "Подтверждению адреса менее трех месяцев.",
+      "ipa": "mjesto ʐˈitjelʲstva",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dokumenty-b1-8",
+      "l2": "встреча",
+      "en": "appointment",
+      "gloss": {
+        "en": "appointment",
+        "es": "cita",
+        "ru": "встреча"
+      },
+      "example": "Следующая встреча через три недели.",
+      "ipa": "vstrjetɕˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dokumenty-b1-9",
+      "l2": "стойка",
+      "en": "counter / desk",
+      "gloss": {
+        "en": "counter / desk",
+        "es": "mostrador / escritorio",
+        "ru": "стойка/стол"
+      },
+      "example": "По субботам касса закрывается в полдень.",
+      "ipa": "stˈojka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dokumenty-b1-10",
+      "l2": "сертификат",
+      "en": "certificate / statement",
+      "gloss": {
+        "en": "certificate / statement",
+        "es": "certificado / declaración",
+        "ru": "сертификат/заявление"
+      },
+      "example": "Сертификат я получил по электронной почте.",
+      "ipa": "sjertifˈikat",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-11",
+      "l2": "печать",
+      "en": "stamp (official)",
+      "gloss": {
+        "en": "stamp (official)",
+        "es": "sello (oficial)",
+        "ru": "печать (официальная)"
+      },
+      "example": "На странице отсутствует штамп.",
+      "ipa": "pjetɕˈatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-12",
+      "l2": "срок",
+      "en": "deadline / waiting time",
+      "gloss": {
+        "en": "deadline / waiting time",
+        "es": "fecha límite / tiempo de espera",
+        "ru": "срок/время ожидания"
+      },
+      "example": "Срок рассмотрения составляет шесть недель.",
+      "ipa": "srˈok",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-13",
+      "l2": "обновление",
+      "en": "renewal",
+      "gloss": {
+        "en": "renewal",
+        "es": "renovación",
+        "ru": "обновление"
+      },
+      "example": "Продление происходит до истечения срока действия.",
+      "ipa": "obnˈovljenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-dokumenty-b1-14",
+      "l2": "вызов",
+      "en": "summons / official notice",
+      "gloss": {
+        "en": "summons / official notice",
+        "es": "citación / aviso oficial",
+        "ru": "вызов/официальное уведомление"
+      },
+      "example": "Мне пришла повестка на четверг.",
+      "ipa": "vˈɨzov",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-15",
+      "l2": "префектура",
+      "en": "prefecture",
+      "gloss": {
+        "en": "prefecture",
+        "es": "prefectura",
+        "ru": "префектура"
+      },
+      "example": "Префектура запрашивает оцифрованный файл.",
+      "ipa": "prjefjektˈura",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dokumenty-b1-16",
+      "l2": "социальное обеспечение",
+      "en": "social security",
+      "gloss": {
+        "en": "social security",
+        "es": "seguridad social",
+        "ru": "социальное обеспечение"
+      },
+      "example": "Мою карту социального страхования необходимо продлить.",
+      "ipa": "sotsialʲnoje ˈobjespjetɕjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-dokumenty-b1-17",
+      "l2": "номер",
+      "en": "number (ref.)",
+      "gloss": {
+        "en": "number (ref.)",
+        "es": "número (referencia)",
+        "ru": "номер (ссылка)"
+      },
+      "example": "Обратите внимание на номер файла.",
+      "ipa": "nˈomjer",
+      "article": "м"
+    },
+    {
+      "id": "remote-dokumenty-b1-18",
+      "l2": "ошибка",
+      "en": "error / mistake",
+      "gloss": {
+        "en": "error / mistake",
+        "es": "error / error",
+        "ru": "ошибка / ошибка"
+      },
+      "example": "В моем имени ошибка.",
+      "ipa": "oʂˈibka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dokumenty-b1-19",
+      "l2": "жалоба",
+      "en": "complaint / claim",
+      "gloss": {
+        "en": "complaint / claim",
+        "es": "queja/reclamo",
+        "ru": "жалоба/претензия"
+      },
+      "example": "Я отправил письменную жалобу.",
+      "ipa": "ʐalˈoba",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dokumenty-b1-20",
+      "l2": "часы работы",
+      "en": "opening hours",
+      "gloss": {
+        "en": "opening hours",
+        "es": "horario de apertura",
+        "ru": "часы работы"
+      },
+      "example": "Часы работы изменились.",
+      "ipa": "tɕasɨ rabˈotɨ",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-dokumenty-b1-phrase-1",
+      "l2": "В файле отсутствует подтверждение адреса.",
+      "en": "A proof of address is missing from the file.",
+      "gloss": {
+        "en": "A proof of address is missing from the file.",
+        "es": "Falta un comprobante de domicilio en el expediente.",
+        "ru": "В файле отсутствует подтверждение адреса."
+      },
+      "ipa": "v fˈajlje otsˈutstvujet pˈodtvjerʐdjenije ˈadrjesa"
+    },
+    {
+      "id": "remote-dokumenty-b1-phrase-2",
+      "l2": "Я хотел бы записаться на прием, пожалуйста.",
+      "en": "I’d like to make an appointment, please.",
+      "gloss": {
+        "en": "I’d like to make an appointment, please.",
+        "es": "Me gustaría concertar una cita, por favor.",
+        "ru": "Я хотел бы записаться на прием, пожалуйста."
+      },
+      "ipa": "jˈa xˈotjel bˈɨ zapisˈatʲsja nˈa prˈijem poʐalˈujsta"
+    },
+    {
+      "id": "remote-dokumenty-b1-phrase-3",
+      "l2": "Срок рассмотрения составляет шесть недель.",
+      "en": "The processing time is six weeks.",
+      "gloss": {
+        "en": "The processing time is six weeks.",
+        "es": "El tiempo de procesamiento es de seis semanas.",
+        "ru": "Срок рассмотрения составляет шесть недель."
+      },
+      "ipa": "srˈok rassmotrjenˈija sostˈavljajet ʂjestʲ njedjelʲ"
+    },
+    {
+      "id": "remote-dokumenty-b1-phrase-4",
+      "l2": "В моем имени ошибка.",
+      "en": "There’s a mistake in my name.",
+      "gloss": {
+        "en": "There’s a mistake in my name.",
+        "es": "Hay un error en mi nombre.",
+        "ru": "В моем имени ошибка."
+      },
+      "ipa": "v mˈojem ˈimjeni oʂˈibka"
+    },
+    {
+      "id": "remote-dokumenty-b1-phrase-5",
+      "l2": "Могу ли я отправить детали по электронной почте?",
+      "en": "Can I send the documents by email?",
+      "gloss": {
+        "en": "Can I send the documents by email?",
+        "es": "¿Puedo enviar los documentos por correo electrónico?",
+        "ru": "Могу ли я отправить документы по электронной почте?"
+      },
+      "ipa": "mˈoɡu lˈi jˈa otprˈavitʲ djetˈali pˈo ɛljektrˈonnoj pˈotɕtje"
+    },
+    {
+      "id": "remote-dokumenty-b1-phrase-6",
+      "l2": "Мне пришла повестка, но я не смогу прийти в этот день.",
+      "en": "I received a notice, but I can’t come that day.",
+      "gloss": {
+        "en": "I received a notice, but I can’t come that day.",
+        "es": "Recibí un aviso, pero no puedo venir ese día.",
+        "ru": "Мне пришло извещение, но я не смогу прийти в этот день."
+      },
+      "ipa": "mnje prˈiʂla pˈovjestka nˈo jˈa nje smˈoɡu prˈijti v ˈɛtot djenʲ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-dokumenty-b1-listen-1",
+      "l2": "Подтверждение адреса отсутствует.",
+      "en": "A proof of address is missing.",
+      "gloss": {
+        "en": "A proof of address is missing.",
+        "es": "Falta un comprobante de domicilio.",
+        "ru": "Подтверждение адреса отсутствует."
+      },
+      "word": "подтверждающий документ",
+      "wordEn": "supporting document",
+      "wordGloss": {
+        "en": "supporting document",
+        "es": "documento de respaldo",
+        "ru": "подтверждающий документ"
+      },
+      "wordIpa": "podtvjerʐdajuɕːij dˈokumjent",
+      "distractors": [
+        "печать",
+        "паспорт",
+        "стойка"
+      ]
+    },
+    {
+      "id": "remote-dokumenty-b1-listen-2",
+      "l2": "Срок рассмотрения составляет шесть недель.",
+      "en": "The processing time is six weeks.",
+      "gloss": {
+        "en": "The processing time is six weeks.",
+        "es": "El tiempo de procesamiento es de seis semanas.",
+        "ru": "Срок рассмотрения составляет шесть недель."
+      },
+      "word": "срок",
+      "wordEn": "waiting time",
+      "wordGloss": {
+        "en": "waiting time",
+        "es": "tiempo de espera",
+        "ru": "время ожидания"
+      },
+      "wordIpa": "srˈok",
+      "distractors": [
+        "файл",
+        "номер",
+        "ошибка"
+      ]
+    },
+    {
+      "id": "remote-dokumenty-b1-listen-3",
+      "l2": "Я хотел бы записаться на прием, пожалуйста.",
+      "en": "I’d like to make an appointment, please.",
+      "gloss": {
+        "en": "I’d like to make an appointment, please.",
+        "es": "Me gustaría concertar una cita, por favor.",
+        "ru": "Я хотел бы записаться на прием, пожалуйста."
+      },
+      "word": "встреча",
+      "wordEn": "appointment",
+      "wordGloss": {
+        "en": "appointment",
+        "es": "cita",
+        "ru": "встреча"
+      },
+      "wordIpa": "vstrjetɕˈa",
+      "distractors": [
+        "стойка",
+        "вызов",
+        "форма"
+      ]
+    },
+    {
+      "id": "remote-dokumenty-b1-listen-4",
+      "l2": "В моем имени ошибка.",
+      "en": "There’s a mistake in my name.",
+      "gloss": {
+        "en": "There’s a mistake in my name.",
+        "es": "Hay un error en mi nombre.",
+        "ru": "В моем имени ошибка."
+      },
+      "word": "ошибка",
+      "wordEn": "mistake",
+      "wordGloss": {
+        "en": "mistake",
+        "es": "error",
+        "ru": "ошибка"
+      },
+      "wordIpa": "oʂˈibka",
+      "distractors": [
+        "сертификат",
+        "жалоба",
+        "печать"
+      ]
+    }
+  ],
+  "prompts": [
+    "Опишите административный процесс, который вы предприняли.",
+    "Что вы скажете за стойкой, если пропадет листок бумаги?",
+    "Какие документы вам часто нужно готовить?",
+    "Сообщает о задержке или ошибке в файле."
+  ],
+  "grammar": [
+    {
+      "id": "remote-dokumenty-b1-grammar-1",
+      "title": {
+        "fr": "Génitif après нет / много",
+        "en": "Genitive after нет / много",
+        "es": "Genitivo tras нет / много",
+        "ru": "Родительный падеж после нет / много"
+      },
+      "rule": {
+        "fr": "После нет, мало, много, без — génitif.",
+        "en": "After нет, мало, много, без — use genitive.",
+        "es": "Tras нет, мало, много, без — genitivo.",
+        "ru": "После нет, мало, много, без — родительный падеж."
+      },
+      "why": {
+        "en": "Essential for negation and quantities.",
+        "es": "Esencial para la negación y las cantidades.",
+        "ru": "Необходимо для отрицания и количеств."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "нет + Род.",
+          "отрицание",
+          "Нет форма."
+        ],
+        [
+          "много + Род.",
+          "количество",
+          "Много паспорт."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-dokumenty-b1-gq-1-1",
+          "prompt": "После «нет» нужен ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "винительный",
+            "дательный"
+          ]
+        },
+        {
+          "id": "remote-dokumenty-b1-gq-1-2",
+          "prompt": "У меня нет ___ . (тема: форма)",
+          "answer": "форма",
+          "options": [
+            "форма",
+            "есть",
+            "это"
+          ]
+        },
+        {
+          "id": "remote-dokumenty-b1-gq-1-3",
+          "prompt": "Много / мало / без → ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "творительный",
+            "именительный"
+          ]
+        },
+        {
+          "id": "remote-dokumenty-b1-gq-1-4",
+          "prompt": "Свяжите с темой: форма / паспорт. Род «форма»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-dokumenty-b1-gq-1-5",
+          "prompt": "Свяжите с темой: форма / паспорт. Род «форма»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-dokumenty-b1-grammar-2",
+      "title": {
+        "fr": "Verbes de mouvement (идти / ехать)",
+        "en": "Verbs of motion (идти / ехать)",
+        "es": "Verbos de movimiento (идти / ехать)",
+        "ru": "Глаголы движения (идти / ехать)"
+      },
+      "rule": {
+        "fr": "Идти — à pied ; ехать — en véhicule (direction précise).",
+        "en": "Идти — on foot; ехать — by vehicle (specific direction).",
+        "es": "Идти — a pie; ехать — en vehículo (dirección concreta).",
+        "ru": "Идти — пешком; ехать — на транспорте (конкретное направление)."
+      },
+      "why": {
+        "en": "Choosing the right motion verb sounds natural.",
+        "es": "Elegir el verbo de movimiento correcto suena natural.",
+        "ru": "Правильный глагол движения звучит естественно."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "идти",
+          "пешком",
+          "Я иду в магазин."
+        ],
+        [
+          "ехать",
+          "на транспорте",
+          "Я еду на работу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-dokumenty-b1-gq-2-1",
+          "prompt": "Пешком в парк: я ___ .",
+          "answer": "иду",
+          "options": [
+            "иду",
+            "еду",
+            "летаю"
+          ]
+        },
+        {
+          "id": "remote-dokumenty-b1-gq-2-2",
+          "prompt": "На автобусе: я ___ .",
+          "answer": "еду",
+          "options": [
+            "еду",
+            "иду",
+            "хожу"
+          ]
+        },
+        {
+          "id": "remote-dokumenty-b1-gq-2-3",
+          "prompt": "Конкретное направление на машине — глагол ___ .",
+          "answer": "ехать",
+          "options": [
+            "ехать",
+            "идти",
+            "быть"
+          ]
+        },
+        {
+          "id": "remote-dokumenty-b1-gq-2-4",
+          "prompt": "Свяжите с темой: файл / подтверждающий документ. Род «файл»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-dokumenty-b1-gq-2-5",
+          "prompt": "Свяжите с темой: файл / подтверждающий документ. Род «файл»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-dokumenty-b1-dict-1",
+        "l2": "В файле отсутствует подтверждение адреса.",
+        "en": "A proof of address is missing from the file.",
+        "gloss": {
+          "en": "A proof of address is missing from the file.",
+          "es": "Falta un comprobante de domicilio en el expediente.",
+          "ru": "В файле отсутствует подтверждение адреса."
+        },
+        "ipa": "v fˈajlje otsˈutstvujet pˈodtvjerʐdjenije ˈadrjesa"
+      },
+      {
+        "id": "remote-dokumenty-b1-dict-2",
+        "l2": "Я хотел бы записаться на прием, пожалуйста.",
+        "en": "I’d like to make an appointment, please.",
+        "gloss": {
+          "en": "I’d like to make an appointment, please.",
+          "es": "Me gustaría concertar una cita, por favor.",
+          "ru": "Я хотел бы записаться на прием, пожалуйста."
+        },
+        "ipa": "jˈa xˈotjel bˈɨ zapisˈatʲsja nˈa prˈijem poʐalˈujsta"
+      },
+      {
+        "id": "remote-dokumenty-b1-dict-3",
+        "l2": "Срок рассмотрения составляет шесть недель.",
+        "en": "The processing time is six weeks.",
+        "gloss": {
+          "en": "The processing time is six weeks.",
+          "es": "El tiempo de procesamiento es de seis semanas.",
+          "ru": "Срок рассмотрения составляет шесть недель."
+        },
+        "ipa": "srˈok rassmotrjenˈija sostˈavljajet ʂjestʲ njedjelʲ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-dokumenty-b1-mean-1",
+        "l2": "В файле отсутствует подтверждение адреса.",
+        "en": "A proof of address is missing from the file.",
+        "gloss": {
+          "en": "A proof of address is missing from the file.",
+          "es": "Falta un comprobante de domicilio en el expediente.",
+          "ru": "В файле отсутствует подтверждение адреса."
+        }
+      },
+      {
+        "id": "remote-dokumenty-b1-mean-2",
+        "l2": "Я хотел бы записаться на прием, пожалуйста.",
+        "en": "I’d like to make an appointment, please.",
+        "gloss": {
+          "en": "I’d like to make an appointment, please.",
+          "es": "Me gustaría concertar una cita, por favor.",
+          "ru": "Я хотел бы записаться на прием, пожалуйста."
+        }
+      },
+      {
+        "id": "remote-dokumenty-b1-mean-3",
+        "l2": "Срок рассмотрения составляет шесть недель.",
+        "en": "The processing time is six weeks.",
+        "gloss": {
+          "en": "The processing time is six weeks.",
+          "es": "El tiempo de procesamiento es de seis semanas.",
+          "ru": "Срок рассмотрения составляет шесть недель."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-dokumenty-b1-fren-1",
+        "l2": "административный шаг",
+        "en": "administrative step",
+        "gloss": {
+          "en": "administrative step",
+          "es": "paso administrativo",
+          "ru": "административный шаг"
+        }
+      },
+      {
+        "id": "remote-dokumenty-b1-fren-2",
+        "l2": "форма",
+        "en": "form",
+        "gloss": {
+          "en": "form",
+          "es": "forma",
+          "ru": "форма"
+        }
+      },
+      {
+        "id": "remote-dokumenty-b1-fren-3",
+        "l2": "файл",
+        "en": "file",
+        "gloss": {
+          "en": "file",
+          "es": "archivo",
+          "ru": "файл"
+        }
+      },
+      {
+        "id": "remote-dokumenty-b1-fren-4",
+        "l2": "документ",
+        "en": "ID document",
+        "gloss": {
+          "en": "ID document",
+          "es": "documento de identidad",
+          "ru": "документ, удостоверяющий личность"
+        }
+      },
+      {
+        "id": "remote-dokumenty-b1-fren-5",
+        "l2": "паспорт",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        }
+      },
+      {
+        "id": "remote-dokumenty-b1-fren-6",
+        "l2": "подтверждающий документ",
+        "en": "supporting document",
+        "gloss": {
+          "en": "supporting document",
+          "es": "documento de respaldo",
+          "ru": "подтверждающий документ"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-dokumenty-b1-alou-1",
+        "l2": "В файле отсутствует подтверждение адреса.",
+        "en": "A proof of address is missing from the file.",
+        "gloss": {
+          "en": "A proof of address is missing from the file.",
+          "es": "Falta un comprobante de domicilio en el expediente.",
+          "ru": "В файле отсутствует подтверждение адреса."
+        },
+        "ipa": "v fˈajlje otsˈutstvujet pˈodtvjerʐdjenije ˈadrjesa"
+      },
+      {
+        "id": "remote-dokumenty-b1-alou-2",
+        "l2": "Срок рассмотрения составляет шесть недель.",
+        "en": "The processing time is six weeks.",
+        "gloss": {
+          "en": "The processing time is six weeks.",
+          "es": "El tiempo de procesamiento es de seis semanas.",
+          "ru": "Срок рассмотрения составляет шесть недель."
+        },
+        "ipa": "srˈok rassmotrjenˈija sostˈavljajet ʂjestʲ njedjelʲ"
+      },
+      {
+        "id": "remote-dokumenty-b1-alou-3",
+        "l2": "Могу ли я отправить детали по электронной почте?",
+        "en": "Can I send the documents by email?",
+        "gloss": {
+          "en": "Can I send the documents by email?",
+          "es": "¿Puedo enviar los documentos por correo electrónico?",
+          "ru": "Могу ли я отправить документы по электронной почте?"
+        },
+        "ipa": "mˈoɡu lˈi jˈa otprˈavitʲ djetˈali pˈo ɛljektrˈonnoj pˈotɕtje"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-dokumenty-b1-unsc-1",
+        "l2": "В моем имени ошибка.",
+        "en": "There’s a mistake in my name.",
+        "gloss": {
+          "en": "There’s a mistake in my name.",
+          "es": "Hay un error en mi nombre.",
+          "ru": "В моем имени ошибка."
+        },
+        "words": [
+          "В",
+          "моем",
+          "имени",
+          "ошибка."
+        ]
+      },
+      {
+        "id": "remote-dokumenty-b1-unsc-2",
+        "l2": "Могу ли я отправить детали по электронной почте?",
+        "en": "Can I send the documents by email?",
+        "gloss": {
+          "en": "Can I send the documents by email?",
+          "es": "¿Puedo enviar los documentos por correo electrónico?",
+          "ru": "Могу ли я отправить документы по электронной почте?"
+        },
+        "words": [
+          "Могу",
+          "ли",
+          "я",
+          "отправить",
+          "детали",
+          "по",
+          "электронной",
+          "почте?"
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-dokumenty-b1-sign-1",
+        "l2": "стойка",
+        "en": "counter",
+        "gloss": {
+          "en": "counter",
+          "es": "encimera",
+          "ru": "прилавок"
+        },
+        "hint": "билетное/сервисное окно"
+      },
+      {
+        "id": "remote-dokumenty-b1-sign-2",
+        "l2": "добро пожаловать",
+        "en": "reception",
+        "gloss": {
+          "en": "reception",
+          "es": "recepción",
+          "ru": "прием"
+        },
+        "hint": "стойка регистрации офиса"
+      }
+    ]
+  },
+  "sounds": []
+}

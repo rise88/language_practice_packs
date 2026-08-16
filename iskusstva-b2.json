@@ -1,0 +1,845 @@
+{
+  "pratiquePack": 2,
+  "id": "iskusstva-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "ru",
+  "title": {
+    "fr": "Arts et cinéma B2 (RU)",
+    "en": "Arts and film B2 (RU)",
+    "es": "Artes y cine B2 (RU)",
+    "ru": "Искусство и кино B2"
+  },
+  "description": {
+    "fr": "Cinéma, critique, expositions, récit et questions d’esthétique — pack russe.",
+    "en": "Film, criticism, exhibitions, narrative, and aesthetic questions — Russian pack.",
+    "es": "Cine, crítica, exposiciones, cuestiones narrativas y estéticas — paquete ruso.",
+    "ru": "Кино, критика, выставки, повествование и эстетические вопросы — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-iskusstva-b2-1",
+      "l2": "художественный фильм",
+      "en": "feature film",
+      "gloss": {
+        "en": "feature film",
+        "es": "largometraje",
+        "ru": "художественный фильм"
+      },
+      "example": "Этот художественный фильм отказывается от счастливого конца, что разделило критиков после его выхода.",
+      "ipa": "xudoʐjestvjennˈɨj filʲm",
+      "article": "м"
+    },
+    {
+      "id": "remote-iskusstva-b2-2",
+      "l2": "обзор",
+      "en": "review / criticism",
+      "gloss": {
+        "en": "review / criticism",
+        "es": "revisión / crítica",
+        "ru": "обзор/критика"
+      },
+      "example": "Критики высоко оценили постановку, однако посчитали сюжет слишком расплывчатым.",
+      "ipa": "ˈobzor",
+      "article": "м"
+    },
+    {
+      "id": "remote-iskusstva-b2-3",
+      "l2": "выставка",
+      "en": "exhibition",
+      "gloss": {
+        "en": "exhibition",
+        "es": "exhibición",
+        "ru": "выставка"
+      },
+      "example": "Ретроспективная выставка объединяет произведения, редко показываемые публике.",
+      "ipa": "vɨstˈavka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-iskusstva-b2-4",
+      "l2": "повествование",
+      "en": "narrative",
+      "gloss": {
+        "en": "narrative",
+        "es": "narrativo",
+        "ru": "повествование"
+      },
+      "example": "Нелинейное повествование требует от зрителя внимания, на которое обращают внимание не все.",
+      "ipa": "povjestvovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-iskusstva-b2-5",
+      "l2": "эстетический",
+      "en": "aesthetic",
+      "gloss": {
+        "en": "aesthetic",
+        "es": "estético",
+        "ru": "эстетический"
+      },
+      "example": "Эстетика фильма предпочитает фиксированные кадры, позволяющие тишине дышать.",
+      "ipa": "ɛstjetˈitɕjeskij",
+      "article": "м"
+    },
+    {
+      "id": "remote-iskusstva-b2-6",
+      "l2": "режиссура",
+      "en": "direction / staging",
+      "gloss": {
+        "en": "direction / staging",
+        "es": "dirección / puesta en escena",
+        "ru": "режиссура / постановка"
+      },
+      "example": "Трезвая постановка служит цели, однако некоторые считают ее вялой.",
+      "ipa": "rjeʐissˈura",
+      "article": "ж"
+    },
+    {
+      "id": "remote-iskusstva-b2-7",
+      "l2": "выстрелил",
+      "en": "shot",
+      "gloss": {
+        "en": "shot",
+        "es": "disparo",
+        "ru": "выстрелил"
+      },
+      "example": "Этот двенадцатиминутный кадр был снят за один дубль, несмотря на толпу.",
+      "ipa": "vˈɨstrjelil",
+      "article": "м"
+    },
+    {
+      "id": "remote-iskusstva-b2-8",
+      "l2": "куратор",
+      "en": "curator",
+      "gloss": {
+        "en": "curator",
+        "es": "curador",
+        "ru": "куратор"
+      },
+      "example": "Куратор выставки выбрал хронологическую, а не тематическую экспозицию.",
+      "ipa": "kurˈator",
+      "article": "м"
+    },
+    {
+      "id": "remote-iskusstva-b2-9",
+      "l2": "перформанс",
+      "en": "performance / interpretation",
+      "gloss": {
+        "en": "performance / interpretation",
+        "es": "actuación / interpretación",
+        "ru": "перформанс/интерпретация"
+      },
+      "example": "Ее сдержанное выступление говорит о том, что было бы сделано нечто большее, чем эффектные слезы.",
+      "ipa": "pjerfˈormans",
+      "article": "м"
+    },
+    {
+      "id": "remote-iskusstva-b2-10",
+      "l2": "состав наград",
+      "en": "awards lineup",
+      "gloss": {
+        "en": "awards lineup",
+        "es": "cartel de premios",
+        "ru": "состав наград"
+      },
+      "example": "Результаты оказались неожиданными, хотя фаворит долгое время казался неприкосновенным.",
+      "ipa": "sostav nˈaɡrad",
+      "article": "м"
+    },
+    {
+      "id": "remote-iskusstva-b2-11",
+      "l2": "редактирование",
+      "en": "editing",
+      "gloss": {
+        "en": "editing",
+        "es": "edición",
+        "ru": "редактирование"
+      },
+      "example": "Эллиптический монтаж пропускает годы, что стягивает историю, но не подрывает ее.",
+      "ipa": "rjedaktirovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-iskusstva-b2-12",
+      "l2": "ретроспектива",
+      "en": "retrospective",
+      "gloss": {
+        "en": "retrospective",
+        "es": "retrospectivo",
+        "ru": "ретроспектива"
+      },
+      "example": "Эта ретроспектива позволяет проследить эволюцию художника, которую слишком часто сводят к одному периоду.",
+      "ipa": "rjetrospjektˈiva",
+      "article": "ж"
+    },
+    {
+      "id": "remote-iskusstva-b2-13",
+      "l2": "сценарий",
+      "en": "screenplay",
+      "gloss": {
+        "en": "screenplay",
+        "es": "guión",
+        "ru": "сценарий"
+      },
+      "example": "Оригинальный сценарий был сильно переработан во время съемок.",
+      "ipa": "stsjenˈarij",
+      "article": "м"
+    },
+    {
+      "id": "remote-iskusstva-b2-14",
+      "l2": "освещение",
+      "en": "lighting",
+      "gloss": {
+        "en": "lighting",
+        "es": "iluminación",
+        "ru": "освещение"
+      },
+      "example": "Естественный свет интерьеров усиливает ощущение документального фильма.",
+      "ipa": "ˈosvjeɕːjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-iskusstva-b2-15",
+      "l2": "художественное движение",
+      "en": "artistic movement",
+      "gloss": {
+        "en": "artistic movement",
+        "es": "movimiento artístico",
+        "ru": "художественное движение"
+      },
+      "example": "Это изобразительное движение оказало влияние на кинематограф спустя долгое время после того, как было объявлено устаревшим.",
+      "ipa": "xudoʐjestvjennoje dvˈiʐjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-iskusstva-b2-16",
+      "l2": "галерея",
+      "en": "gallery",
+      "gloss": {
+        "en": "gallery",
+        "es": "galería",
+        "ru": "галерея"
+      },
+      "example": "Галерея посвящает свою витрину начинающим художникам, а не устоявшимся ценностям.",
+      "ipa": "ɡˈaljerjeja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-iskusstva-b2-17",
+      "l2": "характер",
+      "en": "character",
+      "gloss": {
+        "en": "character",
+        "es": "personaje",
+        "ru": "характер"
+      },
+      "example": "Второстепенный персонаж почти затмевает всех, что нарушает баланс истории.",
+      "ipa": "xˈaraktjer",
+      "article": "м"
+    },
+    {
+      "id": "remote-iskusstva-b2-18",
+      "l2": "рама",
+      "en": "frame / framing",
+      "gloss": {
+        "en": "frame / framing",
+        "es": "marco / marco",
+        "ru": "рама / обрамление"
+      },
+      "example": "Плотная рамка на руках говорит больше, чем любой объяснительный диалог.",
+      "ipa": "rˈama",
+      "article": "ж"
+    },
+    {
+      "id": "remote-iskusstva-b2-19",
+      "l2": "метафора",
+      "en": "metaphor",
+      "gloss": {
+        "en": "metaphor",
+        "es": "metáfora",
+        "ru": "метафора"
+      },
+      "example": "Эта визуальная метафора возвращается трижды, чтобы объединить фильм.",
+      "ipa": "mjetafˈora",
+      "article": "ж"
+    },
+    {
+      "id": "remote-iskusstva-b2-20",
+      "l2": "открытие",
+      "en": "opening / private view",
+      "gloss": {
+        "en": "opening / private view",
+        "es": "apertura / vista privada",
+        "ru": "открытие/частный просмотр"
+      },
+      "example": "Открытие привлекло толпу, скорее мирскую, чем по-настоящему интересующуюся произведениями.",
+      "ipa": "otkrˈɨtije",
+      "article": "ср"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-iskusstva-b2-phrase-1",
+      "l2": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков.",
+      "en": "I do not think this feature film deserves the critics’ reservations.",
+      "gloss": {
+        "en": "I do not think this feature film deserves the critics’ reservations.",
+        "es": "No creo que este largometraje merezca las reservas de la crítica.",
+        "ru": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков."
+      },
+      "ipa": "jˈa nje dumˈaju tɕtˈo ˈɛtot xudˈoʐjestvjennɨj fˈilʲm zasluʐˈivajet narjekˈanij kritˈikov"
+    },
+    {
+      "id": "remote-iskusstva-b2-phrase-2",
+      "l2": "Хотя история эллиптическая, постановка остается прекрасно читаемой.",
+      "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+      "gloss": {
+        "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+        "es": "Aunque la narrativa es elíptica, la dirección sigue siendo perfectamente legible.",
+        "ru": "Хотя повествование эллиптично, направление остается прекрасно читаемым."
+      },
+      "ipa": "xˈotja istorˈija ɛlliptitɕjeskˈaja postanˈovka ostˈajetsja prjekrˈasno tɕitˈajemoj"
+    },
+    {
+      "id": "remote-iskusstva-b2-phrase-3",
+      "l2": "Если бы монтаж был более классическим, фильм, несомненно, понравился бы более широкой аудитории.",
+      "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+      "gloss": {
+        "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+        "es": "Si el montaje hubiera sido más convencional, la película sin duda habría llegado a un público más amplio.",
+        "ru": "Если бы монтаж был более традиционным, фильм, несомненно, достиг бы более широкой аудитории."
+      },
+      "ipa": "jeslˈi bˈɨ mˈontaʐ bˈɨl bˈoljeje klassˈitɕjeskim fˈilʲm njesˈomnjenno ponravˈilsja bˈɨ bˈoljeje ʂirˈokoj"
+    },
+    {
+      "id": "remote-iskusstva-b2-phrase-4",
+      "l2": "С другой стороны, выставка страдает из-за того, что ее презентация слишком научная для спешащего посетителя.",
+      "en": "By contrast, the exhibition suffers from wall texts that are too learned for the hurried visitor.",
+      "gloss": {
+        "en": "By contrast, the exhibition suffers from wall texts that are too learned for the hurried visitor.",
+        "es": "Por el contrario, la exposición adolece de textos murales que son demasiado eruditos para el visitante apresurado.",
+        "ru": "Напротив, выставка страдает от настенных текстов, которые слишком заучены для спешащего посетителя."
+      },
+      "ipa": "s drˈuɡoj storˈonɨ vɨstˈavka strˈadajet ˈiz zˈa tˈoɡo tɕtˈo jeje prjezjentatsˈija slˈiʂkom"
+    },
+    {
+      "id": "remote-iskusstva-b2-phrase-5",
+      "l2": "Можно возразить, что эстетика статического кадра скучна, когда она не оправдана.",
+      "en": "One might object that the aesthetic of the static shot becomes tiring when it is not justified.",
+      "gloss": {
+        "en": "One might object that the aesthetic of the static shot becomes tiring when it is not justified.",
+        "es": "Se podría objetar que la estética del plano estático resulta cansina cuando no está justificada.",
+        "ru": "Можно возразить, что эстетика статического кадра утомляет, когда она не оправдана."
+      },
+      "ipa": "mˈoʐno vozrˈazitʲ tɕtˈo ɛstjetˈika statitɕjeskˈoɡo kˈadra skˈutɕna kˈoɡda ˈona nje opravdˈana"
+    },
+    {
+      "id": "remote-iskusstva-b2-phrase-6",
+      "l2": "Чтобы аудитория уловила метафору, мотив возвращается трижды.",
+      "en": "So that the audience grasps the metaphor, the motif returns three times.",
+      "gloss": {
+        "en": "So that the audience grasps the metaphor, the motif returns three times.",
+        "es": "Para que el público capte la metáfora, el motivo vuelve tres veces.",
+        "ru": "Чтобы зрители уловили метафору, мотив возвращается трижды."
+      },
+      "ipa": "tɕtˈobɨ auditorˈija ulovˈila mjetafˈoru mˈotiv vozvraɕːˈajetsja trˈiʐdɨ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-iskusstva-b2-listen-1",
+      "l2": "Критики высоко оценили постановку, однако посчитали сюжет слишком расплывчатым.",
+      "en": "Critics praised the direction; however they found the narrative too loose.",
+      "gloss": {
+        "en": "Critics praised the direction; however they found the narrative too loose.",
+        "es": "Los críticos elogiaron la dirección; sin embargo, encontraron la narrativa demasiado vaga.",
+        "ru": "Критики высоко оценили это направление; однако они сочли повествование слишком свободным."
+      },
+      "word": "обзор",
+      "wordEn": "criticism",
+      "wordGloss": {
+        "en": "criticism",
+        "es": "crítica",
+        "ru": "критика"
+      },
+      "wordIpa": "ˈobzor",
+      "distractors": [
+        "состав наград",
+        "сценарий",
+        "перформанс"
+      ]
+    },
+    {
+      "id": "remote-iskusstva-b2-listen-2",
+      "l2": "Ретроспективная выставка объединяет редко показываемые произведения.",
+      "en": "The retrospective exhibition brings together works rarely shown.",
+      "gloss": {
+        "en": "The retrospective exhibition brings together works rarely shown.",
+        "es": "La exposición retrospectiva reúne obras raramente mostradas.",
+        "ru": "Ретроспективная выставка объединяет редко демонстрируемые работы."
+      },
+      "word": "выставка",
+      "wordEn": "exhibition",
+      "wordGloss": {
+        "en": "exhibition",
+        "es": "exhibición",
+        "ru": "выставка"
+      },
+      "wordIpa": "vɨstˈavka",
+      "distractors": [
+        "галерея",
+        "ретроспектива",
+        "открытие"
+      ]
+    },
+    {
+      "id": "remote-iskusstva-b2-listen-3",
+      "l2": "Эллиптический монтаж пропускает годы, не нанося вреда истории.",
+      "en": "The elliptical editing skips years without harming the narrative.",
+      "gloss": {
+        "en": "The elliptical editing skips years without harming the narrative.",
+        "es": "La edición elíptica salta años sin perjudicar la narrativa.",
+        "ru": "Эллиптический монтаж пропускает годы, не нанося вреда повествованию."
+      },
+      "word": "редактирование",
+      "wordEn": "editing",
+      "wordGloss": {
+        "en": "editing",
+        "es": "edición",
+        "ru": "редактирование"
+      },
+      "wordIpa": "rjedaktirovˈanije",
+      "distractors": [
+        "выстрелил",
+        "рама",
+        "освещение"
+      ]
+    },
+    {
+      "id": "remote-iskusstva-b2-listen-4",
+      "l2": "Куратор выбрал хронологическую, а не тематическую экспозицию.",
+      "en": "The curator chose a chronological hang rather than a thematic one.",
+      "gloss": {
+        "en": "The curator chose a chronological hang rather than a thematic one.",
+        "es": "El comisario optó por un corte cronológico más que temático.",
+        "ru": "Куратор выбрал хронологическое размещение, а не тематическое."
+      },
+      "word": "куратор",
+      "wordEn": "curator",
+      "wordGloss": {
+        "en": "curator",
+        "es": "curador",
+        "ru": "куратор"
+      },
+      "wordIpa": "kurˈator",
+      "distractors": [
+        "художественное движение",
+        "эстетический",
+        "характер"
+      ]
+    }
+  ],
+  "prompts": [
+    "Обязательно ли трудная работа более интересна? Обоснуйте свое мнение.",
+    "Сравните полезную критику и несправедливую критику: что их отличает?",
+    "По вашему мнению, должен ли сюжет фильма всегда быть линейным?",
+    "Если бы вы организовали выставку, какого куратора вы бы защитили и почему?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-iskusstva-b2-grammar-1",
+      "title": {
+        "fr": "Instrumental (кем / чем)",
+        "en": "Instrumental case (кем / чем)",
+        "es": "Caso instrumental (кем / чем)",
+        "ru": "Творительный падеж (кем / чем)"
+      },
+      "rule": {
+        "fr": "Творительный marque le moyen, l’accompagnement ou le prédicat (стать врачом).",
+        "en": "Instrumental marks means, company, or predicate nouns (стать врачом).",
+        "es": "El instrumental marca medio, compañía o predicado (стать врачом).",
+        "ru": "Творительный обозначает средство, совместность или предикатив (стать врачом)."
+      },
+      "why": {
+        "en": "Needed for professions, tools, and «with».",
+        "es": "Necesario para profesiones, herramientas y «con».",
+        "ru": "Нужен для профессий, инструментов и значения «с»."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "чем",
+          "средство",
+          "Пишу ручкой / говорю о обзор."
+        ],
+        [
+          "кем",
+          "профессия",
+          "Он стал врачом."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-iskusstva-b2-gq-1-1",
+          "prompt": "Стать врачом — ___ падеж.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "родительный",
+            "винительный"
+          ]
+        },
+        {
+          "id": "remote-iskusstva-b2-gq-1-2",
+          "prompt": "Я пишу ___ . (карандаш)",
+          "answer": "карандашом",
+          "options": [
+            "карандашом",
+            "карандаш",
+            "карандаша"
+          ]
+        },
+        {
+          "id": "remote-iskusstva-b2-gq-1-3",
+          "prompt": "Тема «обзор» часто требует предложных конструкций.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "именительный",
+            "звательный"
+          ]
+        },
+        {
+          "id": "remote-iskusstva-b2-gq-1-4",
+          "prompt": "Свяжите с темой: обзор / эстетический. Род «обзор»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-iskusstva-b2-gq-1-5",
+          "prompt": "Свяжите с темой: обзор / эстетический. Род «обзор»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-iskusstva-b2-grammar-2",
+      "title": {
+        "fr": "Aspect perfectif / imperfectif",
+        "en": "Perfective / imperfective aspect",
+        "es": "Aspecto perfectivo / imperfectivo",
+        "ru": "Вид глагола: совершенный / несовершенный"
+      },
+      "rule": {
+        "fr": "Imperfectif = processus / habitude ; perfectif = résultat achevé.",
+        "en": "Imperfective = process / habit; perfective = completed result.",
+        "es": "Imperfectivo = proceso / hábito; perfectivo = resultado terminado.",
+        "ru": "Несовершенный — процесс / привычка; совершенный — завершённый результат."
+      },
+      "why": {
+        "en": "Aspect is central to natural Russian storytelling.",
+        "es": "El aspecto es central en la narración rusa natural.",
+        "ru": "Вид — ключ к естественному русскому рассказу."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "НСВ",
+          "процесс / привычка",
+          "Я читал книгу час."
+        ],
+        [
+          "СВ",
+          "результат",
+          "Я прочитал книгу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-iskusstva-b2-gq-2-1",
+          "prompt": "Результат: я ___ книгу. (прочитать)",
+          "answer": "прочитал",
+          "options": [
+            "прочитал",
+            "читал",
+            "буду читать"
+          ]
+        },
+        {
+          "id": "remote-iskusstva-b2-gq-2-2",
+          "prompt": "Процесс: я долго ___ . (читать)",
+          "answer": "читал",
+          "options": [
+            "читал",
+            "прочитал",
+            "прочту"
+          ]
+        },
+        {
+          "id": "remote-iskusstva-b2-gq-2-3",
+          "prompt": "Привычка обычно выражается ___ видом.",
+          "answer": "несовершенным",
+          "options": [
+            "несовершенным",
+            "совершенным",
+            "будущим"
+          ]
+        },
+        {
+          "id": "remote-iskusstva-b2-gq-2-4",
+          "prompt": "Свяжите с темой: выставка / режиссура. Род «выставка»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-iskusstva-b2-gq-2-5",
+          "prompt": "Свяжите с темой: выставка / режиссура. Род «выставка»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-iskusstva-b2-dict-1",
+        "l2": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков.",
+        "en": "I do not think this feature film deserves the critics’ reservations.",
+        "gloss": {
+          "en": "I do not think this feature film deserves the critics’ reservations.",
+          "es": "No creo que este largometraje merezca las reservas de la crítica.",
+          "ru": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков."
+        },
+        "ipa": "jˈa nje dumˈaju tɕtˈo ˈɛtot xudˈoʐjestvjennɨj fˈilʲm zasluʐˈivajet narjekˈanij kritˈikov"
+      },
+      {
+        "id": "remote-iskusstva-b2-dict-2",
+        "l2": "Хотя история эллиптическая, постановка остается прекрасно читаемой.",
+        "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+        "gloss": {
+          "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+          "es": "Aunque la narrativa es elíptica, la dirección sigue siendo perfectamente legible.",
+          "ru": "Хотя повествование эллиптично, направление остается прекрасно читаемым."
+        },
+        "ipa": "xˈotja istorˈija ɛlliptitɕjeskˈaja postanˈovka ostˈajetsja prjekrˈasno tɕitˈajemoj"
+      },
+      {
+        "id": "remote-iskusstva-b2-dict-3",
+        "l2": "Если бы монтаж был более классическим, фильм, несомненно, понравился бы более широкой аудитории.",
+        "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+        "gloss": {
+          "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+          "es": "Si el montaje hubiera sido más convencional, la película sin duda habría llegado a un público más amplio.",
+          "ru": "Если бы монтаж был более традиционным, фильм, несомненно, достиг бы более широкой аудитории."
+        },
+        "ipa": "jeslˈi bˈɨ mˈontaʐ bˈɨl bˈoljeje klassˈitɕjeskim fˈilʲm njesˈomnjenno ponravˈilsja bˈɨ bˈoljeje ʂirˈokoj"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-iskusstva-b2-mean-1",
+        "l2": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков.",
+        "en": "I do not think this feature film deserves the critics’ reservations.",
+        "gloss": {
+          "en": "I do not think this feature film deserves the critics’ reservations.",
+          "es": "No creo que este largometraje merezca las reservas de la crítica.",
+          "ru": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков."
+        }
+      },
+      {
+        "id": "remote-iskusstva-b2-mean-2",
+        "l2": "Хотя история эллиптическая, постановка остается прекрасно читаемой.",
+        "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+        "gloss": {
+          "en": "Although the narrative is elliptical, the direction remains perfectly readable.",
+          "es": "Aunque la narrativa es elíptica, la dirección sigue siendo perfectamente legible.",
+          "ru": "Хотя повествование эллиптично, направление остается прекрасно читаемым."
+        }
+      },
+      {
+        "id": "remote-iskusstva-b2-mean-3",
+        "l2": "Если бы монтаж был более классическим, фильм, несомненно, понравился бы более широкой аудитории.",
+        "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+        "gloss": {
+          "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+          "es": "Si el montaje hubiera sido más convencional, la película sin duda habría llegado a un público más amplio.",
+          "ru": "Если бы монтаж был более традиционным, фильм, несомненно, достиг бы более широкой аудитории."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-iskusstva-b2-fren-1",
+        "l2": "художественный фильм",
+        "en": "feature film",
+        "gloss": {
+          "en": "feature film",
+          "es": "largometraje",
+          "ru": "художественный фильм"
+        }
+      },
+      {
+        "id": "remote-iskusstva-b2-fren-2",
+        "l2": "обзор",
+        "en": "review",
+        "gloss": {
+          "en": "review",
+          "es": "revisar",
+          "ru": "обзор"
+        }
+      },
+      {
+        "id": "remote-iskusstva-b2-fren-3",
+        "l2": "выставка",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        }
+      },
+      {
+        "id": "remote-iskusstva-b2-fren-4",
+        "l2": "повествование",
+        "en": "narrative",
+        "gloss": {
+          "en": "narrative",
+          "es": "narrativo",
+          "ru": "повествование"
+        }
+      },
+      {
+        "id": "remote-iskusstva-b2-fren-5",
+        "l2": "эстетический",
+        "en": "aesthetic",
+        "gloss": {
+          "en": "aesthetic",
+          "es": "estético",
+          "ru": "эстетический"
+        }
+      },
+      {
+        "id": "remote-iskusstva-b2-fren-6",
+        "l2": "режиссура",
+        "en": "direction",
+        "gloss": {
+          "en": "direction",
+          "es": "dirección",
+          "ru": "направление"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-iskusstva-b2-alou-1",
+        "l2": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков.",
+        "en": "I do not think this feature film deserves the critics’ reservations.",
+        "gloss": {
+          "en": "I do not think this feature film deserves the critics’ reservations.",
+          "es": "No creo que este largometraje merezca las reservas de la crítica.",
+          "ru": "Я не думаю, что этот художественный фильм заслуживает нареканий критиков."
+        },
+        "ipa": "jˈa nje dumˈaju tɕtˈo ˈɛtot xudˈoʐjestvjennɨj fˈilʲm zasluʐˈivajet narjekˈanij kritˈikov"
+      },
+      {
+        "id": "remote-iskusstva-b2-alou-2",
+        "l2": "Если бы монтаж был более классическим, фильм, несомненно, понравился бы более широкой аудитории.",
+        "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+        "gloss": {
+          "en": "If the editing had been more conventional, the film would no doubt have reached a wider audience.",
+          "es": "Si el montaje hubiera sido más convencional, la película sin duda habría llegado a un público más amplio.",
+          "ru": "Если бы монтаж был более традиционным, фильм, несомненно, достиг бы более широкой аудитории."
+        },
+        "ipa": "jeslˈi bˈɨ mˈontaʐ bˈɨl bˈoljeje klassˈitɕjeskim fˈilʲm njesˈomnjenno ponravˈilsja bˈɨ bˈoljeje ʂirˈokoj"
+      },
+      {
+        "id": "remote-iskusstva-b2-alou-3",
+        "l2": "Можно возразить, что эстетика статического кадра скучна, когда она не оправдана.",
+        "en": "One might object that the aesthetic of the static shot becomes tiring when it is not justified.",
+        "gloss": {
+          "en": "One might object that the aesthetic of the static shot becomes tiring when it is not justified.",
+          "es": "Se podría objetar que la estética del plano estático resulta cansina cuando no está justificada.",
+          "ru": "Можно возразить, что эстетика статического кадра утомляет, когда она не оправдана."
+        },
+        "ipa": "mˈoʐno vozrˈazitʲ tɕtˈo ɛstjetˈika statitɕjeskˈoɡo kˈadra skˈutɕna kˈoɡda ˈona nje opravdˈana"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-iskusstva-b2-unsc-1",
+        "l2": "Этот художественный фильм отказывается от счастливого конца, что разделило критиков после его выхода.",
+        "en": "This feature film refuses a happy ending, which divided the critics on its release.",
+        "gloss": {
+          "en": "This feature film refuses a happy ending, which divided the critics on its release.",
+          "es": "Este largometraje rechaza un final feliz, lo que dividió a la crítica en su estreno.",
+          "ru": "Этот художественный фильм отказывается от счастливого конца, который разделил критиков после его выхода."
+        },
+        "words": [
+          "Этот",
+          "художественный",
+          "фильм",
+          "отказывается",
+          "от",
+          "счастливого",
+          "конца,",
+          "что",
+          "разделило",
+          "критиков",
+          "после",
+          "его",
+          "выхода."
+        ]
+      },
+      {
+        "id": "remote-iskusstva-b2-unsc-2",
+        "l2": "Плотная рамка на руках говорит больше, чем любой объяснительный диалог.",
+        "en": "The tight frame on the hands says more than any explanatory dialogue.",
+        "gloss": {
+          "en": "The tight frame on the hands says more than any explanatory dialogue.",
+          "es": "La estrecha estructura de las manos dice más que cualquier diálogo explicativo.",
+          "ru": "Плотная рамка на руках говорит больше, чем любой объяснительный диалог."
+        },
+        "words": [
+          "Плотная",
+          "рамка",
+          "на",
+          "руках",
+          "говорит",
+          "больше,",
+          "чем",
+          "любой",
+          "объяснительный",
+          "диалог."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

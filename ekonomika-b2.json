@@ -1,0 +1,844 @@
+{
+  "pratiquePack": 2,
+  "id": "ekonomika-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "ru",
+  "title": {
+    "fr": "Économie B2 (RU)",
+    "en": "Economy B2 (RU)",
+    "es": "Economía B2 (RU)",
+    "ru": "Эконом Б2"
+  },
+  "description": {
+    "fr": "Croissance, inflation, chômage, marchés et investissement — pack russe.",
+    "en": "Growth, inflation, unemployment, markets, and investment — Russian pack.",
+    "es": "Crecimiento, inflación, desempleo, mercados e inversión — paquete ruso.",
+    "ru": "Рост, инфляция, безработица, рынки и инвестиции — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-ekonomika-b2-1",
+      "l2": "рост",
+      "en": "growth",
+      "gloss": {
+        "en": "growth",
+        "es": "crecimiento",
+        "ru": "рост"
+      },
+      "example": "Рост замедлился, но инвестиции еще не сократились.",
+      "ipa": "rˈost",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-2",
+      "l2": "инфляция",
+      "en": "inflation",
+      "gloss": {
+        "en": "inflation",
+        "es": "inflación",
+        "ru": "инфляция"
+      },
+      "example": "Инфляция оказывает давление на покупательную способность, особенно для домохозяйств с низкими доходами.",
+      "ipa": "infljatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-ekonomika-b2-3",
+      "l2": "безработица",
+      "en": "unemployment",
+      "gloss": {
+        "en": "unemployment",
+        "es": "desempleo",
+        "ru": "безработица"
+      },
+      "example": "Безработица среди молодежи остается выше, чем в среднем по стране.",
+      "ipa": "bjezrabotˈitsa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-ekonomika-b2-4",
+      "l2": "рынок",
+      "en": "market",
+      "gloss": {
+        "en": "market",
+        "es": "mercado",
+        "ru": "рынок"
+      },
+      "example": "Рынок труда ужесточается, но в некоторых секторах не хватает рабочих рук.",
+      "ipa": "rˈɨnok",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-5",
+      "l2": "инвестиции",
+      "en": "investment",
+      "gloss": {
+        "en": "investment",
+        "es": "inversión",
+        "ru": "инвестиции"
+      },
+      "example": "Государственные инвестиции в инфраструктуру могут оживить активность.",
+      "ipa": "invjestitsˈii",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-6",
+      "l2": "ВВП",
+      "en": "GDP",
+      "gloss": {
+        "en": "GDP",
+        "es": "PIB",
+        "ru": "ВВП"
+      },
+      "example": "ВВП упал во втором квартале, что усилило опасения о рецессии.",
+      "ipa": "vvp",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-7",
+      "l2": "рецессия",
+      "en": "recession",
+      "gloss": {
+        "en": "recession",
+        "es": "recesión",
+        "ru": "рецессия"
+      },
+      "example": "Технический спад не обязательно означает длительный социальный кризис.",
+      "ipa": "rjetsjessˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-ekonomika-b2-8",
+      "l2": "долг",
+      "en": "debt",
+      "gloss": {
+        "en": "debt",
+        "es": "deuda",
+        "ru": "долг"
+      },
+      "example": "Государственный долг увеличился, чтобы государство могло поддержать бизнес.",
+      "ipa": "dˈolɡ",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-9",
+      "l2": "покупательная способность",
+      "en": "purchasing power",
+      "gloss": {
+        "en": "purchasing power",
+        "es": "poder adquisitivo",
+        "ru": "покупательная способность"
+      },
+      "example": "Покупательная способность стагнирует, несмотря на небольшое восстановление темпов роста.",
+      "ipa": "pokupatjelʲnaja sposˈobnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-10",
+      "l2": "экономический климат",
+      "en": "economic climate",
+      "gloss": {
+        "en": "economic climate",
+        "es": "clima económico",
+        "ru": "экономический климат"
+      },
+      "example": "Международная ситуация важнее, чем краткосрочные национальные меры.",
+      "ipa": "ɛkonomitɕjeskij klˈimat",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-11",
+      "l2": "поставлять",
+      "en": "supply",
+      "gloss": {
+        "en": "supply",
+        "es": "suministrar",
+        "ru": "поставлять"
+      },
+      "example": "Предложение жилья не поспевает за спросом в крупных мегаполисах.",
+      "ipa": "postˈavljatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-12",
+      "l2": "требовать",
+      "en": "demand",
+      "gloss": {
+        "en": "demand",
+        "es": "demanda",
+        "ru": "требовать"
+      },
+      "example": "Когда спрос сокращается, компании откладывают прием на работу.",
+      "ipa": "trjebˈovatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-13",
+      "l2": "ставка",
+      "en": "rate",
+      "gloss": {
+        "en": "rate",
+        "es": "tasa",
+        "ru": "ставка"
+      },
+      "example": "Процентная ставка была повышена, чтобы обуздать устойчивую инфляцию.",
+      "ipa": "stˈavka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-ekonomika-b2-14",
+      "l2": "дефицит",
+      "en": "deficit",
+      "gloss": {
+        "en": "deficit",
+        "es": "déficit",
+        "ru": "дефицит"
+      },
+      "example": "Дефицит бюджета увеличивается, однако правительство отказывается от жесткой экономии.",
+      "ipa": "djefˈitsit",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-15",
+      "l2": "акционер",
+      "en": "shareholder",
+      "gloss": {
+        "en": "shareholder",
+        "es": "accionista",
+        "ru": "акционер"
+      },
+      "example": "Акционеры требуют доходности, которую руководство считает слишком высокой.",
+      "ipa": "aktsˈionjer",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-16",
+      "l2": "бюджет",
+      "en": "budget",
+      "gloss": {
+        "en": "budget",
+        "es": "presupuesto",
+        "ru": "бюджет"
+      },
+      "example": "Бюджет следующего года должен будет сбалансировать экологический переход и покупательную способность.",
+      "ipa": "bjˈudʐjet",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-17",
+      "l2": "экспорт",
+      "en": "export",
+      "gloss": {
+        "en": "export",
+        "es": "exportar",
+        "ru": "экспорт"
+      },
+      "example": "Экспорт сохранился, но внутреннее потребление исчерпало себя.",
+      "ipa": "ˈɛksport",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekonomika-b2-18",
+      "l2": "соревнование",
+      "en": "competition",
+      "gloss": {
+        "en": "competition",
+        "es": "competencia",
+        "ru": "соревнование"
+      },
+      "example": "Международная конкуренция подталкивает производителей к более быстрому внедрению инноваций.",
+      "ipa": "sorjevnovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-ekonomika-b2-19",
+      "l2": "налогообложение",
+      "en": "taxation",
+      "gloss": {
+        "en": "taxation",
+        "es": "impuestos",
+        "ru": "налогообложение"
+      },
+      "example": "Более прогрессивная налоговая система могла бы исправить часть неравенства.",
+      "ipa": "naloɡooblˈoʐjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-ekonomika-b2-20",
+      "l2": "индикатор",
+      "en": "indicator",
+      "gloss": {
+        "en": "indicator",
+        "es": "indicador",
+        "ru": "индикатор"
+      },
+      "example": "Этот опережающий индикатор предполагает разворот на рынке труда.",
+      "ipa": "indikˈator",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-ekonomika-b2-phrase-1",
+      "l2": "Если инфляция сохранится, покупательная способность снизится еще больше.",
+      "en": "If inflation persisted, purchasing power would fall even further.",
+      "gloss": {
+        "en": "If inflation persisted, purchasing power would fall even further.",
+        "es": "Si la inflación persistiera, el poder adquisitivo caería aún más.",
+        "ru": "Если инфляция сохранится, покупательная способность упадет еще больше."
+      },
+      "ipa": "jeslˈi infljatsˈija soxranˈitsja pokupatjelʲnˈaja sposˈobnostʲ snizˈitsja jeɕːje bˈolʲʂje"
+    },
+    {
+      "id": "remote-ekonomika-b2-phrase-2",
+      "l2": "Экономический рост ускоряется, но безработица среди молодежи остается проблемой.",
+      "en": "Growth is picking up; however youth unemployment remains worrying.",
+      "gloss": {
+        "en": "Growth is picking up; however youth unemployment remains worrying.",
+        "es": "El crecimiento está repuntando; Sin embargo, el desempleo juvenil sigue siendo preocupante.",
+        "ru": "Рост ускоряется; однако безработица среди молодежи по-прежнему вызывает тревогу."
+      },
+      "ipa": "ɛkonomˈitɕjeskij rˈost uskorjˈajetsja nˈo bjezrabotˈitsa srjedˈi molˈodjeʐi ostˈajetsja prˈobljemoj"
+    },
+    {
+      "id": "remote-ekonomika-b2-phrase-3",
+      "l2": "Желательно, чтобы государственные инвестиции были нацелены на отрасли будущего.",
+      "en": "It is desirable that public investment target future-oriented sectors.",
+      "gloss": {
+        "en": "It is desirable that public investment target future-oriented sectors.",
+        "es": "Es deseable que la inversión pública se dirija a sectores orientados al futuro.",
+        "ru": "Желательно, чтобы государственные инвестиции были нацелены на сектора, ориентированные на будущее."
+      },
+      "ipa": "ʐjelˈatjelʲno tɕtˈobɨ ɡosudˈarstvjennɨje invjestitsˈii bˈɨli nˈatsjeljenɨ nˈa otrˈasli budˈuɕːjeɡo"
+    },
+    {
+      "id": "remote-ekonomika-b2-phrase-4",
+      "l2": "С другой стороны, чрезмерно резкое повышение ставок может привести к удушению спроса.",
+      "en": "By contrast, too sharp a rise in rates would risk stifling demand.",
+      "gloss": {
+        "en": "By contrast, too sharp a rise in rates would risk stifling demand.",
+        "es": "Por el contrario, un aumento demasiado pronunciado de las tasas correría el riesgo de sofocar la demanda.",
+        "ru": "Напротив, слишком резкое повышение ставок может привести к удушению спроса."
+      },
+      "ipa": "s drˈuɡoj storˈonɨ tɕrjezmjernˈo rjezkˈoje povˈɨʂjenije stˈavok mˈoʐjet prˈivjesti k uduʂjenˈiju sprˈosa"
+    },
+    {
+      "id": "remote-ekonomika-b2-phrase-5",
+      "l2": "Хотя ВВП немного увеличился, многие домохозяйства этого не ощущают.",
+      "en": "Although GDP has risen slightly, many households do not feel it.",
+      "gloss": {
+        "en": "Although GDP has risen slightly, many households do not feel it.",
+        "es": "Aunque el PIB ha aumentado ligeramente, muchos hogares no lo notan.",
+        "ru": "Хотя ВВП немного вырос, многие домохозяйства этого не ощущают."
+      },
+      "ipa": "xˈotja vvp njemnˈoɡo uvjelitɕˈilsja mnˈoɡije domoxozjˈajstva ɛtˈoɡo nje oɕːuɕːˈajut"
+    },
+    {
+      "id": "remote-ekonomika-b2-phrase-6",
+      "l2": "Можно возразить, что долг сегодня финансирует завтрашнюю деятельность.",
+      "en": "One might object that debt is financing tomorrow’s activity today.",
+      "gloss": {
+        "en": "One might object that debt is financing tomorrow’s activity today.",
+        "es": "Se podría objetar que la deuda financia hoy la actividad de mañana.",
+        "ru": "Кто-то может возразить, что долг сегодня финансирует завтрашнюю деятельность."
+      },
+      "ipa": "mˈoʐno vozrˈazitʲ tɕtˈo dˈolɡ sjeɡˈodnja finansˈirujet zavtraʂnjˈuju djejˈatjelʲnostʲ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-ekonomika-b2-listen-1",
+      "l2": "Инфляция оказывает давление на покупательную способность домохозяйств с низкими доходами.",
+      "en": "Inflation is weighing on the purchasing power of modest households.",
+      "gloss": {
+        "en": "Inflation is weighing on the purchasing power of modest households.",
+        "es": "La inflación está pesando sobre el poder adquisitivo de los hogares modestos.",
+        "ru": "Инфляция оказывает давление на покупательную способность скромных домохозяйств."
+      },
+      "word": "инфляция",
+      "wordEn": "inflation",
+      "wordGloss": {
+        "en": "inflation",
+        "es": "inflación",
+        "ru": "инфляция"
+      },
+      "wordIpa": "infljatsˈija",
+      "distractors": [
+        "рост",
+        "рецессия",
+        "экономический климат"
+      ]
+    },
+    {
+      "id": "remote-ekonomika-b2-listen-2",
+      "l2": "Безработица среди молодежи остается выше среднего уровня.",
+      "en": "Youth unemployment remains higher than the average.",
+      "gloss": {
+        "en": "Youth unemployment remains higher than the average.",
+        "es": "El desempleo juvenil sigue siendo superior a la media.",
+        "ru": "Безработица среди молодежи остается выше среднего уровня."
+      },
+      "word": "безработица",
+      "wordEn": "unemployment",
+      "wordGloss": {
+        "en": "unemployment",
+        "es": "desempleo",
+        "ru": "безработица"
+      },
+      "wordIpa": "bjezrabotˈitsa",
+      "distractors": [
+        "дефицит",
+        "ставка",
+        "индикатор"
+      ]
+    },
+    {
+      "id": "remote-ekonomika-b2-listen-3",
+      "l2": "Государственные инвестиции в инфраструктуру могут оживить активность.",
+      "en": "Public investment in infrastructure could revive activity.",
+      "gloss": {
+        "en": "Public investment in infrastructure could revive activity.",
+        "es": "La inversión pública en infraestructura podría reactivar la actividad.",
+        "ru": "Государственные инвестиции в инфраструктуру могут оживить активность."
+      },
+      "word": "инвестиции",
+      "wordEn": "investment",
+      "wordGloss": {
+        "en": "investment",
+        "es": "inversión",
+        "ru": "инвестиции"
+      },
+      "wordIpa": "invjestitsˈii",
+      "distractors": [
+        "экспорт",
+        "бюджет",
+        "налогообложение"
+      ]
+    },
+    {
+      "id": "remote-ekonomika-b2-listen-4",
+      "l2": "Рынок труда сжимается в нескольких секторах.",
+      "en": "The job market is tightening in several sectors.",
+      "gloss": {
+        "en": "The job market is tightening in several sectors.",
+        "es": "El mercado laboral se está ajustando en varios sectores.",
+        "ru": "Рынок труда сжимается в нескольких секторах."
+      },
+      "word": "рынок",
+      "wordEn": "market",
+      "wordGloss": {
+        "en": "market",
+        "es": "mercado",
+        "ru": "рынок"
+      },
+      "wordIpa": "rˈɨnok",
+      "distractors": [
+        "соревнование",
+        "акционер",
+        "поставлять"
+      ]
+    }
+  ],
+  "prompts": [
+    "Инфляция тревожит больше, чем безработица? Обоснуйте свое мнение.",
+    "Сравнивает политику восстановления и политику жесткой экономии.",
+    "По вашему мнению, достаточен ли экономический рост для повышения покупательной способности?",
+    "Если бы вам пришлось принимать решение о бюджете, что бы вы поставили в приоритет и почему?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-ekonomika-b2-grammar-1",
+      "title": {
+        "fr": "Instrumental (кем / чем)",
+        "en": "Instrumental case (кем / чем)",
+        "es": "Caso instrumental (кем / чем)",
+        "ru": "Творительный падеж (кем / чем)"
+      },
+      "rule": {
+        "fr": "Творительный marque le moyen, l’accompagnement ou le prédicat (стать врачом).",
+        "en": "Instrumental marks means, company, or predicate nouns (стать врачом).",
+        "es": "El instrumental marca medio, compañía o predicado (стать врачом).",
+        "ru": "Творительный обозначает средство, совместность или предикатив (стать врачом)."
+      },
+      "why": {
+        "en": "Needed for professions, tools, and «with».",
+        "es": "Necesario para profesiones, herramientas y «con».",
+        "ru": "Нужен для профессий, инструментов и значения «с»."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "чем",
+          "средство",
+          "Пишу ручкой / говорю о инфляция."
+        ],
+        [
+          "кем",
+          "профессия",
+          "Он стал врачом."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ekonomika-b2-gq-1-1",
+          "prompt": "Стать врачом — ___ падеж.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "родительный",
+            "винительный"
+          ]
+        },
+        {
+          "id": "remote-ekonomika-b2-gq-1-2",
+          "prompt": "Я пишу ___ . (карандаш)",
+          "answer": "карандашом",
+          "options": [
+            "карандашом",
+            "карандаш",
+            "карандаша"
+          ]
+        },
+        {
+          "id": "remote-ekonomika-b2-gq-1-3",
+          "prompt": "Тема «инфляция» часто требует предложных конструкций.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "именительный",
+            "звательный"
+          ]
+        },
+        {
+          "id": "remote-ekonomika-b2-gq-1-4",
+          "prompt": "Свяжите с темой: инфляция / инвестиции. Род «инфляция»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-ekonomika-b2-gq-1-5",
+          "prompt": "Свяжите с темой: инфляция / инвестиции. Род «инфляция»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-ekonomika-b2-grammar-2",
+      "title": {
+        "fr": "Aspect perfectif / imperfectif",
+        "en": "Perfective / imperfective aspect",
+        "es": "Aspecto perfectivo / imperfectivo",
+        "ru": "Вид глагола: совершенный / несовершенный"
+      },
+      "rule": {
+        "fr": "Imperfectif = processus / habitude ; perfectif = résultat achevé.",
+        "en": "Imperfective = process / habit; perfective = completed result.",
+        "es": "Imperfectivo = proceso / hábito; perfectivo = resultado terminado.",
+        "ru": "Несовершенный — процесс / привычка; совершенный — завершённый результат."
+      },
+      "why": {
+        "en": "Aspect is central to natural Russian storytelling.",
+        "es": "El aspecto es central en la narración rusa natural.",
+        "ru": "Вид — ключ к естественному русскому рассказу."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "НСВ",
+          "процесс / привычка",
+          "Я читал книгу час."
+        ],
+        [
+          "СВ",
+          "результат",
+          "Я прочитал книгу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ekonomika-b2-gq-2-1",
+          "prompt": "Результат: я ___ книгу. (прочитать)",
+          "answer": "прочитал",
+          "options": [
+            "прочитал",
+            "читал",
+            "буду читать"
+          ]
+        },
+        {
+          "id": "remote-ekonomika-b2-gq-2-2",
+          "prompt": "Процесс: я долго ___ . (читать)",
+          "answer": "читал",
+          "options": [
+            "читал",
+            "прочитал",
+            "прочту"
+          ]
+        },
+        {
+          "id": "remote-ekonomika-b2-gq-2-3",
+          "prompt": "Привычка обычно выражается ___ видом.",
+          "answer": "несовершенным",
+          "options": [
+            "несовершенным",
+            "совершенным",
+            "будущим"
+          ]
+        },
+        {
+          "id": "remote-ekonomika-b2-gq-2-4",
+          "prompt": "Свяжите с темой: безработица / ВВП. Род «безработица»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-ekonomika-b2-gq-2-5",
+          "prompt": "Свяжите с темой: безработица / ВВП. Род «безработица»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-ekonomika-b2-dict-1",
+        "l2": "Если инфляция сохранится, покупательная способность снизится еще больше.",
+        "en": "If inflation persisted, purchasing power would fall even further.",
+        "gloss": {
+          "en": "If inflation persisted, purchasing power would fall even further.",
+          "es": "Si la inflación persistiera, el poder adquisitivo caería aún más.",
+          "ru": "Если инфляция сохранится, покупательная способность упадет еще больше."
+        },
+        "ipa": "jeslˈi infljatsˈija soxranˈitsja pokupatjelʲnˈaja sposˈobnostʲ snizˈitsja jeɕːje bˈolʲʂje"
+      },
+      {
+        "id": "remote-ekonomika-b2-dict-2",
+        "l2": "Экономический рост ускоряется, но безработица среди молодежи остается проблемой.",
+        "en": "Growth is picking up; however youth unemployment remains worrying.",
+        "gloss": {
+          "en": "Growth is picking up; however youth unemployment remains worrying.",
+          "es": "El crecimiento está repuntando; Sin embargo, el desempleo juvenil sigue siendo preocupante.",
+          "ru": "Рост ускоряется; однако безработица среди молодежи по-прежнему вызывает тревогу."
+        },
+        "ipa": "ɛkonomˈitɕjeskij rˈost uskorjˈajetsja nˈo bjezrabotˈitsa srjedˈi molˈodjeʐi ostˈajetsja prˈobljemoj"
+      },
+      {
+        "id": "remote-ekonomika-b2-dict-3",
+        "l2": "Желательно, чтобы государственные инвестиции были нацелены на отрасли будущего.",
+        "en": "It is desirable that public investment target future-oriented sectors.",
+        "gloss": {
+          "en": "It is desirable that public investment target future-oriented sectors.",
+          "es": "Es deseable que la inversión pública se dirija a sectores orientados al futuro.",
+          "ru": "Желательно, чтобы государственные инвестиции были нацелены на сектора, ориентированные на будущее."
+        },
+        "ipa": "ʐjelˈatjelʲno tɕtˈobɨ ɡosudˈarstvjennɨje invjestitsˈii bˈɨli nˈatsjeljenɨ nˈa otrˈasli budˈuɕːjeɡo"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-ekonomika-b2-mean-1",
+        "l2": "Если инфляция сохранится, покупательная способность снизится еще больше.",
+        "en": "If inflation persisted, purchasing power would fall even further.",
+        "gloss": {
+          "en": "If inflation persisted, purchasing power would fall even further.",
+          "es": "Si la inflación persistiera, el poder adquisitivo caería aún más.",
+          "ru": "Если инфляция сохранится, покупательная способность упадет еще больше."
+        }
+      },
+      {
+        "id": "remote-ekonomika-b2-mean-2",
+        "l2": "Экономический рост ускоряется, но безработица среди молодежи остается проблемой.",
+        "en": "Growth is picking up; however youth unemployment remains worrying.",
+        "gloss": {
+          "en": "Growth is picking up; however youth unemployment remains worrying.",
+          "es": "El crecimiento está repuntando; Sin embargo, el desempleo juvenil sigue siendo preocupante.",
+          "ru": "Рост ускоряется; однако безработица среди молодежи по-прежнему вызывает тревогу."
+        }
+      },
+      {
+        "id": "remote-ekonomika-b2-mean-3",
+        "l2": "Желательно, чтобы государственные инвестиции были нацелены на отрасли будущего.",
+        "en": "It is desirable that public investment target future-oriented sectors.",
+        "gloss": {
+          "en": "It is desirable that public investment target future-oriented sectors.",
+          "es": "Es deseable que la inversión pública se dirija a sectores orientados al futuro.",
+          "ru": "Желательно, чтобы государственные инвестиции были нацелены на сектора, ориентированные на будущее."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-ekonomika-b2-fren-1",
+        "l2": "рост",
+        "en": "growth",
+        "gloss": {
+          "en": "growth",
+          "es": "crecimiento",
+          "ru": "рост"
+        }
+      },
+      {
+        "id": "remote-ekonomika-b2-fren-2",
+        "l2": "инфляция",
+        "en": "inflation",
+        "gloss": {
+          "en": "inflation",
+          "es": "inflación",
+          "ru": "инфляция"
+        }
+      },
+      {
+        "id": "remote-ekonomika-b2-fren-3",
+        "l2": "безработица",
+        "en": "unemployment",
+        "gloss": {
+          "en": "unemployment",
+          "es": "desempleo",
+          "ru": "безработица"
+        }
+      },
+      {
+        "id": "remote-ekonomika-b2-fren-4",
+        "l2": "рынок",
+        "en": "market",
+        "gloss": {
+          "en": "market",
+          "es": "mercado",
+          "ru": "рынок"
+        }
+      },
+      {
+        "id": "remote-ekonomika-b2-fren-5",
+        "l2": "инвестиции",
+        "en": "investment",
+        "gloss": {
+          "en": "investment",
+          "es": "inversión",
+          "ru": "инвестиции"
+        }
+      },
+      {
+        "id": "remote-ekonomika-b2-fren-6",
+        "l2": "ВВП",
+        "en": "GDP",
+        "gloss": {
+          "en": "GDP",
+          "es": "PIB",
+          "ru": "ВВП"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-ekonomika-b2-alou-1",
+        "l2": "Если инфляция сохранится, покупательная способность снизится еще больше.",
+        "en": "If inflation persisted, purchasing power would fall even further.",
+        "gloss": {
+          "en": "If inflation persisted, purchasing power would fall even further.",
+          "es": "Si la inflación persistiera, el poder adquisitivo caería aún más.",
+          "ru": "Если инфляция сохранится, покупательная способность упадет еще больше."
+        },
+        "ipa": "jeslˈi infljatsˈija soxranˈitsja pokupatjelʲnˈaja sposˈobnostʲ snizˈitsja jeɕːje bˈolʲʂje"
+      },
+      {
+        "id": "remote-ekonomika-b2-alou-2",
+        "l2": "Желательно, чтобы государственные инвестиции были нацелены на отрасли будущего.",
+        "en": "It is desirable that public investment target future-oriented sectors.",
+        "gloss": {
+          "en": "It is desirable that public investment target future-oriented sectors.",
+          "es": "Es deseable que la inversión pública se dirija a sectores orientados al futuro.",
+          "ru": "Желательно, чтобы государственные инвестиции были нацелены на сектора, ориентированные на будущее."
+        },
+        "ipa": "ʐjelˈatjelʲno tɕtˈobɨ ɡosudˈarstvjennɨje invjestitsˈii bˈɨli nˈatsjeljenɨ nˈa otrˈasli budˈuɕːjeɡo"
+      },
+      {
+        "id": "remote-ekonomika-b2-alou-3",
+        "l2": "Хотя ВВП немного увеличился, многие домохозяйства этого не ощущают.",
+        "en": "Although GDP has risen slightly, many households do not feel it.",
+        "gloss": {
+          "en": "Although GDP has risen slightly, many households do not feel it.",
+          "es": "Aunque el PIB ha aumentado ligeramente, muchos hogares no lo notan.",
+          "ru": "Хотя ВВП немного вырос, многие домохозяйства этого не ощущают."
+        },
+        "ipa": "xˈotja vvp njemnˈoɡo uvjelitɕˈilsja mnˈoɡije domoxozjˈajstva ɛtˈoɡo nje oɕːuɕːˈajut"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-ekonomika-b2-unsc-1",
+        "l2": "Инфляция оказывает давление на покупательную способность, особенно для домохозяйств с низкими доходами.",
+        "en": "Inflation is weighing on purchasing power, especially for modest households.",
+        "gloss": {
+          "en": "Inflation is weighing on purchasing power, especially for modest households.",
+          "es": "La inflación está pesando sobre el poder adquisitivo, especialmente para los hogares modestos.",
+          "ru": "Инфляция оказывает давление на покупательную способность, особенно для скромных домохозяйств."
+        },
+        "words": [
+          "Инфляция",
+          "оказывает",
+          "давление",
+          "на",
+          "покупательную",
+          "способность,",
+          "особенно",
+          "для",
+          "домохозяйств",
+          "с",
+          "низкими",
+          "доходами."
+        ]
+      },
+      {
+        "id": "remote-ekonomika-b2-unsc-2",
+        "l2": "Безработица среди молодежи остается выше, чем в среднем по стране.",
+        "en": "Youth unemployment remains higher than the national average.",
+        "gloss": {
+          "en": "Youth unemployment remains higher than the national average.",
+          "es": "El desempleo juvenil sigue siendo superior al promedio nacional.",
+          "ru": "Безработица среди молодежи остается выше, чем в среднем по стране."
+        },
+        "words": [
+          "Безработица",
+          "среди",
+          "молодежи",
+          "остается",
+          "выше,",
+          "чем",
+          "в",
+          "среднем",
+          "по",
+          "стране."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

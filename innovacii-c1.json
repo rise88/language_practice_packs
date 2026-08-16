@@ -1,0 +1,841 @@
+{
+  "pratiquePack": 2,
+  "id": "innovacii-c1",
+  "version": 1,
+  "level": "c1",
+  "lang": "ru",
+  "title": {
+    "fr": "Innovation et recherche C1 (RU)",
+    "en": "Innovation and research C1 (RU)",
+    "es": "Innovación e investigación C1 (RU)",
+    "ru": "Инновации и исследования C1"
+  },
+  "description": {
+    "fr": "Disruption, prototype, brevet, passage à l’échelle et recherche-développement — pack russe.",
+    "en": "Disruption, prototypes, patents, scaling, and R&D — Russian pack.",
+    "es": "Disrupción, prototipos, patentes, escalamiento e I+D — paquete ruso.",
+    "ru": "Прорывы, прототипы, патенты, масштабирование и исследования и разработки — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-innovacii-c1-1",
+      "l2": "нарушение",
+      "en": "disruption",
+      "gloss": {
+        "en": "disruption",
+        "es": "ruptura",
+        "ru": "нарушение"
+      },
+      "example": "Нарушение, которым мы злоупотребляем как ярлыком, означает перерыв в использовании, а не простое постепенное улучшение.",
+      "ipa": "narˈuʂjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-innovacii-c1-2",
+      "l2": "прототип",
+      "en": "prototype",
+      "gloss": {
+        "en": "prototype",
+        "es": "prototipo",
+        "ru": "прототип"
+      },
+      "example": "Прототип, хотя и убедительный в лабораторных условиях, никоим образом не предопределяет возможность масштабирования.",
+      "ipa": "protˈotip",
+      "article": "м"
+    },
+    {
+      "id": "remote-innovacii-c1-3",
+      "l2": "патент",
+      "en": "patent",
+      "gloss": {
+        "en": "patent",
+        "es": "patentar",
+        "ru": "патент"
+      },
+      "example": "Патент не только не гарантирует инноваций, но и может заморозить что-то общее, что стало доступным в результате государственных исследований.",
+      "ipa": "pˈatjent",
+      "article": "м"
+    },
+    {
+      "id": "remote-innovacii-c1-4",
+      "l2": "масштабирование",
+      "en": "scaling",
+      "gloss": {
+        "en": "scaling",
+        "es": "escalada",
+        "ru": "масштабирование"
+      },
+      "example": "Масштабирование, даже если оно означает искажение прототипа, налагает компромиссы, которых не предвидело доказательство концепции.",
+      "ipa": "masʂtabirovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-innovacii-c1-5",
+      "l2": "исследования",
+      "en": "research / R&D",
+      "gloss": {
+        "en": "research / R&D",
+        "es": "investigación / I+D",
+        "ru": "исследования / НИОКР"
+      },
+      "example": "Исследования и разработки, если они не поддерживаются экосистемой, остаются затратами, которые невозможно сделать прибыльными только за счет нарушений.",
+      "ipa": "issljedovanˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-innovacii-c1-6",
+      "l2": "инкубатор",
+      "en": "incubator",
+      "gloss": {
+        "en": "incubator",
+        "es": "incubadora",
+        "ru": "инкубатор"
+      },
+      "example": "Инкубатор, рассадник которого подпитывает выделение, является лишь рычагом, если переход к промышленности действительно структурирован.",
+      "ipa": "inkubˈator",
+      "article": "м"
+    },
+    {
+      "id": "remote-innovacii-c1-7",
+      "l2": "передача технологий",
+      "en": "technology transfer",
+      "gloss": {
+        "en": "technology transfer",
+        "es": "transferencia de tecnología",
+        "ru": "передача технологий"
+      },
+      "example": "Передача технологий, хотя и приветствуется, сталкивается с интеллектуальной собственностью и организационной культурой.",
+      "ipa": "pjerjedatɕa tjexnolˈoɡij",
+      "article": "м"
+    },
+    {
+      "id": "remote-innovacii-c1-8",
+      "l2": "итерация",
+      "en": "iteration",
+      "gloss": {
+        "en": "iteration",
+        "es": "iteración",
+        "ru": "итерация"
+      },
+      "example": "Быстрая итерация не только не обходится без методологии, но и совершенствует прототип при условии, что критерии остаются явными.",
+      "ipa": "itjeratsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-innovacii-c1-9",
+      "l2": "осуществимость",
+      "en": "feasibility",
+      "gloss": {
+        "en": "feasibility",
+        "es": "factibilidad",
+        "ru": "осуществимость"
+      },
+      "example": "Осуществимость, даже если это означает уничтожение героической истории, должна быть проверена до того, как будет выделено финансирование.",
+      "ipa": "osuɕːjestvˈimostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-innovacii-c1-10",
+      "l2": "дополнительная выгода",
+      "en": "spin-off",
+      "gloss": {
+        "en": "spin-off",
+        "es": "escindir",
+        "ru": "дополнительная выгода"
+      },
+      "example": "Выделение, если только лаборатория не сохраняет мандат, иногда снижает оценку в пользу коммерческого поворота.",
+      "ipa": "dopolnitjelʲnaja vɨɡˈoda",
+      "article": "ж"
+    },
+    {
+      "id": "remote-innovacii-c1-11",
+      "l2": "консорциум",
+      "en": "consortium",
+      "gloss": {
+        "en": "consortium",
+        "es": "consorcio",
+        "ru": "консорциум"
+      },
+      "example": "Консорциум, управление которым размывает патенты, тем не менее позволяет проводить эксперименты, которые ни одна фирма не стала бы проводить в одиночку.",
+      "ipa": "konsortsˈium",
+      "article": "м"
+    },
+    {
+      "id": "remote-innovacii-c1-12",
+      "l2": "интеллектуальная собственность",
+      "en": "intellectual property",
+      "gloss": {
+        "en": "intellectual property",
+        "es": "propiedad intelectual",
+        "ru": "интеллектуальная собственность"
+      },
+      "example": "Интеллектуальная собственность, хотя и защищает инвестиции, может препятствовать открытой передаче, от которой зависит экосистема.",
+      "ipa": "intjelljektualʲnaja sˈobstvjennostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-innovacii-c1-13",
+      "l2": "стартовое финансирование",
+      "en": "seed funding",
+      "gloss": {
+        "en": "seed funding",
+        "es": "financiación inicial",
+        "ru": "стартовое финансирование"
+      },
+      "example": "Начальное значение не только не подтверждает произошедший сбой, но и финансирует итерацию, доказательство концепции которой еще предстоит установить.",
+      "ipa": "startovoje finansirovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-innovacii-c1-14",
+      "l2": "вращаться",
+      "en": "pivot",
+      "gloss": {
+        "en": "pivot",
+        "es": "pivote",
+        "ru": "вращаться"
+      },
+      "example": "Поворот, даже если он означает предательство первоначального видения, может стать очевидным следствием осуществимости, которую отрицают в данной области.",
+      "ipa": "vraɕːˈatʲsja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-innovacii-c1-15",
+      "l2": "валоризация",
+      "en": "valorization / tech transfer",
+      "gloss": {
+        "en": "valorization / tech transfer",
+        "es": "valorización / transferencia de tecnología",
+        "ru": "валоризация/передача технологий"
+      },
+      "example": "Повышение ценности исследований, если только они не сводятся к подаче патентных заявок, также включает нерыночную передачу знаний.",
+      "ipa": "valorizatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-innovacii-c1-16",
+      "l2": "лаборатория",
+      "en": "laboratory",
+      "gloss": {
+        "en": "laboratory",
+        "es": "laboratorio",
+        "ru": "лаборатория"
+      },
+      "example": "Лаборатория, где эксперимент предшествует прототипу, остается местом, где гипотезу еще можно опровергнуть.",
+      "ipa": "laboratorˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-innovacii-c1-17",
+      "l2": "экспериментирование",
+      "en": "experimentation",
+      "gloss": {
+        "en": "experimentation",
+        "es": "experimentación",
+        "ru": "экспериментирование"
+      },
+      "example": "Эксперимент, хотя и контролируемый, не позволяет нам утверждать, что увеличение масштаба воспроизведет те же эффекты.",
+      "ipa": "ɛkspjerimjentirovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-innovacii-c1-18",
+      "l2": "прорыв",
+      "en": "breakthrough / rupture",
+      "gloss": {
+        "en": "breakthrough / rupture",
+        "es": "avance / ruptura",
+        "ru": "прорыв / разрыв"
+      },
+      "example": "Технологический прорыв вовсе не возникает ex nihilo, а основан на накоплении итераций, которые скрываются за повествованием о прорыве.",
+      "ipa": "prˈorɨv",
+      "article": "м"
+    },
+    {
+      "id": "remote-innovacii-c1-19",
+      "l2": "экосистема",
+      "en": "ecosystem",
+      "gloss": {
+        "en": "ecosystem",
+        "es": "ecosistema",
+        "ru": "экосистема"
+      },
+      "example": "Инновационная экосистема, даже если она кажется спонтанной, зависит от государственного управления исследованиями и их передачей.",
+      "ipa": "ɛkosˈistjema",
+      "article": "ж"
+    },
+    {
+      "id": "remote-innovacii-c1-20",
+      "l2": "доказательство концепции",
+      "en": "proof of concept",
+      "gloss": {
+        "en": "proof of concept",
+        "es": "prueba de concepto",
+        "ru": "доказательство концепции"
+      },
+      "example": "Доказательство концепции, если оно не воспроизведено независимо, само по себе не может оправдать массовую начальную загрузку.",
+      "ipa": "dokazatjelʲstvo kontsjeptsˈii",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-innovacii-c1-phrase-1",
+      "l2": "Хотя прототип убедителен, возможность масштабирования остается открытой.",
+      "en": "Even though the prototype is convincing, the feasibility of scaling remains open.",
+      "gloss": {
+        "en": "Even though the prototype is convincing, the feasibility of scaling remains open.",
+        "es": "Aunque el prototipo es convincente, la viabilidad de ampliarlo sigue abierta.",
+        "ru": "Несмотря на то, что прототип убедителен, возможность масштабирования остается открытой."
+      },
+      "ipa": "xˈotja protˈotip ˈubjeditjeljen vozmˈoʐnostʲ masʂtabirovanˈija ostˈajetsja otkrˈɨtoj"
+    },
+    {
+      "id": "remote-innovacii-c1-phrase-2",
+      "l2": "Патент не только не гарантирует инноваций, но и может заморозить что-то уже доступное.",
+      "en": "Far from guaranteeing innovation, the patent can freeze a commons already available.",
+      "gloss": {
+        "en": "Far from guaranteeing innovation, the patent can freeze a commons already available.",
+        "es": "Lejos de garantizar la innovación, la patente puede congelar un bien común ya disponible.",
+        "ru": "Патент не только не гарантирует инноваций, но и может заморозить уже имеющееся достояние."
+      },
+      "ipa": "pˈatjent nje tˈolʲko nje ɡarantˈirujet innovˈatsij nˈo ˈi mˈoʐjet zamorˈozitʲ tɕtˈo tˈo"
+    },
+    {
+      "id": "remote-innovacii-c1-phrase-3",
+      "l2": "Если подтверждение концепции не будет воспроизведено, прайминг останется спекулятивным.",
+      "en": "Unless the proof of concept is reproduced, seed funding will remain speculative.",
+      "gloss": {
+        "en": "Unless the proof of concept is reproduced, seed funding will remain speculative.",
+        "es": "A menos que se reproduzca la prueba de concepto, la financiación inicial seguirá siendo especulativa.",
+        "ru": "Если не будет воспроизведено доказательство концепции, начальное финансирование останется спекулятивным."
+      },
+      "ipa": "jeslˈi pˈodtvjerʐdjenije kontsjeptsˈii nje bˈudjet vosproˈizvjedjeno prˈajminɡ ostˈanjetsja spjekuljatˈivnɨm"
+    },
+    {
+      "id": "remote-innovacii-c1-phrase-4",
+      "l2": "Даже если это означает искажение прототипа, масштабирование требует беспрецедентных компромиссов.",
+      "en": "Even if it distorts the prototype, scaling imposes unprecedented trade-offs.",
+      "gloss": {
+        "en": "Even if it distorts the prototype, scaling imposes unprecedented trade-offs.",
+        "es": "Incluso si distorsiona el prototipo, la ampliación impone compensaciones sin precedentes.",
+        "ru": "Даже если масштабирование искажает прототип, оно влечет за собой беспрецедентные компромиссы."
+      },
+      "ipa": "dˈaʐje jeslˈi ˈɛto oznˈatɕajet iskˈaʐjenije prototˈipa masʂtabirovˈanije trjebˈujet bjesprjetsjedjentnˈɨx kompromˈissov"
+    },
+    {
+      "id": "remote-innovacii-c1-phrase-5",
+      "l2": "Мы слишком торопимся утверждать, что разрушение предопределено, тогда как оно происходит в ходе итерации.",
+      "en": "People too quickly claim that disruption can be decreed, whereas it is tested through iteration.",
+      "gloss": {
+        "en": "People too quickly claim that disruption can be decreed, whereas it is tested through iteration.",
+        "es": "La gente afirma demasiado rápidamente que la disrupción se puede decretar, mientras que se prueba mediante la iteración.",
+        "ru": "Люди слишком быстро заявляют, что разрушение можно предписать, тогда как оно проверяется путем итерации."
+      },
+      "ipa": "mˈɨ slˈiʂkom toropˈimsja ˈutvjerʐdatʲ tɕtˈo razrˈuʂjenije prjedˈoprjedjeljeno tˈoɡda kˈak ˈono proisxˈodit v"
+    },
+    {
+      "id": "remote-innovacii-c1-phrase-6",
+      "l2": "Передача, оценка которой оспаривается, противоречит интеллектуальной собственности.",
+      "en": "Transfer, whose valorization is contested, runs up against intellectual property.",
+      "gloss": {
+        "en": "Transfer, whose valorization is contested, runs up against intellectual property.",
+        "es": "La transferencia, cuya valoración se cuestiona, choca con la propiedad intelectual.",
+        "ru": "Передача, валоризация которой оспаривается, сталкивается с интеллектуальной собственностью."
+      },
+      "ipa": "pjerjedˈatɕa ˈotsjenka kotˈoroj osparivˈajetsja protivˈorjetɕit intjelljektuˈalʲnoj sobstvjennˈosti"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-innovacii-c1-listen-1",
+      "l2": "Прототип никоим образом не предопределяет возможность масштабирования.",
+      "en": "The prototype in no way prejudges the feasibility of scaling.",
+      "gloss": {
+        "en": "The prototype in no way prejudges the feasibility of scaling.",
+        "es": "El prototipo no prejuzga en modo alguno la viabilidad de su ampliación.",
+        "ru": "Прототип никоим образом не предопределяет возможность масштабирования."
+      },
+      "word": "прототип",
+      "wordEn": "prototype",
+      "wordGloss": {
+        "en": "prototype",
+        "es": "prototipo",
+        "ru": "прототип"
+      },
+      "wordIpa": "protˈotip",
+      "distractors": [
+        "патент",
+        "вращаться",
+        "консорциум"
+      ]
+    },
+    {
+      "id": "remote-innovacii-c1-listen-2",
+      "l2": "Под нарушением понимается перерыв в использовании, а не постепенное улучшение.",
+      "en": "Disruption denotes a break in usage rather than an incremental improvement.",
+      "gloss": {
+        "en": "Disruption denotes a break in usage rather than an incremental improvement.",
+        "es": "La interrupción denota una interrupción en el uso más que una mejora incremental.",
+        "ru": "Нарушение означает перерыв в использовании, а не постепенное улучшение."
+      },
+      "word": "нарушение",
+      "wordEn": "disruption",
+      "wordGloss": {
+        "en": "disruption",
+        "es": "ruptura",
+        "ru": "нарушение"
+      },
+      "wordIpa": "narˈuʂjenije",
+      "distractors": [
+        "итерация",
+        "стартовое финансирование",
+        "дополнительная выгода"
+      ]
+    },
+    {
+      "id": "remote-innovacii-c1-listen-3",
+      "l2": "Патент может заморозить что-то общее, что стало доступным в результате публичных исследований.",
+      "en": "The patent can freeze a commons that public research had made available.",
+      "gloss": {
+        "en": "The patent can freeze a commons that public research had made available.",
+        "es": "La patente puede congelar un bien común que la investigación pública había puesto a disposición.",
+        "ru": "Патент может заморозить достояние, ставшее доступным в результате публичных исследований."
+      },
+      "word": "патент",
+      "wordEn": "patent",
+      "wordGloss": {
+        "en": "patent",
+        "es": "patentar",
+        "ru": "патент"
+      },
+      "wordIpa": "pˈatjent",
+      "distractors": [
+        "инкубатор",
+        "лаборатория",
+        "валоризация"
+      ]
+    },
+    {
+      "id": "remote-innovacii-c1-listen-4",
+      "l2": "Экспериментирование не позволяет утверждать, что шкала воспроизведет те же эффекты.",
+      "en": "Experimentation does not authorize the claim that scale will reproduce the same effects.",
+      "gloss": {
+        "en": "Experimentation does not authorize the claim that scale will reproduce the same effects.",
+        "es": "La experimentación no autoriza la afirmación de que la escala reproducirá los mismos efectos.",
+        "ru": "Эксперименты не подтверждают утверждение, что масштаб будет воспроизводить те же эффекты."
+      },
+      "word": "экспериментирование",
+      "wordEn": "experimentation",
+      "wordGloss": {
+        "en": "experimentation",
+        "es": "experimentación",
+        "ru": "экспериментирование"
+      },
+      "wordIpa": "ɛkspjerimjentirovˈanije",
+      "distractors": [
+        "доказательство концепции",
+        "передача технологий",
+        "экосистема"
+      ]
+    }
+  ],
+  "prompts": [
+    "Уточните идею о том, что любые сбои возникают из-за изолированного прототипа.",
+    "Признайте полезность патента, а затем еще раз заявите о его влиянии на открытую передачу.",
+    "В какой степени расширение масштабов искажает подтверждение концепции?",
+    "Переформулируйте аргумент, согласно которому прайминг заслуживает научного подтверждения."
+  ],
+  "grammar": [
+    {
+      "id": "remote-innovacii-c1-grammar-1",
+      "title": {
+        "fr": "Nominalisation savante",
+        "en": "Academic nominalization",
+        "es": "Nominalización académica",
+        "ru": "Академическая номинализация"
+      },
+      "rule": {
+        "fr": "Préférez un nom abstrait : рассмотрение вопроса, pas рассматривать вопрос.",
+        "en": "Prefer an abstract noun: рассмотрение вопроса, not рассматривать вопрос.",
+        "es": "Prefiere un sustantivo abstracto: рассмотрение вопроса.",
+        "ru": "Предпочитайте абстрактное существительное: рассмотрение вопроса, а не рассматривать вопрос."
+      },
+      "why": {
+        "en": "Matches formal academic tone.",
+        "es": "Encaja con el tono académico formal.",
+        "ru": "Соответствует формальному академическому тону."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "глагол → имя",
+          "формальный стиль",
+          "наличие прототип"
+        ],
+        [
+          "избегать придаточного",
+          "плотность",
+          "отсутствие исследования"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-innovacii-c1-gq-1-1",
+          "prompt": "Предпочтительнее: ___ вопроса. (рассмотреть)",
+          "answer": "рассмотрение",
+          "options": [
+            "рассмотрение",
+            "рассмотреть",
+            "рассмотренный"
+          ]
+        },
+        {
+          "id": "remote-innovacii-c1-gq-1-2",
+          "prompt": "Анализ прототип — более академично, чем «анализировать».",
+          "answer": "анализ",
+          "options": [
+            "анализ",
+            "анализировать",
+            "аналитик"
+          ]
+        },
+        {
+          "id": "remote-innovacii-c1-gq-1-3",
+          "prompt": "Лучше существительное, а не ___ .",
+          "answer": "глагол",
+          "options": [
+            "глагол",
+            "союз",
+            "междометие"
+          ]
+        },
+        {
+          "id": "remote-innovacii-c1-gq-1-4",
+          "prompt": "Свяжите с темой: прототип / исследования. Род «прототип»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-innovacii-c1-gq-1-5",
+          "prompt": "Свяжите с темой: прототип / исследования. Род «прототип»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-innovacii-c1-grammar-2",
+      "title": {
+        "fr": "Participes et gerundifs",
+        "en": "Participles and verbal adverbs",
+        "es": "Participios y gerundios",
+        "ru": "Причастия и деепричастия"
+      },
+      "rule": {
+        "fr": "Причастие qualifie un nom ; деепричастие ajoute une action secondaire.",
+        "en": "A participle modifies a noun; a verbal adverb adds a secondary action.",
+        "es": "El participio modifica un sustantivo; el gerundio añade una acción secundaria.",
+        "ru": "Причастие определяет существительное; деепричастие добавляет второстепенное действие."
+      },
+      "why": {
+        "en": "Dense written Russian relies on these forms.",
+        "es": "El ruso escrito denso depende de estas formas.",
+        "ru": "Плотный письменный русский опирается на эти формы."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "причастие",
+          "определение",
+          "книга, написанная автором"
+        ],
+        [
+          "деепричастие",
+          "второе действие",
+          "Читая, он делал заметки."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-innovacii-c1-gq-2-1",
+          "prompt": "Форма, определяющая существительное — ___ .",
+          "answer": "причастие",
+          "options": [
+            "причастие",
+            "деепричастие",
+            "наречие"
+          ]
+        },
+        {
+          "id": "remote-innovacii-c1-gq-2-2",
+          "prompt": "«Читая» в «Читая, он…» — это ___ .",
+          "answer": "деепричастие",
+          "options": [
+            "деепричастие",
+            "причастие",
+            "инфинитив"
+          ]
+        },
+        {
+          "id": "remote-innovacii-c1-gq-2-3",
+          "prompt": "В академическом тексте часто нужны ___ .",
+          "answer": "причастия",
+          "options": [
+            "причастия",
+            "междометия",
+            "обращения"
+          ]
+        },
+        {
+          "id": "remote-innovacii-c1-gq-2-4",
+          "prompt": "Свяжите с темой: патент / инкубатор. Род «патент»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-innovacii-c1-gq-2-5",
+          "prompt": "Свяжите с темой: патент / инкубатор. Род «патент»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-innovacii-c1-dict-1",
+        "l2": "Хотя прототип убедителен, возможность масштабирования остается открытой.",
+        "en": "Even though the prototype is convincing, the feasibility of scaling remains open.",
+        "gloss": {
+          "en": "Even though the prototype is convincing, the feasibility of scaling remains open.",
+          "es": "Aunque el prototipo es convincente, la viabilidad de ampliarlo sigue abierta.",
+          "ru": "Несмотря на то, что прототип убедителен, возможность масштабирования остается открытой."
+        },
+        "ipa": "xˈotja protˈotip ˈubjeditjeljen vozmˈoʐnostʲ masʂtabirovanˈija ostˈajetsja otkrˈɨtoj"
+      },
+      {
+        "id": "remote-innovacii-c1-dict-2",
+        "l2": "Патент не только не гарантирует инноваций, но и может заморозить что-то уже доступное.",
+        "en": "Far from guaranteeing innovation, the patent can freeze a commons already available.",
+        "gloss": {
+          "en": "Far from guaranteeing innovation, the patent can freeze a commons already available.",
+          "es": "Lejos de garantizar la innovación, la patente puede congelar un bien común ya disponible.",
+          "ru": "Патент не только не гарантирует инноваций, но и может заморозить уже имеющееся достояние."
+        },
+        "ipa": "pˈatjent nje tˈolʲko nje ɡarantˈirujet innovˈatsij nˈo ˈi mˈoʐjet zamorˈozitʲ tɕtˈo tˈo"
+      },
+      {
+        "id": "remote-innovacii-c1-dict-3",
+        "l2": "Если подтверждение концепции не будет воспроизведено, прайминг останется спекулятивным.",
+        "en": "Unless the proof of concept is reproduced, seed funding will remain speculative.",
+        "gloss": {
+          "en": "Unless the proof of concept is reproduced, seed funding will remain speculative.",
+          "es": "A menos que se reproduzca la prueba de concepto, la financiación inicial seguirá siendo especulativa.",
+          "ru": "Если не будет воспроизведено доказательство концепции, начальное финансирование останется спекулятивным."
+        },
+        "ipa": "jeslˈi pˈodtvjerʐdjenije kontsjeptsˈii nje bˈudjet vosproˈizvjedjeno prˈajminɡ ostˈanjetsja spjekuljatˈivnɨm"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-innovacii-c1-mean-1",
+        "l2": "Хотя прототип убедителен, возможность масштабирования остается открытой.",
+        "en": "Even though the prototype is convincing, the feasibility of scaling remains open.",
+        "gloss": {
+          "en": "Even though the prototype is convincing, the feasibility of scaling remains open.",
+          "es": "Aunque el prototipo es convincente, la viabilidad de ampliarlo sigue abierta.",
+          "ru": "Несмотря на то, что прототип убедителен, возможность масштабирования остается открытой."
+        }
+      },
+      {
+        "id": "remote-innovacii-c1-mean-2",
+        "l2": "Патент не только не гарантирует инноваций, но и может заморозить что-то уже доступное.",
+        "en": "Far from guaranteeing innovation, the patent can freeze a commons already available.",
+        "gloss": {
+          "en": "Far from guaranteeing innovation, the patent can freeze a commons already available.",
+          "es": "Lejos de garantizar la innovación, la patente puede congelar un bien común ya disponible.",
+          "ru": "Патент не только не гарантирует инноваций, но и может заморозить уже имеющееся достояние."
+        }
+      },
+      {
+        "id": "remote-innovacii-c1-mean-3",
+        "l2": "Если подтверждение концепции не будет воспроизведено, прайминг останется спекулятивным.",
+        "en": "Unless the proof of concept is reproduced, seed funding will remain speculative.",
+        "gloss": {
+          "en": "Unless the proof of concept is reproduced, seed funding will remain speculative.",
+          "es": "A menos que se reproduzca la prueba de concepto, la financiación inicial seguirá siendo especulativa.",
+          "ru": "Если не будет воспроизведено доказательство концепции, начальное финансирование останется спекулятивным."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-innovacii-c1-fren-1",
+        "l2": "нарушение",
+        "en": "disruption",
+        "gloss": {
+          "en": "disruption",
+          "es": "ruptura",
+          "ru": "нарушение"
+        }
+      },
+      {
+        "id": "remote-innovacii-c1-fren-2",
+        "l2": "прототип",
+        "en": "prototype",
+        "gloss": {
+          "en": "prototype",
+          "es": "prototipo",
+          "ru": "прототип"
+        }
+      },
+      {
+        "id": "remote-innovacii-c1-fren-3",
+        "l2": "патент",
+        "en": "patent",
+        "gloss": {
+          "en": "patent",
+          "es": "patentar",
+          "ru": "патент"
+        }
+      },
+      {
+        "id": "remote-innovacii-c1-fren-4",
+        "l2": "масштабирование",
+        "en": "scaling",
+        "gloss": {
+          "en": "scaling",
+          "es": "escalada",
+          "ru": "масштабирование"
+        }
+      },
+      {
+        "id": "remote-innovacii-c1-fren-5",
+        "l2": "исследования",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        }
+      },
+      {
+        "id": "remote-innovacii-c1-fren-6",
+        "l2": "инкубатор",
+        "en": "incubator",
+        "gloss": {
+          "en": "incubator",
+          "es": "incubadora",
+          "ru": "инкубатор"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-innovacii-c1-alou-1",
+        "l2": "Хотя прототип убедителен, возможность масштабирования остается открытой.",
+        "en": "Even though the prototype is convincing, the feasibility of scaling remains open.",
+        "gloss": {
+          "en": "Even though the prototype is convincing, the feasibility of scaling remains open.",
+          "es": "Aunque el prototipo es convincente, la viabilidad de ampliarlo sigue abierta.",
+          "ru": "Несмотря на то, что прототип убедителен, возможность масштабирования остается открытой."
+        },
+        "ipa": "xˈotja protˈotip ˈubjeditjeljen vozmˈoʐnostʲ masʂtabirovanˈija ostˈajetsja otkrˈɨtoj"
+      },
+      {
+        "id": "remote-innovacii-c1-alou-2",
+        "l2": "Если подтверждение концепции не будет воспроизведено, прайминг останется спекулятивным.",
+        "en": "Unless the proof of concept is reproduced, seed funding will remain speculative.",
+        "gloss": {
+          "en": "Unless the proof of concept is reproduced, seed funding will remain speculative.",
+          "es": "A menos que se reproduzca la prueba de concepto, la financiación inicial seguirá siendo especulativa.",
+          "ru": "Если не будет воспроизведено доказательство концепции, начальное финансирование останется спекулятивным."
+        },
+        "ipa": "jeslˈi pˈodtvjerʐdjenije kontsjeptsˈii nje bˈudjet vosproˈizvjedjeno prˈajminɡ ostˈanjetsja spjekuljatˈivnɨm"
+      },
+      {
+        "id": "remote-innovacii-c1-alou-3",
+        "l2": "Мы слишком торопимся утверждать, что разрушение предопределено, тогда как оно происходит в ходе итерации.",
+        "en": "People too quickly claim that disruption can be decreed, whereas it is tested through iteration.",
+        "gloss": {
+          "en": "People too quickly claim that disruption can be decreed, whereas it is tested through iteration.",
+          "es": "La gente afirma demasiado rápidamente que la disrupción se puede decretar, mientras que se prueba mediante la iteración.",
+          "ru": "Люди слишком быстро заявляют, что разрушение можно предписать, тогда как оно проверяется путем итерации."
+        },
+        "ipa": "mˈɨ slˈiʂkom toropˈimsja ˈutvjerʐdatʲ tɕtˈo razrˈuʂjenije prjedˈoprjedjeljeno tˈoɡda kˈak ˈono proisxˈodit v"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-innovacii-c1-unsc-1",
+        "l2": "Хотя прототип убедителен, его осуществимость остается открытой.",
+        "en": "Even though the prototype is convincing, feasibility remains open.",
+        "gloss": {
+          "en": "Even though the prototype is convincing, feasibility remains open.",
+          "es": "Aunque el prototipo es convincente, la viabilidad sigue abierta.",
+          "ru": "Несмотря на то, что прототип убедителен, его осуществимость остается открытой."
+        },
+        "words": [
+          "Хотя",
+          "прототип",
+          "убедителен,",
+          "его",
+          "осуществимость",
+          "остается",
+          "открытой."
+        ]
+      },
+      {
+        "id": "remote-innovacii-c1-unsc-2",
+        "l2": "Патент не только не гарантирует инноваций, но и может заморозить что-то общее.",
+        "en": "Far from guaranteeing innovation, the patent can freeze a commons.",
+        "gloss": {
+          "en": "Far from guaranteeing innovation, the patent can freeze a commons.",
+          "es": "Lejos de garantizar la innovación, la patente puede congelar un bien común.",
+          "ru": "Патент не только не гарантирует инноваций, но и может заморозить достояние."
+        },
+        "words": [
+          "Патент",
+          "не",
+          "только",
+          "не",
+          "гарантирует",
+          "инноваций,",
+          "но",
+          "и",
+          "может",
+          "заморозить",
+          "что-то",
+          "общее."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

@@ -1,0 +1,838 @@
+{
+  "pratiquePack": 2,
+  "id": "zhurnalistika-c1",
+  "version": 1,
+  "level": "c1",
+  "lang": "ru",
+  "title": {
+    "fr": "Journalisme C1 (RU)",
+    "en": "Journalism C1 (RU)",
+    "es": "Periodismo C1 (RU)",
+    "ru": "Журналистика C1"
+  },
+  "description": {
+    "fr": "Investigation, protection des sources, cadrage, éditorial et vérification des faits — pack russe.",
+    "en": "Investigation, source protection, framing, editorials, and fact-checking — Russian pack.",
+    "es": "Investigación, protección de fuentes, encuadre, editoriales y verificación de hechos — paquete ruso.",
+    "ru": "Расследование, защита источников, фабрикация, редакционные статьи и проверка фактов — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-zhurnalistika-c1-1",
+      "l2": "расследование",
+      "en": "investigation",
+      "gloss": {
+        "en": "investigation",
+        "es": "investigación",
+        "ru": "расследование"
+      },
+      "example": "Расследование, масштабы которого зависят от защиты источников, наталкивается на эмбарго, которое редакция должна вынести в качестве арбитра.",
+      "ipa": "rassljedovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-2",
+      "l2": "источник",
+      "en": "source",
+      "gloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      },
+      "example": "Источник, хотя и требует анонимности, не освобождает редакцию от обязанности перекрестной проверки.",
+      "ipa": "istˈotɕnik",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-3",
+      "l2": "обрамление",
+      "en": "framing",
+      "gloss": {
+        "en": "framing",
+        "es": "enmarcado",
+        "ru": "обрамление"
+      },
+      "example": "Обрамление не является аксессуаром заголовка, а сразу формирует вывод, который читатель сделает из фактов.",
+      "ipa": "obrˈamljenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-4",
+      "l2": "редакционная статья",
+      "en": "editorial",
+      "gloss": {
+        "en": "editorial",
+        "es": "editorial",
+        "ru": "редакционная статья"
+      },
+      "example": "Редакционная статья, даже если она подразумевает принятие определенной линии, отличается от расследования тем, что она поддерживает тезис, а не документирует его.",
+      "ipa": "rjedaktsionnaja stˈatʲja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-5",
+      "l2": "проверка фактов",
+      "en": "fact-checking",
+      "gloss": {
+        "en": "fact-checking",
+        "es": "verificación de hechos",
+        "ru": "проверка фактов"
+      },
+      "example": "Проверка фактов, если она не происходит до публикации, происходит слишком поздно, чтобы исправить и без того вирусную дезинформацию.",
+      "ipa": "provjerka fˈaktov",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-6",
+      "l2": "совок",
+      "en": "scoop",
+      "gloss": {
+        "en": "scoop",
+        "es": "cuchara",
+        "ru": "совок"
+      },
+      "example": "Совок, ход которого иногда подрывает этику, действителен только в том случае, если он выдерживает противоречивое перечитывание.",
+      "ipa": "sˈovok",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-7",
+      "l2": "редакционная линия",
+      "en": "editorial line",
+      "gloss": {
+        "en": "editorial line",
+        "es": "linea editorial",
+        "ru": "редакционная линия"
+      },
+      "example": "Редакционная линия, даже если она заявлена, может перейти от законных рамок к необъявленной предвзятости.",
+      "ipa": "rjedaktsionnaja linˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-8",
+      "l2": "корреспондент",
+      "en": "correspondent / special envoy",
+      "gloss": {
+        "en": "correspondent / special envoy",
+        "es": "corresponsal / enviado especial",
+        "ru": "корреспондент / специальный посланник"
+      },
+      "example": "Спецкор далеко не просто ретранслятор, он выдает ракурс, за который редакции придется реагировать в случае предвзятости.",
+      "ipa": "kˈorrjespondjent",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-9",
+      "l2": "угол",
+      "en": "angle",
+      "gloss": {
+        "en": "angle",
+        "es": "ángulo",
+        "ru": "угол"
+      },
+      "example": "Угол, даже если он означает освещение слепого пятна, выбирает то, что останется за кадром, и, следовательно, направляет прием.",
+      "ipa": "ˈuɡol",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-10",
+      "l2": "первая страница",
+      "en": "front page",
+      "gloss": {
+        "en": "front page",
+        "es": "página delantera",
+        "ru": "первая страница"
+      },
+      "example": "Первая страница, если это не простой баннер, уже представляет собой рамку, заголовок которой задает проблему дня.",
+      "ipa": "pjervaja stranˈitsa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-11",
+      "l2": "отдел новостей",
+      "en": "newsroom",
+      "gloss": {
+        "en": "newsroom",
+        "es": "sala de redacción",
+        "ru": "отдел новостей"
+      },
+      "example": "Редакция, чей внутренний плюрализм является следствием этики, выбирает между сенсацией и проверкой.",
+      "ipa": "otdjel nˈovostjej",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-12",
+      "l2": "дезинформация",
+      "en": "disinformation / fake news",
+      "gloss": {
+        "en": "disinformation / fake news",
+        "es": "desinformación/noticias falsas",
+        "ru": "дезинформация/фейковые новости"
+      },
+      "example": "«Инфокс», хоть и маскируется под журналистский стиль, можно узнать по отсутствию противоположных источников и исправлений.",
+      "ipa": "djezinformatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-13",
+      "l2": "утечка",
+      "en": "leak",
+      "gloss": {
+        "en": "leak",
+        "es": "filtración",
+        "ru": "утечка"
+      },
+      "example": "Побег, далеко не всегда являющийся государственной услугой, может служить рамкой, в которой бенефициар остается в тени.",
+      "ipa": "ˈutjetɕka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-14",
+      "l2": "интервью",
+      "en": "interview",
+      "gloss": {
+        "en": "interview",
+        "es": "entrevista",
+        "ru": "интервью"
+      },
+      "example": "Интервью, даже если оно означает исключение из списка, не дает права предать источник, которому была обещана защита.",
+      "ipa": "ˈintjervʲju",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-15",
+      "l2": "столбец",
+      "en": "column",
+      "gloss": {
+        "en": "column",
+        "es": "columna",
+        "ru": "столбец"
+      },
+      "example": "Колонка, если только она не выдает себя за расследование, предполагает «Я», из которого редакционная статья слишком часто обобщает «мы».",
+      "ipa": "stˈolbjets",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-16",
+      "l2": "плюрализм",
+      "en": "pluralism",
+      "gloss": {
+        "en": "pluralism",
+        "es": "pluralismo",
+        "ru": "плюрализм"
+      },
+      "example": "Плюрализм, для которого аудитория не является единственным критерием, требует, чтобы первая полоса не ограничивала дискуссию под одним углом зрения.",
+      "ipa": "pljurˈalizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-17",
+      "l2": "аудитория",
+      "en": "audience",
+      "gloss": {
+        "en": "audience",
+        "es": "audiencia",
+        "ru": "аудитория"
+      },
+      "example": "Аудитория, хотя и финансирует название, не может диктовать подтверждение или оправдывать вводящую в заблуждение рамку.",
+      "ipa": "auditorˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-18",
+      "l2": "заголовки",
+      "en": "headlines / deck",
+      "gloss": {
+        "en": "headlines / deck",
+        "es": "titulares / cubierta",
+        "ru": "заголовки / колода"
+      },
+      "example": "Заголовок далеко не безобиден, но выполняет речевой акт: он предполагает ответственного и причину.",
+      "ipa": "zaɡolˈovki",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-19",
+      "l2": "эмбарго",
+      "en": "embargo (press)",
+      "gloss": {
+        "en": "embargo (press)",
+        "es": "embargo (prensa)",
+        "ru": "эмбарго (пресса)"
+      },
+      "example": "Пресс-эмбарго, даже если оно означает сорвать сенсацию, иногда защищает расследование, преждевременная публикация которого может нанести вред источникам.",
+      "ipa": "ɛmbˈarɡo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-20",
+      "l2": "журналистская этика",
+      "en": "journalistic ethics",
+      "gloss": {
+        "en": "journalistic ethics",
+        "es": "ética periodística",
+        "ru": "журналистская этика"
+      },
+      "example": "Этика, если только она не противопоставлена ​​в редакционной статье, остается преамбулой, а гонка за охватом аудитории лишена значения.",
+      "ipa": "ʐurnalistskaja ɛtˈika",
+      "article": "ж"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-zhurnalistika-c1-phrase-1",
+      "l2": "Хотя сенсация и заманчива, проверка должна предшествовать заголовкам.",
+      "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+      "gloss": {
+        "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+        "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
+        "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
+      },
+      "ipa": "xˈotja sjensatsˈija ˈi zamantɕˈiva prˈovjerka dˈolʐna prjedʂjestvˈovatʲ zaɡolˈovkam"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-phrase-2",
+      "l2": "Название далеко не безобидное, оно создает структуру, которая направляет умозаключения читателя.",
+      "en": "Far from being harmless, the headline performs a framing that steers the reader’s inference.",
+      "gloss": {
+        "en": "Far from being harmless, the headline performs a framing that steers the reader’s inference.",
+        "es": "Lejos de ser inofensivo, el titular constituye un encuadre que dirige la inferencia del lector.",
+        "ru": "Заголовок далеко не безобиден: он создает структуру, которая направляет умозаключения читателя."
+      },
+      "ipa": "nazvˈanije dˈaljeko nje bjezobˈidnoje ˈono sˈozdajet struktˈuru kotorˈaja naprˈavljajet umozakljutɕjenˈija tɕitˈatjelja"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-phrase-3",
+      "l2": "Если источник не будет защищен, расследование захлебнется после первой утечки.",
+      "en": "Unless the source is protected, the investigation will dry up after the first leak.",
+      "gloss": {
+        "en": "Unless the source is protected, the investigation will dry up after the first leak.",
+        "es": "A menos que se proteja la fuente, la investigación se agotará después de la primera filtración.",
+        "ru": "Если источник не будет защищен, расследование захлебнется после первой утечки."
+      },
+      "ipa": "jeslˈi istˈotɕnik nje bˈudjet zˈaɕːiɕːjen rassljedovˈanije zˈaxljebnjetsja pˈoslje pjervˈoj ˈutjetɕki"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-phrase-4",
+      "l2": "Даже если это означает потерю аудитории, редакция отказывается публиковать непроверенную информацию.",
+      "en": "Even at the cost of losing audience, the newsroom refuses to publish unchecked disinformation.",
+      "gloss": {
+        "en": "Even at the cost of losing audience, the newsroom refuses to publish unchecked disinformation.",
+        "es": "Incluso a costa de perder audiencia, la redacción se niega a publicar desinformación sin control.",
+        "ru": "Редакция новостей отказывается публиковать непроверенную дезинформацию даже ценой потери аудитории."
+      },
+      "ipa": "dˈaʐje jeslˈi ˈɛto oznˈatɕajet pˈotjerju auditorˈii rjedaktsˈija otkazɨvˈajetsja publikˈovatʲ njeprovjerjennˈuju informatsˈiju"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-phrase-5",
+      "l2": "«Факты установлены», — заявляет он, хотя точка зрения остается крайне избирательной.",
+      "en": "“The facts are established,” he declares, even though the angle remains highly selective.",
+      "gloss": {
+        "en": "“The facts are established,” he declares, even though the angle remains highly selective.",
+        "es": "\"Los hechos están establecidos\", afirma, aunque el ángulo sigue siendo muy selectivo.",
+        "ru": "«Факты установлены», — заявляет он, хотя точка зрения остается весьма избирательной."
+      },
+      "ipa": "fˈaktɨ ustanˈovljenɨ zajˈavljajet ˈon xˈotja tˈotɕka zrjenˈija ostˈajetsja krˈajnje izbirˈatjelʲnoj"
+    },
+    {
+      "id": "remote-zhurnalistika-c1-phrase-6",
+      "l2": "Редакция поддерживает тезис; следствие еще не задокументировало это.",
+      "en": "The editorial endorses a thesis; the investigation still has to document it.",
+      "gloss": {
+        "en": "The editorial endorses a thesis; the investigation still has to document it.",
+        "es": "La editorial avala una tesis; la investigación aún tiene que documentarlo.",
+        "ru": "Редакция поддерживает тезис; следствие еще должно это задокументировать."
+      },
+      "ipa": "rjedaktsˈija poddjerʐˈivajet tjezˈis sljedstvˈije jeɕːje nje zadokumjentirovˈalo ˈɛto"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-zhurnalistika-c1-listen-1",
+      "l2": "Источник не освобождает написанное от обязанности перекрестной проверки.",
+      "en": "The source does not exempt the newsroom from a duty of cross-checking.",
+      "gloss": {
+        "en": "The source does not exempt the newsroom from a duty of cross-checking.",
+        "es": "La fuente no exime a la redacción de un deber de control cruzado.",
+        "ru": "Источник не освобождает редакцию от обязанности перекрестной проверки."
+      },
+      "word": "источник",
+      "wordEn": "source",
+      "wordGloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      },
+      "wordIpa": "istˈotɕnik",
+      "distractors": [
+        "утечка",
+        "совок",
+        "эмбарго"
+      ]
+    },
+    {
+      "id": "remote-zhurnalistika-c1-listen-2",
+      "l2": "Обрамление немедленно формирует вывод, который читатель сделает из фактов.",
+      "en": "Framing immediately configures the inference the reader will draw from the facts.",
+      "gloss": {
+        "en": "Framing immediately configures the inference the reader will draw from the facts.",
+        "es": "El encuadre configura inmediatamente la inferencia que el lector extraerá de los hechos.",
+        "ru": "Обрамление немедленно формирует вывод, который читатель сделает из фактов."
+      },
+      "word": "обрамление",
+      "wordEn": "framing",
+      "wordGloss": {
+        "en": "framing",
+        "es": "enmarcado",
+        "ru": "обрамление"
+      },
+      "wordIpa": "obrˈamljenije",
+      "distractors": [
+        "угол",
+        "первая страница",
+        "заголовки"
+      ]
+    },
+    {
+      "id": "remote-zhurnalistika-c1-listen-3",
+      "l2": "Проверка происходит слишком поздно, чтобы исправить и без того вирусную дезинформацию.",
+      "en": "Fact-checking comes too late to correct disinformation that is already viral.",
+      "gloss": {
+        "en": "Fact-checking comes too late to correct disinformation that is already viral.",
+        "es": "La verificación de datos llega demasiado tarde para corregir la desinformación que ya es viral.",
+        "ru": "Проверка фактов происходит слишком поздно, чтобы исправить дезинформацию, которая уже стала вирусной."
+      },
+      "word": "проверка фактов",
+      "wordEn": "fact-checking",
+      "wordGloss": {
+        "en": "fact-checking",
+        "es": "verificación de hechos",
+        "ru": "проверка фактов"
+      },
+      "wordIpa": "provjerka fˈaktov",
+      "distractors": [
+        "расследование",
+        "столбец",
+        "интервью"
+      ]
+    },
+    {
+      "id": "remote-zhurnalistika-c1-listen-4",
+      "l2": "Редакция отличается от расследования тем, что поддерживает тезис.",
+      "en": "The editorial differs from reporting in that it endorses a thesis.",
+      "gloss": {
+        "en": "The editorial differs from reporting in that it endorses a thesis.",
+        "es": "El editorial se diferencia del reportaje en que respalda una tesis.",
+        "ru": "Редакционная статья отличается от репортажа тем, что в ней подтверждается тезис."
+      },
+      "word": "редакционная статья",
+      "wordEn": "editorial",
+      "wordGloss": {
+        "en": "editorial",
+        "es": "editorial",
+        "ru": "редакционная статья"
+      },
+      "wordIpa": "rjedaktsionnaja stˈatʲja",
+      "distractors": [
+        "плюрализм",
+        "аудитория",
+        "журналистская этика"
+      ]
+    }
+  ],
+  "prompts": [
+    "Уточните идею о том, что сенсация может оправдать отказ от проверки.",
+    "Признайте давление со стороны аудитории, а затем переформулируйте обязанность защищать источники.",
+    "В какой степени оформление первой страницы уже является редакционным актом?",
+    "Переформулировать оппозицию между предполагаемой редакционной линией и необъявленными фейковыми новостями."
+  ],
+  "grammar": [
+    {
+      "id": "remote-zhurnalistika-c1-grammar-1",
+      "title": {
+        "fr": "Nominalisation savante",
+        "en": "Academic nominalization",
+        "es": "Nominalización académica",
+        "ru": "Академическая номинализация"
+      },
+      "rule": {
+        "fr": "Préférez un nom abstrait : рассмотрение вопроса, pas рассматривать вопрос.",
+        "en": "Prefer an abstract noun: рассмотрение вопроса, not рассматривать вопрос.",
+        "es": "Prefiere un sustantivo abstracto: рассмотрение вопроса.",
+        "ru": "Предпочитайте абстрактное существительное: рассмотрение вопроса, а не рассматривать вопрос."
+      },
+      "why": {
+        "en": "Matches formal academic tone.",
+        "es": "Encaja con el tono académico formal.",
+        "ru": "Соответствует формальному академическому тону."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "глагол → имя",
+          "формальный стиль",
+          "наличие источник"
+        ],
+        [
+          "избегать придаточного",
+          "плотность",
+          "отсутствие проверка фактов"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-zhurnalistika-c1-gq-1-1",
+          "prompt": "Предпочтительнее: ___ вопроса. (рассмотреть)",
+          "answer": "рассмотрение",
+          "options": [
+            "рассмотрение",
+            "рассмотреть",
+            "рассмотренный"
+          ]
+        },
+        {
+          "id": "remote-zhurnalistika-c1-gq-1-2",
+          "prompt": "Анализ источник — более академично, чем «анализировать».",
+          "answer": "анализ",
+          "options": [
+            "анализ",
+            "анализировать",
+            "аналитик"
+          ]
+        },
+        {
+          "id": "remote-zhurnalistika-c1-gq-1-3",
+          "prompt": "Лучше существительное, а не ___ .",
+          "answer": "глагол",
+          "options": [
+            "глагол",
+            "союз",
+            "междометие"
+          ]
+        },
+        {
+          "id": "remote-zhurnalistika-c1-gq-1-4",
+          "prompt": "Свяжите с темой: источник / проверка фактов. Род «источник»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-zhurnalistika-c1-gq-1-5",
+          "prompt": "Свяжите с темой: источник / проверка фактов. Род «источник»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-zhurnalistika-c1-grammar-2",
+      "title": {
+        "fr": "Participes et gerundifs",
+        "en": "Participles and verbal adverbs",
+        "es": "Participios y gerundios",
+        "ru": "Причастия и деепричастия"
+      },
+      "rule": {
+        "fr": "Причастие qualifie un nom ; деепричастие ajoute une action secondaire.",
+        "en": "A participle modifies a noun; a verbal adverb adds a secondary action.",
+        "es": "El participio modifica un sustantivo; el gerundio añade una acción secundaria.",
+        "ru": "Причастие определяет существительное; деепричастие добавляет второстепенное действие."
+      },
+      "why": {
+        "en": "Dense written Russian relies on these forms.",
+        "es": "El ruso escrito denso depende de estas formas.",
+        "ru": "Плотный письменный русский опирается на эти формы."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "причастие",
+          "определение",
+          "книга, написанная автором"
+        ],
+        [
+          "деепричастие",
+          "второе действие",
+          "Читая, он делал заметки."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-zhurnalistika-c1-gq-2-1",
+          "prompt": "Форма, определяющая существительное — ___ .",
+          "answer": "причастие",
+          "options": [
+            "причастие",
+            "деепричастие",
+            "наречие"
+          ]
+        },
+        {
+          "id": "remote-zhurnalistika-c1-gq-2-2",
+          "prompt": "«Читая» в «Читая, он…» — это ___ .",
+          "answer": "деепричастие",
+          "options": [
+            "деепричастие",
+            "причастие",
+            "инфинитив"
+          ]
+        },
+        {
+          "id": "remote-zhurnalistika-c1-gq-2-3",
+          "prompt": "В академическом тексте часто нужны ___ .",
+          "answer": "причастия",
+          "options": [
+            "причастия",
+            "междометия",
+            "обращения"
+          ]
+        },
+        {
+          "id": "remote-zhurnalistika-c1-gq-2-4",
+          "prompt": "Свяжите с темой: обрамление / совок. Род «обрамление»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-zhurnalistika-c1-gq-2-5",
+          "prompt": "Свяжите с темой: обрамление / совок. Род «обрамление»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-zhurnalistika-c1-dict-1",
+        "l2": "Хотя сенсация и заманчива, проверка должна предшествовать заголовкам.",
+        "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+        "gloss": {
+          "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+          "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
+          "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
+        },
+        "ipa": "xˈotja sjensatsˈija ˈi zamantɕˈiva prˈovjerka dˈolʐna prjedʂjestvˈovatʲ zaɡolˈovkam"
+      },
+      {
+        "id": "remote-zhurnalistika-c1-dict-2",
+        "l2": "Название далеко не безобидное, оно создает структуру, которая направляет умозаключения читателя.",
+        "en": "Far from being harmless, the headline performs a framing that steers the reader’s inference.",
+        "gloss": {
+          "en": "Far from being harmless, the headline performs a framing that steers the reader’s inference.",
+          "es": "Lejos de ser inofensivo, el titular constituye un encuadre que dirige la inferencia del lector.",
+          "ru": "Заголовок далеко не безобиден: он создает структуру, которая направляет умозаключения читателя."
+        },
+        "ipa": "nazvˈanije dˈaljeko nje bjezobˈidnoje ˈono sˈozdajet struktˈuru kotorˈaja naprˈavljajet umozakljutɕjenˈija tɕitˈatjelja"
+      },
+      {
+        "id": "remote-zhurnalistika-c1-dict-3",
+        "l2": "Если источник не будет защищен, расследование захлебнется после первой утечки.",
+        "en": "Unless the source is protected, the investigation will dry up after the first leak.",
+        "gloss": {
+          "en": "Unless the source is protected, the investigation will dry up after the first leak.",
+          "es": "A menos que se proteja la fuente, la investigación se agotará después de la primera filtración.",
+          "ru": "Если источник не будет защищен, расследование захлебнется после первой утечки."
+        },
+        "ipa": "jeslˈi istˈotɕnik nje bˈudjet zˈaɕːiɕːjen rassljedovˈanije zˈaxljebnjetsja pˈoslje pjervˈoj ˈutjetɕki"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-zhurnalistika-c1-mean-1",
+        "l2": "Хотя сенсация и заманчива, проверка должна предшествовать заголовкам.",
+        "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+        "gloss": {
+          "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+          "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
+          "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
+        }
+      },
+      {
+        "id": "remote-zhurnalistika-c1-mean-2",
+        "l2": "Название далеко не безобидное, оно создает структуру, которая направляет умозаключения читателя.",
+        "en": "Far from being harmless, the headline performs a framing that steers the reader’s inference.",
+        "gloss": {
+          "en": "Far from being harmless, the headline performs a framing that steers the reader’s inference.",
+          "es": "Lejos de ser inofensivo, el titular constituye un encuadre que dirige la inferencia del lector.",
+          "ru": "Заголовок далеко не безобиден: он создает структуру, которая направляет умозаключения читателя."
+        }
+      },
+      {
+        "id": "remote-zhurnalistika-c1-mean-3",
+        "l2": "Если источник не будет защищен, расследование захлебнется после первой утечки.",
+        "en": "Unless the source is protected, the investigation will dry up after the first leak.",
+        "gloss": {
+          "en": "Unless the source is protected, the investigation will dry up after the first leak.",
+          "es": "A menos que se proteja la fuente, la investigación se agotará después de la primera filtración.",
+          "ru": "Если источник не будет защищен, расследование захлебнется после первой утечки."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-zhurnalistika-c1-fren-1",
+        "l2": "расследование",
+        "en": "investigation",
+        "gloss": {
+          "en": "investigation",
+          "es": "investigación",
+          "ru": "расследование"
+        }
+      },
+      {
+        "id": "remote-zhurnalistika-c1-fren-2",
+        "l2": "источник",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
+      },
+      {
+        "id": "remote-zhurnalistika-c1-fren-3",
+        "l2": "обрамление",
+        "en": "framing",
+        "gloss": {
+          "en": "framing",
+          "es": "enmarcado",
+          "ru": "обрамление"
+        }
+      },
+      {
+        "id": "remote-zhurnalistika-c1-fren-4",
+        "l2": "редакционная статья",
+        "en": "editorial",
+        "gloss": {
+          "en": "editorial",
+          "es": "editorial",
+          "ru": "редакционная статья"
+        }
+      },
+      {
+        "id": "remote-zhurnalistika-c1-fren-5",
+        "l2": "проверка фактов",
+        "en": "fact-checking",
+        "gloss": {
+          "en": "fact-checking",
+          "es": "verificación de hechos",
+          "ru": "проверка фактов"
+        }
+      },
+      {
+        "id": "remote-zhurnalistika-c1-fren-6",
+        "l2": "совок",
+        "en": "scoop",
+        "gloss": {
+          "en": "scoop",
+          "es": "cuchara",
+          "ru": "совок"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-zhurnalistika-c1-alou-1",
+        "l2": "Хотя сенсация и заманчива, проверка должна предшествовать заголовкам.",
+        "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+        "gloss": {
+          "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+          "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
+          "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
+        },
+        "ipa": "xˈotja sjensatsˈija ˈi zamantɕˈiva prˈovjerka dˈolʐna prjedʂjestvˈovatʲ zaɡolˈovkam"
+      },
+      {
+        "id": "remote-zhurnalistika-c1-alou-2",
+        "l2": "Если источник не будет защищен, расследование захлебнется после первой утечки.",
+        "en": "Unless the source is protected, the investigation will dry up after the first leak.",
+        "gloss": {
+          "en": "Unless the source is protected, the investigation will dry up after the first leak.",
+          "es": "A menos que se proteja la fuente, la investigación se agotará después de la primera filtración.",
+          "ru": "Если источник не будет защищен, расследование захлебнется после первой утечки."
+        },
+        "ipa": "jeslˈi istˈotɕnik nje bˈudjet zˈaɕːiɕːjen rassljedovˈanije zˈaxljebnjetsja pˈoslje pjervˈoj ˈutjetɕki"
+      },
+      {
+        "id": "remote-zhurnalistika-c1-alou-3",
+        "l2": "«Факты установлены», — заявляет он, хотя точка зрения остается крайне избирательной.",
+        "en": "“The facts are established,” he declares, even though the angle remains highly selective.",
+        "gloss": {
+          "en": "“The facts are established,” he declares, even though the angle remains highly selective.",
+          "es": "\"Los hechos están establecidos\", afirma, aunque el ángulo sigue siendo muy selectivo.",
+          "ru": "«Факты установлены», — заявляет он, хотя точка зрения остается весьма избирательной."
+        },
+        "ipa": "fˈaktɨ ustanˈovljenɨ zajˈavljajet ˈon xˈotja tˈotɕka zrjenˈija ostˈajetsja krˈajnje izbirˈatjelʲnoj"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-zhurnalistika-c1-unsc-1",
+        "l2": "Хотя сенсация и заманчива, проверка должна предшествовать заголовкам.",
+        "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+        "gloss": {
+          "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
+          "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
+          "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
+        },
+        "words": [
+          "Хотя",
+          "сенсация",
+          "и",
+          "заманчива,",
+          "проверка",
+          "должна",
+          "предшествовать",
+          "заголовкам."
+        ]
+      },
+      {
+        "id": "remote-zhurnalistika-c1-unsc-2",
+        "l2": "Название далеко не тривиальное, оно уже имеет обрамление.",
+        "en": "Far from being harmless, the headline already performs a framing.",
+        "gloss": {
+          "en": "Far from being harmless, the headline already performs a framing.",
+          "es": "Lejos de ser inofensivo, el titular ya cumple un encuadre.",
+          "ru": "Заголовок далеко не безобидный, он уже выполняет обрамляющую функцию."
+        },
+        "words": [
+          "Название",
+          "далеко",
+          "не",
+          "тривиальное,",
+          "оно",
+          "уже",
+          "имеет",
+          "обрамление."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

@@ -1,0 +1,862 @@
+{
+  "pratiquePack": 2,
+  "id": "eda-a1",
+  "version": 1,
+  "level": "a1",
+  "lang": "ru",
+  "title": {
+    "fr": "Nourriture A1 (RU)",
+    "en": "Food A1 (RU)",
+    "es": "Comida A1 (RU)",
+    "ru": "Еда А1"
+  },
+  "description": {
+    "fr": "Café, marché et repas du quotidien pour débutants — pack russe.",
+    "en": "Café, market, and everyday meals for beginners — Russian pack.",
+    "es": "Café, mercado y comidas diarias para principiantes — paquete ruso.",
+    "ru": "Кафе, рынок и повседневное питание для новичков — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-eda-a1-1",
+      "l2": "хлеб",
+      "en": "bread",
+      "gloss": {
+        "en": "bread",
+        "es": "pan",
+        "ru": "хлеб"
+      },
+      "example": "Я ем хлеб по утрам.",
+      "ipa": "xljeb",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-2",
+      "l2": "сыр",
+      "en": "cheese",
+      "gloss": {
+        "en": "cheese",
+        "es": "queso",
+        "ru": "сыр"
+      },
+      "example": "Сыр вкусный.",
+      "ipa": "sˈɨr",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-3",
+      "l2": "яблоко",
+      "en": "apple",
+      "gloss": {
+        "en": "apple",
+        "es": "manzana",
+        "ru": "яблоко"
+      },
+      "example": "У меня есть яблоко.",
+      "ipa": "jablˈoko",
+      "article": "ср"
+    },
+    {
+      "id": "remote-eda-a1-4",
+      "l2": "вода",
+      "en": "water",
+      "gloss": {
+        "en": "water",
+        "es": "agua",
+        "ru": "вода"
+      },
+      "example": "Бутылку воды, пожалуйста.",
+      "ipa": "vˈoda",
+      "article": "ж"
+    },
+    {
+      "id": "remote-eda-a1-5",
+      "l2": "кофе",
+      "en": "coffee / café",
+      "gloss": {
+        "en": "coffee / café",
+        "es": "café / cafetería",
+        "ru": "кофе / кафе"
+      },
+      "example": "Я пью кофе.",
+      "ipa": "kˈofje",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-6",
+      "l2": "молоко",
+      "en": "milk",
+      "gloss": {
+        "en": "milk",
+        "es": "leche",
+        "ru": "молоко"
+      },
+      "example": "Молоко в кофе?",
+      "ipa": "molˈoko",
+      "article": "ср"
+    },
+    {
+      "id": "remote-eda-a1-7",
+      "l2": "суп",
+      "en": "soup",
+      "gloss": {
+        "en": "soup",
+        "es": "sopa",
+        "ru": "суп"
+      },
+      "example": "Суп горячий.",
+      "ipa": "sˈup",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-8",
+      "l2": "фрукты",
+      "en": "fruit",
+      "gloss": {
+        "en": "fruit",
+        "es": "fruta",
+        "ru": "фрукты"
+      },
+      "example": "Мне нравятся фрукты.",
+      "ipa": "frˈuktɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-9",
+      "l2": "яйцо",
+      "en": "egg",
+      "gloss": {
+        "en": "egg",
+        "es": "huevo",
+        "ru": "яйцо"
+      },
+      "example": "Я ем яйцо на завтрак.",
+      "ipa": "jˈajtso",
+      "article": "ср"
+    },
+    {
+      "id": "remote-eda-a1-10",
+      "l2": "масло",
+      "en": "butter",
+      "gloss": {
+        "en": "butter",
+        "es": "manteca",
+        "ru": "масло"
+      },
+      "example": "Масло на хлеб, пожалуйста.",
+      "ipa": "mˈaslo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-eda-a1-11",
+      "l2": "рис",
+      "en": "rice",
+      "gloss": {
+        "en": "rice",
+        "es": "arroz",
+        "ru": "рис"
+      },
+      "example": "Сегодня вечером мы едим рис.",
+      "ipa": "rˈis",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-12",
+      "l2": "курица",
+      "en": "chicken",
+      "gloss": {
+        "en": "chicken",
+        "es": "pollo",
+        "ru": "курица"
+      },
+      "example": "Курица хорошая.",
+      "ipa": "kurˈitsa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-eda-a1-13",
+      "l2": "салат",
+      "en": "salad",
+      "gloss": {
+        "en": "salad",
+        "es": "ensalada",
+        "ru": "салат"
+      },
+      "example": "У меня есть салат.",
+      "ipa": "sˈalat",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-14",
+      "l2": "сок",
+      "en": "juice",
+      "gloss": {
+        "en": "juice",
+        "es": "jugo",
+        "ru": "сок"
+      },
+      "example": "Апельсиновый сок, пожалуйста.",
+      "ipa": "sˈok",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-15",
+      "l2": "чай",
+      "en": "tea",
+      "gloss": {
+        "en": "tea",
+        "es": "té",
+        "ru": "чай"
+      },
+      "example": "Я пью чай вечером.",
+      "ipa": "tɕˈaj",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-16",
+      "l2": "сахар",
+      "en": "sugar",
+      "gloss": {
+        "en": "sugar",
+        "es": "azúcar",
+        "ru": "сахар"
+      },
+      "example": "С сахаром?",
+      "ipa": "sˈaxar",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-17",
+      "l2": "мясо",
+      "en": "meat",
+      "gloss": {
+        "en": "meat",
+        "es": "carne",
+        "ru": "мясо"
+      },
+      "example": "Я не ем мясо.",
+      "ipa": "mjˈaso",
+      "article": "ср"
+    },
+    {
+      "id": "remote-eda-a1-18",
+      "l2": "рыба",
+      "en": "fish",
+      "gloss": {
+        "en": "fish",
+        "es": "pez",
+        "ru": "рыба"
+      },
+      "example": "Рыба свежая.",
+      "ipa": "rˈɨba",
+      "article": "ж"
+    },
+    {
+      "id": "remote-eda-a1-19",
+      "l2": "овощной",
+      "en": "vegetable",
+      "gloss": {
+        "en": "vegetable",
+        "es": "verdura",
+        "ru": "овощной"
+      },
+      "example": "Я покупаю овощи на рынке.",
+      "ipa": "ovˈoɕːnoj",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-20",
+      "l2": "десерт",
+      "en": "dessert",
+      "gloss": {
+        "en": "dessert",
+        "es": "postre",
+        "ru": "десерт"
+      },
+      "example": "Какой десерт ты хочешь?",
+      "ipa": "djesjert",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-21",
+      "l2": "круассан",
+      "en": "croissant",
+      "gloss": {
+        "en": "croissant",
+        "es": "cuerno",
+        "ru": "круассан"
+      },
+      "example": "У меня есть круассан с кофе.",
+      "ipa": "kruˈassan",
+      "article": "м"
+    },
+    {
+      "id": "remote-eda-a1-22",
+      "l2": "рынок",
+      "en": "market",
+      "gloss": {
+        "en": "market",
+        "es": "mercado",
+        "ru": "рынок"
+      },
+      "example": "Мы идем на рынок в субботу.",
+      "ipa": "rˈɨnok",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-eda-a1-phrase-1",
+      "l2": "Мне кофе, пожалуйста.",
+      "en": "I’d like a coffee, please.",
+      "gloss": {
+        "en": "I’d like a coffee, please.",
+        "es": "Quisiera un café, por favor.",
+        "ru": "Мне кофе, пожалуйста."
+      },
+      "ipa": "mnje kˈofje poʐalˈujsta"
+    },
+    {
+      "id": "remote-eda-a1-phrase-2",
+      "l2": "Счет, пожалуйста.",
+      "en": "The bill, please.",
+      "gloss": {
+        "en": "The bill, please.",
+        "es": "La cuenta, por favor.",
+        "ru": "Счет, пожалуйста."
+      },
+      "ipa": "stɕjet poʐalˈujsta"
+    },
+    {
+      "id": "remote-eda-a1-phrase-3",
+      "l2": "Это вкусно!",
+      "en": "It’s delicious!",
+      "gloss": {
+        "en": "It’s delicious!",
+        "es": "¡Está delicioso!",
+        "ru": "Это вкусно!"
+      },
+      "ipa": "ˈɛto vkˈusno"
+    },
+    {
+      "id": "remote-eda-a1-phrase-4",
+      "l2": "Я вегетарианец.",
+      "en": "I am vegetarian.",
+      "gloss": {
+        "en": "I am vegetarian.",
+        "es": "Soy vegetariano.",
+        "ru": "Я вегетарианец."
+      },
+      "ipa": "jˈa vjeɡjetarˈianjets"
+    },
+    {
+      "id": "remote-eda-a1-phrase-5",
+      "l2": "Что вы порекомендуете?",
+      "en": "What do you recommend?",
+      "gloss": {
+        "en": "What do you recommend?",
+        "es": "¿Qué me recomienda?",
+        "ru": "Что вы порекомендуете?"
+      },
+      "ipa": "tɕtˈo vˈɨ porjekˈomjendujetje"
+    },
+    {
+      "id": "remote-eda-a1-phrase-6",
+      "l2": "У меня есть салат и рыба.",
+      "en": "I’ll have the salad and the fish.",
+      "gloss": {
+        "en": "I’ll have the salad and the fish.",
+        "es": "Quiero la ensalada y el pescado.",
+        "ru": "Я возьму салат и рыбу."
+      },
+      "ipa": "ˈu mjenjˈa jestʲ sˈalat ˈi rˈɨba"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-eda-a1-listen-1",
+      "l2": "Я пью кофе с молоком по утрам.",
+      "en": "I drink a coffee with milk in the morning.",
+      "gloss": {
+        "en": "I drink a coffee with milk in the morning.",
+        "es": "Tomo un café con leche por la mañana.",
+        "ru": "Я пью кофе с молоком по утрам."
+      },
+      "word": "кофе",
+      "wordEn": "coffee",
+      "wordGloss": {
+        "en": "coffee",
+        "es": "café",
+        "ru": "кофе"
+      },
+      "wordIpa": "kˈofje",
+      "distractors": [
+        "чай",
+        "сок",
+        "вода"
+      ]
+    },
+    {
+      "id": "remote-eda-a1-listen-2",
+      "l2": "Она покупает хлеб и сыр на рынке.",
+      "en": "She buys bread and cheese at the market.",
+      "gloss": {
+        "en": "She buys bread and cheese at the market.",
+        "es": "Compra pan y queso en el mercado.",
+        "ru": "Она покупает хлеб и сыр на рынке."
+      },
+      "word": "сыр",
+      "wordEn": "cheese",
+      "wordGloss": {
+        "en": "cheese",
+        "es": "queso",
+        "ru": "сыр"
+      },
+      "wordIpa": "sˈɨr",
+      "distractors": [
+        "масло",
+        "молоко",
+        "сахар"
+      ]
+    },
+    {
+      "id": "remote-eda-a1-listen-3",
+      "l2": "Сегодня вечером мы едим курицу с рисом.",
+      "en": "We are eating chicken with rice tonight.",
+      "gloss": {
+        "en": "We are eating chicken with rice tonight.",
+        "es": "Esta noche comeremos pollo con arroz.",
+        "ru": "Сегодня вечером мы едим курицу с рисом."
+      },
+      "word": "курица",
+      "wordEn": "chicken",
+      "wordGloss": {
+        "en": "chicken",
+        "es": "pollo",
+        "ru": "курица"
+      },
+      "wordIpa": "kurˈitsa",
+      "distractors": [
+        "рыба",
+        "мясо",
+        "яйцо"
+      ]
+    },
+    {
+      "id": "remote-eda-a1-listen-4",
+      "l2": "Хотите сок или воду?",
+      "en": "Do you want juice or water?",
+      "gloss": {
+        "en": "Do you want juice or water?",
+        "es": "¿Quieres jugo o agua?",
+        "ru": "Хотите сок или воду?"
+      },
+      "word": "сок",
+      "wordEn": "juice",
+      "wordGloss": {
+        "en": "juice",
+        "es": "jugo",
+        "ru": "сок"
+      },
+      "wordIpa": "sˈok",
+      "distractors": [
+        "чай",
+        "молоко",
+        "кофе"
+      ]
+    }
+  ],
+  "prompts": [
+    "Что ты ешь утром?",
+    "Закажите что-нибудь в кафе.",
+    "Какие фрукты ты любишь?",
+    "Опишите свое любимое блюдо в трех предложениях."
+  ],
+  "grammar": [
+    {
+      "id": "remote-eda-a1-grammar-1",
+      "title": {
+        "fr": "Genre des noms (м / ж / ср)",
+        "en": "Noun gender (м / ж / ср)",
+        "es": "Género de los sustantivos (м / ж / ср)",
+        "ru": "Род существительных (м / ж / ср)"
+      },
+      "rule": {
+        "fr": "м — masculin ; ж — féminin ; ср — neutre.",
+        "en": "м — masculine; ж — feminine; ср — neuter.",
+        "es": "м — masculino; ж — femenino; ср — neutro.",
+        "ru": "м — мужской род; ж — женский род; ср — средний род."
+      },
+      "why": {
+        "en": "Gender affects adjectives and past-tense verbs.",
+        "es": "El género afecta a adjetivos y verbos en pasado.",
+        "ru": "Род влияет на прилагательные и глаголы в прошедшем времени."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "м",
+          "мужской род",
+          "сыр"
+        ],
+        [
+          "ж",
+          "женский род",
+          "кофе"
+        ],
+        [
+          "ср",
+          "средний род",
+          "окно / молоко"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-eda-a1-gq-1-1",
+          "prompt": "Род слова «сыр»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-eda-a1-gq-1-2",
+          "prompt": "Род слова «кофе»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-eda-a1-gq-1-3",
+          "prompt": "Выберите род: сыр",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-eda-a1-gq-1-4",
+          "prompt": "Свяжите с темой: сыр / кофе. Род «сыр»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-eda-a1-gq-1-5",
+          "prompt": "Свяжите с темой: сыр / кофе. Род «сыр»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-eda-a1-grammar-2",
+      "title": {
+        "fr": "Есть + nom",
+        "en": "Есть + noun",
+        "es": "Есть + sustantivo",
+        "ru": "Есть + существительное"
+      },
+      "rule": {
+        "fr": "Есть introduit ce qui existe : Есть + nom.",
+        "en": "Есть introduces what exists: Есть + noun.",
+        "es": "Есть presenta lo que existe: Есть + sustantivo.",
+        "ru": "Есть вводит то, что есть: Есть + существительное."
+      },
+      "why": {
+        "en": "Useful to say what you have or what is there.",
+        "es": "Útil para decir lo que hay o lo que tienes.",
+        "ru": "Полезно, чтобы сказать, что есть или что у вас есть."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "Есть",
+          "наличие",
+          "Есть яблоко."
+        ],
+        [
+          "Нет",
+          "отсутствие (+ род. п.)",
+          "Нет молоко."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-eda-a1-gq-2-1",
+          "prompt": "Дополните: ___ яблоко.",
+          "answer": "Есть",
+          "options": [
+            "Есть",
+            "Это",
+            "Быть"
+          ]
+        },
+        {
+          "id": "remote-eda-a1-gq-2-2",
+          "prompt": "Дополните: ___ молоко. (отрицание)",
+          "answer": "Нет",
+          "options": [
+            "Нет",
+            "Есть",
+            "Да"
+          ]
+        },
+        {
+          "id": "remote-eda-a1-gq-2-3",
+          "prompt": "У меня ___ яблоко.",
+          "answer": "есть",
+          "options": [
+            "есть",
+            "это",
+            "быть"
+          ]
+        },
+        {
+          "id": "remote-eda-a1-gq-2-4",
+          "prompt": "Свяжите с темой: яблоко / молоко. Род «яблоко»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-eda-a1-gq-2-5",
+          "prompt": "Свяжите с темой: яблоко / молоко. Род «яблоко»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-eda-a1-dict-1",
+        "l2": "Я ем хлеб по утрам.",
+        "en": "I eat bread in the morning.",
+        "gloss": {
+          "en": "I eat bread in the morning.",
+          "es": "Como pan por la mañana.",
+          "ru": "Я ем хлеб по утрам."
+        },
+        "ipa": "jˈa jem xljeb pˈo ˈutram"
+      },
+      {
+        "id": "remote-eda-a1-dict-2",
+        "l2": "Она пьет кофе с молоком.",
+        "en": "She drinks a coffee with milk.",
+        "gloss": {
+          "en": "She drinks a coffee with milk.",
+          "es": "Ella bebe un café con leche.",
+          "ru": "Она пьет кофе с молоком."
+        },
+        "ipa": "ˈona pʲjet kˈofje s molˈokom"
+      },
+      {
+        "id": "remote-eda-a1-dict-3",
+        "l2": "Мы покупаем овощи на рынке.",
+        "en": "We buy vegetables at the market.",
+        "gloss": {
+          "en": "We buy vegetables at the market.",
+          "es": "Compramos verduras en el mercado.",
+          "ru": "Мы покупаем овощи на рынке."
+        },
+        "ipa": "mˈɨ pokˈupajem ovˈoɕːi nˈa rˈɨnkje"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-eda-a1-mean-1",
+        "l2": "Это вкусно!",
+        "en": "It’s delicious!",
+        "gloss": {
+          "en": "It’s delicious!",
+          "es": "¡Está delicioso!",
+          "ru": "Это вкусно!"
+        }
+      },
+      {
+        "id": "remote-eda-a1-mean-2",
+        "l2": "Я не ем мясо.",
+        "en": "I don’t eat meat.",
+        "gloss": {
+          "en": "I don’t eat meat.",
+          "es": "No como carne.",
+          "ru": "Я не ем мясо."
+        }
+      },
+      {
+        "id": "remote-eda-a1-mean-3",
+        "l2": "Счет, пожалуйста.",
+        "en": "The bill, please.",
+        "gloss": {
+          "en": "The bill, please.",
+          "es": "La cuenta, por favor.",
+          "ru": "Счет, пожалуйста."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-eda-a1-fren-1",
+        "l2": "хлеб",
+        "en": "bread",
+        "gloss": {
+          "en": "bread",
+          "es": "pan",
+          "ru": "хлеб"
+        }
+      },
+      {
+        "id": "remote-eda-a1-fren-2",
+        "l2": "сыр",
+        "en": "cheese",
+        "gloss": {
+          "en": "cheese",
+          "es": "queso",
+          "ru": "сыр"
+        }
+      },
+      {
+        "id": "remote-eda-a1-fren-3",
+        "l2": "яблоко",
+        "en": "apple",
+        "gloss": {
+          "en": "apple",
+          "es": "manzana",
+          "ru": "яблоко"
+        }
+      },
+      {
+        "id": "remote-eda-a1-fren-4",
+        "l2": "вода",
+        "en": "water",
+        "gloss": {
+          "en": "water",
+          "es": "agua",
+          "ru": "вода"
+        }
+      },
+      {
+        "id": "remote-eda-a1-fren-5",
+        "l2": "кофе",
+        "en": "coffee",
+        "gloss": {
+          "en": "coffee",
+          "es": "café",
+          "ru": "кофе"
+        }
+      },
+      {
+        "id": "remote-eda-a1-fren-6",
+        "l2": "курица",
+        "en": "chicken",
+        "gloss": {
+          "en": "chicken",
+          "es": "pollo",
+          "ru": "курица"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-eda-a1-alou-1",
+        "l2": "Мне кофе, пожалуйста.",
+        "en": "I’d like a coffee, please.",
+        "gloss": {
+          "en": "I’d like a coffee, please.",
+          "es": "Quisiera un café, por favor.",
+          "ru": "Мне кофе, пожалуйста."
+        },
+        "ipa": "mnje kˈofje poʐalˈujsta"
+      },
+      {
+        "id": "remote-eda-a1-alou-2",
+        "l2": "Апельсиновый сок, пожалуйста.",
+        "en": "An orange juice, please.",
+        "gloss": {
+          "en": "An orange juice, please.",
+          "es": "Un jugo de naranja, por favor.",
+          "ru": "Апельсиновый сок, пожалуйста."
+        },
+        "ipa": "apjelʲsinˈovɨj sˈok poʐalˈujsta"
+      },
+      {
+        "id": "remote-eda-a1-alou-3",
+        "l2": "Рыба свежая.",
+        "en": "The fish is fresh.",
+        "gloss": {
+          "en": "The fish is fresh.",
+          "es": "El pescado está fresco.",
+          "ru": "Рыба свежая."
+        },
+        "ipa": "rˈɨba svjeʐˈaja"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-eda-a1-unsc-1",
+        "l2": "У меня есть салат.",
+        "en": "I take a salad.",
+        "gloss": {
+          "en": "I take a salad.",
+          "es": "Tomo una ensalada.",
+          "ru": "Я беру салат."
+        },
+        "words": [
+          "У",
+          "меня",
+          "есть",
+          "салат."
+        ]
+      },
+      {
+        "id": "remote-eda-a1-unsc-2",
+        "l2": "Сегодня вечером мы едим рис.",
+        "en": "We eat rice tonight.",
+        "gloss": {
+          "en": "We eat rice tonight.",
+          "es": "Esta noche comeremos arroz.",
+          "ru": "Сегодня вечером мы едим рис."
+        },
+        "words": [
+          "Сегодня",
+          "вечером",
+          "мы",
+          "едим",
+          "рис."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

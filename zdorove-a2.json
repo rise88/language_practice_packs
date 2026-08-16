@@ -1,0 +1,855 @@
+{
+  "pratiquePack": 2,
+  "id": "zdorove-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "ru",
+  "title": {
+    "fr": "Santé A2 (RU)",
+    "en": "Health A2 (RU)",
+    "es": "Salud A2 (RU)",
+    "ru": "Здоровье А2"
+  },
+  "description": {
+    "fr": "Symptômes, pharmacie et rendez-vous chez le médecin — pack russe.",
+    "en": "Symptoms, pharmacy, and doctor’s appointment vocabulary — Russian pack.",
+    "es": "Síntomas, farmacia y vocabulario de citas médicas — paquete ruso.",
+    "ru": "Симптомы, аптечный словарь и запись на прием к врачу — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-zdorove-a2-1",
+      "l2": "врач",
+      "en": "doctor",
+      "gloss": {
+        "en": "doctor",
+        "es": "doctor",
+        "ru": "врач"
+      },
+      "example": "Я записываюсь на прием к врачу.",
+      "ipa": "vrˈatɕ",
+      "article": "м"
+    },
+    {
+      "id": "remote-zdorove-a2-2",
+      "l2": "аптека",
+      "en": "pharmacy",
+      "gloss": {
+        "en": "pharmacy",
+        "es": "farmacia",
+        "ru": "аптека"
+      },
+      "example": "Аптека работает до восьми вечера.",
+      "ipa": "ˈaptjeka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-3",
+      "l2": "рецепт",
+      "en": "prescription",
+      "gloss": {
+        "en": "prescription",
+        "es": "prescripción",
+        "ru": "рецепт"
+      },
+      "example": "Вот мой рецепт.",
+      "ipa": "rjetsjept",
+      "article": "м"
+    },
+    {
+      "id": "remote-zdorove-a2-4",
+      "l2": "лекарство",
+      "en": "medicine / medication",
+      "gloss": {
+        "en": "medicine / medication",
+        "es": "medicina / medicación",
+        "ru": "лекарство / лекарство"
+      },
+      "example": "Это лекарство принимают три раза в день.",
+      "ipa": "ljekˈarstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zdorove-a2-5",
+      "l2": "боль",
+      "en": "pain",
+      "gloss": {
+        "en": "pain",
+        "es": "dolor",
+        "ru": "боль"
+      },
+      "example": "У меня болит спина.",
+      "ipa": "bˈolʲ",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-6",
+      "l2": "высокая температура",
+      "en": "fever",
+      "gloss": {
+        "en": "fever",
+        "es": "fiebre",
+        "ru": "высокая температура"
+      },
+      "example": "Со вчерашнего дня у него была температура.",
+      "ipa": "vɨsokaja tjempjeratˈura",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-7",
+      "l2": "простуда",
+      "en": "cold (illness)",
+      "gloss": {
+        "en": "cold (illness)",
+        "es": "resfriado (enfermedad)",
+        "ru": "простуда (болезнь)"
+      },
+      "example": "Я простудился.",
+      "ipa": "prostˈuda",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-8",
+      "l2": "кашель",
+      "en": "cough",
+      "gloss": {
+        "en": "cough",
+        "es": "tos",
+        "ru": "кашель"
+      },
+      "example": "Этот кашель будит меня по ночам.",
+      "ipa": "kˈaʂjelʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-zdorove-a2-9",
+      "l2": "головная боль",
+      "en": "headache",
+      "gloss": {
+        "en": "headache",
+        "es": "dolor de cabeza",
+        "ru": "головная боль"
+      },
+      "example": "У меня болит голова.",
+      "ipa": "ɡolovnajˈa bolʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-zdorove-a2-10",
+      "l2": "больное горло",
+      "en": "sore throat",
+      "gloss": {
+        "en": "sore throat",
+        "es": "dolor de garganta",
+        "ru": "больное горло"
+      },
+      "example": "У нее болит горло.",
+      "ipa": "bolʲnoje ɡˈorlo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zdorove-a2-11",
+      "l2": "больница",
+      "en": "hospital",
+      "gloss": {
+        "en": "hospital",
+        "es": "hospital",
+        "ru": "больница"
+      },
+      "example": "Больница находится рядом со станцией.",
+      "ipa": "bolʲnˈitsa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-12",
+      "l2": "чрезвычайная ситуация",
+      "en": "emergency",
+      "gloss": {
+        "en": "emergency",
+        "es": "emergencia",
+        "ru": "чрезвычайная ситуация"
+      },
+      "example": "При необходимости позвоните в службу экстренной помощи.",
+      "ipa": "tɕrjezvɨtɕajnaja situatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-13",
+      "l2": "встреча",
+      "en": "appointment",
+      "gloss": {
+        "en": "appointment",
+        "es": "cita",
+        "ru": "встреча"
+      },
+      "example": "Моя встреча назначена на три часа дня.",
+      "ipa": "vstrjetɕˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-14",
+      "l2": "симптом",
+      "en": "symptom",
+      "gloss": {
+        "en": "symptom",
+        "es": "síntoma",
+        "ru": "симптом"
+      },
+      "example": "Каковы ваши симптомы?",
+      "ipa": "sˈimptom",
+      "article": "м"
+    },
+    {
+      "id": "remote-zdorove-a2-15",
+      "l2": "аллергия",
+      "en": "allergy",
+      "gloss": {
+        "en": "allergy",
+        "es": "alergia",
+        "ru": "аллергия"
+      },
+      "example": "У меня аллергия на арахис.",
+      "ipa": "alljerɡˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-16",
+      "l2": "страхование",
+      "en": "insurance",
+      "gloss": {
+        "en": "insurance",
+        "es": "seguro",
+        "ru": "страхование"
+      },
+      "example": "У вас есть медицинская страховка?",
+      "ipa": "straxovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zdorove-a2-17",
+      "l2": "медсестра",
+      "en": "nurse (female)",
+      "gloss": {
+        "en": "nurse (female)",
+        "es": "enfermera (mujer)",
+        "ru": "медсестра (женщина)"
+      },
+      "example": "Медсестра измеряет мне давление.",
+      "ipa": "mjedsjestrˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-18",
+      "l2": "травма",
+      "en": "injury / wound",
+      "gloss": {
+        "en": "injury / wound",
+        "es": "lesión/herida",
+        "ru": "травма/ранение"
+      },
+      "example": "Травма несерьезная.",
+      "ipa": "trˈavma",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-19",
+      "l2": "таблетка",
+      "en": "pill / tablet",
+      "gloss": {
+        "en": "pill / tablet",
+        "es": "pastilla/tableta",
+        "ru": "таблетка/таблетка"
+      },
+      "example": "Принимайте таблетку после еды.",
+      "ipa": "tˈabljetka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zdorove-a2-20",
+      "l2": "температура",
+      "en": "temperature",
+      "gloss": {
+        "en": "temperature",
+        "es": "temperatura",
+        "ru": "температура"
+      },
+      "example": "Какая у вас температура?",
+      "ipa": "tjempjeratˈura",
+      "article": "ж"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-zdorove-a2-phrase-1",
+      "l2": "Я плохо себя чувствую.",
+      "en": "I don’t feel well.",
+      "gloss": {
+        "en": "I don’t feel well.",
+        "es": "No me siento bien.",
+        "ru": "Я плохо себя чувствую."
+      },
+      "ipa": "jˈa plˈoxo sjebjˈa tɕuvstvˈuju"
+    },
+    {
+      "id": "remote-zdorove-a2-phrase-2",
+      "l2": "У меня с утра болит голова.",
+      "en": "I’ve had a headache since this morning.",
+      "gloss": {
+        "en": "I’ve had a headache since this morning.",
+        "es": "Tengo dolor de cabeza desde esta mañana.",
+        "ru": "С утра у меня болит голова."
+      },
+      "ipa": "ˈu mjenjˈa s ˈutra bˈolit ɡolˈova"
+    },
+    {
+      "id": "remote-zdorove-a2-phrase-3",
+      "l2": "Где находится ближайшая аптека?",
+      "en": "Where is the nearest pharmacy?",
+      "gloss": {
+        "en": "Where is the nearest pharmacy?",
+        "es": "¿Dónde está la farmacia más cercana?",
+        "ru": "Где находится ближайшая аптека?"
+      },
+      "ipa": "ɡdje naxodˈitsja bliʐajʂˈaja ˈaptjeka"
+    },
+    {
+      "id": "remote-zdorove-a2-phrase-4",
+      "l2": "Могу ли я записаться на завтра?",
+      "en": "Can I make an appointment for tomorrow?",
+      "gloss": {
+        "en": "Can I make an appointment for tomorrow?",
+        "es": "¿Puedo concertar una cita para mañana?",
+        "ru": "Могу ли я записаться на завтра?"
+      },
+      "ipa": "mˈoɡu lˈi jˈa zapisˈatʲsja nˈa zˈavtra"
+    },
+    {
+      "id": "remote-zdorove-a2-phrase-5",
+      "l2": "Вот мой рецепт.",
+      "en": "Here is my prescription.",
+      "gloss": {
+        "en": "Here is my prescription.",
+        "es": "Aquí está mi receta.",
+        "ru": "Вот мой рецепт."
+      },
+      "ipa": "vˈot mˈoj rjetsjept"
+    },
+    {
+      "id": "remote-zdorove-a2-phrase-6",
+      "l2": "У меня аллергия на арахис.",
+      "en": "I have a peanut allergy.",
+      "gloss": {
+        "en": "I have a peanut allergy.",
+        "es": "Tengo alergia al maní.",
+        "ru": "У меня аллергия на арахис."
+      },
+      "ipa": "ˈu mjenjˈa alljerɡˈija nˈa arˈaxis"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-zdorove-a2-listen-1",
+      "l2": "Врач выписал мне рецепт на это лекарство.",
+      "en": "The doctor gave me a prescription for this medicine.",
+      "gloss": {
+        "en": "The doctor gave me a prescription for this medicine.",
+        "es": "El médico me recetó este medicamento.",
+        "ru": "Врач выписал мне рецепт на это лекарство."
+      },
+      "word": "рецепт",
+      "wordEn": "prescription",
+      "wordGloss": {
+        "en": "prescription",
+        "es": "prescripción",
+        "ru": "рецепт"
+      },
+      "wordIpa": "rjetsjept",
+      "distractors": [
+        "аптека",
+        "высокая температура",
+        "симптом"
+      ]
+    },
+    {
+      "id": "remote-zdorove-a2-listen-2",
+      "l2": "У нее температура и сильный кашель.",
+      "en": "She has a fever and a bad cough.",
+      "gloss": {
+        "en": "She has a fever and a bad cough.",
+        "es": "Tiene fiebre y tos fuerte.",
+        "ru": "У нее температура и сильный кашель."
+      },
+      "word": "высокая температура",
+      "wordEn": "fever",
+      "wordGloss": {
+        "en": "fever",
+        "es": "fiebre",
+        "ru": "высокая температура"
+      },
+      "wordIpa": "vɨsokaja tjempjeratˈura",
+      "distractors": [
+        "простуда",
+        "боль",
+        "аллергия"
+      ]
+    },
+    {
+      "id": "remote-zdorove-a2-listen-3",
+      "l2": "Со вчерашнего вечера у меня болит горло.",
+      "en": "I’ve had a sore throat since last night.",
+      "gloss": {
+        "en": "I’ve had a sore throat since last night.",
+        "es": "Tengo dolor de garganta desde anoche.",
+        "ru": "Со вчерашнего вечера у меня болит горло."
+      },
+      "word": "горло",
+      "wordEn": "throat",
+      "wordGloss": {
+        "en": "throat",
+        "es": "garganta",
+        "ru": "горло"
+      },
+      "wordIpa": "ɡˈorlo",
+      "distractors": [
+        "голова",
+        "назад",
+        "нога"
+      ]
+    },
+    {
+      "id": "remote-zdorove-a2-listen-4",
+      "l2": "Прием у моего врача назначен на три часа дня.",
+      "en": "My doctor’s appointment is at three o’clock.",
+      "gloss": {
+        "en": "My doctor’s appointment is at three o’clock.",
+        "es": "La cita con mi médico es a las tres.",
+        "ru": "Прием у моего врача назначен на три часа."
+      },
+      "word": "встреча",
+      "wordEn": "appointment",
+      "wordGloss": {
+        "en": "appointment",
+        "es": "cita",
+        "ru": "встреча"
+      },
+      "wordIpa": "vstrjetɕˈa",
+      "distractors": [
+        "чрезвычайная ситуация",
+        "больница",
+        "страхование"
+      ]
+    }
+  ],
+  "prompts": [
+    "Опишите, что вы чувствуете сегодня.",
+    "Что вам говорят в аптеке?",
+    "Когда ты идешь к врачу?",
+    "Какие симптомы у вас возникают, когда вы больны?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-zdorove-a2-grammar-1",
+      "title": {
+        "fr": "Accusatif après я хочу / я вижу",
+        "en": "Accusative after я хочу / я вижу",
+        "es": "Acusativo tras я хочу / я вижу",
+        "ru": "Винительный падеж после я хочу / я вижу"
+      },
+      "rule": {
+        "fr": "Après un verbe transitif, le complément est souvent à l’accusatif.",
+        "en": "After a transitive verb, the object is often in the accusative.",
+        "es": "Tras un verbo transitivo, el complemento suele ir en acusativo.",
+        "ru": "После переходного глагола дополнение часто стоит в винительном падеже."
+      },
+      "why": {
+        "en": "Lets you say what you want, see, or buy.",
+        "es": "Permite decir lo que quieres, ves o compras.",
+        "ru": "Позволяет сказать, что вы хотите, видите или покупаете."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "я вижу + Вин.",
+          "объект",
+          "Я вижу аптека."
+        ],
+        [
+          "я хочу + Вин.",
+          "желание",
+          "Я хочу боль."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-zdorove-a2-gq-1-1",
+          "prompt": "Я вижу ___ . (аптека)",
+          "answer": "аптека",
+          "options": [
+            "аптека",
+            "боль",
+            "нет"
+          ]
+        },
+        {
+          "id": "remote-zdorove-a2-gq-1-2",
+          "prompt": "После «я хочу» обычно нужен ___ падеж.",
+          "answer": "винительный",
+          "options": [
+            "винительный",
+            "творительный",
+            "предложный"
+          ]
+        },
+        {
+          "id": "remote-zdorove-a2-gq-1-3",
+          "prompt": "Я покупаю ___ .",
+          "answer": "боль",
+          "options": [
+            "боль",
+            "нет",
+            "есть"
+          ]
+        },
+        {
+          "id": "remote-zdorove-a2-gq-1-4",
+          "prompt": "Свяжите с темой: аптека / боль. Род «аптека»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-zdorove-a2-gq-1-5",
+          "prompt": "Свяжите с темой: аптека / боль. Род «аптека»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-zdorove-a2-grammar-2",
+      "title": {
+        "fr": "Passé : -л / -ла / -ло / -ли",
+        "en": "Past tense: -л / -ла / -ло / -ли",
+        "es": "Pasado: -л / -ла / -ло / -ли",
+        "ru": "Прошедшее время: -л / -ла / -ло / -ли"
+      },
+      "rule": {
+        "fr": "Le passé s’accorde en genre et nombre : был, была, было, были.",
+        "en": "Past tense agrees in gender and number: был, была, было, были.",
+        "es": "El pasado concuerda en género y número: был, была, было, были.",
+        "ru": "Прошедшее время согласуется по роду и числу: был, была, было, были."
+      },
+      "why": {
+        "en": "Past forms must match the subject.",
+        "es": "Las formas del pasado deben coincidir con el sujeto.",
+        "ru": "Формы прошедшего должны согласоваться с подлежащим."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "-л",
+          "м. р.",
+          "Он был дома."
+        ],
+        [
+          "-ла",
+          "ж. р.",
+          "Она была дома."
+        ],
+        [
+          "-ли",
+          "мн. ч.",
+          "Они были дома."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-zdorove-a2-gq-2-1",
+          "prompt": "Вчера он ___ дома. (быть)",
+          "answer": "был",
+          "options": [
+            "был",
+            "была",
+            "были"
+          ]
+        },
+        {
+          "id": "remote-zdorove-a2-gq-2-2",
+          "prompt": "Вчера она ___ дома. (быть)",
+          "answer": "была",
+          "options": [
+            "была",
+            "был",
+            "было"
+          ]
+        },
+        {
+          "id": "remote-zdorove-a2-gq-2-3",
+          "prompt": "Вчера они ___ дома. (быть)",
+          "answer": "были",
+          "options": [
+            "были",
+            "был",
+            "была"
+          ]
+        },
+        {
+          "id": "remote-zdorove-a2-gq-2-4",
+          "prompt": "Свяжите с темой: рецепт / высокая температура. Род «рецепт»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-zdorove-a2-gq-2-5",
+          "prompt": "Свяжите с темой: рецепт / высокая температура. Род «рецепт»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-zdorove-a2-dict-1",
+        "l2": "Я плохо себя чувствую.",
+        "en": "I don’t feel well.",
+        "gloss": {
+          "en": "I don’t feel well.",
+          "es": "No me siento bien.",
+          "ru": "Я плохо себя чувствую."
+        },
+        "ipa": "jˈa plˈoxo sjebjˈa tɕuvstvˈuju"
+      },
+      {
+        "id": "remote-zdorove-a2-dict-2",
+        "l2": "У меня с утра болит голова.",
+        "en": "I’ve had a headache since this morning.",
+        "gloss": {
+          "en": "I’ve had a headache since this morning.",
+          "es": "Tengo dolor de cabeza desde esta mañana.",
+          "ru": "С утра у меня болит голова."
+        },
+        "ipa": "ˈu mjenjˈa s ˈutra bˈolit ɡolˈova"
+      },
+      {
+        "id": "remote-zdorove-a2-dict-3",
+        "l2": "Вот мой рецепт.",
+        "en": "Here is my prescription.",
+        "gloss": {
+          "en": "Here is my prescription.",
+          "es": "Aquí está mi receta.",
+          "ru": "Вот мой рецепт."
+        },
+        "ipa": "vˈot mˈoj rjetsjept"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-zdorove-a2-mean-1",
+        "l2": "Где находится ближайшая аптека?",
+        "en": "Where is the nearest pharmacy?",
+        "gloss": {
+          "en": "Where is the nearest pharmacy?",
+          "es": "¿Dónde está la farmacia más cercana?",
+          "ru": "Где находится ближайшая аптека?"
+        }
+      },
+      {
+        "id": "remote-zdorove-a2-mean-2",
+        "l2": "Я простудился.",
+        "en": "I have a cold.",
+        "gloss": {
+          "en": "I have a cold.",
+          "es": "Tengo un resfrío.",
+          "ru": "Я простудился."
+        }
+      },
+      {
+        "id": "remote-zdorove-a2-mean-3",
+        "l2": "При необходимости позвоните в службу экстренной помощи.",
+        "en": "Call emergency services if needed.",
+        "gloss": {
+          "en": "Call emergency services if needed.",
+          "es": "Llame a los servicios de emergencia si es necesario.",
+          "ru": "При необходимости позвоните в службу экстренной помощи."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-zdorove-a2-fren-1",
+        "l2": "врач",
+        "en": "doctor",
+        "gloss": {
+          "en": "doctor",
+          "es": "doctor",
+          "ru": "врач"
+        }
+      },
+      {
+        "id": "remote-zdorove-a2-fren-2",
+        "l2": "аптека",
+        "en": "pharmacy",
+        "gloss": {
+          "en": "pharmacy",
+          "es": "farmacia",
+          "ru": "аптека"
+        }
+      },
+      {
+        "id": "remote-zdorove-a2-fren-3",
+        "l2": "высокая температура",
+        "en": "fever",
+        "gloss": {
+          "en": "fever",
+          "es": "fiebre",
+          "ru": "высокая температура"
+        }
+      },
+      {
+        "id": "remote-zdorove-a2-fren-4",
+        "l2": "кашель",
+        "en": "cough",
+        "gloss": {
+          "en": "cough",
+          "es": "tos",
+          "ru": "кашель"
+        }
+      },
+      {
+        "id": "remote-zdorove-a2-fren-5",
+        "l2": "больница",
+        "en": "hospital",
+        "gloss": {
+          "en": "hospital",
+          "es": "hospital",
+          "ru": "больница"
+        }
+      },
+      {
+        "id": "remote-zdorove-a2-fren-6",
+        "l2": "аллергия",
+        "en": "allergy",
+        "gloss": {
+          "en": "allergy",
+          "es": "alergia",
+          "ru": "аллергия"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-zdorove-a2-alou-1",
+        "l2": "Я плохо себя чувствую.",
+        "en": "I don’t feel well.",
+        "gloss": {
+          "en": "I don’t feel well.",
+          "es": "No me siento bien.",
+          "ru": "Я плохо себя чувствую."
+        },
+        "ipa": "jˈa plˈoxo sjebjˈa tɕuvstvˈuju"
+      },
+      {
+        "id": "remote-zdorove-a2-alou-2",
+        "l2": "Могу ли я записаться на завтра?",
+        "en": "Can I make an appointment for tomorrow?",
+        "gloss": {
+          "en": "Can I make an appointment for tomorrow?",
+          "es": "¿Puedo concertar una cita para mañana?",
+          "ru": "Могу ли я записаться на завтра?"
+        },
+        "ipa": "mˈoɡu lˈi jˈa zapisˈatʲsja nˈa zˈavtra"
+      },
+      {
+        "id": "remote-zdorove-a2-alou-3",
+        "l2": "У меня аллергия на арахис.",
+        "en": "I have a peanut allergy.",
+        "gloss": {
+          "en": "I have a peanut allergy.",
+          "es": "Tengo alergia al maní.",
+          "ru": "У меня аллергия на арахис."
+        },
+        "ipa": "ˈu mjenjˈa alljerɡˈija nˈa arˈaxis"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-zdorove-a2-unsc-1",
+        "l2": "Я простудился.",
+        "en": "I have a cold.",
+        "gloss": {
+          "en": "I have a cold.",
+          "es": "Tengo un resfrío.",
+          "ru": "Я простудился."
+        },
+        "words": [
+          "Я",
+          "простудился."
+        ]
+      },
+      {
+        "id": "remote-zdorove-a2-unsc-2",
+        "l2": "Травма несерьезная.",
+        "en": "The injury is not serious.",
+        "gloss": {
+          "en": "The injury is not serious.",
+          "es": "La lesión no es grave.",
+          "ru": "Травма несерьезная."
+        },
+        "words": [
+          "Травма",
+          "несерьезная."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-zdorove-a2-sign-1",
+        "l2": "аптека",
+        "en": "pharmacy",
+        "gloss": {
+          "en": "pharmacy",
+          "es": "farmacia",
+          "ru": "аптека"
+        },
+        "hint": "зеленый крест / лекарства"
+      },
+      {
+        "id": "remote-zdorove-a2-sign-2",
+        "l2": "чРЕЗВЫЧАЙНЫЕ СИТУАЦИИ",
+        "en": "emergency",
+        "gloss": {
+          "en": "emergency",
+          "es": "emergencia",
+          "ru": "чрезвычайная ситуация"
+        },
+        "hint": "аварийный вход в больницу"
+      }
+    ]
+  },
+  "sounds": []
+}

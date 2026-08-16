@@ -1,0 +1,837 @@
+{
+  "pratiquePack": 2,
+  "id": "ekologiya-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "ru",
+  "title": {
+    "fr": "Environnement B1 (RU)",
+    "en": "Environment B1 (RU)",
+    "es": "Entorno B1 (RU)",
+    "ru": "Окружающая среда B1"
+  },
+  "description": {
+    "fr": "Pollution, tri et gestes écologiques pour donner son avis au quotidien — pack russe.",
+    "en": "Pollution, recycling, and everyday eco habits for giving an opinion — Russian pack.",
+    "es": "Contaminación, reciclaje y hábitos ecológicos cotidianos para opinar — paquete ruso.",
+    "ru": "Загрязнение, переработка и повседневные экологические привычки, чтобы высказать свое мнение — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-ekologiya-b1-1",
+      "l2": "среда",
+      "en": "environment",
+      "gloss": {
+        "en": "environment",
+        "es": "ambiente",
+        "ru": "среда"
+      },
+      "example": "Мы должны защищать окружающую среду вокруг нас.",
+      "ipa": "srjedˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-ekologiya-b1-2",
+      "l2": "загрязнение",
+      "en": "pollution",
+      "gloss": {
+        "en": "pollution",
+        "es": "contaminación",
+        "ru": "загрязнение"
+      },
+      "example": "Загрязнение воздуха в городах увеличивается.",
+      "ipa": "zaɡrjˈaznjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-ekologiya-b1-3",
+      "l2": "отходы",
+      "en": "waste / rubbish",
+      "gloss": {
+        "en": "waste / rubbish",
+        "es": "residuos / basura",
+        "ru": "отходы / мусор"
+      },
+      "example": "Мы производим слишком много пластиковых отходов.",
+      "ipa": "otxˈodɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-4",
+      "l2": "переработка",
+      "en": "recycling",
+      "gloss": {
+        "en": "recycling",
+        "es": "reciclaje",
+        "ru": "переработка"
+      },
+      "example": "Переработка отходов еще не везде автоматизирована.",
+      "ipa": "pjerjerabˈotka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-ekologiya-b1-5",
+      "l2": "сортировка",
+      "en": "sorting (waste)",
+      "gloss": {
+        "en": "sorting (waste)",
+        "es": "clasificación (residuos)",
+        "ru": "сортировка (отходов)"
+      },
+      "example": "Выборочная сортировка начинается на кухне.",
+      "ipa": "sortirˈovka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-ekologiya-b1-6",
+      "l2": "энергия",
+      "en": "energy",
+      "gloss": {
+        "en": "energy",
+        "es": "energía",
+        "ru": "энергия"
+      },
+      "example": "Эта энергия исходит от ветра и солнца.",
+      "ipa": "ɛnjerɡˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-ekologiya-b1-7",
+      "l2": "возобновляемый",
+      "en": "renewable (energy)",
+      "gloss": {
+        "en": "renewable (energy)",
+        "es": "renovable (energía)",
+        "ru": "возобновляемый (энергия)"
+      },
+      "example": "Возобновляемые источники энергии развиваются быстрыми темпами.",
+      "ipa": "vozobnovljˈajemɨj",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-8",
+      "l2": "выбросы",
+      "en": "emission",
+      "gloss": {
+        "en": "emission",
+        "es": "emisión",
+        "ru": "выбросы"
+      },
+      "example": "Выбросы CO2 остаются слишком высокими.",
+      "ipa": "vɨbrˈosɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-9",
+      "l2": "климат",
+      "en": "climate",
+      "gloss": {
+        "en": "climate",
+        "es": "clima",
+        "ru": "климат"
+      },
+      "example": "Климат меняется быстрее, чем раньше.",
+      "ipa": "klˈimat",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-10",
+      "l2": "засуха",
+      "en": "drought",
+      "gloss": {
+        "en": "drought",
+        "es": "sequía",
+        "ru": "засуха"
+      },
+      "example": "Засуха продолжалась все лето.",
+      "ipa": "zasˈuxa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-ekologiya-b1-11",
+      "l2": "наводнение",
+      "en": "flood",
+      "gloss": {
+        "en": "flood",
+        "es": "inundación",
+        "ru": "наводнение"
+      },
+      "example": "Наводнение перекрыло несколько дорог.",
+      "ipa": "navˈodnjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-ekologiya-b1-12",
+      "l2": "биоразнообразие",
+      "en": "biodiversity",
+      "gloss": {
+        "en": "biodiversity",
+        "es": "biodiversidad",
+        "ru": "биоразнообразие"
+      },
+      "example": "Биоразнообразие в этом регионе исчезает.",
+      "ipa": "bioraznoobrˈazije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-ekologiya-b1-13",
+      "l2": "разновидность",
+      "en": "species",
+      "gloss": {
+        "en": "species",
+        "es": "especies",
+        "ru": "разновидность"
+      },
+      "example": "Этот вид птиц находится под угрозой исчезновения.",
+      "ipa": "raznovˈidnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-14",
+      "l2": "лес",
+      "en": "forest",
+      "gloss": {
+        "en": "forest",
+        "es": "bosque",
+        "ru": "лес"
+      },
+      "example": "Лес поглощает часть углерода.",
+      "ipa": "ljes",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-15",
+      "l2": "океан",
+      "en": "ocean",
+      "gloss": {
+        "en": "ocean",
+        "es": "océano",
+        "ru": "океан"
+      },
+      "example": "Океан нагревается и окисляется.",
+      "ipa": "ˈokjean",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-16",
+      "l2": "пестицид",
+      "en": "pesticide",
+      "gloss": {
+        "en": "pesticide",
+        "es": "pesticida",
+        "ru": "пестицид"
+      },
+      "example": "Пестициды загрязняют реки.",
+      "ipa": "pjestˈitsid",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-17",
+      "l2": "компост",
+      "en": "compost",
+      "gloss": {
+        "en": "compost",
+        "es": "compost",
+        "ru": "компост"
+      },
+      "example": "Очистки кладем в компост.",
+      "ipa": "kˈompost",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-18",
+      "l2": "транспорт",
+      "en": "transport",
+      "gloss": {
+        "en": "transport",
+        "es": "transporte",
+        "ru": "транспорт"
+      },
+      "example": "Общественный транспорт загрязняет меньше, чем автомобиль.",
+      "ipa": "trˈansport",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-19",
+      "l2": "след",
+      "en": "footprint (carbon)",
+      "gloss": {
+        "en": "footprint (carbon)",
+        "es": "huella (carbono)",
+        "ru": "след (углерод)"
+      },
+      "example": "В этом году мой углеродный след уменьшился.",
+      "ipa": "sljed",
+      "article": "м"
+    },
+    {
+      "id": "remote-ekologiya-b1-20",
+      "l2": "повышение осведомленности",
+      "en": "awareness-raising",
+      "gloss": {
+        "en": "awareness-raising",
+        "es": "sensibilización",
+        "ru": "повышение осведомленности"
+      },
+      "example": "Повышение осведомленности в школе меняет привычки.",
+      "ipa": "povɨʂjenije osvjedomljennˈosti",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-ekologiya-b1-phrase-1",
+      "l2": "Я считаю, что мы должны сократить количество отходов.",
+      "en": "In my opinion, we need to reduce our waste.",
+      "gloss": {
+        "en": "In my opinion, we need to reduce our waste.",
+        "es": "En mi opinión, necesitamos reducir nuestros residuos.",
+        "ru": "Я считаю, что нам необходимо сократить количество отходов."
+      },
+      "ipa": "jˈa stɕitˈaju tɕtˈo mˈɨ dˈolʐnɨ sokrˈatitʲ kolˈitɕjestvo otxˈodov"
+    },
+    {
+      "id": "remote-ekologiya-b1-phrase-2",
+      "l2": "Если бы все рассортировали, было бы проще.",
+      "en": "If everyone sorted waste, it would be simpler.",
+      "gloss": {
+        "en": "If everyone sorted waste, it would be simpler.",
+        "es": "Si todo el mundo separara los residuos, sería más sencillo.",
+        "ru": "Если бы все сортировали мусор, было бы проще."
+      },
+      "ipa": "jeslˈi bˈɨ vsje rassortirovˈali bˈɨlo bˈɨ prˈoɕːje"
+    },
+    {
+      "id": "remote-ekologiya-b1-phrase-3",
+      "l2": "Загрязнение воздуха становится настоящей проблемой.",
+      "en": "Air pollution is becoming a real problem.",
+      "gloss": {
+        "en": "Air pollution is becoming a real problem.",
+        "es": "La contaminación del aire se está convirtiendo en un problema real.",
+        "ru": "Загрязнение воздуха становится настоящей проблемой."
+      },
+      "ipa": "zaɡrjˈaznjenije vozdˈuxa stanovˈitsja nastˈojaɕːjej prˈobljemoj"
+    },
+    {
+      "id": "remote-ekologiya-b1-phrase-4",
+      "l2": "Я езжу на поезде, чтобы меньше загрязнять окружающую среду.",
+      "en": "I take the train to pollute less.",
+      "gloss": {
+        "en": "I take the train to pollute less.",
+        "es": "Tomo el tren para contaminar menos.",
+        "ru": "Я езжу на поезде, чтобы меньше загрязнять окружающую среду."
+      },
+      "ipa": "jˈa jezʐˈu nˈa pˈojezdje tɕtˈobɨ mjenʲʂje zaɡrjˈaznjatʲ okruʐajuɕːˈuju srjedˈu"
+    },
+    {
+      "id": "remote-ekologiya-b1-phrase-5",
+      "l2": "Мы должны запретить самые опасные пестициды.",
+      "en": "We should ban the most dangerous pesticides.",
+      "gloss": {
+        "en": "We should ban the most dangerous pesticides.",
+        "es": "Deberíamos prohibir los pesticidas más peligrosos.",
+        "ru": "Мы должны запретить самые опасные пестициды."
+      },
+      "ipa": "mˈɨ dˈolʐnɨ zˈaprjetitʲ sˈamɨje opˈasnɨje pjestitsˈidɨ"
+    },
+    {
+      "id": "remote-ekologiya-b1-phrase-6",
+      "l2": "Каждый может сделать жест, даже небольшой.",
+      "en": "Everyone can do something, even something small.",
+      "gloss": {
+        "en": "Everyone can do something, even something small.",
+        "es": "Todo el mundo puede hacer algo, aunque sea algo pequeño.",
+        "ru": "Каждый может что-то сделать, даже что-то маленькое."
+      },
+      "ipa": "kˈaʐdɨj mˈoʐjet sdjelˈatʲ ʐjest dˈaʐje njebˈolʲʂoj"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-ekologiya-b1-listen-1",
+      "l2": "Загрязнение воздуха в центрах городов увеличивается.",
+      "en": "Air pollution is increasing in the city centre.",
+      "gloss": {
+        "en": "Air pollution is increasing in the city centre.",
+        "es": "La contaminación del aire está aumentando en el centro de la ciudad.",
+        "ru": "Загрязнение воздуха в центре города увеличивается."
+      },
+      "word": "загрязнение",
+      "wordEn": "pollution",
+      "wordGloss": {
+        "en": "pollution",
+        "es": "contaminación",
+        "ru": "загрязнение"
+      },
+      "wordIpa": "zaɡrjˈaznjenije",
+      "distractors": [
+        "переработка",
+        "засуха",
+        "лес"
+      ]
+    },
+    {
+      "id": "remote-ekologiya-b1-listen-2",
+      "l2": "Выборочная сортировка еще не является автоматической.",
+      "en": "Selective sorting is not automatic yet.",
+      "gloss": {
+        "en": "Selective sorting is not automatic yet.",
+        "es": "La clasificación selectiva aún no es automática.",
+        "ru": "Выборочная сортировка пока не является автоматической."
+      },
+      "word": "сортировка",
+      "wordEn": "sorting",
+      "wordGloss": {
+        "en": "sorting",
+        "es": "clasificación",
+        "ru": "сортировка"
+      },
+      "wordIpa": "sortirˈovka",
+      "distractors": [
+        "компост",
+        "отходы",
+        "транспорт"
+      ]
+    },
+    {
+      "id": "remote-ekologiya-b1-listen-3",
+      "l2": "Засуха продолжалась все прошлое лето.",
+      "en": "The drought lasted all last summer.",
+      "gloss": {
+        "en": "The drought lasted all last summer.",
+        "es": "La sequía duró todo el verano pasado.",
+        "ru": "Засуха продолжалась все прошлое лето."
+      },
+      "word": "засуха",
+      "wordEn": "drought",
+      "wordGloss": {
+        "en": "drought",
+        "es": "sequía",
+        "ru": "засуха"
+      },
+      "wordIpa": "zasˈuxa",
+      "distractors": [
+        "наводнение",
+        "океан",
+        "лес"
+      ]
+    },
+    {
+      "id": "remote-ekologiya-b1-listen-4",
+      "l2": "Возобновляемые источники энергии развиваются быстрыми темпами.",
+      "en": "Renewable energy is developing quickly.",
+      "gloss": {
+        "en": "Renewable energy is developing quickly.",
+        "es": "Las energías renovables se están desarrollando rápidamente.",
+        "ru": "Возобновляемая энергетика развивается быстрыми темпами."
+      },
+      "word": "возобновляемый",
+      "wordEn": "renewable",
+      "wordGloss": {
+        "en": "renewable",
+        "es": "renovable",
+        "ru": "возобновляемый"
+      },
+      "wordIpa": "vozobnovljˈajemɨj",
+      "distractors": [
+        "пестицид",
+        "выбросы",
+        "разновидность"
+      ]
+    }
+  ],
+  "prompts": [
+    "Какие действия вы предпринимаете для окружающей среды?",
+    "Автомобиль в городе: преимущества и недостатки.",
+    "Расскажите об экологической проблеме в вашем регионе.",
+    "Что, по вашему мнению, должно сделать правительство?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-ekologiya-b1-grammar-1",
+      "title": {
+        "fr": "Génitif après нет / много",
+        "en": "Genitive after нет / много",
+        "es": "Genitivo tras нет / много",
+        "ru": "Родительный падеж после нет / много"
+      },
+      "rule": {
+        "fr": "После нет, мало, много, без — génitif.",
+        "en": "After нет, мало, много, без — use genitive.",
+        "es": "Tras нет, мало, много, без — genitivo.",
+        "ru": "После нет, мало, много, без — родительный падеж."
+      },
+      "why": {
+        "en": "Essential for negation and quantities.",
+        "es": "Esencial para la negación y las cantidades.",
+        "ru": "Необходимо для отрицания и количеств."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "нет + Род.",
+          "отрицание",
+          "Нет загрязнение."
+        ],
+        [
+          "много + Род.",
+          "количество",
+          "Много сортировка."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ekologiya-b1-gq-1-1",
+          "prompt": "После «нет» нужен ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "винительный",
+            "дательный"
+          ]
+        },
+        {
+          "id": "remote-ekologiya-b1-gq-1-2",
+          "prompt": "У меня нет ___ . (тема: загрязнение)",
+          "answer": "загрязнение",
+          "options": [
+            "загрязнение",
+            "есть",
+            "это"
+          ]
+        },
+        {
+          "id": "remote-ekologiya-b1-gq-1-3",
+          "prompt": "Много / мало / без → ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "творительный",
+            "именительный"
+          ]
+        },
+        {
+          "id": "remote-ekologiya-b1-gq-1-4",
+          "prompt": "Свяжите с темой: загрязнение / сортировка. Род «загрязнение»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-ekologiya-b1-gq-1-5",
+          "prompt": "Свяжите с темой: загрязнение / сортировка. Род «загрязнение»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-ekologiya-b1-grammar-2",
+      "title": {
+        "fr": "Verbes de mouvement (идти / ехать)",
+        "en": "Verbs of motion (идти / ехать)",
+        "es": "Verbos de movimiento (идти / ехать)",
+        "ru": "Глаголы движения (идти / ехать)"
+      },
+      "rule": {
+        "fr": "Идти — à pied ; ехать — en véhicule (direction précise).",
+        "en": "Идти — on foot; ехать — by vehicle (specific direction).",
+        "es": "Идти — a pie; ехать — en vehículo (dirección concreta).",
+        "ru": "Идти — пешком; ехать — на транспорте (конкретное направление)."
+      },
+      "why": {
+        "en": "Choosing the right motion verb sounds natural.",
+        "es": "Elegir el verbo de movimiento correcto suena natural.",
+        "ru": "Правильный глагол движения звучит естественно."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "идти",
+          "пешком",
+          "Я иду в магазин."
+        ],
+        [
+          "ехать",
+          "на транспорте",
+          "Я еду на работу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ekologiya-b1-gq-2-1",
+          "prompt": "Пешком в парк: я ___ .",
+          "answer": "иду",
+          "options": [
+            "иду",
+            "еду",
+            "летаю"
+          ]
+        },
+        {
+          "id": "remote-ekologiya-b1-gq-2-2",
+          "prompt": "На автобусе: я ___ .",
+          "answer": "еду",
+          "options": [
+            "еду",
+            "иду",
+            "хожу"
+          ]
+        },
+        {
+          "id": "remote-ekologiya-b1-gq-2-3",
+          "prompt": "Конкретное направление на машине — глагол ___ .",
+          "answer": "ехать",
+          "options": [
+            "ехать",
+            "идти",
+            "быть"
+          ]
+        },
+        {
+          "id": "remote-ekologiya-b1-gq-2-4",
+          "prompt": "Свяжите с темой: отходы / энергия. Род «отходы»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-ekologiya-b1-gq-2-5",
+          "prompt": "Свяжите с темой: отходы / энергия. Род «отходы»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-ekologiya-b1-dict-1",
+        "l2": "Я считаю, что мы должны сократить количество отходов.",
+        "en": "In my opinion, we need to reduce our waste.",
+        "gloss": {
+          "en": "In my opinion, we need to reduce our waste.",
+          "es": "En mi opinión, necesitamos reducir nuestros residuos.",
+          "ru": "Я считаю, что нам необходимо сократить количество отходов."
+        },
+        "ipa": "jˈa stɕitˈaju tɕtˈo mˈɨ dˈolʐnɨ sokrˈatitʲ kolˈitɕjestvo otxˈodov"
+      },
+      {
+        "id": "remote-ekologiya-b1-dict-2",
+        "l2": "Если бы все рассортировали, было бы проще.",
+        "en": "If everyone sorted waste, it would be simpler.",
+        "gloss": {
+          "en": "If everyone sorted waste, it would be simpler.",
+          "es": "Si todo el mundo separara los residuos, sería más sencillo.",
+          "ru": "Если бы все сортировали мусор, было бы проще."
+        },
+        "ipa": "jeslˈi bˈɨ vsje rassortirovˈali bˈɨlo bˈɨ prˈoɕːje"
+      },
+      {
+        "id": "remote-ekologiya-b1-dict-3",
+        "l2": "Загрязнение воздуха становится настоящей проблемой.",
+        "en": "Air pollution is becoming a real problem.",
+        "gloss": {
+          "en": "Air pollution is becoming a real problem.",
+          "es": "La contaminación del aire se está convirtiendo en un problema real.",
+          "ru": "Загрязнение воздуха становится настоящей проблемой."
+        },
+        "ipa": "zaɡrjˈaznjenije vozdˈuxa stanovˈitsja nastˈojaɕːjej prˈobljemoj"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-ekologiya-b1-mean-1",
+        "l2": "Я считаю, что мы должны сократить количество отходов.",
+        "en": "In my opinion, we need to reduce our waste.",
+        "gloss": {
+          "en": "In my opinion, we need to reduce our waste.",
+          "es": "En mi opinión, necesitamos reducir nuestros residuos.",
+          "ru": "Я считаю, что нам необходимо сократить количество отходов."
+        }
+      },
+      {
+        "id": "remote-ekologiya-b1-mean-2",
+        "l2": "Если бы все рассортировали, было бы проще.",
+        "en": "If everyone sorted waste, it would be simpler.",
+        "gloss": {
+          "en": "If everyone sorted waste, it would be simpler.",
+          "es": "Si todo el mundo separara los residuos, sería más sencillo.",
+          "ru": "Если бы все сортировали мусор, было бы проще."
+        }
+      },
+      {
+        "id": "remote-ekologiya-b1-mean-3",
+        "l2": "Загрязнение воздуха становится настоящей проблемой.",
+        "en": "Air pollution is becoming a real problem.",
+        "gloss": {
+          "en": "Air pollution is becoming a real problem.",
+          "es": "La contaminación del aire se está convirtiendo en un problema real.",
+          "ru": "Загрязнение воздуха становится настоящей проблемой."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-ekologiya-b1-fren-1",
+        "l2": "среда",
+        "en": "environment",
+        "gloss": {
+          "en": "environment",
+          "es": "ambiente",
+          "ru": "среда"
+        }
+      },
+      {
+        "id": "remote-ekologiya-b1-fren-2",
+        "l2": "загрязнение",
+        "en": "pollution",
+        "gloss": {
+          "en": "pollution",
+          "es": "contaminación",
+          "ru": "загрязнение"
+        }
+      },
+      {
+        "id": "remote-ekologiya-b1-fren-3",
+        "l2": "отходы",
+        "en": "waste",
+        "gloss": {
+          "en": "waste",
+          "es": "desperdiciar",
+          "ru": "напрасно тратить"
+        }
+      },
+      {
+        "id": "remote-ekologiya-b1-fren-4",
+        "l2": "переработка",
+        "en": "recycling",
+        "gloss": {
+          "en": "recycling",
+          "es": "reciclaje",
+          "ru": "переработка"
+        }
+      },
+      {
+        "id": "remote-ekologiya-b1-fren-5",
+        "l2": "сортировка",
+        "en": "sorting (waste)",
+        "gloss": {
+          "en": "sorting (waste)",
+          "es": "clasificación (residuos)",
+          "ru": "сортировка (отходов)"
+        }
+      },
+      {
+        "id": "remote-ekologiya-b1-fren-6",
+        "l2": "энергия",
+        "en": "energy",
+        "gloss": {
+          "en": "energy",
+          "es": "energía",
+          "ru": "энергия"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-ekologiya-b1-alou-1",
+        "l2": "Я считаю, что мы должны сократить количество отходов.",
+        "en": "In my opinion, we need to reduce our waste.",
+        "gloss": {
+          "en": "In my opinion, we need to reduce our waste.",
+          "es": "En mi opinión, necesitamos reducir nuestros residuos.",
+          "ru": "Я считаю, что нам необходимо сократить количество отходов."
+        },
+        "ipa": "jˈa stɕitˈaju tɕtˈo mˈɨ dˈolʐnɨ sokrˈatitʲ kolˈitɕjestvo otxˈodov"
+      },
+      {
+        "id": "remote-ekologiya-b1-alou-2",
+        "l2": "Загрязнение воздуха становится настоящей проблемой.",
+        "en": "Air pollution is becoming a real problem.",
+        "gloss": {
+          "en": "Air pollution is becoming a real problem.",
+          "es": "La contaminación del aire se está convirtiendo en un problema real.",
+          "ru": "Загрязнение воздуха становится настоящей проблемой."
+        },
+        "ipa": "zaɡrjˈaznjenije vozdˈuxa stanovˈitsja nastˈojaɕːjej prˈobljemoj"
+      },
+      {
+        "id": "remote-ekologiya-b1-alou-3",
+        "l2": "Мы должны запретить самые опасные пестициды.",
+        "en": "We should ban the most dangerous pesticides.",
+        "gloss": {
+          "en": "We should ban the most dangerous pesticides.",
+          "es": "Deberíamos prohibir los pesticidas más peligrosos.",
+          "ru": "Мы должны запретить самые опасные пестициды."
+        },
+        "ipa": "mˈɨ dˈolʐnɨ zˈaprjetitʲ sˈamɨje opˈasnɨje pjestitsˈidɨ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-ekologiya-b1-unsc-1",
+        "l2": "Я езжу на поезде, чтобы меньше загрязнять окружающую среду.",
+        "en": "I take the train to pollute less.",
+        "gloss": {
+          "en": "I take the train to pollute less.",
+          "es": "Tomo el tren para contaminar menos.",
+          "ru": "Я езжу на поезде, чтобы меньше загрязнять окружающую среду."
+        },
+        "words": [
+          "Я",
+          "езжу",
+          "на",
+          "поезде,",
+          "чтобы",
+          "меньше",
+          "загрязнять",
+          "окружающую",
+          "среду."
+        ]
+      },
+      {
+        "id": "remote-ekologiya-b1-unsc-2",
+        "l2": "Мы должны запретить самые опасные пестициды.",
+        "en": "We should ban the most dangerous pesticides.",
+        "gloss": {
+          "en": "We should ban the most dangerous pesticides.",
+          "es": "Deberíamos prohibir los pesticidas más peligrosos.",
+          "ru": "Мы должны запретить самые опасные пестициды."
+        },
+        "words": [
+          "Мы",
+          "должны",
+          "запретить",
+          "самые",
+          "опасные",
+          "пестициды."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

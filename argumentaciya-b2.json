@@ -1,0 +1,844 @@
+{
+  "pratiquePack": 2,
+  "id": "argumentaciya-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "ru",
+  "title": {
+    "fr": "Argumentation B2 (RU)",
+    "en": "Argumentation B2 (RU)",
+    "es": "Argumentación B2 (RU)",
+    "ru": "Аргументация Б2"
+  },
+  "description": {
+    "fr": "Thèse, contre-argument, nuance, concession et recours à la preuve — pack russe.",
+    "en": "Claims, counterarguments, nuance, concession, and evidence — Russian pack.",
+    "es": "Reclamaciones, contraargumentos, matices, concesiones y pruebas — paquete ruso.",
+    "ru": "Претензии, контраргументы, нюансы, уступки и доказательства — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-argumentaciya-b2-1",
+      "l2": "претензия",
+      "en": "claim / thesis",
+      "gloss": {
+        "en": "claim / thesis",
+        "es": "reclamo / tesis",
+        "ru": "претензия / тезис"
+      },
+      "example": "Его тезис ясен, однако приведенные примеры остаются слишком конкретными.",
+      "ipa": "prjetjenzˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-argumentaciya-b2-2",
+      "l2": "контраргумент",
+      "en": "counterargument",
+      "gloss": {
+        "en": "counterargument",
+        "es": "contraargumento",
+        "ru": "контраргумент"
+      },
+      "example": "Самый серьезный контраргумент касается отсутствия сопоставимых данных.",
+      "ipa": "kontrˈarɡumjent",
+      "article": "м"
+    },
+    {
+      "id": "remote-argumentaciya-b2-3",
+      "l2": "нюанс",
+      "en": "nuance",
+      "gloss": {
+        "en": "nuance",
+        "es": "matiz",
+        "ru": "нюанс"
+      },
+      "example": "Удачно поставленный нюанс не ослабляет тезис, а делает его более достоверным.",
+      "ipa": "njˈuans",
+      "article": "м"
+    },
+    {
+      "id": "remote-argumentaciya-b2-4",
+      "l2": "уступка",
+      "en": "concession",
+      "gloss": {
+        "en": "concession",
+        "es": "concesión",
+        "ru": "уступка"
+      },
+      "example": "Уступка («конечно… однако») обезоруживает собеседника еще до ответа.",
+      "ipa": "ustˈupka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-argumentaciya-b2-5",
+      "l2": "аргумент",
+      "en": "argument",
+      "gloss": {
+        "en": "argument",
+        "es": "argumento",
+        "ru": "аргумент"
+      },
+      "example": "Аргумент – это не мнение: он основан на причине, которую можно обсуждать.",
+      "ipa": "ˈarɡumjent",
+      "article": "м"
+    },
+    {
+      "id": "remote-argumentaciya-b2-6",
+      "l2": "утверждение",
+      "en": "assertion",
+      "gloss": {
+        "en": "assertion",
+        "es": "afirmación",
+        "ru": "утверждение"
+      },
+      "example": "Это безапелляционное утверждение должно быть подтверждено хотя бы одним исследованием.",
+      "ipa": "ˈutvjerʐdjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-argumentaciya-b2-7",
+      "l2": "опровержение",
+      "en": "rebuttal / refutation",
+      "gloss": {
+        "en": "rebuttal / refutation",
+        "es": "refutación / refutación",
+        "ru": "опровержение / опровержение"
+      },
+      "example": "Опровержение состоит не в высмеивании другого, а в том, чтобы показать, где рассуждения терпят неудачу.",
+      "ipa": "oprˈovjerʐjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-argumentaciya-b2-8",
+      "l2": "предположение",
+      "en": "assumption / presupposition",
+      "gloss": {
+        "en": "assumption / presupposition",
+        "es": "suposición / presuposición",
+        "ru": "предположение/предпосылка"
+      },
+      "example": "Невысказанное предположение («все это знают») заслуживает того, чтобы его вынесли на свет.",
+      "ipa": "prjedpolˈoʐjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-argumentaciya-b2-9",
+      "l2": "аналогия",
+      "en": "analogy",
+      "gloss": {
+        "en": "analogy",
+        "es": "analogía",
+        "ru": "аналогия"
+      },
+      "example": "Аналогия поучительна, но она ничего не доказывает, если две ситуации расходятся.",
+      "ipa": "analoɡˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-argumentaciya-b2-10",
+      "l2": "риторика",
+      "en": "rhetoric",
+      "gloss": {
+        "en": "rhetoric",
+        "es": "retórica",
+        "ru": "риторика"
+      },
+      "example": "Блестящая риторика может замаскировать фундаментальную слабость, которую мы обнаруживаем слишком поздно.",
+      "ipa": "ritorˈika",
+      "article": "ж"
+    },
+    {
+      "id": "remote-argumentaciya-b2-11",
+      "l2": "возражение",
+      "en": "objection",
+      "gloss": {
+        "en": "objection",
+        "es": "objeción",
+        "ru": "возражение"
+      },
+      "example": "Возражение было удовлетворено, что позволило уточнить исходный тезис.",
+      "ipa": "vozrˈaʐjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-argumentaciya-b2-12",
+      "l2": "синтез",
+      "en": "synthesis",
+      "gloss": {
+        "en": "synthesis",
+        "es": "síntesis",
+        "ru": "синтез"
+      },
+      "example": "Окончательный синтез формулирует точки согласия, не стирая оставшиеся разногласия.",
+      "ipa": "sˈintjez",
+      "article": "м"
+    },
+    {
+      "id": "remote-argumentaciya-b2-13",
+      "l2": "иллюстрация",
+      "en": "illustration / example",
+      "gloss": {
+        "en": "illustration / example",
+        "es": "ilustración / ejemplo",
+        "ru": "иллюстрация/пример"
+      },
+      "example": "Эта конкретная иллюстрация делает аргумент более понятным для неспециализированной аудитории.",
+      "ipa": "illjustratsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-argumentaciya-b2-14",
+      "l2": "ставка",
+      "en": "stake / issue at stake",
+      "gloss": {
+        "en": "stake / issue at stake",
+        "es": "lo que está en juego/cuestión en juego",
+        "ru": "ставка / вопрос на кону"
+      },
+      "example": "Задача состоит не в том, чтобы «победить», а в том, чтобы прояснить, что на самом деле поставлено на карту.",
+      "ipa": "stˈavka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-argumentaciya-b2-15",
+      "l2": "парадокс",
+      "en": "paradox",
+      "gloss": {
+        "en": "paradox",
+        "es": "paradoja",
+        "ru": "парадокс"
+      },
+      "example": "Парадокс («чем меньше мы регулируем, тем меньше мы свободны») заставляет нас пересмотреть предпосылку.",
+      "ipa": "parˈadoks",
+      "article": "м"
+    },
+    {
+      "id": "remote-argumentaciya-b2-16",
+      "l2": "связующее",
+      "en": "connective / linking word",
+      "gloss": {
+        "en": "connective / linking word",
+        "es": "palabra conectiva/enlazante",
+        "ru": "связующее/связующее слово"
+      },
+      "example": "Неудачно выбранная связка (т. е. вместо или) искажает весь ход рассуждения.",
+      "ipa": "svjazˈujuɕːjeje",
+      "article": "ср"
+    },
+    {
+      "id": "remote-argumentaciya-b2-17",
+      "l2": "точка зрения",
+      "en": "point of view",
+      "gloss": {
+        "en": "point of view",
+        "es": "Punto de vista",
+        "ru": "точка зрения"
+      },
+      "example": "Его точка зрения не абсурдна; однако все начинается с сомнительной предпосылки.",
+      "ipa": "totɕka zrjenˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-argumentaciya-b2-18",
+      "l2": "актуальность",
+      "en": "relevance",
+      "gloss": {
+        "en": "relevance",
+        "es": "pertinencia",
+        "ru": "актуальность"
+      },
+      "example": "Об актуальности примера судят по тому, что он освещает, а не только по его поразительному характеру.",
+      "ipa": "aktuˈalʲnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-argumentaciya-b2-19",
+      "l2": "обобщение",
+      "en": "generalization",
+      "gloss": {
+        "en": "generalization",
+        "es": "generalización",
+        "ru": "обобщение"
+      },
+      "example": "Это оскорбительное обобщение основано на трех случаях, что делает его хрупким.",
+      "ipa": "obˈobɕːjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-argumentaciya-b2-20",
+      "l2": "дело",
+      "en": "case / plea",
+      "gloss": {
+        "en": "case / plea",
+        "es": "caso / alegato",
+        "ru": "дело/просьба"
+      },
+      "example": "Его призыв к компромиссу перевел дебаты на практический уровень.",
+      "ipa": "djelˈo",
+      "article": "ср"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-argumentaciya-b2-phrase-1",
+      "l2": "Конечно, возражение серьезное; Однако это не портит диссертацию полностью.",
+      "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+      "gloss": {
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+        "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+      },
+      "ipa": "kˈonjetɕno vozrˈaʐjenije sjerʲjeznˈoje odnˈako ˈɛto nje pˈortit dissjertatsˈiju polnˈostʲju"
+    },
+    {
+      "id": "remote-argumentaciya-b2-phrase-2",
+      "l2": "Хотя аналогия привлекательна, эти две ситуации несопоставимы.",
+      "en": "Although the analogy is appealing, the two situations are not comparable.",
+      "gloss": {
+        "en": "Although the analogy is appealing, the two situations are not comparable.",
+        "es": "Aunque la analogía resulta atractiva, las dos situaciones no son comparables.",
+        "ru": "Хотя аналогия привлекательна, эти две ситуации несопоставимы."
+      },
+      "ipa": "xˈotja analoɡˈija privljekˈatjelʲna ˈɛti dvje situatsˈii njesopostavˈimɨ"
+    },
+    {
+      "id": "remote-argumentaciya-b2-phrase-3",
+      "l2": "Кто-то может возразить, что риторика здесь важнее доказательств.",
+      "en": "One might object that rhetoric is winning out over evidence here.",
+      "gloss": {
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+        "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+      },
+      "ipa": "ktˈo tˈo mˈoʐjet vozrˈazitʲ tɕtˈo ritorˈika zdjesʲ vˈaʐnjeje dokˈazatjelʲstv"
+    },
+    {
+      "id": "remote-argumentaciya-b2-phrase-4",
+      "l2": "Уместно признать этот момент, чтобы дискуссия могла продвинуться вперед по основным вопросам.",
+      "en": "It is worth conceding this point so that the debate can move on to what matters.",
+      "gloss": {
+        "en": "It is worth conceding this point so that the debate can move on to what matters.",
+        "es": "Vale la pena admitir este punto para que el debate pueda pasar a lo que importa.",
+        "ru": "Стоит признать этот момент, чтобы дискуссия могла перейти к тому, что имеет значение."
+      },
+      "ipa": "ˈumjestno prˈiznatʲ ˈɛtot mˈomjent tɕtˈobɨ diskussˈija mˈoɡla prodvinˈutʲsja vpjerjed pˈo osnˈovnɨm voprˈosam"
+    },
+    {
+      "id": "remote-argumentaciya-b2-phrase-5",
+      "l2": "Я не уверен, что это обобщение оправдано.",
+      "en": "I am not convinced that this generalization is well-founded.",
+      "gloss": {
+        "en": "I am not convinced that this generalization is well-founded.",
+        "es": "No estoy convencido de que esta generalización esté bien fundada.",
+        "ru": "Я не уверен, что это обобщение обосновано."
+      },
+      "ipa": "jˈa nje ˈuvjerjen tɕtˈo ˈɛto obˈobɕːjenije opravdˈano"
+    },
+    {
+      "id": "remote-argumentaciya-b2-phrase-6",
+      "l2": "С другой стороны, удачно поставленный нюанс затрудняет опровержение тезиса.",
+      "en": "By contrast, a well-placed nuance makes the claim harder to refute.",
+      "gloss": {
+        "en": "By contrast, a well-placed nuance makes the claim harder to refute.",
+        "es": "Por el contrario, un matiz bien colocado hace que la afirmación sea más difícil de refutar.",
+        "ru": "Напротив, из-за хорошо продуманного нюанса это утверждение труднее опровергнуть."
+      },
+      "ipa": "s drˈuɡoj storˈonɨ udˈatɕno postˈavljennɨj njˈuans zatrˈudnjajet oprˈovjerʐjenije tjezˈisa"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-argumentaciya-b2-listen-1",
+      "l2": "Его тезис ясен, однако примеры остаются слишком частными.",
+      "en": "The claim is clear; however the examples remain too specific.",
+      "gloss": {
+        "en": "The claim is clear; however the examples remain too specific.",
+        "es": "El reclamo es claro; sin embargo, los ejemplos siguen siendo demasiado específicos.",
+        "ru": "Претензия ясна; однако примеры остаются слишком конкретными."
+      },
+      "word": "претензия",
+      "wordEn": "claim",
+      "wordGloss": {
+        "en": "claim",
+        "es": "afirmar",
+        "ru": "требовать"
+      },
+      "wordIpa": "prjetjenzˈija",
+      "distractors": [
+        "утверждение",
+        "синтез",
+        "дело"
+      ]
+    },
+    {
+      "id": "remote-argumentaciya-b2-listen-2",
+      "l2": "Самый серьезный контраргумент касается отсутствия данных.",
+      "en": "The most serious counterargument concerns the lack of comparable data.",
+      "gloss": {
+        "en": "The most serious counterargument concerns the lack of comparable data.",
+        "es": "El contraargumento más serio se refiere a la falta de datos comparables.",
+        "ru": "Самый серьезный контраргумент касается отсутствия сопоставимых данных."
+      },
+      "word": "контраргумент",
+      "wordEn": "counterargument",
+      "wordGloss": {
+        "en": "counterargument",
+        "es": "contraargumento",
+        "ru": "контраргумент"
+      },
+      "wordIpa": "kontrˈarɡumjent",
+      "distractors": [
+        "возражение",
+        "опровержение",
+        "уступка"
+      ]
+    },
+    {
+      "id": "remote-argumentaciya-b2-listen-3",
+      "l2": "Удачно поставленный нюанс не ослабляет тезис, а делает его более достоверным.",
+      "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+      "gloss": {
+        "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+        "es": "Un matiz bien colocado no debilita la afirmación; lo hace más creíble.",
+        "ru": "Удачно поставленный нюанс не ослабляет претензии; это делает его более достоверным."
+      },
+      "word": "нюанс",
+      "wordEn": "nuance",
+      "wordGloss": {
+        "en": "nuance",
+        "es": "matiz",
+        "ru": "нюанс"
+      },
+      "wordIpa": "njˈuans",
+      "distractors": [
+        "актуальность",
+        "связующее",
+        "риторика"
+      ]
+    },
+    {
+      "id": "remote-argumentaciya-b2-listen-4",
+      "l2": "Это оскорбительное обобщение основано всего на трех случаях.",
+      "en": "This careless generalization rests on only three cases.",
+      "gloss": {
+        "en": "This careless generalization rests on only three cases.",
+        "es": "Esta generalización descuidada se basa sólo en tres casos.",
+        "ru": "Это небрежное обобщение опирается всего на три случая."
+      },
+      "word": "обобщение",
+      "wordEn": "generalization",
+      "wordGloss": {
+        "en": "generalization",
+        "es": "generalización",
+        "ru": "обобщение"
+      },
+      "wordIpa": "obˈobɕːjenije",
+      "distractors": [
+        "аналогия",
+        "предположение",
+        "иллюстрация"
+      ]
+    }
+  ],
+  "prompts": [
+    "Почему признание точки зрения может усилить тезис, а не ослабить его?",
+    "Сравните сильный контраргумент с простой личной атакой.",
+    "На ваш взгляд, действительно ли аналогия может служить доказательством? Оправдывать.",
+    "Если бы вам пришлось оговорить слишком четкое мнение, как бы вы это сделали?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-argumentaciya-b2-grammar-1",
+      "title": {
+        "fr": "Instrumental (кем / чем)",
+        "en": "Instrumental case (кем / чем)",
+        "es": "Caso instrumental (кем / чем)",
+        "ru": "Творительный падеж (кем / чем)"
+      },
+      "rule": {
+        "fr": "Творительный marque le moyen, l’accompagnement ou le prédicat (стать врачом).",
+        "en": "Instrumental marks means, company, or predicate nouns (стать врачом).",
+        "es": "El instrumental marca medio, compañía o predicado (стать врачом).",
+        "ru": "Творительный обозначает средство, совместность или предикатив (стать врачом)."
+      },
+      "why": {
+        "en": "Needed for professions, tools, and «with».",
+        "es": "Necesario para profesiones, herramientas y «con».",
+        "ru": "Нужен для профессий, инструментов и значения «с»."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "чем",
+          "средство",
+          "Пишу ручкой / говорю о контраргумент."
+        ],
+        [
+          "кем",
+          "профессия",
+          "Он стал врачом."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-argumentaciya-b2-gq-1-1",
+          "prompt": "Стать врачом — ___ падеж.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "родительный",
+            "винительный"
+          ]
+        },
+        {
+          "id": "remote-argumentaciya-b2-gq-1-2",
+          "prompt": "Я пишу ___ . (карандаш)",
+          "answer": "карандашом",
+          "options": [
+            "карандашом",
+            "карандаш",
+            "карандаша"
+          ]
+        },
+        {
+          "id": "remote-argumentaciya-b2-gq-1-3",
+          "prompt": "Тема «контраргумент» часто требует предложных конструкций.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "именительный",
+            "звательный"
+          ]
+        },
+        {
+          "id": "remote-argumentaciya-b2-gq-1-4",
+          "prompt": "Свяжите с темой: контраргумент / аргумент. Род «контраргумент»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-argumentaciya-b2-gq-1-5",
+          "prompt": "Свяжите с темой: контраргумент / аргумент. Род «контраргумент»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-argumentaciya-b2-grammar-2",
+      "title": {
+        "fr": "Aspect perfectif / imperfectif",
+        "en": "Perfective / imperfective aspect",
+        "es": "Aspecto perfectivo / imperfectivo",
+        "ru": "Вид глагола: совершенный / несовершенный"
+      },
+      "rule": {
+        "fr": "Imperfectif = processus / habitude ; perfectif = résultat achevé.",
+        "en": "Imperfective = process / habit; perfective = completed result.",
+        "es": "Imperfectivo = proceso / hábito; perfectivo = resultado terminado.",
+        "ru": "Несовершенный — процесс / привычка; совершенный — завершённый результат."
+      },
+      "why": {
+        "en": "Aspect is central to natural Russian storytelling.",
+        "es": "El aspecto es central en la narración rusa natural.",
+        "ru": "Вид — ключ к естественному русскому рассказу."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "НСВ",
+          "процесс / привычка",
+          "Я читал книгу час."
+        ],
+        [
+          "СВ",
+          "результат",
+          "Я прочитал книгу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-argumentaciya-b2-gq-2-1",
+          "prompt": "Результат: я ___ книгу. (прочитать)",
+          "answer": "прочитал",
+          "options": [
+            "прочитал",
+            "читал",
+            "буду читать"
+          ]
+        },
+        {
+          "id": "remote-argumentaciya-b2-gq-2-2",
+          "prompt": "Процесс: я долго ___ . (читать)",
+          "answer": "читал",
+          "options": [
+            "читал",
+            "прочитал",
+            "прочту"
+          ]
+        },
+        {
+          "id": "remote-argumentaciya-b2-gq-2-3",
+          "prompt": "Привычка обычно выражается ___ видом.",
+          "answer": "несовершенным",
+          "options": [
+            "несовершенным",
+            "совершенным",
+            "будущим"
+          ]
+        },
+        {
+          "id": "remote-argumentaciya-b2-gq-2-4",
+          "prompt": "Свяжите с темой: нюанс / утверждение. Род «нюанс»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-argumentaciya-b2-gq-2-5",
+          "prompt": "Свяжите с темой: нюанс / утверждение. Род «нюанс»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-argumentaciya-b2-dict-1",
+        "l2": "Конечно, возражение серьезное; Однако это не портит диссертацию полностью.",
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "gloss": {
+          "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+          "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+        },
+        "ipa": "kˈonjetɕno vozrˈaʐjenije sjerʲjeznˈoje odnˈako ˈɛto nje pˈortit dissjertatsˈiju polnˈostʲju"
+      },
+      {
+        "id": "remote-argumentaciya-b2-dict-2",
+        "l2": "Хотя аналогия привлекательна, эти две ситуации несопоставимы.",
+        "en": "Although the analogy is appealing, the two situations are not comparable.",
+        "gloss": {
+          "en": "Although the analogy is appealing, the two situations are not comparable.",
+          "es": "Aunque la analogía resulta atractiva, las dos situaciones no son comparables.",
+          "ru": "Хотя аналогия привлекательна, эти две ситуации несопоставимы."
+        },
+        "ipa": "xˈotja analoɡˈija privljekˈatjelʲna ˈɛti dvje situatsˈii njesopostavˈimɨ"
+      },
+      {
+        "id": "remote-argumentaciya-b2-dict-3",
+        "l2": "Кто-то может возразить, что риторика здесь важнее доказательств.",
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "gloss": {
+          "en": "One might object that rhetoric is winning out over evidence here.",
+          "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+          "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+        },
+        "ipa": "ktˈo tˈo mˈoʐjet vozrˈazitʲ tɕtˈo ritorˈika zdjesʲ vˈaʐnjeje dokˈazatjelʲstv"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-argumentaciya-b2-mean-1",
+        "l2": "Конечно, возражение серьезное; Однако это не портит диссертацию полностью.",
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "gloss": {
+          "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+          "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+        }
+      },
+      {
+        "id": "remote-argumentaciya-b2-mean-2",
+        "l2": "Хотя аналогия привлекательна, эти две ситуации несопоставимы.",
+        "en": "Although the analogy is appealing, the two situations are not comparable.",
+        "gloss": {
+          "en": "Although the analogy is appealing, the two situations are not comparable.",
+          "es": "Aunque la analogía resulta atractiva, las dos situaciones no son comparables.",
+          "ru": "Хотя аналогия привлекательна, эти две ситуации несопоставимы."
+        }
+      },
+      {
+        "id": "remote-argumentaciya-b2-mean-3",
+        "l2": "Кто-то может возразить, что риторика здесь важнее доказательств.",
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "gloss": {
+          "en": "One might object that rhetoric is winning out over evidence here.",
+          "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+          "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-argumentaciya-b2-fren-1",
+        "l2": "претензия",
+        "en": "claim",
+        "gloss": {
+          "en": "claim",
+          "es": "afirmar",
+          "ru": "требовать"
+        }
+      },
+      {
+        "id": "remote-argumentaciya-b2-fren-2",
+        "l2": "контраргумент",
+        "en": "counterargument",
+        "gloss": {
+          "en": "counterargument",
+          "es": "contraargumento",
+          "ru": "контраргумент"
+        }
+      },
+      {
+        "id": "remote-argumentaciya-b2-fren-3",
+        "l2": "нюанс",
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        }
+      },
+      {
+        "id": "remote-argumentaciya-b2-fren-4",
+        "l2": "уступка",
+        "en": "concession",
+        "gloss": {
+          "en": "concession",
+          "es": "concesión",
+          "ru": "уступка"
+        }
+      },
+      {
+        "id": "remote-argumentaciya-b2-fren-5",
+        "l2": "аргумент",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        }
+      },
+      {
+        "id": "remote-argumentaciya-b2-fren-6",
+        "l2": "утверждение",
+        "en": "assertion",
+        "gloss": {
+          "en": "assertion",
+          "es": "afirmación",
+          "ru": "утверждение"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-argumentaciya-b2-alou-1",
+        "l2": "Конечно, возражение серьезное; Однако это не портит диссертацию полностью.",
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "gloss": {
+          "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+          "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+        },
+        "ipa": "kˈonjetɕno vozrˈaʐjenije sjerʲjeznˈoje odnˈako ˈɛto nje pˈortit dissjertatsˈiju polnˈostʲju"
+      },
+      {
+        "id": "remote-argumentaciya-b2-alou-2",
+        "l2": "Кто-то может возразить, что риторика здесь важнее доказательств.",
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "gloss": {
+          "en": "One might object that rhetoric is winning out over evidence here.",
+          "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+          "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+        },
+        "ipa": "ktˈo tˈo mˈoʐjet vozrˈazitʲ tɕtˈo ritorˈika zdjesʲ vˈaʐnjeje dokˈazatjelʲstv"
+      },
+      {
+        "id": "remote-argumentaciya-b2-alou-3",
+        "l2": "Я не уверен, что это обобщение оправдано.",
+        "en": "I am not convinced that this generalization is well-founded.",
+        "gloss": {
+          "en": "I am not convinced that this generalization is well-founded.",
+          "es": "No estoy convencido de que esta generalización esté bien fundada.",
+          "ru": "Я не уверен, что это обобщение обосновано."
+        },
+        "ipa": "jˈa nje ˈuvjerjen tɕtˈo ˈɛto obˈobɕːjenije opravdˈano"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-argumentaciya-b2-unsc-1",
+        "l2": "Удачно поставленный нюанс не ослабляет тезис, а делает его более достоверным.",
+        "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+        "gloss": {
+          "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+          "es": "Un matiz bien colocado no debilita la afirmación; lo hace más creíble.",
+          "ru": "Удачно поставленный нюанс не ослабляет претензии; это делает его более достоверным."
+        },
+        "words": [
+          "Удачно",
+          "поставленный",
+          "нюанс",
+          "не",
+          "ослабляет",
+          "тезис,",
+          "а",
+          "делает",
+          "его",
+          "более",
+          "достоверным."
+        ]
+      },
+      {
+        "id": "remote-argumentaciya-b2-unsc-2",
+        "l2": "Это оскорбительное обобщение основано на трех случаях, что делает его хрупким.",
+        "en": "This careless generalization rests on three cases, which makes it fragile.",
+        "gloss": {
+          "en": "This careless generalization rests on three cases, which makes it fragile.",
+          "es": "Esta generalización descuidada se basa en tres casos, lo que la hace frágil.",
+          "ru": "Это небрежное обобщение опирается на три случая, что делает его хрупким."
+        },
+        "words": [
+          "Это",
+          "оскорбительное",
+          "обобщение",
+          "основано",
+          "на",
+          "трех",
+          "случаях,",
+          "что",
+          "делает",
+          "его",
+          "хрупким."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

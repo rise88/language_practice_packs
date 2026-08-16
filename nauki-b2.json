@@ -1,0 +1,838 @@
+{
+  "pratiquePack": 2,
+  "id": "nauki-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "ru",
+  "title": {
+    "fr": "Sciences B2 (RU)",
+    "en": "Science B2 (RU)",
+    "es": "Ciencias B2 (RU)",
+    "ru": "Наука B2"
+  },
+  "description": {
+    "fr": "Recherche, expérience, hypothèse, preuves et travail de laboratoire — pack russe.",
+    "en": "Research, experiments, hypotheses, evidence, and lab work — Russian pack.",
+    "es": "Investigación, experimentos, hipótesis, evidencia y trabajo de laboratorio — paquete ruso.",
+    "ru": "Исследования, эксперименты, гипотезы, доказательства и лабораторные работы — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-nauki-b2-1",
+      "l2": "гипотеза",
+      "en": "hypothesis",
+      "gloss": {
+        "en": "hypothesis",
+        "es": "hipótesis",
+        "ru": "гипотеза"
+      },
+      "example": "Первоначальная гипотеза не выдержала второй серии измерений.",
+      "ipa": "ɡipˈotjeza",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauki-b2-2",
+      "l2": "эксперимент",
+      "en": "experiment",
+      "gloss": {
+        "en": "experiment",
+        "es": "experimento",
+        "ru": "эксперимент"
+      },
+      "example": "Эксперимент был воспроизведен в другой лаборатории для подтверждения результата.",
+      "ipa": "ˈɛkspjerimjent",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauki-b2-3",
+      "l2": "доказательства",
+      "en": "evidence / proof",
+      "gloss": {
+        "en": "evidence / proof",
+        "es": "evidencia / prueba",
+        "ru": "доказательства / доказательства"
+      },
+      "example": "Одного этого доказательства недостаточно, тем не менее, оно направляет исследование.",
+      "ipa": "dokazˈatjelʲstva",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauki-b2-4",
+      "l2": "лаборатория",
+      "en": "laboratory",
+      "gloss": {
+        "en": "laboratory",
+        "es": "laboratorio",
+        "ru": "лаборатория"
+      },
+      "example": "В лаборатории не хватает квалифицированного персонала для анализа всех проб.",
+      "ipa": "laboratorˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauki-b2-5",
+      "l2": "исследовать",
+      "en": "research",
+      "gloss": {
+        "en": "research",
+        "es": "investigación",
+        "ru": "исследовать"
+      },
+      "example": "Фундаментальные исследования продвигаются медленно, но их применение может быть внезапным.",
+      "ipa": "issljedˈovatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauki-b2-6",
+      "l2": "протокол",
+      "en": "protocol",
+      "gloss": {
+        "en": "protocol",
+        "es": "protocolo",
+        "ru": "протокол"
+      },
+      "example": "Протокол требует, чтобы каждое отклонение, даже минимальное, фиксировалось в тетради.",
+      "ipa": "protˈokol",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauki-b2-7",
+      "l2": "образец",
+      "en": "sample",
+      "gloss": {
+        "en": "sample",
+        "es": "muestra",
+        "ru": "образец"
+      },
+      "example": "Выборка была слишком мала, чтобы ее можно было обобщить на всю совокупность.",
+      "ipa": "ˈobrazjets",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauki-b2-8",
+      "l2": "переменная",
+      "en": "variable",
+      "gloss": {
+        "en": "variable",
+        "es": "variable",
+        "ru": "переменная"
+      },
+      "example": "Неконтролируемая переменная, вероятно, исказила первые измерения.",
+      "ipa": "pjerjemjennˈaja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauki-b2-9",
+      "l2": "публикация",
+      "en": "publication",
+      "gloss": {
+        "en": "publication",
+        "es": "publicación",
+        "ru": "публикация"
+      },
+      "example": "Публикация была отозвана после сообщения о методологической ошибке.",
+      "ipa": "publikatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauki-b2-10",
+      "l2": "результат",
+      "en": "result",
+      "gloss": {
+        "en": "result",
+        "es": "resultado",
+        "ru": "результат"
+      },
+      "example": "Результаты различаются в зависимости от того, включена ли эта контрольная группа.",
+      "ipa": "rjezˈulʲtat",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauki-b2-11",
+      "l2": "наблюдение",
+      "en": "observation",
+      "gloss": {
+        "en": "observation",
+        "es": "observación",
+        "ru": "наблюдение"
+      },
+      "example": "Случайное наблюдение возродило преимущество, от которого команда отказалась.",
+      "ipa": "nabljˈudjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-nauki-b2-12",
+      "l2": "теория",
+      "en": "theory",
+      "gloss": {
+        "en": "theory",
+        "es": "teoría",
+        "ru": "теория"
+      },
+      "example": "Эта теория объясняет часть данных, однако оставляет аномалии.",
+      "ipa": "tjeorˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauki-b2-13",
+      "l2": "данные",
+      "en": "data",
+      "gloss": {
+        "en": "data",
+        "es": "datos",
+        "ru": "данные"
+      },
+      "example": "Необработанные данные будут доступны в открытом доступе после публикации.",
+      "ipa": "dˈannɨje",
+      "article": "ср"
+    },
+    {
+      "id": "remote-nauki-b2-14",
+      "l2": "заключение",
+      "en": "conclusion",
+      "gloss": {
+        "en": "conclusion",
+        "es": "conclusión",
+        "ru": "заключение"
+      },
+      "example": "Вывод остается осторожным, поскольку выборка остается слишком ограниченной.",
+      "ipa": "zakljˈutɕjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-nauki-b2-15",
+      "l2": "исследователь",
+      "en": "researcher",
+      "gloss": {
+        "en": "researcher",
+        "es": "investigador",
+        "ru": "исследователь"
+      },
+      "example": "Исследователь представил свою работу на международной конференции.",
+      "ipa": "issljedˈovatjelʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauki-b2-16",
+      "l2": "метод",
+      "en": "method",
+      "gloss": {
+        "en": "method",
+        "es": "método",
+        "ru": "метод"
+      },
+      "example": "Более строгий метод позволил бы избежать этого артефакта.",
+      "ipa": "mjetˈod",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauki-b2-17",
+      "l2": "измерение",
+      "en": "measurement",
+      "gloss": {
+        "en": "measurement",
+        "es": "medición",
+        "ru": "измерение"
+      },
+      "example": "Каждое измерение повторялось три раза, чтобы уменьшить неопределенность.",
+      "ipa": "ˈizmjerjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-nauki-b2-18",
+      "l2": "корреляция",
+      "en": "correlation",
+      "gloss": {
+        "en": "correlation",
+        "es": "correlación",
+        "ru": "корреляция"
+      },
+      "example": "Корреляция не устанавливает причинно-следственной связи, кто бы что ни говорил.",
+      "ipa": "korrjeljatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauki-b2-19",
+      "l2": "контрольная группа",
+      "en": "control group",
+      "gloss": {
+        "en": "control group",
+        "es": "grupo de control",
+        "ru": "контрольная группа"
+      },
+      "example": "Контрольная группа не получала лечения, в отличие от тестируемой группы.",
+      "ipa": "kontrolʲnaja ɡrˈuppa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauki-b2-20",
+      "l2": "действительность",
+      "en": "validity",
+      "gloss": {
+        "en": "validity",
+        "es": "validez",
+        "ru": "действительность"
+      },
+      "example": "Достоверность исследования зависит от качества протокола и образца.",
+      "ipa": "djejstvˈitjelʲnostʲ",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-nauki-b2-phrase-1",
+      "l2": "Очень важно, чтобы этот опыт мог быть воспроизведен независимой командой.",
+      "en": "It is essential that the experiment be reproducible by an independent team.",
+      "gloss": {
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "es": "Es fundamental que el experimento sea reproducible por un equipo independiente.",
+        "ru": "Очень важно, чтобы эксперимент мог быть воспроизведен независимой командой."
+      },
+      "ipa": "ˈotɕjenʲ vˈaʐno tɕtˈobɨ ˈɛtot ˈopɨt mˈoɡ bˈɨtʲ vosprˈoizvjedjen njezavisˈimoj komˈandoj"
+    },
+    {
+      "id": "remote-nauki-b2-phrase-2",
+      "l2": "Исследователи уже собрали данные, прежде чем сформулировать окончательную гипотезу.",
+      "en": "The researchers had already collected the data before formulating the final hypothesis.",
+      "gloss": {
+        "en": "The researchers had already collected the data before formulating the final hypothesis.",
+        "es": "Los investigadores ya habían recopilado los datos antes de formular la hipótesis final.",
+        "ru": "Исследователи уже собрали данные, прежде чем сформулировать окончательную гипотезу."
+      },
+      "ipa": "issljedovˈatjeli ˈuʐje sobrˈali dˈannɨje prjeʐdje tɕjem sformulirˈovatʲ okontɕatjelʲnˈuju ɡipˈotjezu"
+    },
+    {
+      "id": "remote-nauki-b2-phrase-3",
+      "l2": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен.",
+      "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+      "gloss": {
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "es": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+        "ru": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен."
+      },
+      "ipa": "jeslˈi bˈɨ protˈokol bˈɨl bˈoljeje strˈoɡim rˈisk oʂˈibki izmjerjenˈija bˈɨl bˈɨ ˈumjenʲʂjen"
+    },
+    {
+      "id": "remote-nauki-b2-phrase-4",
+      "l2": "Корреляция не подразумевает причинно-следственную связь, однако она может направлять исследования.",
+      "en": "A correlation does not imply causation; nevertheless it can guide the research.",
+      "gloss": {
+        "en": "A correlation does not imply causation; nevertheless it can guide the research.",
+        "es": "Una correlación no implica causalidad; sin embargo, puede guiar la investigación.",
+        "ru": "Корреляция не подразумевает причинно-следственную связь; тем не менее, он может направлять исследование."
+      },
+      "ipa": "korrjeljatsˈija nje podrazˈumjevajet pritɕˈinno sljedstvjennˈuju svjˈazʲ odnˈako ˈona mˈoʐjet naprˈavljatʲ issljedovanˈija"
+    },
+    {
+      "id": "remote-nauki-b2-phrase-5",
+      "l2": "Хотя результат многообещающий, выборка остается слишком маленькой.",
+      "en": "Although the result is promising, the sample remains too limited.",
+      "gloss": {
+        "en": "Although the result is promising, the sample remains too limited.",
+        "es": "Aunque el resultado es prometedor, la muestra sigue siendo demasiado limitada.",
+        "ru": "Хотя результат многообещающий, выборка остается слишком ограниченной."
+      },
+      "ipa": "xˈotja rjezˈulʲtat mnoɡoobjeɕːajˈuɕːij vɨbˈorka ostˈajetsja slˈiʂkom mˈaljenʲkoj"
+    },
+    {
+      "id": "remote-nauki-b2-phrase-6",
+      "l2": "Можно возразить, что теория еще не объясняет всех аномалий.",
+      "en": "One might object that the theory does not yet explain all the anomalies.",
+      "gloss": {
+        "en": "One might object that the theory does not yet explain all the anomalies.",
+        "es": "Se podría objetar que la teoría aún no explica todas las anomalías.",
+        "ru": "Можно возразить, что теория еще не объясняет всех аномалий."
+      },
+      "ipa": "mˈoʐno vozrˈazitʲ tɕtˈo tjeorˈija jeɕːje nje objˈasnjajet vsjex anomˈalij"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-nauki-b2-listen-1",
+      "l2": "Первоначальная гипотеза не выдержала второй серии измерений.",
+      "en": "The initial hypothesis did not withstand the second series of measurements.",
+      "gloss": {
+        "en": "The initial hypothesis did not withstand the second series of measurements.",
+        "es": "La hipótesis inicial no resistió la segunda serie de mediciones.",
+        "ru": "Первоначальная гипотеза не выдержала вторую серию измерений."
+      },
+      "word": "гипотеза",
+      "wordEn": "hypothesis",
+      "wordGloss": {
+        "en": "hypothesis",
+        "es": "hipótesis",
+        "ru": "гипотеза"
+      },
+      "wordIpa": "ɡipˈotjeza",
+      "distractors": [
+        "теория",
+        "заключение",
+        "метод"
+      ]
+    },
+    {
+      "id": "remote-nauki-b2-listen-2",
+      "l2": "Протокол требует, чтобы каждое отклонение фиксировалось в тетради.",
+      "en": "The protocol requires every discrepancy to be recorded in the notebook.",
+      "gloss": {
+        "en": "The protocol requires every discrepancy to be recorded in the notebook.",
+        "es": "El protocolo exige que cada discrepancia se registre en un cuaderno.",
+        "ru": "Протокол требует, чтобы каждое несоответствие фиксировалось в тетради."
+      },
+      "word": "протокол",
+      "wordEn": "protocol",
+      "wordGloss": {
+        "en": "protocol",
+        "es": "protocolo",
+        "ru": "протокол"
+      },
+      "wordIpa": "protˈokol",
+      "distractors": [
+        "лаборатория",
+        "публикация",
+        "действительность"
+      ]
+    },
+    {
+      "id": "remote-nauki-b2-listen-3",
+      "l2": "Выборка была слишком мала, чтобы обобщать.",
+      "en": "The sample was too limited for the findings to be generalised.",
+      "gloss": {
+        "en": "The sample was too limited for the findings to be generalised.",
+        "es": "La muestra era demasiado limitada para generalizar los hallazgos.",
+        "ru": "Выборка была слишком ограничена, чтобы можно было обобщить результаты."
+      },
+      "word": "образец",
+      "wordEn": "sample",
+      "wordGloss": {
+        "en": "sample",
+        "es": "muestra",
+        "ru": "образец"
+      },
+      "wordIpa": "ˈobrazjets",
+      "distractors": [
+        "контрольная группа",
+        "переменная",
+        "измерение"
+      ]
+    },
+    {
+      "id": "remote-nauki-b2-listen-4",
+      "l2": "Корреляция не устанавливает причину и следствие.",
+      "en": "A correlation does not establish a causal link.",
+      "gloss": {
+        "en": "A correlation does not establish a causal link.",
+        "es": "Una correlación no establece un vínculo causal.",
+        "ru": "Корреляция не устанавливает причинно-следственной связи."
+      },
+      "word": "корреляция",
+      "wordEn": "correlation",
+      "wordGloss": {
+        "en": "correlation",
+        "es": "correlación",
+        "ru": "корреляция"
+      },
+      "wordIpa": "korrjeljatsˈija",
+      "distractors": [
+        "доказательства",
+        "наблюдение",
+        "исследовать"
+      ]
+    }
+  ],
+  "prompts": [
+    "Почему эксперимент должен быть воспроизводимым? Проиллюстрируйте свою точку зрения.",
+    "Объясните разницу между корреляцией и причинно-следственной связью.",
+    "Если бы у вас была лаборатория, как бы вы обеспечили достоверность результатов?",
+    "Сравните твердую гипотезу и простую интуицию: что их отличает?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-nauki-b2-grammar-1",
+      "title": {
+        "fr": "Instrumental (кем / чем)",
+        "en": "Instrumental case (кем / чем)",
+        "es": "Caso instrumental (кем / чем)",
+        "ru": "Творительный падеж (кем / чем)"
+      },
+      "rule": {
+        "fr": "Творительный marque le moyen, l’accompagnement ou le prédicat (стать врачом).",
+        "en": "Instrumental marks means, company, or predicate nouns (стать врачом).",
+        "es": "El instrumental marca medio, compañía o predicado (стать врачом).",
+        "ru": "Творительный обозначает средство, совместность или предикатив (стать врачом)."
+      },
+      "why": {
+        "en": "Needed for professions, tools, and «with».",
+        "es": "Necesario para profesiones, herramientas y «con».",
+        "ru": "Нужен для профессий, инструментов и значения «с»."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "чем",
+          "средство",
+          "Пишу ручкой / говорю о эксперимент."
+        ],
+        [
+          "кем",
+          "профессия",
+          "Он стал врачом."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-nauki-b2-gq-1-1",
+          "prompt": "Стать врачом — ___ падеж.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "родительный",
+            "винительный"
+          ]
+        },
+        {
+          "id": "remote-nauki-b2-gq-1-2",
+          "prompt": "Я пишу ___ . (карандаш)",
+          "answer": "карандашом",
+          "options": [
+            "карандашом",
+            "карандаш",
+            "карандаша"
+          ]
+        },
+        {
+          "id": "remote-nauki-b2-gq-1-3",
+          "prompt": "Тема «эксперимент» часто требует предложных конструкций.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "именительный",
+            "звательный"
+          ]
+        },
+        {
+          "id": "remote-nauki-b2-gq-1-4",
+          "prompt": "Свяжите с темой: эксперимент / исследовать. Род «эксперимент»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-nauki-b2-gq-1-5",
+          "prompt": "Свяжите с темой: эксперимент / исследовать. Род «эксперимент»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-nauki-b2-grammar-2",
+      "title": {
+        "fr": "Aspect perfectif / imperfectif",
+        "en": "Perfective / imperfective aspect",
+        "es": "Aspecto perfectivo / imperfectivo",
+        "ru": "Вид глагола: совершенный / несовершенный"
+      },
+      "rule": {
+        "fr": "Imperfectif = processus / habitude ; perfectif = résultat achevé.",
+        "en": "Imperfective = process / habit; perfective = completed result.",
+        "es": "Imperfectivo = proceso / hábito; perfectivo = resultado terminado.",
+        "ru": "Несовершенный — процесс / привычка; совершенный — завершённый результат."
+      },
+      "why": {
+        "en": "Aspect is central to natural Russian storytelling.",
+        "es": "El aspecto es central en la narración rusa natural.",
+        "ru": "Вид — ключ к естественному русскому рассказу."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "НСВ",
+          "процесс / привычка",
+          "Я читал книгу час."
+        ],
+        [
+          "СВ",
+          "результат",
+          "Я прочитал книгу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-nauki-b2-gq-2-1",
+          "prompt": "Результат: я ___ книгу. (прочитать)",
+          "answer": "прочитал",
+          "options": [
+            "прочитал",
+            "читал",
+            "буду читать"
+          ]
+        },
+        {
+          "id": "remote-nauki-b2-gq-2-2",
+          "prompt": "Процесс: я долго ___ . (читать)",
+          "answer": "читал",
+          "options": [
+            "читал",
+            "прочитал",
+            "прочту"
+          ]
+        },
+        {
+          "id": "remote-nauki-b2-gq-2-3",
+          "prompt": "Привычка обычно выражается ___ видом.",
+          "answer": "несовершенным",
+          "options": [
+            "несовершенным",
+            "совершенным",
+            "будущим"
+          ]
+        },
+        {
+          "id": "remote-nauki-b2-gq-2-4",
+          "prompt": "Свяжите с темой: доказательства / протокол. Род «доказательства»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-nauki-b2-gq-2-5",
+          "prompt": "Свяжите с темой: доказательства / протокол. Род «доказательства»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-nauki-b2-dict-1",
+        "l2": "Очень важно, чтобы этот опыт мог быть воспроизведен независимой командой.",
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "gloss": {
+          "en": "It is essential that the experiment be reproducible by an independent team.",
+          "es": "Es fundamental que el experimento sea reproducible por un equipo independiente.",
+          "ru": "Очень важно, чтобы эксперимент мог быть воспроизведен независимой командой."
+        },
+        "ipa": "ˈotɕjenʲ vˈaʐno tɕtˈobɨ ˈɛtot ˈopɨt mˈoɡ bˈɨtʲ vosprˈoizvjedjen njezavisˈimoj komˈandoj"
+      },
+      {
+        "id": "remote-nauki-b2-dict-2",
+        "l2": "Исследователи уже собрали данные, прежде чем сформулировать окончательную гипотезу.",
+        "en": "The researchers had already collected the data before formulating the final hypothesis.",
+        "gloss": {
+          "en": "The researchers had already collected the data before formulating the final hypothesis.",
+          "es": "Los investigadores ya habían recopilado los datos antes de formular la hipótesis final.",
+          "ru": "Исследователи уже собрали данные, прежде чем сформулировать окончательную гипотезу."
+        },
+        "ipa": "issljedovˈatjeli ˈuʐje sobrˈali dˈannɨje prjeʐdje tɕjem sformulirˈovatʲ okontɕatjelʲnˈuju ɡipˈotjezu"
+      },
+      {
+        "id": "remote-nauki-b2-dict-3",
+        "l2": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен.",
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "gloss": {
+          "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+          "es": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+          "ru": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен."
+        },
+        "ipa": "jeslˈi bˈɨ protˈokol bˈɨl bˈoljeje strˈoɡim rˈisk oʂˈibki izmjerjenˈija bˈɨl bˈɨ ˈumjenʲʂjen"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-nauki-b2-mean-1",
+        "l2": "Очень важно, чтобы этот опыт мог быть воспроизведен независимой командой.",
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "gloss": {
+          "en": "It is essential that the experiment be reproducible by an independent team.",
+          "es": "Es fundamental que el experimento sea reproducible por un equipo independiente.",
+          "ru": "Очень важно, чтобы эксперимент мог быть воспроизведен независимой командой."
+        }
+      },
+      {
+        "id": "remote-nauki-b2-mean-2",
+        "l2": "Исследователи уже собрали данные, прежде чем сформулировать окончательную гипотезу.",
+        "en": "The researchers had already collected the data before formulating the final hypothesis.",
+        "gloss": {
+          "en": "The researchers had already collected the data before formulating the final hypothesis.",
+          "es": "Los investigadores ya habían recopilado los datos antes de formular la hipótesis final.",
+          "ru": "Исследователи уже собрали данные, прежде чем сформулировать окончательную гипотезу."
+        }
+      },
+      {
+        "id": "remote-nauki-b2-mean-3",
+        "l2": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен.",
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "gloss": {
+          "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+          "es": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+          "ru": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-nauki-b2-fren-1",
+        "l2": "гипотеза",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        }
+      },
+      {
+        "id": "remote-nauki-b2-fren-2",
+        "l2": "эксперимент",
+        "en": "experiment",
+        "gloss": {
+          "en": "experiment",
+          "es": "experimento",
+          "ru": "эксперимент"
+        }
+      },
+      {
+        "id": "remote-nauki-b2-fren-3",
+        "l2": "доказательства",
+        "en": "evidence",
+        "gloss": {
+          "en": "evidence",
+          "es": "evidencia",
+          "ru": "доказательство"
+        }
+      },
+      {
+        "id": "remote-nauki-b2-fren-4",
+        "l2": "лаборатория",
+        "en": "laboratory",
+        "gloss": {
+          "en": "laboratory",
+          "es": "laboratorio",
+          "ru": "лаборатория"
+        }
+      },
+      {
+        "id": "remote-nauki-b2-fren-5",
+        "l2": "исследовать",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        }
+      },
+      {
+        "id": "remote-nauki-b2-fren-6",
+        "l2": "протокол",
+        "en": "protocol",
+        "gloss": {
+          "en": "protocol",
+          "es": "protocolo",
+          "ru": "протокол"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-nauki-b2-alou-1",
+        "l2": "Очень важно, чтобы этот опыт мог быть воспроизведен независимой командой.",
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "gloss": {
+          "en": "It is essential that the experiment be reproducible by an independent team.",
+          "es": "Es fundamental que el experimento sea reproducible por un equipo independiente.",
+          "ru": "Очень важно, чтобы эксперимент мог быть воспроизведен независимой командой."
+        },
+        "ipa": "ˈotɕjenʲ vˈaʐno tɕtˈobɨ ˈɛtot ˈopɨt mˈoɡ bˈɨtʲ vosprˈoizvjedjen njezavisˈimoj komˈandoj"
+      },
+      {
+        "id": "remote-nauki-b2-alou-2",
+        "l2": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен.",
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "gloss": {
+          "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+          "es": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+          "ru": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен."
+        },
+        "ipa": "jeslˈi bˈɨ protˈokol bˈɨl bˈoljeje strˈoɡim rˈisk oʂˈibki izmjerjenˈija bˈɨl bˈɨ ˈumjenʲʂjen"
+      },
+      {
+        "id": "remote-nauki-b2-alou-3",
+        "l2": "Хотя результат многообещающий, выборка остается слишком маленькой.",
+        "en": "Although the result is promising, the sample remains too limited.",
+        "gloss": {
+          "en": "Although the result is promising, the sample remains too limited.",
+          "es": "Aunque el resultado es prometedor, la muestra sigue siendo demasiado limitada.",
+          "ru": "Хотя результат многообещающий, выборка остается слишком ограниченной."
+        },
+        "ipa": "xˈotja rjezˈulʲtat mnoɡoobjeɕːajˈuɕːij vɨbˈorka ostˈajetsja slˈiʂkom mˈaljenʲkoj"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-nauki-b2-unsc-1",
+        "l2": "Одного этого доказательства недостаточно, тем не менее, оно направляет исследование.",
+        "en": "This single piece of evidence is not enough; nevertheless it guides the research.",
+        "gloss": {
+          "en": "This single piece of evidence is not enough; nevertheless it guides the research.",
+          "es": "Esta única prueba no es suficiente; sin embargo, guía la investigación.",
+          "ru": "Этого единственного доказательства недостаточно; тем не менее, он направляет исследование."
+        },
+        "words": [
+          "Одного",
+          "этого",
+          "доказательства",
+          "недостаточно,",
+          "тем",
+          "не",
+          "менее,",
+          "оно",
+          "направляет",
+          "исследование."
+        ]
+      },
+      {
+        "id": "remote-nauki-b2-unsc-2",
+        "l2": "Корреляция не устанавливает причину и следствие.",
+        "en": "A correlation does not establish a cause-and-effect link.",
+        "gloss": {
+          "en": "A correlation does not establish a cause-and-effect link.",
+          "es": "Una correlación no establece un vínculo de causa y efecto.",
+          "ru": "Корреляция не устанавливает причинно-следственной связи."
+        },
+        "words": [
+          "Корреляция",
+          "не",
+          "устанавливает",
+          "причину",
+          "и",
+          "следствие."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

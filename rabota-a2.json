@@ -1,0 +1,839 @@
+{
+  "pratiquePack": 2,
+  "id": "rabota-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "ru",
+  "title": {
+    "fr": "Travail A2 (RU)",
+    "en": "Work A2 (RU)",
+    "es": "Trabajo A2 (RU)",
+    "ru": "Работа А2"
+  },
+  "description": {
+    "fr": "Bureau, collègues et phrases utiles pour parler du travail — pack russe.",
+    "en": "Office, colleagues, and useful phrases for talking about work — Russian pack.",
+    "es": "Oficina, compañeros y frases útiles para hablar de trabajo — paquete ruso.",
+    "ru": "Офис, коллеги и полезные фразы для разговоров о работе — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-rabota-a2-1",
+      "l2": "работа",
+      "en": "work / job",
+      "gloss": {
+        "en": "work / job",
+        "es": "trabajo / empleo",
+        "ru": "работа / работа"
+      },
+      "example": "Я люблю свою работу.",
+      "ipa": "rabˈota",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabota-a2-2",
+      "l2": "офис",
+      "en": "office / desk",
+      "gloss": {
+        "en": "office / desk",
+        "es": "oficina / escritorio",
+        "ru": "офис / письменный стол"
+      },
+      "example": "Мой кабинет находится на третьем этаже.",
+      "ipa": "ˈofis",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-3",
+      "l2": "коллега",
+      "en": "colleague",
+      "gloss": {
+        "en": "colleague",
+        "es": "colega",
+        "ru": "коллега"
+      },
+      "example": "Мой коллега очень хороший.",
+      "ipa": "kˈolljeɡa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabota-a2-4",
+      "l2": "встреча",
+      "en": "meeting",
+      "gloss": {
+        "en": "meeting",
+        "es": "reunión",
+        "ru": "встреча"
+      },
+      "example": "Встреча начнется в десять часов.",
+      "ipa": "vstrjetɕˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabota-a2-5",
+      "l2": "босс",
+      "en": "boss",
+      "gloss": {
+        "en": "boss",
+        "es": "jefe",
+        "ru": "босс"
+      },
+      "example": "Босс уже в пути.",
+      "ipa": "bˈoss",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-6",
+      "l2": "сотрудник",
+      "en": "employee",
+      "gloss": {
+        "en": "employee",
+        "es": "empleado",
+        "ru": "сотрудник"
+      },
+      "example": "Сотрудники отдыхают.",
+      "ipa": "sotrˈudnik",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-7",
+      "l2": "график",
+      "en": "schedule / hours",
+      "gloss": {
+        "en": "schedule / hours",
+        "es": "horario / horas",
+        "ru": "график / часы"
+      },
+      "example": "Мои часы гибкие.",
+      "ipa": "ɡrˈafik",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-8",
+      "l2": "зарплата",
+      "en": "salary",
+      "gloss": {
+        "en": "salary",
+        "es": "salario",
+        "ru": "зарплата"
+      },
+      "example": "Заработная плата выплачивается в конце месяца.",
+      "ipa": "zarplˈata",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabota-a2-9",
+      "l2": "договор",
+      "en": "contract",
+      "gloss": {
+        "en": "contract",
+        "es": "contrato",
+        "ru": "договор"
+      },
+      "example": "Я подписал новый контракт.",
+      "ipa": "doɡˈovor",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-10",
+      "l2": "кофе-брейк",
+      "en": "coffee break",
+      "gloss": {
+        "en": "coffee break",
+        "es": "pausa para el café",
+        "ru": "кофе-брейк"
+      },
+      "example": "Увидимся на кофе-брейке.",
+      "ipa": "kˈofje-brjejk",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-11",
+      "l2": "компьютер",
+      "en": "computer",
+      "gloss": {
+        "en": "computer",
+        "es": "computadora",
+        "ru": "компьютер"
+      },
+      "example": "Мой компьютер сегодня работает медленно.",
+      "ipa": "kˈompʲjutjer",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-12",
+      "l2": "электронная почта",
+      "en": "email",
+      "gloss": {
+        "en": "email",
+        "es": "correo electrónico",
+        "ru": "электронная почта"
+      },
+      "example": "Я отправляю письмо клиенту.",
+      "ipa": "ɛljektronnaja pˈotɕta",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabota-a2-13",
+      "l2": "клиент",
+      "en": "client / customer",
+      "gloss": {
+        "en": "client / customer",
+        "es": "cliente / cliente",
+        "ru": "клиент / заказчик"
+      },
+      "example": "Клиент ждет ответа.",
+      "ipa": "klˈijent",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-14",
+      "l2": "проект",
+      "en": "project",
+      "gloss": {
+        "en": "project",
+        "es": "proyecto",
+        "ru": "проект"
+      },
+      "example": "Этот проект важен.",
+      "ipa": "prˈojekt",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-15",
+      "l2": "крайний срок",
+      "en": "deadline",
+      "gloss": {
+        "en": "deadline",
+        "es": "fecha límite",
+        "ru": "крайний срок"
+      },
+      "example": "Крайний срок – пятница.",
+      "ipa": "krajnˈij srok",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-16",
+      "l2": "интервью",
+      "en": "interview",
+      "gloss": {
+        "en": "interview",
+        "es": "entrevista",
+        "ru": "интервью"
+      },
+      "example": "Завтра у меня собеседование.",
+      "ipa": "ˈintjervʲju",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-17",
+      "l2": "резюме",
+      "en": "CV / résumé",
+      "gloss": {
+        "en": "CV / résumé",
+        "es": "CV / currículum",
+        "ru": "Резюме / резюме"
+      },
+      "example": "Вот мое резюме.",
+      "ipa": "rjezjˈumje",
+      "article": "ср"
+    },
+    {
+      "id": "remote-rabota-a2-18",
+      "l2": "команда",
+      "en": "team",
+      "gloss": {
+        "en": "team",
+        "es": "equipo",
+        "ru": "команда"
+      },
+      "example": "Наша команда хорошо работает вместе.",
+      "ipa": "komˈanda",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabota-a2-19",
+      "l2": "выходной",
+      "en": "time off / leave",
+      "gloss": {
+        "en": "time off / leave",
+        "es": "tiempo libre / salir",
+        "ru": "выходной / отпуск"
+      },
+      "example": "Я беру отпуск в августе.",
+      "ipa": "vɨxˈodnoj",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabota-a2-20",
+      "l2": "выход на пенсию",
+      "en": "retirement",
+      "gloss": {
+        "en": "retirement",
+        "es": "jubilación",
+        "ru": "выход на пенсию"
+      },
+      "example": "Он уходит на пенсию в следующем году.",
+      "ipa": "vɨxod na pjensˈiju",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-rabota-a2-phrase-1",
+      "l2": "Я работаю в офисе.",
+      "en": "I work in an office.",
+      "gloss": {
+        "en": "I work in an office.",
+        "es": "Trabajo en una oficina.",
+        "ru": "Я работаю в офисе."
+      },
+      "ipa": "jˈa rabotˈaju v ˈofisje"
+    },
+    {
+      "id": "remote-rabota-a2-phrase-2",
+      "l2": "У нас встреча в одиннадцать часов.",
+      "en": "We have a meeting at eleven o’clock.",
+      "gloss": {
+        "en": "We have a meeting at eleven o’clock.",
+        "es": "Tenemos una reunión a las once.",
+        "ru": "У нас встреча в одиннадцать часов."
+      },
+      "ipa": "ˈu nˈas vstrjetɕˈa v odinnˈadtsatʲ tɕˈasov"
+    },
+    {
+      "id": "remote-rabota-a2-phrase-3",
+      "l2": "Я ищу работу.",
+      "en": "I’m looking for a job.",
+      "gloss": {
+        "en": "I’m looking for a job.",
+        "es": "Estoy buscando trabajo.",
+        "ru": "Я ищу работу."
+      },
+      "ipa": "jˈa ˈiɕːu rabˈotu"
+    },
+    {
+      "id": "remote-rabota-a2-phrase-4",
+      "l2": "Можете ли вы отправить мне электронное письмо?",
+      "en": "Can you send me an email?",
+      "gloss": {
+        "en": "Can you send me an email?",
+        "es": "¿Puedes enviarme un correo electrónico?",
+        "ru": "Можете ли вы отправить мне электронное письмо?"
+      },
+      "ipa": "mˈoʐjetje lˈi vˈɨ otprˈavitʲ mnje ɛljektrˈonnoje pˈisʲmo"
+    },
+    {
+      "id": "remote-rabota-a2-phrase-5",
+      "l2": "Я уезжаю на следующей неделе.",
+      "en": "I’m on leave next week.",
+      "gloss": {
+        "en": "I’m on leave next week.",
+        "es": "Estoy de permiso la semana que viene.",
+        "ru": "На следующей неделе я в отпуске."
+      },
+      "ipa": "jˈa ujezʐˈaju nˈa sljedˈujuɕːjej njedjelje"
+    },
+    {
+      "id": "remote-rabota-a2-phrase-6",
+      "l2": "Это подработка.",
+      "en": "It’s a part-time job.",
+      "gloss": {
+        "en": "It’s a part-time job.",
+        "es": "Es un trabajo a tiempo parcial.",
+        "ru": "Это подработка."
+      },
+      "ipa": "ˈɛto podrabˈotka"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-rabota-a2-listen-1",
+      "l2": "Встреча начнется ровно в десять часов.",
+      "en": "The meeting starts at ten o’clock sharp.",
+      "gloss": {
+        "en": "The meeting starts at ten o’clock sharp.",
+        "es": "La reunión comienza a las diez en punto.",
+        "ru": "Встреча начнется ровно в десять часов."
+      },
+      "word": "встреча",
+      "wordEn": "meeting",
+      "wordGloss": {
+        "en": "meeting",
+        "es": "reunión",
+        "ru": "встреча"
+      },
+      "wordIpa": "vstrjetɕˈa",
+      "distractors": [
+        "кофе-брейк",
+        "интервью",
+        "проект"
+      ]
+    },
+    {
+      "id": "remote-rabota-a2-listen-2",
+      "l2": "Сегодня утром я отправляю электронное письмо клиенту.",
+      "en": "I’m sending an email to the client this morning.",
+      "gloss": {
+        "en": "I’m sending an email to the client this morning.",
+        "es": "Le enviaré un correo electrónico al cliente esta mañana.",
+        "ru": "Сегодня утром отправляю письмо клиенту."
+      },
+      "word": "электронная почта",
+      "wordEn": "email",
+      "wordGloss": {
+        "en": "email",
+        "es": "correo electrónico",
+        "ru": "электронная почта"
+      },
+      "wordIpa": "ɛljektronnaja pˈotɕta",
+      "distractors": [
+        "договор",
+        "резюме",
+        "зарплата"
+      ]
+    },
+    {
+      "id": "remote-rabota-a2-listen-3",
+      "l2": "Мой коллега готовит проект.",
+      "en": "My colleague is preparing the project.",
+      "gloss": {
+        "en": "My colleague is preparing the project.",
+        "es": "Mi colega está preparando el proyecto.",
+        "ru": "Мой коллега готовит проект."
+      },
+      "word": "коллега",
+      "wordEn": "colleague",
+      "wordGloss": {
+        "en": "colleague",
+        "es": "colega",
+        "ru": "коллега"
+      },
+      "wordIpa": "kˈolljeɡa",
+      "distractors": [
+        "босс",
+        "сотрудник",
+        "команда"
+      ]
+    },
+    {
+      "id": "remote-rabota-a2-listen-4",
+      "l2": "Я беру отпуск в августе.",
+      "en": "I’m taking time off in August.",
+      "gloss": {
+        "en": "I’m taking time off in August.",
+        "es": "Me tomaré un tiempo libre en agosto.",
+        "ru": "В августе я беру отпуск."
+      },
+      "word": "выходной",
+      "wordEn": "leave",
+      "wordGloss": {
+        "en": "leave",
+        "es": "dejar",
+        "ru": "оставлять"
+      },
+      "wordIpa": "vɨxˈodnoj",
+      "distractors": [
+        "выход на пенсию",
+        "график",
+        "зарплата"
+      ]
+    }
+  ],
+  "prompts": [
+    "Где вы работаете и чем занимаетесь?",
+    "Опишите день в офисе.",
+    "Вы предпочитаете работать утром или днем? За что ?",
+    "Какие у вас часы на этой неделе?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-rabota-a2-grammar-1",
+      "title": {
+        "fr": "Accusatif après я хочу / я вижу",
+        "en": "Accusative after я хочу / я вижу",
+        "es": "Acusativo tras я хочу / я вижу",
+        "ru": "Винительный падеж после я хочу / я вижу"
+      },
+      "rule": {
+        "fr": "Après un verbe transitif, le complément est souvent à l’accusatif.",
+        "en": "After a transitive verb, the object is often in the accusative.",
+        "es": "Tras un verbo transitivo, el complemento suele ir en acusativo.",
+        "ru": "После переходного глагола дополнение часто стоит в винительном падеже."
+      },
+      "why": {
+        "en": "Lets you say what you want, see, or buy.",
+        "es": "Permite decir lo que quieres, ves o compras.",
+        "ru": "Позволяет сказать, что вы хотите, видите или покупаете."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "я вижу + Вин.",
+          "объект",
+          "Я вижу офис."
+        ],
+        [
+          "я хочу + Вин.",
+          "желание",
+          "Я хочу босс."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-rabota-a2-gq-1-1",
+          "prompt": "Я вижу ___ . (офис)",
+          "answer": "офис",
+          "options": [
+            "офис",
+            "босс",
+            "нет"
+          ]
+        },
+        {
+          "id": "remote-rabota-a2-gq-1-2",
+          "prompt": "После «я хочу» обычно нужен ___ падеж.",
+          "answer": "винительный",
+          "options": [
+            "винительный",
+            "творительный",
+            "предложный"
+          ]
+        },
+        {
+          "id": "remote-rabota-a2-gq-1-3",
+          "prompt": "Я покупаю ___ .",
+          "answer": "босс",
+          "options": [
+            "босс",
+            "нет",
+            "есть"
+          ]
+        },
+        {
+          "id": "remote-rabota-a2-gq-1-4",
+          "prompt": "Свяжите с темой: офис / босс. Род «офис»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-rabota-a2-gq-1-5",
+          "prompt": "Свяжите с темой: офис / босс. Род «офис»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-rabota-a2-grammar-2",
+      "title": {
+        "fr": "Passé : -л / -ла / -ло / -ли",
+        "en": "Past tense: -л / -ла / -ло / -ли",
+        "es": "Pasado: -л / -ла / -ло / -ли",
+        "ru": "Прошедшее время: -л / -ла / -ло / -ли"
+      },
+      "rule": {
+        "fr": "Le passé s’accorde en genre et nombre : был, была, было, были.",
+        "en": "Past tense agrees in gender and number: был, была, было, были.",
+        "es": "El pasado concuerda en género y número: был, была, было, были.",
+        "ru": "Прошедшее время согласуется по роду и числу: был, была, было, были."
+      },
+      "why": {
+        "en": "Past forms must match the subject.",
+        "es": "Las formas del pasado deben coincidir con el sujeto.",
+        "ru": "Формы прошедшего должны согласоваться с подлежащим."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "-л",
+          "м. р.",
+          "Он был дома."
+        ],
+        [
+          "-ла",
+          "ж. р.",
+          "Она была дома."
+        ],
+        [
+          "-ли",
+          "мн. ч.",
+          "Они были дома."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-rabota-a2-gq-2-1",
+          "prompt": "Вчера он ___ дома. (быть)",
+          "answer": "был",
+          "options": [
+            "был",
+            "была",
+            "были"
+          ]
+        },
+        {
+          "id": "remote-rabota-a2-gq-2-2",
+          "prompt": "Вчера она ___ дома. (быть)",
+          "answer": "была",
+          "options": [
+            "была",
+            "был",
+            "было"
+          ]
+        },
+        {
+          "id": "remote-rabota-a2-gq-2-3",
+          "prompt": "Вчера они ___ дома. (быть)",
+          "answer": "были",
+          "options": [
+            "были",
+            "был",
+            "была"
+          ]
+        },
+        {
+          "id": "remote-rabota-a2-gq-2-4",
+          "prompt": "Свяжите с темой: коллега / сотрудник. Род «коллега»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-rabota-a2-gq-2-5",
+          "prompt": "Свяжите с темой: коллега / сотрудник. Род «коллега»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-rabota-a2-dict-1",
+        "l2": "Я работаю в офисе.",
+        "en": "I work in an office.",
+        "gloss": {
+          "en": "I work in an office.",
+          "es": "Trabajo en una oficina.",
+          "ru": "Я работаю в офисе."
+        },
+        "ipa": "jˈa rabotˈaju v ˈofisje"
+      },
+      {
+        "id": "remote-rabota-a2-dict-2",
+        "l2": "У нас встреча в одиннадцать часов.",
+        "en": "We have a meeting at eleven o’clock.",
+        "gloss": {
+          "en": "We have a meeting at eleven o’clock.",
+          "es": "Tenemos una reunión a las once.",
+          "ru": "У нас встреча в одиннадцать часов."
+        },
+        "ipa": "ˈu nˈas vstrjetɕˈa v odinnˈadtsatʲ tɕˈasov"
+      },
+      {
+        "id": "remote-rabota-a2-dict-3",
+        "l2": "Я ищу работу.",
+        "en": "I’m looking for a job.",
+        "gloss": {
+          "en": "I’m looking for a job.",
+          "es": "Estoy buscando trabajo.",
+          "ru": "Я ищу работу."
+        },
+        "ipa": "jˈa ˈiɕːu rabˈotu"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-rabota-a2-mean-1",
+        "l2": "Я работаю в офисе.",
+        "en": "I work in an office.",
+        "gloss": {
+          "en": "I work in an office.",
+          "es": "Trabajo en una oficina.",
+          "ru": "Я работаю в офисе."
+        }
+      },
+      {
+        "id": "remote-rabota-a2-mean-2",
+        "l2": "У нас встреча в одиннадцать часов.",
+        "en": "We have a meeting at eleven o’clock.",
+        "gloss": {
+          "en": "We have a meeting at eleven o’clock.",
+          "es": "Tenemos una reunión a las once.",
+          "ru": "У нас встреча в одиннадцать часов."
+        }
+      },
+      {
+        "id": "remote-rabota-a2-mean-3",
+        "l2": "Я ищу работу.",
+        "en": "I’m looking for a job.",
+        "gloss": {
+          "en": "I’m looking for a job.",
+          "es": "Estoy buscando trabajo.",
+          "ru": "Я ищу работу."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-rabota-a2-fren-1",
+        "l2": "работа",
+        "en": "work",
+        "gloss": {
+          "en": "work",
+          "es": "trabajar",
+          "ru": "работа"
+        }
+      },
+      {
+        "id": "remote-rabota-a2-fren-2",
+        "l2": "офис",
+        "en": "office",
+        "gloss": {
+          "en": "office",
+          "es": "oficina",
+          "ru": "офис"
+        }
+      },
+      {
+        "id": "remote-rabota-a2-fren-3",
+        "l2": "коллега",
+        "en": "colleague",
+        "gloss": {
+          "en": "colleague",
+          "es": "colega",
+          "ru": "коллега"
+        }
+      },
+      {
+        "id": "remote-rabota-a2-fren-4",
+        "l2": "встреча",
+        "en": "meeting",
+        "gloss": {
+          "en": "meeting",
+          "es": "reunión",
+          "ru": "встреча"
+        }
+      },
+      {
+        "id": "remote-rabota-a2-fren-5",
+        "l2": "босс",
+        "en": "boss",
+        "gloss": {
+          "en": "boss",
+          "es": "jefe",
+          "ru": "босс"
+        }
+      },
+      {
+        "id": "remote-rabota-a2-fren-6",
+        "l2": "сотрудник",
+        "en": "employee",
+        "gloss": {
+          "en": "employee",
+          "es": "empleado",
+          "ru": "сотрудник"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-rabota-a2-alou-1",
+        "l2": "Я работаю в офисе.",
+        "en": "I work in an office.",
+        "gloss": {
+          "en": "I work in an office.",
+          "es": "Trabajo en una oficina.",
+          "ru": "Я работаю в офисе."
+        },
+        "ipa": "jˈa rabotˈaju v ˈofisje"
+      },
+      {
+        "id": "remote-rabota-a2-alou-2",
+        "l2": "Я ищу работу.",
+        "en": "I’m looking for a job.",
+        "gloss": {
+          "en": "I’m looking for a job.",
+          "es": "Estoy buscando trabajo.",
+          "ru": "Я ищу работу."
+        },
+        "ipa": "jˈa ˈiɕːu rabˈotu"
+      },
+      {
+        "id": "remote-rabota-a2-alou-3",
+        "l2": "Я уезжаю на следующей неделе.",
+        "en": "I’m on leave next week.",
+        "gloss": {
+          "en": "I’m on leave next week.",
+          "es": "Estoy de permiso la semana que viene.",
+          "ru": "На следующей неделе я в отпуске."
+        },
+        "ipa": "jˈa ujezʐˈaju nˈa sljedˈujuɕːjej njedjelje"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-rabota-a2-unsc-1",
+        "l2": "Можете ли вы отправить мне электронное письмо?",
+        "en": "Can you send me an email?",
+        "gloss": {
+          "en": "Can you send me an email?",
+          "es": "¿Puedes enviarme un correo electrónico?",
+          "ru": "Можете ли вы отправить мне электронное письмо?"
+        },
+        "words": [
+          "Можете",
+          "ли",
+          "вы",
+          "отправить",
+          "мне",
+          "электронное",
+          "письмо?"
+        ]
+      },
+      {
+        "id": "remote-rabota-a2-unsc-2",
+        "l2": "Я уезжаю на следующей неделе.",
+        "en": "I’m on leave next week.",
+        "gloss": {
+          "en": "I’m on leave next week.",
+          "es": "Estoy de permiso la semana que viene.",
+          "ru": "На следующей неделе я в отпуске."
+        },
+        "words": [
+          "Я",
+          "уезжаю",
+          "на",
+          "следующей",
+          "неделе."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

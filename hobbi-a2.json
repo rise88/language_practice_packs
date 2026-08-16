@@ -1,0 +1,839 @@
+{
+  "pratiquePack": 2,
+  "id": "hobbi-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "ru",
+  "title": {
+    "fr": "Loisirs A2 (RU)",
+    "en": "Hobbies A2 (RU)",
+    "es": "Pasatiempos A2 (RU)",
+    "ru": "Хобби А2"
+  },
+  "description": {
+    "fr": "Sports, musique, lecture et activités de temps libre — pack russe.",
+    "en": "Sports, music, reading, and free-time activities — Russian pack.",
+    "es": "Deportes, música, lectura y actividades de tiempo libre — paquete ruso.",
+    "ru": "Спорт, музыка, чтение и развлечения в свободное время — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-hobbi-a2-1",
+      "l2": "досуг",
+      "en": "leisure / hobby",
+      "gloss": {
+        "en": "leisure / hobby",
+        "es": "ocio / pasatiempo",
+        "ru": "досуг/хобби"
+      },
+      "example": "Какие у тебя любимые хобби?",
+      "ipa": "dˈosuɡ",
+      "article": "м"
+    },
+    {
+      "id": "remote-hobbi-a2-2",
+      "l2": "спорт",
+      "en": "sport",
+      "gloss": {
+        "en": "sport",
+        "es": "deporte",
+        "ru": "спорт"
+      },
+      "example": "Я тренируюсь три раза в неделю.",
+      "ipa": "spˈort",
+      "article": "м"
+    },
+    {
+      "id": "remote-hobbi-a2-3",
+      "l2": "футбол",
+      "en": "football / soccer",
+      "gloss": {
+        "en": "football / soccer",
+        "es": "fútbol / fútbol",
+        "ru": "футбол / футбол"
+      },
+      "example": "Мой брат играет в футбол по субботам.",
+      "ipa": "fˈutbol",
+      "article": "м"
+    },
+    {
+      "id": "remote-hobbi-a2-4",
+      "l2": "плавание",
+      "en": "swimming",
+      "gloss": {
+        "en": "swimming",
+        "es": "nadar",
+        "ru": "плавание"
+      },
+      "example": "Плавание полезно для здоровья.",
+      "ipa": "plavˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-hobbi-a2-5",
+      "l2": "велосипед",
+      "en": "bicycle / cycling",
+      "gloss": {
+        "en": "bicycle / cycling",
+        "es": "bicicleta / ciclismo",
+        "ru": "велосипед / езда на велосипеде"
+      },
+      "example": "Я катаюсь на велосипеде в воскресенье утром.",
+      "ipa": "vjelˈosipjed",
+      "article": "м"
+    },
+    {
+      "id": "remote-hobbi-a2-6",
+      "l2": "музыка",
+      "en": "music",
+      "gloss": {
+        "en": "music",
+        "es": "música",
+        "ru": "музыка"
+      },
+      "example": "Я слушаю музыку каждый день.",
+      "ipa": "muzˈɨka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-hobbi-a2-7",
+      "l2": "гитара",
+      "en": "guitar",
+      "gloss": {
+        "en": "guitar",
+        "es": "guitarra",
+        "ru": "гитара"
+      },
+      "example": "Он учится играть на гитаре.",
+      "ipa": "ɡitˈara",
+      "article": "ж"
+    },
+    {
+      "id": "remote-hobbi-a2-8",
+      "l2": "фортепиано",
+      "en": "piano",
+      "gloss": {
+        "en": "piano",
+        "es": "piano",
+        "ru": "фортепиано"
+      },
+      "example": "Она играет на фортепиано уже пять лет.",
+      "ipa": "fortjepiˈano",
+      "article": "ср"
+    },
+    {
+      "id": "remote-hobbi-a2-9",
+      "l2": "чтение",
+      "en": "reading",
+      "gloss": {
+        "en": "reading",
+        "es": "lectura",
+        "ru": "чтение"
+      },
+      "example": "Чтение расслабляет меня вечером.",
+      "ipa": "tɕtjenˈije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-hobbi-a2-10",
+      "l2": "кино",
+      "en": "cinema / movies",
+      "gloss": {
+        "en": "cinema / movies",
+        "es": "cine / películas",
+        "ru": "кино / фильмы"
+      },
+      "example": "Мы собираемся в кино на этих выходных.",
+      "ipa": "kˈino",
+      "article": "ср"
+    },
+    {
+      "id": "remote-hobbi-a2-11",
+      "l2": "рисование",
+      "en": "painting",
+      "gloss": {
+        "en": "painting",
+        "es": "cuadro",
+        "ru": "рисование"
+      },
+      "example": "Рисование – мое любимое хобби.",
+      "ipa": "risovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-hobbi-a2-12",
+      "l2": "фотография",
+      "en": "photography",
+      "gloss": {
+        "en": "photography",
+        "es": "fotografía",
+        "ru": "фотография"
+      },
+      "example": "Он увлекается фотографией.",
+      "ipa": "fotoɡrafˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-hobbi-a2-13",
+      "l2": "садоводство",
+      "en": "gardening",
+      "gloss": {
+        "en": "gardening",
+        "es": "jardinería",
+        "ru": "садоводство"
+      },
+      "example": "Моя бабушка любит заниматься садоводством.",
+      "ipa": "sadovˈodstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-hobbi-a2-14",
+      "l2": "приготовление пищи",
+      "en": "cooking",
+      "gloss": {
+        "en": "cooking",
+        "es": "cocinando",
+        "ru": "приготовление пищи"
+      },
+      "example": "Готовка – это искусство и удовольствие.",
+      "ipa": "priɡotovljenije pˈiɕːi",
+      "article": "м"
+    },
+    {
+      "id": "remote-hobbi-a2-15",
+      "l2": "пеший туризм",
+      "en": "hiking",
+      "gloss": {
+        "en": "hiking",
+        "es": "senderismo",
+        "ru": "пеший туризм"
+      },
+      "example": "Мы путешествуем по горам.",
+      "ipa": "pjeʂij tˈurizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-hobbi-a2-16",
+      "l2": "теннис",
+      "en": "tennis",
+      "gloss": {
+        "en": "tennis",
+        "es": "tenis",
+        "ru": "теннис"
+      },
+      "example": "Она играет в теннис со своим другом.",
+      "ipa": "tjennˈis",
+      "article": "м"
+    },
+    {
+      "id": "remote-hobbi-a2-17",
+      "l2": "танцевать",
+      "en": "dance / dancing",
+      "gloss": {
+        "en": "dance / dancing",
+        "es": "bailar / bailar",
+        "ru": "танцевать / танцы"
+      },
+      "example": "Он берёт уроки танцев по вторникам.",
+      "ipa": "tˈantsjevatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-hobbi-a2-18",
+      "l2": "видеоигра",
+      "en": "video game",
+      "gloss": {
+        "en": "video game",
+        "es": "videojuego",
+        "ru": "видеоигра"
+      },
+      "example": "Видеоигры популярны среди молодежи.",
+      "ipa": "vidjeoˈiɡra",
+      "article": "ж"
+    },
+    {
+      "id": "remote-hobbi-a2-19",
+      "l2": "театр",
+      "en": "theater",
+      "gloss": {
+        "en": "theater",
+        "es": "teatro",
+        "ru": "театр"
+      },
+      "example": "Сегодня вечером мы идём в театр.",
+      "ipa": "tjeˈatr",
+      "article": "м"
+    },
+    {
+      "id": "remote-hobbi-a2-20",
+      "l2": "коллекция",
+      "en": "collection",
+      "gloss": {
+        "en": "collection",
+        "es": "recopilación",
+        "ru": "коллекция"
+      },
+      "example": "У него есть коллекция марок.",
+      "ipa": "kolljektsˈija",
+      "article": "ж"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-hobbi-a2-phrase-1",
+      "l2": "Чем вы занимаетесь в свободное время?",
+      "en": "What do you do in your free time?",
+      "gloss": {
+        "en": "What do you do in your free time?",
+        "es": "¿Qué haces en tu tiempo libre?",
+        "ru": "Чем вы занимаетесь в свободное время?"
+      },
+      "ipa": "tɕjem vˈɨ zanˈimajetjesʲ v svobˈodnoje vrjemjˈa"
+    },
+    {
+      "id": "remote-hobbi-a2-phrase-2",
+      "l2": "Я тренируюсь три раза в неделю.",
+      "en": "I do sports three times a week.",
+      "gloss": {
+        "en": "I do sports three times a week.",
+        "es": "Hago deporte tres veces por semana.",
+        "ru": "Я занимаюсь спортом три раза в неделю."
+      },
+      "ipa": "jˈa trjenirˈujusʲ trˈi rˈaza v njedjeljˈu"
+    },
+    {
+      "id": "remote-hobbi-a2-phrase-3",
+      "l2": "Я учусь играть на гитаре.",
+      "en": "I’m learning to play the guitar.",
+      "gloss": {
+        "en": "I’m learning to play the guitar.",
+        "es": "Estoy aprendiendo a tocar la guitarra.",
+        "ru": "Я учусь играть на гитаре."
+      },
+      "ipa": "jˈa ˈutɕusʲ ˈiɡratʲ nˈa ɡˈitarje"
+    },
+    {
+      "id": "remote-hobbi-a2-phrase-4",
+      "l2": "Хочешь пойти в кино на этих выходных?",
+      "en": "Do you want to go to the movies this weekend?",
+      "gloss": {
+        "en": "Do you want to go to the movies this weekend?",
+        "es": "¿Quieres ir al cine este fin de semana?",
+        "ru": "Хочешь пойти в кино на этих выходных?"
+      },
+      "ipa": "xˈotɕjeʂʲ pˈojti v kˈino nˈa ˈɛtix vɨxˈodnɨx"
+    },
+    {
+      "id": "remote-hobbi-a2-phrase-5",
+      "l2": "Чтение расслабляет меня после работы.",
+      "en": "Reading relaxes me after work.",
+      "gloss": {
+        "en": "Reading relaxes me after work.",
+        "es": "La lectura me relaja después del trabajo.",
+        "ru": "Чтение расслабляет меня после работы."
+      },
+      "ipa": "tɕtjenˈije rasslˈabljajet mjenjˈa pˈoslje rabˈotɨ"
+    },
+    {
+      "id": "remote-hobbi-a2-phrase-6",
+      "l2": "Мое любимое хобби – фотография.",
+      "en": "My favorite hobby is photography.",
+      "gloss": {
+        "en": "My favorite hobby is photography.",
+        "es": "Mi hobby favorito es la fotografía.",
+        "ru": "Мое любимое хобби – фотография."
+      },
+      "ipa": "mˈoje ljubˈimoje xˈobbi fotoɡrafˈija"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-hobbi-a2-listen-1",
+      "l2": "Я езжу на велосипеде в воскресенье утром с друзьями.",
+      "en": "I go cycling on Sunday mornings with friends.",
+      "gloss": {
+        "en": "I go cycling on Sunday mornings with friends.",
+        "es": "Salgo en bicicleta los domingos por la mañana con amigos.",
+        "ru": "Я езжу на велосипеде по воскресеньям утром с друзьями."
+      },
+      "word": "велосипед",
+      "wordEn": "cycling / bicycle",
+      "wordGloss": {
+        "en": "cycling / bicycle",
+        "es": "ciclismo / bicicleta",
+        "ru": "езда на велосипеде / велосипед"
+      },
+      "wordIpa": "vjelˈosipjed",
+      "distractors": [
+        "футбол",
+        "плавание",
+        "теннис"
+      ]
+    },
+    {
+      "id": "remote-hobbi-a2-listen-2",
+      "l2": "Она играет на фортепиано уже пять лет.",
+      "en": "She has been playing the piano for five years.",
+      "gloss": {
+        "en": "She has been playing the piano for five years.",
+        "es": "Toca el piano desde hace cinco años.",
+        "ru": "Она играет на фортепиано уже пять лет."
+      },
+      "word": "фортепиано",
+      "wordEn": "piano",
+      "wordGloss": {
+        "en": "piano",
+        "es": "piano",
+        "ru": "фортепиано"
+      },
+      "wordIpa": "fortjepiˈano",
+      "distractors": [
+        "гитара",
+        "музыка",
+        "танцевать"
+      ]
+    },
+    {
+      "id": "remote-hobbi-a2-listen-3",
+      "l2": "На этих выходных мы отправляемся в поход в горы.",
+      "en": "We’re going hiking in the mountains this weekend.",
+      "gloss": {
+        "en": "We’re going hiking in the mountains this weekend.",
+        "es": "Este fin de semana vamos a ir de excursión a la montaña.",
+        "ru": "На этих выходных мы собираемся в поход в горы."
+      },
+      "word": "пеший туризм",
+      "wordEn": "hiking",
+      "wordGloss": {
+        "en": "hiking",
+        "es": "senderismo",
+        "ru": "пеший туризм"
+      },
+      "wordIpa": "pjeʂij tˈurizm",
+      "distractors": [
+        "плавание",
+        "садоводство",
+        "коллекция"
+      ]
+    },
+    {
+      "id": "remote-hobbi-a2-listen-4",
+      "l2": "Чем вы занимаетесь в свободное время?",
+      "en": "What do you do in your free time?",
+      "gloss": {
+        "en": "What do you do in your free time?",
+        "es": "¿Qué haces en tu tiempo libre?",
+        "ru": "Чем вы занимаетесь в свободное время?"
+      },
+      "word": "свободное время",
+      "wordEn": "free time",
+      "wordGloss": {
+        "en": "free time",
+        "es": "tiempo libre",
+        "ru": "свободное время"
+      },
+      "wordIpa": "svobodnˈoje vrjemja",
+      "distractors": [
+        "досуг",
+        "спорт",
+        "работа"
+      ]
+    }
+  ],
+  "prompts": [
+    "Какие у тебя любимые хобби?",
+    "Опишите, чем вы занимаетесь на выходных.",
+    "В каком виде спорта ты бы хотел попробовать себя?",
+    "Как вы отдыхаете после работы?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-hobbi-a2-grammar-1",
+      "title": {
+        "fr": "Accusatif après я хочу / я вижу",
+        "en": "Accusative after я хочу / я вижу",
+        "es": "Acusativo tras я хочу / я вижу",
+        "ru": "Винительный падеж после я хочу / я вижу"
+      },
+      "rule": {
+        "fr": "Après un verbe transitif, le complément est souvent à l’accusatif.",
+        "en": "After a transitive verb, the object is often in the accusative.",
+        "es": "Tras un verbo transitivo, el complemento suele ir en acusativo.",
+        "ru": "После переходного глагола дополнение часто стоит в винительном падеже."
+      },
+      "why": {
+        "en": "Lets you say what you want, see, or buy.",
+        "es": "Permite decir lo que quieres, ves o compras.",
+        "ru": "Позволяет сказать, что вы хотите, видите или покупаете."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "я вижу + Вин.",
+          "объект",
+          "Я вижу спорт."
+        ],
+        [
+          "я хочу + Вин.",
+          "желание",
+          "Я хочу велосипед."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-hobbi-a2-gq-1-1",
+          "prompt": "Я вижу ___ . (спорт)",
+          "answer": "спорт",
+          "options": [
+            "спорт",
+            "велосипед",
+            "нет"
+          ]
+        },
+        {
+          "id": "remote-hobbi-a2-gq-1-2",
+          "prompt": "После «я хочу» обычно нужен ___ падеж.",
+          "answer": "винительный",
+          "options": [
+            "винительный",
+            "творительный",
+            "предложный"
+          ]
+        },
+        {
+          "id": "remote-hobbi-a2-gq-1-3",
+          "prompt": "Я покупаю ___ .",
+          "answer": "велосипед",
+          "options": [
+            "велосипед",
+            "нет",
+            "есть"
+          ]
+        },
+        {
+          "id": "remote-hobbi-a2-gq-1-4",
+          "prompt": "Свяжите с темой: спорт / велосипед. Род «спорт»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-hobbi-a2-gq-1-5",
+          "prompt": "Свяжите с темой: спорт / велосипед. Род «спорт»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-hobbi-a2-grammar-2",
+      "title": {
+        "fr": "Passé : -л / -ла / -ло / -ли",
+        "en": "Past tense: -л / -ла / -ло / -ли",
+        "es": "Pasado: -л / -ла / -ло / -ли",
+        "ru": "Прошедшее время: -л / -ла / -ло / -ли"
+      },
+      "rule": {
+        "fr": "Le passé s’accorde en genre et nombre : был, была, было, были.",
+        "en": "Past tense agrees in gender and number: был, была, было, были.",
+        "es": "El pasado concuerda en género y número: был, была, было, были.",
+        "ru": "Прошедшее время согласуется по роду и числу: был, была, было, были."
+      },
+      "why": {
+        "en": "Past forms must match the subject.",
+        "es": "Las formas del pasado deben coincidir con el sujeto.",
+        "ru": "Формы прошедшего должны согласоваться с подлежащим."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "-л",
+          "м. р.",
+          "Он был дома."
+        ],
+        [
+          "-ла",
+          "ж. р.",
+          "Она была дома."
+        ],
+        [
+          "-ли",
+          "мн. ч.",
+          "Они были дома."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-hobbi-a2-gq-2-1",
+          "prompt": "Вчера он ___ дома. (быть)",
+          "answer": "был",
+          "options": [
+            "был",
+            "была",
+            "были"
+          ]
+        },
+        {
+          "id": "remote-hobbi-a2-gq-2-2",
+          "prompt": "Вчера она ___ дома. (быть)",
+          "answer": "была",
+          "options": [
+            "была",
+            "был",
+            "было"
+          ]
+        },
+        {
+          "id": "remote-hobbi-a2-gq-2-3",
+          "prompt": "Вчера они ___ дома. (быть)",
+          "answer": "были",
+          "options": [
+            "были",
+            "был",
+            "была"
+          ]
+        },
+        {
+          "id": "remote-hobbi-a2-gq-2-4",
+          "prompt": "Свяжите с темой: футбол / музыка. Род «футбол»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-hobbi-a2-gq-2-5",
+          "prompt": "Свяжите с темой: футбол / музыка. Род «футбол»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-hobbi-a2-dict-1",
+        "l2": "Чем вы занимаетесь в свободное время?",
+        "en": "What do you do in your free time?",
+        "gloss": {
+          "en": "What do you do in your free time?",
+          "es": "¿Qué haces en tu tiempo libre?",
+          "ru": "Чем вы занимаетесь в свободное время?"
+        },
+        "ipa": "tɕjem vˈɨ zanˈimajetjesʲ v svobˈodnoje vrjemjˈa"
+      },
+      {
+        "id": "remote-hobbi-a2-dict-2",
+        "l2": "Я тренируюсь три раза в неделю.",
+        "en": "I do sports three times a week.",
+        "gloss": {
+          "en": "I do sports three times a week.",
+          "es": "Hago deporte tres veces por semana.",
+          "ru": "Я занимаюсь спортом три раза в неделю."
+        },
+        "ipa": "jˈa trjenirˈujusʲ trˈi rˈaza v njedjeljˈu"
+      },
+      {
+        "id": "remote-hobbi-a2-dict-3",
+        "l2": "Я учусь играть на гитаре.",
+        "en": "I’m learning to play the guitar.",
+        "gloss": {
+          "en": "I’m learning to play the guitar.",
+          "es": "Estoy aprendiendo a tocar la guitarra.",
+          "ru": "Я учусь играть на гитаре."
+        },
+        "ipa": "jˈa ˈutɕusʲ ˈiɡratʲ nˈa ɡˈitarje"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-hobbi-a2-mean-1",
+        "l2": "Хочешь пойти в кино на этих выходных?",
+        "en": "Do you want to go to the movies this weekend?",
+        "gloss": {
+          "en": "Do you want to go to the movies this weekend?",
+          "es": "¿Quieres ir al cine este fin de semana?",
+          "ru": "Хочешь пойти в кино на этих выходных?"
+        }
+      },
+      {
+        "id": "remote-hobbi-a2-mean-2",
+        "l2": "Чтение расслабляет меня после работы.",
+        "en": "Reading relaxes me after work.",
+        "gloss": {
+          "en": "Reading relaxes me after work.",
+          "es": "La lectura me relaja después del trabajo.",
+          "ru": "Чтение расслабляет меня после работы."
+        }
+      },
+      {
+        "id": "remote-hobbi-a2-mean-3",
+        "l2": "Мое любимое хобби – фотография.",
+        "en": "My favorite hobby is photography.",
+        "gloss": {
+          "en": "My favorite hobby is photography.",
+          "es": "Mi hobby favorito es la fotografía.",
+          "ru": "Мое любимое хобби – фотография."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-hobbi-a2-fren-1",
+        "l2": "спорт",
+        "en": "sport",
+        "gloss": {
+          "en": "sport",
+          "es": "deporte",
+          "ru": "спорт"
+        }
+      },
+      {
+        "id": "remote-hobbi-a2-fren-2",
+        "l2": "музыка",
+        "en": "music",
+        "gloss": {
+          "en": "music",
+          "es": "música",
+          "ru": "музыка"
+        }
+      },
+      {
+        "id": "remote-hobbi-a2-fren-3",
+        "l2": "чтение",
+        "en": "reading",
+        "gloss": {
+          "en": "reading",
+          "es": "lectura",
+          "ru": "чтение"
+        }
+      },
+      {
+        "id": "remote-hobbi-a2-fren-4",
+        "l2": "велосипед",
+        "en": "cycling",
+        "gloss": {
+          "en": "cycling",
+          "es": "ciclismo",
+          "ru": "езда на велосипеде"
+        }
+      },
+      {
+        "id": "remote-hobbi-a2-fren-5",
+        "l2": "пеший туризм",
+        "en": "hiking",
+        "gloss": {
+          "en": "hiking",
+          "es": "senderismo",
+          "ru": "пеший туризм"
+        }
+      },
+      {
+        "id": "remote-hobbi-a2-fren-6",
+        "l2": "фотография",
+        "en": "photography",
+        "gloss": {
+          "en": "photography",
+          "es": "fotografía",
+          "ru": "фотография"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-hobbi-a2-alou-1",
+        "l2": "Чем вы занимаетесь в свободное время?",
+        "en": "What do you do in your free time?",
+        "gloss": {
+          "en": "What do you do in your free time?",
+          "es": "¿Qué haces en tu tiempo libre?",
+          "ru": "Чем вы занимаетесь в свободное время?"
+        },
+        "ipa": "tɕjem vˈɨ zanˈimajetjesʲ v svobˈodnoje vrjemjˈa"
+      },
+      {
+        "id": "remote-hobbi-a2-alou-2",
+        "l2": "Я учусь играть на гитаре.",
+        "en": "I’m learning to play the guitar.",
+        "gloss": {
+          "en": "I’m learning to play the guitar.",
+          "es": "Estoy aprendiendo a tocar la guitarra.",
+          "ru": "Я учусь играть на гитаре."
+        },
+        "ipa": "jˈa ˈutɕusʲ ˈiɡratʲ nˈa ɡˈitarje"
+      },
+      {
+        "id": "remote-hobbi-a2-alou-3",
+        "l2": "Мы путешествуем по горам.",
+        "en": "We’re going hiking in the mountains.",
+        "gloss": {
+          "en": "We’re going hiking in the mountains.",
+          "es": "Vamos a hacer senderismo por las montañas.",
+          "ru": "Мы собираемся в поход в горы."
+        },
+        "ipa": "mˈɨ pˈutjeʂjestvujem pˈo ɡˈoram"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-hobbi-a2-unsc-1",
+        "l2": "Я занимаюсь спортом по субботам.",
+        "en": "I do sports on Saturdays.",
+        "gloss": {
+          "en": "I do sports on Saturdays.",
+          "es": "Hago deporte los sábados.",
+          "ru": "Я занимаюсь спортом по субботам."
+        },
+        "words": [
+          "Я",
+          "занимаюсь",
+          "спортом",
+          "по",
+          "субботам."
+        ]
+      },
+      {
+        "id": "remote-hobbi-a2-unsc-2",
+        "l2": "Она играет на фортепиано уже пять лет.",
+        "en": "She has played the piano for five years.",
+        "gloss": {
+          "en": "She has played the piano for five years.",
+          "es": "Toca el piano desde hace cinco años.",
+          "ru": "Она играет на фортепиано уже пять лет."
+        },
+        "words": [
+          "Она",
+          "играет",
+          "на",
+          "фортепиано",
+          "уже",
+          "пять",
+          "лет."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

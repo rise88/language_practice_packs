@@ -1,0 +1,833 @@
+{
+  "pratiquePack": 2,
+  "id": "novosti-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "ru",
+  "title": {
+    "fr": "Actualités B1 (RU)",
+    "en": "News B1 (RU)",
+    "es": "Noticias B1 (RU)",
+    "ru": "Новости Б1"
+  },
+  "description": {
+    "fr": "Titres, sources et débats pour parler de l’actualité avec un avis — pack russe.",
+    "en": "Headlines, sources, and debate for talking about the news with an opinion — Russian pack.",
+    "es": "Titulares, fuentes y debate para hablar de la actualidad con opinión — paquete ruso.",
+    "ru": "Заголовки, источники и дебаты для высказывания своего мнения о новостях — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-novosti-b1-1",
+      "l2": "текущие события",
+      "en": "current events / news",
+      "gloss": {
+        "en": "current events / news",
+        "es": "eventos actuales / noticias",
+        "ru": "текущие события/новости"
+      },
+      "example": "Я слежу за новостями по утрам по радио.",
+      "ipa": "tjekuɕːije sobɨtˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-novosti-b1-2",
+      "l2": "заголовок",
+      "en": "headline",
+      "gloss": {
+        "en": "headline",
+        "es": "titular",
+        "ru": "заголовок"
+      },
+      "example": "Название статьи вводит в заблуждение.",
+      "ipa": "zaɡolˈovok",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-3",
+      "l2": "газета",
+      "en": "newspaper / news programme",
+      "gloss": {
+        "en": "newspaper / news programme",
+        "es": "periódico/programa de noticias",
+        "ru": "газета/информационная программа"
+      },
+      "example": "Начинаются восьмичасовые новости.",
+      "ipa": "ɡˈazjeta",
+      "article": "ж"
+    },
+    {
+      "id": "remote-novosti-b1-4",
+      "l2": "статья",
+      "en": "article",
+      "gloss": {
+        "en": "article",
+        "es": "artículo",
+        "ru": "статья"
+      },
+      "example": "В данной статье представлены несколько точек зрения.",
+      "ipa": "stˈatʲja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-novosti-b1-5",
+      "l2": "источник",
+      "en": "source",
+      "gloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      },
+      "example": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+      "ipa": "istˈotɕnik",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-6",
+      "l2": "журналист",
+      "en": "journalist",
+      "gloss": {
+        "en": "journalist",
+        "es": "periodista",
+        "ru": "журналист"
+      },
+      "example": "Журналист задает конкретный вопрос.",
+      "ipa": "ʐurnˈalist",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-7",
+      "l2": "интервью",
+      "en": "interview",
+      "gloss": {
+        "en": "interview",
+        "es": "entrevista",
+        "ru": "интервью"
+      },
+      "example": "Интервью длилось двадцать минут.",
+      "ipa": "ˈintjervʲju",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-8",
+      "l2": "дебаты",
+      "en": "debate",
+      "gloss": {
+        "en": "debate",
+        "es": "debate",
+        "ru": "дебаты"
+      },
+      "example": "Дебаты стали слишком агрессивными.",
+      "ipa": "djebˈatɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-9",
+      "l2": "слух",
+      "en": "rumour",
+      "gloss": {
+        "en": "rumour",
+        "es": "rumor",
+        "ru": "слух"
+      },
+      "example": "Этот слух ходит со вчерашнего дня.",
+      "ipa": "slˈux",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-10",
+      "l2": "фейковые новости",
+      "en": "fake news",
+      "gloss": {
+        "en": "fake news",
+        "es": "noticias falsas",
+        "ru": "фейковые новости"
+      },
+      "example": "Фейковые новости распространяются очень быстро.",
+      "ipa": "fjejkovɨje novˈosti",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-11",
+      "l2": "прямой эфир",
+      "en": "live (broadcast)",
+      "gloss": {
+        "en": "live (broadcast)",
+        "es": "transmisión en vivo)",
+        "ru": "прямой эфир (трансляция)"
+      },
+      "example": "Смотрим шоу в прямом эфире.",
+      "ipa": "prjamoj ˈɛfir",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-12",
+      "l2": "первая страница",
+      "en": "front page",
+      "gloss": {
+        "en": "front page",
+        "es": "página delantera",
+        "ru": "первая страница"
+      },
+      "example": "Этот случай появился в новостях сегодня утром.",
+      "ipa": "pjervaja stranˈitsa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-novosti-b1-13",
+      "l2": "опрос",
+      "en": "poll / survey",
+      "gloss": {
+        "en": "poll / survey",
+        "es": "encuesta / encuesta",
+        "ru": "опрос / опрос"
+      },
+      "example": "Опрос дает небольшое преимущество.",
+      "ipa": "ˈopros",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-14",
+      "l2": "протест",
+      "en": "protest / demonstration",
+      "gloss": {
+        "en": "protest / demonstration",
+        "es": "protesta / manifestación",
+        "ru": "протест/демонстрация"
+      },
+      "example": "Демонстрация собрала тысячи людей.",
+      "ipa": "prˈotjest",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-15",
+      "l2": "ударять",
+      "en": "strike",
+      "gloss": {
+        "en": "strike",
+        "es": "huelga",
+        "ru": "ударять"
+      },
+      "example": "Транспортная забастовка блокирует город.",
+      "ipa": "udˈarjatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-16",
+      "l2": "катастрофа",
+      "en": "disaster",
+      "gloss": {
+        "en": "disaster",
+        "es": "desastre",
+        "ru": "катастрофа"
+      },
+      "example": "В результате стихийного бедствия пострадали несколько человек.",
+      "ipa": "katastrˈofa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-novosti-b1-17",
+      "l2": "выборы",
+      "en": "election",
+      "gloss": {
+        "en": "election",
+        "es": "elección",
+        "ru": "выборы"
+      },
+      "example": "Выборы состоятся в воскресенье.",
+      "ipa": "vɨbˈorɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-18",
+      "l2": "правительство",
+      "en": "government",
+      "gloss": {
+        "en": "government",
+        "es": "gobierno",
+        "ru": "правительство"
+      },
+      "example": "Правительство объявило о мерах.",
+      "ipa": "pravˈitjelʲstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-novosti-b1-19",
+      "l2": "комментарий",
+      "en": "comment",
+      "gloss": {
+        "en": "comment",
+        "es": "comentario",
+        "ru": "комментарий"
+      },
+      "example": "Комментарии под статьей носят агрессивный характер.",
+      "ipa": "kommjentˈarij",
+      "article": "м"
+    },
+    {
+      "id": "remote-novosti-b1-20",
+      "l2": "отдел новостей",
+      "en": "newsroom / editorial team",
+      "gloss": {
+        "en": "newsroom / editorial team",
+        "es": "sala de redacción / equipo editorial",
+        "ru": "отдел новостей / редакция"
+      },
+      "example": "Редакция исправила ошибку.",
+      "ipa": "otdjel nˈovostjej",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-novosti-b1-phrase-1",
+      "l2": "Вы видели новости этим утром?",
+      "en": "Did you see the news this morning?",
+      "gloss": {
+        "en": "Did you see the news this morning?",
+        "es": "¿Viste las noticias esta mañana?",
+        "ru": "Вы видели новости сегодня утром?"
+      },
+      "ipa": "vˈɨ vˈidjeli novˈosti ˈɛtim ˈutrom"
+    },
+    {
+      "id": "remote-novosti-b1-phrase-2",
+      "l2": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+      "en": "You have to check the source before sharing.",
+      "gloss": {
+        "en": "You have to check the source before sharing.",
+        "es": "Tienes que comprobar la fuente antes de compartir.",
+        "ru": "Прежде чем поделиться, необходимо проверить источник."
+      },
+      "ipa": "poʐalˈujsta prˈovjerʲtje istˈotɕnik prjeʐdje tɕjem podjelˈitʲsja"
+    },
+    {
+      "id": "remote-novosti-b1-phrase-3",
+      "l2": "На мой взгляд, название несколько преувеличено.",
+      "en": "The headline is a bit exaggerated, in my view.",
+      "gloss": {
+        "en": "The headline is a bit exaggerated, in my view.",
+        "es": "El titular es un poco exagerado, en mi opinión.",
+        "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+      },
+      "ipa": "nˈa mˈoj vzɡljˈad nazvˈanije njeskˈolʲko prjeuvjelˈitɕjeno"
+    },
+    {
+      "id": "remote-novosti-b1-phrase-4",
+      "l2": "Своего мнения пока нет, жду дополнительной информации.",
+      "en": "I don’t have an opinion yet; I’m waiting for more information.",
+      "gloss": {
+        "en": "I don’t have an opinion yet; I’m waiting for more information.",
+        "es": "Todavía no tengo una opinión; Estoy esperando más información.",
+        "ru": "У меня еще нет мнения; Жду дополнительной информации."
+      },
+      "ipa": "svˈojeɡo mnjenˈija pˈoka njet ʐdˈu dopolnˈitjelʲnoj informatsˈii"
+    },
+    {
+      "id": "remote-novosti-b1-phrase-5",
+      "l2": "Забастовка продлится до среды.",
+      "en": "The strike will last until Wednesday.",
+      "gloss": {
+        "en": "The strike will last until Wednesday.",
+        "es": "La huelga se prolongará hasta el miércoles.",
+        "ru": "Забастовка продлится до среды."
+      },
+      "ipa": "zabastˈovka prodlˈitsja dˈo srjedˈɨ"
+    },
+    {
+      "id": "remote-novosti-b1-phrase-6",
+      "l2": "Об этом много говорят, но факты остаются неясными.",
+      "en": "People talk about it a lot, but the facts remain unclear.",
+      "gloss": {
+        "en": "People talk about it a lot, but the facts remain unclear.",
+        "es": "La gente habla mucho de ello, pero los hechos siguen sin estar claros.",
+        "ru": "Об этом много говорят, но факты остаются неясными."
+      },
+      "ipa": "ˈob ˈɛtom mnˈoɡo ɡovˈorjat nˈo fˈaktɨ ostajˈutsja njejasnˈɨmi"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-novosti-b1-listen-1",
+      "l2": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+      "en": "You have to check the source before sharing.",
+      "gloss": {
+        "en": "You have to check the source before sharing.",
+        "es": "Tienes que comprobar la fuente antes de compartir.",
+        "ru": "Прежде чем поделиться, необходимо проверить источник."
+      },
+      "word": "источник",
+      "wordEn": "source",
+      "wordGloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      },
+      "wordIpa": "istˈotɕnik",
+      "distractors": [
+        "слух",
+        "заголовок",
+        "опрос"
+      ]
+    },
+    {
+      "id": "remote-novosti-b1-listen-2",
+      "l2": "Демонстрация собрала тысячи людей.",
+      "en": "The protest brought together thousands of people.",
+      "gloss": {
+        "en": "The protest brought together thousands of people.",
+        "es": "La protesta reunió a miles de personas.",
+        "ru": "Акция протеста собрала тысячи людей."
+      },
+      "word": "протест",
+      "wordEn": "protest",
+      "wordGloss": {
+        "en": "protest",
+        "es": "protesta",
+        "ru": "протест"
+      },
+      "wordIpa": "prˈotjest",
+      "distractors": [
+        "ударять",
+        "выборы",
+        "дебаты"
+      ]
+    },
+    {
+      "id": "remote-novosti-b1-listen-3",
+      "l2": "Название статьи вводит в заблуждение.",
+      "en": "The article’s headline is misleading.",
+      "gloss": {
+        "en": "The article’s headline is misleading.",
+        "es": "El titular del artículo es engañoso.",
+        "ru": "Заголовок статьи вводит в заблуждение."
+      },
+      "word": "заголовок",
+      "wordEn": "headline",
+      "wordGloss": {
+        "en": "headline",
+        "es": "titular",
+        "ru": "заголовок"
+      },
+      "wordIpa": "zaɡolˈovok",
+      "distractors": [
+        "первая страница",
+        "комментарий",
+        "газета"
+      ]
+    },
+    {
+      "id": "remote-novosti-b1-listen-4",
+      "l2": "Выборы пройдут в следующее воскресенье.",
+      "en": "The elections are on Sunday.",
+      "gloss": {
+        "en": "The elections are on Sunday.",
+        "es": "Las elecciones son el domingo.",
+        "ru": "Выборы состоятся в воскресенье."
+      },
+      "word": "выборы",
+      "wordEn": "election",
+      "wordGloss": {
+        "en": "election",
+        "es": "elección",
+        "ru": "выборы"
+      },
+      "wordIpa": "vɨbˈorɨ",
+      "distractors": [
+        "опрос",
+        "правительство",
+        "отдел новостей"
+      ]
+    }
+  ],
+  "prompts": [
+    "Какие новости поразили вас в последнее время?",
+    "Как вы проверяете информацию?",
+    "Социальные сети заменяют газеты? Выскажите свое мнение.",
+    "Подведите итог новости и скажите, что вы о ней думаете."
+  ],
+  "grammar": [
+    {
+      "id": "remote-novosti-b1-grammar-1",
+      "title": {
+        "fr": "Génitif après нет / много",
+        "en": "Genitive after нет / много",
+        "es": "Genitivo tras нет / много",
+        "ru": "Родительный падеж после нет / много"
+      },
+      "rule": {
+        "fr": "После нет, мало, много, без — génitif.",
+        "en": "After нет, мало, много, без — use genitive.",
+        "es": "Tras нет, мало, много, без — genitivo.",
+        "ru": "После нет, мало, много, без — родительный падеж."
+      },
+      "why": {
+        "en": "Essential for negation and quantities.",
+        "es": "Esencial para la negación y las cantidades.",
+        "ru": "Необходимо для отрицания и количеств."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "нет + Род.",
+          "отрицание",
+          "Нет заголовок."
+        ],
+        [
+          "много + Род.",
+          "количество",
+          "Много источник."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-novosti-b1-gq-1-1",
+          "prompt": "После «нет» нужен ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "винительный",
+            "дательный"
+          ]
+        },
+        {
+          "id": "remote-novosti-b1-gq-1-2",
+          "prompt": "У меня нет ___ . (тема: заголовок)",
+          "answer": "заголовок",
+          "options": [
+            "заголовок",
+            "есть",
+            "это"
+          ]
+        },
+        {
+          "id": "remote-novosti-b1-gq-1-3",
+          "prompt": "Много / мало / без → ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "творительный",
+            "именительный"
+          ]
+        },
+        {
+          "id": "remote-novosti-b1-gq-1-4",
+          "prompt": "Свяжите с темой: заголовок / источник. Род «заголовок»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-novosti-b1-gq-1-5",
+          "prompt": "Свяжите с темой: заголовок / источник. Род «заголовок»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-novosti-b1-grammar-2",
+      "title": {
+        "fr": "Verbes de mouvement (идти / ехать)",
+        "en": "Verbs of motion (идти / ехать)",
+        "es": "Verbos de movimiento (идти / ехать)",
+        "ru": "Глаголы движения (идти / ехать)"
+      },
+      "rule": {
+        "fr": "Идти — à pied ; ехать — en véhicule (direction précise).",
+        "en": "Идти — on foot; ехать — by vehicle (specific direction).",
+        "es": "Идти — a pie; ехать — en vehículo (dirección concreta).",
+        "ru": "Идти — пешком; ехать — на транспорте (конкретное направление)."
+      },
+      "why": {
+        "en": "Choosing the right motion verb sounds natural.",
+        "es": "Elegir el verbo de movimiento correcto suena natural.",
+        "ru": "Правильный глагол движения звучит естественно."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "идти",
+          "пешком",
+          "Я иду в магазин."
+        ],
+        [
+          "ехать",
+          "на транспорте",
+          "Я еду на работу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-novosti-b1-gq-2-1",
+          "prompt": "Пешком в парк: я ___ .",
+          "answer": "иду",
+          "options": [
+            "иду",
+            "еду",
+            "летаю"
+          ]
+        },
+        {
+          "id": "remote-novosti-b1-gq-2-2",
+          "prompt": "На автобусе: я ___ .",
+          "answer": "еду",
+          "options": [
+            "еду",
+            "иду",
+            "хожу"
+          ]
+        },
+        {
+          "id": "remote-novosti-b1-gq-2-3",
+          "prompt": "Конкретное направление на машине — глагол ___ .",
+          "answer": "ехать",
+          "options": [
+            "ехать",
+            "идти",
+            "быть"
+          ]
+        },
+        {
+          "id": "remote-novosti-b1-gq-2-4",
+          "prompt": "Свяжите с темой: газета / журналист. Род «газета»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-novosti-b1-gq-2-5",
+          "prompt": "Свяжите с темой: газета / журналист. Род «газета»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-novosti-b1-dict-1",
+        "l2": "Вы видели новости этим утром?",
+        "en": "Did you see the news this morning?",
+        "gloss": {
+          "en": "Did you see the news this morning?",
+          "es": "¿Viste las noticias esta mañana?",
+          "ru": "Вы видели новости сегодня утром?"
+        },
+        "ipa": "vˈɨ vˈidjeli novˈosti ˈɛtim ˈutrom"
+      },
+      {
+        "id": "remote-novosti-b1-dict-2",
+        "l2": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+        "en": "You have to check the source before sharing.",
+        "gloss": {
+          "en": "You have to check the source before sharing.",
+          "es": "Tienes que comprobar la fuente antes de compartir.",
+          "ru": "Прежде чем поделиться, необходимо проверить источник."
+        },
+        "ipa": "poʐalˈujsta prˈovjerʲtje istˈotɕnik prjeʐdje tɕjem podjelˈitʲsja"
+      },
+      {
+        "id": "remote-novosti-b1-dict-3",
+        "l2": "На мой взгляд, название несколько преувеличено.",
+        "en": "The headline is a bit exaggerated, in my view.",
+        "gloss": {
+          "en": "The headline is a bit exaggerated, in my view.",
+          "es": "El titular es un poco exagerado, en mi opinión.",
+          "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+        },
+        "ipa": "nˈa mˈoj vzɡljˈad nazvˈanije njeskˈolʲko prjeuvjelˈitɕjeno"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-novosti-b1-mean-1",
+        "l2": "Вы видели новости этим утром?",
+        "en": "Did you see the news this morning?",
+        "gloss": {
+          "en": "Did you see the news this morning?",
+          "es": "¿Viste las noticias esta mañana?",
+          "ru": "Вы видели новости сегодня утром?"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-mean-2",
+        "l2": "Пожалуйста, проверьте источник, прежде чем поделиться.",
+        "en": "You have to check the source before sharing.",
+        "gloss": {
+          "en": "You have to check the source before sharing.",
+          "es": "Tienes que comprobar la fuente antes de compartir.",
+          "ru": "Прежде чем поделиться, необходимо проверить источник."
+        }
+      },
+      {
+        "id": "remote-novosti-b1-mean-3",
+        "l2": "На мой взгляд, название несколько преувеличено.",
+        "en": "The headline is a bit exaggerated, in my view.",
+        "gloss": {
+          "en": "The headline is a bit exaggerated, in my view.",
+          "es": "El titular es un poco exagerado, en mi opinión.",
+          "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-novosti-b1-fren-1",
+        "l2": "текущие события",
+        "en": "current events",
+        "gloss": {
+          "en": "current events",
+          "es": "eventos actuales",
+          "ru": "текущие события"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-2",
+        "l2": "заголовок",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-3",
+        "l2": "газета",
+        "en": "newspaper",
+        "gloss": {
+          "en": "newspaper",
+          "es": "periódico",
+          "ru": "газета"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-4",
+        "l2": "статья",
+        "en": "article",
+        "gloss": {
+          "en": "article",
+          "es": "artículo",
+          "ru": "статья"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-5",
+        "l2": "источник",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
+      },
+      {
+        "id": "remote-novosti-b1-fren-6",
+        "l2": "журналист",
+        "en": "journalist",
+        "gloss": {
+          "en": "journalist",
+          "es": "periodista",
+          "ru": "журналист"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-novosti-b1-alou-1",
+        "l2": "Вы видели новости этим утром?",
+        "en": "Did you see the news this morning?",
+        "gloss": {
+          "en": "Did you see the news this morning?",
+          "es": "¿Viste las noticias esta mañana?",
+          "ru": "Вы видели новости сегодня утром?"
+        },
+        "ipa": "vˈɨ vˈidjeli novˈosti ˈɛtim ˈutrom"
+      },
+      {
+        "id": "remote-novosti-b1-alou-2",
+        "l2": "На мой взгляд, название несколько преувеличено.",
+        "en": "The headline is a bit exaggerated, in my view.",
+        "gloss": {
+          "en": "The headline is a bit exaggerated, in my view.",
+          "es": "El titular es un poco exagerado, en mi opinión.",
+          "ru": "Заголовок, на мой взгляд, несколько преувеличен."
+        },
+        "ipa": "nˈa mˈoj vzɡljˈad nazvˈanije njeskˈolʲko prjeuvjelˈitɕjeno"
+      },
+      {
+        "id": "remote-novosti-b1-alou-3",
+        "l2": "Забастовка продлится до среды.",
+        "en": "The strike will last until Wednesday.",
+        "gloss": {
+          "en": "The strike will last until Wednesday.",
+          "es": "La huelga se prolongará hasta el miércoles.",
+          "ru": "Забастовка продлится до среды."
+        },
+        "ipa": "zabastˈovka prodlˈitsja dˈo srjedˈɨ"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-novosti-b1-unsc-1",
+        "l2": "Своего мнения пока нет, жду дополнительной информации.",
+        "en": "I don’t have an opinion yet; I’m waiting for more information.",
+        "gloss": {
+          "en": "I don’t have an opinion yet; I’m waiting for more information.",
+          "es": "Todavía no tengo una opinión; Estoy esperando más información.",
+          "ru": "У меня еще нет мнения; Жду дополнительной информации."
+        },
+        "words": [
+          "Своего",
+          "мнения",
+          "пока",
+          "нет,",
+          "жду",
+          "дополнительной",
+          "информации."
+        ]
+      },
+      {
+        "id": "remote-novosti-b1-unsc-2",
+        "l2": "Забастовка продлится до среды.",
+        "en": "The strike will last until Wednesday.",
+        "gloss": {
+          "en": "The strike will last until Wednesday.",
+          "es": "La huelga se prolongará hasta el miércoles.",
+          "ru": "Забастовка продлится до среды."
+        },
+        "words": [
+          "Забастовка",
+          "продлится",
+          "до",
+          "среды."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

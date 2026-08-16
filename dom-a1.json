@@ -1,0 +1,857 @@
+{
+  "pratiquePack": 2,
+  "id": "dom-a1",
+  "version": 1,
+  "level": "a1",
+  "lang": "ru",
+  "title": {
+    "fr": "Maison A1 (RU)",
+    "en": "Home A1 (RU)",
+    "es": "Casa A1 (RU)",
+    "ru": "Дом А1"
+  },
+  "description": {
+    "fr": "Pièces, meubles et objets du quotidien à la maison — pack russe.",
+    "en": "Rooms, furniture, and everyday objects at home — Russian pack.",
+    "es": "Habitaciones, muebles y objetos cotidianos del hogar — paquete ruso.",
+    "ru": "Комнаты, мебель и предметы быта дома — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-dom-a1-1",
+      "l2": "дом",
+      "en": "house",
+      "gloss": {
+        "en": "house",
+        "es": "casa",
+        "ru": "дом"
+      },
+      "example": "Я живу в небольшом доме.",
+      "ipa": "dˈom",
+      "article": "м"
+    },
+    {
+      "id": "remote-dom-a1-2",
+      "l2": "квартира",
+      "en": "apartment / flat",
+      "gloss": {
+        "en": "apartment / flat",
+        "es": "apartamento / piso",
+        "ru": "квартира / квартира"
+      },
+      "example": "Моя квартира находится на втором этаже.",
+      "ipa": "kvartˈira",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dom-a1-3",
+      "l2": "кухня",
+      "en": "kitchen",
+      "gloss": {
+        "en": "kitchen",
+        "es": "cocina",
+        "ru": "кухня"
+      },
+      "example": "Кухня большая.",
+      "ipa": "kˈuxnja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dom-a1-4",
+      "l2": "гостиная",
+      "en": "living room",
+      "gloss": {
+        "en": "living room",
+        "es": "sala de estar",
+        "ru": "гостиная"
+      },
+      "example": "Мы смотрим телевизор в гостиной.",
+      "ipa": "ɡostinˈaja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dom-a1-5",
+      "l2": "спальня",
+      "en": "bedroom",
+      "gloss": {
+        "en": "bedroom",
+        "es": "dormitorio",
+        "ru": "спальня"
+      },
+      "example": "В моей комнате тихо.",
+      "ipa": "spˈalʲnja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dom-a1-6",
+      "l2": "ванная комната",
+      "en": "bathroom",
+      "gloss": {
+        "en": "bathroom",
+        "es": "baño",
+        "ru": "ванная комната"
+      },
+      "example": "Где здесь ванная комната?",
+      "ipa": "vannaja komnˈata",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dom-a1-7",
+      "l2": "кровать",
+      "en": "bed",
+      "gloss": {
+        "en": "bed",
+        "es": "cama",
+        "ru": "кровать"
+      },
+      "example": "Я ложусь спать рано.",
+      "ipa": "krˈovatʲ",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dom-a1-8",
+      "l2": "стол",
+      "en": "table",
+      "gloss": {
+        "en": "table",
+        "es": "mesa",
+        "ru": "стол"
+      },
+      "example": "Стол находится на кухне.",
+      "ipa": "stˈol",
+      "article": "м"
+    },
+    {
+      "id": "remote-dom-a1-9",
+      "l2": "стул",
+      "en": "chair",
+      "gloss": {
+        "en": "chair",
+        "es": "silla",
+        "ru": "стул"
+      },
+      "example": "Сядьте на этот стул.",
+      "ipa": "stˈul",
+      "article": "м"
+    },
+    {
+      "id": "remote-dom-a1-10",
+      "l2": "окно",
+      "en": "window",
+      "gloss": {
+        "en": "window",
+        "es": "ventana",
+        "ru": "окно"
+      },
+      "example": "Откройте окно, пожалуйста.",
+      "ipa": "ˈokno",
+      "article": "ср"
+    },
+    {
+      "id": "remote-dom-a1-11",
+      "l2": "дверь",
+      "en": "door",
+      "gloss": {
+        "en": "door",
+        "es": "puerta",
+        "ru": "дверь"
+      },
+      "example": "Закрыть дверь.",
+      "ipa": "dvjerʲ",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dom-a1-12",
+      "l2": "лампа",
+      "en": "lamp",
+      "gloss": {
+        "en": "lamp",
+        "es": "lámpara",
+        "ru": "лампа"
+      },
+      "example": "Включите лампу.",
+      "ipa": "lˈampa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dom-a1-13",
+      "l2": "диван",
+      "en": "sofa / couch",
+      "gloss": {
+        "en": "sofa / couch",
+        "es": "sofá / sofá",
+        "ru": "диван / кушетка"
+      },
+      "example": "Диван удобный.",
+      "ipa": "dˈivan",
+      "article": "м"
+    },
+    {
+      "id": "remote-dom-a1-14",
+      "l2": "гардероб",
+      "en": "wardrobe / cupboard",
+      "gloss": {
+        "en": "wardrobe / cupboard",
+        "es": "armario / alacena",
+        "ru": "гардероб / шкаф"
+      },
+      "example": "Моя одежда в шкафу.",
+      "ipa": "ɡˈardjerob",
+      "article": "м"
+    },
+    {
+      "id": "remote-dom-a1-15",
+      "l2": "сад",
+      "en": "garden",
+      "gloss": {
+        "en": "garden",
+        "es": "jardín",
+        "ru": "сад"
+      },
+      "example": "За домом есть сад.",
+      "ipa": "sˈad",
+      "article": "м"
+    },
+    {
+      "id": "remote-dom-a1-16",
+      "l2": "ключ",
+      "en": "key",
+      "gloss": {
+        "en": "key",
+        "es": "llave",
+        "ru": "ключ"
+      },
+      "example": "Я потерял ключ.",
+      "ipa": "kljˈutɕ",
+      "article": "м"
+    },
+    {
+      "id": "remote-dom-a1-17",
+      "l2": "холодильник",
+      "en": "fridge",
+      "gloss": {
+        "en": "fridge",
+        "es": "refrigerador",
+        "ru": "холодильник"
+      },
+      "example": "Молоко стоит в холодильнике.",
+      "ipa": "xolodˈilʲnik",
+      "article": "м"
+    },
+    {
+      "id": "remote-dom-a1-18",
+      "l2": "лестница",
+      "en": "stairs",
+      "gloss": {
+        "en": "stairs",
+        "es": "escaleras",
+        "ru": "лестница"
+      },
+      "example": "Поднимитесь по лестнице на первый этаж.",
+      "ipa": "ljestnˈitsa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dom-a1-19",
+      "l2": "телевидение",
+      "en": "television",
+      "gloss": {
+        "en": "television",
+        "es": "televisión",
+        "ru": "телевидение"
+      },
+      "example": "Телевизор находится в гостиной.",
+      "ipa": "tjeljevˈidjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-dom-a1-20",
+      "l2": "этаж",
+      "en": "floor / storey",
+      "gloss": {
+        "en": "floor / storey",
+        "es": "piso / piso",
+        "ru": "этаж / этаж"
+      },
+      "example": "Я живу на третьем этаже.",
+      "ipa": "ˈɛtaʐ",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-dom-a1-phrase-1",
+      "l2": "Где кухня?",
+      "en": "Where is the kitchen?",
+      "gloss": {
+        "en": "Where is the kitchen?",
+        "es": "¿Dónde está la cocina?",
+        "ru": "Где кухня?"
+      },
+      "ipa": "ɡdje kˈuxnja"
+    },
+    {
+      "id": "remote-dom-a1-phrase-2",
+      "l2": "Я живу в квартире.",
+      "en": "I live in an apartment.",
+      "gloss": {
+        "en": "I live in an apartment.",
+        "es": "Vivo en un apartamento.",
+        "ru": "Я живу в квартире."
+      },
+      "ipa": "jˈa ʐˈivu v kvˈartirje"
+    },
+    {
+      "id": "remote-dom-a1-phrase-3",
+      "l2": "Моя комната маленькая, но приятная.",
+      "en": "My bedroom is small but pleasant.",
+      "gloss": {
+        "en": "My bedroom is small but pleasant.",
+        "es": "Mi dormitorio es pequeño pero agradable.",
+        "ru": "Моя спальня маленькая, но приятная."
+      },
+      "ipa": "mˈoja komnˈata maljenʲkˈaja nˈo prijatnˈaja"
+    },
+    {
+      "id": "remote-dom-a1-phrase-4",
+      "l2": "За домом есть сад.",
+      "en": "There is a garden behind the house.",
+      "gloss": {
+        "en": "There is a garden behind the house.",
+        "es": "Hay un jardín detrás de la casa.",
+        "ru": "За домом есть сад."
+      },
+      "ipa": "zˈa dˈomom jestʲ sˈad"
+    },
+    {
+      "id": "remote-dom-a1-phrase-5",
+      "l2": "Закройте дверь, пожалуйста.",
+      "en": "Close the door, please.",
+      "gloss": {
+        "en": "Close the door, please.",
+        "es": "Cierra la puerta, por favor.",
+        "ru": "Закройте дверь, пожалуйста."
+      },
+      "ipa": "zˈakrojtje dvjerʲ poʐalˈujsta"
+    },
+    {
+      "id": "remote-dom-a1-phrase-6",
+      "l2": "Включите лампу в гостиной.",
+      "en": "Turn on the lamp in the living room.",
+      "gloss": {
+        "en": "Turn on the lamp in the living room.",
+        "es": "Enciende la lámpara del salón.",
+        "ru": "Включите лампу в гостиной."
+      },
+      "ipa": "vkljˈutɕitje lˈampu v ɡostˈinoj"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-dom-a1-listen-1",
+      "l2": "Мы едим за столом на кухне.",
+      "en": "We eat at the table in the kitchen.",
+      "gloss": {
+        "en": "We eat at the table in the kitchen.",
+        "es": "Comemos en la mesa de la cocina.",
+        "ru": "Мы едим за столом на кухне."
+      },
+      "word": "кухня",
+      "wordEn": "kitchen",
+      "wordGloss": {
+        "en": "kitchen",
+        "es": "cocina",
+        "ru": "кухня"
+      },
+      "wordIpa": "kˈuxnja",
+      "distractors": [
+        "гостиная",
+        "спальня",
+        "сад"
+      ]
+    },
+    {
+      "id": "remote-dom-a1-listen-2",
+      "l2": "Мой ключ на столе у ​​двери.",
+      "en": "My key is on the table near the door.",
+      "gloss": {
+        "en": "My key is on the table near the door.",
+        "es": "Mi llave está en la mesa cerca de la puerta.",
+        "ru": "Мой ключ на столе возле двери."
+      },
+      "word": "ключ",
+      "wordEn": "key",
+      "wordGloss": {
+        "en": "key",
+        "es": "llave",
+        "ru": "ключ"
+      },
+      "wordIpa": "kljˈutɕ",
+      "distractors": [
+        "лампа",
+        "стул",
+        "окно"
+      ]
+    },
+    {
+      "id": "remote-dom-a1-listen-3",
+      "l2": "Диван удобен в гостиной.",
+      "en": "The sofa is comfortable in the living room.",
+      "gloss": {
+        "en": "The sofa is comfortable in the living room.",
+        "es": "El sofá es cómodo en el salón.",
+        "ru": "Диван удобен в гостиной."
+      },
+      "word": "диван",
+      "wordEn": "sofa",
+      "wordGloss": {
+        "en": "sofa",
+        "es": "sofá",
+        "ru": "диван"
+      },
+      "wordIpa": "dˈivan",
+      "distractors": [
+        "кровать",
+        "гардероб",
+        "холодильник"
+      ]
+    },
+    {
+      "id": "remote-dom-a1-listen-4",
+      "l2": "Откройте окно спальни.",
+      "en": "Open the bedroom window.",
+      "gloss": {
+        "en": "Open the bedroom window.",
+        "es": "Abre la ventana del dormitorio.",
+        "ru": "Откройте окно спальни."
+      },
+      "word": "окно",
+      "wordEn": "window",
+      "wordGloss": {
+        "en": "window",
+        "es": "ventana",
+        "ru": "окно"
+      },
+      "wordIpa": "ˈokno",
+      "distractors": [
+        "дверь",
+        "лампа",
+        "стол"
+      ]
+    }
+  ],
+  "prompts": [
+    "Опишите свой дом или квартиру.",
+    "Что у тебя в гостиной?",
+    "Где ты спишь?",
+    "Какая мебель есть в твоей комнате?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-dom-a1-grammar-1",
+      "title": {
+        "fr": "Genre des noms (м / ж / ср)",
+        "en": "Noun gender (м / ж / ср)",
+        "es": "Género de los sustantivos (м / ж / ср)",
+        "ru": "Род существительных (м / ж / ср)"
+      },
+      "rule": {
+        "fr": "м — masculin ; ж — féminin ; ср — neutre.",
+        "en": "м — masculine; ж — feminine; ср — neuter.",
+        "es": "м — masculino; ж — femenino; ср — neutro.",
+        "ru": "м — мужской род; ж — женский род; ср — средний род."
+      },
+      "why": {
+        "en": "Gender affects adjectives and past-tense verbs.",
+        "es": "El género afecta a adjetivos y verbos en pasado.",
+        "ru": "Род влияет на прилагательные и глаголы в прошедшем времени."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "м",
+          "мужской род",
+          "спальня"
+        ],
+        [
+          "ж",
+          "женский род",
+          "квартира"
+        ],
+        [
+          "ср",
+          "средний род",
+          "окно / молоко"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-dom-a1-gq-1-1",
+          "prompt": "Род слова «квартира»?",
+          "answer": "ж",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-dom-a1-gq-1-2",
+          "prompt": "Род слова «спальня»?",
+          "answer": "ж",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-dom-a1-gq-1-3",
+          "prompt": "Выберите род: квартира",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-dom-a1-gq-1-4",
+          "prompt": "Свяжите с темой: квартира / спальня. Род «квартира»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-dom-a1-gq-1-5",
+          "prompt": "Свяжите с темой: квартира / спальня. Род «квартира»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-dom-a1-grammar-2",
+      "title": {
+        "fr": "Есть + nom",
+        "en": "Есть + noun",
+        "es": "Есть + sustantivo",
+        "ru": "Есть + существительное"
+      },
+      "rule": {
+        "fr": "Есть introduit ce qui existe : Есть + nom.",
+        "en": "Есть introduces what exists: Есть + noun.",
+        "es": "Есть presenta lo que existe: Есть + sustantivo.",
+        "ru": "Есть вводит то, что есть: Есть + существительное."
+      },
+      "why": {
+        "en": "Useful to say what you have or what is there.",
+        "es": "Útil para decir lo que hay o lo que tienes.",
+        "ru": "Полезно, чтобы сказать, что есть или что у вас есть."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "Есть",
+          "наличие",
+          "Есть кухня."
+        ],
+        [
+          "Нет",
+          "отсутствие (+ род. п.)",
+          "Нет ванная комната."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-dom-a1-gq-2-1",
+          "prompt": "Дополните: ___ кухня.",
+          "answer": "Есть",
+          "options": [
+            "Есть",
+            "Это",
+            "Быть"
+          ]
+        },
+        {
+          "id": "remote-dom-a1-gq-2-2",
+          "prompt": "Дополните: ___ ванная комната. (отрицание)",
+          "answer": "Нет",
+          "options": [
+            "Нет",
+            "Есть",
+            "Да"
+          ]
+        },
+        {
+          "id": "remote-dom-a1-gq-2-3",
+          "prompt": "У меня ___ кухня.",
+          "answer": "есть",
+          "options": [
+            "есть",
+            "это",
+            "быть"
+          ]
+        },
+        {
+          "id": "remote-dom-a1-gq-2-4",
+          "prompt": "Свяжите с темой: кухня / ванная комната. Род «кухня»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-dom-a1-gq-2-5",
+          "prompt": "Свяжите с темой: кухня / ванная комната. Род «кухня»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-dom-a1-dict-1",
+        "l2": "Я живу в небольшом доме.",
+        "en": "I live in a small house.",
+        "gloss": {
+          "en": "I live in a small house.",
+          "es": "Vivo en una casa pequeña.",
+          "ru": "Я живу в небольшом доме."
+        },
+        "ipa": "jˈa ʐˈivu v njebˈolʲʂom dˈomje"
+      },
+      {
+        "id": "remote-dom-a1-dict-2",
+        "l2": "Кухня большая.",
+        "en": "The kitchen is big.",
+        "gloss": {
+          "en": "The kitchen is big.",
+          "es": "La cocina es grande.",
+          "ru": "Кухня большая."
+        },
+        "ipa": "kˈuxnja bolʲʂˈaja"
+      },
+      {
+        "id": "remote-dom-a1-dict-3",
+        "l2": "Откройте окно, пожалуйста.",
+        "en": "Open the window, please.",
+        "gloss": {
+          "en": "Open the window, please.",
+          "es": "Abre la ventana, por favor.",
+          "ru": "Откройте окно, пожалуйста."
+        },
+        "ipa": "ˈotkrojtje ˈokno poʐalˈujsta"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-dom-a1-mean-1",
+        "l2": "Где здесь ванная комната?",
+        "en": "Where is the bathroom?",
+        "gloss": {
+          "en": "Where is the bathroom?",
+          "es": "¿Dónde está el baño?",
+          "ru": "Где здесь ванная комната?"
+        }
+      },
+      {
+        "id": "remote-dom-a1-mean-2",
+        "l2": "Я ложусь спать рано.",
+        "en": "I go to bed early.",
+        "gloss": {
+          "en": "I go to bed early.",
+          "es": "Me acuesto temprano.",
+          "ru": "Я ложусь спать рано."
+        }
+      },
+      {
+        "id": "remote-dom-a1-mean-3",
+        "l2": "Включите лампу.",
+        "en": "Turn on the lamp.",
+        "gloss": {
+          "en": "Turn on the lamp.",
+          "es": "Enciende la lámpara.",
+          "ru": "Включите лампу."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-dom-a1-fren-1",
+        "l2": "дом",
+        "en": "house",
+        "gloss": {
+          "en": "house",
+          "es": "casa",
+          "ru": "дом"
+        }
+      },
+      {
+        "id": "remote-dom-a1-fren-2",
+        "l2": "кухня",
+        "en": "kitchen",
+        "gloss": {
+          "en": "kitchen",
+          "es": "cocina",
+          "ru": "кухня"
+        }
+      },
+      {
+        "id": "remote-dom-a1-fren-3",
+        "l2": "гостиная",
+        "en": "living room",
+        "gloss": {
+          "en": "living room",
+          "es": "sala de estar",
+          "ru": "гостиная"
+        }
+      },
+      {
+        "id": "remote-dom-a1-fren-4",
+        "l2": "спальня",
+        "en": "bedroom",
+        "gloss": {
+          "en": "bedroom",
+          "es": "dormitorio",
+          "ru": "спальня"
+        }
+      },
+      {
+        "id": "remote-dom-a1-fren-5",
+        "l2": "кровать",
+        "en": "bed",
+        "gloss": {
+          "en": "bed",
+          "es": "cama",
+          "ru": "кровать"
+        }
+      },
+      {
+        "id": "remote-dom-a1-fren-6",
+        "l2": "дверь",
+        "en": "door",
+        "gloss": {
+          "en": "door",
+          "es": "puerta",
+          "ru": "дверь"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-dom-a1-alou-1",
+        "l2": "В моей комнате тихо.",
+        "en": "My bedroom is quiet.",
+        "gloss": {
+          "en": "My bedroom is quiet.",
+          "es": "Mi dormitorio está en silencio.",
+          "ru": "В моей спальне тихо."
+        },
+        "ipa": "v mˈojej kˈomnatje tˈixo"
+      },
+      {
+        "id": "remote-dom-a1-alou-2",
+        "l2": "Закрыть дверь.",
+        "en": "Close the door.",
+        "gloss": {
+          "en": "Close the door.",
+          "es": "Cierre la puerta.",
+          "ru": "Закрыть дверь."
+        },
+        "ipa": "zˈakrɨtʲ dvjerʲ"
+      },
+      {
+        "id": "remote-dom-a1-alou-3",
+        "l2": "За домом есть сад.",
+        "en": "There is a garden behind the house.",
+        "gloss": {
+          "en": "There is a garden behind the house.",
+          "es": "Hay un jardín detrás de la casa.",
+          "ru": "За домом есть сад."
+        },
+        "ipa": "zˈa dˈomom jestʲ sˈad"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-dom-a1-unsc-1",
+        "l2": "Стол находится на кухне.",
+        "en": "The table is in the kitchen.",
+        "gloss": {
+          "en": "The table is in the kitchen.",
+          "es": "La mesa está en la cocina.",
+          "ru": "Стол находится на кухне."
+        },
+        "words": [
+          "Стол",
+          "находится",
+          "на",
+          "кухне."
+        ]
+      },
+      {
+        "id": "remote-dom-a1-unsc-2",
+        "l2": "Диван удобный.",
+        "en": "The sofa is comfortable.",
+        "gloss": {
+          "en": "The sofa is comfortable.",
+          "es": "El sofá es cómodo.",
+          "ru": "Диван удобный."
+        },
+        "words": [
+          "Диван",
+          "удобный."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-dom-a1-sign-1",
+        "l2": "выход",
+        "en": "exit",
+        "gloss": {
+          "en": "exit",
+          "es": "salida",
+          "ru": "Выход"
+        },
+        "hint": "дверь/выход"
+      },
+      {
+        "id": "remote-dom-a1-sign-2",
+        "l2": "частный",
+        "en": "private",
+        "gloss": {
+          "en": "private",
+          "es": "privado",
+          "ru": "частный"
+        },
+        "hint": "не для публики"
+      }
+    ]
+  },
+  "sounds": []
+}

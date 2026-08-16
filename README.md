@@ -76,11 +76,13 @@ Hosting this repo as **public** is free. The app fetches:
 | `scripts/migrate-gloss.mjs` | Lift v1 flat `en` → `gloss.en` |
 | `scripts/validate-packs.mjs` | Check every pack has `lang`; every seed has `l2` or `fr` |
 | `scripts/generate-spanish-packs.py` | Build Spanish L2 twins from French packs |
+| `scripts/generate-russian-packs.py` | Build Russian L2 twins from French packs |
 | `comida-a1.json` … `registros-c2.json` | Full Spanish L2 catalog (60 packs, A1–C2) mirroring French topics |
+| `eda-a1.json` … `ironiya-c2.json` / `registry-c2.json` | Full Russian L2 catalog (60 packs, A1–C2) mirroring French topics |
 
 ## Practice language (L2)
 
-Each pack and its `catalog.json` entry declare `"lang": "fr"` | `"es"` | … (ISO code for the language being practiced). Existing packs default to `"fr"`.
+Each pack and its `catalog.json` entry declare `"lang": "fr"` | `"es"` | `"ru"` | … (ISO code for the language being practiced).
 
 | Field | Role |
 |-------|------|
@@ -93,16 +95,16 @@ Non-French packs should use `l2` for headwords. Do not remove gloss locale maps 
 
 ## Levels
 
-| Level | French (`lang: fr`) | Spanish (`lang: es`) |
-|-------|--------|--------|
-| A1 | Food, Home, Family, School, Weather, Animals, Clothes, Time, In town, Daily routine | Comida, Casa, Familia, Escuela, Clima, Animales, Ropa, Hora, Ciudad, Rutina |
-| A2 | Travel, Shopping, Health, Restaurant, Hobbies, Work, Directions, Housing, Phone, Celebrations | Viaje, Compras, Salud, Restaurante, Pasatiempos, Trabajo, Direcciones, Vivienda, Teléfono, Celebraciones |
-| B1 | Environment, Studies, Relationships, Money, Technology, News, Culture, Opinions, Nature, Admin | Medioambiente, Estudios, Relaciones, Dinero, Tecnología, Noticias, Cultura, Opiniones, Naturaleza, Trámites |
-| B2 | Workplace, Media and news, Politics and citizenship, Science, Economy, Law and justice, Climate and energy, Psychology, Arts and film, Argumentation | Lugar de trabajo, Medios, Política, Ciencias, Economía, Derecho, Clima y energía, Psicología, Artes, Argumentación |
-| C1 | Academic discourse, International relations, Philosophy, Ecological transition, Ethics, Innovation and research, Social issues, Contemporary arts, Language and discourse, Journalism | Académico, Diplomacia, Filosofía, Sostenibilidad, Ética, Innovación, Sociedad, Artes contemporáneas, Lingüística, Periodismo |
-| C2 | Rhetoric, Literary analysis, Geopolitics, Epistemology, Irony and satire, Identity and otherness, Aesthetics, Fundamental rights, Scientific knowledge, Registers and nuances | Retórica, Literario, Geopolítica, Epistemología, Sátira, Identidad, Estética, Derechos, Ciencia, Registros |
+| Level | French (`lang: fr`) | Spanish (`lang: es`) | Russian (`lang: ru`) |
+|-------|--------|--------|--------|
+| A1 | Food, Home, Family, School, Weather, Animals, Clothes, Time, In town, Daily routine | Comida, Casa, Familia, Escuela, Clima, Animales, Ropa, Hora, Ciudad, Rutina | Еда, Дом, Семья, Школа, Погода, Животные, Одежда, Время, Город, Распорядок |
+| A2 | Travel, Shopping, Health, Restaurant, Hobbies, Work, Directions, Housing, Phone, Celebrations | Viaje, Compras, Salud, Restaurante, Pasatiempos, Trabajo, Direcciones, Vivienda, Teléfono, Celebraciones | Путешествие, Покупки, Здоровье, Ресторан, Хобби, Работа, Направления, Жильё, Телефон, Праздники |
+| B1 | Environment, Studies, Relationships, Money, Technology, News, Culture, Opinions, Nature, Admin | Medioambiente, Estudios, Relaciones, Dinero, Tecnología, Noticias, Cultura, Opiniones, Naturaleza, Trámites | Экология, Образование, Отношения, Деньги, Технологии, Новости, Культура, Мнения, Природа, Документы |
+| B2 | Workplace, Media and news, Politics and citizenship, Science, Economy, Law and justice, Climate and energy, Psychology, Arts and film, Argumentation | Lugar de trabajo, Medios, Política, Ciencias, Economía, Derecho, Clima y energía, Psicología, Artes, Argumentación | Рабочее место, СМИ, Политика, Науки, Экономика, Право, Климат и энергия, Психология, Искусства, Аргументация |
+| C1 | Academic discourse, International relations, Philosophy, Ecological transition, Ethics, Innovation and research, Social issues, Contemporary arts, Language and discourse, Journalism | Académico, Diplomacia, Filosofía, Sostenibilidad, Ética, Innovación, Sociedad, Artes contemporáneas, Lingüística, Periodismo | Академический, Дипломатия, Философия, Устойчивость, Этика, Инновации, Общество, Современное искусство, Лингвистика, Журналистика |
+| C2 | Rhetoric, Literary analysis, Geopolitics, Epistemology, Irony and satire, Identity and otherness, Aesthetics, Fundamental rights, Scientific knowledge, Registers and nuances | Retórica, Literario, Geopolítica, Epistemología, Sátira, Identidad, Estética, Derechos, Ciencia, Registros | Риторика, Литературный, Геополитика, Эпистемология, Сатира, Идентичность, Эстетика, Права, Наука, Регистры |
 
-Each level has **10 French + 10 Spanish** packs with the same section depth (seed, phrases, listen, prompts, grammar, skills).
+Each level has **10 French + 10 Spanish + 10 Russian** packs with the same section depth (seed, phrases, listen, prompts, grammar, skills).
 
 ## Pack fields → Pratique modes
 

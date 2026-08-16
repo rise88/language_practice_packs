@@ -8,10 +8,10 @@ Supported gloss locales in this catalog: **en**, **es**, **ru** (see `catalog.js
 
 | Field | Role |
 |-------|------|
-| `lang` | ISO practice language on the pack **and** its `catalog.json` entry (`fr`, `es`, …). Existing French packs use `"lang": "fr"`. |
+| `lang` | ISO practice language on the pack **and** its `catalog.json` entry (`fr`, `es`, `ru`, …). Existing French packs use `"lang": "fr"`. |
 | `seed[].l2` | Preferred headword in the practice language |
 | `seed[].fr` | Legacy alias for the headword on **French** packs only — keep for older app builds; non-French packs should use `l2` |
-| `prompts` | Writing prompts **in the pack’s `lang`** (French for `lang:"fr"`, Spanish for `lang:"es"`, …) |
+| `prompts` | Writing prompts **in the pack’s `lang`** (French for `lang:"fr"`, Spanish for `lang:"es"`, Russian for `lang:"ru"`, …) |
 
 Do **not** build or rely on a translation backend: ship L2 text in the pack JSON.
 
@@ -40,13 +40,14 @@ Keep gloss locale maps when adding L2 packs — do not remove `en` / `es` / `ru`
 3. Bump each changed pack `version` and the matching catalog entry; set `updatedAt`.
 4. Do **not** machine-translate practice text: keep `l2` / `example` / `prompts` in the pack’s `lang`.
 
-## Add a non-French practice pack (e.g. Spanish)
+## Add a non-French practice pack (e.g. Spanish or Russian)
 
-1. Copy `_template.json`, set `"lang": "es"`.
+1. Copy `_template.json`, set `"lang": "es"` or `"lang": "ru"`.
 2. Put headwords in `seed[].l2` (do not use `fr` as the headword field).
-3. Write `example`, `phrases`, `listen`, `prompts`, and grammar drills in Spanish.
+3. Write `example`, `phrases`, `listen`, `prompts`, and grammar drills in that practice language.
 4. Keep `gloss` / `wordGloss` maps for learner locales.
-5. Register in `catalog.json` with the same `"lang": "es"`.
+5. Register in `catalog.json` with the same `"lang"`.
+6. Or generate twins from French packs: `python3 scripts/generate-spanish-packs.py` / `python3 scripts/generate-russian-packs.py`.
 
 ## Migrate existing v1 packs
 
