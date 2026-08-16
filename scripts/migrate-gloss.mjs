@@ -84,23 +84,37 @@ function migratePack(pack) {
   return changed;
 }
 
+function listPackFiles() {
+  const files = [];
+  const skip = new Set(["catalog.json", "_template.json"]);
+  for (const name of fs.readdirSync(root)) {
+    const full = path.join(root, name);
+    const st = fs.statSync(full);
+    if (st.isFile() && name.endsWith(".json") && !skip.has(name)) {
+      files.push(full);
+    } else if (st.isDirectory() && /^[a-z]{2}$/i.test(name)) {
+      for (const child of fs.readdirSync(full)) {
+        if (child.endsWith(".json")) files.push(path.join(full, child));
+      }
+    }
+  }
+  return files.sort();
+}
+
 function main() {
-  const files = fs
-    .readdirSync(root)
-    .filter((f) => f.endsWith(".json") && f !== "catalog.json")
-    .sort();
+  const files = listPackFiles();
 
   let n = 0;
-  for (const file of files) {
-    const full = path.join(root, file);
+  for (const full of files) {
     const pack = JSON.parse(fs.readFileSync(full, "utf8"));
     if (!pack.pratiquePack && pack.pratiquePack !== 0) continue;
+    const rel = path.relative(root, full);
     if (migratePack(pack)) {
       fs.writeFileSync(full, JSON.stringify(pack, null, 2) + "\n");
       n += 1;
-      console.log("migrated", file);
+      console.log("migrated", rel);
     } else {
-      console.log("unchanged", file);
+      console.log("unchanged", rel);
     }
   }
   console.log(`done: ${n}/${files.length} files updated`);
