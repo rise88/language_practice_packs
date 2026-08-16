@@ -3,6 +3,7 @@
 Vocalis pack **v2** (`pratiquePack: 2`) shows card meanings in the learner’s language via `gloss` / `wordGloss` maps. Practice targets (`l2` / legacy `fr`, `example`, `prompts`, grammar drills) are written in the pack’s **practice language** (`lang`), not French-by-default.
 
 Supported gloss locales in this catalog: **en**, **es**, **ru** (see `catalog.json` → `locales`).
+Practice languages in this catalog: **fr**, **es**, **ru** (see `catalog.json` → `languages`).
 
 ## Practice language (L2)
 

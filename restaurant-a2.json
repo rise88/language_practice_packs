@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "restaurant-a2",
-  "version": 3,
+  "version": 4,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -28,7 +28,8 @@
         "en": "restaurant",
         "es": "restaurante",
         "ru": "ресторан"
-      }
+      },
+      "l2": "restaurant"
     },
     {
       "id": "remote-restaurant-a2-2",
@@ -41,7 +42,8 @@
         "en": "waiter",
         "es": "mesero",
         "ru": "официант"
-      }
+      },
+      "l2": "serveur"
     },
     {
       "id": "remote-restaurant-a2-3",
@@ -54,7 +56,8 @@
         "en": "waitress",
         "es": "camarera",
         "ru": "официантка"
-      }
+      },
+      "l2": "serveuse"
     },
     {
       "id": "remote-restaurant-a2-4",
@@ -67,7 +70,8 @@
         "en": "menu",
         "es": "menú",
         "ru": "меню"
-      }
+      },
+      "l2": "menu"
     },
     {
       "id": "remote-restaurant-a2-5",
@@ -80,7 +84,8 @@
         "en": "menu / wine list",
         "es": "menú/carta de vinos",
         "ru": "меню/винная карта"
-      }
+      },
+      "l2": "carte"
     },
     {
       "id": "remote-restaurant-a2-6",
@@ -93,7 +98,8 @@
         "en": "starter / appetizer",
         "es": "entrante/aperitivo",
         "ru": "закуска/закуска"
-      }
+      },
+      "l2": "entrée"
     },
     {
       "id": "remote-restaurant-a2-7",
@@ -106,7 +112,8 @@
         "en": "main course / dish",
         "es": "plato principal/plato",
         "ru": "основное блюдо/блюдо"
-      }
+      },
+      "l2": "plat"
     },
     {
       "id": "remote-restaurant-a2-8",
@@ -119,7 +126,8 @@
         "en": "dessert",
         "es": "postre",
         "ru": "десерт"
-      }
+      },
+      "l2": "dessert"
     },
     {
       "id": "remote-restaurant-a2-9",
@@ -132,7 +140,8 @@
         "en": "bill / check",
         "es": "factura / cheque",
         "ru": "счет/чек"
-      }
+      },
+      "l2": "addition"
     },
     {
       "id": "remote-restaurant-a2-10",
@@ -145,7 +154,8 @@
         "en": "reservation / booking",
         "es": "reserva / reserva",
         "ru": "бронирование / бронирование"
-      }
+      },
+      "l2": "réservation"
     },
     {
       "id": "remote-restaurant-a2-11",
@@ -158,7 +168,8 @@
         "en": "table",
         "es": "mesa",
         "ru": "стол"
-      }
+      },
+      "l2": "table"
     },
     {
       "id": "remote-restaurant-a2-12",
@@ -171,7 +182,8 @@
         "en": "place setting / cutlery",
         "es": "cubierto / cubiertos",
         "ru": "сервировка столовых приборов/столовые приборы"
-      }
+      },
+      "l2": "couvert"
     },
     {
       "id": "remote-restaurant-a2-13",
@@ -184,7 +196,8 @@
         "en": "tip",
         "es": "consejo",
         "ru": "кончик"
-      }
+      },
+      "l2": "pourboire"
     },
     {
       "id": "remote-restaurant-a2-14",
@@ -197,7 +210,8 @@
         "en": "set menu / meal deal",
         "es": "menú fijo / oferta de comida",
         "ru": "комплексное меню/предложение о питании"
-      }
+      },
+      "l2": "formule"
     },
     {
       "id": "remote-restaurant-a2-15",
@@ -210,7 +224,8 @@
         "en": "specialty / house specialty",
         "es": "especialidad / especialidad de la casa",
         "ru": "специальность / домашняя специальность"
-      }
+      },
+      "l2": "spécialité"
     },
     {
       "id": "remote-restaurant-a2-16",
@@ -223,7 +238,8 @@
         "en": "allergy",
         "es": "alergia",
         "ru": "аллергия"
-      }
+      },
+      "l2": "allergie"
     },
     {
       "id": "remote-restaurant-a2-17",
@@ -236,7 +252,8 @@
         "en": "vegetarian (male)",
         "es": "vegetariano (masculino)",
         "ru": "вегетарианец (мужчина)"
-      }
+      },
+      "l2": "végétarien"
     },
     {
       "id": "remote-restaurant-a2-18",
@@ -249,7 +266,8 @@
         "en": "wine",
         "es": "vino",
         "ru": "вино"
-      }
+      },
+      "l2": "vin"
     },
     {
       "id": "remote-restaurant-a2-19",
@@ -262,7 +280,8 @@
         "en": "outdoor terrace",
         "es": "terraza al aire libre",
         "ru": "открытая терраса"
-      }
+      },
+      "l2": "terrasse"
     },
     {
       "id": "remote-restaurant-a2-20",
@@ -275,7 +294,8 @@
         "en": "kitchen / cuisine",
         "es": "cocina / cocina",
         "ru": "кухня / кухня"
-      }
+      },
+      "l2": "cuisine"
     }
   ],
   "phrases": [
@@ -288,7 +308,8 @@
         "en": "I’d like to book a table for tonight.",
         "es": "Me gustaría reservar una mesa para esta noche.",
         "ru": "Я хотел бы забронировать столик на сегодняшний вечер."
-      }
+      },
+      "l2": "Je voudrais réserver une table pour ce soir."
     },
     {
       "id": "remote-restaurant-phrase-2",
@@ -299,7 +320,8 @@
         "en": "What main course do you recommend?",
         "es": "¿Qué plato principal me recomiendas?",
         "ru": "Какое основное блюдо вы порекомендуете?"
-      }
+      },
+      "l2": "Qu’est-ce que vous recommandez comme plat ?"
     },
     {
       "id": "remote-restaurant-phrase-3",
@@ -310,7 +332,8 @@
         "en": "I am allergic to peanuts.",
         "es": "Soy alérgico a los cacahuetes.",
         "ru": "У меня аллергия на арахис."
-      }
+      },
+      "l2": "Je suis allergique aux arachides."
     },
     {
       "id": "remote-restaurant-phrase-4",
@@ -321,7 +344,8 @@
         "en": "The bill, please.",
         "es": "La cuenta, por favor.",
         "ru": "Счет, пожалуйста."
-      }
+      },
+      "l2": "L’addition, s’il vous plaît."
     },
     {
       "id": "remote-restaurant-phrase-5",
@@ -332,7 +356,8 @@
         "en": "Is service included?",
         "es": "¿Está incluido el servicio?",
         "ru": "Включено ли обслуживание?"
-      }
+      },
+      "l2": "Est-ce que le service est compris ?"
     },
     {
       "id": "remote-restaurant-phrase-6",
@@ -343,7 +368,8 @@
         "en": "It was delicious, thank you very much.",
         "es": "Quedó delicioso, muchas gracias.",
         "ru": "Было очень вкусно, спасибо большое."
-      }
+      },
+      "l2": "C’était délicieux, merci beaucoup."
     }
   ],
   "listen": [
@@ -368,7 +394,8 @@
         "en": "reservation",
         "es": "reserva",
         "ru": "бронирование"
-      }
+      },
+      "l2": "Je voudrais réserver une table pour deux personnes ce soir."
     },
     {
       "id": "remote-restaurant-listen-2",
@@ -391,7 +418,8 @@
         "en": "starter",
         "es": "motor de arranque",
         "ru": "стартер"
-      }
+      },
+      "l2": "La serveuse apporte l’entrée et le plat principal."
     },
     {
       "id": "remote-restaurant-listen-3",
@@ -414,7 +442,8 @@
         "en": "specialty",
         "es": "especialidad",
         "ru": "специальность"
-      }
+      },
+      "l2": "La spécialité de la maison est le boeuf bourguignon."
     },
     {
       "id": "remote-restaurant-listen-4",
@@ -437,7 +466,8 @@
         "en": "allergic",
         "es": "alérgico",
         "ru": "аллергический"
-      }
+      },
+      "l2": "Je suis allergique aux fruits de mer."
     }
   ],
   "prompts": [
@@ -607,7 +637,8 @@
           "en": "I’d like to book a table for tonight.",
           "es": "Me gustaría reservar una mesa para esta noche.",
           "ru": "Я хотел бы забронировать столик на сегодняшний вечер."
-        }
+        },
+        "l2": "Je voudrais réserver une table pour ce soir."
       },
       {
         "id": "remote-restaurant-dict-2",
@@ -618,7 +649,8 @@
           "en": "The bill, please.",
           "es": "La cuenta, por favor.",
           "ru": "Счет, пожалуйста."
-        }
+        },
+        "l2": "L’addition, s’il vous plaît."
       },
       {
         "id": "remote-restaurant-dict-3",
@@ -629,7 +661,8 @@
           "en": "It was delicious, thank you very much.",
           "es": "Quedó delicioso, muchas gracias.",
           "ru": "Было очень вкусно, спасибо большое."
-        }
+        },
+        "l2": "C’était délicieux, merci beaucoup."
       }
     ],
     "meaning": [
@@ -641,7 +674,8 @@
           "en": "Is service included?",
           "es": "¿Está incluido el servicio?",
           "ru": "Включено ли обслуживание?"
-        }
+        },
+        "l2": "Est-ce que le service est compris ?"
       },
       {
         "id": "remote-restaurant-mean-2",
@@ -651,7 +685,8 @@
           "en": "I am allergic to peanuts.",
           "es": "Soy alérgico a los cacahuetes.",
           "ru": "У меня аллергия на арахис."
-        }
+        },
+        "l2": "Je suis allergique aux arachides."
       },
       {
         "id": "remote-restaurant-mean-3",
@@ -661,7 +696,8 @@
           "en": "What main course do you recommend?",
           "es": "¿Qué plato principal me recomiendas?",
           "ru": "Какое основное блюдо вы порекомендуете?"
-        }
+        },
+        "l2": "Qu’est-ce que vous recommandez comme plat ?"
       }
     ],
     "fren": [
@@ -673,7 +709,8 @@
           "en": "menu",
           "es": "menú",
           "ru": "меню"
-        }
+        },
+        "l2": "menu"
       },
       {
         "id": "remote-restaurant-fren-2",
@@ -683,7 +720,8 @@
           "en": "starter",
           "es": "motor de arranque",
           "ru": "стартер"
-        }
+        },
+        "l2": "entrée"
       },
       {
         "id": "remote-restaurant-fren-3",
@@ -693,7 +731,8 @@
           "en": "bill",
           "es": "factura",
           "ru": "счет"
-        }
+        },
+        "l2": "addition"
       },
       {
         "id": "remote-restaurant-fren-4",
@@ -703,7 +742,8 @@
           "en": "reservation",
           "es": "reserva",
           "ru": "бронирование"
-        }
+        },
+        "l2": "réservation"
       },
       {
         "id": "remote-restaurant-fren-5",
@@ -713,7 +753,8 @@
           "en": "specialty",
           "es": "especialidad",
           "ru": "специальность"
-        }
+        },
+        "l2": "spécialité"
       },
       {
         "id": "remote-restaurant-fren-6",
@@ -723,7 +764,8 @@
           "en": "waiter",
           "es": "mesero",
           "ru": "официант"
-        }
+        },
+        "l2": "serveur"
       }
     ],
     "aloud": [
@@ -736,7 +778,8 @@
           "en": "I’d like to book a table for tonight.",
           "es": "Me gustaría reservar una mesa para esta noche.",
           "ru": "Я хотел бы забронировать столик на сегодняшний вечер."
-        }
+        },
+        "l2": "Je voudrais réserver une table pour ce soir."
       },
       {
         "id": "remote-restaurant-aloud-2",
@@ -747,7 +790,8 @@
           "en": "May I see the menu, please?",
           "es": "¿Puedo ver el menú, por favor?",
           "ru": "Могу я посмотреть меню, пожалуйста?"
-        }
+        },
+        "l2": "Puis-je voir le menu, s’il vous plaît ?"
       },
       {
         "id": "remote-restaurant-aloud-3",
@@ -758,7 +802,8 @@
           "en": "The house specialty is excellent.",
           "es": "La especialidad de la casa es excelente.",
           "ru": "Фирменное блюдо отличное."
-        }
+        },
+        "l2": "La spécialité de la maison est excellente."
       }
     ],
     "unscramble": [
@@ -776,7 +821,8 @@
           "en": "The bill, please.",
           "es": "La cuenta, por favor.",
           "ru": "Счет, пожалуйста."
-        }
+        },
+        "l2": "L’addition, s’il vous plaît."
       },
       {
         "id": "remote-restaurant-unsc-2",
@@ -794,7 +840,8 @@
           "en": "I’ll have the set menu of the day.",
           "es": "Tendré el menú fijo del día.",
           "ru": "У меня будет комплексное меню на день."
-        }
+        },
+        "l2": "Je prends la formule du jour."
       }
     ],
     "signs": [
@@ -807,7 +854,8 @@
           "en": "reserved",
           "es": "reservado",
           "ru": "сдержанный"
-        }
+        },
+        "l2": "réservé"
       },
       {
         "id": "remote-restaurant-sign-2",
@@ -818,7 +866,8 @@
           "en": "closed",
           "es": "cerrado",
           "ru": "закрыто"
-        }
+        },
+        "l2": "fermé"
       }
     ]
   }

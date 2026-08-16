@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "weather-a1",
-  "version": 3,
+  "version": 4,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -28,7 +28,8 @@
         "en": "sun",
         "es": "sol",
         "ru": "солнце"
-      }
+      },
+      "l2": "soleil"
     },
     {
       "id": "remote-weather-a1-2",
@@ -41,7 +42,8 @@
         "en": "rain",
         "es": "lluvia",
         "ru": "дождь"
-      }
+      },
+      "l2": "pluie"
     },
     {
       "id": "remote-weather-a1-3",
@@ -54,7 +56,8 @@
         "en": "cloud",
         "es": "nube",
         "ru": "облако"
-      }
+      },
+      "l2": "nuage"
     },
     {
       "id": "remote-weather-a1-4",
@@ -67,7 +70,8 @@
         "en": "wind",
         "es": "viento",
         "ru": "ветер"
-      }
+      },
+      "l2": "vent"
     },
     {
       "id": "remote-weather-a1-5",
@@ -80,7 +84,8 @@
         "en": "snow",
         "es": "nieve",
         "ru": "снег"
-      }
+      },
+      "l2": "neige"
     },
     {
       "id": "remote-weather-a1-6",
@@ -93,7 +98,8 @@
         "en": "hot / warm",
         "es": "caliente / tibio",
         "ru": "горячий/теплый"
-      }
+      },
+      "l2": "chaud"
     },
     {
       "id": "remote-weather-a1-7",
@@ -106,7 +112,8 @@
         "en": "cold",
         "es": "frío",
         "ru": "холодный"
-      }
+      },
+      "l2": "froid"
     },
     {
       "id": "remote-weather-a1-8",
@@ -119,7 +126,8 @@
         "en": "spring",
         "es": "primavera",
         "ru": "весна"
-      }
+      },
+      "l2": "printemps"
     },
     {
       "id": "remote-weather-a1-9",
@@ -132,7 +140,8 @@
         "en": "summer",
         "es": "verano",
         "ru": "лето"
-      }
+      },
+      "l2": "été"
     },
     {
       "id": "remote-weather-a1-10",
@@ -145,7 +154,8 @@
         "en": "autumn / fall",
         "es": "otoño / otoño",
         "ru": "осень / осень"
-      }
+      },
+      "l2": "automne"
     },
     {
       "id": "remote-weather-a1-11",
@@ -158,7 +168,8 @@
         "en": "winter",
         "es": "invierno",
         "ru": "зима"
-      }
+      },
+      "l2": "hiver"
     },
     {
       "id": "remote-weather-a1-12",
@@ -171,7 +182,8 @@
         "en": "sky",
         "es": "cielo",
         "ru": "небо"
-      }
+      },
+      "l2": "ciel"
     },
     {
       "id": "remote-weather-a1-13",
@@ -184,7 +196,8 @@
         "en": "storm",
         "es": "tormenta",
         "ru": "шторм"
-      }
+      },
+      "l2": "tempête"
     },
     {
       "id": "remote-weather-a1-14",
@@ -197,7 +210,8 @@
         "en": "umbrella",
         "es": "paraguas",
         "ru": "зонтик"
-      }
+      },
+      "l2": "parapluie"
     },
     {
       "id": "remote-weather-a1-15",
@@ -210,7 +224,8 @@
         "en": "temperature",
         "es": "temperatura",
         "ru": "температура"
-      }
+      },
+      "l2": "température"
     },
     {
       "id": "remote-weather-a1-16",
@@ -223,7 +238,8 @@
         "en": "thunderstorm",
         "es": "tormenta",
         "ru": "гроза"
-      }
+      },
+      "l2": "orage"
     },
     {
       "id": "remote-weather-a1-17",
@@ -236,7 +252,8 @@
         "en": "fog",
         "es": "niebla",
         "ru": "туман"
-      }
+      },
+      "l2": "brouillard"
     },
     {
       "id": "remote-weather-a1-18",
@@ -249,7 +266,8 @@
         "en": "lightning",
         "es": "iluminación",
         "ru": "молния"
-      }
+      },
+      "l2": "éclair"
     },
     {
       "id": "remote-weather-a1-19",
@@ -262,7 +280,8 @@
         "en": "coat",
         "es": "abrigo",
         "ru": "пальто"
-      }
+      },
+      "l2": "manteau"
     },
     {
       "id": "remote-weather-a1-20",
@@ -275,7 +294,8 @@
         "en": "weather forecast",
         "es": "pronóstico del tiempo",
         "ru": "прогноз погоды"
-      }
+      },
+      "l2": "météo"
     }
   ],
   "phrases": [
@@ -288,7 +308,8 @@
         "en": "What’s the weather like today?",
         "es": "¿Cómo está el clima hoy?",
         "ru": "Какая сегодня погода?"
-      }
+      },
+      "l2": "Quel temps fait-il aujourd’hui ?"
     },
     {
       "id": "remote-weather-phrase-2",
@@ -299,7 +320,8 @@
         "en": "The weather is nice today.",
         "es": "Hace buen tiempo hoy.",
         "ru": "Погода сегодня хорошая."
-      }
+      },
+      "l2": "Il fait beau aujourd’hui."
     },
     {
       "id": "remote-weather-phrase-3",
@@ -310,7 +332,8 @@
         "en": "It’s raining, take an umbrella.",
         "es": "Está lloviendo, coge un paraguas.",
         "ru": "Идет дождь, возьми зонтик."
-      }
+      },
+      "l2": "Il pleut, prends un parapluie."
     },
     {
       "id": "remote-weather-phrase-4",
@@ -321,7 +344,8 @@
         "en": "It’s very cold this morning.",
         "es": "Hace mucho frío esta mañana.",
         "ru": "Сегодня утром очень холодно."
-      }
+      },
+      "l2": "Il fait très froid ce matin."
     },
     {
       "id": "remote-weather-phrase-5",
@@ -332,7 +356,8 @@
         "en": "The sky is overcast.",
         "es": "El cielo está nublado.",
         "ru": "Небо пасмурно."
-      }
+      },
+      "l2": "Le ciel est couvert."
     },
     {
       "id": "remote-weather-phrase-6",
@@ -343,7 +368,8 @@
         "en": "Tomorrow it will be warmer.",
         "es": "Mañana hará más calor.",
         "ru": "Завтра будет теплее."
-      }
+      },
+      "l2": "Demain, il fera plus chaud."
     }
   ],
   "listen": [
@@ -368,7 +394,8 @@
         "en": "sun",
         "es": "sol",
         "ru": "солнце"
-      }
+      },
+      "l2": "Il y a du soleil et le ciel est bleu."
     },
     {
       "id": "remote-weather-listen-2",
@@ -391,7 +418,8 @@
         "en": "umbrella",
         "es": "paraguas",
         "ru": "зонтик"
-      }
+      },
+      "l2": "Prends ton parapluie, la pluie va commencer."
     },
     {
       "id": "remote-weather-listen-3",
@@ -414,7 +442,8 @@
         "en": "snow",
         "es": "nieve",
         "ru": "снег"
-      }
+      },
+      "l2": "En hiver, il neige souvent dans les montagnes."
     },
     {
       "id": "remote-weather-listen-4",
@@ -437,7 +466,8 @@
         "en": "temperature",
         "es": "temperatura",
         "ru": "температура"
-      }
+      },
+      "l2": "La température est de vingt-cinq degrés aujourd’hui."
     }
   ],
   "prompts": [
@@ -607,7 +637,8 @@
           "en": "The weather is nice today.",
           "es": "Hace buen tiempo hoy.",
           "ru": "Погода сегодня хорошая."
-        }
+        },
+        "l2": "Il fait beau aujourd’hui."
       },
       {
         "id": "remote-weather-dict-2",
@@ -618,7 +649,8 @@
           "en": "It’s raining, take an umbrella.",
           "es": "Está lloviendo, coge un paraguas.",
           "ru": "Идет дождь, возьми зонтик."
-        }
+        },
+        "l2": "Il pleut, prends un parapluie."
       },
       {
         "id": "remote-weather-dict-3",
@@ -629,7 +661,8 @@
           "en": "In winter, I wear a coat.",
           "es": "En invierno llevo abrigo.",
           "ru": "Зимой я ношу пальто."
-        }
+        },
+        "l2": "En hiver, je porte un manteau."
       }
     ],
     "meaning": [
@@ -641,7 +674,8 @@
           "en": "What’s the weather like today?",
           "es": "¿Cómo está el clima hoy?",
           "ru": "Какая сегодня погода?"
-        }
+        },
+        "l2": "Quel temps fait-il aujourd’hui ?"
       },
       {
         "id": "remote-weather-mean-2",
@@ -651,7 +685,8 @@
           "en": "The sky is overcast.",
           "es": "El cielo está nublado.",
           "ru": "Небо пасмурно."
-        }
+        },
+        "l2": "Le ciel est couvert."
       },
       {
         "id": "remote-weather-mean-3",
@@ -661,7 +696,8 @@
           "en": "Tomorrow it will be warmer.",
           "es": "Mañana hará más calor.",
           "ru": "Завтра будет теплее."
-        }
+        },
+        "l2": "Demain, il fera plus chaud."
       }
     ],
     "fren": [
@@ -673,7 +709,8 @@
           "en": "sun",
           "es": "sol",
           "ru": "солнце"
-        }
+        },
+        "l2": "soleil"
       },
       {
         "id": "remote-weather-fren-2",
@@ -683,7 +720,8 @@
           "en": "rain",
           "es": "lluvia",
           "ru": "дождь"
-        }
+        },
+        "l2": "pluie"
       },
       {
         "id": "remote-weather-fren-3",
@@ -693,7 +731,8 @@
           "en": "snow",
           "es": "nieve",
           "ru": "снег"
-        }
+        },
+        "l2": "neige"
       },
       {
         "id": "remote-weather-fren-4",
@@ -703,7 +742,8 @@
           "en": "hot",
           "es": "caliente",
           "ru": "горячий"
-        }
+        },
+        "l2": "chaud"
       },
       {
         "id": "remote-weather-fren-5",
@@ -713,7 +753,8 @@
           "en": "cold",
           "es": "frío",
           "ru": "холодный"
-        }
+        },
+        "l2": "froid"
       },
       {
         "id": "remote-weather-fren-6",
@@ -723,7 +764,8 @@
           "en": "umbrella",
           "es": "paraguas",
           "ru": "зонтик"
-        }
+        },
+        "l2": "parapluie"
       }
     ],
     "aloud": [
@@ -736,7 +778,8 @@
           "en": "What’s the weather like today?",
           "es": "¿Cómo está el clima hoy?",
           "ru": "Какая сегодня погода?"
-        }
+        },
+        "l2": "Quel temps fait-il aujourd’hui ?"
       },
       {
         "id": "remote-weather-aloud-2",
@@ -747,7 +790,8 @@
           "en": "It’s very cold this morning.",
           "es": "Hace mucho frío esta mañana.",
           "ru": "Сегодня утром очень холодно."
-        }
+        },
+        "l2": "Il fait très froid ce matin."
       },
       {
         "id": "remote-weather-aloud-3",
@@ -758,7 +802,8 @@
           "en": "The leaves fall in autumn.",
           "es": "Las hojas caen en otoño.",
           "ru": "Листья опадают осенью."
-        }
+        },
+        "l2": "Les feuilles tombent en automne."
       }
     ],
     "unscramble": [
@@ -778,7 +823,8 @@
           "en": "There is sun today.",
           "es": "Hoy hay sol.",
           "ru": "Сегодня солнце."
-        }
+        },
+        "l2": "Il y a du soleil aujourd’hui."
       },
       {
         "id": "remote-weather-unsc-2",
@@ -796,7 +842,8 @@
           "en": "Put on your coat, it’s cold.",
           "es": "Ponte el abrigo, hace frío.",
           "ru": "Надень пальто, холодно."
-        }
+        },
+        "l2": "Mets ton manteau, il fait froid."
       }
     ]
   }

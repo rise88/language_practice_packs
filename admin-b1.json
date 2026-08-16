@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "admin-b1",
-  "version": 3,
+  "version": 4,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -28,7 +28,8 @@
         "en": "administrative step",
         "es": "paso administrativo",
         "ru": "административный шаг"
-      }
+      },
+      "l2": "démarche"
     },
     {
       "id": "remote-admin-b1-2",
@@ -41,7 +42,8 @@
         "en": "form",
         "es": "forma",
         "ru": "форма"
-      }
+      },
+      "l2": "formulaire"
     },
     {
       "id": "remote-admin-b1-3",
@@ -54,7 +56,8 @@
         "en": "file / application",
         "es": "archivo/aplicación",
         "ru": "файл/приложение"
-      }
+      },
+      "l2": "dossier"
     },
     {
       "id": "remote-admin-b1-4",
@@ -67,7 +70,8 @@
         "en": "ID document",
         "es": "documento de identidad",
         "ru": "документ, удостоверяющий личность"
-      }
+      },
+      "l2": "pièce d’identité"
     },
     {
       "id": "remote-admin-b1-5",
@@ -80,7 +84,8 @@
         "en": "passport",
         "es": "pasaporte",
         "ru": "паспорт"
-      }
+      },
+      "l2": "passeport"
     },
     {
       "id": "remote-admin-b1-6",
@@ -93,7 +98,8 @@
         "en": "supporting document",
         "es": "documento de respaldo",
         "ru": "подтверждающий документ"
-      }
+      },
+      "l2": "justificatif"
     },
     {
       "id": "remote-admin-b1-7",
@@ -106,7 +112,8 @@
         "en": "place of residence",
         "es": "domicilio",
         "ru": "место жительства"
-      }
+      },
+      "l2": "domicile"
     },
     {
       "id": "remote-admin-b1-8",
@@ -119,7 +126,8 @@
         "en": "appointment",
         "es": "cita",
         "ru": "встреча"
-      }
+      },
+      "l2": "rendez-vous"
     },
     {
       "id": "remote-admin-b1-9",
@@ -132,7 +140,8 @@
         "en": "counter / desk",
         "es": "mostrador / escritorio",
         "ru": "стойка/стол"
-      }
+      },
+      "l2": "guichet"
     },
     {
       "id": "remote-admin-b1-10",
@@ -145,7 +154,8 @@
         "en": "certificate / statement",
         "es": "certificado / declaración",
         "ru": "сертификат/заявление"
-      }
+      },
+      "l2": "attestation"
     },
     {
       "id": "remote-admin-b1-11",
@@ -158,7 +168,8 @@
         "en": "stamp (official)",
         "es": "sello (oficial)",
         "ru": "печать (официальная)"
-      }
+      },
+      "l2": "tampon"
     },
     {
       "id": "remote-admin-b1-12",
@@ -171,7 +182,8 @@
         "en": "deadline / waiting time",
         "es": "fecha límite / tiempo de espera",
         "ru": "срок/время ожидания"
-      }
+      },
+      "l2": "délai"
     },
     {
       "id": "remote-admin-b1-13",
@@ -184,7 +196,8 @@
         "en": "renewal",
         "es": "renovación",
         "ru": "обновление"
-      }
+      },
+      "l2": "renouvellement"
     },
     {
       "id": "remote-admin-b1-14",
@@ -197,7 +210,8 @@
         "en": "summons / official notice",
         "es": "citación / aviso oficial",
         "ru": "вызов/официальное уведомление"
-      }
+      },
+      "l2": "convocation"
     },
     {
       "id": "remote-admin-b1-15",
@@ -210,7 +224,8 @@
         "en": "prefecture",
         "es": "prefectura",
         "ru": "префектура"
-      }
+      },
+      "l2": "préfecture"
     },
     {
       "id": "remote-admin-b1-16",
@@ -223,7 +238,8 @@
         "en": "social security",
         "es": "seguridad social",
         "ru": "социальное обеспечение"
-      }
+      },
+      "l2": "sécurité sociale"
     },
     {
       "id": "remote-admin-b1-17",
@@ -236,7 +252,8 @@
         "en": "number (ref.)",
         "es": "número (referencia)",
         "ru": "номер (ссылка)"
-      }
+      },
+      "l2": "numéro"
     },
     {
       "id": "remote-admin-b1-18",
@@ -249,7 +266,8 @@
         "en": "error / mistake",
         "es": "error / error",
         "ru": "ошибка / ошибка"
-      }
+      },
+      "l2": "erreur"
     },
     {
       "id": "remote-admin-b1-19",
@@ -262,7 +280,8 @@
         "en": "complaint / claim",
         "es": "queja/reclamo",
         "ru": "жалоба/претензия"
-      }
+      },
+      "l2": "réclamation"
     },
     {
       "id": "remote-admin-b1-20",
@@ -275,7 +294,8 @@
         "en": "opening hours",
         "es": "horario de apertura",
         "ru": "часы работы"
-      }
+      },
+      "l2": "horaire d’ouverture"
     }
   ],
   "phrases": [
@@ -288,7 +308,8 @@
         "en": "A proof of address is missing from the file.",
         "es": "Falta un comprobante de domicilio en el expediente.",
         "ru": "В файле отсутствует подтверждение адреса."
-      }
+      },
+      "l2": "Il manque un justificatif de domicile dans le dossier."
     },
     {
       "id": "remote-admin-phrase-2",
@@ -299,7 +320,8 @@
         "en": "I’d like to make an appointment, please.",
         "es": "Me gustaría concertar una cita, por favor.",
         "ru": "Я хотел бы записаться на прием, пожалуйста."
-      }
+      },
+      "l2": "Je voudrais prendre rendez-vous, s’il vous plaît."
     },
     {
       "id": "remote-admin-phrase-3",
@@ -310,7 +332,8 @@
         "en": "The processing time is six weeks.",
         "es": "El tiempo de procesamiento es de seis semanas.",
         "ru": "Срок рассмотрения составляет шесть недель."
-      }
+      },
+      "l2": "Le délai de traitement est de six semaines."
     },
     {
       "id": "remote-admin-phrase-4",
@@ -321,7 +344,8 @@
         "en": "There’s a mistake in my name.",
         "es": "Hay un error en mi nombre.",
         "ru": "В моем имени ошибка."
-      }
+      },
+      "l2": "Il y a une erreur sur mon nom."
     },
     {
       "id": "remote-admin-phrase-5",
@@ -332,7 +356,8 @@
         "en": "Can I send the documents by email?",
         "es": "¿Puedo enviar los documentos por correo electrónico?",
         "ru": "Могу ли я отправить документы по электронной почте?"
-      }
+      },
+      "l2": "Est-ce que je peux envoyer les pièces par e-mail ?"
     },
     {
       "id": "remote-admin-phrase-6",
@@ -343,7 +368,8 @@
         "en": "I received a notice, but I can’t come that day.",
         "es": "Recibí un aviso, pero no puedo venir ese día.",
         "ru": "Мне пришло извещение, но я не смогу прийти в этот день."
-      }
+      },
+      "l2": "J’ai reçu une convocation, mais je ne peux pas venir ce jour-là."
     }
   ],
   "listen": [
@@ -368,7 +394,8 @@
         "en": "supporting document",
         "es": "documento de respaldo",
         "ru": "подтверждающий документ"
-      }
+      },
+      "l2": "Il manque un justificatif de domicile."
     },
     {
       "id": "remote-admin-listen-2",
@@ -391,7 +418,8 @@
         "en": "waiting time",
         "es": "tiempo de espera",
         "ru": "время ожидания"
-      }
+      },
+      "l2": "Le délai de traitement est de six semaines."
     },
     {
       "id": "remote-admin-listen-3",
@@ -414,7 +442,8 @@
         "en": "appointment",
         "es": "cita",
         "ru": "встреча"
-      }
+      },
+      "l2": "Je voudrais prendre rendez-vous, s’il vous plaît."
     },
     {
       "id": "remote-admin-listen-4",
@@ -437,7 +466,8 @@
         "en": "mistake",
         "es": "error",
         "ru": "ошибка"
-      }
+      },
+      "l2": "Il y a une erreur sur mon nom."
     }
   ],
   "prompts": [
@@ -607,7 +637,8 @@
           "en": "A proof of address is missing from the file.",
           "es": "Falta un comprobante de domicilio en el expediente.",
           "ru": "В файле отсутствует подтверждение адреса."
-        }
+        },
+        "l2": "Il manque un justificatif de domicile dans le dossier."
       },
       {
         "id": "remote-admin-dict-2",
@@ -618,7 +649,8 @@
           "en": "I’d like to make an appointment, please.",
           "es": "Me gustaría concertar una cita, por favor.",
           "ru": "Я хотел бы записаться на прием, пожалуйста."
-        }
+        },
+        "l2": "Je voudrais prendre rendez-vous, s’il vous plaît."
       },
       {
         "id": "remote-admin-dict-3",
@@ -629,7 +661,8 @@
           "en": "The processing time is six weeks.",
           "es": "El tiempo de procesamiento es de seis semanas.",
           "ru": "Срок рассмотрения составляет шесть недель."
-        }
+        },
+        "l2": "Le délai de traitement est de six semaines."
       }
     ],
     "meaning": [
@@ -641,7 +674,8 @@
           "en": "A proof of address is missing from the file.",
           "es": "Falta un comprobante de domicilio en el expediente.",
           "ru": "В файле отсутствует подтверждение адреса."
-        }
+        },
+        "l2": "Il manque un justificatif de domicile dans le dossier."
       },
       {
         "id": "remote-admin-mean-2",
@@ -651,7 +685,8 @@
           "en": "I’d like to make an appointment, please.",
           "es": "Me gustaría concertar una cita, por favor.",
           "ru": "Я хотел бы записаться на прием, пожалуйста."
-        }
+        },
+        "l2": "Je voudrais prendre rendez-vous, s’il vous plaît."
       },
       {
         "id": "remote-admin-mean-3",
@@ -661,7 +696,8 @@
           "en": "The processing time is six weeks.",
           "es": "El tiempo de procesamiento es de seis semanas.",
           "ru": "Срок рассмотрения составляет шесть недель."
-        }
+        },
+        "l2": "Le délai de traitement est de six semaines."
       }
     ],
     "fren": [
@@ -673,7 +709,8 @@
           "en": "administrative step",
           "es": "paso administrativo",
           "ru": "административный шаг"
-        }
+        },
+        "l2": "démarche"
       },
       {
         "id": "remote-admin-fren-2",
@@ -683,7 +720,8 @@
           "en": "form",
           "es": "forma",
           "ru": "форма"
-        }
+        },
+        "l2": "formulaire"
       },
       {
         "id": "remote-admin-fren-3",
@@ -693,7 +731,8 @@
           "en": "file",
           "es": "archivo",
           "ru": "файл"
-        }
+        },
+        "l2": "dossier"
       },
       {
         "id": "remote-admin-fren-4",
@@ -703,7 +742,8 @@
           "en": "ID document",
           "es": "documento de identidad",
           "ru": "документ, удостоверяющий личность"
-        }
+        },
+        "l2": "pièce d’identité"
       },
       {
         "id": "remote-admin-fren-5",
@@ -713,7 +753,8 @@
           "en": "passport",
           "es": "pasaporte",
           "ru": "паспорт"
-        }
+        },
+        "l2": "passeport"
       },
       {
         "id": "remote-admin-fren-6",
@@ -723,7 +764,8 @@
           "en": "supporting document",
           "es": "documento de respaldo",
           "ru": "подтверждающий документ"
-        }
+        },
+        "l2": "justificatif"
       }
     ],
     "aloud": [
@@ -736,7 +778,8 @@
           "en": "A proof of address is missing from the file.",
           "es": "Falta un comprobante de domicilio en el expediente.",
           "ru": "В файле отсутствует подтверждение адреса."
-        }
+        },
+        "l2": "Il manque un justificatif de domicile dans le dossier."
       },
       {
         "id": "remote-admin-aloud-2",
@@ -747,7 +790,8 @@
           "en": "The processing time is six weeks.",
           "es": "El tiempo de procesamiento es de seis semanas.",
           "ru": "Срок рассмотрения составляет шесть недель."
-        }
+        },
+        "l2": "Le délai de traitement est de six semaines."
       },
       {
         "id": "remote-admin-aloud-3",
@@ -758,7 +802,8 @@
           "en": "Can I send the documents by email?",
           "es": "¿Puedo enviar los documentos por correo electrónico?",
           "ru": "Могу ли я отправить документы по электронной почте?"
-        }
+        },
+        "l2": "Est-ce que je peux envoyer les pièces par e-mail ?"
       }
     ],
     "unscramble": [
@@ -780,7 +825,8 @@
           "en": "There’s a mistake in my name.",
           "es": "Hay un error en mi nombre.",
           "ru": "В моем имени ошибка."
-        }
+        },
+        "l2": "Il y a une erreur sur mon nom."
       },
       {
         "id": "remote-admin-unsc-2",
@@ -802,7 +848,8 @@
           "en": "Can I send the documents by email?",
           "es": "¿Puedo enviar los documentos por correo electrónico?",
           "ru": "Могу ли я отправить документы по электронной почте?"
-        }
+        },
+        "l2": "Est-ce que je peux envoyer les pièces par e-mail ?"
       }
     ],
     "signs": [
@@ -815,7 +862,8 @@
           "en": "counter",
           "es": "encimera",
           "ru": "прилавок"
-        }
+        },
+        "l2": "guichet"
       },
       {
         "id": "remote-admin-sign-2",
@@ -826,7 +874,8 @@
           "en": "reception",
           "es": "recepción",
           "ru": "прием"
-        }
+        },
+        "l2": "accueil"
       }
     ]
   }

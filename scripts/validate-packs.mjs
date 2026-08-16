@@ -21,6 +21,12 @@ function loadJson(file) {
 }
 
 const catalog = loadJson(path.join(root, "catalog.json"));
+if (!Array.isArray(catalog.languages) || !catalog.languages.length) {
+  errors.push(`catalog.json: missing top-level languages array (e.g. ["fr","es","ru"])`);
+}
+if (!Array.isArray(catalog.locales) || !catalog.locales.length) {
+  warnings.push(`catalog.json: missing top-level locales array (gloss UI languages)`);
+}
 const catalogById = new Map();
 for (const entry of catalog.packs || []) {
   if (!entry.id) errors.push(`catalog entry missing id`);
@@ -67,6 +73,9 @@ for (const file of packFiles) {
     if (pack.lang && pack.lang !== "fr" && !hasL2 && hasFr) {
       warnings.push(`${file}: seed[${i}] non-French pack should use l2 (has fr only)`);
     }
+    if (pack.lang === "fr" && hasFr && !hasL2) {
+      warnings.push(`${file}: seed[${i}] French pack should dual-write l2 (has fr only)`);
+    }
   });
 
   const entry = catalogById.get(pack.id);
@@ -102,5 +111,5 @@ if (errors.length) {
 }
 
 console.log(
-  `OK: ${packFiles.length} packs, ${catalog.packs.length} catalog entries; all have lang; all seed items have l2 or fr.`
+  `OK: ${packFiles.length} packs, ${catalog.packs.length} catalog entries; languages=${(catalog.languages || []).join(",")}; all have lang; all seed items have l2 or fr.`
 );

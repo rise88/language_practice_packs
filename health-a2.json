@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "health-a2",
-  "version": 4,
+  "version": 5,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -28,7 +28,8 @@
         "en": "doctor",
         "es": "doctor",
         "ru": "врач"
-      }
+      },
+      "l2": "médecin"
     },
     {
       "id": "remote-health-a2-2",
@@ -41,7 +42,8 @@
         "en": "pharmacy",
         "es": "farmacia",
         "ru": "аптека"
-      }
+      },
+      "l2": "pharmacie"
     },
     {
       "id": "remote-health-a2-3",
@@ -54,7 +56,8 @@
         "en": "prescription",
         "es": "prescripción",
         "ru": "рецепт"
-      }
+      },
+      "l2": "ordonnance"
     },
     {
       "id": "remote-health-a2-4",
@@ -67,7 +70,8 @@
         "en": "medicine / medication",
         "es": "medicina / medicación",
         "ru": "лекарство / лекарство"
-      }
+      },
+      "l2": "médicament"
     },
     {
       "id": "remote-health-a2-5",
@@ -80,7 +84,8 @@
         "en": "pain",
         "es": "dolor",
         "ru": "боль"
-      }
+      },
+      "l2": "douleur"
     },
     {
       "id": "remote-health-a2-6",
@@ -93,7 +98,8 @@
         "en": "fever",
         "es": "fiebre",
         "ru": "высокая температура"
-      }
+      },
+      "l2": "fièvre"
     },
     {
       "id": "remote-health-a2-7",
@@ -106,7 +112,8 @@
         "en": "cold (illness)",
         "es": "resfriado (enfermedad)",
         "ru": "простуда (болезнь)"
-      }
+      },
+      "l2": "rhume"
     },
     {
       "id": "remote-health-a2-8",
@@ -119,7 +126,8 @@
         "en": "cough",
         "es": "tos",
         "ru": "кашель"
-      }
+      },
+      "l2": "toux"
     },
     {
       "id": "remote-health-a2-9",
@@ -132,7 +140,8 @@
         "en": "headache",
         "es": "dolor de cabeza",
         "ru": "головная боль"
-      }
+      },
+      "l2": "mal de tête"
     },
     {
       "id": "remote-health-a2-10",
@@ -145,7 +154,8 @@
         "en": "sore throat",
         "es": "dolor de garganta",
         "ru": "больное горло"
-      }
+      },
+      "l2": "mal de gorge"
     },
     {
       "id": "remote-health-a2-11",
@@ -158,7 +168,8 @@
         "en": "hospital",
         "es": "hospital",
         "ru": "больница"
-      }
+      },
+      "l2": "hôpital"
     },
     {
       "id": "remote-health-a2-12",
@@ -171,7 +182,8 @@
         "en": "emergency",
         "es": "emergencia",
         "ru": "чрезвычайная ситуация"
-      }
+      },
+      "l2": "urgence"
     },
     {
       "id": "remote-health-a2-13",
@@ -184,7 +196,8 @@
         "en": "appointment",
         "es": "cita",
         "ru": "встреча"
-      }
+      },
+      "l2": "rendez-vous"
     },
     {
       "id": "remote-health-a2-14",
@@ -197,7 +210,8 @@
         "en": "symptom",
         "es": "síntoma",
         "ru": "симптом"
-      }
+      },
+      "l2": "symptôme"
     },
     {
       "id": "remote-health-a2-15",
@@ -210,7 +224,8 @@
         "en": "allergy",
         "es": "alergia",
         "ru": "аллергия"
-      }
+      },
+      "l2": "allergie"
     },
     {
       "id": "remote-health-a2-16",
@@ -223,7 +238,8 @@
         "en": "insurance",
         "es": "seguro",
         "ru": "страхование"
-      }
+      },
+      "l2": "assurance"
     },
     {
       "id": "remote-health-a2-17",
@@ -236,7 +252,8 @@
         "en": "nurse (female)",
         "es": "enfermera (mujer)",
         "ru": "медсестра (женщина)"
-      }
+      },
+      "l2": "infirmière"
     },
     {
       "id": "remote-health-a2-18",
@@ -249,7 +266,8 @@
         "en": "injury / wound",
         "es": "lesión/herida",
         "ru": "травма/ранение"
-      }
+      },
+      "l2": "blessure"
     },
     {
       "id": "remote-health-a2-19",
@@ -262,7 +280,8 @@
         "en": "pill / tablet",
         "es": "pastilla/tableta",
         "ru": "таблетка/таблетка"
-      }
+      },
+      "l2": "pilule"
     },
     {
       "id": "remote-health-a2-20",
@@ -275,7 +294,8 @@
         "en": "temperature",
         "es": "temperatura",
         "ru": "температура"
-      }
+      },
+      "l2": "température"
     }
   ],
   "phrases": [
@@ -288,7 +308,8 @@
         "en": "I don’t feel well.",
         "es": "No me siento bien.",
         "ru": "Я плохо себя чувствую."
-      }
+      },
+      "l2": "Je ne me sens pas bien."
     },
     {
       "id": "remote-health-phrase-2",
@@ -299,7 +320,8 @@
         "en": "I’ve had a headache since this morning.",
         "es": "Tengo dolor de cabeza desde esta mañana.",
         "ru": "С утра у меня болит голова."
-      }
+      },
+      "l2": "J’ai mal à la tête depuis ce matin."
     },
     {
       "id": "remote-health-phrase-3",
@@ -310,7 +332,8 @@
         "en": "Where is the nearest pharmacy?",
         "es": "¿Dónde está la farmacia más cercana?",
         "ru": "Где находится ближайшая аптека?"
-      }
+      },
+      "l2": "Où est la pharmacie la plus proche ?"
     },
     {
       "id": "remote-health-phrase-4",
@@ -321,7 +344,8 @@
         "en": "Can I make an appointment for tomorrow?",
         "es": "¿Puedo concertar una cita para mañana?",
         "ru": "Могу ли я записаться на завтра?"
-      }
+      },
+      "l2": "Puis-je prendre rendez-vous pour demain ?"
     },
     {
       "id": "remote-health-phrase-5",
@@ -332,7 +356,8 @@
         "en": "Here is my prescription.",
         "es": "Aquí está mi receta.",
         "ru": "Вот мой рецепт."
-      }
+      },
+      "l2": "Voici mon ordonnance."
     },
     {
       "id": "remote-health-phrase-6",
@@ -343,7 +368,8 @@
         "en": "I have a peanut allergy.",
         "es": "Tengo alergia al maní.",
         "ru": "У меня аллергия на арахис."
-      }
+      },
+      "l2": "J’ai une allergie aux arachides."
     }
   ],
   "listen": [
@@ -368,7 +394,8 @@
         "en": "prescription",
         "es": "prescripción",
         "ru": "рецепт"
-      }
+      },
+      "l2": "Le médecin m’a donné une ordonnance pour ce médicament."
     },
     {
       "id": "remote-health-listen-2",
@@ -391,7 +418,8 @@
         "en": "fever",
         "es": "fiebre",
         "ru": "высокая температура"
-      }
+      },
+      "l2": "Elle a de la fièvre et une forte toux."
     },
     {
       "id": "remote-health-listen-3",
@@ -414,7 +442,8 @@
         "en": "throat",
         "es": "garganta",
         "ru": "горло"
-      }
+      },
+      "l2": "J’ai mal à la gorge depuis hier soir."
     },
     {
       "id": "remote-health-listen-4",
@@ -437,7 +466,8 @@
         "en": "appointment",
         "es": "cita",
         "ru": "встреча"
-      }
+      },
+      "l2": "Mon rendez-vous chez le médecin est à quinze heures."
     }
   ],
   "prompts": [
@@ -607,7 +637,8 @@
           "en": "I don’t feel well.",
           "es": "No me siento bien.",
           "ru": "Я плохо себя чувствую."
-        }
+        },
+        "l2": "Je ne me sens pas bien."
       },
       {
         "id": "remote-health-dict-2",
@@ -618,7 +649,8 @@
           "en": "I’ve had a headache since this morning.",
           "es": "Tengo dolor de cabeza desde esta mañana.",
           "ru": "С утра у меня болит голова."
-        }
+        },
+        "l2": "J’ai mal à la tête depuis ce matin."
       },
       {
         "id": "remote-health-dict-3",
@@ -629,7 +661,8 @@
           "en": "Here is my prescription.",
           "es": "Aquí está mi receta.",
           "ru": "Вот мой рецепт."
-        }
+        },
+        "l2": "Voici mon ordonnance."
       }
     ],
     "meaning": [
@@ -641,7 +674,8 @@
           "en": "Where is the nearest pharmacy?",
           "es": "¿Dónde está la farmacia más cercana?",
           "ru": "Где находится ближайшая аптека?"
-        }
+        },
+        "l2": "Où est la pharmacie la plus proche ?"
       },
       {
         "id": "remote-health-mean-2",
@@ -651,7 +685,8 @@
           "en": "I have a cold.",
           "es": "Tengo un resfrío.",
           "ru": "Я простудился."
-        }
+        },
+        "l2": "J’ai un rhume."
       },
       {
         "id": "remote-health-mean-3",
@@ -661,7 +696,8 @@
           "en": "Call emergency services if needed.",
           "es": "Llame a los servicios de emergencia si es necesario.",
           "ru": "При необходимости позвоните в службу экстренной помощи."
-        }
+        },
+        "l2": "Appelez les urgences si besoin."
       }
     ],
     "fren": [
@@ -673,7 +709,8 @@
           "en": "doctor",
           "es": "doctor",
           "ru": "врач"
-        }
+        },
+        "l2": "médecin"
       },
       {
         "id": "remote-health-fren-2",
@@ -683,7 +720,8 @@
           "en": "pharmacy",
           "es": "farmacia",
           "ru": "аптека"
-        }
+        },
+        "l2": "pharmacie"
       },
       {
         "id": "remote-health-fren-3",
@@ -693,7 +731,8 @@
           "en": "fever",
           "es": "fiebre",
           "ru": "высокая температура"
-        }
+        },
+        "l2": "fièvre"
       },
       {
         "id": "remote-health-fren-4",
@@ -703,7 +742,8 @@
           "en": "cough",
           "es": "tos",
           "ru": "кашель"
-        }
+        },
+        "l2": "toux"
       },
       {
         "id": "remote-health-fren-5",
@@ -713,7 +753,8 @@
           "en": "hospital",
           "es": "hospital",
           "ru": "больница"
-        }
+        },
+        "l2": "hôpital"
       },
       {
         "id": "remote-health-fren-6",
@@ -723,7 +764,8 @@
           "en": "allergy",
           "es": "alergia",
           "ru": "аллергия"
-        }
+        },
+        "l2": "allergie"
       }
     ],
     "aloud": [
@@ -736,7 +778,8 @@
           "en": "I don’t feel well.",
           "es": "No me siento bien.",
           "ru": "Я плохо себя чувствую."
-        }
+        },
+        "l2": "Je ne me sens pas bien."
       },
       {
         "id": "remote-health-aloud-2",
@@ -747,7 +790,8 @@
           "en": "Can I make an appointment for tomorrow?",
           "es": "¿Puedo concertar una cita para mañana?",
           "ru": "Могу ли я записаться на завтра?"
-        }
+        },
+        "l2": "Puis-je prendre rendez-vous pour demain ?"
       },
       {
         "id": "remote-health-aloud-3",
@@ -758,7 +802,8 @@
           "en": "I have a peanut allergy.",
           "es": "Tengo alergia al maní.",
           "ru": "У меня аллергия на арахис."
-        }
+        },
+        "l2": "J’ai une allergie aux arachides."
       }
     ],
     "unscramble": [
@@ -775,7 +820,8 @@
           "en": "I have a cold.",
           "es": "Tengo un resfrío.",
           "ru": "Я простудился."
-        }
+        },
+        "l2": "J’ai un rhume."
       },
       {
         "id": "remote-health-unsc-2",
@@ -792,7 +838,8 @@
           "en": "The injury is not serious.",
           "es": "La lesión no es grave.",
           "ru": "Травма несерьезная."
-        }
+        },
+        "l2": "La blessure n’est pas grave."
       }
     ],
     "signs": [
@@ -805,7 +852,8 @@
           "en": "pharmacy",
           "es": "farmacia",
           "ru": "аптека"
-        }
+        },
+        "l2": "pharmacie"
       },
       {
         "id": "remote-health-sign-2",
@@ -816,7 +864,8 @@
           "en": "emergency",
           "es": "emergencia",
           "ru": "чрезвычайная ситуация"
-        }
+        },
+        "l2": "urgences"
       }
     ]
   }
