@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "family-a1",
-  "version": 5,
+  "version": 6,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "mon",
             "ma",
             "mes"
-          ]
+          ],
+          "gloss": {
+            "en": "Here is ___ brother.",
+            "es": "Aquí está ___ hermano.",
+            "ru": "Вот ___ брат."
+          },
+          "why": {
+            "fr": "Frère est masculin singulier : « mon ».",
+            "en": "Brother is masculine singular: mon.",
+            "es": "Hermano es masculino singular: mon.",
+            "ru": "Брат — м.р. ед.ч.: mon."
+          }
         },
         {
           "id": "remote-family-gq-2",
@@ -537,7 +548,18 @@
             "Mon",
             "Ma",
             "Mes"
-          ]
+          ],
+          "gloss": {
+            "en": "___ sister is ten.",
+            "es": "___ hermana tiene diez años.",
+            "ru": "___ сестре десять лет."
+          },
+          "why": {
+            "fr": "Sœur est féminin singulier : « Ma ».",
+            "en": "Sister is feminine singular: Ma.",
+            "es": "Hermana es femenino singular: Ma.",
+            "ru": "Сестра — ж.р. ед.ч.: Ma."
+          }
         },
         {
           "id": "remote-family-gq-3",
@@ -547,13 +569,25 @@
             "Mon",
             "Ma",
             "Mes"
-          ]
+          ],
+          "gloss": {
+            "en": "___ parents live here.",
+            "es": "___ padres viven aquí.",
+            "ru": "___ родители живут здесь."
+          },
+          "why": {
+            "fr": "Parents est pluriel : « Mes ».",
+            "en": "Parents is plural: Mes.",
+            "es": "Padres es plural: Mes.",
+            "ru": "Родители — множественное: Mes."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: My (possessive adjectives).",
         "es": "Útil cuando necesitas aplicar: Mi (adjetivos posesivos).",
-        "ru": "Полезно, когда нужно применить: Мой (притяжательные прилагательные)."
+        "ru": "Полезно, когда нужно применить: Мой (притяжательные прилагательные).",
+        "fr": "Utile pour appliquer : Mon / ma / mes."
       }
     },
     {
@@ -606,7 +640,18 @@
             "ai",
             "est",
             "suis"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ a brother.",
+            "es": "Yo ___ un hermano.",
+            "ru": "У меня ___ брат."
+          },
+          "why": {
+            "fr": "J’ai = je + ai (verbe avoir).",
+            "en": "J’ai = je + ai (avoir).",
+            "es": "J’ai = je + ai (avoir).",
+            "ru": "J’ai = je + ai (avoir)."
+          }
         },
         {
           "id": "remote-family-gq-5",
@@ -616,13 +661,25 @@
             "Il y a",
             "Voici",
             "Dans"
-          ]
+          ],
+          "gloss": {
+            "en": "___ my mother.",
+            "es": "___ mi madre.",
+            "ru": "___ моя мама."
+          },
+          "why": {
+            "fr": "Voici présente une personne.",
+            "en": "Voici introduces someone.",
+            "es": "Voici presenta a alguien.",
+            "ru": "Voici представляет человека."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Using avoir for family.",
         "es": "Útil cuando necesitas aplicar: Uso de avoir para la familia.",
-        "ru": "Полезно, когда вам нужно подать заявку: Использование avoir для семьи."
+        "ru": "Полезно, когда вам нужно подать заявку: Использование avoir для семьи.",
+        "fr": "Utile pour appliquer : Avoir pour la famille."
       }
     }
   ],
@@ -841,6 +898,997 @@
         },
         "l2": "Ma sœur a dix ans."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-family-fren-1",
+        "fr": "mère",
+        "en": "mother",
+        "gloss": {
+          "en": "mother",
+          "es": "madre",
+          "ru": "мать"
+        },
+        "l2": "mère"
+      },
+      {
+        "id": "remote-family-fren-2",
+        "fr": "père",
+        "en": "father",
+        "gloss": {
+          "en": "father",
+          "es": "padre",
+          "ru": "отец"
+        },
+        "l2": "père"
+      },
+      {
+        "id": "remote-family-fren-3",
+        "fr": "frère",
+        "en": "brother",
+        "gloss": {
+          "en": "brother",
+          "es": "hermano",
+          "ru": "брат"
+        },
+        "l2": "frère"
+      },
+      {
+        "id": "remote-family-fren-4",
+        "fr": "sœur",
+        "en": "sister",
+        "gloss": {
+          "en": "sister",
+          "es": "hermana",
+          "ru": "сестра"
+        },
+        "l2": "sœur"
+      },
+      {
+        "id": "remote-family-fren-5",
+        "fr": "oncle",
+        "en": "uncle",
+        "gloss": {
+          "en": "uncle",
+          "es": "tío",
+          "ru": "дядя"
+        },
+        "l2": "oncle"
+      },
+      {
+        "id": "remote-family-fren-6",
+        "fr": "tante",
+        "en": "aunt",
+        "gloss": {
+          "en": "aunt",
+          "es": "tía",
+          "ru": "тетя"
+        },
+        "l2": "tante"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-family-a1-enl2-1",
+        "fr": "Ma mère s’appelle Sophie.",
+        "l2": "Ma mère s’appelle Sophie.",
+        "en": "mother",
+        "gloss": {
+          "en": "mother",
+          "es": "madre",
+          "ru": "мать"
+        },
+        "prompt": "mother",
+        "choices": [
+          "Ma mère s’appelle Sophie.",
+          "Mon père travaille à Paris.",
+          "J’ai un frère."
+        ]
+      },
+      {
+        "id": "remote-family-a1-enl2-2",
+        "fr": "Mon père travaille à Paris.",
+        "l2": "Mon père travaille à Paris.",
+        "en": "father",
+        "gloss": {
+          "en": "father",
+          "es": "padre",
+          "ru": "отец"
+        },
+        "prompt": "father",
+        "choices": [
+          "Mon père travaille à Paris.",
+          "Ma mère s’appelle Sophie.",
+          "J’ai un frère."
+        ]
+      },
+      {
+        "id": "remote-family-a1-enl2-3",
+        "fr": "J’ai un frère.",
+        "l2": "J’ai un frère.",
+        "en": "brother",
+        "gloss": {
+          "en": "brother",
+          "es": "hermano",
+          "ru": "брат"
+        },
+        "prompt": "brother",
+        "choices": [
+          "J’ai un frère.",
+          "Ma mère s’appelle Sophie.",
+          "Mon père travaille à Paris."
+        ]
+      },
+      {
+        "id": "remote-family-a1-enl2-4",
+        "fr": "Ma sœur a dix ans.",
+        "l2": "Ma sœur a dix ans.",
+        "en": "sister",
+        "gloss": {
+          "en": "sister",
+          "es": "hermana",
+          "ru": "сестра"
+        },
+        "prompt": "sister",
+        "choices": [
+          "Ma sœur a dix ans.",
+          "Ma mère s’appelle Sophie.",
+          "Mon père travaille à Paris."
+        ]
+      },
+      {
+        "id": "remote-family-a1-enl2-5",
+        "fr": "Ils ont deux enfants.",
+        "l2": "Ils ont deux enfants.",
+        "en": "child",
+        "gloss": {
+          "en": "child",
+          "es": "niño",
+          "ru": "ребенок"
+        },
+        "prompt": "child",
+        "choices": [
+          "Ils ont deux enfants.",
+          "Ma mère s’appelle Sophie.",
+          "Mon père travaille à Paris."
+        ]
+      },
+      {
+        "id": "remote-family-a1-enl2-6",
+        "fr": "Leur fils va à l’école.",
+        "l2": "Leur fils va à l’école.",
+        "en": "son",
+        "gloss": {
+          "en": "son",
+          "es": "hijo",
+          "ru": "сын"
+        },
+        "prompt": "son",
+        "choices": [
+          "Leur fils va à l’école.",
+          "Ma mère s’appelle Sophie.",
+          "Mon père travaille à Paris."
+        ]
+      },
+      {
+        "id": "remote-family-a1-enl2-7",
+        "fr": "Sa fille aime lire.",
+        "l2": "Sa fille aime lire.",
+        "en": "daughter / girl",
+        "gloss": {
+          "en": "daughter / girl",
+          "es": "hija / niña",
+          "ru": "дочь / девочка"
+        },
+        "prompt": "daughter / girl",
+        "choices": [
+          "Sa fille aime lire.",
+          "Ma mère s’appelle Sophie.",
+          "Mon père travaille à Paris."
+        ]
+      },
+      {
+        "id": "remote-family-a1-enl2-8",
+        "fr": "C’est mon ami Paul.",
+        "l2": "C’est mon ami Paul.",
+        "en": "friend (male)",
+        "gloss": {
+          "en": "friend (male)",
+          "es": "amigo (masculino)",
+          "ru": "друг (мужчина)"
+        },
+        "prompt": "friend (male)",
+        "choices": [
+          "C’est mon ami Paul.",
+          "Ma mère s’appelle Sophie.",
+          "Mon père travaille à Paris."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-family-a1-prm-1",
+        "en": "mother",
+        "gloss": {
+          "en": "mother",
+          "es": "madre",
+          "ru": "мать"
+        },
+        "answers": [
+          "mère",
+          "la mère"
+        ],
+        "target": "la mère"
+      },
+      {
+        "id": "remote-family-a1-prm-2",
+        "en": "father",
+        "gloss": {
+          "en": "father",
+          "es": "padre",
+          "ru": "отец"
+        },
+        "answers": [
+          "père",
+          "le père"
+        ],
+        "target": "le père"
+      },
+      {
+        "id": "remote-family-a1-prm-3",
+        "en": "brother",
+        "gloss": {
+          "en": "brother",
+          "es": "hermano",
+          "ru": "брат"
+        },
+        "answers": [
+          "frère",
+          "le frère"
+        ],
+        "target": "le frère"
+      },
+      {
+        "id": "remote-family-a1-prm-4",
+        "en": "sister",
+        "gloss": {
+          "en": "sister",
+          "es": "hermana",
+          "ru": "сестра"
+        },
+        "answers": [
+          "sœur",
+          "la sœur"
+        ],
+        "target": "la sœur"
+      },
+      {
+        "id": "remote-family-a1-prm-5",
+        "en": "child",
+        "gloss": {
+          "en": "child",
+          "es": "niño",
+          "ru": "ребенок"
+        },
+        "answers": [
+          "enfant",
+          "le enfant"
+        ],
+        "target": "le enfant"
+      },
+      {
+        "id": "remote-family-a1-prm-6",
+        "en": "son",
+        "gloss": {
+          "en": "son",
+          "es": "hijo",
+          "ru": "сын"
+        },
+        "answers": [
+          "fils",
+          "le fils"
+        ],
+        "target": "le fils"
+      },
+      {
+        "id": "remote-family-a1-prm-7",
+        "en": "daughter / girl",
+        "gloss": {
+          "en": "daughter / girl",
+          "es": "hija / niña",
+          "ru": "дочь / девочка"
+        },
+        "answers": [
+          "fille",
+          "la fille"
+        ],
+        "target": "la fille"
+      },
+      {
+        "id": "remote-family-a1-prm-8",
+        "en": "friend (male)",
+        "gloss": {
+          "en": "friend (male)",
+          "es": "amigo (masculino)",
+          "ru": "друг (мужчина)"
+        },
+        "answers": [
+          "ami",
+          "le ami"
+        ],
+        "target": "le ami"
+      },
+      {
+        "id": "remote-family-a1-prm-9",
+        "en": "friend (female)",
+        "gloss": {
+          "en": "friend (female)",
+          "es": "amiga (mujer)",
+          "ru": "друг (женщина)"
+        },
+        "answers": [
+          "amie",
+          "la amie"
+        ],
+        "target": "la amie"
+      },
+      {
+        "id": "remote-family-a1-prm-10",
+        "en": "grandfather",
+        "gloss": {
+          "en": "grandfather",
+          "es": "abuelo",
+          "ru": "дедушка"
+        },
+        "answers": [
+          "grand-père",
+          "le grand-père"
+        ],
+        "target": "le grand-père"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-family-a1-sign-1",
+        "fr": "mère",
+        "l2": "mère",
+        "en": "mother",
+        "gloss": {
+          "en": "mother",
+          "es": "madre",
+          "ru": "мать"
+        },
+        "choices": [
+          "mother",
+          "father",
+          "brother"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-2",
+        "fr": "père",
+        "l2": "père",
+        "en": "father",
+        "gloss": {
+          "en": "father",
+          "es": "padre",
+          "ru": "отец"
+        },
+        "choices": [
+          "father",
+          "mother",
+          "brother"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-3",
+        "fr": "frère",
+        "l2": "frère",
+        "en": "brother",
+        "gloss": {
+          "en": "brother",
+          "es": "hermano",
+          "ru": "брат"
+        },
+        "choices": [
+          "brother",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-4",
+        "fr": "sœur",
+        "l2": "sœur",
+        "en": "sister",
+        "gloss": {
+          "en": "sister",
+          "es": "hermana",
+          "ru": "сестра"
+        },
+        "choices": [
+          "sister",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-5",
+        "fr": "enfant",
+        "l2": "enfant",
+        "en": "child",
+        "gloss": {
+          "en": "child",
+          "es": "niño",
+          "ru": "ребенок"
+        },
+        "choices": [
+          "child",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-6",
+        "fr": "fils",
+        "l2": "fils",
+        "en": "son",
+        "gloss": {
+          "en": "son",
+          "es": "hijo",
+          "ru": "сын"
+        },
+        "choices": [
+          "son",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-7",
+        "fr": "fille",
+        "l2": "fille",
+        "en": "daughter / girl",
+        "gloss": {
+          "en": "daughter / girl",
+          "es": "hija / niña",
+          "ru": "дочь / девочка"
+        },
+        "choices": [
+          "daughter / girl",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-8",
+        "fr": "ami",
+        "l2": "ami",
+        "en": "friend (male)",
+        "gloss": {
+          "en": "friend (male)",
+          "es": "amigo (masculino)",
+          "ru": "друг (мужчина)"
+        },
+        "choices": [
+          "friend (male)",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-9",
+        "fr": "amie",
+        "l2": "amie",
+        "en": "friend (female)",
+        "gloss": {
+          "en": "friend (female)",
+          "es": "amiga (mujer)",
+          "ru": "друг (женщина)"
+        },
+        "choices": [
+          "friend (female)",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-10",
+        "fr": "grand-père",
+        "l2": "grand-père",
+        "en": "grandfather",
+        "gloss": {
+          "en": "grandfather",
+          "es": "abuelo",
+          "ru": "дедушка"
+        },
+        "choices": [
+          "grandfather",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-11",
+        "fr": "grand-mère",
+        "l2": "grand-mère",
+        "en": "grandmother",
+        "gloss": {
+          "en": "grandmother",
+          "es": "abuela",
+          "ru": "бабушка"
+        },
+        "choices": [
+          "grandmother",
+          "mother",
+          "father"
+        ]
+      },
+      {
+        "id": "remote-family-a1-sign-12",
+        "fr": "oncle",
+        "l2": "oncle",
+        "en": "uncle",
+        "gloss": {
+          "en": "uncle",
+          "es": "tío",
+          "ru": "дядя"
+        },
+        "choices": [
+          "uncle",
+          "mother",
+          "father"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-family-a1-pair-1",
+        "a": {
+          "fr": "mère",
+          "l2": "mère",
+          "en": "mother",
+          "gloss": {
+            "en": "mother",
+            "es": "madre",
+            "ru": "мать"
+          }
+        },
+        "b": {
+          "fr": "père",
+          "l2": "père",
+          "en": "father",
+          "gloss": {
+            "en": "father",
+            "es": "padre",
+            "ru": "отец"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-family-a1-pair-2",
+        "a": {
+          "fr": "frère",
+          "l2": "frère",
+          "en": "brother",
+          "gloss": {
+            "en": "brother",
+            "es": "hermano",
+            "ru": "брат"
+          }
+        },
+        "b": {
+          "fr": "sœur",
+          "l2": "sœur",
+          "en": "sister",
+          "gloss": {
+            "en": "sister",
+            "es": "hermana",
+            "ru": "сестра"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-family-a1-pair-3",
+        "a": {
+          "fr": "enfant",
+          "l2": "enfant",
+          "en": "child",
+          "gloss": {
+            "en": "child",
+            "es": "niño",
+            "ru": "ребенок"
+          }
+        },
+        "b": {
+          "fr": "fils",
+          "l2": "fils",
+          "en": "son",
+          "gloss": {
+            "en": "son",
+            "es": "hijo",
+            "ru": "сын"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-family-a1-pair-4",
+        "a": {
+          "fr": "fille",
+          "l2": "fille",
+          "en": "daughter / girl",
+          "gloss": {
+            "en": "daughter / girl",
+            "es": "hija / niña",
+            "ru": "дочь / девочка"
+          }
+        },
+        "b": {
+          "fr": "ami",
+          "l2": "ami",
+          "en": "friend (male)",
+          "gloss": {
+            "en": "friend (male)",
+            "es": "amigo (masculino)",
+            "ru": "друг (мужчина)"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-family-a1-pair-5",
+        "a": {
+          "fr": "amie",
+          "l2": "amie",
+          "en": "friend (female)",
+          "gloss": {
+            "en": "friend (female)",
+            "es": "amiga (mujer)",
+            "ru": "друг (женщина)"
+          }
+        },
+        "b": {
+          "fr": "grand-père",
+          "l2": "grand-père",
+          "en": "grandfather",
+          "gloss": {
+            "en": "grandfather",
+            "es": "abuelo",
+            "ru": "дедушка"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-family-a1-gap-1",
+        "fr": "Ma mère s’appelle Sophie.",
+        "l2": "Ma mère s’appelle Sophie.",
+        "speak": "Ma mère s’appelle Sophie.",
+        "blank": "mère",
+        "en": "mother",
+        "gloss": {
+          "en": "mother",
+          "es": "madre",
+          "ru": "мать"
+        }
+      },
+      {
+        "id": "remote-family-a1-gap-2",
+        "fr": "Mon père travaille à Paris.",
+        "l2": "Mon père travaille à Paris.",
+        "speak": "Mon père travaille à Paris.",
+        "blank": "père",
+        "en": "father",
+        "gloss": {
+          "en": "father",
+          "es": "padre",
+          "ru": "отец"
+        }
+      },
+      {
+        "id": "remote-family-a1-gap-3",
+        "fr": "J’ai un frère.",
+        "l2": "J’ai un frère.",
+        "speak": "J’ai un frère.",
+        "blank": "frère",
+        "en": "brother",
+        "gloss": {
+          "en": "brother",
+          "es": "hermano",
+          "ru": "брат"
+        }
+      },
+      {
+        "id": "remote-family-a1-gap-4",
+        "fr": "Ma sœur a dix ans.",
+        "l2": "Ma sœur a dix ans.",
+        "speak": "Ma sœur a dix ans.",
+        "blank": "sœur",
+        "en": "sister",
+        "gloss": {
+          "en": "sister",
+          "es": "hermana",
+          "ru": "сестра"
+        }
+      },
+      {
+        "id": "remote-family-a1-gap-5",
+        "fr": "Ils ont deux enfants.",
+        "l2": "Ils ont deux enfants.",
+        "speak": "Ils ont deux enfants.",
+        "blank": "enfant",
+        "en": "child",
+        "gloss": {
+          "en": "child",
+          "es": "niño",
+          "ru": "ребенок"
+        }
+      },
+      {
+        "id": "remote-family-a1-gap-6",
+        "fr": "Leur fils va à l’école.",
+        "l2": "Leur fils va à l’école.",
+        "speak": "Leur fils va à l’école.",
+        "blank": "fils",
+        "en": "son",
+        "gloss": {
+          "en": "son",
+          "es": "hijo",
+          "ru": "сын"
+        }
+      },
+      {
+        "id": "remote-family-a1-gap-7",
+        "fr": "Sa fille aime lire.",
+        "l2": "Sa fille aime lire.",
+        "speak": "Sa fille aime lire.",
+        "blank": "fille",
+        "en": "daughter / girl",
+        "gloss": {
+          "en": "daughter / girl",
+          "es": "hija / niña",
+          "ru": "дочь / девочка"
+        }
+      },
+      {
+        "id": "remote-family-a1-gap-8",
+        "fr": "C’est mon ami Paul.",
+        "l2": "C’est mon ami Paul.",
+        "speak": "C’est mon ami Paul.",
+        "blank": "ami",
+        "en": "friend (male)",
+        "gloss": {
+          "en": "friend (male)",
+          "es": "amigo (masculino)",
+          "ru": "друг (мужчина)"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-family-a1-ord-1",
+        "fr": "Ma mère s’appelle Sophie.",
+        "l2": "Ma mère s’appelle Sophie.",
+        "en": "mother",
+        "gloss": {
+          "en": "mother",
+          "es": "madre",
+          "ru": "мать"
+        },
+        "words": [
+          "Ma",
+          "mère",
+          "s’appelle",
+          "Sophie."
+        ]
+      },
+      {
+        "id": "remote-family-a1-ord-2",
+        "fr": "Mon père travaille à Paris.",
+        "l2": "Mon père travaille à Paris.",
+        "en": "father",
+        "gloss": {
+          "en": "father",
+          "es": "padre",
+          "ru": "отец"
+        },
+        "words": [
+          "Mon",
+          "père",
+          "travaille",
+          "à",
+          "Paris."
+        ]
+      },
+      {
+        "id": "remote-family-a1-ord-3",
+        "fr": "J’ai un frère.",
+        "l2": "J’ai un frère.",
+        "en": "brother",
+        "gloss": {
+          "en": "brother",
+          "es": "hermano",
+          "ru": "брат"
+        },
+        "words": [
+          "J’ai",
+          "un",
+          "frère."
+        ]
+      },
+      {
+        "id": "remote-family-a1-ord-4",
+        "fr": "Ma sœur a dix ans.",
+        "l2": "Ma sœur a dix ans.",
+        "en": "sister",
+        "gloss": {
+          "en": "sister",
+          "es": "hermana",
+          "ru": "сестра"
+        },
+        "words": [
+          "Ma",
+          "sœur",
+          "a",
+          "dix",
+          "ans."
+        ]
+      },
+      {
+        "id": "remote-family-a1-ord-5",
+        "fr": "Ils ont deux enfants.",
+        "l2": "Ils ont deux enfants.",
+        "en": "child",
+        "gloss": {
+          "en": "child",
+          "es": "niño",
+          "ru": "ребенок"
+        },
+        "words": [
+          "Ils",
+          "ont",
+          "deux",
+          "enfants."
+        ]
+      },
+      {
+        "id": "remote-family-a1-ord-6",
+        "fr": "Leur fils va à l’école.",
+        "l2": "Leur fils va à l’école.",
+        "en": "son",
+        "gloss": {
+          "en": "son",
+          "es": "hijo",
+          "ru": "сын"
+        },
+        "words": [
+          "Leur",
+          "fils",
+          "va",
+          "à",
+          "l’école."
+        ]
+      },
+      {
+        "id": "remote-family-a1-ord-7",
+        "fr": "Sa fille aime lire.",
+        "l2": "Sa fille aime lire.",
+        "en": "daughter / girl",
+        "gloss": {
+          "en": "daughter / girl",
+          "es": "hija / niña",
+          "ru": "дочь / девочка"
+        },
+        "words": [
+          "Sa",
+          "fille",
+          "aime",
+          "lire."
+        ]
+      },
+      {
+        "id": "remote-family-a1-ord-8",
+        "fr": "C’est mon ami Paul.",
+        "l2": "C’est mon ami Paul.",
+        "en": "friend (male)",
+        "gloss": {
+          "en": "friend (male)",
+          "es": "amigo (masculino)",
+          "ru": "друг (мужчина)"
+        },
+        "words": [
+          "C’est",
+          "mon",
+          "ami",
+          "Paul."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-family-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "mɛʁ",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "mère",
+          "l2": "mère",
+          "en": "mother",
+          "gloss": {
+            "en": "mother",
+            "es": "madre",
+            "ru": "мать"
+          },
+          "ipa": "mɛʁ"
+        },
+        {
+          "fr": "père",
+          "l2": "père",
+          "en": "father",
+          "gloss": {
+            "en": "father",
+            "es": "padre",
+            "ru": "отец"
+          },
+          "ipa": "pɛʁ"
+        },
+        {
+          "fr": "frère",
+          "l2": "frère",
+          "en": "brother",
+          "gloss": {
+            "en": "brother",
+            "es": "hermano",
+            "ru": "брат"
+          },
+          "ipa": "fʁɛʁ"
+        },
+        {
+          "fr": "sœur",
+          "l2": "sœur",
+          "en": "sister",
+          "gloss": {
+            "en": "sister",
+            "es": "hermana",
+            "ru": "сестра"
+          },
+          "ipa": "sœʁ"
+        },
+        {
+          "fr": "enfant",
+          "l2": "enfant",
+          "en": "child",
+          "gloss": {
+            "en": "child",
+            "es": "niño",
+            "ru": "ребенок"
+          },
+          "ipa": "ɑ̃.fɑ̃"
+        }
+      ]
+    }
+  ]
 }

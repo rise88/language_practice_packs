@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "philosophy-c1",
-  "version": 4,
+  "version": 5,
   "level": "c1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "En postulant",
             "Postulé",
             "Ayant postulé que"
-          ]
+          ],
+          "gloss": {
+            "en": "___ contingency, we do not abolish local determinism.",
+            "es": "___ contingencia, no abolimos el determinismo local.",
+            "ru": "___ непредвиденных обстоятельств, мы не отменяем локальный детерминизм."
+          },
+          "why": {
+            "fr": "Réponse : « En postulant ».",
+            "en": "Answer: “En postulant”.",
+            "es": "Respuesta: « En postulant ».",
+            "ru": "Ответ: « En postulant »."
+          }
         },
         {
           "id": "remote-philosophy-gq-2",
@@ -537,7 +548,18 @@
             "commandant",
             "en commandant",
             "commandé"
-          ]
+          ],
+          "gloss": {
+            "en": "A premise ___ the syllogism cannot be tautological.",
+            "es": "Une prémisse ___ le syllogisme ne saurait être tautologique.",
+            "ru": "Посылка ___ силлогизма не может быть тавтологичной."
+          },
+          "why": {
+            "fr": "Réponse : « commandant ».",
+            "en": "Answer: “commandant”.",
+            "es": "Respuesta: « commandant ».",
+            "ru": "Ответ: « commandant »."
+          }
         },
         {
           "id": "remote-philosophy-gq-3",
@@ -547,13 +569,25 @@
             "Ayant posé",
             "En posé",
             "Pose"
-          ]
+          ],
+          "gloss": {
+            "en": "___ the axiom, it draws an ethical corollary.",
+            "es": "___ el axioma, saca un corolario ético.",
+            "ru": "___ аксиома, из нее следует этическое следствие."
+          },
+          "why": {
+            "fr": "Réponse : « Ayant posé ».",
+            "en": "Answer: “Ayant posé”.",
+            "es": "Respuesta: « Ayant posé ».",
+            "ru": "Ответ: « Ayant posé »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Gerund vs present participle.",
         "es": "Útil cuando necesitas aplicar: Gerundio vs participio presente.",
-        "ru": "Полезно, когда нужно применить: герундий против причастия настоящего времени."
+        "ru": "Полезно, когда нужно применить: герундий против причастия настоящего времени.",
+        "fr": "Utile pour appliquer : Gérondif et participe présent."
       }
     },
     {
@@ -606,7 +640,18 @@
             "soit",
             "est",
             "était"
-          ]
+          ],
+          "gloss": {
+            "en": "Although the paradox ___ brilliant, it does not dissolve the premise.",
+            "es": "Aunque la paradoja es brillante, no disuelve la premisa.",
+            "ru": "Хотя парадокс ___ блестящий, он не разрушает предпосылку."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-philosophy-gq-5",
@@ -616,13 +661,25 @@
             "est",
             "soit",
             "fût"
-          ]
+          ],
+          "gloss": {
+            "en": "Even if immanence ___ affirmed, a requirement persists.",
+            "es": "Incluso si se afirma la inmanencia ___ , persiste un requisito.",
+            "ru": "Даже если имманентность ___ подтверждена, требование сохраняется."
+          },
+          "why": {
+            "fr": "Réponse : « est ».",
+            "en": "Answer: “est”.",
+            "es": "Respuesta: « est ».",
+            "ru": "Ответ: « est »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Concession: bien que / encore que / quoique.",
         "es": "Útil cuando necesitas solicitar: Concesión: bien que / encore que / quoique.",
-        "ru": "Полезно, когда вам нужно подать заявку: Уступка: bien que / encore que / quoique."
+        "ru": "Полезно, когда вам нужно подать заявку: Уступка: bien que / encore que / quoique.",
+        "fr": "Utile pour appliquer : Concession : bien que / encore que / quoique."
       }
     }
   ],
@@ -853,6 +910,1082 @@
         },
         "l2": "Loin de fonder l’éthique, ce concept n’en est que le corollaire."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-philosophy-fren-1",
+        "fr": "concept",
+        "en": "concept",
+        "gloss": {
+          "en": "concept",
+          "es": "concepto",
+          "ru": "концепция"
+        },
+        "l2": "concept"
+      },
+      {
+        "id": "remote-philosophy-fren-2",
+        "fr": "prémisse",
+        "en": "premise",
+        "gloss": {
+          "en": "premise",
+          "es": "premisa",
+          "ru": "помещение"
+        },
+        "l2": "prémisse"
+      },
+      {
+        "id": "remote-philosophy-fren-3",
+        "fr": "paradoxe",
+        "en": "paradox",
+        "gloss": {
+          "en": "paradox",
+          "es": "paradoja",
+          "ru": "парадокс"
+        },
+        "l2": "paradoxe"
+      },
+      {
+        "id": "remote-philosophy-fren-4",
+        "fr": "éthique",
+        "en": "ethics",
+        "gloss": {
+          "en": "ethics",
+          "es": "ética",
+          "ru": "этика"
+        },
+        "l2": "éthique"
+      },
+      {
+        "id": "remote-philosophy-fren-5",
+        "fr": "métaphysique",
+        "en": "metaphysics",
+        "gloss": {
+          "en": "metaphysics",
+          "es": "metafísica",
+          "ru": "метафизика"
+        },
+        "l2": "métaphysique"
+      },
+      {
+        "id": "remote-philosophy-fren-6",
+        "fr": "ontologie",
+        "en": "ontology",
+        "gloss": {
+          "en": "ontology",
+          "es": "ontología",
+          "ru": "онтология"
+        },
+        "l2": "ontologie"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-philosophy-c1-enl2-1",
+        "fr": "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+        "l2": "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+        "en": "concept",
+        "gloss": {
+          "en": "concept",
+          "es": "concepto",
+          "ru": "концепция"
+        },
+        "prompt": "concept",
+        "choices": [
+          "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+          "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
+          "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-enl2-2",
+        "fr": "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
+        "l2": "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
+        "en": "premise",
+        "gloss": {
+          "en": "premise",
+          "es": "premisa",
+          "ru": "помещение"
+        },
+        "prompt": "premise",
+        "choices": [
+          "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
+          "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+          "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-enl2-3",
+        "fr": "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber.",
+        "l2": "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber.",
+        "en": "paradox",
+        "gloss": {
+          "en": "paradox",
+          "es": "paradoja",
+          "ru": "парадокс"
+        },
+        "prompt": "paradox",
+        "choices": [
+          "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber.",
+          "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+          "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-enl2-4",
+        "fr": "L’éthique, à moins qu’on ne la réduise à une casuistique, interroge la portée du libre arbitre.",
+        "l2": "L’éthique, à moins qu’on ne la réduise à une casuistique, interroge la portée du libre arbitre.",
+        "en": "ethics",
+        "gloss": {
+          "en": "ethics",
+          "es": "ética",
+          "ru": "этика"
+        },
+        "prompt": "ethics",
+        "choices": [
+          "L’éthique, à moins qu’on ne la réduise à une casuistique, interroge la portée du libre arbitre.",
+          "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+          "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-enl2-5",
+        "fr": "La métaphysique, dont l’objet excède l’expérience, se heurte à l’aporie d’un fondement dernier.",
+        "l2": "La métaphysique, dont l’objet excède l’expérience, se heurte à l’aporie d’un fondement dernier.",
+        "en": "metaphysics",
+        "gloss": {
+          "en": "metaphysics",
+          "es": "metafísica",
+          "ru": "метафизика"
+        },
+        "prompt": "metaphysics",
+        "choices": [
+          "La métaphysique, dont l’objet excède l’expérience, se heurte à l’aporie d’un fondement dernier.",
+          "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+          "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-enl2-6",
+        "fr": "L’ontologie, loin de précéder l’éthique, se trouve souvent reconfigurée par les dilemmes pratiques.",
+        "l2": "L’ontologie, loin de précéder l’éthique, se trouve souvent reconfigurée par les dilemmes pratiques.",
+        "en": "ontology",
+        "gloss": {
+          "en": "ontology",
+          "es": "ontología",
+          "ru": "онтология"
+        },
+        "prompt": "ontology",
+        "choices": [
+          "L’ontologie, loin de précéder l’éthique, se trouve souvent reconfigurée par les dilemmes pratiques.",
+          "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+          "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-enl2-7",
+        "fr": "La dialectique, encore qu’on l’accuse de tout concilier, travaille la contradiction sans l’abolir d’emblée.",
+        "l2": "La dialectique, encore qu’on l’accuse de tout concilier, travaille la contradiction sans l’abolir d’emblée.",
+        "en": "dialectic",
+        "gloss": {
+          "en": "dialectic",
+          "es": "dialéctico",
+          "ru": "диалектика"
+        },
+        "prompt": "dialectic",
+        "choices": [
+          "La dialectique, encore qu’on l’accuse de tout concilier, travaille la contradiction sans l’abolir d’emblée.",
+          "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+          "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-enl2-8",
+        "fr": "La tautologie, dont la forme garantit la vérité, n’apporte aucune prémisse nouvelle à l’argument.",
+        "l2": "La tautologie, dont la forme garantit la vérité, n’apporte aucune prémisse nouvelle à l’argument.",
+        "en": "tautology",
+        "gloss": {
+          "en": "tautology",
+          "es": "tautología",
+          "ru": "тавтология"
+        },
+        "prompt": "tautology",
+        "choices": [
+          "La tautologie, dont la forme garantit la vérité, n’apporte aucune prémisse nouvelle à l’argument.",
+          "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+          "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-philosophy-c1-prm-1",
+        "en": "concept",
+        "gloss": {
+          "en": "concept",
+          "es": "concepto",
+          "ru": "концепция"
+        },
+        "answers": [
+          "concept",
+          "le concept"
+        ],
+        "target": "le concept"
+      },
+      {
+        "id": "remote-philosophy-c1-prm-2",
+        "en": "premise",
+        "gloss": {
+          "en": "premise",
+          "es": "premisa",
+          "ru": "помещение"
+        },
+        "answers": [
+          "prémisse",
+          "la prémisse"
+        ],
+        "target": "la prémisse"
+      },
+      {
+        "id": "remote-philosophy-c1-prm-3",
+        "en": "paradox",
+        "gloss": {
+          "en": "paradox",
+          "es": "paradoja",
+          "ru": "парадокс"
+        },
+        "answers": [
+          "paradoxe",
+          "le paradoxe"
+        ],
+        "target": "le paradoxe"
+      },
+      {
+        "id": "remote-philosophy-c1-prm-4",
+        "en": "ethics",
+        "gloss": {
+          "en": "ethics",
+          "es": "ética",
+          "ru": "этика"
+        },
+        "answers": [
+          "éthique",
+          "l' éthique"
+        ],
+        "target": "l' éthique"
+      },
+      {
+        "id": "remote-philosophy-c1-prm-5",
+        "en": "metaphysics",
+        "gloss": {
+          "en": "metaphysics",
+          "es": "metafísica",
+          "ru": "метафизика"
+        },
+        "answers": [
+          "métaphysique",
+          "la métaphysique"
+        ],
+        "target": "la métaphysique"
+      },
+      {
+        "id": "remote-philosophy-c1-prm-6",
+        "en": "ontology",
+        "gloss": {
+          "en": "ontology",
+          "es": "ontología",
+          "ru": "онтология"
+        },
+        "answers": [
+          "ontologie",
+          "l' ontologie"
+        ],
+        "target": "l' ontologie"
+      },
+      {
+        "id": "remote-philosophy-c1-prm-7",
+        "en": "dialectic",
+        "gloss": {
+          "en": "dialectic",
+          "es": "dialéctico",
+          "ru": "диалектика"
+        },
+        "answers": [
+          "dialectique",
+          "la dialectique"
+        ],
+        "target": "la dialectique"
+      },
+      {
+        "id": "remote-philosophy-c1-prm-8",
+        "en": "tautology",
+        "gloss": {
+          "en": "tautology",
+          "es": "tautología",
+          "ru": "тавтология"
+        },
+        "answers": [
+          "tautologie",
+          "la tautologie"
+        ],
+        "target": "la tautologie"
+      },
+      {
+        "id": "remote-philosophy-c1-prm-9",
+        "en": "axiom",
+        "gloss": {
+          "en": "axiom",
+          "es": "axioma",
+          "ru": "аксиома"
+        },
+        "answers": [
+          "axiome",
+          "l' axiome"
+        ],
+        "target": "l' axiome"
+      },
+      {
+        "id": "remote-philosophy-c1-prm-10",
+        "en": "contingency",
+        "gloss": {
+          "en": "contingency",
+          "es": "contingencia",
+          "ru": "непредвиденный случай"
+        },
+        "answers": [
+          "contingence",
+          "la contingence"
+        ],
+        "target": "la contingence"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-philosophy-c1-sign-1",
+        "fr": "concept",
+        "l2": "concept",
+        "en": "concept",
+        "gloss": {
+          "en": "concept",
+          "es": "concepto",
+          "ru": "концепция"
+        },
+        "choices": [
+          "concept",
+          "premise",
+          "paradox"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-2",
+        "fr": "prémisse",
+        "l2": "prémisse",
+        "en": "premise",
+        "gloss": {
+          "en": "premise",
+          "es": "premisa",
+          "ru": "помещение"
+        },
+        "choices": [
+          "premise",
+          "concept",
+          "paradox"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-3",
+        "fr": "paradoxe",
+        "l2": "paradoxe",
+        "en": "paradox",
+        "gloss": {
+          "en": "paradox",
+          "es": "paradoja",
+          "ru": "парадокс"
+        },
+        "choices": [
+          "paradox",
+          "concept",
+          "premise"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-4",
+        "fr": "éthique",
+        "l2": "éthique",
+        "en": "ethics",
+        "gloss": {
+          "en": "ethics",
+          "es": "ética",
+          "ru": "этика"
+        },
+        "choices": [
+          "ethics",
+          "concept",
+          "premise"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-5",
+        "fr": "métaphysique",
+        "l2": "métaphysique",
+        "en": "metaphysics",
+        "gloss": {
+          "en": "metaphysics",
+          "es": "metafísica",
+          "ru": "метафизика"
+        },
+        "choices": [
+          "metaphysics",
+          "concept",
+          "premise"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-6",
+        "fr": "ontologie",
+        "l2": "ontologie",
+        "en": "ontology",
+        "gloss": {
+          "en": "ontology",
+          "es": "ontología",
+          "ru": "онтология"
+        },
+        "choices": [
+          "ontology",
+          "concept",
+          "premise"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-7",
+        "fr": "dialectique",
+        "l2": "dialectique",
+        "en": "dialectic",
+        "gloss": {
+          "en": "dialectic",
+          "es": "dialéctico",
+          "ru": "диалектика"
+        },
+        "choices": [
+          "dialectic",
+          "concept",
+          "premise"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-8",
+        "fr": "tautologie",
+        "l2": "tautologie",
+        "en": "tautology",
+        "gloss": {
+          "en": "tautology",
+          "es": "tautología",
+          "ru": "тавтология"
+        },
+        "choices": [
+          "tautology",
+          "concept",
+          "premise"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-9",
+        "fr": "axiome",
+        "l2": "axiome",
+        "en": "axiom",
+        "gloss": {
+          "en": "axiom",
+          "es": "axioma",
+          "ru": "аксиома"
+        },
+        "choices": [
+          "axiom",
+          "concept",
+          "premise"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-10",
+        "fr": "contingence",
+        "l2": "contingence",
+        "en": "contingency",
+        "gloss": {
+          "en": "contingency",
+          "es": "contingencia",
+          "ru": "непредвиденный случай"
+        },
+        "choices": [
+          "contingency",
+          "concept",
+          "premise"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-11",
+        "fr": "immanence",
+        "l2": "immanence",
+        "en": "immanence",
+        "gloss": {
+          "en": "immanence",
+          "es": "inmanencia",
+          "ru": "имманентность"
+        },
+        "choices": [
+          "immanence",
+          "concept",
+          "premise"
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-sign-12",
+        "fr": "transcendance",
+        "l2": "transcendance",
+        "en": "transcendence",
+        "gloss": {
+          "en": "transcendence",
+          "es": "trascendencia",
+          "ru": "трансцендентность"
+        },
+        "choices": [
+          "transcendence",
+          "concept",
+          "premise"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-philosophy-c1-pair-1",
+        "a": {
+          "fr": "concept",
+          "l2": "concept",
+          "en": "concept",
+          "gloss": {
+            "en": "concept",
+            "es": "concepto",
+            "ru": "концепция"
+          }
+        },
+        "b": {
+          "fr": "prémisse",
+          "l2": "prémisse",
+          "en": "premise",
+          "gloss": {
+            "en": "premise",
+            "es": "premisa",
+            "ru": "помещение"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-philosophy-c1-pair-2",
+        "a": {
+          "fr": "paradoxe",
+          "l2": "paradoxe",
+          "en": "paradox",
+          "gloss": {
+            "en": "paradox",
+            "es": "paradoja",
+            "ru": "парадокс"
+          }
+        },
+        "b": {
+          "fr": "éthique",
+          "l2": "éthique",
+          "en": "ethics",
+          "gloss": {
+            "en": "ethics",
+            "es": "ética",
+            "ru": "этика"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-philosophy-c1-pair-3",
+        "a": {
+          "fr": "métaphysique",
+          "l2": "métaphysique",
+          "en": "metaphysics",
+          "gloss": {
+            "en": "metaphysics",
+            "es": "metafísica",
+            "ru": "метафизика"
+          }
+        },
+        "b": {
+          "fr": "ontologie",
+          "l2": "ontologie",
+          "en": "ontology",
+          "gloss": {
+            "en": "ontology",
+            "es": "ontología",
+            "ru": "онтология"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-philosophy-c1-pair-4",
+        "a": {
+          "fr": "dialectique",
+          "l2": "dialectique",
+          "en": "dialectic",
+          "gloss": {
+            "en": "dialectic",
+            "es": "dialéctico",
+            "ru": "диалектика"
+          }
+        },
+        "b": {
+          "fr": "tautologie",
+          "l2": "tautologie",
+          "en": "tautology",
+          "gloss": {
+            "en": "tautology",
+            "es": "tautología",
+            "ru": "тавтология"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-philosophy-c1-pair-5",
+        "a": {
+          "fr": "axiome",
+          "l2": "axiome",
+          "en": "axiom",
+          "gloss": {
+            "en": "axiom",
+            "es": "axioma",
+            "ru": "аксиома"
+          }
+        },
+        "b": {
+          "fr": "contingence",
+          "l2": "contingence",
+          "en": "contingency",
+          "gloss": {
+            "en": "contingency",
+            "es": "contingencia",
+            "ru": "непредвиденный случай"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-philosophy-c1-gap-1",
+        "fr": "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+        "l2": "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+        "speak": "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+        "blank": "concept",
+        "en": "concept",
+        "gloss": {
+          "en": "concept",
+          "es": "concepto",
+          "ru": "концепция"
+        }
+      },
+      {
+        "id": "remote-philosophy-c1-gap-2",
+        "fr": "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
+        "l2": "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
+        "speak": "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
+        "blank": "prémisse",
+        "en": "premise",
+        "gloss": {
+          "en": "premise",
+          "es": "premisa",
+          "ru": "помещение"
+        }
+      },
+      {
+        "id": "remote-philosophy-c1-gap-3",
+        "fr": "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber.",
+        "l2": "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber.",
+        "speak": "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber.",
+        "blank": "paradoxe",
+        "en": "paradox",
+        "gloss": {
+          "en": "paradox",
+          "es": "paradoja",
+          "ru": "парадокс"
+        }
+      },
+      {
+        "id": "remote-philosophy-c1-gap-4",
+        "fr": "L’éthique, à moins qu’on ne la réduise à une casuistique, interroge la portée du libre arbitre.",
+        "l2": "L’éthique, à moins qu’on ne la réduise à une casuistique, interroge la portée du libre arbitre.",
+        "speak": "L’éthique, à moins qu’on ne la réduise à une casuistique, interroge la portée du libre arbitre.",
+        "blank": "éthique",
+        "en": "ethics",
+        "gloss": {
+          "en": "ethics",
+          "es": "ética",
+          "ru": "этика"
+        }
+      },
+      {
+        "id": "remote-philosophy-c1-gap-5",
+        "fr": "La métaphysique, dont l’objet excède l’expérience, se heurte à l’aporie d’un fondement dernier.",
+        "l2": "La métaphysique, dont l’objet excède l’expérience, se heurte à l’aporie d’un fondement dernier.",
+        "speak": "La métaphysique, dont l’objet excède l’expérience, se heurte à l’aporie d’un fondement dernier.",
+        "blank": "métaphysique",
+        "en": "metaphysics",
+        "gloss": {
+          "en": "metaphysics",
+          "es": "metafísica",
+          "ru": "метафизика"
+        }
+      },
+      {
+        "id": "remote-philosophy-c1-gap-6",
+        "fr": "L’ontologie, loin de précéder l’éthique, se trouve souvent reconfigurée par les dilemmes pratiques.",
+        "l2": "L’ontologie, loin de précéder l’éthique, se trouve souvent reconfigurée par les dilemmes pratiques.",
+        "speak": "L’ontologie, loin de précéder l’éthique, se trouve souvent reconfigurée par les dilemmes pratiques.",
+        "blank": "ontologie",
+        "en": "ontology",
+        "gloss": {
+          "en": "ontology",
+          "es": "ontología",
+          "ru": "онтология"
+        }
+      },
+      {
+        "id": "remote-philosophy-c1-gap-7",
+        "fr": "La dialectique, encore qu’on l’accuse de tout concilier, travaille la contradiction sans l’abolir d’emblée.",
+        "l2": "La dialectique, encore qu’on l’accuse de tout concilier, travaille la contradiction sans l’abolir d’emblée.",
+        "speak": "La dialectique, encore qu’on l’accuse de tout concilier, travaille la contradiction sans l’abolir d’emblée.",
+        "blank": "dialectique",
+        "en": "dialectic",
+        "gloss": {
+          "en": "dialectic",
+          "es": "dialéctico",
+          "ru": "диалектика"
+        }
+      },
+      {
+        "id": "remote-philosophy-c1-gap-8",
+        "fr": "La tautologie, dont la forme garantit la vérité, n’apporte aucune prémisse nouvelle à l’argument.",
+        "l2": "La tautologie, dont la forme garantit la vérité, n’apporte aucune prémisse nouvelle à l’argument.",
+        "speak": "La tautologie, dont la forme garantit la vérité, n’apporte aucune prémisse nouvelle à l’argument.",
+        "blank": "tautologie",
+        "en": "tautology",
+        "gloss": {
+          "en": "tautology",
+          "es": "tautología",
+          "ru": "тавтология"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-philosophy-c1-ord-1",
+        "fr": "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+        "l2": "Le concept, loin d’être un simple mot, condense un réseau de prémisses dont la portée ontologique varie.",
+        "en": "concept",
+        "gloss": {
+          "en": "concept",
+          "es": "concepto",
+          "ru": "концепция"
+        },
+        "words": [
+          "Le",
+          "concept,",
+          "loin",
+          "d’être",
+          "un",
+          "simple",
+          "mot,",
+          "condense",
+          "un",
+          "réseau",
+          "de",
+          "prémisses",
+          "dont",
+          "la",
+          "portée",
+          "ontologique",
+          "varie."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-ord-2",
+        "fr": "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
+        "l2": "Cette prémisse, encore qu’elle paraisse triviale, commande tout le syllogisme et son corollaire éthique.",
+        "en": "premise",
+        "gloss": {
+          "en": "premise",
+          "es": "premisa",
+          "ru": "помещение"
+        },
+        "words": [
+          "Cette",
+          "prémisse,",
+          "encore",
+          "qu’elle",
+          "paraisse",
+          "triviale,",
+          "commande",
+          "tout",
+          "le",
+          "syllogisme",
+          "et",
+          "son",
+          "corollaire",
+          "éthique."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-ord-3",
+        "fr": "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber.",
+        "l2": "Le paradoxe, quitte à dérouter le lecteur, révèle une tension que le système ne parvient pas à résorber.",
+        "en": "paradox",
+        "gloss": {
+          "en": "paradox",
+          "es": "paradoja",
+          "ru": "парадокс"
+        },
+        "words": [
+          "Le",
+          "paradoxe,",
+          "quitte",
+          "à",
+          "dérouter",
+          "le",
+          "lecteur,",
+          "révèle",
+          "une",
+          "tension",
+          "que",
+          "le",
+          "système",
+          "ne",
+          "parvient",
+          "pas",
+          "à",
+          "résorber."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-ord-4",
+        "fr": "L’éthique, à moins qu’on ne la réduise à une casuistique, interroge la portée du libre arbitre.",
+        "l2": "L’éthique, à moins qu’on ne la réduise à une casuistique, interroge la portée du libre arbitre.",
+        "en": "ethics",
+        "gloss": {
+          "en": "ethics",
+          "es": "ética",
+          "ru": "этика"
+        },
+        "words": [
+          "L’éthique,",
+          "à",
+          "moins",
+          "qu’on",
+          "ne",
+          "la",
+          "réduise",
+          "à",
+          "une",
+          "casuistique,",
+          "interroge",
+          "la",
+          "portée",
+          "du",
+          "libre",
+          "arbitre."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-ord-5",
+        "fr": "La métaphysique, dont l’objet excède l’expérience, se heurte à l’aporie d’un fondement dernier.",
+        "l2": "La métaphysique, dont l’objet excède l’expérience, se heurte à l’aporie d’un fondement dernier.",
+        "en": "metaphysics",
+        "gloss": {
+          "en": "metaphysics",
+          "es": "metafísica",
+          "ru": "метафизика"
+        },
+        "words": [
+          "La",
+          "métaphysique,",
+          "dont",
+          "l’objet",
+          "excède",
+          "l’expérience,",
+          "se",
+          "heurte",
+          "à",
+          "l’aporie",
+          "d’un",
+          "fondement",
+          "dernier."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-ord-6",
+        "fr": "L’ontologie, loin de précéder l’éthique, se trouve souvent reconfigurée par les dilemmes pratiques.",
+        "l2": "L’ontologie, loin de précéder l’éthique, se trouve souvent reconfigurée par les dilemmes pratiques.",
+        "en": "ontology",
+        "gloss": {
+          "en": "ontology",
+          "es": "ontología",
+          "ru": "онтология"
+        },
+        "words": [
+          "L’ontologie,",
+          "loin",
+          "de",
+          "précéder",
+          "l’éthique,",
+          "se",
+          "trouve",
+          "souvent",
+          "reconfigurée",
+          "par",
+          "les",
+          "dilemmes",
+          "pratiques."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-ord-7",
+        "fr": "La dialectique, encore qu’on l’accuse de tout concilier, travaille la contradiction sans l’abolir d’emblée.",
+        "l2": "La dialectique, encore qu’on l’accuse de tout concilier, travaille la contradiction sans l’abolir d’emblée.",
+        "en": "dialectic",
+        "gloss": {
+          "en": "dialectic",
+          "es": "dialéctico",
+          "ru": "диалектика"
+        },
+        "words": [
+          "La",
+          "dialectique,",
+          "encore",
+          "qu’on",
+          "l’accuse",
+          "de",
+          "tout",
+          "concilier,",
+          "travaille",
+          "la",
+          "contradiction",
+          "sans",
+          "l’abolir",
+          "d’emblée."
+        ]
+      },
+      {
+        "id": "remote-philosophy-c1-ord-8",
+        "fr": "La tautologie, dont la forme garantit la vérité, n’apporte aucune prémisse nouvelle à l’argument.",
+        "l2": "La tautologie, dont la forme garantit la vérité, n’apporte aucune prémisse nouvelle à l’argument.",
+        "en": "tautology",
+        "gloss": {
+          "en": "tautology",
+          "es": "tautología",
+          "ru": "тавтология"
+        },
+        "words": [
+          "La",
+          "tautologie,",
+          "dont",
+          "la",
+          "forme",
+          "garantit",
+          "la",
+          "vérité,",
+          "n’apporte",
+          "aucune",
+          "prémisse",
+          "nouvelle",
+          "à",
+          "l’argument."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-philosophy-c1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "kɔ̃.sɛpt",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "concept",
+          "l2": "concept",
+          "en": "concept",
+          "gloss": {
+            "en": "concept",
+            "es": "concepto",
+            "ru": "концепция"
+          },
+          "ipa": "kɔ̃.sɛpt"
+        },
+        {
+          "fr": "prémisse",
+          "l2": "prémisse",
+          "en": "premise",
+          "gloss": {
+            "en": "premise",
+            "es": "premisa",
+            "ru": "помещение"
+          },
+          "ipa": "pʁe.mis"
+        },
+        {
+          "fr": "paradoxe",
+          "l2": "paradoxe",
+          "en": "paradox",
+          "gloss": {
+            "en": "paradox",
+            "es": "paradoja",
+            "ru": "парадокс"
+          },
+          "ipa": "pa.ʁa.dɔks"
+        },
+        {
+          "fr": "éthique",
+          "l2": "éthique",
+          "en": "ethics",
+          "gloss": {
+            "en": "ethics",
+            "es": "ética",
+            "ru": "этика"
+          },
+          "ipa": "e.tik"
+        },
+        {
+          "fr": "métaphysique",
+          "l2": "métaphysique",
+          "en": "metaphysics",
+          "gloss": {
+            "en": "metaphysics",
+            "es": "metafísica",
+            "ru": "метафизика"
+          },
+          "ipa": "me.ta.fi.zik"
+        }
+      ]
+    }
+  ]
 }

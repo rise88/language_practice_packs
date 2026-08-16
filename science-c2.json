@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "science-c2",
-  "version": 4,
+  "version": 5,
   "level": "c2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "la communauté scientifique",
             "un auteur unique",
             "le lecteur"
-          ]
+          ],
+          "gloss": {
+            "en": "In “We respond less often”, we designate ___ .",
+            "es": "En \"Respondemos con menos frecuencia\", designamos ___ .",
+            "ru": "В «Отвечаем реже» обозначаем ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « la communauté scientifique ».",
+            "en": "Answer: “la communauté scientifique”.",
+            "es": "Respuesta: « la communauté scientifique ».",
+            "ru": "Ответ: « la communauté scientifique »."
+          }
         },
         {
           "id": "remote-science-gq-2",
@@ -537,7 +548,18 @@
             "passif",
             "se moyen",
             "impératif"
-          ]
+          ],
+          "gloss": {
+            "en": "« L’étude ne fut pas invalidée » est au ___ .",
+            "es": "“El estudio no fue invalidado” está en ___ .",
+            "ru": "«Исследование не было признано недействительным» находится в ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « passif ».",
+            "en": "Answer: “passif”.",
+            "es": "Respuesta: « passif ».",
+            "ru": "Ответ: « passif »."
+          }
         },
         {
           "id": "remote-science-gq-3",
@@ -547,13 +569,25 @@
             "le se moyen",
             "le passif périphrastique seulement",
             "l’impératif"
-          ]
+          ],
+          "gloss": {
+            "en": "“The hypothesis is rejected” illustrates ___ .",
+            "es": "“La hipótesis es rechazada” ilustra ___ .",
+            "ru": "« L’hypothèse se trouve rejetée » illustre ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « le se moyen ».",
+            "en": "Answer: “le se moyen”.",
+            "es": "Respuesta: « le se moyen ».",
+            "ru": "Ответ: « le se moyen »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: On, the passive, and se in scientific prose.",
         "es": "Útil cuando es necesario aplicar: On, la pasiva y se en prosa científica.",
-        "ru": "Полезно, когда нужно применить: На, пассив и се в научной прозе."
+        "ru": "Полезно, когда нужно применить: На, пассив и се в научной прозе.",
+        "fr": "Utile pour appliquer : On, le passif et le se dans le discours scientifique."
       }
     },
     {
@@ -606,7 +640,18 @@
             "ne",
             "pas",
             "n’en"
-          ]
+          ],
+          "gloss": {
+            "en": "On réplique moins souvent qu’on ___ le devrait.",
+            "es": "Respondemos con menos frecuencia de lo que ___ deberíamos.",
+            "ru": "Мы отвечаем реже, чем ___ следовало бы."
+          },
+          "why": {
+            "fr": "Réponse : « ne ».",
+            "en": "Answer: “ne”.",
+            "es": "Respuesta: « ne ».",
+            "ru": "Ответ: « ne »."
+          }
         },
         {
           "id": "remote-science-gq-5",
@@ -616,13 +661,25 @@
             "ne",
             "pas",
             "n’"
-          ]
+          ],
+          "gloss": {
+            "en": "Refutation is rarer than people say.",
+            "es": "La refutación es más rara de lo que la gente dice.",
+            "ru": "Опровержение встречается реже, чем говорят."
+          },
+          "why": {
+            "fr": "Réponse : « ne ».",
+            "en": "Answer: “ne”.",
+            "es": "Respuesta: « ne ».",
+            "ru": "Ответ: « ne »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Expletive ne in learned comparatives.",
         "es": "Útil cuando es necesario aplicar: Impropio ne en comparativos aprendidos.",
-        "ru": "Полезно, когда вам нужно применить: Нецензурное слово в изученных сравнительных сравнениях."
+        "ru": "Полезно, когда вам нужно применить: Нецензурное слово в изученных сравнительных сравнениях.",
+        "fr": "Utile pour appliquer : Le ne explétif dans les comparatives savantes."
       }
     }
   ],
@@ -865,6 +922,1086 @@
         },
         "l2": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-science-fren-1",
+        "fr": "incommensurabilité",
+        "en": "incommensurability",
+        "gloss": {
+          "en": "incommensurability",
+          "es": "inconmensurabilidad",
+          "ru": "несоизмеримость"
+        },
+        "l2": "incommensurabilité"
+      },
+      {
+        "id": "remote-science-fren-2",
+        "fr": "réplication",
+        "en": "replication",
+        "gloss": {
+          "en": "replication",
+          "es": "replicación",
+          "ru": "репликация"
+        },
+        "l2": "réplication"
+      },
+      {
+        "id": "remote-science-fren-3",
+        "fr": "modèle",
+        "en": "model",
+        "gloss": {
+          "en": "model",
+          "es": "modelo",
+          "ru": "модель"
+        },
+        "l2": "modèle"
+      },
+      {
+        "id": "remote-science-fren-4",
+        "fr": "incertitude",
+        "en": "uncertainty",
+        "gloss": {
+          "en": "uncertainty",
+          "es": "incertidumbre",
+          "ru": "неопределенность"
+        },
+        "l2": "incertitude"
+      },
+      {
+        "id": "remote-science-fren-5",
+        "fr": "consensus",
+        "en": "consensus",
+        "gloss": {
+          "en": "consensus",
+          "es": "consenso",
+          "ru": "консенсус"
+        },
+        "l2": "consensus"
+      },
+      {
+        "id": "remote-science-fren-6",
+        "fr": "reproductibilité",
+        "en": "reproducibility",
+        "gloss": {
+          "en": "reproducibility",
+          "es": "reproducibilidad",
+          "ru": "воспроизводимость"
+        },
+        "l2": "reproductibilité"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-science-c2-enl2-1",
+        "fr": "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "l2": "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "en": "incommensurability",
+        "gloss": {
+          "en": "incommensurability",
+          "es": "inconmensurabilidad",
+          "ru": "несоизмеримость"
+        },
+        "prompt": "incommensurability",
+        "choices": [
+          "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+          "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+          "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable."
+        ]
+      },
+      {
+        "id": "remote-science-c2-enl2-2",
+        "fr": "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+        "l2": "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+        "en": "replication",
+        "gloss": {
+          "en": "replication",
+          "es": "replicación",
+          "ru": "репликация"
+        },
+        "prompt": "replication",
+        "choices": [
+          "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+          "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+          "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable."
+        ]
+      },
+      {
+        "id": "remote-science-c2-enl2-3",
+        "fr": "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable.",
+        "l2": "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable.",
+        "en": "model",
+        "gloss": {
+          "en": "model",
+          "es": "modelo",
+          "ru": "модель"
+        },
+        "prompt": "model",
+        "choices": [
+          "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable.",
+          "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+          "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires."
+        ]
+      },
+      {
+        "id": "remote-science-c2-enl2-4",
+        "fr": "L’incertitude, loin d’être un aveu d’échec, est la forme quantitative de la prudence scientifique.",
+        "l2": "L’incertitude, loin d’être un aveu d’échec, est la forme quantitative de la prudence scientifique.",
+        "en": "uncertainty",
+        "gloss": {
+          "en": "uncertainty",
+          "es": "incertidumbre",
+          "ru": "неопределенность"
+        },
+        "prompt": "uncertainty",
+        "choices": [
+          "L’incertitude, loin d’être un aveu d’échec, est la forme quantitative de la prudence scientifique.",
+          "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+          "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires."
+        ]
+      },
+      {
+        "id": "remote-science-c2-enl2-5",
+        "fr": "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+        "l2": "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+        "en": "consensus",
+        "gloss": {
+          "en": "consensus",
+          "es": "consenso",
+          "ru": "консенсус"
+        },
+        "prompt": "consensus",
+        "choices": [
+          "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+          "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+          "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires."
+        ]
+      },
+      {
+        "id": "remote-science-c2-enl2-6",
+        "fr": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+        "l2": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+        "en": "reproducibility",
+        "gloss": {
+          "en": "reproducibility",
+          "es": "reproducibilidad",
+          "ru": "воспроизводимость"
+        },
+        "prompt": "reproducibility",
+        "choices": [
+          "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+          "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+          "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires."
+        ]
+      },
+      {
+        "id": "remote-science-c2-enl2-7",
+        "fr": "L’anomalie, d’abord absorbée par le paradigme, peut, en s’accumulant, en précipiter la crise.",
+        "l2": "L’anomalie, d’abord absorbée par le paradigme, peut, en s’accumulant, en précipiter la crise.",
+        "en": "anomaly",
+        "gloss": {
+          "en": "anomaly",
+          "es": "anomalía",
+          "ru": "аномалия"
+        },
+        "prompt": "anomaly",
+        "choices": [
+          "L’anomalie, d’abord absorbée par le paradigme, peut, en s’accumulant, en précipiter la crise.",
+          "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+          "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires."
+        ]
+      },
+      {
+        "id": "remote-science-c2-enl2-8",
+        "fr": "Le réductionnisme, s’il se fait ontologique, affirme que le tout n’est rien que la somme de ses parties.",
+        "l2": "Le réductionnisme, s’il se fait ontologique, affirme que le tout n’est rien que la somme de ses parties.",
+        "en": "reductionism",
+        "gloss": {
+          "en": "reductionism",
+          "es": "reduccionismo",
+          "ru": "редукционизм"
+        },
+        "prompt": "reductionism",
+        "choices": [
+          "Le réductionnisme, s’il se fait ontologique, affirme que le tout n’est rien que la somme de ses parties.",
+          "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+          "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-science-c2-prm-1",
+        "en": "incommensurability",
+        "gloss": {
+          "en": "incommensurability",
+          "es": "inconmensurabilidad",
+          "ru": "несоизмеримость"
+        },
+        "answers": [
+          "incommensurabilité",
+          "l' incommensurabilité"
+        ],
+        "target": "l' incommensurabilité"
+      },
+      {
+        "id": "remote-science-c2-prm-2",
+        "en": "replication",
+        "gloss": {
+          "en": "replication",
+          "es": "replicación",
+          "ru": "репликация"
+        },
+        "answers": [
+          "réplication",
+          "la réplication"
+        ],
+        "target": "la réplication"
+      },
+      {
+        "id": "remote-science-c2-prm-3",
+        "en": "model",
+        "gloss": {
+          "en": "model",
+          "es": "modelo",
+          "ru": "модель"
+        },
+        "answers": [
+          "modèle",
+          "le modèle"
+        ],
+        "target": "le modèle"
+      },
+      {
+        "id": "remote-science-c2-prm-4",
+        "en": "uncertainty",
+        "gloss": {
+          "en": "uncertainty",
+          "es": "incertidumbre",
+          "ru": "неопределенность"
+        },
+        "answers": [
+          "incertitude",
+          "l' incertitude"
+        ],
+        "target": "l' incertitude"
+      },
+      {
+        "id": "remote-science-c2-prm-5",
+        "en": "consensus",
+        "gloss": {
+          "en": "consensus",
+          "es": "consenso",
+          "ru": "консенсус"
+        },
+        "answers": [
+          "consensus",
+          "le consensus"
+        ],
+        "target": "le consensus"
+      },
+      {
+        "id": "remote-science-c2-prm-6",
+        "en": "reproducibility",
+        "gloss": {
+          "en": "reproducibility",
+          "es": "reproducibilidad",
+          "ru": "воспроизводимость"
+        },
+        "answers": [
+          "reproductibilité",
+          "la reproductibilité"
+        ],
+        "target": "la reproductibilité"
+      },
+      {
+        "id": "remote-science-c2-prm-7",
+        "en": "anomaly",
+        "gloss": {
+          "en": "anomaly",
+          "es": "anomalía",
+          "ru": "аномалия"
+        },
+        "answers": [
+          "anomalie",
+          "l' anomalie"
+        ],
+        "target": "l' anomalie"
+      },
+      {
+        "id": "remote-science-c2-prm-8",
+        "en": "reductionism",
+        "gloss": {
+          "en": "reductionism",
+          "es": "reduccionismo",
+          "ru": "редукционизм"
+        },
+        "answers": [
+          "réductionnisme",
+          "le réductionnisme"
+        ],
+        "target": "le réductionnisme"
+      },
+      {
+        "id": "remote-science-c2-prm-9",
+        "en": "emergence",
+        "gloss": {
+          "en": "emergence",
+          "es": "aparición",
+          "ru": "появление"
+        },
+        "answers": [
+          "émergence",
+          "l' émergence"
+        ],
+        "target": "l' émergence"
+      },
+      {
+        "id": "remote-science-c2-prm-10",
+        "en": "robustness",
+        "gloss": {
+          "en": "robustness",
+          "es": "robustez",
+          "ru": "надежность"
+        },
+        "answers": [
+          "robustesse",
+          "la robustesse"
+        ],
+        "target": "la robustesse"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-science-c2-sign-1",
+        "fr": "incommensurabilité",
+        "l2": "incommensurabilité",
+        "en": "incommensurability",
+        "gloss": {
+          "en": "incommensurability",
+          "es": "inconmensurabilidad",
+          "ru": "несоизмеримость"
+        },
+        "choices": [
+          "incommensurability",
+          "replication",
+          "model"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-2",
+        "fr": "réplication",
+        "l2": "réplication",
+        "en": "replication",
+        "gloss": {
+          "en": "replication",
+          "es": "replicación",
+          "ru": "репликация"
+        },
+        "choices": [
+          "replication",
+          "incommensurability",
+          "model"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-3",
+        "fr": "modèle",
+        "l2": "modèle",
+        "en": "model",
+        "gloss": {
+          "en": "model",
+          "es": "modelo",
+          "ru": "модель"
+        },
+        "choices": [
+          "model",
+          "incommensurability",
+          "replication"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-4",
+        "fr": "incertitude",
+        "l2": "incertitude",
+        "en": "uncertainty",
+        "gloss": {
+          "en": "uncertainty",
+          "es": "incertidumbre",
+          "ru": "неопределенность"
+        },
+        "choices": [
+          "uncertainty",
+          "incommensurability",
+          "replication"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-5",
+        "fr": "consensus",
+        "l2": "consensus",
+        "en": "consensus",
+        "gloss": {
+          "en": "consensus",
+          "es": "consenso",
+          "ru": "консенсус"
+        },
+        "choices": [
+          "consensus",
+          "incommensurability",
+          "replication"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-6",
+        "fr": "reproductibilité",
+        "l2": "reproductibilité",
+        "en": "reproducibility",
+        "gloss": {
+          "en": "reproducibility",
+          "es": "reproducibilidad",
+          "ru": "воспроизводимость"
+        },
+        "choices": [
+          "reproducibility",
+          "incommensurability",
+          "replication"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-7",
+        "fr": "anomalie",
+        "l2": "anomalie",
+        "en": "anomaly",
+        "gloss": {
+          "en": "anomaly",
+          "es": "anomalía",
+          "ru": "аномалия"
+        },
+        "choices": [
+          "anomaly",
+          "incommensurability",
+          "replication"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-8",
+        "fr": "réductionnisme",
+        "l2": "réductionnisme",
+        "en": "reductionism",
+        "gloss": {
+          "en": "reductionism",
+          "es": "reduccionismo",
+          "ru": "редукционизм"
+        },
+        "choices": [
+          "reductionism",
+          "incommensurability",
+          "replication"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-9",
+        "fr": "émergence",
+        "l2": "émergence",
+        "en": "emergence",
+        "gloss": {
+          "en": "emergence",
+          "es": "aparición",
+          "ru": "появление"
+        },
+        "choices": [
+          "emergence",
+          "incommensurability",
+          "replication"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-10",
+        "fr": "robustesse",
+        "l2": "robustesse",
+        "en": "robustness",
+        "gloss": {
+          "en": "robustness",
+          "es": "robustez",
+          "ru": "надежность"
+        },
+        "choices": [
+          "robustness",
+          "incommensurability",
+          "replication"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-11",
+        "fr": "biais",
+        "l2": "biais",
+        "en": "bias",
+        "gloss": {
+          "en": "bias",
+          "es": "inclinación",
+          "ru": "предвзятость"
+        },
+        "choices": [
+          "bias",
+          "incommensurability",
+          "replication"
+        ]
+      },
+      {
+        "id": "remote-science-c2-sign-12",
+        "fr": "méta-analyse",
+        "l2": "méta-analyse",
+        "en": "meta-analysis",
+        "gloss": {
+          "en": "meta-analysis",
+          "es": "metanálisis",
+          "ru": "метаанализ"
+        },
+        "choices": [
+          "meta-analysis",
+          "incommensurability",
+          "replication"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-science-c2-pair-1",
+        "a": {
+          "fr": "incommensurabilité",
+          "l2": "incommensurabilité",
+          "en": "incommensurability",
+          "gloss": {
+            "en": "incommensurability",
+            "es": "inconmensurabilidad",
+            "ru": "несоизмеримость"
+          }
+        },
+        "b": {
+          "fr": "réplication",
+          "l2": "réplication",
+          "en": "replication",
+          "gloss": {
+            "en": "replication",
+            "es": "replicación",
+            "ru": "репликация"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-science-c2-pair-2",
+        "a": {
+          "fr": "modèle",
+          "l2": "modèle",
+          "en": "model",
+          "gloss": {
+            "en": "model",
+            "es": "modelo",
+            "ru": "модель"
+          }
+        },
+        "b": {
+          "fr": "incertitude",
+          "l2": "incertitude",
+          "en": "uncertainty",
+          "gloss": {
+            "en": "uncertainty",
+            "es": "incertidumbre",
+            "ru": "неопределенность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-science-c2-pair-3",
+        "a": {
+          "fr": "consensus",
+          "l2": "consensus",
+          "en": "consensus",
+          "gloss": {
+            "en": "consensus",
+            "es": "consenso",
+            "ru": "консенсус"
+          }
+        },
+        "b": {
+          "fr": "reproductibilité",
+          "l2": "reproductibilité",
+          "en": "reproducibility",
+          "gloss": {
+            "en": "reproducibility",
+            "es": "reproducibilidad",
+            "ru": "воспроизводимость"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-science-c2-pair-4",
+        "a": {
+          "fr": "anomalie",
+          "l2": "anomalie",
+          "en": "anomaly",
+          "gloss": {
+            "en": "anomaly",
+            "es": "anomalía",
+            "ru": "аномалия"
+          }
+        },
+        "b": {
+          "fr": "réductionnisme",
+          "l2": "réductionnisme",
+          "en": "reductionism",
+          "gloss": {
+            "en": "reductionism",
+            "es": "reduccionismo",
+            "ru": "редукционизм"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-science-c2-pair-5",
+        "a": {
+          "fr": "émergence",
+          "l2": "émergence",
+          "en": "emergence",
+          "gloss": {
+            "en": "emergence",
+            "es": "aparición",
+            "ru": "появление"
+          }
+        },
+        "b": {
+          "fr": "robustesse",
+          "l2": "robustesse",
+          "en": "robustness",
+          "gloss": {
+            "en": "robustness",
+            "es": "robustez",
+            "ru": "надежность"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-science-c2-gap-1",
+        "fr": "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "l2": "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "speak": "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "blank": "incommensurabilité",
+        "en": "incommensurability",
+        "gloss": {
+          "en": "incommensurability",
+          "es": "inconmensurabilidad",
+          "ru": "несоизмеримость"
+        }
+      },
+      {
+        "id": "remote-science-c2-gap-2",
+        "fr": "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+        "l2": "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+        "speak": "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+        "blank": "réplication",
+        "en": "replication",
+        "gloss": {
+          "en": "replication",
+          "es": "replicación",
+          "ru": "репликация"
+        }
+      },
+      {
+        "id": "remote-science-c2-gap-3",
+        "fr": "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable.",
+        "l2": "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable.",
+        "speak": "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable.",
+        "blank": "modèle",
+        "en": "model",
+        "gloss": {
+          "en": "model",
+          "es": "modelo",
+          "ru": "модель"
+        }
+      },
+      {
+        "id": "remote-science-c2-gap-4",
+        "fr": "L’incertitude, loin d’être un aveu d’échec, est la forme quantitative de la prudence scientifique.",
+        "l2": "L’incertitude, loin d’être un aveu d’échec, est la forme quantitative de la prudence scientifique.",
+        "speak": "L’incertitude, loin d’être un aveu d’échec, est la forme quantitative de la prudence scientifique.",
+        "blank": "incertitude",
+        "en": "uncertainty",
+        "gloss": {
+          "en": "uncertainty",
+          "es": "incertidumbre",
+          "ru": "неопределенность"
+        }
+      },
+      {
+        "id": "remote-science-c2-gap-5",
+        "fr": "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+        "l2": "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+        "speak": "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+        "blank": "consensus",
+        "en": "consensus",
+        "gloss": {
+          "en": "consensus",
+          "es": "consenso",
+          "ru": "консенсус"
+        }
+      },
+      {
+        "id": "remote-science-c2-gap-6",
+        "fr": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+        "l2": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+        "speak": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+        "blank": "reproductibilité",
+        "en": "reproducibility",
+        "gloss": {
+          "en": "reproducibility",
+          "es": "reproducibilidad",
+          "ru": "воспроизводимость"
+        }
+      },
+      {
+        "id": "remote-science-c2-gap-7",
+        "fr": "L’anomalie, d’abord absorbée par le paradigme, peut, en s’accumulant, en précipiter la crise.",
+        "l2": "L’anomalie, d’abord absorbée par le paradigme, peut, en s’accumulant, en précipiter la crise.",
+        "speak": "L’anomalie, d’abord absorbée par le paradigme, peut, en s’accumulant, en précipiter la crise.",
+        "blank": "anomalie",
+        "en": "anomaly",
+        "gloss": {
+          "en": "anomaly",
+          "es": "anomalía",
+          "ru": "аномалия"
+        }
+      },
+      {
+        "id": "remote-science-c2-gap-8",
+        "fr": "Le réductionnisme, s’il se fait ontologique, affirme que le tout n’est rien que la somme de ses parties.",
+        "l2": "Le réductionnisme, s’il se fait ontologique, affirme que le tout n’est rien que la somme de ses parties.",
+        "speak": "Le réductionnisme, s’il se fait ontologique, affirme que le tout n’est rien que la somme de ses parties.",
+        "blank": "réductionnisme",
+        "en": "reductionism",
+        "gloss": {
+          "en": "reductionism",
+          "es": "reduccionismo",
+          "ru": "редукционизм"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-science-c2-ord-1",
+        "fr": "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "l2": "L’incommensurabilité, chez Kuhn, veut que deux paradigmes n’aient pas de mesure commune pour trancher.",
+        "en": "incommensurability",
+        "gloss": {
+          "en": "incommensurability",
+          "es": "inconmensurabilidad",
+          "ru": "несоизмеримость"
+        },
+        "words": [
+          "L’incommensurabilité,",
+          "chez",
+          "Kuhn,",
+          "veut",
+          "que",
+          "deux",
+          "paradigmes",
+          "n’aient",
+          "pas",
+          "de",
+          "mesure",
+          "commune",
+          "pour",
+          "trancher."
+        ]
+      },
+      {
+        "id": "remote-science-c2-ord-2",
+        "fr": "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+        "l2": "La réplication, lorsqu’elle échoue, n’invalide pas d’emblée : elle ouvre le dossier des conditions auxiliaires.",
+        "en": "replication",
+        "gloss": {
+          "en": "replication",
+          "es": "replicación",
+          "ru": "репликация"
+        },
+        "words": [
+          "La",
+          "réplication,",
+          "lorsqu’elle",
+          "échoue,",
+          "n’invalide",
+          "pas",
+          "d’emblée",
+          ":",
+          "elle",
+          "ouvre",
+          "le",
+          "dossier",
+          "des",
+          "conditions",
+          "auxiliaires."
+        ]
+      },
+      {
+        "id": "remote-science-c2-ord-3",
+        "fr": "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable.",
+        "l2": "Le modèle n’est pas le monde : c’est une médiation, volontairement appauvrie, qui rend le réel calculable.",
+        "en": "model",
+        "gloss": {
+          "en": "model",
+          "es": "modelo",
+          "ru": "модель"
+        },
+        "words": [
+          "Le",
+          "modèle",
+          "n’est",
+          "pas",
+          "le",
+          "monde",
+          ":",
+          "c’est",
+          "une",
+          "médiation,",
+          "volontairement",
+          "appauvrie,",
+          "qui",
+          "rend",
+          "le",
+          "réel",
+          "calculable."
+        ]
+      },
+      {
+        "id": "remote-science-c2-ord-4",
+        "fr": "L’incertitude, loin d’être un aveu d’échec, est la forme quantitative de la prudence scientifique.",
+        "l2": "L’incertitude, loin d’être un aveu d’échec, est la forme quantitative de la prudence scientifique.",
+        "en": "uncertainty",
+        "gloss": {
+          "en": "uncertainty",
+          "es": "incertidumbre",
+          "ru": "неопределенность"
+        },
+        "words": [
+          "L’incertitude,",
+          "loin",
+          "d’être",
+          "un",
+          "aveu",
+          "d’échec,",
+          "est",
+          "la",
+          "forme",
+          "quantitative",
+          "de",
+          "la",
+          "prudence",
+          "scientifique."
+        ]
+      },
+      {
+        "id": "remote-science-c2-ord-5",
+        "fr": "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+        "l2": "Le consensus n’est pas l’unanimité : c’est l’accord provisoire d’une communauté sur ce qui résiste encore à la réfutation.",
+        "en": "consensus",
+        "gloss": {
+          "en": "consensus",
+          "es": "consenso",
+          "ru": "консенсус"
+        },
+        "words": [
+          "Le",
+          "consensus",
+          "n’est",
+          "pas",
+          "l’unanimité",
+          ":",
+          "c’est",
+          "l’accord",
+          "provisoire",
+          "d’une",
+          "communauté",
+          "sur",
+          "ce",
+          "qui",
+          "résiste",
+          "encore",
+          "à",
+          "la",
+          "réfutation."
+        ]
+      },
+      {
+        "id": "remote-science-c2-ord-6",
+        "fr": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+        "l2": "La reproductibilité exige que d’autres, avec les mêmes protocoles, obtiennent des résultats convergents.",
+        "en": "reproducibility",
+        "gloss": {
+          "en": "reproducibility",
+          "es": "reproducibilidad",
+          "ru": "воспроизводимость"
+        },
+        "words": [
+          "La",
+          "reproductibilité",
+          "exige",
+          "que",
+          "d’autres,",
+          "avec",
+          "les",
+          "mêmes",
+          "protocoles,",
+          "obtiennent",
+          "des",
+          "résultats",
+          "convergents."
+        ]
+      },
+      {
+        "id": "remote-science-c2-ord-7",
+        "fr": "L’anomalie, d’abord absorbée par le paradigme, peut, en s’accumulant, en précipiter la crise.",
+        "l2": "L’anomalie, d’abord absorbée par le paradigme, peut, en s’accumulant, en précipiter la crise.",
+        "en": "anomaly",
+        "gloss": {
+          "en": "anomaly",
+          "es": "anomalía",
+          "ru": "аномалия"
+        },
+        "words": [
+          "L’anomalie,",
+          "d’abord",
+          "absorbée",
+          "par",
+          "le",
+          "paradigme,",
+          "peut,",
+          "en",
+          "s’accumulant,",
+          "en",
+          "précipiter",
+          "la",
+          "crise."
+        ]
+      },
+      {
+        "id": "remote-science-c2-ord-8",
+        "fr": "Le réductionnisme, s’il se fait ontologique, affirme que le tout n’est rien que la somme de ses parties.",
+        "l2": "Le réductionnisme, s’il se fait ontologique, affirme que le tout n’est rien que la somme de ses parties.",
+        "en": "reductionism",
+        "gloss": {
+          "en": "reductionism",
+          "es": "reduccionismo",
+          "ru": "редукционизм"
+        },
+        "words": [
+          "Le",
+          "réductionnisme,",
+          "s’il",
+          "se",
+          "fait",
+          "ontologique,",
+          "affirme",
+          "que",
+          "le",
+          "tout",
+          "n’est",
+          "rien",
+          "que",
+          "la",
+          "somme",
+          "de",
+          "ses",
+          "parties."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-science-c2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ɛ̃.kɔ.mɑ̃.sy.ʁa.bi.li.te",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "incommensurabilité",
+          "l2": "incommensurabilité",
+          "en": "incommensurability",
+          "gloss": {
+            "en": "incommensurability",
+            "es": "inconmensurabilidad",
+            "ru": "несоизмеримость"
+          },
+          "ipa": "ɛ̃.kɔ.mɑ̃.sy.ʁa.bi.li.te"
+        },
+        {
+          "fr": "réplication",
+          "l2": "réplication",
+          "en": "replication",
+          "gloss": {
+            "en": "replication",
+            "es": "replicación",
+            "ru": "репликация"
+          },
+          "ipa": "ʁe.pli.ka.sjɔ̃"
+        },
+        {
+          "fr": "modèle",
+          "l2": "modèle",
+          "en": "model",
+          "gloss": {
+            "en": "model",
+            "es": "modelo",
+            "ru": "модель"
+          },
+          "ipa": "mɔ.dɛl"
+        },
+        {
+          "fr": "incertitude",
+          "l2": "incertitude",
+          "en": "uncertainty",
+          "gloss": {
+            "en": "uncertainty",
+            "es": "incertidumbre",
+            "ru": "неопределенность"
+          },
+          "ipa": "ɛ̃.sɛʁ.ti.tyd"
+        },
+        {
+          "fr": "consensus",
+          "l2": "consensus",
+          "en": "consensus",
+          "gloss": {
+            "en": "consensus",
+            "es": "consenso",
+            "ru": "консенсус"
+          },
+          "ipa": "kɔ̃.sɛ̃.sys"
+        }
+      ]
+    }
+  ]
 }

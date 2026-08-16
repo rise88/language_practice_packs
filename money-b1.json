@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "money-b1",
-  "version": 4,
+  "version": 5,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "paie",
             "payeais",
             "payer"
-          ]
+          ],
+          "gloss": {
+            "en": "I need to ___ this bill.",
+            "es": "Necesito ___ esta factura.",
+            "ru": "Мне нужно ___ этот счет."
+          },
+          "why": {
+            "fr": "Réponse : « paie ».",
+            "en": "Answer: “paie”.",
+            "es": "Respuesta: « paie ».",
+            "ru": "Ответ: « paie »."
+          }
         },
         {
           "id": "remote-money-gq-2",
@@ -537,7 +548,18 @@
             "fais",
             "fasses",
             "feras"
-          ]
+          ],
+          "gloss": {
+            "en": "You need to ___ a transfer.",
+            "es": "Necesitas ___ una transferencia.",
+            "ru": "Вам нужен ___ перевод."
+          },
+          "why": {
+            "fr": "Réponse : « fasses ».",
+            "en": "Answer: “fasses”.",
+            "es": "Respuesta: « fasses ».",
+            "ru": "Ответ: « fasses »."
+          }
         },
         {
           "id": "remote-money-gq-3",
@@ -547,13 +569,25 @@
             "mettons",
             "mettions",
             "mettre"
-          ]
+          ],
+          "gloss": {
+            "en": "We need to ___ some money aside.",
+            "es": "Necesitamos ___ ahorrar algo de dinero.",
+            "ru": "Нам нужно ___ отложить немного денег."
+          },
+          "why": {
+            "fr": "Réponse : « mettions ».",
+            "en": "Answer: “mettions”.",
+            "es": "Respuesta: « mettions ».",
+            "ru": "Ответ: « mettions »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Il faut que + subjunctive.",
         "es": "Útil cuando necesitas aplicar: Il faut que + subjuntivo.",
-        "ru": "Полезно, когда нужно применить: Il faut que + сослагательное наклонение."
+        "ru": "Полезно, когда нужно применить: Il faut que + сослагательное наклонение.",
+        "fr": "Utile pour appliquer : Il faut que + subjonctif."
       }
     },
     {
@@ -606,7 +640,18 @@
             "de",
             "d’",
             "du"
-          ]
+          ],
+          "gloss": {
+            "en": "I don't have enough ___ money.",
+            "es": "No tengo suficiente ___ dinero.",
+            "ru": "Мне не хватает ___ денег."
+          },
+          "why": {
+            "fr": "Réponse : « d’ ».",
+            "en": "Answer: “d’”.",
+            "es": "Respuesta: « d’ ».",
+            "ru": "Ответ: « d’ »."
+          }
         },
         {
           "id": "remote-money-gq-5",
@@ -616,13 +661,25 @@
             "de",
             "des",
             "du"
-          ]
+          ],
+          "gloss": {
+            "en": "He has too much ___ debt.",
+            "es": "Tiene demasiadas ___ deudas.",
+            "ru": "У него слишком много ___ долгов."
+          },
+          "why": {
+            "fr": "Réponse : « de ».",
+            "en": "Answer: “de”.",
+            "es": "Respuesta: « de ».",
+            "ru": "Ответ: « de »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Quantities of money.",
         "es": "Útil cuando necesitas aplicar: Cantidades de dinero.",
-        "ru": "Полезно, когда вам нужно подать заявку: Количество денег."
+        "ru": "Полезно, когда вам нужно подать заявку: Количество денег.",
+        "fr": "Utile pour appliquer : Assez de / trop de / peu de."
       }
     }
   ],
@@ -849,6 +906,1012 @@
         },
         "l2": "Est-ce que vous acceptez les espèces ?"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-money-fren-1",
+        "fr": "argent",
+        "en": "money",
+        "gloss": {
+          "en": "money",
+          "es": "dinero",
+          "ru": "деньги"
+        },
+        "l2": "argent"
+      },
+      {
+        "id": "remote-money-fren-2",
+        "fr": "budget",
+        "en": "budget",
+        "gloss": {
+          "en": "budget",
+          "es": "presupuesto",
+          "ru": "бюджет"
+        },
+        "l2": "budget"
+      },
+      {
+        "id": "remote-money-fren-3",
+        "fr": "compte",
+        "en": "account",
+        "gloss": {
+          "en": "account",
+          "es": "cuenta",
+          "ru": "счет"
+        },
+        "l2": "compte"
+      },
+      {
+        "id": "remote-money-fren-4",
+        "fr": "virement",
+        "en": "transfer",
+        "gloss": {
+          "en": "transfer",
+          "es": "transferir",
+          "ru": "передача"
+        },
+        "l2": "virement"
+      },
+      {
+        "id": "remote-money-fren-5",
+        "fr": "découvert",
+        "en": "overdraft",
+        "gloss": {
+          "en": "overdraft",
+          "es": "sobregiro",
+          "ru": "овердрафт"
+        },
+        "l2": "découvert"
+      },
+      {
+        "id": "remote-money-fren-6",
+        "fr": "épargne",
+        "en": "savings",
+        "gloss": {
+          "en": "savings",
+          "es": "ahorros",
+          "ru": "сбережения"
+        },
+        "l2": "épargne"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-money-b1-enl2-1",
+        "fr": "Je n’ai pas assez d’argent ce mois-ci.",
+        "l2": "Je n’ai pas assez d’argent ce mois-ci.",
+        "en": "money",
+        "gloss": {
+          "en": "money",
+          "es": "dinero",
+          "ru": "деньги"
+        },
+        "prompt": "money",
+        "choices": [
+          "Je n’ai pas assez d’argent ce mois-ci.",
+          "Mon budget alimentaire a augmenté.",
+          "Je consulte mon compte en ligne."
+        ]
+      },
+      {
+        "id": "remote-money-b1-enl2-2",
+        "fr": "Mon budget alimentaire a augmenté.",
+        "l2": "Mon budget alimentaire a augmenté.",
+        "en": "budget",
+        "gloss": {
+          "en": "budget",
+          "es": "presupuesto",
+          "ru": "бюджет"
+        },
+        "prompt": "budget",
+        "choices": [
+          "Mon budget alimentaire a augmenté.",
+          "Je n’ai pas assez d’argent ce mois-ci.",
+          "Je consulte mon compte en ligne."
+        ]
+      },
+      {
+        "id": "remote-money-b1-enl2-3",
+        "fr": "Je consulte mon compte en ligne.",
+        "l2": "Je consulte mon compte en ligne.",
+        "en": "account",
+        "gloss": {
+          "en": "account",
+          "es": "cuenta",
+          "ru": "счет"
+        },
+        "prompt": "account",
+        "choices": [
+          "Je consulte mon compte en ligne.",
+          "Je n’ai pas assez d’argent ce mois-ci.",
+          "Mon budget alimentaire a augmenté."
+        ]
+      },
+      {
+        "id": "remote-money-b1-enl2-4",
+        "fr": "J’ai fait un virement hier.",
+        "l2": "J’ai fait un virement hier.",
+        "en": "transfer",
+        "gloss": {
+          "en": "transfer",
+          "es": "transferir",
+          "ru": "передача"
+        },
+        "prompt": "transfer",
+        "choices": [
+          "J’ai fait un virement hier.",
+          "Je n’ai pas assez d’argent ce mois-ci.",
+          "Mon budget alimentaire a augmenté."
+        ]
+      },
+      {
+        "id": "remote-money-b1-enl2-5",
+        "fr": "Le découvert est autorisé jusqu’à 200 euros.",
+        "l2": "Le découvert est autorisé jusqu’à 200 euros.",
+        "en": "overdraft",
+        "gloss": {
+          "en": "overdraft",
+          "es": "sobregiro",
+          "ru": "овердрафт"
+        },
+        "prompt": "overdraft",
+        "choices": [
+          "Le découvert est autorisé jusqu’à 200 euros.",
+          "Je n’ai pas assez d’argent ce mois-ci.",
+          "Mon budget alimentaire a augmenté."
+        ]
+      },
+      {
+        "id": "remote-money-b1-enl2-6",
+        "fr": "Je mets un peu d’épargne chaque mois.",
+        "l2": "Je mets un peu d’épargne chaque mois.",
+        "en": "savings",
+        "gloss": {
+          "en": "savings",
+          "es": "ahorros",
+          "ru": "сбережения"
+        },
+        "prompt": "savings",
+        "choices": [
+          "Je mets un peu d’épargne chaque mois.",
+          "Je n’ai pas assez d’argent ce mois-ci.",
+          "Mon budget alimentaire a augmenté."
+        ]
+      },
+      {
+        "id": "remote-money-b1-enl2-7",
+        "fr": "Le crédit immobilier dure vingt ans.",
+        "l2": "Le crédit immobilier dure vingt ans.",
+        "en": "credit / loan",
+        "gloss": {
+          "en": "credit / loan",
+          "es": "crédito/préstamo",
+          "ru": "кредит / заем"
+        },
+        "prompt": "credit / loan",
+        "choices": [
+          "Le crédit immobilier dure vingt ans.",
+          "Je n’ai pas assez d’argent ce mois-ci.",
+          "Mon budget alimentaire a augmenté."
+        ]
+      },
+      {
+        "id": "remote-money-b1-enl2-8",
+        "fr": "Les intérêts du prêt sont élevés.",
+        "l2": "Les intérêts du prêt sont élevés.",
+        "en": "interest (finance)",
+        "gloss": {
+          "en": "interest (finance)",
+          "es": "interés (finanzas)",
+          "ru": "проценты (финансы)"
+        },
+        "prompt": "interest (finance)",
+        "choices": [
+          "Les intérêts du prêt sont élevés.",
+          "Je n’ai pas assez d’argent ce mois-ci.",
+          "Mon budget alimentaire a augmenté."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-money-b1-prm-1",
+        "en": "money",
+        "gloss": {
+          "en": "money",
+          "es": "dinero",
+          "ru": "деньги"
+        },
+        "answers": [
+          "argent",
+          "l' argent"
+        ],
+        "target": "l' argent"
+      },
+      {
+        "id": "remote-money-b1-prm-2",
+        "en": "budget",
+        "gloss": {
+          "en": "budget",
+          "es": "presupuesto",
+          "ru": "бюджет"
+        },
+        "answers": [
+          "budget",
+          "le budget"
+        ],
+        "target": "le budget"
+      },
+      {
+        "id": "remote-money-b1-prm-3",
+        "en": "account",
+        "gloss": {
+          "en": "account",
+          "es": "cuenta",
+          "ru": "счет"
+        },
+        "answers": [
+          "compte",
+          "le compte"
+        ],
+        "target": "le compte"
+      },
+      {
+        "id": "remote-money-b1-prm-4",
+        "en": "transfer",
+        "gloss": {
+          "en": "transfer",
+          "es": "transferir",
+          "ru": "передача"
+        },
+        "answers": [
+          "virement",
+          "le virement"
+        ],
+        "target": "le virement"
+      },
+      {
+        "id": "remote-money-b1-prm-5",
+        "en": "overdraft",
+        "gloss": {
+          "en": "overdraft",
+          "es": "sobregiro",
+          "ru": "овердрафт"
+        },
+        "answers": [
+          "découvert",
+          "le découvert"
+        ],
+        "target": "le découvert"
+      },
+      {
+        "id": "remote-money-b1-prm-6",
+        "en": "savings",
+        "gloss": {
+          "en": "savings",
+          "es": "ahorros",
+          "ru": "сбережения"
+        },
+        "answers": [
+          "épargne",
+          "l' épargne"
+        ],
+        "target": "l' épargne"
+      },
+      {
+        "id": "remote-money-b1-prm-7",
+        "en": "credit / loan",
+        "gloss": {
+          "en": "credit / loan",
+          "es": "crédito/préstamo",
+          "ru": "кредит / заем"
+        },
+        "answers": [
+          "crédit",
+          "le crédit"
+        ],
+        "target": "le crédit"
+      },
+      {
+        "id": "remote-money-b1-prm-8",
+        "en": "interest (finance)",
+        "gloss": {
+          "en": "interest (finance)",
+          "es": "interés (finanzas)",
+          "ru": "проценты (финансы)"
+        },
+        "answers": [
+          "intérêt",
+          "l' intérêt"
+        ],
+        "target": "l' intérêt"
+      },
+      {
+        "id": "remote-money-b1-prm-9",
+        "en": "bill / invoice",
+        "gloss": {
+          "en": "bill / invoice",
+          "es": "factura / factura",
+          "ru": "счет / счет-фактура"
+        },
+        "answers": [
+          "facture",
+          "la facture"
+        ],
+        "target": "la facture"
+      },
+      {
+        "id": "remote-money-b1-prm-10",
+        "en": "receipt",
+        "gloss": {
+          "en": "receipt",
+          "es": "recibo",
+          "ru": "квитанция"
+        },
+        "answers": [
+          "reçu",
+          "le reçu"
+        ],
+        "target": "le reçu"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-money-b1-sign-1",
+        "fr": "argent",
+        "l2": "argent",
+        "en": "money",
+        "gloss": {
+          "en": "money",
+          "es": "dinero",
+          "ru": "деньги"
+        },
+        "choices": [
+          "money",
+          "budget",
+          "account"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-2",
+        "fr": "budget",
+        "l2": "budget",
+        "en": "budget",
+        "gloss": {
+          "en": "budget",
+          "es": "presupuesto",
+          "ru": "бюджет"
+        },
+        "choices": [
+          "budget",
+          "money",
+          "account"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-3",
+        "fr": "compte",
+        "l2": "compte",
+        "en": "account",
+        "gloss": {
+          "en": "account",
+          "es": "cuenta",
+          "ru": "счет"
+        },
+        "choices": [
+          "account",
+          "money",
+          "budget"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-4",
+        "fr": "virement",
+        "l2": "virement",
+        "en": "transfer",
+        "gloss": {
+          "en": "transfer",
+          "es": "transferir",
+          "ru": "передача"
+        },
+        "choices": [
+          "transfer",
+          "money",
+          "budget"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-5",
+        "fr": "découvert",
+        "l2": "découvert",
+        "en": "overdraft",
+        "gloss": {
+          "en": "overdraft",
+          "es": "sobregiro",
+          "ru": "овердрафт"
+        },
+        "choices": [
+          "overdraft",
+          "money",
+          "budget"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-6",
+        "fr": "épargne",
+        "l2": "épargne",
+        "en": "savings",
+        "gloss": {
+          "en": "savings",
+          "es": "ahorros",
+          "ru": "сбережения"
+        },
+        "choices": [
+          "savings",
+          "money",
+          "budget"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-7",
+        "fr": "crédit",
+        "l2": "crédit",
+        "en": "credit / loan",
+        "gloss": {
+          "en": "credit / loan",
+          "es": "crédito/préstamo",
+          "ru": "кредит / заем"
+        },
+        "choices": [
+          "credit / loan",
+          "money",
+          "budget"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-8",
+        "fr": "intérêt",
+        "l2": "intérêt",
+        "en": "interest (finance)",
+        "gloss": {
+          "en": "interest (finance)",
+          "es": "interés (finanzas)",
+          "ru": "проценты (финансы)"
+        },
+        "choices": [
+          "interest (finance)",
+          "money",
+          "budget"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-9",
+        "fr": "facture",
+        "l2": "facture",
+        "en": "bill / invoice",
+        "gloss": {
+          "en": "bill / invoice",
+          "es": "factura / factura",
+          "ru": "счет / счет-фактура"
+        },
+        "choices": [
+          "bill / invoice",
+          "money",
+          "budget"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-10",
+        "fr": "reçu",
+        "l2": "reçu",
+        "en": "receipt",
+        "gloss": {
+          "en": "receipt",
+          "es": "recibo",
+          "ru": "квитанция"
+        },
+        "choices": [
+          "receipt",
+          "money",
+          "budget"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-11",
+        "fr": "espèces",
+        "l2": "espèces",
+        "en": "cash",
+        "gloss": {
+          "en": "cash",
+          "es": "dinero",
+          "ru": "наличные"
+        },
+        "choices": [
+          "cash",
+          "money",
+          "budget"
+        ]
+      },
+      {
+        "id": "remote-money-b1-sign-12",
+        "fr": "carte bancaire",
+        "l2": "carte bancaire",
+        "en": "bank card",
+        "gloss": {
+          "en": "bank card",
+          "es": "tarjeta bancaria",
+          "ru": "банковская карта"
+        },
+        "choices": [
+          "bank card",
+          "money",
+          "budget"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-money-b1-pair-1",
+        "a": {
+          "fr": "argent",
+          "l2": "argent",
+          "en": "money",
+          "gloss": {
+            "en": "money",
+            "es": "dinero",
+            "ru": "деньги"
+          }
+        },
+        "b": {
+          "fr": "budget",
+          "l2": "budget",
+          "en": "budget",
+          "gloss": {
+            "en": "budget",
+            "es": "presupuesto",
+            "ru": "бюджет"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-money-b1-pair-2",
+        "a": {
+          "fr": "compte",
+          "l2": "compte",
+          "en": "account",
+          "gloss": {
+            "en": "account",
+            "es": "cuenta",
+            "ru": "счет"
+          }
+        },
+        "b": {
+          "fr": "virement",
+          "l2": "virement",
+          "en": "transfer",
+          "gloss": {
+            "en": "transfer",
+            "es": "transferir",
+            "ru": "передача"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-money-b1-pair-3",
+        "a": {
+          "fr": "découvert",
+          "l2": "découvert",
+          "en": "overdraft",
+          "gloss": {
+            "en": "overdraft",
+            "es": "sobregiro",
+            "ru": "овердрафт"
+          }
+        },
+        "b": {
+          "fr": "épargne",
+          "l2": "épargne",
+          "en": "savings",
+          "gloss": {
+            "en": "savings",
+            "es": "ahorros",
+            "ru": "сбережения"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-money-b1-pair-4",
+        "a": {
+          "fr": "crédit",
+          "l2": "crédit",
+          "en": "credit / loan",
+          "gloss": {
+            "en": "credit / loan",
+            "es": "crédito/préstamo",
+            "ru": "кредит / заем"
+          }
+        },
+        "b": {
+          "fr": "intérêt",
+          "l2": "intérêt",
+          "en": "interest (finance)",
+          "gloss": {
+            "en": "interest (finance)",
+            "es": "interés (finanzas)",
+            "ru": "проценты (финансы)"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-money-b1-pair-5",
+        "a": {
+          "fr": "facture",
+          "l2": "facture",
+          "en": "bill / invoice",
+          "gloss": {
+            "en": "bill / invoice",
+            "es": "factura / factura",
+            "ru": "счет / счет-фактура"
+          }
+        },
+        "b": {
+          "fr": "reçu",
+          "l2": "reçu",
+          "en": "receipt",
+          "gloss": {
+            "en": "receipt",
+            "es": "recibo",
+            "ru": "квитанция"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-money-b1-gap-1",
+        "fr": "Je n’ai pas assez d’argent ce mois-ci.",
+        "l2": "Je n’ai pas assez d’argent ce mois-ci.",
+        "speak": "Je n’ai pas assez d’argent ce mois-ci.",
+        "blank": "argent",
+        "en": "money",
+        "gloss": {
+          "en": "money",
+          "es": "dinero",
+          "ru": "деньги"
+        }
+      },
+      {
+        "id": "remote-money-b1-gap-2",
+        "fr": "Mon budget alimentaire a augmenté.",
+        "l2": "Mon budget alimentaire a augmenté.",
+        "speak": "Mon budget alimentaire a augmenté.",
+        "blank": "budget",
+        "en": "budget",
+        "gloss": {
+          "en": "budget",
+          "es": "presupuesto",
+          "ru": "бюджет"
+        }
+      },
+      {
+        "id": "remote-money-b1-gap-3",
+        "fr": "Je consulte mon compte en ligne.",
+        "l2": "Je consulte mon compte en ligne.",
+        "speak": "Je consulte mon compte en ligne.",
+        "blank": "compte",
+        "en": "account",
+        "gloss": {
+          "en": "account",
+          "es": "cuenta",
+          "ru": "счет"
+        }
+      },
+      {
+        "id": "remote-money-b1-gap-4",
+        "fr": "J’ai fait un virement hier.",
+        "l2": "J’ai fait un virement hier.",
+        "speak": "J’ai fait un virement hier.",
+        "blank": "virement",
+        "en": "transfer",
+        "gloss": {
+          "en": "transfer",
+          "es": "transferir",
+          "ru": "передача"
+        }
+      },
+      {
+        "id": "remote-money-b1-gap-5",
+        "fr": "Le découvert est autorisé jusqu’à 200 euros.",
+        "l2": "Le découvert est autorisé jusqu’à 200 euros.",
+        "speak": "Le découvert est autorisé jusqu’à 200 euros.",
+        "blank": "découvert",
+        "en": "overdraft",
+        "gloss": {
+          "en": "overdraft",
+          "es": "sobregiro",
+          "ru": "овердрафт"
+        }
+      },
+      {
+        "id": "remote-money-b1-gap-6",
+        "fr": "Je mets un peu d’épargne chaque mois.",
+        "l2": "Je mets un peu d’épargne chaque mois.",
+        "speak": "Je mets un peu d’épargne chaque mois.",
+        "blank": "épargne",
+        "en": "savings",
+        "gloss": {
+          "en": "savings",
+          "es": "ahorros",
+          "ru": "сбережения"
+        }
+      },
+      {
+        "id": "remote-money-b1-gap-7",
+        "fr": "Le crédit immobilier dure vingt ans.",
+        "l2": "Le crédit immobilier dure vingt ans.",
+        "speak": "Le crédit immobilier dure vingt ans.",
+        "blank": "crédit",
+        "en": "credit / loan",
+        "gloss": {
+          "en": "credit / loan",
+          "es": "crédito/préstamo",
+          "ru": "кредит / заем"
+        }
+      },
+      {
+        "id": "remote-money-b1-gap-8",
+        "fr": "Les intérêts du prêt sont élevés.",
+        "l2": "Les intérêts du prêt sont élevés.",
+        "speak": "Les intérêts du prêt sont élevés.",
+        "blank": "intérêt",
+        "en": "interest (finance)",
+        "gloss": {
+          "en": "interest (finance)",
+          "es": "interés (finanzas)",
+          "ru": "проценты (финансы)"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-money-b1-ord-1",
+        "fr": "Je n’ai pas assez d’argent ce mois-ci.",
+        "l2": "Je n’ai pas assez d’argent ce mois-ci.",
+        "en": "money",
+        "gloss": {
+          "en": "money",
+          "es": "dinero",
+          "ru": "деньги"
+        },
+        "words": [
+          "Je",
+          "n’ai",
+          "pas",
+          "assez",
+          "d’argent",
+          "ce",
+          "mois-ci."
+        ]
+      },
+      {
+        "id": "remote-money-b1-ord-2",
+        "fr": "Mon budget alimentaire a augmenté.",
+        "l2": "Mon budget alimentaire a augmenté.",
+        "en": "budget",
+        "gloss": {
+          "en": "budget",
+          "es": "presupuesto",
+          "ru": "бюджет"
+        },
+        "words": [
+          "Mon",
+          "budget",
+          "alimentaire",
+          "a",
+          "augmenté."
+        ]
+      },
+      {
+        "id": "remote-money-b1-ord-3",
+        "fr": "Je consulte mon compte en ligne.",
+        "l2": "Je consulte mon compte en ligne.",
+        "en": "account",
+        "gloss": {
+          "en": "account",
+          "es": "cuenta",
+          "ru": "счет"
+        },
+        "words": [
+          "Je",
+          "consulte",
+          "mon",
+          "compte",
+          "en",
+          "ligne."
+        ]
+      },
+      {
+        "id": "remote-money-b1-ord-4",
+        "fr": "J’ai fait un virement hier.",
+        "l2": "J’ai fait un virement hier.",
+        "en": "transfer",
+        "gloss": {
+          "en": "transfer",
+          "es": "transferir",
+          "ru": "передача"
+        },
+        "words": [
+          "J’ai",
+          "fait",
+          "un",
+          "virement",
+          "hier."
+        ]
+      },
+      {
+        "id": "remote-money-b1-ord-5",
+        "fr": "Le découvert est autorisé jusqu’à 200 euros.",
+        "l2": "Le découvert est autorisé jusqu’à 200 euros.",
+        "en": "overdraft",
+        "gloss": {
+          "en": "overdraft",
+          "es": "sobregiro",
+          "ru": "овердрафт"
+        },
+        "words": [
+          "Le",
+          "découvert",
+          "est",
+          "autorisé",
+          "jusqu’à",
+          "200",
+          "euros."
+        ]
+      },
+      {
+        "id": "remote-money-b1-ord-6",
+        "fr": "Je mets un peu d’épargne chaque mois.",
+        "l2": "Je mets un peu d’épargne chaque mois.",
+        "en": "savings",
+        "gloss": {
+          "en": "savings",
+          "es": "ahorros",
+          "ru": "сбережения"
+        },
+        "words": [
+          "Je",
+          "mets",
+          "un",
+          "peu",
+          "d’épargne",
+          "chaque",
+          "mois."
+        ]
+      },
+      {
+        "id": "remote-money-b1-ord-7",
+        "fr": "Le crédit immobilier dure vingt ans.",
+        "l2": "Le crédit immobilier dure vingt ans.",
+        "en": "credit / loan",
+        "gloss": {
+          "en": "credit / loan",
+          "es": "crédito/préstamo",
+          "ru": "кредит / заем"
+        },
+        "words": [
+          "Le",
+          "crédit",
+          "immobilier",
+          "dure",
+          "vingt",
+          "ans."
+        ]
+      },
+      {
+        "id": "remote-money-b1-ord-8",
+        "fr": "Les intérêts du prêt sont élevés.",
+        "l2": "Les intérêts du prêt sont élevés.",
+        "en": "interest (finance)",
+        "gloss": {
+          "en": "interest (finance)",
+          "es": "interés (finanzas)",
+          "ru": "проценты (финансы)"
+        },
+        "words": [
+          "Les",
+          "intérêts",
+          "du",
+          "prêt",
+          "sont",
+          "élevés."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-money-b1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "aʁ.ʒɑ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "argent",
+          "l2": "argent",
+          "en": "money",
+          "gloss": {
+            "en": "money",
+            "es": "dinero",
+            "ru": "деньги"
+          },
+          "ipa": "aʁ.ʒɑ̃"
+        },
+        {
+          "fr": "budget",
+          "l2": "budget",
+          "en": "budget",
+          "gloss": {
+            "en": "budget",
+            "es": "presupuesto",
+            "ru": "бюджет"
+          },
+          "ipa": "byd.ʒɛ"
+        },
+        {
+          "fr": "compte",
+          "l2": "compte",
+          "en": "account",
+          "gloss": {
+            "en": "account",
+            "es": "cuenta",
+            "ru": "счет"
+          },
+          "ipa": "kɔ̃t"
+        },
+        {
+          "fr": "virement",
+          "l2": "virement",
+          "en": "transfer",
+          "gloss": {
+            "en": "transfer",
+            "es": "transferir",
+            "ru": "передача"
+          },
+          "ipa": "viʁ.mɑ̃"
+        },
+        {
+          "fr": "découvert",
+          "l2": "découvert",
+          "en": "overdraft",
+          "gloss": {
+            "en": "overdraft",
+            "es": "sobregiro",
+            "ru": "овердрафт"
+          },
+          "ipa": "de.ku.vɛʁ"
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "animals-a1",
-  "version": 4,
+  "version": 5,
   "level": "a1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "un",
             "une",
             "des"
-          ]
+          ],
+          "gloss": {
+            "en": "I have ___ cat.",
+            "es": "Tengo ___ gato.",
+            "ru": "У меня ___ кот."
+          },
+          "why": {
+            "fr": "Chat est masculin : « un ».",
+            "en": "Chat is masculine: un.",
+            "es": "Chat es masculino: un.",
+            "ru": "Chat — мужского рода: un."
+          }
         },
         {
           "id": "remote-animals-gq-2",
@@ -537,7 +548,18 @@
             "Le",
             "La",
             "Un"
-          ]
+          ],
+          "gloss": {
+            "en": "___ cow gives milk.",
+            "es": "___ vaca da leche.",
+            "ru": "___ корова даёт молоко."
+          },
+          "why": {
+            "fr": "Vache est féminin : « La ».",
+            "en": "Vache is feminine: La.",
+            "es": "Vache es femenino: La.",
+            "ru": "Vache — женского рода: La."
+          }
         },
         {
           "id": "remote-animals-gq-3",
@@ -547,13 +569,25 @@
             "un",
             "une",
             "des"
-          ]
+          ],
+          "gloss": {
+            "en": "There are ___ sheep in the field.",
+            "es": "Hay ___ ovejas en el prado.",
+            "ru": "На лугу есть ___ овцы."
+          },
+          "why": {
+            "fr": "Pluriel indéfini : « des ».",
+            "en": "Indefinite plural: des.",
+            "es": "Plural indefinido: des.",
+            "ru": "Неопределённое множественное: des."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Un / une for animals.",
         "es": "Útil cuando se necesita aplicar: Un/une para animales.",
-        "ru": "Полезно, когда нужно применить: Un/une для животных."
+        "ru": "Полезно, когда нужно применить: Un/une для животных.",
+        "fr": "Utile pour appliquer : Un / une pour les animaux."
       }
     },
     {
@@ -611,7 +645,18 @@
             "dort",
             "dorment",
             "dors"
-          ]
+          ],
+          "gloss": {
+            "en": "The cat ___ on the sofa.",
+            "es": "El gato ___ en el sofá.",
+            "ru": "Кот ___ на диване."
+          },
+          "why": {
+            "fr": "Il/elle + dormir → « dort ».",
+            "en": "Il/elle + dormir → dort.",
+            "es": "Il/elle + dormir → dort.",
+            "ru": "Il/elle + dormir → dort."
+          }
         },
         {
           "id": "remote-animals-gq-5",
@@ -621,13 +666,25 @@
             "chante",
             "chantent",
             "chante"
-          ]
+          ],
+          "gloss": {
+            "en": "The birds ___ in the morning.",
+            "es": "Los pájaros ___ por la mañana.",
+            "ru": "Птицы ___ утром."
+          },
+          "why": {
+            "fr": "Ils/elles + chanter → « chantent ».",
+            "en": "Ils/elles + chanter → chantent.",
+            "es": "Ils/elles + chanter → chantent.",
+            "ru": "Ils/elles + chanter → chantent."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Simple verbs with animals.",
         "es": "Útil cuando necesitas aplicar: Verbos simples con animales.",
-        "ru": "Полезно, когда нужно применить: Простые глаголы с животными."
+        "ru": "Полезно, когда нужно применить: Простые глаголы с животными.",
+        "fr": "Utile pour appliquer : Les verbes simples avec les animaux."
       }
     }
   ],
@@ -848,6 +905,1009 @@
         },
         "l2": "Les oiseaux chantent le matin."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-animals-fren-1",
+        "fr": "chat",
+        "en": "cat",
+        "gloss": {
+          "en": "cat",
+          "es": "gato",
+          "ru": "кот"
+        },
+        "l2": "chat"
+      },
+      {
+        "id": "remote-animals-fren-2",
+        "fr": "chien",
+        "en": "dog",
+        "gloss": {
+          "en": "dog",
+          "es": "perro",
+          "ru": "собака"
+        },
+        "l2": "chien"
+      },
+      {
+        "id": "remote-animals-fren-3",
+        "fr": "oiseau",
+        "en": "bird",
+        "gloss": {
+          "en": "bird",
+          "es": "pájaro",
+          "ru": "птица"
+        },
+        "l2": "oiseau"
+      },
+      {
+        "id": "remote-animals-fren-4",
+        "fr": "vache",
+        "en": "cow",
+        "gloss": {
+          "en": "cow",
+          "es": "vaca",
+          "ru": "корова"
+        },
+        "l2": "vache"
+      },
+      {
+        "id": "remote-animals-fren-5",
+        "fr": "cheval",
+        "en": "horse",
+        "gloss": {
+          "en": "horse",
+          "es": "caballo",
+          "ru": "лошадь"
+        },
+        "l2": "cheval"
+      },
+      {
+        "id": "remote-animals-fren-6",
+        "fr": "éléphant",
+        "en": "elephant",
+        "gloss": {
+          "en": "elephant",
+          "es": "elefante",
+          "ru": "слон"
+        },
+        "l2": "éléphant"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-animals-a1-enl2-1",
+        "fr": "Mon chat dort sur le canapé.",
+        "l2": "Mon chat dort sur le canapé.",
+        "en": "cat",
+        "gloss": {
+          "en": "cat",
+          "es": "gato",
+          "ru": "кот"
+        },
+        "prompt": "cat",
+        "choices": [
+          "Mon chat dort sur le canapé.",
+          "Le chien aboie dans le jardin.",
+          "Un oiseau chante dans l’arbre."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-enl2-2",
+        "fr": "Le chien aboie dans le jardin.",
+        "l2": "Le chien aboie dans le jardin.",
+        "en": "dog",
+        "gloss": {
+          "en": "dog",
+          "es": "perro",
+          "ru": "собака"
+        },
+        "prompt": "dog",
+        "choices": [
+          "Le chien aboie dans le jardin.",
+          "Mon chat dort sur le canapé.",
+          "Un oiseau chante dans l’arbre."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-enl2-3",
+        "fr": "Un oiseau chante dans l’arbre.",
+        "l2": "Un oiseau chante dans l’arbre.",
+        "en": "bird",
+        "gloss": {
+          "en": "bird",
+          "es": "pájaro",
+          "ru": "птица"
+        },
+        "prompt": "bird",
+        "choices": [
+          "Un oiseau chante dans l’arbre.",
+          "Mon chat dort sur le canapé.",
+          "Le chien aboie dans le jardin."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-enl2-4",
+        "fr": "J’ai un poisson rouge dans un bocal.",
+        "l2": "J’ai un poisson rouge dans un bocal.",
+        "en": "fish",
+        "gloss": {
+          "en": "fish",
+          "es": "pez",
+          "ru": "рыба"
+        },
+        "prompt": "fish",
+        "choices": [
+          "J’ai un poisson rouge dans un bocal.",
+          "Mon chat dort sur le canapé.",
+          "Le chien aboie dans le jardin."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-enl2-5",
+        "fr": "Le cheval galope dans le pré.",
+        "l2": "Le cheval galope dans le pré.",
+        "en": "horse",
+        "gloss": {
+          "en": "horse",
+          "es": "caballo",
+          "ru": "лошадь"
+        },
+        "prompt": "horse",
+        "choices": [
+          "Le cheval galope dans le pré.",
+          "Mon chat dort sur le canapé.",
+          "Le chien aboie dans le jardin."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-enl2-6",
+        "fr": "La vache donne du lait.",
+        "l2": "La vache donne du lait.",
+        "en": "cow",
+        "gloss": {
+          "en": "cow",
+          "es": "vaca",
+          "ru": "корова"
+        },
+        "prompt": "cow",
+        "choices": [
+          "La vache donne du lait.",
+          "Mon chat dort sur le canapé.",
+          "Le chien aboie dans le jardin."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-enl2-7",
+        "fr": "Les moutons mangent de l’herbe.",
+        "l2": "Les moutons mangent de l’herbe.",
+        "en": "sheep",
+        "gloss": {
+          "en": "sheep",
+          "es": "oveja",
+          "ru": "овца"
+        },
+        "prompt": "sheep",
+        "choices": [
+          "Les moutons mangent de l’herbe.",
+          "Mon chat dort sur le canapé.",
+          "Le chien aboie dans le jardin."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-enl2-8",
+        "fr": "Le cochon est dans la porcherie.",
+        "l2": "Le cochon est dans la porcherie.",
+        "en": "pig",
+        "gloss": {
+          "en": "pig",
+          "es": "cerdo",
+          "ru": "свинья"
+        },
+        "prompt": "pig",
+        "choices": [
+          "Le cochon est dans la porcherie.",
+          "Mon chat dort sur le canapé.",
+          "Le chien aboie dans le jardin."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-animals-a1-prm-1",
+        "en": "cat",
+        "gloss": {
+          "en": "cat",
+          "es": "gato",
+          "ru": "кот"
+        },
+        "answers": [
+          "chat",
+          "le chat"
+        ],
+        "target": "le chat"
+      },
+      {
+        "id": "remote-animals-a1-prm-2",
+        "en": "dog",
+        "gloss": {
+          "en": "dog",
+          "es": "perro",
+          "ru": "собака"
+        },
+        "answers": [
+          "chien",
+          "le chien"
+        ],
+        "target": "le chien"
+      },
+      {
+        "id": "remote-animals-a1-prm-3",
+        "en": "bird",
+        "gloss": {
+          "en": "bird",
+          "es": "pájaro",
+          "ru": "птица"
+        },
+        "answers": [
+          "oiseau",
+          "la oiseau"
+        ],
+        "target": "la oiseau"
+      },
+      {
+        "id": "remote-animals-a1-prm-4",
+        "en": "fish",
+        "gloss": {
+          "en": "fish",
+          "es": "pez",
+          "ru": "рыба"
+        },
+        "answers": [
+          "poisson",
+          "le poisson"
+        ],
+        "target": "le poisson"
+      },
+      {
+        "id": "remote-animals-a1-prm-5",
+        "en": "horse",
+        "gloss": {
+          "en": "horse",
+          "es": "caballo",
+          "ru": "лошадь"
+        },
+        "answers": [
+          "cheval",
+          "le cheval"
+        ],
+        "target": "le cheval"
+      },
+      {
+        "id": "remote-animals-a1-prm-6",
+        "en": "cow",
+        "gloss": {
+          "en": "cow",
+          "es": "vaca",
+          "ru": "корова"
+        },
+        "answers": [
+          "vache",
+          "la vache"
+        ],
+        "target": "la vache"
+      },
+      {
+        "id": "remote-animals-a1-prm-7",
+        "en": "sheep",
+        "gloss": {
+          "en": "sheep",
+          "es": "oveja",
+          "ru": "овца"
+        },
+        "answers": [
+          "mouton",
+          "le mouton"
+        ],
+        "target": "le mouton"
+      },
+      {
+        "id": "remote-animals-a1-prm-8",
+        "en": "pig",
+        "gloss": {
+          "en": "pig",
+          "es": "cerdo",
+          "ru": "свинья"
+        },
+        "answers": [
+          "cochon",
+          "le cochon"
+        ],
+        "target": "le cochon"
+      },
+      {
+        "id": "remote-animals-a1-prm-9",
+        "en": "hen / chicken",
+        "gloss": {
+          "en": "hen / chicken",
+          "es": "gallina/pollo",
+          "ru": "курица / курица"
+        },
+        "answers": [
+          "poule",
+          "la poule"
+        ],
+        "target": "la poule"
+      },
+      {
+        "id": "remote-animals-a1-prm-10",
+        "en": "rabbit",
+        "gloss": {
+          "en": "rabbit",
+          "es": "conejo",
+          "ru": "кролик"
+        },
+        "answers": [
+          "lapin",
+          "le lapin"
+        ],
+        "target": "le lapin"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-animals-a1-sign-1",
+        "fr": "chat",
+        "l2": "chat",
+        "en": "cat",
+        "gloss": {
+          "en": "cat",
+          "es": "gato",
+          "ru": "кот"
+        },
+        "choices": [
+          "cat",
+          "dog",
+          "bird"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-2",
+        "fr": "chien",
+        "l2": "chien",
+        "en": "dog",
+        "gloss": {
+          "en": "dog",
+          "es": "perro",
+          "ru": "собака"
+        },
+        "choices": [
+          "dog",
+          "cat",
+          "bird"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-3",
+        "fr": "oiseau",
+        "l2": "oiseau",
+        "en": "bird",
+        "gloss": {
+          "en": "bird",
+          "es": "pájaro",
+          "ru": "птица"
+        },
+        "choices": [
+          "bird",
+          "cat",
+          "dog"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-4",
+        "fr": "poisson",
+        "l2": "poisson",
+        "en": "fish",
+        "gloss": {
+          "en": "fish",
+          "es": "pez",
+          "ru": "рыба"
+        },
+        "choices": [
+          "fish",
+          "cat",
+          "dog"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-5",
+        "fr": "cheval",
+        "l2": "cheval",
+        "en": "horse",
+        "gloss": {
+          "en": "horse",
+          "es": "caballo",
+          "ru": "лошадь"
+        },
+        "choices": [
+          "horse",
+          "cat",
+          "dog"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-6",
+        "fr": "vache",
+        "l2": "vache",
+        "en": "cow",
+        "gloss": {
+          "en": "cow",
+          "es": "vaca",
+          "ru": "корова"
+        },
+        "choices": [
+          "cow",
+          "cat",
+          "dog"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-7",
+        "fr": "mouton",
+        "l2": "mouton",
+        "en": "sheep",
+        "gloss": {
+          "en": "sheep",
+          "es": "oveja",
+          "ru": "овца"
+        },
+        "choices": [
+          "sheep",
+          "cat",
+          "dog"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-8",
+        "fr": "cochon",
+        "l2": "cochon",
+        "en": "pig",
+        "gloss": {
+          "en": "pig",
+          "es": "cerdo",
+          "ru": "свинья"
+        },
+        "choices": [
+          "pig",
+          "cat",
+          "dog"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-9",
+        "fr": "poule",
+        "l2": "poule",
+        "en": "hen / chicken",
+        "gloss": {
+          "en": "hen / chicken",
+          "es": "gallina/pollo",
+          "ru": "курица / курица"
+        },
+        "choices": [
+          "hen / chicken",
+          "cat",
+          "dog"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-10",
+        "fr": "lapin",
+        "l2": "lapin",
+        "en": "rabbit",
+        "gloss": {
+          "en": "rabbit",
+          "es": "conejo",
+          "ru": "кролик"
+        },
+        "choices": [
+          "rabbit",
+          "cat",
+          "dog"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-11",
+        "fr": "souris",
+        "l2": "souris",
+        "en": "mouse",
+        "gloss": {
+          "en": "mouse",
+          "es": "ratón",
+          "ru": "мышь"
+        },
+        "choices": [
+          "mouse",
+          "cat",
+          "dog"
+        ]
+      },
+      {
+        "id": "remote-animals-a1-sign-12",
+        "fr": "lion",
+        "l2": "lion",
+        "en": "lion",
+        "gloss": {
+          "en": "lion",
+          "es": "león",
+          "ru": "лев"
+        },
+        "choices": [
+          "lion",
+          "cat",
+          "dog"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-animals-a1-pair-1",
+        "a": {
+          "fr": "chat",
+          "l2": "chat",
+          "en": "cat",
+          "gloss": {
+            "en": "cat",
+            "es": "gato",
+            "ru": "кот"
+          }
+        },
+        "b": {
+          "fr": "chien",
+          "l2": "chien",
+          "en": "dog",
+          "gloss": {
+            "en": "dog",
+            "es": "perro",
+            "ru": "собака"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-animals-a1-pair-2",
+        "a": {
+          "fr": "oiseau",
+          "l2": "oiseau",
+          "en": "bird",
+          "gloss": {
+            "en": "bird",
+            "es": "pájaro",
+            "ru": "птица"
+          }
+        },
+        "b": {
+          "fr": "poisson",
+          "l2": "poisson",
+          "en": "fish",
+          "gloss": {
+            "en": "fish",
+            "es": "pez",
+            "ru": "рыба"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-animals-a1-pair-3",
+        "a": {
+          "fr": "cheval",
+          "l2": "cheval",
+          "en": "horse",
+          "gloss": {
+            "en": "horse",
+            "es": "caballo",
+            "ru": "лошадь"
+          }
+        },
+        "b": {
+          "fr": "vache",
+          "l2": "vache",
+          "en": "cow",
+          "gloss": {
+            "en": "cow",
+            "es": "vaca",
+            "ru": "корова"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-animals-a1-pair-4",
+        "a": {
+          "fr": "mouton",
+          "l2": "mouton",
+          "en": "sheep",
+          "gloss": {
+            "en": "sheep",
+            "es": "oveja",
+            "ru": "овца"
+          }
+        },
+        "b": {
+          "fr": "cochon",
+          "l2": "cochon",
+          "en": "pig",
+          "gloss": {
+            "en": "pig",
+            "es": "cerdo",
+            "ru": "свинья"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-animals-a1-pair-5",
+        "a": {
+          "fr": "poule",
+          "l2": "poule",
+          "en": "hen / chicken",
+          "gloss": {
+            "en": "hen / chicken",
+            "es": "gallina/pollo",
+            "ru": "курица / курица"
+          }
+        },
+        "b": {
+          "fr": "lapin",
+          "l2": "lapin",
+          "en": "rabbit",
+          "gloss": {
+            "en": "rabbit",
+            "es": "conejo",
+            "ru": "кролик"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-animals-a1-gap-1",
+        "fr": "Mon chat dort sur le canapé.",
+        "l2": "Mon chat dort sur le canapé.",
+        "speak": "Mon chat dort sur le canapé.",
+        "blank": "chat",
+        "en": "cat",
+        "gloss": {
+          "en": "cat",
+          "es": "gato",
+          "ru": "кот"
+        }
+      },
+      {
+        "id": "remote-animals-a1-gap-2",
+        "fr": "Le chien aboie dans le jardin.",
+        "l2": "Le chien aboie dans le jardin.",
+        "speak": "Le chien aboie dans le jardin.",
+        "blank": "chien",
+        "en": "dog",
+        "gloss": {
+          "en": "dog",
+          "es": "perro",
+          "ru": "собака"
+        }
+      },
+      {
+        "id": "remote-animals-a1-gap-3",
+        "fr": "Un oiseau chante dans l’arbre.",
+        "l2": "Un oiseau chante dans l’arbre.",
+        "speak": "Un oiseau chante dans l’arbre.",
+        "blank": "oiseau",
+        "en": "bird",
+        "gloss": {
+          "en": "bird",
+          "es": "pájaro",
+          "ru": "птица"
+        }
+      },
+      {
+        "id": "remote-animals-a1-gap-4",
+        "fr": "J’ai un poisson rouge dans un bocal.",
+        "l2": "J’ai un poisson rouge dans un bocal.",
+        "speak": "J’ai un poisson rouge dans un bocal.",
+        "blank": "poisson",
+        "en": "fish",
+        "gloss": {
+          "en": "fish",
+          "es": "pez",
+          "ru": "рыба"
+        }
+      },
+      {
+        "id": "remote-animals-a1-gap-5",
+        "fr": "Le cheval galope dans le pré.",
+        "l2": "Le cheval galope dans le pré.",
+        "speak": "Le cheval galope dans le pré.",
+        "blank": "cheval",
+        "en": "horse",
+        "gloss": {
+          "en": "horse",
+          "es": "caballo",
+          "ru": "лошадь"
+        }
+      },
+      {
+        "id": "remote-animals-a1-gap-6",
+        "fr": "La vache donne du lait.",
+        "l2": "La vache donne du lait.",
+        "speak": "La vache donne du lait.",
+        "blank": "vache",
+        "en": "cow",
+        "gloss": {
+          "en": "cow",
+          "es": "vaca",
+          "ru": "корова"
+        }
+      },
+      {
+        "id": "remote-animals-a1-gap-7",
+        "fr": "Les moutons mangent de l’herbe.",
+        "l2": "Les moutons mangent de l’herbe.",
+        "speak": "Les moutons mangent de l’herbe.",
+        "blank": "mouton",
+        "en": "sheep",
+        "gloss": {
+          "en": "sheep",
+          "es": "oveja",
+          "ru": "овца"
+        }
+      },
+      {
+        "id": "remote-animals-a1-gap-8",
+        "fr": "Le cochon est dans la porcherie.",
+        "l2": "Le cochon est dans la porcherie.",
+        "speak": "Le cochon est dans la porcherie.",
+        "blank": "cochon",
+        "en": "pig",
+        "gloss": {
+          "en": "pig",
+          "es": "cerdo",
+          "ru": "свинья"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-animals-a1-ord-1",
+        "fr": "Mon chat dort sur le canapé.",
+        "l2": "Mon chat dort sur le canapé.",
+        "en": "cat",
+        "gloss": {
+          "en": "cat",
+          "es": "gato",
+          "ru": "кот"
+        },
+        "words": [
+          "Mon",
+          "chat",
+          "dort",
+          "sur",
+          "le",
+          "canapé."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-ord-2",
+        "fr": "Le chien aboie dans le jardin.",
+        "l2": "Le chien aboie dans le jardin.",
+        "en": "dog",
+        "gloss": {
+          "en": "dog",
+          "es": "perro",
+          "ru": "собака"
+        },
+        "words": [
+          "Le",
+          "chien",
+          "aboie",
+          "dans",
+          "le",
+          "jardin."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-ord-3",
+        "fr": "Un oiseau chante dans l’arbre.",
+        "l2": "Un oiseau chante dans l’arbre.",
+        "en": "bird",
+        "gloss": {
+          "en": "bird",
+          "es": "pájaro",
+          "ru": "птица"
+        },
+        "words": [
+          "Un",
+          "oiseau",
+          "chante",
+          "dans",
+          "l’arbre."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-ord-4",
+        "fr": "J’ai un poisson rouge dans un bocal.",
+        "l2": "J’ai un poisson rouge dans un bocal.",
+        "en": "fish",
+        "gloss": {
+          "en": "fish",
+          "es": "pez",
+          "ru": "рыба"
+        },
+        "words": [
+          "J’ai",
+          "un",
+          "poisson",
+          "rouge",
+          "dans",
+          "un",
+          "bocal."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-ord-5",
+        "fr": "Le cheval galope dans le pré.",
+        "l2": "Le cheval galope dans le pré.",
+        "en": "horse",
+        "gloss": {
+          "en": "horse",
+          "es": "caballo",
+          "ru": "лошадь"
+        },
+        "words": [
+          "Le",
+          "cheval",
+          "galope",
+          "dans",
+          "le",
+          "pré."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-ord-6",
+        "fr": "La vache donne du lait.",
+        "l2": "La vache donne du lait.",
+        "en": "cow",
+        "gloss": {
+          "en": "cow",
+          "es": "vaca",
+          "ru": "корова"
+        },
+        "words": [
+          "La",
+          "vache",
+          "donne",
+          "du",
+          "lait."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-ord-7",
+        "fr": "Les moutons mangent de l’herbe.",
+        "l2": "Les moutons mangent de l’herbe.",
+        "en": "sheep",
+        "gloss": {
+          "en": "sheep",
+          "es": "oveja",
+          "ru": "овца"
+        },
+        "words": [
+          "Les",
+          "moutons",
+          "mangent",
+          "de",
+          "l’herbe."
+        ]
+      },
+      {
+        "id": "remote-animals-a1-ord-8",
+        "fr": "Le cochon est dans la porcherie.",
+        "l2": "Le cochon est dans la porcherie.",
+        "en": "pig",
+        "gloss": {
+          "en": "pig",
+          "es": "cerdo",
+          "ru": "свинья"
+        },
+        "words": [
+          "Le",
+          "cochon",
+          "est",
+          "dans",
+          "la",
+          "porcherie."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-animals-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ʃa",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "chat",
+          "l2": "chat",
+          "en": "cat",
+          "gloss": {
+            "en": "cat",
+            "es": "gato",
+            "ru": "кот"
+          },
+          "ipa": "ʃa"
+        },
+        {
+          "fr": "chien",
+          "l2": "chien",
+          "en": "dog",
+          "gloss": {
+            "en": "dog",
+            "es": "perro",
+            "ru": "собака"
+          },
+          "ipa": "ʃjɛ̃"
+        },
+        {
+          "fr": "oiseau",
+          "l2": "oiseau",
+          "en": "bird",
+          "gloss": {
+            "en": "bird",
+            "es": "pájaro",
+            "ru": "птица"
+          },
+          "ipa": "wa.zo"
+        },
+        {
+          "fr": "poisson",
+          "l2": "poisson",
+          "en": "fish",
+          "gloss": {
+            "en": "fish",
+            "es": "pez",
+            "ru": "рыба"
+          },
+          "ipa": "pwa.sɔ̃"
+        },
+        {
+          "fr": "cheval",
+          "l2": "cheval",
+          "en": "horse",
+          "gloss": {
+            "en": "horse",
+            "es": "caballo",
+            "ru": "лошадь"
+          },
+          "ipa": "ʃə.val"
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "pogoda-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "lang": "ru",
   "title": {
@@ -464,7 +464,8 @@
       "why": {
         "en": "Gender affects adjectives and past-tense verbs.",
         "es": "El género afecta a adjetivos y verbos en pasado.",
-        "ru": "Род влияет на прилагательные и глаголы в прошедшем времени."
+        "ru": "Род влияет на прилагательные и глаголы в прошедшем времени.",
+        "fr": "Utile pour appliquer : Genre des noms (м / ж / ср)."
       },
       "table": [
         [
@@ -497,7 +498,18 @@
             "м",
             "ж",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "What is the gender of the word \"rain\"?",
+            "es": "¿Cuál es el género de la palabra \"lluvia\"?",
+            "ru": "Род слова «дождь»?"
+          },
+          "why": {
+            "fr": "Réponse : « м ».",
+            "en": "Answer: “м”.",
+            "es": "Respuesta: « м ».",
+            "ru": "Ответ: « м »."
+          }
         },
         {
           "id": "remote-pogoda-a1-gq-1-2",
@@ -507,7 +519,18 @@
             "м",
             "ж",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "What is the gender of the word \"snow\"?",
+            "es": "¿Cuál es el género de la palabra \"nieve\"?",
+            "ru": "Род слова «снег»?"
+          },
+          "why": {
+            "fr": "Réponse : « м ».",
+            "en": "Answer: “м”.",
+            "es": "Respuesta: « м ».",
+            "ru": "Ответ: « м »."
+          }
         },
         {
           "id": "remote-pogoda-a1-gq-1-3",
@@ -517,7 +540,18 @@
             "м",
             "ж",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "Select gender: rain",
+            "es": "Selecciona género: lluvia",
+            "ru": "Выберите род: дождь"
+          },
+          "why": {
+            "fr": "Réponse : « м ».",
+            "en": "Answer: “м”.",
+            "es": "Respuesta: « м ».",
+            "ru": "Ответ: « м »."
+          }
         },
         {
           "id": "remote-pogoda-a1-gq-1-4",
@@ -527,7 +561,18 @@
             "м",
             "ж",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "Relate to the topic: rain/snow. Kind of \"rain\"?",
+            "es": "Relacionarse con el tema: lluvia/nieve. ¿Una especie de \"lluvia\"?",
+            "ru": "Свяжите с темой: дождь / снег. Род «дождь»?"
+          },
+          "why": {
+            "fr": "Réponse : « м ».",
+            "en": "Answer: “м”.",
+            "es": "Respuesta: « м ».",
+            "ru": "Ответ: « м »."
+          }
         },
         {
           "id": "remote-pogoda-a1-gq-1-5",
@@ -537,7 +582,18 @@
             "м",
             "ж",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "Relate to the topic: rain/snow. Kind of \"rain\"?",
+            "es": "Relacionarse con el tema: lluvia/nieve. ¿Una especie de \"lluvia\"?",
+            "ru": "Свяжите с темой: дождь / снег. Род «дождь»?"
+          },
+          "why": {
+            "fr": "Réponse : « м ».",
+            "en": "Answer: “м”.",
+            "es": "Respuesta: « м ».",
+            "ru": "Ответ: « м »."
+          }
         }
       ]
     },
@@ -558,7 +614,8 @@
       "why": {
         "en": "Useful to say what you have or what is there.",
         "es": "Útil para decir lo que hay o lo que tienes.",
-        "ru": "Полезно, чтобы сказать, что есть или что у вас есть."
+        "ru": "Полезно, чтобы сказать, что есть или что у вас есть.",
+        "fr": "Utile pour appliquer : Есть + nom."
       },
       "table": [
         [
@@ -586,7 +643,18 @@
             "Есть",
             "Это",
             "Быть"
-          ]
+          ],
+          "gloss": {
+            "en": "Add: ___ cloud.",
+            "es": "Agregar: ___ nube.",
+            "ru": "Дополните: ___ облако."
+          },
+          "why": {
+            "fr": "Réponse : « Есть ».",
+            "en": "Answer: “Есть”.",
+            "es": "Respuesta: « Есть ».",
+            "ru": "Ответ: « Есть »."
+          }
         },
         {
           "id": "remote-pogoda-a1-gq-2-2",
@@ -596,7 +664,18 @@
             "Нет",
             "Есть",
             "Да"
-          ]
+          ],
+          "gloss": {
+            "en": "Add: ___ hot. (negation)",
+            "es": "Agregue: ___ caliente. (negación)",
+            "ru": "Дополните: ___ горячий. (отрицание)"
+          },
+          "why": {
+            "fr": "Réponse : « Нет ».",
+            "en": "Answer: “Нет”.",
+            "es": "Respuesta: « Нет ».",
+            "ru": "Ответ: « Нет »."
+          }
         },
         {
           "id": "remote-pogoda-a1-gq-2-3",
@@ -606,7 +685,18 @@
             "есть",
             "это",
             "быть"
-          ]
+          ],
+          "gloss": {
+            "en": "I have ___ cloud.",
+            "es": "Tengo ___ nube.",
+            "ru": "У меня ___ облако."
+          },
+          "why": {
+            "fr": "Réponse : « есть ».",
+            "en": "Answer: “есть”.",
+            "es": "Respuesta: « есть ».",
+            "ru": "Ответ: « есть »."
+          }
         },
         {
           "id": "remote-pogoda-a1-gq-2-4",
@@ -616,7 +706,18 @@
             "ср",
             "м",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "Link to the topic: cloud/hot. Kind of \"cloud\"?",
+            "es": "Enlace al tema: nube/caliente. ¿Una especie de \"nube\"?",
+            "ru": "Свяжите с темой: облако / горячий. Род «облако»?"
+          },
+          "why": {
+            "fr": "Réponse : « ср ».",
+            "en": "Answer: “ср”.",
+            "es": "Respuesta: « ср ».",
+            "ru": "Ответ: « ср »."
+          }
         },
         {
           "id": "remote-pogoda-a1-gq-2-5",
@@ -626,7 +727,18 @@
             "ср",
             "м",
             "ср"
-          ]
+          ],
+          "gloss": {
+            "en": "Link to the topic: cloud/hot. Kind of \"cloud\"?",
+            "es": "Enlace al tema: nube/caliente. ¿Una especie de \"nube\"?",
+            "ru": "Свяжите с темой: облако / горячий. Род «облако»?"
+          },
+          "why": {
+            "fr": "Réponse : « ср ».",
+            "en": "Answer: “ср”.",
+            "es": "Respuesta: « ср ».",
+            "ru": "Ответ: « ср »."
+          }
         }
       ]
     }
@@ -826,7 +938,979 @@
           "холодно."
         ]
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-pogoda-a1-fren-1",
+        "l2": "солнце",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-fren-2",
+        "l2": "дождь",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-fren-3",
+        "l2": "снег",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-fren-4",
+        "l2": "горячий",
+        "en": "hot",
+        "gloss": {
+          "en": "hot",
+          "es": "caliente",
+          "ru": "горячий"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-fren-5",
+        "l2": "холодный",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-fren-6",
+        "l2": "зонтик",
+        "en": "umbrella",
+        "gloss": {
+          "en": "umbrella",
+          "es": "paraguas",
+          "ru": "зонтик"
+        }
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-pogoda-a1-enl2-1",
+        "fr": "Сегодня солнечно.",
+        "l2": "Сегодня солнечно.",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        },
+        "prompt": "sun",
+        "choices": [
+          "Сегодня солнечно.",
+          "Дождь идет с утра.",
+          "Небо покрыто облаками."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-enl2-2",
+        "fr": "Дождь идет с утра.",
+        "l2": "Дождь идет с утра.",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        },
+        "prompt": "rain",
+        "choices": [
+          "Дождь идет с утра.",
+          "Сегодня солнечно.",
+          "Небо покрыто облаками."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-enl2-3",
+        "fr": "Небо покрыто облаками.",
+        "l2": "Небо покрыто облаками.",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        },
+        "prompt": "cloud",
+        "choices": [
+          "Небо покрыто облаками.",
+          "Сегодня солнечно.",
+          "Дождь идет с утра."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-enl2-4",
+        "fr": "Сегодня очень ветрено.",
+        "l2": "Сегодня очень ветрено.",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        },
+        "prompt": "wind",
+        "choices": [
+          "Сегодня очень ветрено.",
+          "Сегодня солнечно.",
+          "Дождь идет с утра."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-enl2-5",
+        "fr": "Снег покрывает горы.",
+        "l2": "Снег покрывает горы.",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        },
+        "prompt": "snow",
+        "choices": [
+          "Снег покрывает горы.",
+          "Сегодня солнечно.",
+          "Дождь идет с утра."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-enl2-6",
+        "fr": "Летом жарко.",
+        "l2": "Летом жарко.",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        },
+        "prompt": "hot / warm",
+        "choices": [
+          "Летом жарко.",
+          "Сегодня солнечно.",
+          "Дождь идет с утра."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-enl2-7",
+        "fr": "Зимой холодно.",
+        "l2": "Зимой холодно.",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        },
+        "prompt": "cold",
+        "choices": [
+          "Зимой холодно.",
+          "Сегодня солнечно.",
+          "Дождь идет с утра."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-enl2-8",
+        "fr": "Цветы растут весной.",
+        "l2": "Цветы растут весной.",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        },
+        "prompt": "spring",
+        "choices": [
+          "Цветы растут весной.",
+          "Сегодня солнечно.",
+          "Дождь идет с утра."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-pogoda-a1-prm-1",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        },
+        "answers": [
+          "солнце",
+          "ср солнце"
+        ],
+        "target": "ср солнце"
+      },
+      {
+        "id": "remote-pogoda-a1-prm-2",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        },
+        "answers": [
+          "дождь",
+          "м дождь"
+        ],
+        "target": "м дождь"
+      },
+      {
+        "id": "remote-pogoda-a1-prm-3",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        },
+        "answers": [
+          "облако",
+          "ср облако"
+        ],
+        "target": "ср облако"
+      },
+      {
+        "id": "remote-pogoda-a1-prm-4",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        },
+        "answers": [
+          "ветер",
+          "м ветер"
+        ],
+        "target": "м ветер"
+      },
+      {
+        "id": "remote-pogoda-a1-prm-5",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        },
+        "answers": [
+          "снег",
+          "м снег"
+        ],
+        "target": "м снег"
+      },
+      {
+        "id": "remote-pogoda-a1-prm-6",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        },
+        "answers": [
+          "горячий",
+          "м горячий"
+        ],
+        "target": "м горячий"
+      },
+      {
+        "id": "remote-pogoda-a1-prm-7",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        },
+        "answers": [
+          "холодный",
+          "м холодный"
+        ],
+        "target": "м холодный"
+      },
+      {
+        "id": "remote-pogoda-a1-prm-8",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        },
+        "answers": [
+          "весна",
+          "ж весна"
+        ],
+        "target": "ж весна"
+      },
+      {
+        "id": "remote-pogoda-a1-prm-9",
+        "en": "summer",
+        "gloss": {
+          "en": "summer",
+          "es": "verano",
+          "ru": "лето"
+        },
+        "answers": [
+          "лето",
+          "ср лето"
+        ],
+        "target": "ср лето"
+      },
+      {
+        "id": "remote-pogoda-a1-prm-10",
+        "en": "autumn / fall",
+        "gloss": {
+          "en": "autumn / fall",
+          "es": "otoño / otoño",
+          "ru": "осень / осень"
+        },
+        "answers": [
+          "осень",
+          "ж осень"
+        ],
+        "target": "ж осень"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-pogoda-a1-sign-1",
+        "fr": "солнце",
+        "l2": "солнце",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        },
+        "choices": [
+          "sun",
+          "rain",
+          "cloud"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-2",
+        "fr": "дождь",
+        "l2": "дождь",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        },
+        "choices": [
+          "rain",
+          "sun",
+          "cloud"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-3",
+        "fr": "облако",
+        "l2": "облако",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        },
+        "choices": [
+          "cloud",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-4",
+        "fr": "ветер",
+        "l2": "ветер",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        },
+        "choices": [
+          "wind",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-5",
+        "fr": "снег",
+        "l2": "снег",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        },
+        "choices": [
+          "snow",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-6",
+        "fr": "горячий",
+        "l2": "горячий",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        },
+        "choices": [
+          "hot / warm",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-7",
+        "fr": "холодный",
+        "l2": "холодный",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        },
+        "choices": [
+          "cold",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-8",
+        "fr": "весна",
+        "l2": "весна",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        },
+        "choices": [
+          "spring",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-9",
+        "fr": "лето",
+        "l2": "лето",
+        "en": "summer",
+        "gloss": {
+          "en": "summer",
+          "es": "verano",
+          "ru": "лето"
+        },
+        "choices": [
+          "summer",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-10",
+        "fr": "осень",
+        "l2": "осень",
+        "en": "autumn / fall",
+        "gloss": {
+          "en": "autumn / fall",
+          "es": "otoño / otoño",
+          "ru": "осень / осень"
+        },
+        "choices": [
+          "autumn / fall",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-11",
+        "fr": "зима",
+        "l2": "зима",
+        "en": "winter",
+        "gloss": {
+          "en": "winter",
+          "es": "invierno",
+          "ru": "зима"
+        },
+        "choices": [
+          "winter",
+          "sun",
+          "rain"
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-sign-12",
+        "fr": "небо",
+        "l2": "небо",
+        "en": "sky",
+        "gloss": {
+          "en": "sky",
+          "es": "cielo",
+          "ru": "небо"
+        },
+        "choices": [
+          "sky",
+          "sun",
+          "rain"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-pogoda-a1-pair-1",
+        "a": {
+          "fr": "солнце",
+          "l2": "солнце",
+          "en": "sun",
+          "gloss": {
+            "en": "sun",
+            "es": "sol",
+            "ru": "солнце"
+          }
+        },
+        "b": {
+          "fr": "дождь",
+          "l2": "дождь",
+          "en": "rain",
+          "gloss": {
+            "en": "rain",
+            "es": "lluvia",
+            "ru": "дождь"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-pogoda-a1-pair-2",
+        "a": {
+          "fr": "облако",
+          "l2": "облако",
+          "en": "cloud",
+          "gloss": {
+            "en": "cloud",
+            "es": "nube",
+            "ru": "облако"
+          }
+        },
+        "b": {
+          "fr": "ветер",
+          "l2": "ветер",
+          "en": "wind",
+          "gloss": {
+            "en": "wind",
+            "es": "viento",
+            "ru": "ветер"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-pogoda-a1-pair-3",
+        "a": {
+          "fr": "снег",
+          "l2": "снег",
+          "en": "snow",
+          "gloss": {
+            "en": "snow",
+            "es": "nieve",
+            "ru": "снег"
+          }
+        },
+        "b": {
+          "fr": "горячий",
+          "l2": "горячий",
+          "en": "hot / warm",
+          "gloss": {
+            "en": "hot / warm",
+            "es": "caliente / tibio",
+            "ru": "горячий/теплый"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-pogoda-a1-pair-4",
+        "a": {
+          "fr": "холодный",
+          "l2": "холодный",
+          "en": "cold",
+          "gloss": {
+            "en": "cold",
+            "es": "frío",
+            "ru": "холодный"
+          }
+        },
+        "b": {
+          "fr": "весна",
+          "l2": "весна",
+          "en": "spring",
+          "gloss": {
+            "en": "spring",
+            "es": "primavera",
+            "ru": "весна"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-pogoda-a1-pair-5",
+        "a": {
+          "fr": "лето",
+          "l2": "лето",
+          "en": "summer",
+          "gloss": {
+            "en": "summer",
+            "es": "verano",
+            "ru": "лето"
+          }
+        },
+        "b": {
+          "fr": "осень",
+          "l2": "осень",
+          "en": "autumn / fall",
+          "gloss": {
+            "en": "autumn / fall",
+            "es": "otoño / otoño",
+            "ru": "осень / осень"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-pogoda-a1-gap-1",
+        "fr": "Сегодня солнечно.",
+        "l2": "Сегодня солнечно.",
+        "speak": "Сегодня солнечно.",
+        "blank": "солнце",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-gap-2",
+        "fr": "Дождь идет с утра.",
+        "l2": "Дождь идет с утра.",
+        "speak": "Дождь идет с утра.",
+        "blank": "дождь",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-gap-3",
+        "fr": "Небо покрыто облаками.",
+        "l2": "Небо покрыто облаками.",
+        "speak": "Небо покрыто облаками.",
+        "blank": "облако",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-gap-4",
+        "fr": "Сегодня очень ветрено.",
+        "l2": "Сегодня очень ветрено.",
+        "speak": "Сегодня очень ветрено.",
+        "blank": "ветер",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-gap-5",
+        "fr": "Снег покрывает горы.",
+        "l2": "Снег покрывает горы.",
+        "speak": "Снег покрывает горы.",
+        "blank": "снег",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-gap-6",
+        "fr": "Летом жарко.",
+        "l2": "Летом жарко.",
+        "speak": "Летом жарко.",
+        "blank": "горячий",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-gap-7",
+        "fr": "Зимой холодно.",
+        "l2": "Зимой холодно.",
+        "speak": "Зимой холодно.",
+        "blank": "холодный",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        }
+      },
+      {
+        "id": "remote-pogoda-a1-gap-8",
+        "fr": "Цветы растут весной.",
+        "l2": "Цветы растут весной.",
+        "speak": "Цветы растут весной.",
+        "blank": "весна",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-pogoda-a1-ord-1",
+        "fr": "Сегодня солнечно.",
+        "l2": "Сегодня солнечно.",
+        "en": "sun",
+        "gloss": {
+          "en": "sun",
+          "es": "sol",
+          "ru": "солнце"
+        },
+        "words": [
+          "Сегодня",
+          "солнечно."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-ord-2",
+        "fr": "Дождь идет с утра.",
+        "l2": "Дождь идет с утра.",
+        "en": "rain",
+        "gloss": {
+          "en": "rain",
+          "es": "lluvia",
+          "ru": "дождь"
+        },
+        "words": [
+          "Дождь",
+          "идет",
+          "с",
+          "утра."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-ord-3",
+        "fr": "Небо покрыто облаками.",
+        "l2": "Небо покрыто облаками.",
+        "en": "cloud",
+        "gloss": {
+          "en": "cloud",
+          "es": "nube",
+          "ru": "облако"
+        },
+        "words": [
+          "Небо",
+          "покрыто",
+          "облаками."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-ord-4",
+        "fr": "Сегодня очень ветрено.",
+        "l2": "Сегодня очень ветрено.",
+        "en": "wind",
+        "gloss": {
+          "en": "wind",
+          "es": "viento",
+          "ru": "ветер"
+        },
+        "words": [
+          "Сегодня",
+          "очень",
+          "ветрено."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-ord-5",
+        "fr": "Снег покрывает горы.",
+        "l2": "Снег покрывает горы.",
+        "en": "snow",
+        "gloss": {
+          "en": "snow",
+          "es": "nieve",
+          "ru": "снег"
+        },
+        "words": [
+          "Снег",
+          "покрывает",
+          "горы."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-ord-6",
+        "fr": "Летом жарко.",
+        "l2": "Летом жарко.",
+        "en": "hot / warm",
+        "gloss": {
+          "en": "hot / warm",
+          "es": "caliente / tibio",
+          "ru": "горячий/теплый"
+        },
+        "words": [
+          "Летом",
+          "жарко."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-ord-7",
+        "fr": "Зимой холодно.",
+        "l2": "Зимой холодно.",
+        "en": "cold",
+        "gloss": {
+          "en": "cold",
+          "es": "frío",
+          "ru": "холодный"
+        },
+        "words": [
+          "Зимой",
+          "холодно."
+        ]
+      },
+      {
+        "id": "remote-pogoda-a1-ord-8",
+        "fr": "Цветы растут весной.",
+        "l2": "Цветы растут весной.",
+        "en": "spring",
+        "gloss": {
+          "en": "spring",
+          "es": "primavera",
+          "ru": "весна"
+        },
+        "words": [
+          "Цветы",
+          "растут",
+          "весной."
+        ]
+      }
     ]
   },
-  "sounds": []
+  "sounds": [
+    {
+      "id": "remote-pogoda-a1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "sˈolntsje",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "солнце",
+          "l2": "солнце",
+          "en": "sun",
+          "gloss": {
+            "en": "sun",
+            "es": "sol",
+            "ru": "солнце"
+          },
+          "ipa": "sˈolntsje"
+        },
+        {
+          "fr": "дождь",
+          "l2": "дождь",
+          "en": "rain",
+          "gloss": {
+            "en": "rain",
+            "es": "lluvia",
+            "ru": "дождь"
+          },
+          "ipa": "dˈoʐdʲ"
+        },
+        {
+          "fr": "облако",
+          "l2": "облако",
+          "en": "cloud",
+          "gloss": {
+            "en": "cloud",
+            "es": "nube",
+            "ru": "облако"
+          },
+          "ipa": "oblˈako"
+        },
+        {
+          "fr": "ветер",
+          "l2": "ветер",
+          "en": "wind",
+          "gloss": {
+            "en": "wind",
+            "es": "viento",
+            "ru": "ветер"
+          },
+          "ipa": "vjetjer"
+        },
+        {
+          "fr": "снег",
+          "l2": "снег",
+          "en": "snow",
+          "gloss": {
+            "en": "snow",
+            "es": "nieve",
+            "ru": "снег"
+          },
+          "ipa": "snjeɡ"
+        }
+      ]
+    }
+  ]
 }

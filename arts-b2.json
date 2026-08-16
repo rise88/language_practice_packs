@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "arts-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "que",
             "dont",
             "lequel"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: It’s a film ___ the story is elliptical.",
+            "es": "Completo: Es una película ___ la historia es elíptica.",
+            "ru": "Завершено: Это фильм ___ , сюжет эллиптический."
+          },
+          "why": {
+            "fr": "Réponse : « dont ».",
+            "en": "Answer: “dont”.",
+            "es": "Respuesta: « dont ».",
+            "ru": "Ответ: « dont »."
+          }
         },
         {
           "id": "remote-arts-gq-2",
@@ -537,7 +548,18 @@
             "dont",
             "auquel",
             "que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Here is the current ___ this film connects.",
+            "es": "Completo: Aquí está el ___ actual que conecta esta película.",
+            "ru": "Завершено: Вот текущий ___ , который связывает этот фильм."
+          },
+          "why": {
+            "fr": "Réponse : « auquel ».",
+            "en": "Answer: “auquel”.",
+            "es": "Respuesta: « auquel ».",
+            "ru": "Ответ: « auquel »."
+          }
         },
         {
           "id": "remote-arts-gq-3",
@@ -547,13 +569,25 @@
             "dont",
             "dans laquelle",
             "que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: The gallery ___ the work is hung opens late.",
+            "es": "Completo: La galería ___ la obra está colgada abre tarde.",
+            "ru": "Завершено: Галерея ___ висит работа открывается поздно."
+          },
+          "why": {
+            "fr": "Réponse : « dans laquelle ».",
+            "en": "Answer: “dans laquelle”.",
+            "es": "Respuesta: « dans laquelle ».",
+            "ru": "Ответ: « dans laquelle »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Relative pronouns dont and lequel.",
         "es": "Útil cuando es necesario aplicar: Pronombres relativos dont y lequel.",
-        "ru": "Полезно, когда вам нужно применить: Относительные местоимения dont и lequel."
+        "ru": "Полезно, когда вам нужно применить: Относительные местоимения dont и lequel.",
+        "fr": "Utile pour appliquer : Les relatifs dont et lequel."
       }
     },
     {
@@ -601,7 +635,18 @@
             "afin que",
             "toutefois",
             "dont"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: The critic praised the staging, ___ she judged the story too loose.",
+            "es": "Completo: La crítica elogió la puesta en escena, ___ juzgó la historia demasiado floja.",
+            "ru": "Завершено: Критик похвалил постановку, ___ она сочла историю слишком свободной."
+          },
+          "why": {
+            "fr": "Réponse : « toutefois ».",
+            "en": "Answer: “toutefois”.",
+            "es": "Respuesta: « toutefois ».",
+            "ru": "Ответ: « toutefois »."
+          }
         },
         {
           "id": "remote-arts-gq-5",
@@ -611,13 +656,25 @@
             "En revanche",
             "Dont",
             "Afin que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: The film is readable. ___ the exhibition is flawed by its cartels.",
+            "es": "Completo: La película es legible. ___ la exposición está defectuosa por sus cárteles.",
+            "ru": "Завершено: Фильм читабелен. ___ выставка испорчена картелями."
+          },
+          "why": {
+            "fr": "Réponse : « En revanche ».",
+            "en": "Answer: “En revanche”.",
+            "es": "Respuesta: « En revanche ».",
+            "ru": "Ответ: « En revanche »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Contrast markers in criticism.",
         "es": "Útil cuando necesitas aplicar: Marcadores de contraste en la crítica.",
-        "ru": "Полезно, когда нужно применить: Контрастные маркеры в критике."
+        "ru": "Полезно, когда нужно применить: Контрастные маркеры в критике.",
+        "fr": "Utile pour appliquer : En revanche / toutefois dans la critique."
       }
     }
   ],
@@ -857,6 +914,1071 @@
         },
         "l2": "Le cadre serré sur les mains en dit plus que n’importe quel dialogue explicatif."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-arts-fren-1",
+        "fr": "long-métrage",
+        "en": "feature film",
+        "gloss": {
+          "en": "feature film",
+          "es": "largometraje",
+          "ru": "художественный фильм"
+        },
+        "l2": "long-métrage"
+      },
+      {
+        "id": "remote-arts-fren-2",
+        "fr": "critique",
+        "en": "review",
+        "gloss": {
+          "en": "review",
+          "es": "revisar",
+          "ru": "обзор"
+        },
+        "l2": "critique"
+      },
+      {
+        "id": "remote-arts-fren-3",
+        "fr": "exposition",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "l2": "exposition"
+      },
+      {
+        "id": "remote-arts-fren-4",
+        "fr": "récit",
+        "en": "narrative",
+        "gloss": {
+          "en": "narrative",
+          "es": "narrativo",
+          "ru": "повествование"
+        },
+        "l2": "récit"
+      },
+      {
+        "id": "remote-arts-fren-5",
+        "fr": "esthétique",
+        "en": "aesthetic",
+        "gloss": {
+          "en": "aesthetic",
+          "es": "estético",
+          "ru": "эстетический"
+        },
+        "l2": "esthétique"
+      },
+      {
+        "id": "remote-arts-fren-6",
+        "fr": "mise en scène",
+        "en": "direction",
+        "gloss": {
+          "en": "direction",
+          "es": "dirección",
+          "ru": "направление"
+        },
+        "l2": "mise en scène"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-arts-b2-enl2-1",
+        "fr": "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+        "l2": "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+        "en": "feature film",
+        "gloss": {
+          "en": "feature film",
+          "es": "largometraje",
+          "ru": "художественный фильм"
+        },
+        "prompt": "feature film",
+        "choices": [
+          "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+          "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche.",
+          "L’exposition rétrospective rassemble des œuvres rarement montrées au public."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-enl2-2",
+        "fr": "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche.",
+        "l2": "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche.",
+        "en": "review / criticism",
+        "gloss": {
+          "en": "review / criticism",
+          "es": "revisión / crítica",
+          "ru": "обзор/критика"
+        },
+        "prompt": "review / criticism",
+        "choices": [
+          "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche.",
+          "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+          "L’exposition rétrospective rassemble des œuvres rarement montrées au public."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-enl2-3",
+        "fr": "L’exposition rétrospective rassemble des œuvres rarement montrées au public.",
+        "l2": "L’exposition rétrospective rassemble des œuvres rarement montrées au public.",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "prompt": "exhibition",
+        "choices": [
+          "L’exposition rétrospective rassemble des œuvres rarement montrées au public.",
+          "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+          "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-enl2-4",
+        "fr": "Le récit non linéaire exige du spectateur une attention que tous n’accordent pas.",
+        "l2": "Le récit non linéaire exige du spectateur une attention que tous n’accordent pas.",
+        "en": "narrative",
+        "gloss": {
+          "en": "narrative",
+          "es": "narrativo",
+          "ru": "повествование"
+        },
+        "prompt": "narrative",
+        "choices": [
+          "Le récit non linéaire exige du spectateur une attention que tous n’accordent pas.",
+          "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+          "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-enl2-5",
+        "fr": "L’esthétique du film privilégie les plans fixes afin de laisser respirer les silences.",
+        "l2": "L’esthétique du film privilégie les plans fixes afin de laisser respirer les silences.",
+        "en": "aesthetic",
+        "gloss": {
+          "en": "aesthetic",
+          "es": "estético",
+          "ru": "эстетический"
+        },
+        "prompt": "aesthetic",
+        "choices": [
+          "L’esthétique du film privilégie les plans fixes afin de laisser respirer les silences.",
+          "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+          "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-enl2-6",
+        "fr": "La mise en scène sobre sert le propos, en revanche certains y voient de la tiédeur.",
+        "l2": "La mise en scène sobre sert le propos, en revanche certains y voient de la tiédeur.",
+        "en": "direction / staging",
+        "gloss": {
+          "en": "direction / staging",
+          "es": "dirección / puesta en escena",
+          "ru": "режиссура / постановка"
+        },
+        "prompt": "direction / staging",
+        "choices": [
+          "La mise en scène sobre sert le propos, en revanche certains y voient de la tiédeur.",
+          "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+          "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-enl2-7",
+        "fr": "Ce plan-séquence de douze minutes a été tourné en une seule prise, malgré la foule.",
+        "l2": "Ce plan-séquence de douze minutes a été tourné en une seule prise, malgré la foule.",
+        "en": "shot",
+        "gloss": {
+          "en": "shot",
+          "es": "disparo",
+          "ru": "выстрелил"
+        },
+        "prompt": "shot",
+        "choices": [
+          "Ce plan-séquence de douze minutes a été tourné en une seule prise, malgré la foule.",
+          "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+          "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-enl2-8",
+        "fr": "Le commissaire d’exposition a choisi un accrochage chronologique plutôt que thématique.",
+        "l2": "Le commissaire d’exposition a choisi un accrochage chronologique plutôt que thématique.",
+        "en": "curator",
+        "gloss": {
+          "en": "curator",
+          "es": "curador",
+          "ru": "куратор"
+        },
+        "prompt": "curator",
+        "choices": [
+          "Le commissaire d’exposition a choisi un accrochage chronologique plutôt que thématique.",
+          "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+          "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-arts-b2-prm-1",
+        "en": "feature film",
+        "gloss": {
+          "en": "feature film",
+          "es": "largometraje",
+          "ru": "художественный фильм"
+        },
+        "answers": [
+          "long-métrage",
+          "le long-métrage"
+        ],
+        "target": "le long-métrage"
+      },
+      {
+        "id": "remote-arts-b2-prm-2",
+        "en": "review / criticism",
+        "gloss": {
+          "en": "review / criticism",
+          "es": "revisión / crítica",
+          "ru": "обзор/критика"
+        },
+        "answers": [
+          "critique",
+          "la critique"
+        ],
+        "target": "la critique"
+      },
+      {
+        "id": "remote-arts-b2-prm-3",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "answers": [
+          "exposition",
+          "l' exposition"
+        ],
+        "target": "l' exposition"
+      },
+      {
+        "id": "remote-arts-b2-prm-4",
+        "en": "narrative",
+        "gloss": {
+          "en": "narrative",
+          "es": "narrativo",
+          "ru": "повествование"
+        },
+        "answers": [
+          "récit",
+          "le récit"
+        ],
+        "target": "le récit"
+      },
+      {
+        "id": "remote-arts-b2-prm-5",
+        "en": "aesthetic",
+        "gloss": {
+          "en": "aesthetic",
+          "es": "estético",
+          "ru": "эстетический"
+        },
+        "answers": [
+          "esthétique",
+          "l' esthétique"
+        ],
+        "target": "l' esthétique"
+      },
+      {
+        "id": "remote-arts-b2-prm-6",
+        "en": "direction / staging",
+        "gloss": {
+          "en": "direction / staging",
+          "es": "dirección / puesta en escena",
+          "ru": "режиссура / постановка"
+        },
+        "answers": [
+          "mise en scène",
+          "la mise en scène"
+        ],
+        "target": "la mise en scène"
+      },
+      {
+        "id": "remote-arts-b2-prm-7",
+        "en": "shot",
+        "gloss": {
+          "en": "shot",
+          "es": "disparo",
+          "ru": "выстрелил"
+        },
+        "answers": [
+          "plan",
+          "le plan"
+        ],
+        "target": "le plan"
+      },
+      {
+        "id": "remote-arts-b2-prm-8",
+        "en": "curator",
+        "gloss": {
+          "en": "curator",
+          "es": "curador",
+          "ru": "куратор"
+        },
+        "answers": [
+          "commissaire",
+          "le commissaire"
+        ],
+        "target": "le commissaire"
+      },
+      {
+        "id": "remote-arts-b2-prm-9",
+        "en": "performance / interpretation",
+        "gloss": {
+          "en": "performance / interpretation",
+          "es": "actuación / interpretación",
+          "ru": "перформанс/интерпретация"
+        },
+        "answers": [
+          "interprétation",
+          "l' interprétation"
+        ],
+        "target": "l' interprétation"
+      },
+      {
+        "id": "remote-arts-b2-prm-10",
+        "en": "awards lineup",
+        "gloss": {
+          "en": "awards lineup",
+          "es": "cartel de premios",
+          "ru": "состав наград"
+        },
+        "answers": [
+          "palmarès",
+          "le palmarès"
+        ],
+        "target": "le palmarès"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-arts-b2-sign-1",
+        "fr": "long-métrage",
+        "l2": "long-métrage",
+        "en": "feature film",
+        "gloss": {
+          "en": "feature film",
+          "es": "largometraje",
+          "ru": "художественный фильм"
+        },
+        "choices": [
+          "feature film",
+          "review / criticism",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-2",
+        "fr": "critique",
+        "l2": "critique",
+        "en": "review / criticism",
+        "gloss": {
+          "en": "review / criticism",
+          "es": "revisión / crítica",
+          "ru": "обзор/критика"
+        },
+        "choices": [
+          "review / criticism",
+          "feature film",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-3",
+        "fr": "exposition",
+        "l2": "exposition",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "choices": [
+          "exhibition",
+          "feature film",
+          "review / criticism"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-4",
+        "fr": "récit",
+        "l2": "récit",
+        "en": "narrative",
+        "gloss": {
+          "en": "narrative",
+          "es": "narrativo",
+          "ru": "повествование"
+        },
+        "choices": [
+          "narrative",
+          "feature film",
+          "review / criticism"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-5",
+        "fr": "esthétique",
+        "l2": "esthétique",
+        "en": "aesthetic",
+        "gloss": {
+          "en": "aesthetic",
+          "es": "estético",
+          "ru": "эстетический"
+        },
+        "choices": [
+          "aesthetic",
+          "feature film",
+          "review / criticism"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-6",
+        "fr": "mise en scène",
+        "l2": "mise en scène",
+        "en": "direction / staging",
+        "gloss": {
+          "en": "direction / staging",
+          "es": "dirección / puesta en escena",
+          "ru": "режиссура / постановка"
+        },
+        "choices": [
+          "direction / staging",
+          "feature film",
+          "review / criticism"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-7",
+        "fr": "plan",
+        "l2": "plan",
+        "en": "shot",
+        "gloss": {
+          "en": "shot",
+          "es": "disparo",
+          "ru": "выстрелил"
+        },
+        "choices": [
+          "shot",
+          "feature film",
+          "review / criticism"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-8",
+        "fr": "commissaire",
+        "l2": "commissaire",
+        "en": "curator",
+        "gloss": {
+          "en": "curator",
+          "es": "curador",
+          "ru": "куратор"
+        },
+        "choices": [
+          "curator",
+          "feature film",
+          "review / criticism"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-9",
+        "fr": "interprétation",
+        "l2": "interprétation",
+        "en": "performance / interpretation",
+        "gloss": {
+          "en": "performance / interpretation",
+          "es": "actuación / interpretación",
+          "ru": "перформанс/интерпретация"
+        },
+        "choices": [
+          "performance / interpretation",
+          "feature film",
+          "review / criticism"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-10",
+        "fr": "palmarès",
+        "l2": "palmarès",
+        "en": "awards lineup",
+        "gloss": {
+          "en": "awards lineup",
+          "es": "cartel de premios",
+          "ru": "состав наград"
+        },
+        "choices": [
+          "awards lineup",
+          "feature film",
+          "review / criticism"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-11",
+        "fr": "montage",
+        "l2": "montage",
+        "en": "editing",
+        "gloss": {
+          "en": "editing",
+          "es": "edición",
+          "ru": "редактирование"
+        },
+        "choices": [
+          "editing",
+          "feature film",
+          "review / criticism"
+        ]
+      },
+      {
+        "id": "remote-arts-b2-sign-12",
+        "fr": "rétrospective",
+        "l2": "rétrospective",
+        "en": "retrospective",
+        "gloss": {
+          "en": "retrospective",
+          "es": "retrospectivo",
+          "ru": "ретроспектива"
+        },
+        "choices": [
+          "retrospective",
+          "feature film",
+          "review / criticism"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-arts-b2-pair-1",
+        "a": {
+          "fr": "long-métrage",
+          "l2": "long-métrage",
+          "en": "feature film",
+          "gloss": {
+            "en": "feature film",
+            "es": "largometraje",
+            "ru": "художественный фильм"
+          }
+        },
+        "b": {
+          "fr": "critique",
+          "l2": "critique",
+          "en": "review / criticism",
+          "gloss": {
+            "en": "review / criticism",
+            "es": "revisión / crítica",
+            "ru": "обзор/критика"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-arts-b2-pair-2",
+        "a": {
+          "fr": "exposition",
+          "l2": "exposition",
+          "en": "exhibition",
+          "gloss": {
+            "en": "exhibition",
+            "es": "exhibición",
+            "ru": "выставка"
+          }
+        },
+        "b": {
+          "fr": "récit",
+          "l2": "récit",
+          "en": "narrative",
+          "gloss": {
+            "en": "narrative",
+            "es": "narrativo",
+            "ru": "повествование"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-arts-b2-pair-3",
+        "a": {
+          "fr": "esthétique",
+          "l2": "esthétique",
+          "en": "aesthetic",
+          "gloss": {
+            "en": "aesthetic",
+            "es": "estético",
+            "ru": "эстетический"
+          }
+        },
+        "b": {
+          "fr": "mise en scène",
+          "l2": "mise en scène",
+          "en": "direction / staging",
+          "gloss": {
+            "en": "direction / staging",
+            "es": "dirección / puesta en escena",
+            "ru": "режиссура / постановка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-arts-b2-pair-4",
+        "a": {
+          "fr": "plan",
+          "l2": "plan",
+          "en": "shot",
+          "gloss": {
+            "en": "shot",
+            "es": "disparo",
+            "ru": "выстрелил"
+          }
+        },
+        "b": {
+          "fr": "commissaire",
+          "l2": "commissaire",
+          "en": "curator",
+          "gloss": {
+            "en": "curator",
+            "es": "curador",
+            "ru": "куратор"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-arts-b2-pair-5",
+        "a": {
+          "fr": "interprétation",
+          "l2": "interprétation",
+          "en": "performance / interpretation",
+          "gloss": {
+            "en": "performance / interpretation",
+            "es": "actuación / interpretación",
+            "ru": "перформанс/интерпретация"
+          }
+        },
+        "b": {
+          "fr": "palmarès",
+          "l2": "palmarès",
+          "en": "awards lineup",
+          "gloss": {
+            "en": "awards lineup",
+            "es": "cartel de premios",
+            "ru": "состав наград"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-arts-b2-gap-1",
+        "fr": "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+        "l2": "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+        "speak": "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+        "blank": "long-métrage",
+        "en": "feature film",
+        "gloss": {
+          "en": "feature film",
+          "es": "largometraje",
+          "ru": "художественный фильм"
+        }
+      },
+      {
+        "id": "remote-arts-b2-gap-2",
+        "fr": "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche.",
+        "l2": "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche.",
+        "speak": "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche.",
+        "blank": "critique",
+        "en": "review / criticism",
+        "gloss": {
+          "en": "review / criticism",
+          "es": "revisión / crítica",
+          "ru": "обзор/критика"
+        }
+      },
+      {
+        "id": "remote-arts-b2-gap-3",
+        "fr": "L’exposition rétrospective rassemble des œuvres rarement montrées au public.",
+        "l2": "L’exposition rétrospective rassemble des œuvres rarement montrées au public.",
+        "speak": "L’exposition rétrospective rassemble des œuvres rarement montrées au public.",
+        "blank": "exposition",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        }
+      },
+      {
+        "id": "remote-arts-b2-gap-4",
+        "fr": "Le récit non linéaire exige du spectateur une attention que tous n’accordent pas.",
+        "l2": "Le récit non linéaire exige du spectateur une attention que tous n’accordent pas.",
+        "speak": "Le récit non linéaire exige du spectateur une attention que tous n’accordent pas.",
+        "blank": "récit",
+        "en": "narrative",
+        "gloss": {
+          "en": "narrative",
+          "es": "narrativo",
+          "ru": "повествование"
+        }
+      },
+      {
+        "id": "remote-arts-b2-gap-5",
+        "fr": "L’esthétique du film privilégie les plans fixes afin de laisser respirer les silences.",
+        "l2": "L’esthétique du film privilégie les plans fixes afin de laisser respirer les silences.",
+        "speak": "L’esthétique du film privilégie les plans fixes afin de laisser respirer les silences.",
+        "blank": "esthétique",
+        "en": "aesthetic",
+        "gloss": {
+          "en": "aesthetic",
+          "es": "estético",
+          "ru": "эстетический"
+        }
+      },
+      {
+        "id": "remote-arts-b2-gap-6",
+        "fr": "La mise en scène sobre sert le propos, en revanche certains y voient de la tiédeur.",
+        "l2": "La mise en scène sobre sert le propos, en revanche certains y voient de la tiédeur.",
+        "speak": "La mise en scène sobre sert le propos, en revanche certains y voient de la tiédeur.",
+        "blank": "mise en scène",
+        "en": "direction / staging",
+        "gloss": {
+          "en": "direction / staging",
+          "es": "dirección / puesta en escena",
+          "ru": "режиссура / постановка"
+        }
+      },
+      {
+        "id": "remote-arts-b2-gap-7",
+        "fr": "Ce plan-séquence de douze minutes a été tourné en une seule prise, malgré la foule.",
+        "l2": "Ce plan-séquence de douze minutes a été tourné en une seule prise, malgré la foule.",
+        "speak": "Ce plan-séquence de douze minutes a été tourné en une seule prise, malgré la foule.",
+        "blank": "plan",
+        "en": "shot",
+        "gloss": {
+          "en": "shot",
+          "es": "disparo",
+          "ru": "выстрелил"
+        }
+      },
+      {
+        "id": "remote-arts-b2-gap-8",
+        "fr": "Le commissaire d’exposition a choisi un accrochage chronologique plutôt que thématique.",
+        "l2": "Le commissaire d’exposition a choisi un accrochage chronologique plutôt que thématique.",
+        "speak": "Le commissaire d’exposition a choisi un accrochage chronologique plutôt que thématique.",
+        "blank": "commissaire",
+        "en": "curator",
+        "gloss": {
+          "en": "curator",
+          "es": "curador",
+          "ru": "куратор"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-arts-b2-ord-1",
+        "fr": "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+        "l2": "Ce long-métrage refuse le happy end, ce qui a divisé la critique à sa sortie.",
+        "en": "feature film",
+        "gloss": {
+          "en": "feature film",
+          "es": "largometraje",
+          "ru": "художественный фильм"
+        },
+        "words": [
+          "Ce",
+          "long-métrage",
+          "refuse",
+          "le",
+          "happy",
+          "end,",
+          "ce",
+          "qui",
+          "a",
+          "divisé",
+          "la",
+          "critique",
+          "à",
+          "sa",
+          "sortie."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-ord-2",
+        "fr": "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche.",
+        "l2": "La critique a salué la mise en scène, toutefois elle a jugé le récit trop lâche.",
+        "en": "review / criticism",
+        "gloss": {
+          "en": "review / criticism",
+          "es": "revisión / crítica",
+          "ru": "обзор/критика"
+        },
+        "words": [
+          "La",
+          "critique",
+          "a",
+          "salué",
+          "la",
+          "mise",
+          "en",
+          "scène,",
+          "toutefois",
+          "elle",
+          "a",
+          "jugé",
+          "le",
+          "récit",
+          "trop",
+          "lâche."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-ord-3",
+        "fr": "L’exposition rétrospective rassemble des œuvres rarement montrées au public.",
+        "l2": "L’exposition rétrospective rassemble des œuvres rarement montrées au public.",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "words": [
+          "L’exposition",
+          "rétrospective",
+          "rassemble",
+          "des",
+          "œuvres",
+          "rarement",
+          "montrées",
+          "au",
+          "public."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-ord-4",
+        "fr": "Le récit non linéaire exige du spectateur une attention que tous n’accordent pas.",
+        "l2": "Le récit non linéaire exige du spectateur une attention que tous n’accordent pas.",
+        "en": "narrative",
+        "gloss": {
+          "en": "narrative",
+          "es": "narrativo",
+          "ru": "повествование"
+        },
+        "words": [
+          "Le",
+          "récit",
+          "non",
+          "linéaire",
+          "exige",
+          "du",
+          "spectateur",
+          "une",
+          "attention",
+          "que",
+          "tous",
+          "n’accordent",
+          "pas."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-ord-5",
+        "fr": "L’esthétique du film privilégie les plans fixes afin de laisser respirer les silences.",
+        "l2": "L’esthétique du film privilégie les plans fixes afin de laisser respirer les silences.",
+        "en": "aesthetic",
+        "gloss": {
+          "en": "aesthetic",
+          "es": "estético",
+          "ru": "эстетический"
+        },
+        "words": [
+          "L’esthétique",
+          "du",
+          "film",
+          "privilégie",
+          "les",
+          "plans",
+          "fixes",
+          "afin",
+          "de",
+          "laisser",
+          "respirer",
+          "les",
+          "silences."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-ord-6",
+        "fr": "La mise en scène sobre sert le propos, en revanche certains y voient de la tiédeur.",
+        "l2": "La mise en scène sobre sert le propos, en revanche certains y voient de la tiédeur.",
+        "en": "direction / staging",
+        "gloss": {
+          "en": "direction / staging",
+          "es": "dirección / puesta en escena",
+          "ru": "режиссура / постановка"
+        },
+        "words": [
+          "La",
+          "mise",
+          "en",
+          "scène",
+          "sobre",
+          "sert",
+          "le",
+          "propos,",
+          "en",
+          "revanche",
+          "certains",
+          "y",
+          "voient",
+          "de",
+          "la",
+          "tiédeur."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-ord-7",
+        "fr": "Ce plan-séquence de douze minutes a été tourné en une seule prise, malgré la foule.",
+        "l2": "Ce plan-séquence de douze minutes a été tourné en une seule prise, malgré la foule.",
+        "en": "shot",
+        "gloss": {
+          "en": "shot",
+          "es": "disparo",
+          "ru": "выстрелил"
+        },
+        "words": [
+          "Ce",
+          "plan-séquence",
+          "de",
+          "douze",
+          "minutes",
+          "a",
+          "été",
+          "tourné",
+          "en",
+          "une",
+          "seule",
+          "prise,",
+          "malgré",
+          "la",
+          "foule."
+        ]
+      },
+      {
+        "id": "remote-arts-b2-ord-8",
+        "fr": "Le commissaire d’exposition a choisi un accrochage chronologique plutôt que thématique.",
+        "l2": "Le commissaire d’exposition a choisi un accrochage chronologique plutôt que thématique.",
+        "en": "curator",
+        "gloss": {
+          "en": "curator",
+          "es": "curador",
+          "ru": "куратор"
+        },
+        "words": [
+          "Le",
+          "commissaire",
+          "d’exposition",
+          "a",
+          "choisi",
+          "un",
+          "accrochage",
+          "chronologique",
+          "plutôt",
+          "que",
+          "thématique."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-arts-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "lɔ̃.me.tʁaʒ",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "long-métrage",
+          "l2": "long-métrage",
+          "en": "feature film",
+          "gloss": {
+            "en": "feature film",
+            "es": "largometraje",
+            "ru": "художественный фильм"
+          },
+          "ipa": "lɔ̃.me.tʁaʒ"
+        },
+        {
+          "fr": "critique",
+          "l2": "critique",
+          "en": "review / criticism",
+          "gloss": {
+            "en": "review / criticism",
+            "es": "revisión / crítica",
+            "ru": "обзор/критика"
+          },
+          "ipa": "kʁi.tik"
+        },
+        {
+          "fr": "exposition",
+          "l2": "exposition",
+          "en": "exhibition",
+          "gloss": {
+            "en": "exhibition",
+            "es": "exhibición",
+            "ru": "выставка"
+          },
+          "ipa": "ɛk.spɔ.zi.sjɔ̃"
+        },
+        {
+          "fr": "récit",
+          "l2": "récit",
+          "en": "narrative",
+          "gloss": {
+            "en": "narrative",
+            "es": "narrativo",
+            "ru": "повествование"
+          },
+          "ipa": "ʁe.si"
+        },
+        {
+          "fr": "esthétique",
+          "l2": "esthétique",
+          "en": "aesthetic",
+          "gloss": {
+            "en": "aesthetic",
+            "es": "estético",
+            "ru": "эстетический"
+          },
+          "ipa": "ɛs.te.tik"
+        }
+      ]
+    }
+  ]
 }

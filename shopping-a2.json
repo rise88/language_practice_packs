@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "shopping-a2",
-  "version": 5,
+  "version": 6,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "Quel",
             "Combien",
             "Où"
-          ]
+          ],
+          "gloss": {
+            "en": "___ does it cost?",
+            "es": "___ ¿cuesta?",
+            "ru": "___ это стоит?"
+          },
+          "why": {
+            "fr": "Réponse : « Combien ».",
+            "en": "Answer: “Combien”.",
+            "es": "Respuesta: « Combien ».",
+            "ru": "Ответ: « Combien »."
+          }
         },
         {
           "id": "remote-shopping-gq-2",
@@ -537,7 +548,18 @@
             "de",
             "à",
             "pour"
-          ]
+          ],
+          "gloss": {
+            "en": "There is a ___ twenty percent discount.",
+            "es": "Hay un ___ veinte por ciento de descuento.",
+            "ru": "Действует ___ двадцатипроцентная скидка."
+          },
+          "why": {
+            "fr": "Réponse : « de ».",
+            "en": "Answer: “de”.",
+            "es": "Respuesta: « de ».",
+            "ru": "Ответ: « de »."
+          }
         },
         {
           "id": "remote-shopping-gq-3",
@@ -547,13 +569,25 @@
             "la",
             "le",
             "des"
-          ]
+          ],
+          "gloss": {
+            "en": "What is ___ price of this bag?",
+            "es": "¿Cuál es el precio de ___ de esta bolsa?",
+            "ru": "Какова ___ цена этой сумки?"
+          },
+          "why": {
+            "fr": "Réponse : « le ».",
+            "en": "Answer: “le”.",
+            "es": "Respuesta: « le ».",
+            "ru": "Ответ: « le »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Asking about price.",
         "es": "Útil cuando necesita presentar una solicitud: preguntar sobre el precio.",
-        "ru": "Полезно, когда вам нужно подать заявку: Спросить о цене."
+        "ru": "Полезно, когда вам нужно подать заявку: Спросить о цене.",
+        "fr": "Utile pour appliquer : Combien / quel prix."
       }
     },
     {
@@ -606,7 +640,18 @@
             "peux",
             "dois",
             "vais"
-          ]
+          ],
+          "gloss": {
+            "en": "Can I ___ try this, please?",
+            "es": "¿Puedo ___ probar esto, por favor?",
+            "ru": "Могу ли я ___ попробовать это, пожалуйста?"
+          },
+          "why": {
+            "fr": "Réponse : « peux ».",
+            "en": "Answer: “peux”.",
+            "es": "Respuesta: « peux ».",
+            "ru": "Ответ: « peux »."
+          }
         },
         {
           "id": "remote-shopping-gq-5",
@@ -616,13 +661,25 @@
             "Je suis",
             "Puis-je",
             "Il y a"
-          ]
+          ],
+          "gloss": {
+            "en": "___ make a refund?",
+            "es": "___ ¿hacer un reembolso?",
+            "ru": "___ вернуть деньги?"
+          },
+          "why": {
+            "fr": "Réponse : « Puis-je ».",
+            "en": "Answer: “Puis-je”.",
+            "es": "Respuesta: « Puis-je ».",
+            "ru": "Ответ: « Puis-je »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Pouvoir for polite requests.",
         "es": "Útil cuando necesita presentar una solicitud: Pouvoir para solicitudes educadas.",
-        "ru": "Полезно, когда вам нужно подать заявку: Pouvoir для вежливых просьб."
+        "ru": "Полезно, когда вам нужно подать заявку: Pouvoir для вежливых просьб.",
+        "fr": "Utile pour appliquer : Pouvoir et politesse."
       }
     }
   ],
@@ -843,6 +900,1014 @@
         },
         "l2": "Gardez votre ticket de caisse."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-shopping-fren-1",
+        "fr": "magasin",
+        "en": "shop",
+        "gloss": {
+          "en": "shop",
+          "es": "comercio",
+          "ru": "магазин"
+        },
+        "l2": "magasin"
+      },
+      {
+        "id": "remote-shopping-fren-2",
+        "fr": "prix",
+        "en": "price",
+        "gloss": {
+          "en": "price",
+          "es": "precio",
+          "ru": "цена"
+        },
+        "l2": "prix"
+      },
+      {
+        "id": "remote-shopping-fren-3",
+        "fr": "caisse",
+        "en": "checkout",
+        "gloss": {
+          "en": "checkout",
+          "es": "verificar",
+          "ru": "проверить"
+        },
+        "l2": "caisse"
+      },
+      {
+        "id": "remote-shopping-fren-4",
+        "fr": "taille",
+        "en": "size",
+        "gloss": {
+          "en": "size",
+          "es": "tamaño",
+          "ru": "размер"
+        },
+        "l2": "taille"
+      },
+      {
+        "id": "remote-shopping-fren-5",
+        "fr": "espèces",
+        "en": "cash",
+        "gloss": {
+          "en": "cash",
+          "es": "dinero",
+          "ru": "наличные"
+        },
+        "l2": "espèces"
+      },
+      {
+        "id": "remote-shopping-fren-6",
+        "fr": "sac",
+        "en": "bag",
+        "gloss": {
+          "en": "bag",
+          "es": "bolsa",
+          "ru": "сумка"
+        },
+        "l2": "sac"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-shopping-a2-enl2-1",
+        "fr": "Ce magasin ouvre à neuf heures.",
+        "l2": "Ce magasin ouvre à neuf heures.",
+        "en": "shop / store",
+        "gloss": {
+          "en": "shop / store",
+          "es": "tienda / tienda",
+          "ru": "магазин / магазин"
+        },
+        "prompt": "shop / store",
+        "choices": [
+          "Ce magasin ouvre à neuf heures.",
+          "Je vais au supermarché le samedi.",
+          "Quel est le prix de ce pull ?"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-enl2-2",
+        "fr": "Je vais au supermarché le samedi.",
+        "l2": "Je vais au supermarché le samedi.",
+        "en": "supermarket",
+        "gloss": {
+          "en": "supermarket",
+          "es": "supermercado",
+          "ru": "супермаркет"
+        },
+        "prompt": "supermarket",
+        "choices": [
+          "Je vais au supermarché le samedi.",
+          "Ce magasin ouvre à neuf heures.",
+          "Quel est le prix de ce pull ?"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-enl2-3",
+        "fr": "Quel est le prix de ce pull ?",
+        "l2": "Quel est le prix de ce pull ?",
+        "en": "price",
+        "gloss": {
+          "en": "price",
+          "es": "precio",
+          "ru": "цена"
+        },
+        "prompt": "price",
+        "choices": [
+          "Quel est le prix de ce pull ?",
+          "Ce magasin ouvre à neuf heures.",
+          "Je vais au supermarché le samedi."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-enl2-4",
+        "fr": "Il y a une réduction de vingt pour cent.",
+        "l2": "Il y a une réduction de vingt pour cent.",
+        "en": "discount / sale reduction",
+        "gloss": {
+          "en": "discount / sale reduction",
+          "es": "descuento / reducción de venta",
+          "ru": "скидка/снижение продаж"
+        },
+        "prompt": "discount / sale reduction",
+        "choices": [
+          "Il y a une réduction de vingt pour cent.",
+          "Ce magasin ouvre à neuf heures.",
+          "Je vais au supermarché le samedi."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-enl2-5",
+        "fr": "Passez à la caisse, s’il vous plaît.",
+        "l2": "Passez à la caisse, s’il vous plaît.",
+        "en": "checkout / till",
+        "gloss": {
+          "en": "checkout / till",
+          "es": "pagar / hasta",
+          "ru": "касса / до"
+        },
+        "prompt": "checkout / till",
+        "choices": [
+          "Passez à la caisse, s’il vous plaît.",
+          "Ce magasin ouvre à neuf heures.",
+          "Je vais au supermarché le samedi."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-enl2-6",
+        "fr": "Mon panier est déjà plein.",
+        "l2": "Mon panier est déjà plein.",
+        "en": "basket / cart (shopping)",
+        "gloss": {
+          "en": "basket / cart (shopping)",
+          "es": "cesta / carrito (compras)",
+          "ru": "корзина/корзина (покупки)"
+        },
+        "prompt": "basket / cart (shopping)",
+        "choices": [
+          "Mon panier est déjà plein.",
+          "Ce magasin ouvre à neuf heures.",
+          "Je vais au supermarché le samedi."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-enl2-7",
+        "fr": "Gardez votre ticket de caisse.",
+        "l2": "Gardez votre ticket de caisse.",
+        "en": "receipt",
+        "gloss": {
+          "en": "receipt",
+          "es": "recibo",
+          "ru": "квитанция"
+        },
+        "prompt": "receipt",
+        "choices": [
+          "Gardez votre ticket de caisse.",
+          "Ce magasin ouvre à neuf heures.",
+          "Je vais au supermarché le samedi."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-enl2-8",
+        "fr": "Quelle est votre taille ?",
+        "l2": "Quelle est votre taille ?",
+        "en": "size",
+        "gloss": {
+          "en": "size",
+          "es": "tamaño",
+          "ru": "размер"
+        },
+        "prompt": "size",
+        "choices": [
+          "Quelle est votre taille ?",
+          "Ce magasin ouvre à neuf heures.",
+          "Je vais au supermarché le samedi."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-shopping-a2-prm-1",
+        "en": "shop / store",
+        "gloss": {
+          "en": "shop / store",
+          "es": "tienda / tienda",
+          "ru": "магазин / магазин"
+        },
+        "answers": [
+          "magasin",
+          "le magasin"
+        ],
+        "target": "le magasin"
+      },
+      {
+        "id": "remote-shopping-a2-prm-2",
+        "en": "supermarket",
+        "gloss": {
+          "en": "supermarket",
+          "es": "supermercado",
+          "ru": "супермаркет"
+        },
+        "answers": [
+          "supermarché",
+          "le supermarché"
+        ],
+        "target": "le supermarché"
+      },
+      {
+        "id": "remote-shopping-a2-prm-3",
+        "en": "price",
+        "gloss": {
+          "en": "price",
+          "es": "precio",
+          "ru": "цена"
+        },
+        "answers": [
+          "prix",
+          "le prix"
+        ],
+        "target": "le prix"
+      },
+      {
+        "id": "remote-shopping-a2-prm-4",
+        "en": "discount / sale reduction",
+        "gloss": {
+          "en": "discount / sale reduction",
+          "es": "descuento / reducción de venta",
+          "ru": "скидка/снижение продаж"
+        },
+        "answers": [
+          "réduction",
+          "la réduction"
+        ],
+        "target": "la réduction"
+      },
+      {
+        "id": "remote-shopping-a2-prm-5",
+        "en": "checkout / till",
+        "gloss": {
+          "en": "checkout / till",
+          "es": "pagar / hasta",
+          "ru": "касса / до"
+        },
+        "answers": [
+          "caisse",
+          "la caisse"
+        ],
+        "target": "la caisse"
+      },
+      {
+        "id": "remote-shopping-a2-prm-6",
+        "en": "basket / cart (shopping)",
+        "gloss": {
+          "en": "basket / cart (shopping)",
+          "es": "cesta / carrito (compras)",
+          "ru": "корзина/корзина (покупки)"
+        },
+        "answers": [
+          "panier",
+          "le panier"
+        ],
+        "target": "le panier"
+      },
+      {
+        "id": "remote-shopping-a2-prm-7",
+        "en": "receipt",
+        "gloss": {
+          "en": "receipt",
+          "es": "recibo",
+          "ru": "квитанция"
+        },
+        "answers": [
+          "ticket de caisse",
+          "le ticket de caisse"
+        ],
+        "target": "le ticket de caisse"
+      },
+      {
+        "id": "remote-shopping-a2-prm-8",
+        "en": "size",
+        "gloss": {
+          "en": "size",
+          "es": "tamaño",
+          "ru": "размер"
+        },
+        "answers": [
+          "taille",
+          "la taille"
+        ],
+        "target": "la taille"
+      },
+      {
+        "id": "remote-shopping-a2-prm-9",
+        "en": "fitting / trying on",
+        "gloss": {
+          "en": "fitting / trying on",
+          "es": "probándose / probándose",
+          "ru": "примерка/примерка"
+        },
+        "answers": [
+          "essayage",
+          "le essayage"
+        ],
+        "target": "le essayage"
+      },
+      {
+        "id": "remote-shopping-a2-prm-10",
+        "en": "cash",
+        "gloss": {
+          "en": "cash",
+          "es": "dinero",
+          "ru": "наличные"
+        },
+        "answers": [
+          "espèces",
+          "les espèces"
+        ],
+        "target": "les espèces"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-shopping-a2-sign-1",
+        "fr": "magasin",
+        "l2": "magasin",
+        "en": "shop / store",
+        "gloss": {
+          "en": "shop / store",
+          "es": "tienda / tienda",
+          "ru": "магазин / магазин"
+        },
+        "choices": [
+          "shop / store",
+          "supermarket",
+          "price"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-2",
+        "fr": "supermarché",
+        "l2": "supermarché",
+        "en": "supermarket",
+        "gloss": {
+          "en": "supermarket",
+          "es": "supermercado",
+          "ru": "супермаркет"
+        },
+        "choices": [
+          "supermarket",
+          "shop / store",
+          "price"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-3",
+        "fr": "prix",
+        "l2": "prix",
+        "en": "price",
+        "gloss": {
+          "en": "price",
+          "es": "precio",
+          "ru": "цена"
+        },
+        "choices": [
+          "price",
+          "shop / store",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-4",
+        "fr": "réduction",
+        "l2": "réduction",
+        "en": "discount / sale reduction",
+        "gloss": {
+          "en": "discount / sale reduction",
+          "es": "descuento / reducción de venta",
+          "ru": "скидка/снижение продаж"
+        },
+        "choices": [
+          "discount / sale reduction",
+          "shop / store",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-5",
+        "fr": "caisse",
+        "l2": "caisse",
+        "en": "checkout / till",
+        "gloss": {
+          "en": "checkout / till",
+          "es": "pagar / hasta",
+          "ru": "касса / до"
+        },
+        "choices": [
+          "checkout / till",
+          "shop / store",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-6",
+        "fr": "panier",
+        "l2": "panier",
+        "en": "basket / cart (shopping)",
+        "gloss": {
+          "en": "basket / cart (shopping)",
+          "es": "cesta / carrito (compras)",
+          "ru": "корзина/корзина (покупки)"
+        },
+        "choices": [
+          "basket / cart (shopping)",
+          "shop / store",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-7",
+        "fr": "ticket de caisse",
+        "l2": "ticket de caisse",
+        "en": "receipt",
+        "gloss": {
+          "en": "receipt",
+          "es": "recibo",
+          "ru": "квитанция"
+        },
+        "choices": [
+          "receipt",
+          "shop / store",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-8",
+        "fr": "taille",
+        "l2": "taille",
+        "en": "size",
+        "gloss": {
+          "en": "size",
+          "es": "tamaño",
+          "ru": "размер"
+        },
+        "choices": [
+          "size",
+          "shop / store",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-9",
+        "fr": "essayage",
+        "l2": "essayage",
+        "en": "fitting / trying on",
+        "gloss": {
+          "en": "fitting / trying on",
+          "es": "probándose / probándose",
+          "ru": "примерка/примерка"
+        },
+        "choices": [
+          "fitting / trying on",
+          "shop / store",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-10",
+        "fr": "espèces",
+        "l2": "espèces",
+        "en": "cash",
+        "gloss": {
+          "en": "cash",
+          "es": "dinero",
+          "ru": "наличные"
+        },
+        "choices": [
+          "cash",
+          "shop / store",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-11",
+        "fr": "carte bancaire",
+        "l2": "carte bancaire",
+        "en": "bank / debit card",
+        "gloss": {
+          "en": "bank / debit card",
+          "es": "tarjeta bancaria/débito",
+          "ru": "банковская/дебетовая карта"
+        },
+        "choices": [
+          "bank / debit card",
+          "shop / store",
+          "supermarket"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-sign-12",
+        "fr": "rayon",
+        "l2": "rayon",
+        "en": "aisle / department",
+        "gloss": {
+          "en": "aisle / department",
+          "es": "pasillo / departamento",
+          "ru": "проход / отдел"
+        },
+        "choices": [
+          "aisle / department",
+          "shop / store",
+          "supermarket"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-shopping-a2-pair-1",
+        "a": {
+          "fr": "magasin",
+          "l2": "magasin",
+          "en": "shop / store",
+          "gloss": {
+            "en": "shop / store",
+            "es": "tienda / tienda",
+            "ru": "магазин / магазин"
+          }
+        },
+        "b": {
+          "fr": "supermarché",
+          "l2": "supermarché",
+          "en": "supermarket",
+          "gloss": {
+            "en": "supermarket",
+            "es": "supermercado",
+            "ru": "супермаркет"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-shopping-a2-pair-2",
+        "a": {
+          "fr": "prix",
+          "l2": "prix",
+          "en": "price",
+          "gloss": {
+            "en": "price",
+            "es": "precio",
+            "ru": "цена"
+          }
+        },
+        "b": {
+          "fr": "réduction",
+          "l2": "réduction",
+          "en": "discount / sale reduction",
+          "gloss": {
+            "en": "discount / sale reduction",
+            "es": "descuento / reducción de venta",
+            "ru": "скидка/снижение продаж"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-shopping-a2-pair-3",
+        "a": {
+          "fr": "caisse",
+          "l2": "caisse",
+          "en": "checkout / till",
+          "gloss": {
+            "en": "checkout / till",
+            "es": "pagar / hasta",
+            "ru": "касса / до"
+          }
+        },
+        "b": {
+          "fr": "panier",
+          "l2": "panier",
+          "en": "basket / cart (shopping)",
+          "gloss": {
+            "en": "basket / cart (shopping)",
+            "es": "cesta / carrito (compras)",
+            "ru": "корзина/корзина (покупки)"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-shopping-a2-pair-4",
+        "a": {
+          "fr": "ticket de caisse",
+          "l2": "ticket de caisse",
+          "en": "receipt",
+          "gloss": {
+            "en": "receipt",
+            "es": "recibo",
+            "ru": "квитанция"
+          }
+        },
+        "b": {
+          "fr": "taille",
+          "l2": "taille",
+          "en": "size",
+          "gloss": {
+            "en": "size",
+            "es": "tamaño",
+            "ru": "размер"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-shopping-a2-pair-5",
+        "a": {
+          "fr": "essayage",
+          "l2": "essayage",
+          "en": "fitting / trying on",
+          "gloss": {
+            "en": "fitting / trying on",
+            "es": "probándose / probándose",
+            "ru": "примерка/примерка"
+          }
+        },
+        "b": {
+          "fr": "espèces",
+          "l2": "espèces",
+          "en": "cash",
+          "gloss": {
+            "en": "cash",
+            "es": "dinero",
+            "ru": "наличные"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-shopping-a2-gap-1",
+        "fr": "Ce magasin ouvre à neuf heures.",
+        "l2": "Ce magasin ouvre à neuf heures.",
+        "speak": "Ce magasin ouvre à neuf heures.",
+        "blank": "magasin",
+        "en": "shop / store",
+        "gloss": {
+          "en": "shop / store",
+          "es": "tienda / tienda",
+          "ru": "магазин / магазин"
+        }
+      },
+      {
+        "id": "remote-shopping-a2-gap-2",
+        "fr": "Je vais au supermarché le samedi.",
+        "l2": "Je vais au supermarché le samedi.",
+        "speak": "Je vais au supermarché le samedi.",
+        "blank": "supermarché",
+        "en": "supermarket",
+        "gloss": {
+          "en": "supermarket",
+          "es": "supermercado",
+          "ru": "супермаркет"
+        }
+      },
+      {
+        "id": "remote-shopping-a2-gap-3",
+        "fr": "Quel est le prix de ce pull ?",
+        "l2": "Quel est le prix de ce pull ?",
+        "speak": "Quel est le prix de ce pull ?",
+        "blank": "prix",
+        "en": "price",
+        "gloss": {
+          "en": "price",
+          "es": "precio",
+          "ru": "цена"
+        }
+      },
+      {
+        "id": "remote-shopping-a2-gap-4",
+        "fr": "Il y a une réduction de vingt pour cent.",
+        "l2": "Il y a une réduction de vingt pour cent.",
+        "speak": "Il y a une réduction de vingt pour cent.",
+        "blank": "réduction",
+        "en": "discount / sale reduction",
+        "gloss": {
+          "en": "discount / sale reduction",
+          "es": "descuento / reducción de venta",
+          "ru": "скидка/снижение продаж"
+        }
+      },
+      {
+        "id": "remote-shopping-a2-gap-5",
+        "fr": "Passez à la caisse, s’il vous plaît.",
+        "l2": "Passez à la caisse, s’il vous plaît.",
+        "speak": "Passez à la caisse, s’il vous plaît.",
+        "blank": "caisse",
+        "en": "checkout / till",
+        "gloss": {
+          "en": "checkout / till",
+          "es": "pagar / hasta",
+          "ru": "касса / до"
+        }
+      },
+      {
+        "id": "remote-shopping-a2-gap-6",
+        "fr": "Mon panier est déjà plein.",
+        "l2": "Mon panier est déjà plein.",
+        "speak": "Mon panier est déjà plein.",
+        "blank": "panier",
+        "en": "basket / cart (shopping)",
+        "gloss": {
+          "en": "basket / cart (shopping)",
+          "es": "cesta / carrito (compras)",
+          "ru": "корзина/корзина (покупки)"
+        }
+      },
+      {
+        "id": "remote-shopping-a2-gap-7",
+        "fr": "Gardez votre ticket de caisse.",
+        "l2": "Gardez votre ticket de caisse.",
+        "speak": "Gardez votre ticket de caisse.",
+        "blank": "ticket de caisse",
+        "en": "receipt",
+        "gloss": {
+          "en": "receipt",
+          "es": "recibo",
+          "ru": "квитанция"
+        }
+      },
+      {
+        "id": "remote-shopping-a2-gap-8",
+        "fr": "Quelle est votre taille ?",
+        "l2": "Quelle est votre taille ?",
+        "speak": "Quelle est votre taille ?",
+        "blank": "taille",
+        "en": "size",
+        "gloss": {
+          "en": "size",
+          "es": "tamaño",
+          "ru": "размер"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-shopping-a2-ord-1",
+        "fr": "Ce magasin ouvre à neuf heures.",
+        "l2": "Ce magasin ouvre à neuf heures.",
+        "en": "shop / store",
+        "gloss": {
+          "en": "shop / store",
+          "es": "tienda / tienda",
+          "ru": "магазин / магазин"
+        },
+        "words": [
+          "Ce",
+          "magasin",
+          "ouvre",
+          "à",
+          "neuf",
+          "heures."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-ord-2",
+        "fr": "Je vais au supermarché le samedi.",
+        "l2": "Je vais au supermarché le samedi.",
+        "en": "supermarket",
+        "gloss": {
+          "en": "supermarket",
+          "es": "supermercado",
+          "ru": "супермаркет"
+        },
+        "words": [
+          "Je",
+          "vais",
+          "au",
+          "supermarché",
+          "le",
+          "samedi."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-ord-3",
+        "fr": "Quel est le prix de ce pull ?",
+        "l2": "Quel est le prix de ce pull ?",
+        "en": "price",
+        "gloss": {
+          "en": "price",
+          "es": "precio",
+          "ru": "цена"
+        },
+        "words": [
+          "Quel",
+          "est",
+          "le",
+          "prix",
+          "de",
+          "ce",
+          "pull",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-ord-4",
+        "fr": "Il y a une réduction de vingt pour cent.",
+        "l2": "Il y a une réduction de vingt pour cent.",
+        "en": "discount / sale reduction",
+        "gloss": {
+          "en": "discount / sale reduction",
+          "es": "descuento / reducción de venta",
+          "ru": "скидка/снижение продаж"
+        },
+        "words": [
+          "Il",
+          "y",
+          "a",
+          "une",
+          "réduction",
+          "de",
+          "vingt",
+          "pour",
+          "cent."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-ord-5",
+        "fr": "Passez à la caisse, s’il vous plaît.",
+        "l2": "Passez à la caisse, s’il vous plaît.",
+        "en": "checkout / till",
+        "gloss": {
+          "en": "checkout / till",
+          "es": "pagar / hasta",
+          "ru": "касса / до"
+        },
+        "words": [
+          "Passez",
+          "à",
+          "la",
+          "caisse,",
+          "s’il",
+          "vous",
+          "plaît."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-ord-6",
+        "fr": "Mon panier est déjà plein.",
+        "l2": "Mon panier est déjà plein.",
+        "en": "basket / cart (shopping)",
+        "gloss": {
+          "en": "basket / cart (shopping)",
+          "es": "cesta / carrito (compras)",
+          "ru": "корзина/корзина (покупки)"
+        },
+        "words": [
+          "Mon",
+          "panier",
+          "est",
+          "déjà",
+          "plein."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-ord-7",
+        "fr": "Gardez votre ticket de caisse.",
+        "l2": "Gardez votre ticket de caisse.",
+        "en": "receipt",
+        "gloss": {
+          "en": "receipt",
+          "es": "recibo",
+          "ru": "квитанция"
+        },
+        "words": [
+          "Gardez",
+          "votre",
+          "ticket",
+          "de",
+          "caisse."
+        ]
+      },
+      {
+        "id": "remote-shopping-a2-ord-8",
+        "fr": "Quelle est votre taille ?",
+        "l2": "Quelle est votre taille ?",
+        "en": "size",
+        "gloss": {
+          "en": "size",
+          "es": "tamaño",
+          "ru": "размер"
+        },
+        "words": [
+          "Quelle",
+          "est",
+          "votre",
+          "taille",
+          "?"
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-shopping-a2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ma.ɡa.zɛ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "magasin",
+          "l2": "magasin",
+          "en": "shop / store",
+          "gloss": {
+            "en": "shop / store",
+            "es": "tienda / tienda",
+            "ru": "магазин / магазин"
+          },
+          "ipa": "ma.ɡa.zɛ̃"
+        },
+        {
+          "fr": "supermarché",
+          "l2": "supermarché",
+          "en": "supermarket",
+          "gloss": {
+            "en": "supermarket",
+            "es": "supermercado",
+            "ru": "супермаркет"
+          },
+          "ipa": "sy.pɛʁ.maʁ.ʃe"
+        },
+        {
+          "fr": "prix",
+          "l2": "prix",
+          "en": "price",
+          "gloss": {
+            "en": "price",
+            "es": "precio",
+            "ru": "цена"
+          },
+          "ipa": "pʁi"
+        },
+        {
+          "fr": "réduction",
+          "l2": "réduction",
+          "en": "discount / sale reduction",
+          "gloss": {
+            "en": "discount / sale reduction",
+            "es": "descuento / reducción de venta",
+            "ru": "скидка/снижение продаж"
+          },
+          "ipa": "ʁe.dyk.sjɔ̃"
+        },
+        {
+          "fr": "caisse",
+          "l2": "caisse",
+          "en": "checkout / till",
+          "gloss": {
+            "en": "checkout / till",
+            "es": "pagar / hasta",
+            "ru": "касса / до"
+          },
+          "ipa": "kɛs"
+        }
+      ]
+    }
+  ]
 }

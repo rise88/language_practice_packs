@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "diplomacy-c1",
-  "version": 4,
+  "version": 5,
   "level": "c1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "Reste-t-il",
             "Il reste",
             "Reste il"
-          ]
+          ],
+          "gloss": {
+            "en": "___ a diplomatic outcome?",
+            "es": "___ ¿un resultado diplomático?",
+            "ru": "___ дипломатический результат?"
+          },
+          "why": {
+            "fr": "Réponse : « Reste-t-il ».",
+            "en": "Answer: “Reste-t-il”.",
+            "es": "Respuesta: « Reste-t-il ».",
+            "ru": "Ответ: « Reste-t-il »."
+          }
         },
         {
           "id": "remote-diplomacy-gq-2",
@@ -537,7 +548,18 @@
             "Peut-on",
             "On peut-il",
             "Peut on"
-          ]
+          ],
+          "gloss": {
+            "en": "___ really affirm that the alliance holds?",
+            "es": "___ ¿Realmente afirmas que la alianza se mantiene?",
+            "ru": "___ действительно подтверждают, что альянс держится?"
+          },
+          "why": {
+            "fr": "Réponse : « Peut-on ».",
+            "en": "Answer: “Peut-on”.",
+            "es": "Respuesta: « Peut-on ».",
+            "ru": "Ответ: « Peut-on »."
+          }
         },
         {
           "id": "remote-diplomacy-gq-3",
@@ -547,13 +569,25 @@
             "souligne",
             "souligner",
             "souligné"
-          ]
+          ],
+          "gloss": {
+            "en": "The mandate, ___ -she, excludes this clause.",
+            "es": "El mandato, ___ -ella, excluye esta cláusula.",
+            "ru": "Мандат, ___ -она, исключает этот пункт."
+          },
+          "why": {
+            "fr": "Réponse : « souligne ».",
+            "en": "Answer: “souligne”.",
+            "es": "Respuesta: « souligne ».",
+            "ru": "Ответ: « souligne »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Formal inversion.",
         "es": "Útil cuando necesitas aplicar: Inversión formal.",
-        "ru": "Полезно, когда нужно применить: Формальную инверсию."
+        "ru": "Полезно, когда нужно применить: Формальную инверсию.",
+        "fr": "Utile pour appliquer : L’inversion formelle."
       }
     },
     {
@@ -606,7 +640,18 @@
             "Quitte à",
             "Loin de",
             "Encore que"
-          ]
+          ],
+          "gloss": {
+            "en": "___ irritate the ally, the envoy refuses the clause.",
+            "es": "___ irrita al aliado, el enviado rechaza la cláusula.",
+            "ru": "___ irriter l’allié, l’envoyé refuse la clause."
+          },
+          "why": {
+            "fr": "Réponse : « Quitte à ».",
+            "en": "Answer: “Quitte à”.",
+            "es": "Respuesta: « Quitte à ».",
+            "ru": "Ответ: « Quitte à »."
+          }
         },
         {
           "id": "remote-diplomacy-gq-5",
@@ -616,13 +661,25 @@
             "Loin de",
             "Quitte à",
             "À moins que"
-          ]
+          ],
+          "gloss": {
+            "en": "___ give in on sovereignty, the delegation proposes arbitration.",
+            "es": "___ ceder en soberanía, la delegación propone arbitraje.",
+            "ru": "___ уступите суверенитет, делегация предлагает арбитраж."
+          },
+          "why": {
+            "fr": "Réponse : « Loin de ».",
+            "en": "Answer: “Loin de”.",
+            "es": "Respuesta: « Loin de ».",
+            "ru": "Ответ: « Loin de »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Quitte à / loin de / encore que.",
         "es": "Útil cuando es necesario aplicar: Quitte à / loin de / encore que.",
-        "ru": "Полезно, когда вам нужно подать заявку: Quitte à / loin de / encore que."
+        "ru": "Полезно, когда вам нужно подать заявку: Quitte à / loin de / encore que.",
+        "fr": "Utile pour appliquer : Quitte à / loin de / encore que."
       }
     }
   ],
@@ -850,6 +907,1085 @@
         },
         "l2": "Loin de céder, la délégation propose un arbitrage limité."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-diplomacy-fren-1",
+        "fr": "négociation",
+        "en": "negotiation",
+        "gloss": {
+          "en": "negotiation",
+          "es": "negociación",
+          "ru": "переговоры"
+        },
+        "l2": "négociation"
+      },
+      {
+        "id": "remote-diplomacy-fren-2",
+        "fr": "traité",
+        "en": "treaty",
+        "gloss": {
+          "en": "treaty",
+          "es": "tratado",
+          "ru": "договор"
+        },
+        "l2": "traité"
+      },
+      {
+        "id": "remote-diplomacy-fren-3",
+        "fr": "souveraineté",
+        "en": "sovereignty",
+        "gloss": {
+          "en": "sovereignty",
+          "es": "soberanía",
+          "ru": "суверенитет"
+        },
+        "l2": "souveraineté"
+      },
+      {
+        "id": "remote-diplomacy-fren-4",
+        "fr": "multilatéralisme",
+        "en": "multilateralism",
+        "gloss": {
+          "en": "multilateralism",
+          "es": "multilateralismo",
+          "ru": "многосторонность"
+        },
+        "l2": "multilatéralisme"
+      },
+      {
+        "id": "remote-diplomacy-fren-5",
+        "fr": "envoyé",
+        "en": "envoy",
+        "gloss": {
+          "en": "envoy",
+          "es": "enviado",
+          "ru": "посланник"
+        },
+        "l2": "envoyé"
+      },
+      {
+        "id": "remote-diplomacy-fren-6",
+        "fr": "diplomatie",
+        "en": "diplomacy",
+        "gloss": {
+          "en": "diplomacy",
+          "es": "diplomacia",
+          "ru": "дипломатия"
+        },
+        "l2": "diplomatie"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-diplomacy-c1-enl2-1",
+        "fr": "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+        "l2": "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+        "en": "negotiation",
+        "gloss": {
+          "en": "negotiation",
+          "es": "negociación",
+          "ru": "переговоры"
+        },
+        "prompt": "negotiation",
+        "choices": [
+          "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+          "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
+          "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-enl2-2",
+        "fr": "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
+        "l2": "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
+        "en": "treaty",
+        "gloss": {
+          "en": "treaty",
+          "es": "tratado",
+          "ru": "договор"
+        },
+        "prompt": "treaty",
+        "choices": [
+          "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
+          "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+          "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-enl2-3",
+        "fr": "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral.",
+        "l2": "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral.",
+        "en": "sovereignty",
+        "gloss": {
+          "en": "sovereignty",
+          "es": "soberanía",
+          "ru": "суверенитет"
+        },
+        "prompt": "sovereignty",
+        "choices": [
+          "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral.",
+          "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+          "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-enl2-4",
+        "fr": "Le multilatéralisme, quitte à ralentir la décision, reste le seul dispositif capable d’absorber le contentieux.",
+        "l2": "Le multilatéralisme, quitte à ralentir la décision, reste le seul dispositif capable d’absorber le contentieux.",
+        "en": "multilateralism",
+        "gloss": {
+          "en": "multilateralism",
+          "es": "multilateralismo",
+          "ru": "многосторонность"
+        },
+        "prompt": "multilateralism",
+        "choices": [
+          "Le multilatéralisme, quitte à ralentir la décision, reste le seul dispositif capable d’absorber le contentieux.",
+          "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+          "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-enl2-5",
+        "fr": "L’envoyé extraordinaire, dont le mandat est strictement cadré, ne saurait engager la souveraineté de l’État.",
+        "l2": "L’envoyé extraordinaire, dont le mandat est strictement cadré, ne saurait engager la souveraineté de l’État.",
+        "en": "envoy",
+        "gloss": {
+          "en": "envoy",
+          "es": "enviado",
+          "ru": "посланник"
+        },
+        "prompt": "envoy",
+        "choices": [
+          "L’envoyé extraordinaire, dont le mandat est strictement cadré, ne saurait engager la souveraineté de l’État.",
+          "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+          "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-enl2-6",
+        "fr": "La diplomatie parallèle, à moins qu’elle ne soit désavouée, peut compromettre les pourparlers officiels en cours.",
+        "l2": "La diplomatie parallèle, à moins qu’elle ne soit désavouée, peut compromettre les pourparlers officiels en cours.",
+        "en": "diplomacy",
+        "gloss": {
+          "en": "diplomacy",
+          "es": "diplomacia",
+          "ru": "дипломатия"
+        },
+        "prompt": "diplomacy",
+        "choices": [
+          "La diplomatie parallèle, à moins qu’elle ne soit désavouée, peut compromettre les pourparlers officiels en cours.",
+          "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+          "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-enl2-7",
+        "fr": "L’arbitrage international, dont la portée lie les parties, offre une issue au contentieux sans recours aux armes.",
+        "l2": "L’arbitrage international, dont la portée lie les parties, offre une issue au contentieux sans recours aux armes.",
+        "en": "arbitration",
+        "gloss": {
+          "en": "arbitration",
+          "es": "arbitraje",
+          "ru": "арбитраж"
+        },
+        "prompt": "arbitration",
+        "choices": [
+          "L’arbitrage international, dont la portée lie les parties, offre une issue au contentieux sans recours aux armes.",
+          "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+          "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-enl2-8",
+        "fr": "La ratification, encore que majoritaire au parlement, laisse intacte une clause d’opting-out controversée.",
+        "l2": "La ratification, encore que majoritaire au parlement, laisse intacte une clause d’opting-out controversée.",
+        "en": "ratification",
+        "gloss": {
+          "en": "ratification",
+          "es": "ratificación",
+          "ru": "ратификация"
+        },
+        "prompt": "ratification",
+        "choices": [
+          "La ratification, encore que majoritaire au parlement, laisse intacte une clause d’opting-out controversée.",
+          "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+          "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-diplomacy-c1-prm-1",
+        "en": "negotiation",
+        "gloss": {
+          "en": "negotiation",
+          "es": "negociación",
+          "ru": "переговоры"
+        },
+        "answers": [
+          "négociation",
+          "la négociation"
+        ],
+        "target": "la négociation"
+      },
+      {
+        "id": "remote-diplomacy-c1-prm-2",
+        "en": "treaty",
+        "gloss": {
+          "en": "treaty",
+          "es": "tratado",
+          "ru": "договор"
+        },
+        "answers": [
+          "traité",
+          "le traité"
+        ],
+        "target": "le traité"
+      },
+      {
+        "id": "remote-diplomacy-c1-prm-3",
+        "en": "sovereignty",
+        "gloss": {
+          "en": "sovereignty",
+          "es": "soberanía",
+          "ru": "суверенитет"
+        },
+        "answers": [
+          "souveraineté",
+          "la souveraineté"
+        ],
+        "target": "la souveraineté"
+      },
+      {
+        "id": "remote-diplomacy-c1-prm-4",
+        "en": "multilateralism",
+        "gloss": {
+          "en": "multilateralism",
+          "es": "multilateralismo",
+          "ru": "многосторонность"
+        },
+        "answers": [
+          "multilatéralisme",
+          "le multilatéralisme"
+        ],
+        "target": "le multilatéralisme"
+      },
+      {
+        "id": "remote-diplomacy-c1-prm-5",
+        "en": "envoy",
+        "gloss": {
+          "en": "envoy",
+          "es": "enviado",
+          "ru": "посланник"
+        },
+        "answers": [
+          "envoyé",
+          "l' envoyé"
+        ],
+        "target": "l' envoyé"
+      },
+      {
+        "id": "remote-diplomacy-c1-prm-6",
+        "en": "diplomacy",
+        "gloss": {
+          "en": "diplomacy",
+          "es": "diplomacia",
+          "ru": "дипломатия"
+        },
+        "answers": [
+          "diplomatie",
+          "la diplomatie"
+        ],
+        "target": "la diplomatie"
+      },
+      {
+        "id": "remote-diplomacy-c1-prm-7",
+        "en": "arbitration",
+        "gloss": {
+          "en": "arbitration",
+          "es": "arbitraje",
+          "ru": "арбитраж"
+        },
+        "answers": [
+          "arbitrage",
+          "l' arbitrage"
+        ],
+        "target": "l' arbitrage"
+      },
+      {
+        "id": "remote-diplomacy-c1-prm-8",
+        "en": "ratification",
+        "gloss": {
+          "en": "ratification",
+          "es": "ratificación",
+          "ru": "ратификация"
+        },
+        "answers": [
+          "ratification",
+          "la ratification"
+        ],
+        "target": "la ratification"
+      },
+      {
+        "id": "remote-diplomacy-c1-prm-9",
+        "en": "immunity",
+        "gloss": {
+          "en": "immunity",
+          "es": "inmunidad",
+          "ru": "иммунитет"
+        },
+        "answers": [
+          "immunité",
+          "l' immunité"
+        ],
+        "target": "l' immunité"
+      },
+      {
+        "id": "remote-diplomacy-c1-prm-10",
+        "en": "delegation",
+        "gloss": {
+          "en": "delegation",
+          "es": "delegación",
+          "ru": "делегация"
+        },
+        "answers": [
+          "délégation",
+          "la délégation"
+        ],
+        "target": "la délégation"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-diplomacy-c1-sign-1",
+        "fr": "négociation",
+        "l2": "négociation",
+        "en": "negotiation",
+        "gloss": {
+          "en": "negotiation",
+          "es": "negociación",
+          "ru": "переговоры"
+        },
+        "choices": [
+          "negotiation",
+          "treaty",
+          "sovereignty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-2",
+        "fr": "traité",
+        "l2": "traité",
+        "en": "treaty",
+        "gloss": {
+          "en": "treaty",
+          "es": "tratado",
+          "ru": "договор"
+        },
+        "choices": [
+          "treaty",
+          "negotiation",
+          "sovereignty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-3",
+        "fr": "souveraineté",
+        "l2": "souveraineté",
+        "en": "sovereignty",
+        "gloss": {
+          "en": "sovereignty",
+          "es": "soberanía",
+          "ru": "суверенитет"
+        },
+        "choices": [
+          "sovereignty",
+          "negotiation",
+          "treaty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-4",
+        "fr": "multilatéralisme",
+        "l2": "multilatéralisme",
+        "en": "multilateralism",
+        "gloss": {
+          "en": "multilateralism",
+          "es": "multilateralismo",
+          "ru": "многосторонность"
+        },
+        "choices": [
+          "multilateralism",
+          "negotiation",
+          "treaty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-5",
+        "fr": "envoyé",
+        "l2": "envoyé",
+        "en": "envoy",
+        "gloss": {
+          "en": "envoy",
+          "es": "enviado",
+          "ru": "посланник"
+        },
+        "choices": [
+          "envoy",
+          "negotiation",
+          "treaty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-6",
+        "fr": "diplomatie",
+        "l2": "diplomatie",
+        "en": "diplomacy",
+        "gloss": {
+          "en": "diplomacy",
+          "es": "diplomacia",
+          "ru": "дипломатия"
+        },
+        "choices": [
+          "diplomacy",
+          "negotiation",
+          "treaty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-7",
+        "fr": "arbitrage",
+        "l2": "arbitrage",
+        "en": "arbitration",
+        "gloss": {
+          "en": "arbitration",
+          "es": "arbitraje",
+          "ru": "арбитраж"
+        },
+        "choices": [
+          "arbitration",
+          "negotiation",
+          "treaty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-8",
+        "fr": "ratification",
+        "l2": "ratification",
+        "en": "ratification",
+        "gloss": {
+          "en": "ratification",
+          "es": "ratificación",
+          "ru": "ратификация"
+        },
+        "choices": [
+          "ratification",
+          "negotiation",
+          "treaty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-9",
+        "fr": "immunité",
+        "l2": "immunité",
+        "en": "immunity",
+        "gloss": {
+          "en": "immunity",
+          "es": "inmunidad",
+          "ru": "иммунитет"
+        },
+        "choices": [
+          "immunity",
+          "negotiation",
+          "treaty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-10",
+        "fr": "délégation",
+        "l2": "délégation",
+        "en": "delegation",
+        "gloss": {
+          "en": "delegation",
+          "es": "delegación",
+          "ru": "делегация"
+        },
+        "choices": [
+          "delegation",
+          "negotiation",
+          "treaty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-11",
+        "fr": "contentieux",
+        "l2": "contentieux",
+        "en": "dispute / litigation",
+        "gloss": {
+          "en": "dispute / litigation",
+          "es": "disputa / litigio",
+          "ru": "спор/судебное разбирательство"
+        },
+        "choices": [
+          "dispute / litigation",
+          "negotiation",
+          "treaty"
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-sign-12",
+        "fr": "médiation",
+        "l2": "médiation",
+        "en": "mediation",
+        "gloss": {
+          "en": "mediation",
+          "es": "mediación",
+          "ru": "посредничество"
+        },
+        "choices": [
+          "mediation",
+          "negotiation",
+          "treaty"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-diplomacy-c1-pair-1",
+        "a": {
+          "fr": "négociation",
+          "l2": "négociation",
+          "en": "negotiation",
+          "gloss": {
+            "en": "negotiation",
+            "es": "negociación",
+            "ru": "переговоры"
+          }
+        },
+        "b": {
+          "fr": "traité",
+          "l2": "traité",
+          "en": "treaty",
+          "gloss": {
+            "en": "treaty",
+            "es": "tratado",
+            "ru": "договор"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-diplomacy-c1-pair-2",
+        "a": {
+          "fr": "souveraineté",
+          "l2": "souveraineté",
+          "en": "sovereignty",
+          "gloss": {
+            "en": "sovereignty",
+            "es": "soberanía",
+            "ru": "суверенитет"
+          }
+        },
+        "b": {
+          "fr": "multilatéralisme",
+          "l2": "multilatéralisme",
+          "en": "multilateralism",
+          "gloss": {
+            "en": "multilateralism",
+            "es": "multilateralismo",
+            "ru": "многосторонность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-diplomacy-c1-pair-3",
+        "a": {
+          "fr": "envoyé",
+          "l2": "envoyé",
+          "en": "envoy",
+          "gloss": {
+            "en": "envoy",
+            "es": "enviado",
+            "ru": "посланник"
+          }
+        },
+        "b": {
+          "fr": "diplomatie",
+          "l2": "diplomatie",
+          "en": "diplomacy",
+          "gloss": {
+            "en": "diplomacy",
+            "es": "diplomacia",
+            "ru": "дипломатия"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-diplomacy-c1-pair-4",
+        "a": {
+          "fr": "arbitrage",
+          "l2": "arbitrage",
+          "en": "arbitration",
+          "gloss": {
+            "en": "arbitration",
+            "es": "arbitraje",
+            "ru": "арбитраж"
+          }
+        },
+        "b": {
+          "fr": "ratification",
+          "l2": "ratification",
+          "en": "ratification",
+          "gloss": {
+            "en": "ratification",
+            "es": "ratificación",
+            "ru": "ратификация"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-diplomacy-c1-pair-5",
+        "a": {
+          "fr": "immunité",
+          "l2": "immunité",
+          "en": "immunity",
+          "gloss": {
+            "en": "immunity",
+            "es": "inmunidad",
+            "ru": "иммунитет"
+          }
+        },
+        "b": {
+          "fr": "délégation",
+          "l2": "délégation",
+          "en": "delegation",
+          "gloss": {
+            "en": "delegation",
+            "es": "delegación",
+            "ru": "делегация"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-diplomacy-c1-gap-1",
+        "fr": "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+        "l2": "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+        "speak": "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+        "blank": "négociation",
+        "en": "negotiation",
+        "gloss": {
+          "en": "negotiation",
+          "es": "negociación",
+          "ru": "переговоры"
+        }
+      },
+      {
+        "id": "remote-diplomacy-c1-gap-2",
+        "fr": "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
+        "l2": "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
+        "speak": "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
+        "blank": "traité",
+        "en": "treaty",
+        "gloss": {
+          "en": "treaty",
+          "es": "tratado",
+          "ru": "договор"
+        }
+      },
+      {
+        "id": "remote-diplomacy-c1-gap-3",
+        "fr": "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral.",
+        "l2": "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral.",
+        "speak": "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral.",
+        "blank": "souveraineté",
+        "en": "sovereignty",
+        "gloss": {
+          "en": "sovereignty",
+          "es": "soberanía",
+          "ru": "суверенитет"
+        }
+      },
+      {
+        "id": "remote-diplomacy-c1-gap-4",
+        "fr": "Le multilatéralisme, quitte à ralentir la décision, reste le seul dispositif capable d’absorber le contentieux.",
+        "l2": "Le multilatéralisme, quitte à ralentir la décision, reste le seul dispositif capable d’absorber le contentieux.",
+        "speak": "Le multilatéralisme, quitte à ralentir la décision, reste le seul dispositif capable d’absorber le contentieux.",
+        "blank": "multilatéralisme",
+        "en": "multilateralism",
+        "gloss": {
+          "en": "multilateralism",
+          "es": "multilateralismo",
+          "ru": "многосторонность"
+        }
+      },
+      {
+        "id": "remote-diplomacy-c1-gap-5",
+        "fr": "L’envoyé extraordinaire, dont le mandat est strictement cadré, ne saurait engager la souveraineté de l’État.",
+        "l2": "L’envoyé extraordinaire, dont le mandat est strictement cadré, ne saurait engager la souveraineté de l’État.",
+        "speak": "L’envoyé extraordinaire, dont le mandat est strictement cadré, ne saurait engager la souveraineté de l’État.",
+        "blank": "envoyé",
+        "en": "envoy",
+        "gloss": {
+          "en": "envoy",
+          "es": "enviado",
+          "ru": "посланник"
+        }
+      },
+      {
+        "id": "remote-diplomacy-c1-gap-6",
+        "fr": "La diplomatie parallèle, à moins qu’elle ne soit désavouée, peut compromettre les pourparlers officiels en cours.",
+        "l2": "La diplomatie parallèle, à moins qu’elle ne soit désavouée, peut compromettre les pourparlers officiels en cours.",
+        "speak": "La diplomatie parallèle, à moins qu’elle ne soit désavouée, peut compromettre les pourparlers officiels en cours.",
+        "blank": "diplomatie",
+        "en": "diplomacy",
+        "gloss": {
+          "en": "diplomacy",
+          "es": "diplomacia",
+          "ru": "дипломатия"
+        }
+      },
+      {
+        "id": "remote-diplomacy-c1-gap-7",
+        "fr": "L’arbitrage international, dont la portée lie les parties, offre une issue au contentieux sans recours aux armes.",
+        "l2": "L’arbitrage international, dont la portée lie les parties, offre une issue au contentieux sans recours aux armes.",
+        "speak": "L’arbitrage international, dont la portée lie les parties, offre une issue au contentieux sans recours aux armes.",
+        "blank": "arbitrage",
+        "en": "arbitration",
+        "gloss": {
+          "en": "arbitration",
+          "es": "arbitraje",
+          "ru": "арбитраж"
+        }
+      },
+      {
+        "id": "remote-diplomacy-c1-gap-8",
+        "fr": "La ratification, encore que majoritaire au parlement, laisse intacte une clause d’opting-out controversée.",
+        "l2": "La ratification, encore que majoritaire au parlement, laisse intacte une clause d’opting-out controversée.",
+        "speak": "La ratification, encore que majoritaire au parlement, laisse intacte une clause d’opting-out controversée.",
+        "blank": "ratification",
+        "en": "ratification",
+        "gloss": {
+          "en": "ratification",
+          "es": "ratificación",
+          "ru": "ратификация"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-diplomacy-c1-ord-1",
+        "fr": "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+        "l2": "La négociation, dont l’arbitrage demeure précaire, bute sur une clause que nul État n’accepte de céder.",
+        "en": "negotiation",
+        "gloss": {
+          "en": "negotiation",
+          "es": "negociación",
+          "ru": "переговоры"
+        },
+        "words": [
+          "La",
+          "négociation,",
+          "dont",
+          "l’arbitrage",
+          "demeure",
+          "précaire,",
+          "bute",
+          "sur",
+          "une",
+          "clause",
+          "que",
+          "nul",
+          "État",
+          "n’accepte",
+          "de",
+          "céder."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-ord-2",
+        "fr": "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
+        "l2": "Le traité, encore qu’il ait été paraphé, n’entrera en vigueur qu’après ratification par les parlements.",
+        "en": "treaty",
+        "gloss": {
+          "en": "treaty",
+          "es": "tratado",
+          "ru": "договор"
+        },
+        "words": [
+          "Le",
+          "traité,",
+          "encore",
+          "qu’il",
+          "ait",
+          "été",
+          "paraphé,",
+          "n’entrera",
+          "en",
+          "vigueur",
+          "qu’après",
+          "ratification",
+          "par",
+          "les",
+          "parlements."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-ord-3",
+        "fr": "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral.",
+        "l2": "La souveraineté, loin d’être un dogme intangible, se négocie à chaque clause du mandat multilatéral.",
+        "en": "sovereignty",
+        "gloss": {
+          "en": "sovereignty",
+          "es": "soberanía",
+          "ru": "суверенитет"
+        },
+        "words": [
+          "La",
+          "souveraineté,",
+          "loin",
+          "d’être",
+          "un",
+          "dogme",
+          "intangible,",
+          "se",
+          "négocie",
+          "à",
+          "chaque",
+          "clause",
+          "du",
+          "mandat",
+          "multilatéral."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-ord-4",
+        "fr": "Le multilatéralisme, quitte à ralentir la décision, reste le seul dispositif capable d’absorber le contentieux.",
+        "l2": "Le multilatéralisme, quitte à ralentir la décision, reste le seul dispositif capable d’absorber le contentieux.",
+        "en": "multilateralism",
+        "gloss": {
+          "en": "multilateralism",
+          "es": "multilateralismo",
+          "ru": "многосторонность"
+        },
+        "words": [
+          "Le",
+          "multilatéralisme,",
+          "quitte",
+          "à",
+          "ralentir",
+          "la",
+          "décision,",
+          "reste",
+          "le",
+          "seul",
+          "dispositif",
+          "capable",
+          "d’absorber",
+          "le",
+          "contentieux."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-ord-5",
+        "fr": "L’envoyé extraordinaire, dont le mandat est strictement cadré, ne saurait engager la souveraineté de l’État.",
+        "l2": "L’envoyé extraordinaire, dont le mandat est strictement cadré, ne saurait engager la souveraineté de l’État.",
+        "en": "envoy",
+        "gloss": {
+          "en": "envoy",
+          "es": "enviado",
+          "ru": "посланник"
+        },
+        "words": [
+          "L’envoyé",
+          "extraordinaire,",
+          "dont",
+          "le",
+          "mandat",
+          "est",
+          "strictement",
+          "cadré,",
+          "ne",
+          "saurait",
+          "engager",
+          "la",
+          "souveraineté",
+          "de",
+          "l’État."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-ord-6",
+        "fr": "La diplomatie parallèle, à moins qu’elle ne soit désavouée, peut compromettre les pourparlers officiels en cours.",
+        "l2": "La diplomatie parallèle, à moins qu’elle ne soit désavouée, peut compromettre les pourparlers officiels en cours.",
+        "en": "diplomacy",
+        "gloss": {
+          "en": "diplomacy",
+          "es": "diplomacia",
+          "ru": "дипломатия"
+        },
+        "words": [
+          "La",
+          "diplomatie",
+          "parallèle,",
+          "à",
+          "moins",
+          "qu’elle",
+          "ne",
+          "soit",
+          "désavouée,",
+          "peut",
+          "compromettre",
+          "les",
+          "pourparlers",
+          "officiels",
+          "en",
+          "cours."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-ord-7",
+        "fr": "L’arbitrage international, dont la portée lie les parties, offre une issue au contentieux sans recours aux armes.",
+        "l2": "L’arbitrage international, dont la portée lie les parties, offre une issue au contentieux sans recours aux armes.",
+        "en": "arbitration",
+        "gloss": {
+          "en": "arbitration",
+          "es": "arbitraje",
+          "ru": "арбитраж"
+        },
+        "words": [
+          "L’arbitrage",
+          "international,",
+          "dont",
+          "la",
+          "portée",
+          "lie",
+          "les",
+          "parties,",
+          "offre",
+          "une",
+          "issue",
+          "au",
+          "contentieux",
+          "sans",
+          "recours",
+          "aux",
+          "armes."
+        ]
+      },
+      {
+        "id": "remote-diplomacy-c1-ord-8",
+        "fr": "La ratification, encore que majoritaire au parlement, laisse intacte une clause d’opting-out controversée.",
+        "l2": "La ratification, encore que majoritaire au parlement, laisse intacte une clause d’opting-out controversée.",
+        "en": "ratification",
+        "gloss": {
+          "en": "ratification",
+          "es": "ratificación",
+          "ru": "ратификация"
+        },
+        "words": [
+          "La",
+          "ratification,",
+          "encore",
+          "que",
+          "majoritaire",
+          "au",
+          "parlement,",
+          "laisse",
+          "intacte",
+          "une",
+          "clause",
+          "d’opting-out",
+          "controversée."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-diplomacy-c1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ne.ɡɔ.sja.sjɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "négociation",
+          "l2": "négociation",
+          "en": "negotiation",
+          "gloss": {
+            "en": "negotiation",
+            "es": "negociación",
+            "ru": "переговоры"
+          },
+          "ipa": "ne.ɡɔ.sja.sjɔ̃"
+        },
+        {
+          "fr": "traité",
+          "l2": "traité",
+          "en": "treaty",
+          "gloss": {
+            "en": "treaty",
+            "es": "tratado",
+            "ru": "договор"
+          },
+          "ipa": "tʁe.te"
+        },
+        {
+          "fr": "souveraineté",
+          "l2": "souveraineté",
+          "en": "sovereignty",
+          "gloss": {
+            "en": "sovereignty",
+            "es": "soberanía",
+            "ru": "суверенитет"
+          },
+          "ipa": "su.vʁɛ.nə.te"
+        },
+        {
+          "fr": "multilatéralisme",
+          "l2": "multilatéralisme",
+          "en": "multilateralism",
+          "gloss": {
+            "en": "multilateralism",
+            "es": "multilateralismo",
+            "ru": "многосторонность"
+          },
+          "ipa": "myl.ti.la.te.ʁa.lism"
+        },
+        {
+          "fr": "envoyé",
+          "l2": "envoyé",
+          "en": "envoy",
+          "gloss": {
+            "en": "envoy",
+            "es": "enviado",
+            "ru": "посланник"
+          },
+          "ipa": "ɑ̃.vwa.je"
+        }
+      ]
+    }
+  ]
 }

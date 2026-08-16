@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "nature-b1",
-  "version": 4,
+  "version": 5,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "était",
             "a été",
             "est été"
-          ]
+          ],
+          "gloss": {
+            "en": "The path ___ slippery.",
+            "es": "El camino ___ resbaladizo.",
+            "ru": "Дорога ___ скользкая."
+          },
+          "why": {
+            "fr": "Réponse : « était ».",
+            "en": "Answer: “était”.",
+            "es": "Respuesta: « était ».",
+            "ru": "Ответ: « était »."
+          }
         },
         {
           "id": "remote-nature-gq-2",
@@ -537,7 +548,18 @@
             "atteignait",
             "a atteint",
             "atteint"
-          ]
+          ],
+          "gloss": {
+            "en": "We ___ the summit around noon.",
+            "es": "Nosotros ___ la cumbre alrededor del mediodía.",
+            "ru": "Мы ___ вершина около полудня."
+          },
+          "why": {
+            "fr": "Réponse : « a atteint ».",
+            "en": "Answer: “a atteint”.",
+            "es": "Respuesta: « a atteint ».",
+            "ru": "Ответ: « a atteint »."
+          }
         },
         {
           "id": "remote-nature-gq-3",
@@ -547,13 +569,25 @@
             "dû",
             "doit",
             "devait"
-          ]
+          ],
+          "gloss": {
+            "en": "We ___ turn around.",
+            "es": "Nosotros ___ nos damos la vuelta.",
+            "ru": "Мы ___ разворачиваемся."
+          },
+          "why": {
+            "fr": "Réponse : « dû ».",
+            "en": "Answer: “dû”.",
+            "es": "Respuesta: « dû ».",
+            "ru": "Ответ: « dû »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Mixing tenses in a story.",
         "es": "Útil cuando necesitas aplicar: Mezclar tiempos verbales en una historia.",
-        "ru": "Полезно, когда вам нужно применить: Смешивание времен в рассказе."
+        "ru": "Полезно, когда вам нужно применить: Смешивание времен в рассказе.",
+        "fr": "Utile pour appliquer : Imparfait et passé composé dans un récit."
       }
     },
     {
@@ -606,7 +640,18 @@
             "à cause",
             "grâce",
             "parce"
-          ]
+          ],
+          "gloss": {
+            "en": "We came back ___ from the fog.",
+            "es": "Regresamos ___ de la niebla.",
+            "ru": "Мы вернулись ___ из тумана."
+          },
+          "why": {
+            "fr": "Réponse : « à cause ».",
+            "en": "Answer: “à cause”.",
+            "es": "Respuesta: « à cause ».",
+            "ru": "Ответ: « à cause »."
+          }
         },
         {
           "id": "remote-nature-gq-5",
@@ -616,13 +661,25 @@
             "grâce",
             "à cause",
             "pour"
-          ]
+          ],
+          "gloss": {
+            "en": "On a trouvé le refuge ___ à la carte.",
+            "es": "Encontramos el refugio ___ en el mapa.",
+            "ru": "Мы нашли убежище ___ на карте."
+          },
+          "why": {
+            "fr": "Réponse : « grâce ».",
+            "en": "Answer: “grâce”.",
+            "es": "Respuesta: « grâce ».",
+            "ru": "Ответ: « grâce »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: À cause de vs grâce à.",
         "es": "Útil cuando es necesario aplicar: À cause de vs grâce à.",
-        "ru": "Полезно, когда вам нужно подать заявку: À причина против благодати à."
+        "ru": "Полезно, когда вам нужно подать заявку: À причина против благодати à.",
+        "fr": "Utile pour appliquer : À cause de / grâce à."
       }
     }
   ],
@@ -847,6 +904,1014 @@
         },
         "l2": "On a dû faire demi-tour à cause du brouillard."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-nature-fren-1",
+        "fr": "paysage",
+        "en": "landscape",
+        "gloss": {
+          "en": "landscape",
+          "es": "paisaje",
+          "ru": "пейзаж"
+        },
+        "l2": "paysage"
+      },
+      {
+        "id": "remote-nature-fren-2",
+        "fr": "randonnée",
+        "en": "hike",
+        "gloss": {
+          "en": "hike",
+          "es": "caminata",
+          "ru": "поход"
+        },
+        "l2": "randonnée"
+      },
+      {
+        "id": "remote-nature-fren-3",
+        "fr": "sentier",
+        "en": "trail",
+        "gloss": {
+          "en": "trail",
+          "es": "camino",
+          "ru": "тащить"
+        },
+        "l2": "sentier"
+      },
+      {
+        "id": "remote-nature-fren-4",
+        "fr": "sommet",
+        "en": "summit",
+        "gloss": {
+          "en": "summit",
+          "es": "cumbre",
+          "ru": "саммит"
+        },
+        "l2": "sommet"
+      },
+      {
+        "id": "remote-nature-fren-5",
+        "fr": "vallée",
+        "en": "valley",
+        "gloss": {
+          "en": "valley",
+          "es": "valle",
+          "ru": "долина"
+        },
+        "l2": "vallée"
+      },
+      {
+        "id": "remote-nature-fren-6",
+        "fr": "lac",
+        "en": "lake",
+        "gloss": {
+          "en": "lake",
+          "es": "lago",
+          "ru": "озеро"
+        },
+        "l2": "lac"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-nature-b1-enl2-1",
+        "fr": "Le paysage change après le col.",
+        "l2": "Le paysage change après le col.",
+        "en": "landscape",
+        "gloss": {
+          "en": "landscape",
+          "es": "paisaje",
+          "ru": "пейзаж"
+        },
+        "prompt": "landscape",
+        "choices": [
+          "Le paysage change après le col.",
+          "La randonnée a duré quatre heures.",
+          "Le sentier longe la rivière."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-enl2-2",
+        "fr": "La randonnée a duré quatre heures.",
+        "l2": "La randonnée a duré quatre heures.",
+        "en": "hike",
+        "gloss": {
+          "en": "hike",
+          "es": "caminata",
+          "ru": "поход"
+        },
+        "prompt": "hike",
+        "choices": [
+          "La randonnée a duré quatre heures.",
+          "Le paysage change après le col.",
+          "Le sentier longe la rivière."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-enl2-3",
+        "fr": "Le sentier longe la rivière.",
+        "l2": "Le sentier longe la rivière.",
+        "en": "trail / path",
+        "gloss": {
+          "en": "trail / path",
+          "es": "sendero/camino",
+          "ru": "тропа / путь"
+        },
+        "prompt": "trail / path",
+        "choices": [
+          "Le sentier longe la rivière.",
+          "Le paysage change après le col.",
+          "La randonnée a duré quatre heures."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-enl2-4",
+        "fr": "Nous avons atteint le sommet vers midi.",
+        "l2": "Nous avons atteint le sommet vers midi.",
+        "en": "summit",
+        "gloss": {
+          "en": "summit",
+          "es": "cumbre",
+          "ru": "саммит"
+        },
+        "prompt": "summit",
+        "choices": [
+          "Nous avons atteint le sommet vers midi.",
+          "Le paysage change après le col.",
+          "La randonnée a duré quatre heures."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-enl2-5",
+        "fr": "La vallée est encore dans le brouillard.",
+        "l2": "La vallée est encore dans le brouillard.",
+        "en": "valley",
+        "gloss": {
+          "en": "valley",
+          "es": "valle",
+          "ru": "долина"
+        },
+        "prompt": "valley",
+        "choices": [
+          "La vallée est encore dans le brouillard.",
+          "Le paysage change après le col.",
+          "La randonnée a duré quatre heures."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-enl2-6",
+        "fr": "Le lac est gelé en janvier.",
+        "l2": "Le lac est gelé en janvier.",
+        "en": "lake",
+        "gloss": {
+          "en": "lake",
+          "es": "lago",
+          "ru": "озеро"
+        },
+        "prompt": "lake",
+        "choices": [
+          "Le lac est gelé en janvier.",
+          "Le paysage change après le col.",
+          "La randonnée a duré quatre heures."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-enl2-7",
+        "fr": "La rivière est trop froide pour nager.",
+        "l2": "La rivière est trop froide pour nager.",
+        "en": "river",
+        "gloss": {
+          "en": "river",
+          "es": "río",
+          "ru": "река"
+        },
+        "prompt": "river",
+        "choices": [
+          "La rivière est trop froide pour nager.",
+          "Le paysage change après le col.",
+          "La randonnée a duré quatre heures."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-enl2-8",
+        "fr": "La cascade se voit depuis le pont.",
+        "l2": "La cascade se voit depuis le pont.",
+        "en": "waterfall",
+        "gloss": {
+          "en": "waterfall",
+          "es": "cascada",
+          "ru": "водопад"
+        },
+        "prompt": "waterfall",
+        "choices": [
+          "La cascade se voit depuis le pont.",
+          "Le paysage change après le col.",
+          "La randonnée a duré quatre heures."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-nature-b1-prm-1",
+        "en": "landscape",
+        "gloss": {
+          "en": "landscape",
+          "es": "paisaje",
+          "ru": "пейзаж"
+        },
+        "answers": [
+          "paysage",
+          "le paysage"
+        ],
+        "target": "le paysage"
+      },
+      {
+        "id": "remote-nature-b1-prm-2",
+        "en": "hike",
+        "gloss": {
+          "en": "hike",
+          "es": "caminata",
+          "ru": "поход"
+        },
+        "answers": [
+          "randonnée",
+          "la randonnée"
+        ],
+        "target": "la randonnée"
+      },
+      {
+        "id": "remote-nature-b1-prm-3",
+        "en": "trail / path",
+        "gloss": {
+          "en": "trail / path",
+          "es": "sendero/camino",
+          "ru": "тропа / путь"
+        },
+        "answers": [
+          "sentier",
+          "le sentier"
+        ],
+        "target": "le sentier"
+      },
+      {
+        "id": "remote-nature-b1-prm-4",
+        "en": "summit",
+        "gloss": {
+          "en": "summit",
+          "es": "cumbre",
+          "ru": "саммит"
+        },
+        "answers": [
+          "sommet",
+          "le sommet"
+        ],
+        "target": "le sommet"
+      },
+      {
+        "id": "remote-nature-b1-prm-5",
+        "en": "valley",
+        "gloss": {
+          "en": "valley",
+          "es": "valle",
+          "ru": "долина"
+        },
+        "answers": [
+          "vallée",
+          "la vallée"
+        ],
+        "target": "la vallée"
+      },
+      {
+        "id": "remote-nature-b1-prm-6",
+        "en": "lake",
+        "gloss": {
+          "en": "lake",
+          "es": "lago",
+          "ru": "озеро"
+        },
+        "answers": [
+          "lac",
+          "le lac"
+        ],
+        "target": "le lac"
+      },
+      {
+        "id": "remote-nature-b1-prm-7",
+        "en": "river",
+        "gloss": {
+          "en": "river",
+          "es": "río",
+          "ru": "река"
+        },
+        "answers": [
+          "rivière",
+          "la rivière"
+        ],
+        "target": "la rivière"
+      },
+      {
+        "id": "remote-nature-b1-prm-8",
+        "en": "waterfall",
+        "gloss": {
+          "en": "waterfall",
+          "es": "cascada",
+          "ru": "водопад"
+        },
+        "answers": [
+          "cascade",
+          "la cascade"
+        ],
+        "target": "la cascade"
+      },
+      {
+        "id": "remote-nature-b1-prm-9",
+        "en": "rock / boulder",
+        "gloss": {
+          "en": "rock / boulder",
+          "es": "roca / canto rodado",
+          "ru": "камень / валун"
+        },
+        "answers": [
+          "rocher",
+          "le rocher"
+        ],
+        "target": "le rocher"
+      },
+      {
+        "id": "remote-nature-b1-prm-10",
+        "en": "forest",
+        "gloss": {
+          "en": "forest",
+          "es": "bosque",
+          "ru": "лес"
+        },
+        "answers": [
+          "forêt",
+          "la forêt"
+        ],
+        "target": "la forêt"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-nature-b1-sign-1",
+        "fr": "paysage",
+        "l2": "paysage",
+        "en": "landscape",
+        "gloss": {
+          "en": "landscape",
+          "es": "paisaje",
+          "ru": "пейзаж"
+        },
+        "choices": [
+          "landscape",
+          "hike",
+          "trail / path"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-2",
+        "fr": "randonnée",
+        "l2": "randonnée",
+        "en": "hike",
+        "gloss": {
+          "en": "hike",
+          "es": "caminata",
+          "ru": "поход"
+        },
+        "choices": [
+          "hike",
+          "landscape",
+          "trail / path"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-3",
+        "fr": "sentier",
+        "l2": "sentier",
+        "en": "trail / path",
+        "gloss": {
+          "en": "trail / path",
+          "es": "sendero/camino",
+          "ru": "тропа / путь"
+        },
+        "choices": [
+          "trail / path",
+          "landscape",
+          "hike"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-4",
+        "fr": "sommet",
+        "l2": "sommet",
+        "en": "summit",
+        "gloss": {
+          "en": "summit",
+          "es": "cumbre",
+          "ru": "саммит"
+        },
+        "choices": [
+          "summit",
+          "landscape",
+          "hike"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-5",
+        "fr": "vallée",
+        "l2": "vallée",
+        "en": "valley",
+        "gloss": {
+          "en": "valley",
+          "es": "valle",
+          "ru": "долина"
+        },
+        "choices": [
+          "valley",
+          "landscape",
+          "hike"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-6",
+        "fr": "lac",
+        "l2": "lac",
+        "en": "lake",
+        "gloss": {
+          "en": "lake",
+          "es": "lago",
+          "ru": "озеро"
+        },
+        "choices": [
+          "lake",
+          "landscape",
+          "hike"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-7",
+        "fr": "rivière",
+        "l2": "rivière",
+        "en": "river",
+        "gloss": {
+          "en": "river",
+          "es": "río",
+          "ru": "река"
+        },
+        "choices": [
+          "river",
+          "landscape",
+          "hike"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-8",
+        "fr": "cascade",
+        "l2": "cascade",
+        "en": "waterfall",
+        "gloss": {
+          "en": "waterfall",
+          "es": "cascada",
+          "ru": "водопад"
+        },
+        "choices": [
+          "waterfall",
+          "landscape",
+          "hike"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-9",
+        "fr": "rocher",
+        "l2": "rocher",
+        "en": "rock / boulder",
+        "gloss": {
+          "en": "rock / boulder",
+          "es": "roca / canto rodado",
+          "ru": "камень / валун"
+        },
+        "choices": [
+          "rock / boulder",
+          "landscape",
+          "hike"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-10",
+        "fr": "forêt",
+        "l2": "forêt",
+        "en": "forest",
+        "gloss": {
+          "en": "forest",
+          "es": "bosque",
+          "ru": "лес"
+        },
+        "choices": [
+          "forest",
+          "landscape",
+          "hike"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-11",
+        "fr": "clairière",
+        "l2": "clairière",
+        "en": "clearing",
+        "gloss": {
+          "en": "clearing",
+          "es": "claro",
+          "ru": "очистка"
+        },
+        "choices": [
+          "clearing",
+          "landscape",
+          "hike"
+        ]
+      },
+      {
+        "id": "remote-nature-b1-sign-12",
+        "fr": "brouillard",
+        "l2": "brouillard",
+        "en": "fog",
+        "gloss": {
+          "en": "fog",
+          "es": "niebla",
+          "ru": "туман"
+        },
+        "choices": [
+          "fog",
+          "landscape",
+          "hike"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-nature-b1-pair-1",
+        "a": {
+          "fr": "paysage",
+          "l2": "paysage",
+          "en": "landscape",
+          "gloss": {
+            "en": "landscape",
+            "es": "paisaje",
+            "ru": "пейзаж"
+          }
+        },
+        "b": {
+          "fr": "randonnée",
+          "l2": "randonnée",
+          "en": "hike",
+          "gloss": {
+            "en": "hike",
+            "es": "caminata",
+            "ru": "поход"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-nature-b1-pair-2",
+        "a": {
+          "fr": "sentier",
+          "l2": "sentier",
+          "en": "trail / path",
+          "gloss": {
+            "en": "trail / path",
+            "es": "sendero/camino",
+            "ru": "тропа / путь"
+          }
+        },
+        "b": {
+          "fr": "sommet",
+          "l2": "sommet",
+          "en": "summit",
+          "gloss": {
+            "en": "summit",
+            "es": "cumbre",
+            "ru": "саммит"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-nature-b1-pair-3",
+        "a": {
+          "fr": "vallée",
+          "l2": "vallée",
+          "en": "valley",
+          "gloss": {
+            "en": "valley",
+            "es": "valle",
+            "ru": "долина"
+          }
+        },
+        "b": {
+          "fr": "lac",
+          "l2": "lac",
+          "en": "lake",
+          "gloss": {
+            "en": "lake",
+            "es": "lago",
+            "ru": "озеро"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-nature-b1-pair-4",
+        "a": {
+          "fr": "rivière",
+          "l2": "rivière",
+          "en": "river",
+          "gloss": {
+            "en": "river",
+            "es": "río",
+            "ru": "река"
+          }
+        },
+        "b": {
+          "fr": "cascade",
+          "l2": "cascade",
+          "en": "waterfall",
+          "gloss": {
+            "en": "waterfall",
+            "es": "cascada",
+            "ru": "водопад"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-nature-b1-pair-5",
+        "a": {
+          "fr": "rocher",
+          "l2": "rocher",
+          "en": "rock / boulder",
+          "gloss": {
+            "en": "rock / boulder",
+            "es": "roca / canto rodado",
+            "ru": "камень / валун"
+          }
+        },
+        "b": {
+          "fr": "forêt",
+          "l2": "forêt",
+          "en": "forest",
+          "gloss": {
+            "en": "forest",
+            "es": "bosque",
+            "ru": "лес"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-nature-b1-gap-1",
+        "fr": "Le paysage change après le col.",
+        "l2": "Le paysage change après le col.",
+        "speak": "Le paysage change après le col.",
+        "blank": "paysage",
+        "en": "landscape",
+        "gloss": {
+          "en": "landscape",
+          "es": "paisaje",
+          "ru": "пейзаж"
+        }
+      },
+      {
+        "id": "remote-nature-b1-gap-2",
+        "fr": "La randonnée a duré quatre heures.",
+        "l2": "La randonnée a duré quatre heures.",
+        "speak": "La randonnée a duré quatre heures.",
+        "blank": "randonnée",
+        "en": "hike",
+        "gloss": {
+          "en": "hike",
+          "es": "caminata",
+          "ru": "поход"
+        }
+      },
+      {
+        "id": "remote-nature-b1-gap-3",
+        "fr": "Le sentier longe la rivière.",
+        "l2": "Le sentier longe la rivière.",
+        "speak": "Le sentier longe la rivière.",
+        "blank": "sentier",
+        "en": "trail / path",
+        "gloss": {
+          "en": "trail / path",
+          "es": "sendero/camino",
+          "ru": "тропа / путь"
+        }
+      },
+      {
+        "id": "remote-nature-b1-gap-4",
+        "fr": "Nous avons atteint le sommet vers midi.",
+        "l2": "Nous avons atteint le sommet vers midi.",
+        "speak": "Nous avons atteint le sommet vers midi.",
+        "blank": "sommet",
+        "en": "summit",
+        "gloss": {
+          "en": "summit",
+          "es": "cumbre",
+          "ru": "саммит"
+        }
+      },
+      {
+        "id": "remote-nature-b1-gap-5",
+        "fr": "La vallée est encore dans le brouillard.",
+        "l2": "La vallée est encore dans le brouillard.",
+        "speak": "La vallée est encore dans le brouillard.",
+        "blank": "vallée",
+        "en": "valley",
+        "gloss": {
+          "en": "valley",
+          "es": "valle",
+          "ru": "долина"
+        }
+      },
+      {
+        "id": "remote-nature-b1-gap-6",
+        "fr": "Le lac est gelé en janvier.",
+        "l2": "Le lac est gelé en janvier.",
+        "speak": "Le lac est gelé en janvier.",
+        "blank": "lac",
+        "en": "lake",
+        "gloss": {
+          "en": "lake",
+          "es": "lago",
+          "ru": "озеро"
+        }
+      },
+      {
+        "id": "remote-nature-b1-gap-7",
+        "fr": "La rivière est trop froide pour nager.",
+        "l2": "La rivière est trop froide pour nager.",
+        "speak": "La rivière est trop froide pour nager.",
+        "blank": "rivière",
+        "en": "river",
+        "gloss": {
+          "en": "river",
+          "es": "río",
+          "ru": "река"
+        }
+      },
+      {
+        "id": "remote-nature-b1-gap-8",
+        "fr": "La cascade se voit depuis le pont.",
+        "l2": "La cascade se voit depuis le pont.",
+        "speak": "La cascade se voit depuis le pont.",
+        "blank": "cascade",
+        "en": "waterfall",
+        "gloss": {
+          "en": "waterfall",
+          "es": "cascada",
+          "ru": "водопад"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-nature-b1-ord-1",
+        "fr": "Le paysage change après le col.",
+        "l2": "Le paysage change après le col.",
+        "en": "landscape",
+        "gloss": {
+          "en": "landscape",
+          "es": "paisaje",
+          "ru": "пейзаж"
+        },
+        "words": [
+          "Le",
+          "paysage",
+          "change",
+          "après",
+          "le",
+          "col."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-ord-2",
+        "fr": "La randonnée a duré quatre heures.",
+        "l2": "La randonnée a duré quatre heures.",
+        "en": "hike",
+        "gloss": {
+          "en": "hike",
+          "es": "caminata",
+          "ru": "поход"
+        },
+        "words": [
+          "La",
+          "randonnée",
+          "a",
+          "duré",
+          "quatre",
+          "heures."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-ord-3",
+        "fr": "Le sentier longe la rivière.",
+        "l2": "Le sentier longe la rivière.",
+        "en": "trail / path",
+        "gloss": {
+          "en": "trail / path",
+          "es": "sendero/camino",
+          "ru": "тропа / путь"
+        },
+        "words": [
+          "Le",
+          "sentier",
+          "longe",
+          "la",
+          "rivière."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-ord-4",
+        "fr": "Nous avons atteint le sommet vers midi.",
+        "l2": "Nous avons atteint le sommet vers midi.",
+        "en": "summit",
+        "gloss": {
+          "en": "summit",
+          "es": "cumbre",
+          "ru": "саммит"
+        },
+        "words": [
+          "Nous",
+          "avons",
+          "atteint",
+          "le",
+          "sommet",
+          "vers",
+          "midi."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-ord-5",
+        "fr": "La vallée est encore dans le brouillard.",
+        "l2": "La vallée est encore dans le brouillard.",
+        "en": "valley",
+        "gloss": {
+          "en": "valley",
+          "es": "valle",
+          "ru": "долина"
+        },
+        "words": [
+          "La",
+          "vallée",
+          "est",
+          "encore",
+          "dans",
+          "le",
+          "brouillard."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-ord-6",
+        "fr": "Le lac est gelé en janvier.",
+        "l2": "Le lac est gelé en janvier.",
+        "en": "lake",
+        "gloss": {
+          "en": "lake",
+          "es": "lago",
+          "ru": "озеро"
+        },
+        "words": [
+          "Le",
+          "lac",
+          "est",
+          "gelé",
+          "en",
+          "janvier."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-ord-7",
+        "fr": "La rivière est trop froide pour nager.",
+        "l2": "La rivière est trop froide pour nager.",
+        "en": "river",
+        "gloss": {
+          "en": "river",
+          "es": "río",
+          "ru": "река"
+        },
+        "words": [
+          "La",
+          "rivière",
+          "est",
+          "trop",
+          "froide",
+          "pour",
+          "nager."
+        ]
+      },
+      {
+        "id": "remote-nature-b1-ord-8",
+        "fr": "La cascade se voit depuis le pont.",
+        "l2": "La cascade se voit depuis le pont.",
+        "en": "waterfall",
+        "gloss": {
+          "en": "waterfall",
+          "es": "cascada",
+          "ru": "водопад"
+        },
+        "words": [
+          "La",
+          "cascade",
+          "se",
+          "voit",
+          "depuis",
+          "le",
+          "pont."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-nature-b1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "pe.i.zaʒ",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "paysage",
+          "l2": "paysage",
+          "en": "landscape",
+          "gloss": {
+            "en": "landscape",
+            "es": "paisaje",
+            "ru": "пейзаж"
+          },
+          "ipa": "pe.i.zaʒ"
+        },
+        {
+          "fr": "randonnée",
+          "l2": "randonnée",
+          "en": "hike",
+          "gloss": {
+            "en": "hike",
+            "es": "caminata",
+            "ru": "поход"
+          },
+          "ipa": "ʁɑ̃.dɔ.ne"
+        },
+        {
+          "fr": "sentier",
+          "l2": "sentier",
+          "en": "trail / path",
+          "gloss": {
+            "en": "trail / path",
+            "es": "sendero/camino",
+            "ru": "тропа / путь"
+          },
+          "ipa": "sɑ̃.tje"
+        },
+        {
+          "fr": "sommet",
+          "l2": "sommet",
+          "en": "summit",
+          "gloss": {
+            "en": "summit",
+            "es": "cumbre",
+            "ru": "саммит"
+          },
+          "ipa": "sɔ.mɛ"
+        },
+        {
+          "fr": "vallée",
+          "l2": "vallée",
+          "en": "valley",
+          "gloss": {
+            "en": "valley",
+            "es": "valle",
+            "ru": "долина"
+          },
+          "ipa": "va.le"
+        }
+      ]
+    }
+  ]
 }

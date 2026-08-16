@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "hobbies-a2",
-  "version": 4,
+  "version": 5,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "du",
             "de la",
             "de l’"
-          ]
+          ],
+          "gloss": {
+            "en": "I do ___ swimming.",
+            "es": "Hago ___ natación.",
+            "ru": "Я занимаюсь ___ плаванием."
+          },
+          "why": {
+            "fr": "Réponse : « de la ».",
+            "en": "Answer: “de la”.",
+            "es": "Respuesta: « de la ».",
+            "ru": "Ответ: « de la »."
+          }
         },
         {
           "id": "remote-hobbies-gq-2",
@@ -537,7 +548,18 @@
             "au",
             "du",
             "de la"
-          ]
+          ],
+          "gloss": {
+            "en": "He plays ___ football.",
+            "es": "Juega ___ fútbol.",
+            "ru": "Он играет в ___ футбол."
+          },
+          "why": {
+            "fr": "Réponse : « au ».",
+            "en": "Answer: “au”.",
+            "es": "Respuesta: « au ».",
+            "ru": "Ответ: « au »."
+          }
         },
         {
           "id": "remote-hobbies-gq-3",
@@ -547,13 +569,25 @@
             "de la",
             "à la",
             "du"
-          ]
+          ],
+          "gloss": {
+            "en": "She is learning to play ___ guitar.",
+            "es": "Elle apprend à jouer ___ guitare.",
+            "ru": "Она учится играть на ___ гитаре."
+          },
+          "why": {
+            "fr": "Réponse : « de la ».",
+            "en": "Answer: “de la”.",
+            "es": "Respuesta: « de la ».",
+            "ru": "Ответ: « de la »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Sports and hobbies verbs.",
         "es": "Útil cuando necesitas aplicar: verbos de deportes y pasatiempos.",
-        "ru": "Полезно, когда нужно применить: Глаголы о спорте и хобби."
+        "ru": "Полезно, когда нужно применить: Глаголы о спорте и хобби.",
+        "fr": "Utile pour appliquer : Faire du / de la / jouer à / de."
       }
     },
     {
@@ -606,7 +640,18 @@
             "depuis",
             "pendant",
             "il y a"
-          ]
+          ],
+          "gloss": {
+            "en": "She plays the piano ___ five years.",
+            "es": "Toca el piano ___ cinco años.",
+            "ru": "Она играет на фортепиано ___ пять лет."
+          },
+          "why": {
+            "fr": "Réponse : « depuis ».",
+            "en": "Answer: “depuis”.",
+            "es": "Respuesta: « depuis ».",
+            "ru": "Ответ: « depuis »."
+          }
         },
         {
           "id": "remote-hobbies-gq-5",
@@ -616,13 +661,25 @@
             "il y a",
             "depuis",
             "pour"
-          ]
+          ],
+          "gloss": {
+            "en": "I'm learning guitar ___ six months.",
+            "es": "Estoy aprendiendo guitarra ___ seis meses.",
+            "ru": "Я учусь играть на гитаре ___ шесть месяцев."
+          },
+          "why": {
+            "fr": "Réponse : « depuis ».",
+            "en": "Answer: “depuis”.",
+            "es": "Respuesta: « depuis ».",
+            "ru": "Ответ: « depuis »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Depuis for how long.",
         "es": "Útil cuando es necesario aplicar: Después de cuánto tiempo.",
-        "ru": "Полезно, когда нужно применить: Депюи на какой срок."
+        "ru": "Полезно, когда нужно применить: Депюи на какой срок.",
+        "fr": "Utile pour appliquer : Depuis pour une durée."
       }
     }
   ],
@@ -846,6 +903,1019 @@
         },
         "l2": "Elle joue du piano depuis cinq ans."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-hobbies-fren-1",
+        "fr": "sport",
+        "en": "sport",
+        "gloss": {
+          "en": "sport",
+          "es": "deporte",
+          "ru": "спорт"
+        },
+        "l2": "sport"
+      },
+      {
+        "id": "remote-hobbies-fren-2",
+        "fr": "musique",
+        "en": "music",
+        "gloss": {
+          "en": "music",
+          "es": "música",
+          "ru": "музыка"
+        },
+        "l2": "musique"
+      },
+      {
+        "id": "remote-hobbies-fren-3",
+        "fr": "lecture",
+        "en": "reading",
+        "gloss": {
+          "en": "reading",
+          "es": "lectura",
+          "ru": "чтение"
+        },
+        "l2": "lecture"
+      },
+      {
+        "id": "remote-hobbies-fren-4",
+        "fr": "vélo",
+        "en": "cycling",
+        "gloss": {
+          "en": "cycling",
+          "es": "ciclismo",
+          "ru": "езда на велосипеде"
+        },
+        "l2": "vélo"
+      },
+      {
+        "id": "remote-hobbies-fren-5",
+        "fr": "randonnée",
+        "en": "hiking",
+        "gloss": {
+          "en": "hiking",
+          "es": "senderismo",
+          "ru": "пеший туризм"
+        },
+        "l2": "randonnée"
+      },
+      {
+        "id": "remote-hobbies-fren-6",
+        "fr": "photographie",
+        "en": "photography",
+        "gloss": {
+          "en": "photography",
+          "es": "fotografía",
+          "ru": "фотография"
+        },
+        "l2": "photographie"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-hobbies-a2-enl2-1",
+        "fr": "Quels sont tes loisirs préférés ?",
+        "l2": "Quels sont tes loisirs préférés ?",
+        "en": "leisure / hobby",
+        "gloss": {
+          "en": "leisure / hobby",
+          "es": "ocio / pasatiempo",
+          "ru": "досуг/хобби"
+        },
+        "prompt": "leisure / hobby",
+        "choices": [
+          "Quels sont tes loisirs préférés ?",
+          "Je fais du sport trois fois par semaine.",
+          "Mon frère joue au football le samedi."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-enl2-2",
+        "fr": "Je fais du sport trois fois par semaine.",
+        "l2": "Je fais du sport trois fois par semaine.",
+        "en": "sport",
+        "gloss": {
+          "en": "sport",
+          "es": "deporte",
+          "ru": "спорт"
+        },
+        "prompt": "sport",
+        "choices": [
+          "Je fais du sport trois fois par semaine.",
+          "Quels sont tes loisirs préférés ?",
+          "Mon frère joue au football le samedi."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-enl2-3",
+        "fr": "Mon frère joue au football le samedi.",
+        "l2": "Mon frère joue au football le samedi.",
+        "en": "football / soccer",
+        "gloss": {
+          "en": "football / soccer",
+          "es": "fútbol / fútbol",
+          "ru": "футбол / футбол"
+        },
+        "prompt": "football / soccer",
+        "choices": [
+          "Mon frère joue au football le samedi.",
+          "Quels sont tes loisirs préférés ?",
+          "Je fais du sport trois fois par semaine."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-enl2-4",
+        "fr": "La natation est bonne pour la santé.",
+        "l2": "La natation est bonne pour la santé.",
+        "en": "swimming",
+        "gloss": {
+          "en": "swimming",
+          "es": "nadar",
+          "ru": "плавание"
+        },
+        "prompt": "swimming",
+        "choices": [
+          "La natation est bonne pour la santé.",
+          "Quels sont tes loisirs préférés ?",
+          "Je fais du sport trois fois par semaine."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-enl2-5",
+        "fr": "Je fais du vélo le dimanche matin.",
+        "l2": "Je fais du vélo le dimanche matin.",
+        "en": "bicycle / cycling",
+        "gloss": {
+          "en": "bicycle / cycling",
+          "es": "bicicleta / ciclismo",
+          "ru": "велосипед / езда на велосипеде"
+        },
+        "prompt": "bicycle / cycling",
+        "choices": [
+          "Je fais du vélo le dimanche matin.",
+          "Quels sont tes loisirs préférés ?",
+          "Je fais du sport trois fois par semaine."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-enl2-6",
+        "fr": "J’écoute de la musique tous les jours.",
+        "l2": "J’écoute de la musique tous les jours.",
+        "en": "music",
+        "gloss": {
+          "en": "music",
+          "es": "música",
+          "ru": "музыка"
+        },
+        "prompt": "music",
+        "choices": [
+          "J’écoute de la musique tous les jours.",
+          "Quels sont tes loisirs préférés ?",
+          "Je fais du sport trois fois par semaine."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-enl2-7",
+        "fr": "Il apprend à jouer de la guitare.",
+        "l2": "Il apprend à jouer de la guitare.",
+        "en": "guitar",
+        "gloss": {
+          "en": "guitar",
+          "es": "guitarra",
+          "ru": "гитара"
+        },
+        "prompt": "guitar",
+        "choices": [
+          "Il apprend à jouer de la guitare.",
+          "Quels sont tes loisirs préférés ?",
+          "Je fais du sport trois fois par semaine."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-enl2-8",
+        "fr": "Elle joue du piano depuis cinq ans.",
+        "l2": "Elle joue du piano depuis cinq ans.",
+        "en": "piano",
+        "gloss": {
+          "en": "piano",
+          "es": "piano",
+          "ru": "фортепиано"
+        },
+        "prompt": "piano",
+        "choices": [
+          "Elle joue du piano depuis cinq ans.",
+          "Quels sont tes loisirs préférés ?",
+          "Je fais du sport trois fois par semaine."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-hobbies-a2-prm-1",
+        "en": "leisure / hobby",
+        "gloss": {
+          "en": "leisure / hobby",
+          "es": "ocio / pasatiempo",
+          "ru": "досуг/хобби"
+        },
+        "answers": [
+          "loisir",
+          "le loisir"
+        ],
+        "target": "le loisir"
+      },
+      {
+        "id": "remote-hobbies-a2-prm-2",
+        "en": "sport",
+        "gloss": {
+          "en": "sport",
+          "es": "deporte",
+          "ru": "спорт"
+        },
+        "answers": [
+          "sport",
+          "le sport"
+        ],
+        "target": "le sport"
+      },
+      {
+        "id": "remote-hobbies-a2-prm-3",
+        "en": "football / soccer",
+        "gloss": {
+          "en": "football / soccer",
+          "es": "fútbol / fútbol",
+          "ru": "футбол / футбол"
+        },
+        "answers": [
+          "football",
+          "le football"
+        ],
+        "target": "le football"
+      },
+      {
+        "id": "remote-hobbies-a2-prm-4",
+        "en": "swimming",
+        "gloss": {
+          "en": "swimming",
+          "es": "nadar",
+          "ru": "плавание"
+        },
+        "answers": [
+          "natation",
+          "la natation"
+        ],
+        "target": "la natation"
+      },
+      {
+        "id": "remote-hobbies-a2-prm-5",
+        "en": "bicycle / cycling",
+        "gloss": {
+          "en": "bicycle / cycling",
+          "es": "bicicleta / ciclismo",
+          "ru": "велосипед / езда на велосипеде"
+        },
+        "answers": [
+          "vélo",
+          "le vélo"
+        ],
+        "target": "le vélo"
+      },
+      {
+        "id": "remote-hobbies-a2-prm-6",
+        "en": "music",
+        "gloss": {
+          "en": "music",
+          "es": "música",
+          "ru": "музыка"
+        },
+        "answers": [
+          "musique",
+          "la musique"
+        ],
+        "target": "la musique"
+      },
+      {
+        "id": "remote-hobbies-a2-prm-7",
+        "en": "guitar",
+        "gloss": {
+          "en": "guitar",
+          "es": "guitarra",
+          "ru": "гитара"
+        },
+        "answers": [
+          "guitare",
+          "la guitare"
+        ],
+        "target": "la guitare"
+      },
+      {
+        "id": "remote-hobbies-a2-prm-8",
+        "en": "piano",
+        "gloss": {
+          "en": "piano",
+          "es": "piano",
+          "ru": "фортепиано"
+        },
+        "answers": [
+          "piano",
+          "le piano"
+        ],
+        "target": "le piano"
+      },
+      {
+        "id": "remote-hobbies-a2-prm-9",
+        "en": "reading",
+        "gloss": {
+          "en": "reading",
+          "es": "lectura",
+          "ru": "чтение"
+        },
+        "answers": [
+          "lecture",
+          "la lecture"
+        ],
+        "target": "la lecture"
+      },
+      {
+        "id": "remote-hobbies-a2-prm-10",
+        "en": "cinema / movies",
+        "gloss": {
+          "en": "cinema / movies",
+          "es": "cine / películas",
+          "ru": "кино / фильмы"
+        },
+        "answers": [
+          "cinéma",
+          "le cinéma"
+        ],
+        "target": "le cinéma"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-hobbies-a2-sign-1",
+        "fr": "loisir",
+        "l2": "loisir",
+        "en": "leisure / hobby",
+        "gloss": {
+          "en": "leisure / hobby",
+          "es": "ocio / pasatiempo",
+          "ru": "досуг/хобби"
+        },
+        "choices": [
+          "leisure / hobby",
+          "sport",
+          "football / soccer"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-2",
+        "fr": "sport",
+        "l2": "sport",
+        "en": "sport",
+        "gloss": {
+          "en": "sport",
+          "es": "deporte",
+          "ru": "спорт"
+        },
+        "choices": [
+          "sport",
+          "leisure / hobby",
+          "football / soccer"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-3",
+        "fr": "football",
+        "l2": "football",
+        "en": "football / soccer",
+        "gloss": {
+          "en": "football / soccer",
+          "es": "fútbol / fútbol",
+          "ru": "футбол / футбол"
+        },
+        "choices": [
+          "football / soccer",
+          "leisure / hobby",
+          "sport"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-4",
+        "fr": "natation",
+        "l2": "natation",
+        "en": "swimming",
+        "gloss": {
+          "en": "swimming",
+          "es": "nadar",
+          "ru": "плавание"
+        },
+        "choices": [
+          "swimming",
+          "leisure / hobby",
+          "sport"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-5",
+        "fr": "vélo",
+        "l2": "vélo",
+        "en": "bicycle / cycling",
+        "gloss": {
+          "en": "bicycle / cycling",
+          "es": "bicicleta / ciclismo",
+          "ru": "велосипед / езда на велосипеде"
+        },
+        "choices": [
+          "bicycle / cycling",
+          "leisure / hobby",
+          "sport"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-6",
+        "fr": "musique",
+        "l2": "musique",
+        "en": "music",
+        "gloss": {
+          "en": "music",
+          "es": "música",
+          "ru": "музыка"
+        },
+        "choices": [
+          "music",
+          "leisure / hobby",
+          "sport"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-7",
+        "fr": "guitare",
+        "l2": "guitare",
+        "en": "guitar",
+        "gloss": {
+          "en": "guitar",
+          "es": "guitarra",
+          "ru": "гитара"
+        },
+        "choices": [
+          "guitar",
+          "leisure / hobby",
+          "sport"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-8",
+        "fr": "piano",
+        "l2": "piano",
+        "en": "piano",
+        "gloss": {
+          "en": "piano",
+          "es": "piano",
+          "ru": "фортепиано"
+        },
+        "choices": [
+          "piano",
+          "leisure / hobby",
+          "sport"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-9",
+        "fr": "lecture",
+        "l2": "lecture",
+        "en": "reading",
+        "gloss": {
+          "en": "reading",
+          "es": "lectura",
+          "ru": "чтение"
+        },
+        "choices": [
+          "reading",
+          "leisure / hobby",
+          "sport"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-10",
+        "fr": "cinéma",
+        "l2": "cinéma",
+        "en": "cinema / movies",
+        "gloss": {
+          "en": "cinema / movies",
+          "es": "cine / películas",
+          "ru": "кино / фильмы"
+        },
+        "choices": [
+          "cinema / movies",
+          "leisure / hobby",
+          "sport"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-11",
+        "fr": "peinture",
+        "l2": "peinture",
+        "en": "painting",
+        "gloss": {
+          "en": "painting",
+          "es": "cuadro",
+          "ru": "рисование"
+        },
+        "choices": [
+          "painting",
+          "leisure / hobby",
+          "sport"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-sign-12",
+        "fr": "photographie",
+        "l2": "photographie",
+        "en": "photography",
+        "gloss": {
+          "en": "photography",
+          "es": "fotografía",
+          "ru": "фотография"
+        },
+        "choices": [
+          "photography",
+          "leisure / hobby",
+          "sport"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-hobbies-a2-pair-1",
+        "a": {
+          "fr": "loisir",
+          "l2": "loisir",
+          "en": "leisure / hobby",
+          "gloss": {
+            "en": "leisure / hobby",
+            "es": "ocio / pasatiempo",
+            "ru": "досуг/хобби"
+          }
+        },
+        "b": {
+          "fr": "sport",
+          "l2": "sport",
+          "en": "sport",
+          "gloss": {
+            "en": "sport",
+            "es": "deporte",
+            "ru": "спорт"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-hobbies-a2-pair-2",
+        "a": {
+          "fr": "football",
+          "l2": "football",
+          "en": "football / soccer",
+          "gloss": {
+            "en": "football / soccer",
+            "es": "fútbol / fútbol",
+            "ru": "футбол / футбол"
+          }
+        },
+        "b": {
+          "fr": "natation",
+          "l2": "natation",
+          "en": "swimming",
+          "gloss": {
+            "en": "swimming",
+            "es": "nadar",
+            "ru": "плавание"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-hobbies-a2-pair-3",
+        "a": {
+          "fr": "vélo",
+          "l2": "vélo",
+          "en": "bicycle / cycling",
+          "gloss": {
+            "en": "bicycle / cycling",
+            "es": "bicicleta / ciclismo",
+            "ru": "велосипед / езда на велосипеде"
+          }
+        },
+        "b": {
+          "fr": "musique",
+          "l2": "musique",
+          "en": "music",
+          "gloss": {
+            "en": "music",
+            "es": "música",
+            "ru": "музыка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-hobbies-a2-pair-4",
+        "a": {
+          "fr": "guitare",
+          "l2": "guitare",
+          "en": "guitar",
+          "gloss": {
+            "en": "guitar",
+            "es": "guitarra",
+            "ru": "гитара"
+          }
+        },
+        "b": {
+          "fr": "piano",
+          "l2": "piano",
+          "en": "piano",
+          "gloss": {
+            "en": "piano",
+            "es": "piano",
+            "ru": "фортепиано"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-hobbies-a2-pair-5",
+        "a": {
+          "fr": "lecture",
+          "l2": "lecture",
+          "en": "reading",
+          "gloss": {
+            "en": "reading",
+            "es": "lectura",
+            "ru": "чтение"
+          }
+        },
+        "b": {
+          "fr": "cinéma",
+          "l2": "cinéma",
+          "en": "cinema / movies",
+          "gloss": {
+            "en": "cinema / movies",
+            "es": "cine / películas",
+            "ru": "кино / фильмы"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-hobbies-a2-gap-1",
+        "fr": "Quels sont tes loisirs préférés ?",
+        "l2": "Quels sont tes loisirs préférés ?",
+        "speak": "Quels sont tes loisirs préférés ?",
+        "blank": "loisir",
+        "en": "leisure / hobby",
+        "gloss": {
+          "en": "leisure / hobby",
+          "es": "ocio / pasatiempo",
+          "ru": "досуг/хобби"
+        }
+      },
+      {
+        "id": "remote-hobbies-a2-gap-2",
+        "fr": "Je fais du sport trois fois par semaine.",
+        "l2": "Je fais du sport trois fois par semaine.",
+        "speak": "Je fais du sport trois fois par semaine.",
+        "blank": "sport",
+        "en": "sport",
+        "gloss": {
+          "en": "sport",
+          "es": "deporte",
+          "ru": "спорт"
+        }
+      },
+      {
+        "id": "remote-hobbies-a2-gap-3",
+        "fr": "Mon frère joue au football le samedi.",
+        "l2": "Mon frère joue au football le samedi.",
+        "speak": "Mon frère joue au football le samedi.",
+        "blank": "football",
+        "en": "football / soccer",
+        "gloss": {
+          "en": "football / soccer",
+          "es": "fútbol / fútbol",
+          "ru": "футбол / футбол"
+        }
+      },
+      {
+        "id": "remote-hobbies-a2-gap-4",
+        "fr": "La natation est bonne pour la santé.",
+        "l2": "La natation est bonne pour la santé.",
+        "speak": "La natation est bonne pour la santé.",
+        "blank": "natation",
+        "en": "swimming",
+        "gloss": {
+          "en": "swimming",
+          "es": "nadar",
+          "ru": "плавание"
+        }
+      },
+      {
+        "id": "remote-hobbies-a2-gap-5",
+        "fr": "Je fais du vélo le dimanche matin.",
+        "l2": "Je fais du vélo le dimanche matin.",
+        "speak": "Je fais du vélo le dimanche matin.",
+        "blank": "vélo",
+        "en": "bicycle / cycling",
+        "gloss": {
+          "en": "bicycle / cycling",
+          "es": "bicicleta / ciclismo",
+          "ru": "велосипед / езда на велосипеде"
+        }
+      },
+      {
+        "id": "remote-hobbies-a2-gap-6",
+        "fr": "J’écoute de la musique tous les jours.",
+        "l2": "J’écoute de la musique tous les jours.",
+        "speak": "J’écoute de la musique tous les jours.",
+        "blank": "musique",
+        "en": "music",
+        "gloss": {
+          "en": "music",
+          "es": "música",
+          "ru": "музыка"
+        }
+      },
+      {
+        "id": "remote-hobbies-a2-gap-7",
+        "fr": "Il apprend à jouer de la guitare.",
+        "l2": "Il apprend à jouer de la guitare.",
+        "speak": "Il apprend à jouer de la guitare.",
+        "blank": "guitare",
+        "en": "guitar",
+        "gloss": {
+          "en": "guitar",
+          "es": "guitarra",
+          "ru": "гитара"
+        }
+      },
+      {
+        "id": "remote-hobbies-a2-gap-8",
+        "fr": "Elle joue du piano depuis cinq ans.",
+        "l2": "Elle joue du piano depuis cinq ans.",
+        "speak": "Elle joue du piano depuis cinq ans.",
+        "blank": "piano",
+        "en": "piano",
+        "gloss": {
+          "en": "piano",
+          "es": "piano",
+          "ru": "фортепиано"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-hobbies-a2-ord-1",
+        "fr": "Quels sont tes loisirs préférés ?",
+        "l2": "Quels sont tes loisirs préférés ?",
+        "en": "leisure / hobby",
+        "gloss": {
+          "en": "leisure / hobby",
+          "es": "ocio / pasatiempo",
+          "ru": "досуг/хобби"
+        },
+        "words": [
+          "Quels",
+          "sont",
+          "tes",
+          "loisirs",
+          "préférés",
+          "?"
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-ord-2",
+        "fr": "Je fais du sport trois fois par semaine.",
+        "l2": "Je fais du sport trois fois par semaine.",
+        "en": "sport",
+        "gloss": {
+          "en": "sport",
+          "es": "deporte",
+          "ru": "спорт"
+        },
+        "words": [
+          "Je",
+          "fais",
+          "du",
+          "sport",
+          "trois",
+          "fois",
+          "par",
+          "semaine."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-ord-3",
+        "fr": "Mon frère joue au football le samedi.",
+        "l2": "Mon frère joue au football le samedi.",
+        "en": "football / soccer",
+        "gloss": {
+          "en": "football / soccer",
+          "es": "fútbol / fútbol",
+          "ru": "футбол / футбол"
+        },
+        "words": [
+          "Mon",
+          "frère",
+          "joue",
+          "au",
+          "football",
+          "le",
+          "samedi."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-ord-4",
+        "fr": "La natation est bonne pour la santé.",
+        "l2": "La natation est bonne pour la santé.",
+        "en": "swimming",
+        "gloss": {
+          "en": "swimming",
+          "es": "nadar",
+          "ru": "плавание"
+        },
+        "words": [
+          "La",
+          "natation",
+          "est",
+          "bonne",
+          "pour",
+          "la",
+          "santé."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-ord-5",
+        "fr": "Je fais du vélo le dimanche matin.",
+        "l2": "Je fais du vélo le dimanche matin.",
+        "en": "bicycle / cycling",
+        "gloss": {
+          "en": "bicycle / cycling",
+          "es": "bicicleta / ciclismo",
+          "ru": "велосипед / езда на велосипеде"
+        },
+        "words": [
+          "Je",
+          "fais",
+          "du",
+          "vélo",
+          "le",
+          "dimanche",
+          "matin."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-ord-6",
+        "fr": "J’écoute de la musique tous les jours.",
+        "l2": "J’écoute de la musique tous les jours.",
+        "en": "music",
+        "gloss": {
+          "en": "music",
+          "es": "música",
+          "ru": "музыка"
+        },
+        "words": [
+          "J’écoute",
+          "de",
+          "la",
+          "musique",
+          "tous",
+          "les",
+          "jours."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-ord-7",
+        "fr": "Il apprend à jouer de la guitare.",
+        "l2": "Il apprend à jouer de la guitare.",
+        "en": "guitar",
+        "gloss": {
+          "en": "guitar",
+          "es": "guitarra",
+          "ru": "гитара"
+        },
+        "words": [
+          "Il",
+          "apprend",
+          "à",
+          "jouer",
+          "de",
+          "la",
+          "guitare."
+        ]
+      },
+      {
+        "id": "remote-hobbies-a2-ord-8",
+        "fr": "Elle joue du piano depuis cinq ans.",
+        "l2": "Elle joue du piano depuis cinq ans.",
+        "en": "piano",
+        "gloss": {
+          "en": "piano",
+          "es": "piano",
+          "ru": "фортепиано"
+        },
+        "words": [
+          "Elle",
+          "joue",
+          "du",
+          "piano",
+          "depuis",
+          "cinq",
+          "ans."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-hobbies-a2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "lwa.ziʁ",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "loisir",
+          "l2": "loisir",
+          "en": "leisure / hobby",
+          "gloss": {
+            "en": "leisure / hobby",
+            "es": "ocio / pasatiempo",
+            "ru": "досуг/хобби"
+          },
+          "ipa": "lwa.ziʁ"
+        },
+        {
+          "fr": "sport",
+          "l2": "sport",
+          "en": "sport",
+          "gloss": {
+            "en": "sport",
+            "es": "deporte",
+            "ru": "спорт"
+          },
+          "ipa": "spɔʁ"
+        },
+        {
+          "fr": "football",
+          "l2": "football",
+          "en": "football / soccer",
+          "gloss": {
+            "en": "football / soccer",
+            "es": "fútbol / fútbol",
+            "ru": "футбол / футбол"
+          },
+          "ipa": "fut.bol"
+        },
+        {
+          "fr": "natation",
+          "l2": "natation",
+          "en": "swimming",
+          "gloss": {
+            "en": "swimming",
+            "es": "nadar",
+            "ru": "плавание"
+          },
+          "ipa": "na.ta.sjɔ̃"
+        },
+        {
+          "fr": "vélo",
+          "l2": "vélo",
+          "en": "bicycle / cycling",
+          "gloss": {
+            "en": "bicycle / cycling",
+            "es": "bicicleta / ciclismo",
+            "ru": "велосипед / езда на велосипеде"
+          },
+          "ipa": "ve.lo"
+        }
+      ]
+    }
+  ]
 }

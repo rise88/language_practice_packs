@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "celebrations-a2",
-  "version": 4,
+  "version": 5,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "Tu veux",
             "Tu es",
             "Tu as"
-          ]
+          ],
+          "gloss": {
+            "en": "___ come to my party?",
+            "es": "___ vienes a mi fiesta?",
+            "ru": "___ придешь на мою вечеринку?"
+          },
+          "why": {
+            "fr": "Réponse : « Tu veux ».",
+            "en": "Answer: “Tu veux”.",
+            "es": "Respuesta: « Tu veux ».",
+            "ru": "Ответ: « Tu veux »."
+          }
         },
         {
           "id": "remote-celebrations-gq-2",
@@ -537,7 +548,18 @@
             "aimerais",
             "aime",
             "aimais"
-          ]
+          ],
+          "gloss": {
+            "en": "I ___ invite you to dinner.",
+            "es": "Yo ___ te invito a cenar.",
+            "ru": "Я ___ приглашаю вас на ужин."
+          },
+          "why": {
+            "fr": "Réponse : « aimerais ».",
+            "en": "Answer: “aimerais”.",
+            "es": "Respuesta: « aimerais ».",
+            "ru": "Ответ: « aimerais »."
+          }
         },
         {
           "id": "remote-celebrations-gq-3",
@@ -547,13 +569,25 @@
             "peux",
             "veux",
             "dois"
-          ]
+          ],
+          "gloss": {
+            "en": "Sorry, I ___ not coming.",
+            "es": "Lo siento, yo ___ no voy.",
+            "ru": "Извините, я ___ не приду."
+          },
+          "why": {
+            "fr": "Réponse : « peux ».",
+            "en": "Answer: “peux”.",
+            "es": "Respuesta: « peux ».",
+            "ru": "Ответ: « peux »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Inviting someone.",
         "es": "Útil cuando necesitas postularte: invitar a alguien.",
-        "ru": "Полезно, когда вам нужно подать заявку: Пригласить кого-то."
+        "ru": "Полезно, когда вам нужно подать заявку: Пригласить кого-то.",
+        "fr": "Utile pour appliquer : Inviter : tu veux / on peut."
       }
     },
     {
@@ -606,7 +640,18 @@
             "C’est",
             "Ce sont",
             "Il est"
-          ]
+          ],
+          "gloss": {
+            "en": "___ my birthday.",
+            "es": "___ mi cumpleaños.",
+            "ru": "___ мой день рождения."
+          },
+          "why": {
+            "fr": "Réponse : « C’est ».",
+            "en": "Answer: “C’est”.",
+            "es": "Respuesta: « C’est ».",
+            "ru": "Ответ: « C’est »."
+          }
         },
         {
           "id": "remote-celebrations-gq-5",
@@ -616,7 +661,18 @@
             "C’est",
             "Ce sont",
             "Ils est"
-          ]
+          ],
+          "gloss": {
+            "en": "___ my colleagues.",
+            "es": "___ mes collègues.",
+            "ru": "___ мои коллеги."
+          },
+          "why": {
+            "fr": "Réponse : « Ce sont ».",
+            "en": "Answer: “Ce sont”.",
+            "es": "Respuesta: « Ce sont ».",
+            "ru": "Ответ: « Ce sont »."
+          }
         },
         {
           "id": "remote-celebrations-gq-6",
@@ -626,13 +682,25 @@
             "C’est",
             "Ce sont",
             "Il y a"
-          ]
+          ],
+          "gloss": {
+            "en": "___ a surprise party.",
+            "es": "___ una fiesta sorpresa.",
+            "ru": "___ вечеринка-сюрприз."
+          },
+          "why": {
+            "fr": "Réponse : « C’est ».",
+            "en": "Answer: “C’est”.",
+            "es": "Respuesta: « C’est ».",
+            "ru": "Ответ: « C’est »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: C’est and ce sont.",
         "es": "Útil cuando es necesario aplicar: C’est y ce sont.",
-        "ru": "Полезно, когда нужно подать заявление: C’est and ce sont."
+        "ru": "Полезно, когда нужно подать заявление: C’est and ce sont.",
+        "fr": "Utile pour appliquer : C’est / ce sont pour les fêtes."
       }
     }
   ],
@@ -855,6 +923,1005 @@
         },
         "l2": "Désolé, je ne peux pas venir."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-celebrations-fren-1",
+        "fr": "fête",
+        "en": "party",
+        "gloss": {
+          "en": "party",
+          "es": "fiesta",
+          "ru": "вечеринка"
+        },
+        "l2": "fête"
+      },
+      {
+        "id": "remote-celebrations-fren-2",
+        "fr": "anniversaire",
+        "en": "birthday",
+        "gloss": {
+          "en": "birthday",
+          "es": "cumpleaños",
+          "ru": "день рождения"
+        },
+        "l2": "anniversaire"
+      },
+      {
+        "id": "remote-celebrations-fren-3",
+        "fr": "invitation",
+        "en": "invitation",
+        "gloss": {
+          "en": "invitation",
+          "es": "invitación",
+          "ru": "приглашение"
+        },
+        "l2": "invitation"
+      },
+      {
+        "id": "remote-celebrations-fren-4",
+        "fr": "cadeau",
+        "en": "present",
+        "gloss": {
+          "en": "present",
+          "es": "presente",
+          "ru": "подарок"
+        },
+        "l2": "cadeau"
+      },
+      {
+        "id": "remote-celebrations-fren-5",
+        "fr": "gâteau",
+        "en": "cake",
+        "gloss": {
+          "en": "cake",
+          "es": "pastel",
+          "ru": "торт"
+        },
+        "l2": "gâteau"
+      },
+      {
+        "id": "remote-celebrations-fren-6",
+        "fr": "bougie",
+        "en": "candle",
+        "gloss": {
+          "en": "candle",
+          "es": "vela",
+          "ru": "свеча"
+        },
+        "l2": "bougie"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-celebrations-a2-enl2-1",
+        "fr": "On organise une fête samedi.",
+        "l2": "On organise une fête samedi.",
+        "en": "party / celebration",
+        "gloss": {
+          "en": "party / celebration",
+          "es": "fiesta / celebración",
+          "ru": "вечеринка/праздник"
+        },
+        "prompt": "party / celebration",
+        "choices": [
+          "On organise une fête samedi.",
+          "C’est mon anniversaire demain.",
+          "J’ai reçu une invitation."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-enl2-2",
+        "fr": "C’est mon anniversaire demain.",
+        "l2": "C’est mon anniversaire demain.",
+        "en": "birthday",
+        "gloss": {
+          "en": "birthday",
+          "es": "cumpleaños",
+          "ru": "день рождения"
+        },
+        "prompt": "birthday",
+        "choices": [
+          "C’est mon anniversaire demain.",
+          "On organise une fête samedi.",
+          "J’ai reçu une invitation."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-enl2-3",
+        "fr": "J’ai reçu une invitation.",
+        "l2": "J’ai reçu une invitation.",
+        "en": "invitation",
+        "gloss": {
+          "en": "invitation",
+          "es": "invitación",
+          "ru": "приглашение"
+        },
+        "prompt": "invitation",
+        "choices": [
+          "J’ai reçu une invitation.",
+          "On organise une fête samedi.",
+          "C’est mon anniversaire demain."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-enl2-4",
+        "fr": "J’apporte un cadeau.",
+        "l2": "J’apporte un cadeau.",
+        "en": "present / gift",
+        "gloss": {
+          "en": "present / gift",
+          "es": "presente / regalo",
+          "ru": "подарок / подарок"
+        },
+        "prompt": "present / gift",
+        "choices": [
+          "J’apporte un cadeau.",
+          "On organise une fête samedi.",
+          "C’est mon anniversaire demain."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-enl2-5",
+        "fr": "Le gâteau au chocolat est délicieux.",
+        "l2": "Le gâteau au chocolat est délicieux.",
+        "en": "cake",
+        "gloss": {
+          "en": "cake",
+          "es": "pastel",
+          "ru": "торт"
+        },
+        "prompt": "cake",
+        "choices": [
+          "Le gâteau au chocolat est délicieux.",
+          "On organise une fête samedi.",
+          "C’est mon anniversaire demain."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-enl2-6",
+        "fr": "Il y a vingt bougies sur le gâteau.",
+        "l2": "Il y a vingt bougies sur le gâteau.",
+        "en": "candle",
+        "gloss": {
+          "en": "candle",
+          "es": "vela",
+          "ru": "свеча"
+        },
+        "prompt": "candle",
+        "choices": [
+          "Il y a vingt bougies sur le gâteau.",
+          "On organise une fête samedi.",
+          "C’est mon anniversaire demain."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-enl2-7",
+        "fr": "Les invités arrivent à vingt heures.",
+        "l2": "Les invités arrivent à vingt heures.",
+        "en": "guest",
+        "gloss": {
+          "en": "guest",
+          "es": "invitado",
+          "ru": "гость"
+        },
+        "prompt": "guest",
+        "choices": [
+          "Les invités arrivent à vingt heures.",
+          "On organise une fête samedi.",
+          "C’est mon anniversaire demain."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-enl2-8",
+        "fr": "Le mariage a lieu en juin.",
+        "l2": "Le mariage a lieu en juin.",
+        "en": "wedding",
+        "gloss": {
+          "en": "wedding",
+          "es": "boda",
+          "ru": "свадьба"
+        },
+        "prompt": "wedding",
+        "choices": [
+          "Le mariage a lieu en juin.",
+          "On organise une fête samedi.",
+          "C’est mon anniversaire demain."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-celebrations-a2-prm-1",
+        "en": "party / celebration",
+        "gloss": {
+          "en": "party / celebration",
+          "es": "fiesta / celebración",
+          "ru": "вечеринка/праздник"
+        },
+        "answers": [
+          "fête",
+          "la fête"
+        ],
+        "target": "la fête"
+      },
+      {
+        "id": "remote-celebrations-a2-prm-2",
+        "en": "birthday",
+        "gloss": {
+          "en": "birthday",
+          "es": "cumpleaños",
+          "ru": "день рождения"
+        },
+        "answers": [
+          "anniversaire",
+          "l' anniversaire"
+        ],
+        "target": "l' anniversaire"
+      },
+      {
+        "id": "remote-celebrations-a2-prm-3",
+        "en": "invitation",
+        "gloss": {
+          "en": "invitation",
+          "es": "invitación",
+          "ru": "приглашение"
+        },
+        "answers": [
+          "invitation",
+          "l' invitation"
+        ],
+        "target": "l' invitation"
+      },
+      {
+        "id": "remote-celebrations-a2-prm-4",
+        "en": "present / gift",
+        "gloss": {
+          "en": "present / gift",
+          "es": "presente / regalo",
+          "ru": "подарок / подарок"
+        },
+        "answers": [
+          "cadeau",
+          "le cadeau"
+        ],
+        "target": "le cadeau"
+      },
+      {
+        "id": "remote-celebrations-a2-prm-5",
+        "en": "cake",
+        "gloss": {
+          "en": "cake",
+          "es": "pastel",
+          "ru": "торт"
+        },
+        "answers": [
+          "gâteau",
+          "le gâteau"
+        ],
+        "target": "le gâteau"
+      },
+      {
+        "id": "remote-celebrations-a2-prm-6",
+        "en": "candle",
+        "gloss": {
+          "en": "candle",
+          "es": "vela",
+          "ru": "свеча"
+        },
+        "answers": [
+          "bougie",
+          "la bougie"
+        ],
+        "target": "la bougie"
+      },
+      {
+        "id": "remote-celebrations-a2-prm-7",
+        "en": "guest",
+        "gloss": {
+          "en": "guest",
+          "es": "invitado",
+          "ru": "гость"
+        },
+        "answers": [
+          "invité",
+          "l' invité"
+        ],
+        "target": "l' invité"
+      },
+      {
+        "id": "remote-celebrations-a2-prm-8",
+        "en": "wedding",
+        "gloss": {
+          "en": "wedding",
+          "es": "boda",
+          "ru": "свадьба"
+        },
+        "answers": [
+          "mariage",
+          "le mariage"
+        ],
+        "target": "le mariage"
+      },
+      {
+        "id": "remote-celebrations-a2-prm-9",
+        "en": "Christmas / New Year’s Eve dinner",
+        "gloss": {
+          "en": "Christmas / New Year’s Eve dinner",
+          "es": "Cena de Navidad/Nochevieja",
+          "ru": "Рождественский/новогодний ужин"
+        },
+        "answers": [
+          "réveillon",
+          "le réveillon"
+        ],
+        "target": "le réveillon"
+      },
+      {
+        "id": "remote-celebrations-a2-prm-10",
+        "en": "New Year",
+        "gloss": {
+          "en": "New Year",
+          "es": "Año Nuevo",
+          "ru": "Новый год"
+        },
+        "answers": [
+          "Nouvel An",
+          "le Nouvel An"
+        ],
+        "target": "le Nouvel An"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-celebrations-a2-sign-1",
+        "fr": "fête",
+        "l2": "fête",
+        "en": "party / celebration",
+        "gloss": {
+          "en": "party / celebration",
+          "es": "fiesta / celebración",
+          "ru": "вечеринка/праздник"
+        },
+        "choices": [
+          "party / celebration",
+          "birthday",
+          "invitation"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-2",
+        "fr": "anniversaire",
+        "l2": "anniversaire",
+        "en": "birthday",
+        "gloss": {
+          "en": "birthday",
+          "es": "cumpleaños",
+          "ru": "день рождения"
+        },
+        "choices": [
+          "birthday",
+          "party / celebration",
+          "invitation"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-3",
+        "fr": "invitation",
+        "l2": "invitation",
+        "en": "invitation",
+        "gloss": {
+          "en": "invitation",
+          "es": "invitación",
+          "ru": "приглашение"
+        },
+        "choices": [
+          "invitation",
+          "party / celebration",
+          "birthday"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-4",
+        "fr": "cadeau",
+        "l2": "cadeau",
+        "en": "present / gift",
+        "gloss": {
+          "en": "present / gift",
+          "es": "presente / regalo",
+          "ru": "подарок / подарок"
+        },
+        "choices": [
+          "present / gift",
+          "party / celebration",
+          "birthday"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-5",
+        "fr": "gâteau",
+        "l2": "gâteau",
+        "en": "cake",
+        "gloss": {
+          "en": "cake",
+          "es": "pastel",
+          "ru": "торт"
+        },
+        "choices": [
+          "cake",
+          "party / celebration",
+          "birthday"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-6",
+        "fr": "bougie",
+        "l2": "bougie",
+        "en": "candle",
+        "gloss": {
+          "en": "candle",
+          "es": "vela",
+          "ru": "свеча"
+        },
+        "choices": [
+          "candle",
+          "party / celebration",
+          "birthday"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-7",
+        "fr": "invité",
+        "l2": "invité",
+        "en": "guest",
+        "gloss": {
+          "en": "guest",
+          "es": "invitado",
+          "ru": "гость"
+        },
+        "choices": [
+          "guest",
+          "party / celebration",
+          "birthday"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-8",
+        "fr": "mariage",
+        "l2": "mariage",
+        "en": "wedding",
+        "gloss": {
+          "en": "wedding",
+          "es": "boda",
+          "ru": "свадьба"
+        },
+        "choices": [
+          "wedding",
+          "party / celebration",
+          "birthday"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-9",
+        "fr": "réveillon",
+        "l2": "réveillon",
+        "en": "Christmas / New Year’s Eve dinner",
+        "gloss": {
+          "en": "Christmas / New Year’s Eve dinner",
+          "es": "Cena de Navidad/Nochevieja",
+          "ru": "Рождественский/новогодний ужин"
+        },
+        "choices": [
+          "Christmas / New Year’s Eve dinner",
+          "party / celebration",
+          "birthday"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-10",
+        "fr": "Nouvel An",
+        "l2": "Nouvel An",
+        "en": "New Year",
+        "gloss": {
+          "en": "New Year",
+          "es": "Año Nuevo",
+          "ru": "Новый год"
+        },
+        "choices": [
+          "New Year",
+          "party / celebration",
+          "birthday"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-11",
+        "fr": "vacances",
+        "l2": "vacances",
+        "en": "holidays",
+        "gloss": {
+          "en": "holidays",
+          "es": "vacaciones",
+          "ru": "праздники"
+        },
+        "choices": [
+          "holidays",
+          "party / celebration",
+          "birthday"
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-sign-12",
+        "fr": "feux d’artifice",
+        "l2": "feux d’artifice",
+        "en": "fireworks",
+        "gloss": {
+          "en": "fireworks",
+          "es": "fuegos artificiales",
+          "ru": "фейерверк"
+        },
+        "choices": [
+          "fireworks",
+          "party / celebration",
+          "birthday"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-celebrations-a2-pair-1",
+        "a": {
+          "fr": "fête",
+          "l2": "fête",
+          "en": "party / celebration",
+          "gloss": {
+            "en": "party / celebration",
+            "es": "fiesta / celebración",
+            "ru": "вечеринка/праздник"
+          }
+        },
+        "b": {
+          "fr": "anniversaire",
+          "l2": "anniversaire",
+          "en": "birthday",
+          "gloss": {
+            "en": "birthday",
+            "es": "cumpleaños",
+            "ru": "день рождения"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-celebrations-a2-pair-2",
+        "a": {
+          "fr": "invitation",
+          "l2": "invitation",
+          "en": "invitation",
+          "gloss": {
+            "en": "invitation",
+            "es": "invitación",
+            "ru": "приглашение"
+          }
+        },
+        "b": {
+          "fr": "cadeau",
+          "l2": "cadeau",
+          "en": "present / gift",
+          "gloss": {
+            "en": "present / gift",
+            "es": "presente / regalo",
+            "ru": "подарок / подарок"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-celebrations-a2-pair-3",
+        "a": {
+          "fr": "gâteau",
+          "l2": "gâteau",
+          "en": "cake",
+          "gloss": {
+            "en": "cake",
+            "es": "pastel",
+            "ru": "торт"
+          }
+        },
+        "b": {
+          "fr": "bougie",
+          "l2": "bougie",
+          "en": "candle",
+          "gloss": {
+            "en": "candle",
+            "es": "vela",
+            "ru": "свеча"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-celebrations-a2-pair-4",
+        "a": {
+          "fr": "invité",
+          "l2": "invité",
+          "en": "guest",
+          "gloss": {
+            "en": "guest",
+            "es": "invitado",
+            "ru": "гость"
+          }
+        },
+        "b": {
+          "fr": "mariage",
+          "l2": "mariage",
+          "en": "wedding",
+          "gloss": {
+            "en": "wedding",
+            "es": "boda",
+            "ru": "свадьба"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-celebrations-a2-pair-5",
+        "a": {
+          "fr": "réveillon",
+          "l2": "réveillon",
+          "en": "Christmas / New Year’s Eve dinner",
+          "gloss": {
+            "en": "Christmas / New Year’s Eve dinner",
+            "es": "Cena de Navidad/Nochevieja",
+            "ru": "Рождественский/новогодний ужин"
+          }
+        },
+        "b": {
+          "fr": "Nouvel An",
+          "l2": "Nouvel An",
+          "en": "New Year",
+          "gloss": {
+            "en": "New Year",
+            "es": "Año Nuevo",
+            "ru": "Новый год"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-celebrations-a2-gap-1",
+        "fr": "On organise une fête samedi.",
+        "l2": "On organise une fête samedi.",
+        "speak": "On organise une fête samedi.",
+        "blank": "fête",
+        "en": "party / celebration",
+        "gloss": {
+          "en": "party / celebration",
+          "es": "fiesta / celebración",
+          "ru": "вечеринка/праздник"
+        }
+      },
+      {
+        "id": "remote-celebrations-a2-gap-2",
+        "fr": "C’est mon anniversaire demain.",
+        "l2": "C’est mon anniversaire demain.",
+        "speak": "C’est mon anniversaire demain.",
+        "blank": "anniversaire",
+        "en": "birthday",
+        "gloss": {
+          "en": "birthday",
+          "es": "cumpleaños",
+          "ru": "день рождения"
+        }
+      },
+      {
+        "id": "remote-celebrations-a2-gap-3",
+        "fr": "J’ai reçu une invitation.",
+        "l2": "J’ai reçu une invitation.",
+        "speak": "J’ai reçu une invitation.",
+        "blank": "invitation",
+        "en": "invitation",
+        "gloss": {
+          "en": "invitation",
+          "es": "invitación",
+          "ru": "приглашение"
+        }
+      },
+      {
+        "id": "remote-celebrations-a2-gap-4",
+        "fr": "J’apporte un cadeau.",
+        "l2": "J’apporte un cadeau.",
+        "speak": "J’apporte un cadeau.",
+        "blank": "cadeau",
+        "en": "present / gift",
+        "gloss": {
+          "en": "present / gift",
+          "es": "presente / regalo",
+          "ru": "подарок / подарок"
+        }
+      },
+      {
+        "id": "remote-celebrations-a2-gap-5",
+        "fr": "Le gâteau au chocolat est délicieux.",
+        "l2": "Le gâteau au chocolat est délicieux.",
+        "speak": "Le gâteau au chocolat est délicieux.",
+        "blank": "gâteau",
+        "en": "cake",
+        "gloss": {
+          "en": "cake",
+          "es": "pastel",
+          "ru": "торт"
+        }
+      },
+      {
+        "id": "remote-celebrations-a2-gap-6",
+        "fr": "Il y a vingt bougies sur le gâteau.",
+        "l2": "Il y a vingt bougies sur le gâteau.",
+        "speak": "Il y a vingt bougies sur le gâteau.",
+        "blank": "bougie",
+        "en": "candle",
+        "gloss": {
+          "en": "candle",
+          "es": "vela",
+          "ru": "свеча"
+        }
+      },
+      {
+        "id": "remote-celebrations-a2-gap-7",
+        "fr": "Les invités arrivent à vingt heures.",
+        "l2": "Les invités arrivent à vingt heures.",
+        "speak": "Les invités arrivent à vingt heures.",
+        "blank": "invité",
+        "en": "guest",
+        "gloss": {
+          "en": "guest",
+          "es": "invitado",
+          "ru": "гость"
+        }
+      },
+      {
+        "id": "remote-celebrations-a2-gap-8",
+        "fr": "Le mariage a lieu en juin.",
+        "l2": "Le mariage a lieu en juin.",
+        "speak": "Le mariage a lieu en juin.",
+        "blank": "mariage",
+        "en": "wedding",
+        "gloss": {
+          "en": "wedding",
+          "es": "boda",
+          "ru": "свадьба"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-celebrations-a2-ord-1",
+        "fr": "On organise une fête samedi.",
+        "l2": "On organise une fête samedi.",
+        "en": "party / celebration",
+        "gloss": {
+          "en": "party / celebration",
+          "es": "fiesta / celebración",
+          "ru": "вечеринка/праздник"
+        },
+        "words": [
+          "On",
+          "organise",
+          "une",
+          "fête",
+          "samedi."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-ord-2",
+        "fr": "C’est mon anniversaire demain.",
+        "l2": "C’est mon anniversaire demain.",
+        "en": "birthday",
+        "gloss": {
+          "en": "birthday",
+          "es": "cumpleaños",
+          "ru": "день рождения"
+        },
+        "words": [
+          "C’est",
+          "mon",
+          "anniversaire",
+          "demain."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-ord-3",
+        "fr": "J’ai reçu une invitation.",
+        "l2": "J’ai reçu une invitation.",
+        "en": "invitation",
+        "gloss": {
+          "en": "invitation",
+          "es": "invitación",
+          "ru": "приглашение"
+        },
+        "words": [
+          "J’ai",
+          "reçu",
+          "une",
+          "invitation."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-ord-4",
+        "fr": "J’apporte un cadeau.",
+        "l2": "J’apporte un cadeau.",
+        "en": "present / gift",
+        "gloss": {
+          "en": "present / gift",
+          "es": "presente / regalo",
+          "ru": "подарок / подарок"
+        },
+        "words": [
+          "J’apporte",
+          "un",
+          "cadeau."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-ord-5",
+        "fr": "Le gâteau au chocolat est délicieux.",
+        "l2": "Le gâteau au chocolat est délicieux.",
+        "en": "cake",
+        "gloss": {
+          "en": "cake",
+          "es": "pastel",
+          "ru": "торт"
+        },
+        "words": [
+          "Le",
+          "gâteau",
+          "au",
+          "chocolat",
+          "est",
+          "délicieux."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-ord-6",
+        "fr": "Il y a vingt bougies sur le gâteau.",
+        "l2": "Il y a vingt bougies sur le gâteau.",
+        "en": "candle",
+        "gloss": {
+          "en": "candle",
+          "es": "vela",
+          "ru": "свеча"
+        },
+        "words": [
+          "Il",
+          "y",
+          "a",
+          "vingt",
+          "bougies",
+          "sur",
+          "le",
+          "gâteau."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-ord-7",
+        "fr": "Les invités arrivent à vingt heures.",
+        "l2": "Les invités arrivent à vingt heures.",
+        "en": "guest",
+        "gloss": {
+          "en": "guest",
+          "es": "invitado",
+          "ru": "гость"
+        },
+        "words": [
+          "Les",
+          "invités",
+          "arrivent",
+          "à",
+          "vingt",
+          "heures."
+        ]
+      },
+      {
+        "id": "remote-celebrations-a2-ord-8",
+        "fr": "Le mariage a lieu en juin.",
+        "l2": "Le mariage a lieu en juin.",
+        "en": "wedding",
+        "gloss": {
+          "en": "wedding",
+          "es": "boda",
+          "ru": "свадьба"
+        },
+        "words": [
+          "Le",
+          "mariage",
+          "a",
+          "lieu",
+          "en",
+          "juin."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-celebrations-a2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "fɛt",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "fête",
+          "l2": "fête",
+          "en": "party / celebration",
+          "gloss": {
+            "en": "party / celebration",
+            "es": "fiesta / celebración",
+            "ru": "вечеринка/праздник"
+          },
+          "ipa": "fɛt"
+        },
+        {
+          "fr": "anniversaire",
+          "l2": "anniversaire",
+          "en": "birthday",
+          "gloss": {
+            "en": "birthday",
+            "es": "cumpleaños",
+            "ru": "день рождения"
+          },
+          "ipa": "a.ni.vɛʁ.sɛʁ"
+        },
+        {
+          "fr": "invitation",
+          "l2": "invitation",
+          "en": "invitation",
+          "gloss": {
+            "en": "invitation",
+            "es": "invitación",
+            "ru": "приглашение"
+          },
+          "ipa": "ɛ̃.vi.ta.sjɔ̃"
+        },
+        {
+          "fr": "cadeau",
+          "l2": "cadeau",
+          "en": "present / gift",
+          "gloss": {
+            "en": "present / gift",
+            "es": "presente / regalo",
+            "ru": "подарок / подарок"
+          },
+          "ipa": "ka.do"
+        },
+        {
+          "fr": "gâteau",
+          "l2": "gâteau",
+          "en": "cake",
+          "gloss": {
+            "en": "cake",
+            "es": "pastel",
+            "ru": "торт"
+          },
+          "ipa": "ɡa.to"
+        }
+      ]
+    }
+  ]
 }

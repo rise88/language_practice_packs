@@ -63,7 +63,11 @@
         "ru": "пример"
       },
       "wordIpa": "ɛɡ.zɑ̃pl",
-      "distractors": ["autre", "mot", "choix"]
+      "distractors": [
+        "autre",
+        "mot",
+        "choix"
+      ]
     }
   ],
   "prompts": [
@@ -87,20 +91,44 @@
         "ru": "Краткое правило для режима «Грамматика»."
       },
       "why": {
+        "fr": "Utile pour choisir la bonne forme à l’oral ou à l’écrit.",
         "en": "Helps you choose the right form when speaking or writing.",
         "es": "Ayuda a elegir la forma correcta al hablar o escribir.",
         "ru": "Помогает выбрать нужную форму при речи или письме."
       },
       "table": [
-        ["Colonne A", "Colonne B", "Exemple"],
-        ["forme", "usage", "exemple"]
+        [
+          "Colonne A",
+          "Colonne B",
+          "Exemple"
+        ],
+        [
+          "forme",
+          "usage",
+          "exemple"
+        ]
       ],
       "questions": [
         {
           "id": "remote-my-topic-gq-1",
           "prompt": "Complète : ___ exemple.",
           "answer": "un",
-          "options": ["un", "une", "des"]
+          "options": [
+            "un",
+            "une",
+            "des"
+          ],
+          "gloss": {
+            "en": "Complete: ___ example.",
+            "es": "Completa: ___ ejemplo.",
+            "ru": "Заполни: ___ пример."
+          },
+          "why": {
+            "fr": "« Exemple » est masculin : on utilise « un ».",
+            "en": "Exemple is masculine, so use un.",
+            "es": "Exemple es masculino: se usa un.",
+            "ru": "Exemple — мужского рода, поэтому un."
+          }
         }
       ]
     }
@@ -167,7 +195,11 @@
           "es": "Aquí hay un ejemplo.",
           "ru": "Вот пример."
         },
-        "words": ["Voici", "un", "exemple."]
+        "words": [
+          "Voici",
+          "un",
+          "exemple."
+        ]
       }
     ],
     "signs": [
@@ -183,7 +215,56 @@
         },
         "hint": "optional signs drill"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-my-topic-fren-1",
+        "l2": "exemple",
+        "fr": "exemple",
+        "en": "example",
+        "gloss": {
+          "en": "example",
+          "es": "ejemplo",
+          "ru": "пример"
+        }
+      }
     ]
   },
-  "sounds": []
+  "sounds": [
+    {
+      "id": "remote-my-topic-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ɛɡ.zɑ̃pl",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "exemple",
+          "l2": "exemple",
+          "en": "example",
+          "ipa": "ɛɡ.zɑ̃pl",
+          "gloss": {
+            "en": "example",
+            "es": "ejemplo",
+            "ru": "пример"
+          }
+        }
+      ]
+    }
+  ]
 }

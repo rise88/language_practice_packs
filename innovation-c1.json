@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "innovation-c1",
-  "version": 4,
+  "version": 5,
   "level": "c1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "est éprouvé",
             "éprouve on",
             "s’éprouve-t-on"
-          ]
+          ],
+          "gloss": {
+            "en": "The prototype ___ in real conditions before any scale-up.",
+            "es": "El prototipo ___ en condiciones reales antes de cualquier ampliación.",
+            "ru": "Прототип ___ в реальных условиях перед масштабированием."
+          },
+          "why": {
+            "fr": "Réponse : « est éprouvé ».",
+            "en": "Answer: “est éprouvé”.",
+            "es": "Respuesta: « est éprouvé ».",
+            "ru": "Ответ: « est éprouvé »."
+          }
         },
         {
           "id": "remote-innovation-gq-2",
@@ -537,7 +548,18 @@
             "On affirme",
             "Est affirmé",
             "S’affirme que"
-          ]
+          ],
+          "gloss": {
+            "en": "___ too quickly that the disruption is decreed.",
+            "es": "___ demasiado rápido para que se decrete la interrupción.",
+            "ru": "___ слишком быстро, чтобы было объявлено о сбое."
+          },
+          "why": {
+            "fr": "Réponse : « On affirme ».",
+            "en": "Answer: “On affirme”.",
+            "es": "Respuesta: « On affirme ».",
+            "ru": "Ответ: « On affirme »."
+          }
         },
         {
           "id": "remote-innovation-gq-3",
@@ -547,13 +569,25 @@
             "se diffuse",
             "est diffuser",
             "on se diffuse"
-          ]
+          ],
+          "gloss": {
+            "en": "Innovation ___ faster in a dense ecosystem.",
+            "es": "Innovación ___ más rápida en un ecosistema denso.",
+            "ru": "Инновации ___ быстрее в плотной экосистеме."
+          },
+          "why": {
+            "fr": "Réponse : « se diffuse ».",
+            "en": "Answer: “se diffuse”.",
+            "es": "Respuesta: « se diffuse ».",
+            "ru": "Ответ: « se diffuse »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Passive, on, and middle se.",
         "es": "Útil cuando necesitas aplicar: pasivo, encendido y medio.",
-        "ru": "Полезно, когда нужно применить: Пассив, Вкл и Средний Се."
+        "ru": "Полезно, когда нужно применить: Пассив, Вкл и Средний Се.",
+        "fr": "Utile pour appliquer : Passif, on et se moyen."
       }
     },
     {
@@ -606,7 +640,18 @@
             "soit",
             "est",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "We do not assert that the transition to scale ___ reproducible.",
+            "es": "No afirmamos que la transición a escala ___ sea reproducible.",
+            "ru": "Мы не утверждаем, что переход к масштабу ___ воспроизводим."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-innovation-gq-5",
@@ -616,13 +661,25 @@
             "pouvoir tester",
             "que tester",
             "de tester"
-          ]
+          ],
+          "gloss": {
+            "en": "She claims ___ the prototype without filing a patent.",
+            "es": "Ella reclama ___ el prototipo sin presentar una patente.",
+            "ru": "Она заявляет ___ прототип, не подавая патента."
+          },
+          "why": {
+            "fr": "Réponse : « pouvoir tester ».",
+            "en": "Answer: “pouvoir tester”.",
+            "es": "Respuesta: « pouvoir tester ».",
+            "ru": "Ответ: « pouvoir tester »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Infinitive vs que-clause.",
         "es": "Útil cuando necesitas aplicar: Infinitivo vs cláusula que.",
-        "ru": "Полезно, когда вам нужно применить: инфинитив против предложения que."
+        "ru": "Полезно, когда вам нужно применить: инфинитив против предложения que.",
+        "fr": "Utile pour appliquer : Infinitive vs que-clause."
       }
     }
   ],
@@ -852,6 +909,1106 @@
         },
         "l2": "Loin de garantir l’innovation, le brevet peut figer un commun."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-innovation-fren-1",
+        "fr": "disruption",
+        "en": "disruption",
+        "gloss": {
+          "en": "disruption",
+          "es": "ruptura",
+          "ru": "нарушение"
+        },
+        "l2": "disruption"
+      },
+      {
+        "id": "remote-innovation-fren-2",
+        "fr": "prototype",
+        "en": "prototype",
+        "gloss": {
+          "en": "prototype",
+          "es": "prototipo",
+          "ru": "прототип"
+        },
+        "l2": "prototype"
+      },
+      {
+        "id": "remote-innovation-fren-3",
+        "fr": "brevet",
+        "en": "patent",
+        "gloss": {
+          "en": "patent",
+          "es": "patentar",
+          "ru": "патент"
+        },
+        "l2": "brevet"
+      },
+      {
+        "id": "remote-innovation-fren-4",
+        "fr": "passage à l’échelle",
+        "en": "scaling",
+        "gloss": {
+          "en": "scaling",
+          "es": "escalada",
+          "ru": "масштабирование"
+        },
+        "l2": "passage à l’échelle"
+      },
+      {
+        "id": "remote-innovation-fren-5",
+        "fr": "recherche",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        },
+        "l2": "recherche"
+      },
+      {
+        "id": "remote-innovation-fren-6",
+        "fr": "incubateur",
+        "en": "incubator",
+        "gloss": {
+          "en": "incubator",
+          "es": "incubadora",
+          "ru": "инкубатор"
+        },
+        "l2": "incubateur"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-innovation-c1-enl2-1",
+        "fr": "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+        "l2": "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+        "en": "disruption",
+        "gloss": {
+          "en": "disruption",
+          "es": "ruptura",
+          "ru": "нарушение"
+        },
+        "prompt": "disruption",
+        "choices": [
+          "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+          "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle.",
+          "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-enl2-2",
+        "fr": "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle.",
+        "l2": "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle.",
+        "en": "prototype",
+        "gloss": {
+          "en": "prototype",
+          "es": "prototipo",
+          "ru": "прототип"
+        },
+        "prompt": "prototype",
+        "choices": [
+          "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle.",
+          "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+          "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-enl2-3",
+        "fr": "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible.",
+        "l2": "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible.",
+        "en": "patent",
+        "gloss": {
+          "en": "patent",
+          "es": "patentar",
+          "ru": "патент"
+        },
+        "prompt": "patent",
+        "choices": [
+          "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible.",
+          "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+          "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-enl2-4",
+        "fr": "Le passage à l’échelle, quitte à dénaturer le prototype, impose des arbitrages que la preuve de concept n’avait pas anticipés.",
+        "l2": "Le passage à l’échelle, quitte à dénaturer le prototype, impose des arbitrages que la preuve de concept n’avait pas anticipés.",
+        "en": "scaling",
+        "gloss": {
+          "en": "scaling",
+          "es": "escalada",
+          "ru": "масштабирование"
+        },
+        "prompt": "scaling",
+        "choices": [
+          "Le passage à l’échelle, quitte à dénaturer le prototype, impose des arbitrages que la preuve de concept n’avait pas anticipés.",
+          "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+          "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-enl2-5",
+        "fr": "La recherche et développement, à moins d’être adossée à un écosystème, reste un coût que nulle disruption ne rentabilise seule.",
+        "l2": "La recherche et développement, à moins d’être adossée à un écosystème, reste un coût que nulle disruption ne rentabilise seule.",
+        "en": "research / R&D",
+        "gloss": {
+          "en": "research / R&D",
+          "es": "investigación / I+D",
+          "ru": "исследования / НИОКР"
+        },
+        "prompt": "research / R&D",
+        "choices": [
+          "La recherche et développement, à moins d’être adossée à un écosystème, reste un coût que nulle disruption ne rentabilise seule.",
+          "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+          "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-enl2-6",
+        "fr": "L’incubateur, dont le vivier alimente l’essaimage, n’est un levier que si le transfert vers l’industrie est réellement cadré.",
+        "l2": "L’incubateur, dont le vivier alimente l’essaimage, n’est un levier que si le transfert vers l’industrie est réellement cadré.",
+        "en": "incubator",
+        "gloss": {
+          "en": "incubator",
+          "es": "incubadora",
+          "ru": "инкубатор"
+        },
+        "prompt": "incubator",
+        "choices": [
+          "L’incubateur, dont le vivier alimente l’essaimage, n’est un levier que si le transfert vers l’industrie est réellement cadré.",
+          "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+          "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-enl2-7",
+        "fr": "Le transfert technologique, encore qu’il soit célébré, bute sur la propriété intellectuelle et sur des cultures organisationnelles.",
+        "l2": "Le transfert technologique, encore qu’il soit célébré, bute sur la propriété intellectuelle et sur des cultures organisationnelles.",
+        "en": "technology transfer",
+        "gloss": {
+          "en": "technology transfer",
+          "es": "transferencia de tecnología",
+          "ru": "передача технологий"
+        },
+        "prompt": "technology transfer",
+        "choices": [
+          "Le transfert technologique, encore qu’il soit célébré, bute sur la propriété intellectuelle et sur des cultures organisationnelles.",
+          "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+          "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-enl2-8",
+        "fr": "L’itération rapide, loin de dispenser d’une méthodologie, affine le prototype à condition que les critères restent explicites.",
+        "l2": "L’itération rapide, loin de dispenser d’une méthodologie, affine le prototype à condition que les critères restent explicites.",
+        "en": "iteration",
+        "gloss": {
+          "en": "iteration",
+          "es": "iteración",
+          "ru": "итерация"
+        },
+        "prompt": "iteration",
+        "choices": [
+          "L’itération rapide, loin de dispenser d’une méthodologie, affine le prototype à condition que les critères restent explicites.",
+          "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+          "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-innovation-c1-prm-1",
+        "en": "disruption",
+        "gloss": {
+          "en": "disruption",
+          "es": "ruptura",
+          "ru": "нарушение"
+        },
+        "answers": [
+          "disruption",
+          "la disruption"
+        ],
+        "target": "la disruption"
+      },
+      {
+        "id": "remote-innovation-c1-prm-2",
+        "en": "prototype",
+        "gloss": {
+          "en": "prototype",
+          "es": "prototipo",
+          "ru": "прототип"
+        },
+        "answers": [
+          "prototype",
+          "le prototype"
+        ],
+        "target": "le prototype"
+      },
+      {
+        "id": "remote-innovation-c1-prm-3",
+        "en": "patent",
+        "gloss": {
+          "en": "patent",
+          "es": "patentar",
+          "ru": "патент"
+        },
+        "answers": [
+          "brevet",
+          "le brevet"
+        ],
+        "target": "le brevet"
+      },
+      {
+        "id": "remote-innovation-c1-prm-4",
+        "en": "scaling",
+        "gloss": {
+          "en": "scaling",
+          "es": "escalada",
+          "ru": "масштабирование"
+        },
+        "answers": [
+          "passage à l’échelle",
+          "le passage à l’échelle"
+        ],
+        "target": "le passage à l’échelle"
+      },
+      {
+        "id": "remote-innovation-c1-prm-5",
+        "en": "research / R&D",
+        "gloss": {
+          "en": "research / R&D",
+          "es": "investigación / I+D",
+          "ru": "исследования / НИОКР"
+        },
+        "answers": [
+          "recherche",
+          "la recherche"
+        ],
+        "target": "la recherche"
+      },
+      {
+        "id": "remote-innovation-c1-prm-6",
+        "en": "incubator",
+        "gloss": {
+          "en": "incubator",
+          "es": "incubadora",
+          "ru": "инкубатор"
+        },
+        "answers": [
+          "incubateur",
+          "l' incubateur"
+        ],
+        "target": "l' incubateur"
+      },
+      {
+        "id": "remote-innovation-c1-prm-7",
+        "en": "technology transfer",
+        "gloss": {
+          "en": "technology transfer",
+          "es": "transferencia de tecnología",
+          "ru": "передача технологий"
+        },
+        "answers": [
+          "transfert",
+          "le transfert"
+        ],
+        "target": "le transfert"
+      },
+      {
+        "id": "remote-innovation-c1-prm-8",
+        "en": "iteration",
+        "gloss": {
+          "en": "iteration",
+          "es": "iteración",
+          "ru": "итерация"
+        },
+        "answers": [
+          "itération",
+          "l' itération"
+        ],
+        "target": "l' itération"
+      },
+      {
+        "id": "remote-innovation-c1-prm-9",
+        "en": "feasibility",
+        "gloss": {
+          "en": "feasibility",
+          "es": "factibilidad",
+          "ru": "осуществимость"
+        },
+        "answers": [
+          "faisabilité",
+          "la faisabilité"
+        ],
+        "target": "la faisabilité"
+      },
+      {
+        "id": "remote-innovation-c1-prm-10",
+        "en": "spin-off",
+        "gloss": {
+          "en": "spin-off",
+          "es": "escindir",
+          "ru": "дополнительная выгода"
+        },
+        "answers": [
+          "essaimage",
+          "l' essaimage"
+        ],
+        "target": "l' essaimage"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-innovation-c1-sign-1",
+        "fr": "disruption",
+        "l2": "disruption",
+        "en": "disruption",
+        "gloss": {
+          "en": "disruption",
+          "es": "ruptura",
+          "ru": "нарушение"
+        },
+        "choices": [
+          "disruption",
+          "prototype",
+          "patent"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-2",
+        "fr": "prototype",
+        "l2": "prototype",
+        "en": "prototype",
+        "gloss": {
+          "en": "prototype",
+          "es": "prototipo",
+          "ru": "прототип"
+        },
+        "choices": [
+          "prototype",
+          "disruption",
+          "patent"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-3",
+        "fr": "brevet",
+        "l2": "brevet",
+        "en": "patent",
+        "gloss": {
+          "en": "patent",
+          "es": "patentar",
+          "ru": "патент"
+        },
+        "choices": [
+          "patent",
+          "disruption",
+          "prototype"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-4",
+        "fr": "passage à l’échelle",
+        "l2": "passage à l’échelle",
+        "en": "scaling",
+        "gloss": {
+          "en": "scaling",
+          "es": "escalada",
+          "ru": "масштабирование"
+        },
+        "choices": [
+          "scaling",
+          "disruption",
+          "prototype"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-5",
+        "fr": "recherche",
+        "l2": "recherche",
+        "en": "research / R&D",
+        "gloss": {
+          "en": "research / R&D",
+          "es": "investigación / I+D",
+          "ru": "исследования / НИОКР"
+        },
+        "choices": [
+          "research / R&D",
+          "disruption",
+          "prototype"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-6",
+        "fr": "incubateur",
+        "l2": "incubateur",
+        "en": "incubator",
+        "gloss": {
+          "en": "incubator",
+          "es": "incubadora",
+          "ru": "инкубатор"
+        },
+        "choices": [
+          "incubator",
+          "disruption",
+          "prototype"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-7",
+        "fr": "transfert",
+        "l2": "transfert",
+        "en": "technology transfer",
+        "gloss": {
+          "en": "technology transfer",
+          "es": "transferencia de tecnología",
+          "ru": "передача технологий"
+        },
+        "choices": [
+          "technology transfer",
+          "disruption",
+          "prototype"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-8",
+        "fr": "itération",
+        "l2": "itération",
+        "en": "iteration",
+        "gloss": {
+          "en": "iteration",
+          "es": "iteración",
+          "ru": "итерация"
+        },
+        "choices": [
+          "iteration",
+          "disruption",
+          "prototype"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-9",
+        "fr": "faisabilité",
+        "l2": "faisabilité",
+        "en": "feasibility",
+        "gloss": {
+          "en": "feasibility",
+          "es": "factibilidad",
+          "ru": "осуществимость"
+        },
+        "choices": [
+          "feasibility",
+          "disruption",
+          "prototype"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-10",
+        "fr": "essaimage",
+        "l2": "essaimage",
+        "en": "spin-off",
+        "gloss": {
+          "en": "spin-off",
+          "es": "escindir",
+          "ru": "дополнительная выгода"
+        },
+        "choices": [
+          "spin-off",
+          "disruption",
+          "prototype"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-11",
+        "fr": "consortium",
+        "l2": "consortium",
+        "en": "consortium",
+        "gloss": {
+          "en": "consortium",
+          "es": "consorcio",
+          "ru": "консорциум"
+        },
+        "choices": [
+          "consortium",
+          "disruption",
+          "prototype"
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-sign-12",
+        "fr": "propriété intellectuelle",
+        "l2": "propriété intellectuelle",
+        "en": "intellectual property",
+        "gloss": {
+          "en": "intellectual property",
+          "es": "propiedad intelectual",
+          "ru": "интеллектуальная собственность"
+        },
+        "choices": [
+          "intellectual property",
+          "disruption",
+          "prototype"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-innovation-c1-pair-1",
+        "a": {
+          "fr": "disruption",
+          "l2": "disruption",
+          "en": "disruption",
+          "gloss": {
+            "en": "disruption",
+            "es": "ruptura",
+            "ru": "нарушение"
+          }
+        },
+        "b": {
+          "fr": "prototype",
+          "l2": "prototype",
+          "en": "prototype",
+          "gloss": {
+            "en": "prototype",
+            "es": "prototipo",
+            "ru": "прототип"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-innovation-c1-pair-2",
+        "a": {
+          "fr": "brevet",
+          "l2": "brevet",
+          "en": "patent",
+          "gloss": {
+            "en": "patent",
+            "es": "patentar",
+            "ru": "патент"
+          }
+        },
+        "b": {
+          "fr": "passage à l’échelle",
+          "l2": "passage à l’échelle",
+          "en": "scaling",
+          "gloss": {
+            "en": "scaling",
+            "es": "escalada",
+            "ru": "масштабирование"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-innovation-c1-pair-3",
+        "a": {
+          "fr": "recherche",
+          "l2": "recherche",
+          "en": "research / R&D",
+          "gloss": {
+            "en": "research / R&D",
+            "es": "investigación / I+D",
+            "ru": "исследования / НИОКР"
+          }
+        },
+        "b": {
+          "fr": "incubateur",
+          "l2": "incubateur",
+          "en": "incubator",
+          "gloss": {
+            "en": "incubator",
+            "es": "incubadora",
+            "ru": "инкубатор"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-innovation-c1-pair-4",
+        "a": {
+          "fr": "transfert",
+          "l2": "transfert",
+          "en": "technology transfer",
+          "gloss": {
+            "en": "technology transfer",
+            "es": "transferencia de tecnología",
+            "ru": "передача технологий"
+          }
+        },
+        "b": {
+          "fr": "itération",
+          "l2": "itération",
+          "en": "iteration",
+          "gloss": {
+            "en": "iteration",
+            "es": "iteración",
+            "ru": "итерация"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-innovation-c1-pair-5",
+        "a": {
+          "fr": "faisabilité",
+          "l2": "faisabilité",
+          "en": "feasibility",
+          "gloss": {
+            "en": "feasibility",
+            "es": "factibilidad",
+            "ru": "осуществимость"
+          }
+        },
+        "b": {
+          "fr": "essaimage",
+          "l2": "essaimage",
+          "en": "spin-off",
+          "gloss": {
+            "en": "spin-off",
+            "es": "escindir",
+            "ru": "дополнительная выгода"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-innovation-c1-gap-1",
+        "fr": "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+        "l2": "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+        "speak": "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+        "blank": "disruption",
+        "en": "disruption",
+        "gloss": {
+          "en": "disruption",
+          "es": "ruptura",
+          "ru": "нарушение"
+        }
+      },
+      {
+        "id": "remote-innovation-c1-gap-2",
+        "fr": "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle.",
+        "l2": "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle.",
+        "speak": "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle.",
+        "blank": "prototype",
+        "en": "prototype",
+        "gloss": {
+          "en": "prototype",
+          "es": "prototipo",
+          "ru": "прототип"
+        }
+      },
+      {
+        "id": "remote-innovation-c1-gap-3",
+        "fr": "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible.",
+        "l2": "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible.",
+        "speak": "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible.",
+        "blank": "brevet",
+        "en": "patent",
+        "gloss": {
+          "en": "patent",
+          "es": "patentar",
+          "ru": "патент"
+        }
+      },
+      {
+        "id": "remote-innovation-c1-gap-4",
+        "fr": "Le passage à l’échelle, quitte à dénaturer le prototype, impose des arbitrages que la preuve de concept n’avait pas anticipés.",
+        "l2": "Le passage à l’échelle, quitte à dénaturer le prototype, impose des arbitrages que la preuve de concept n’avait pas anticipés.",
+        "speak": "Le passage à l’échelle, quitte à dénaturer le prototype, impose des arbitrages que la preuve de concept n’avait pas anticipés.",
+        "blank": "passage à l’échelle",
+        "en": "scaling",
+        "gloss": {
+          "en": "scaling",
+          "es": "escalada",
+          "ru": "масштабирование"
+        }
+      },
+      {
+        "id": "remote-innovation-c1-gap-5",
+        "fr": "La recherche et développement, à moins d’être adossée à un écosystème, reste un coût que nulle disruption ne rentabilise seule.",
+        "l2": "La recherche et développement, à moins d’être adossée à un écosystème, reste un coût que nulle disruption ne rentabilise seule.",
+        "speak": "La recherche et développement, à moins d’être adossée à un écosystème, reste un coût que nulle disruption ne rentabilise seule.",
+        "blank": "recherche",
+        "en": "research / R&D",
+        "gloss": {
+          "en": "research / R&D",
+          "es": "investigación / I+D",
+          "ru": "исследования / НИОКР"
+        }
+      },
+      {
+        "id": "remote-innovation-c1-gap-6",
+        "fr": "L’incubateur, dont le vivier alimente l’essaimage, n’est un levier que si le transfert vers l’industrie est réellement cadré.",
+        "l2": "L’incubateur, dont le vivier alimente l’essaimage, n’est un levier que si le transfert vers l’industrie est réellement cadré.",
+        "speak": "L’incubateur, dont le vivier alimente l’essaimage, n’est un levier que si le transfert vers l’industrie est réellement cadré.",
+        "blank": "incubateur",
+        "en": "incubator",
+        "gloss": {
+          "en": "incubator",
+          "es": "incubadora",
+          "ru": "инкубатор"
+        }
+      },
+      {
+        "id": "remote-innovation-c1-gap-7",
+        "fr": "Le transfert technologique, encore qu’il soit célébré, bute sur la propriété intellectuelle et sur des cultures organisationnelles.",
+        "l2": "Le transfert technologique, encore qu’il soit célébré, bute sur la propriété intellectuelle et sur des cultures organisationnelles.",
+        "speak": "Le transfert technologique, encore qu’il soit célébré, bute sur la propriété intellectuelle et sur des cultures organisationnelles.",
+        "blank": "transfert",
+        "en": "technology transfer",
+        "gloss": {
+          "en": "technology transfer",
+          "es": "transferencia de tecnología",
+          "ru": "передача технологий"
+        }
+      },
+      {
+        "id": "remote-innovation-c1-gap-8",
+        "fr": "L’itération rapide, loin de dispenser d’une méthodologie, affine le prototype à condition que les critères restent explicites.",
+        "l2": "L’itération rapide, loin de dispenser d’une méthodologie, affine le prototype à condition que les critères restent explicites.",
+        "speak": "L’itération rapide, loin de dispenser d’une méthodologie, affine le prototype à condition que les critères restent explicites.",
+        "blank": "itération",
+        "en": "iteration",
+        "gloss": {
+          "en": "iteration",
+          "es": "iteración",
+          "ru": "итерация"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-innovation-c1-ord-1",
+        "fr": "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+        "l2": "La disruption, dont on abuse comme étiquette, désigne une rupture d’usage plutôt qu’une simple amélioration incrémentale.",
+        "en": "disruption",
+        "gloss": {
+          "en": "disruption",
+          "es": "ruptura",
+          "ru": "нарушение"
+        },
+        "words": [
+          "La",
+          "disruption,",
+          "dont",
+          "on",
+          "abuse",
+          "comme",
+          "étiquette,",
+          "désigne",
+          "une",
+          "rupture",
+          "d’usage",
+          "plutôt",
+          "qu’une",
+          "simple",
+          "amélioration",
+          "incrémentale."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-ord-2",
+        "fr": "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle.",
+        "l2": "Le prototype, encore qu’il convainque en laboratoire, ne préjuge en rien de la faisabilité d’un passage à l’échelle.",
+        "en": "prototype",
+        "gloss": {
+          "en": "prototype",
+          "es": "prototipo",
+          "ru": "прототип"
+        },
+        "words": [
+          "Le",
+          "prototype,",
+          "encore",
+          "qu’il",
+          "convainque",
+          "en",
+          "laboratoire,",
+          "ne",
+          "préjuge",
+          "en",
+          "rien",
+          "de",
+          "la",
+          "faisabilité",
+          "d’un",
+          "passage",
+          "à",
+          "l’échelle."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-ord-3",
+        "fr": "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible.",
+        "l2": "Le brevet, loin de garantir l’innovation, peut figer un commun que la recherche publique avait rendu disponible.",
+        "en": "patent",
+        "gloss": {
+          "en": "patent",
+          "es": "patentar",
+          "ru": "патент"
+        },
+        "words": [
+          "Le",
+          "brevet,",
+          "loin",
+          "de",
+          "garantir",
+          "l’innovation,",
+          "peut",
+          "figer",
+          "un",
+          "commun",
+          "que",
+          "la",
+          "recherche",
+          "publique",
+          "avait",
+          "rendu",
+          "disponible."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-ord-4",
+        "fr": "Le passage à l’échelle, quitte à dénaturer le prototype, impose des arbitrages que la preuve de concept n’avait pas anticipés.",
+        "l2": "Le passage à l’échelle, quitte à dénaturer le prototype, impose des arbitrages que la preuve de concept n’avait pas anticipés.",
+        "en": "scaling",
+        "gloss": {
+          "en": "scaling",
+          "es": "escalada",
+          "ru": "масштабирование"
+        },
+        "words": [
+          "Le",
+          "passage",
+          "à",
+          "l’échelle,",
+          "quitte",
+          "à",
+          "dénaturer",
+          "le",
+          "prototype,",
+          "impose",
+          "des",
+          "arbitrages",
+          "que",
+          "la",
+          "preuve",
+          "de",
+          "concept",
+          "n’avait",
+          "pas",
+          "anticipés."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-ord-5",
+        "fr": "La recherche et développement, à moins d’être adossée à un écosystème, reste un coût que nulle disruption ne rentabilise seule.",
+        "l2": "La recherche et développement, à moins d’être adossée à un écosystème, reste un coût que nulle disruption ne rentabilise seule.",
+        "en": "research / R&D",
+        "gloss": {
+          "en": "research / R&D",
+          "es": "investigación / I+D",
+          "ru": "исследования / НИОКР"
+        },
+        "words": [
+          "La",
+          "recherche",
+          "et",
+          "développement,",
+          "à",
+          "moins",
+          "d’être",
+          "adossée",
+          "à",
+          "un",
+          "écosystème,",
+          "reste",
+          "un",
+          "coût",
+          "que",
+          "nulle",
+          "disruption",
+          "ne",
+          "rentabilise",
+          "seule."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-ord-6",
+        "fr": "L’incubateur, dont le vivier alimente l’essaimage, n’est un levier que si le transfert vers l’industrie est réellement cadré.",
+        "l2": "L’incubateur, dont le vivier alimente l’essaimage, n’est un levier que si le transfert vers l’industrie est réellement cadré.",
+        "en": "incubator",
+        "gloss": {
+          "en": "incubator",
+          "es": "incubadora",
+          "ru": "инкубатор"
+        },
+        "words": [
+          "L’incubateur,",
+          "dont",
+          "le",
+          "vivier",
+          "alimente",
+          "l’essaimage,",
+          "n’est",
+          "un",
+          "levier",
+          "que",
+          "si",
+          "le",
+          "transfert",
+          "vers",
+          "l’industrie",
+          "est",
+          "réellement",
+          "cadré."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-ord-7",
+        "fr": "Le transfert technologique, encore qu’il soit célébré, bute sur la propriété intellectuelle et sur des cultures organisationnelles.",
+        "l2": "Le transfert technologique, encore qu’il soit célébré, bute sur la propriété intellectuelle et sur des cultures organisationnelles.",
+        "en": "technology transfer",
+        "gloss": {
+          "en": "technology transfer",
+          "es": "transferencia de tecnología",
+          "ru": "передача технологий"
+        },
+        "words": [
+          "Le",
+          "transfert",
+          "technologique,",
+          "encore",
+          "qu’il",
+          "soit",
+          "célébré,",
+          "bute",
+          "sur",
+          "la",
+          "propriété",
+          "intellectuelle",
+          "et",
+          "sur",
+          "des",
+          "cultures",
+          "organisationnelles."
+        ]
+      },
+      {
+        "id": "remote-innovation-c1-ord-8",
+        "fr": "L’itération rapide, loin de dispenser d’une méthodologie, affine le prototype à condition que les critères restent explicites.",
+        "l2": "L’itération rapide, loin de dispenser d’une méthodologie, affine le prototype à condition que les critères restent explicites.",
+        "en": "iteration",
+        "gloss": {
+          "en": "iteration",
+          "es": "iteración",
+          "ru": "итерация"
+        },
+        "words": [
+          "L’itération",
+          "rapide,",
+          "loin",
+          "de",
+          "dispenser",
+          "d’une",
+          "méthodologie,",
+          "affine",
+          "le",
+          "prototype",
+          "à",
+          "condition",
+          "que",
+          "les",
+          "critères",
+          "restent",
+          "explicites."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-innovation-c1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "dis.ʁyp.sjɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "disruption",
+          "l2": "disruption",
+          "en": "disruption",
+          "gloss": {
+            "en": "disruption",
+            "es": "ruptura",
+            "ru": "нарушение"
+          },
+          "ipa": "dis.ʁyp.sjɔ̃"
+        },
+        {
+          "fr": "prototype",
+          "l2": "prototype",
+          "en": "prototype",
+          "gloss": {
+            "en": "prototype",
+            "es": "prototipo",
+            "ru": "прототип"
+          },
+          "ipa": "pʁɔ.tɔ.tip"
+        },
+        {
+          "fr": "brevet",
+          "l2": "brevet",
+          "en": "patent",
+          "gloss": {
+            "en": "patent",
+            "es": "patentar",
+            "ru": "патент"
+          },
+          "ipa": "bʁə.vɛ"
+        },
+        {
+          "fr": "passage à l’échelle",
+          "l2": "passage à l’échelle",
+          "en": "scaling",
+          "gloss": {
+            "en": "scaling",
+            "es": "escalada",
+            "ru": "масштабирование"
+          },
+          "ipa": "pa.saʒ a le.ʃɛl"
+        },
+        {
+          "fr": "recherche",
+          "l2": "recherche",
+          "en": "research / R&D",
+          "gloss": {
+            "en": "research / R&D",
+            "es": "investigación / I+D",
+            "ru": "исследования / НИОКР"
+          },
+          "ipa": "ʁə.ʃɛʁʃ"
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "linguistics-c1",
-  "version": 4,
+  "version": 5,
   "level": "c1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "ne blesse",
             "blesse pas",
             "ne blesse pas"
-          ]
+          ],
+          "gloss": {
+            "en": "I fear that this speech act will ___ the speaker.",
+            "es": "Temo que este acto de habla ___ al hablante.",
+            "ru": "Я боюсь, что этот речевой акт ___ говорящего."
+          },
+          "why": {
+            "fr": "Réponse : « ne blesse ».",
+            "en": "Answer: “ne blesse”.",
+            "es": "Respuesta: « ne blesse ».",
+            "ru": "Ответ: « ne blesse »."
+          }
         },
         {
           "id": "remote-linguistics-gq-2",
@@ -537,7 +548,18 @@
             "ne soit",
             "est",
             "ne soit pas"
-          ]
+          ],
+          "gloss": {
+            "en": "Unless the presupposition ___ lifted, it survives negation.",
+            "es": "A menos que se elimine la presuposición ___ , sobrevive a la negación.",
+            "ru": "Если пресуппозиция ___ не отменена, она сохраняется и после отрицания."
+          },
+          "why": {
+            "fr": "Réponse : « ne soit ».",
+            "en": "Answer: “ne soit”.",
+            "es": "Respuesta: « ne soit ».",
+            "ru": "Ответ: « ne soit »."
+          }
         },
         {
           "id": "remote-linguistics-gq-3",
@@ -547,13 +569,25 @@
             "n’est pas",
             "ne soit",
             "n’est"
-          ]
+          ],
+          "gloss": {
+            "en": "The so-called ___ implicature, and this is precisely what gives it its strength.",
+            "es": "La llamada implicatura ___ , y esto es precisamente lo que le da su fuerza.",
+            "ru": "Так называемая ___ импликатура, и именно это придает ей силу."
+          },
+          "why": {
+            "fr": "Réponse : « n’est pas ».",
+            "en": "Answer: “n’est pas”.",
+            "es": "Respuesta: « n’est pas ».",
+            "ru": "Ответ: « n’est pas »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Expletive ne.",
         "es": "Útil cuando es necesario aplicar: Impropio ne.",
-        "ru": "Полезно, когда нужно применить: Ругательство н.э."
+        "ru": "Полезно, когда нужно применить: Ругательство н.э.",
+        "fr": "Utile pour appliquer : Le ne explétif."
       }
     },
     {
@@ -606,7 +640,18 @@
             "or",
             "donc",
             "car"
-          ]
+          ],
+          "gloss": {
+            "en": "The statement is polite; ___ he performs an obligatory act.",
+            "es": "La declaración es cortés; ___ realiza un acto obligatorio.",
+            "ru": "Заявление вежливое; ___ он совершает обязательное действие."
+          },
+          "why": {
+            "fr": "Réponse : « or ».",
+            "en": "Answer: “or”.",
+            "es": "Respuesta: « or ».",
+            "ru": "Ответ: « or »."
+          }
         },
         {
           "id": "remote-linguistics-gq-5",
@@ -616,13 +661,25 @@
             "pour autant que",
             "parce que",
             "alors que"
-          ]
+          ],
+          "gloss": {
+            "en": "The analysis holds, ___ we accept this definition of implicature.",
+            "es": "El análisis es válido: ___ aceptamos esta definición de implicatura.",
+            "ru": "Анализ показывает, что ___ мы принимаем это определение импликатуры."
+          },
+          "why": {
+            "fr": "Réponse : « pour autant que ».",
+            "en": "Answer: “pour autant que”.",
+            "es": "Respuesta: « pour autant que ».",
+            "ru": "Ответ: « pour autant que »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Advanced connectors: or / encore que / pour autant que.",
         "es": "Útil cuando necesita aplicar: Conectores avanzados: o / encore que / pour autant que.",
-        "ru": "Полезно, когда нужно применить: Расширенные соединители: или /encore que/pour autant que."
+        "ru": "Полезно, когда нужно применить: Расширенные соединители: или /encore que/pour autant que.",
+        "fr": "Utile pour appliquer : Connecteurs avancés : or / encore que / pour autant que."
       }
     }
   ],
@@ -853,6 +910,1105 @@
         },
         "l2": "Loin d’être un tic, le marqueur discursif oriente l’inférence."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-linguistics-fren-1",
+        "fr": "registre",
+        "en": "register",
+        "gloss": {
+          "en": "register",
+          "es": "registro",
+          "ru": "зарегистрироваться"
+        },
+        "l2": "registre"
+      },
+      {
+        "id": "remote-linguistics-fren-2",
+        "fr": "implicature",
+        "en": "implicature",
+        "gloss": {
+          "en": "implicature",
+          "es": "implicatura",
+          "ru": "импликатура"
+        },
+        "l2": "implicature"
+      },
+      {
+        "id": "remote-linguistics-fren-3",
+        "fr": "pragmatique",
+        "en": "pragmatics",
+        "gloss": {
+          "en": "pragmatics",
+          "es": "pragmática",
+          "ru": "прагматика"
+        },
+        "l2": "pragmatique"
+      },
+      {
+        "id": "remote-linguistics-fren-4",
+        "fr": "marqueur",
+        "en": "discourse marker",
+        "gloss": {
+          "en": "discourse marker",
+          "es": "marcador de discurso",
+          "ru": "маркер дискурса"
+        },
+        "l2": "marqueur"
+      },
+      {
+        "id": "remote-linguistics-fren-5",
+        "fr": "acte de langage",
+        "en": "speech act",
+        "gloss": {
+          "en": "speech act",
+          "es": "acto de habla",
+          "ru": "речевой акт"
+        },
+        "l2": "acte de langage"
+      },
+      {
+        "id": "remote-linguistics-fren-6",
+        "fr": "énonciation",
+        "en": "enunciation",
+        "gloss": {
+          "en": "enunciation",
+          "es": "enunciación",
+          "ru": "высказывание"
+        },
+        "l2": "énonciation"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-linguistics-c1-enl2-1",
+        "fr": "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+        "l2": "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+        "en": "register",
+        "gloss": {
+          "en": "register",
+          "es": "registro",
+          "ru": "зарегистрироваться"
+        },
+        "prompt": "register",
+        "choices": [
+          "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+          "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+          "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-enl2-2",
+        "fr": "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+        "l2": "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+        "en": "implicature",
+        "gloss": {
+          "en": "implicature",
+          "es": "implicatura",
+          "ru": "импликатура"
+        },
+        "prompt": "implicature",
+        "choices": [
+          "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+          "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+          "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-enl2-3",
+        "fr": "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre.",
+        "l2": "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre.",
+        "en": "pragmatics",
+        "gloss": {
+          "en": "pragmatics",
+          "es": "pragmática",
+          "ru": "прагматика"
+        },
+        "prompt": "pragmatics",
+        "choices": [
+          "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre.",
+          "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+          "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-enl2-4",
+        "fr": "Le marqueur discursif, à moins qu’on n’y voie un tic, oriente l’inférence et cadre le registre de l’échange.",
+        "l2": "Le marqueur discursif, à moins qu’on n’y voie un tic, oriente l’inférence et cadre le registre de l’échange.",
+        "en": "discourse marker",
+        "gloss": {
+          "en": "discourse marker",
+          "es": "marcador de discurso",
+          "ru": "маркер дискурса"
+        },
+        "prompt": "discourse marker",
+        "choices": [
+          "Le marqueur discursif, à moins qu’on n’y voie un tic, oriente l’inférence et cadre le registre de l’échange.",
+          "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+          "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-enl2-5",
+        "fr": "L’acte de langage, dont la force illocutoire déborde le contenu propositionnel, peut blesser tout en demeurant « poli ».",
+        "l2": "L’acte de langage, dont la force illocutoire déborde le contenu propositionnel, peut blesser tout en demeurant « poli ».",
+        "en": "speech act",
+        "gloss": {
+          "en": "speech act",
+          "es": "acto de habla",
+          "ru": "речевой акт"
+        },
+        "prompt": "speech act",
+        "choices": [
+          "L’acte de langage, dont la force illocutoire déborde le contenu propositionnel, peut blesser tout en demeurant « poli ».",
+          "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+          "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-enl2-6",
+        "fr": "L’énonciation, loin d’être un arrière-plan, inscrit dans l’énoncé les traces du locuteur, du temps et de l’allocutaire.",
+        "l2": "L’énonciation, loin d’être un arrière-plan, inscrit dans l’énoncé les traces du locuteur, du temps et de l’allocutaire.",
+        "en": "enunciation",
+        "gloss": {
+          "en": "enunciation",
+          "es": "enunciación",
+          "ru": "высказывание"
+        },
+        "prompt": "enunciation",
+        "choices": [
+          "L’énonciation, loin d’être un arrière-plan, inscrit dans l’énoncé les traces du locuteur, du temps et de l’allocutaire.",
+          "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+          "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-enl2-7",
+        "fr": "La deixis, encore qu’elle paraisse triviale, ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+        "l2": "La deixis, encore qu’elle paraisse triviale, ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+        "en": "deixis",
+        "gloss": {
+          "en": "deixis",
+          "es": "deixis",
+          "ru": "дейксис"
+        },
+        "prompt": "deixis",
+        "choices": [
+          "La deixis, encore qu’elle paraisse triviale, ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+          "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+          "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-enl2-8",
+        "fr": "La présupposition, quitte à passer inaperçue, survit à la négation et contraint l’espace des réponses possibles.",
+        "l2": "La présupposition, quitte à passer inaperçue, survit à la négation et contraint l’espace des réponses possibles.",
+        "en": "presupposition",
+        "gloss": {
+          "en": "presupposition",
+          "es": "presuposición",
+          "ru": "предпосылка"
+        },
+        "prompt": "presupposition",
+        "choices": [
+          "La présupposition, quitte à passer inaperçue, survit à la négation et contraint l’espace des réponses possibles.",
+          "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+          "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-linguistics-c1-prm-1",
+        "en": "register",
+        "gloss": {
+          "en": "register",
+          "es": "registro",
+          "ru": "зарегистрироваться"
+        },
+        "answers": [
+          "registre",
+          "le registre"
+        ],
+        "target": "le registre"
+      },
+      {
+        "id": "remote-linguistics-c1-prm-2",
+        "en": "implicature",
+        "gloss": {
+          "en": "implicature",
+          "es": "implicatura",
+          "ru": "импликатура"
+        },
+        "answers": [
+          "implicature",
+          "l' implicature"
+        ],
+        "target": "l' implicature"
+      },
+      {
+        "id": "remote-linguistics-c1-prm-3",
+        "en": "pragmatics",
+        "gloss": {
+          "en": "pragmatics",
+          "es": "pragmática",
+          "ru": "прагматика"
+        },
+        "answers": [
+          "pragmatique",
+          "la pragmatique"
+        ],
+        "target": "la pragmatique"
+      },
+      {
+        "id": "remote-linguistics-c1-prm-4",
+        "en": "discourse marker",
+        "gloss": {
+          "en": "discourse marker",
+          "es": "marcador de discurso",
+          "ru": "маркер дискурса"
+        },
+        "answers": [
+          "marqueur",
+          "le marqueur"
+        ],
+        "target": "le marqueur"
+      },
+      {
+        "id": "remote-linguistics-c1-prm-5",
+        "en": "speech act",
+        "gloss": {
+          "en": "speech act",
+          "es": "acto de habla",
+          "ru": "речевой акт"
+        },
+        "answers": [
+          "acte de langage",
+          "l' acte de langage"
+        ],
+        "target": "l' acte de langage"
+      },
+      {
+        "id": "remote-linguistics-c1-prm-6",
+        "en": "enunciation",
+        "gloss": {
+          "en": "enunciation",
+          "es": "enunciación",
+          "ru": "высказывание"
+        },
+        "answers": [
+          "énonciation",
+          "l' énonciation"
+        ],
+        "target": "l' énonciation"
+      },
+      {
+        "id": "remote-linguistics-c1-prm-7",
+        "en": "deixis",
+        "gloss": {
+          "en": "deixis",
+          "es": "deixis",
+          "ru": "дейксис"
+        },
+        "answers": [
+          "deixis",
+          "la deixis"
+        ],
+        "target": "la deixis"
+      },
+      {
+        "id": "remote-linguistics-c1-prm-8",
+        "en": "presupposition",
+        "gloss": {
+          "en": "presupposition",
+          "es": "presuposición",
+          "ru": "предпосылка"
+        },
+        "answers": [
+          "présupposition",
+          "la présupposition"
+        ],
+        "target": "la présupposition"
+      },
+      {
+        "id": "remote-linguistics-c1-prm-9",
+        "en": "modality",
+        "gloss": {
+          "en": "modality",
+          "es": "modalidad",
+          "ru": "модальность"
+        },
+        "answers": [
+          "modalité",
+          "la modalité"
+        ],
+        "target": "la modalité"
+      },
+      {
+        "id": "remote-linguistics-c1-prm-10",
+        "en": "polyphony",
+        "gloss": {
+          "en": "polyphony",
+          "es": "polifonía",
+          "ru": "полифония"
+        },
+        "answers": [
+          "polyphonie",
+          "la polyphonie"
+        ],
+        "target": "la polyphonie"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-linguistics-c1-sign-1",
+        "fr": "registre",
+        "l2": "registre",
+        "en": "register",
+        "gloss": {
+          "en": "register",
+          "es": "registro",
+          "ru": "зарегистрироваться"
+        },
+        "choices": [
+          "register",
+          "implicature",
+          "pragmatics"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-2",
+        "fr": "implicature",
+        "l2": "implicature",
+        "en": "implicature",
+        "gloss": {
+          "en": "implicature",
+          "es": "implicatura",
+          "ru": "импликатура"
+        },
+        "choices": [
+          "implicature",
+          "register",
+          "pragmatics"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-3",
+        "fr": "pragmatique",
+        "l2": "pragmatique",
+        "en": "pragmatics",
+        "gloss": {
+          "en": "pragmatics",
+          "es": "pragmática",
+          "ru": "прагматика"
+        },
+        "choices": [
+          "pragmatics",
+          "register",
+          "implicature"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-4",
+        "fr": "marqueur",
+        "l2": "marqueur",
+        "en": "discourse marker",
+        "gloss": {
+          "en": "discourse marker",
+          "es": "marcador de discurso",
+          "ru": "маркер дискурса"
+        },
+        "choices": [
+          "discourse marker",
+          "register",
+          "implicature"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-5",
+        "fr": "acte de langage",
+        "l2": "acte de langage",
+        "en": "speech act",
+        "gloss": {
+          "en": "speech act",
+          "es": "acto de habla",
+          "ru": "речевой акт"
+        },
+        "choices": [
+          "speech act",
+          "register",
+          "implicature"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-6",
+        "fr": "énonciation",
+        "l2": "énonciation",
+        "en": "enunciation",
+        "gloss": {
+          "en": "enunciation",
+          "es": "enunciación",
+          "ru": "высказывание"
+        },
+        "choices": [
+          "enunciation",
+          "register",
+          "implicature"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-7",
+        "fr": "deixis",
+        "l2": "deixis",
+        "en": "deixis",
+        "gloss": {
+          "en": "deixis",
+          "es": "deixis",
+          "ru": "дейксис"
+        },
+        "choices": [
+          "deixis",
+          "register",
+          "implicature"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-8",
+        "fr": "présupposition",
+        "l2": "présupposition",
+        "en": "presupposition",
+        "gloss": {
+          "en": "presupposition",
+          "es": "presuposición",
+          "ru": "предпосылка"
+        },
+        "choices": [
+          "presupposition",
+          "register",
+          "implicature"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-9",
+        "fr": "modalité",
+        "l2": "modalité",
+        "en": "modality",
+        "gloss": {
+          "en": "modality",
+          "es": "modalidad",
+          "ru": "модальность"
+        },
+        "choices": [
+          "modality",
+          "register",
+          "implicature"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-10",
+        "fr": "polyphonie",
+        "l2": "polyphonie",
+        "en": "polyphony",
+        "gloss": {
+          "en": "polyphony",
+          "es": "polifonía",
+          "ru": "полифония"
+        },
+        "choices": [
+          "polyphony",
+          "register",
+          "implicature"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-11",
+        "fr": "anaphore",
+        "l2": "anaphore",
+        "en": "anaphora",
+        "gloss": {
+          "en": "anaphora",
+          "es": "anáfora",
+          "ru": "анафора"
+        },
+        "choices": [
+          "anaphora",
+          "register",
+          "implicature"
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-sign-12",
+        "fr": "énoncé",
+        "l2": "énoncé",
+        "en": "utterance",
+        "gloss": {
+          "en": "utterance",
+          "es": "declaración",
+          "ru": "высказывание"
+        },
+        "choices": [
+          "utterance",
+          "register",
+          "implicature"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-linguistics-c1-pair-1",
+        "a": {
+          "fr": "registre",
+          "l2": "registre",
+          "en": "register",
+          "gloss": {
+            "en": "register",
+            "es": "registro",
+            "ru": "зарегистрироваться"
+          }
+        },
+        "b": {
+          "fr": "implicature",
+          "l2": "implicature",
+          "en": "implicature",
+          "gloss": {
+            "en": "implicature",
+            "es": "implicatura",
+            "ru": "импликатура"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-linguistics-c1-pair-2",
+        "a": {
+          "fr": "pragmatique",
+          "l2": "pragmatique",
+          "en": "pragmatics",
+          "gloss": {
+            "en": "pragmatics",
+            "es": "pragmática",
+            "ru": "прагматика"
+          }
+        },
+        "b": {
+          "fr": "marqueur",
+          "l2": "marqueur",
+          "en": "discourse marker",
+          "gloss": {
+            "en": "discourse marker",
+            "es": "marcador de discurso",
+            "ru": "маркер дискурса"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-linguistics-c1-pair-3",
+        "a": {
+          "fr": "acte de langage",
+          "l2": "acte de langage",
+          "en": "speech act",
+          "gloss": {
+            "en": "speech act",
+            "es": "acto de habla",
+            "ru": "речевой акт"
+          }
+        },
+        "b": {
+          "fr": "énonciation",
+          "l2": "énonciation",
+          "en": "enunciation",
+          "gloss": {
+            "en": "enunciation",
+            "es": "enunciación",
+            "ru": "высказывание"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-linguistics-c1-pair-4",
+        "a": {
+          "fr": "deixis",
+          "l2": "deixis",
+          "en": "deixis",
+          "gloss": {
+            "en": "deixis",
+            "es": "deixis",
+            "ru": "дейксис"
+          }
+        },
+        "b": {
+          "fr": "présupposition",
+          "l2": "présupposition",
+          "en": "presupposition",
+          "gloss": {
+            "en": "presupposition",
+            "es": "presuposición",
+            "ru": "предпосылка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-linguistics-c1-pair-5",
+        "a": {
+          "fr": "modalité",
+          "l2": "modalité",
+          "en": "modality",
+          "gloss": {
+            "en": "modality",
+            "es": "modalidad",
+            "ru": "модальность"
+          }
+        },
+        "b": {
+          "fr": "polyphonie",
+          "l2": "polyphonie",
+          "en": "polyphony",
+          "gloss": {
+            "en": "polyphony",
+            "es": "polifonía",
+            "ru": "полифония"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-linguistics-c1-gap-1",
+        "fr": "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+        "l2": "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+        "speak": "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+        "blank": "registre",
+        "en": "register",
+        "gloss": {
+          "en": "register",
+          "es": "registro",
+          "ru": "зарегистрироваться"
+        }
+      },
+      {
+        "id": "remote-linguistics-c1-gap-2",
+        "fr": "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+        "l2": "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+        "speak": "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+        "blank": "implicature",
+        "en": "implicature",
+        "gloss": {
+          "en": "implicature",
+          "es": "implicatura",
+          "ru": "импликатура"
+        }
+      },
+      {
+        "id": "remote-linguistics-c1-gap-3",
+        "fr": "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre.",
+        "l2": "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre.",
+        "speak": "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre.",
+        "blank": "pragmatique",
+        "en": "pragmatics",
+        "gloss": {
+          "en": "pragmatics",
+          "es": "pragmática",
+          "ru": "прагматика"
+        }
+      },
+      {
+        "id": "remote-linguistics-c1-gap-4",
+        "fr": "Le marqueur discursif, à moins qu’on n’y voie un tic, oriente l’inférence et cadre le registre de l’échange.",
+        "l2": "Le marqueur discursif, à moins qu’on n’y voie un tic, oriente l’inférence et cadre le registre de l’échange.",
+        "speak": "Le marqueur discursif, à moins qu’on n’y voie un tic, oriente l’inférence et cadre le registre de l’échange.",
+        "blank": "marqueur",
+        "en": "discourse marker",
+        "gloss": {
+          "en": "discourse marker",
+          "es": "marcador de discurso",
+          "ru": "маркер дискурса"
+        }
+      },
+      {
+        "id": "remote-linguistics-c1-gap-5",
+        "fr": "L’acte de langage, dont la force illocutoire déborde le contenu propositionnel, peut blesser tout en demeurant « poli ».",
+        "l2": "L’acte de langage, dont la force illocutoire déborde le contenu propositionnel, peut blesser tout en demeurant « poli ».",
+        "speak": "L’acte de langage, dont la force illocutoire déborde le contenu propositionnel, peut blesser tout en demeurant « poli ».",
+        "blank": "acte de langage",
+        "en": "speech act",
+        "gloss": {
+          "en": "speech act",
+          "es": "acto de habla",
+          "ru": "речевой акт"
+        }
+      },
+      {
+        "id": "remote-linguistics-c1-gap-6",
+        "fr": "L’énonciation, loin d’être un arrière-plan, inscrit dans l’énoncé les traces du locuteur, du temps et de l’allocutaire.",
+        "l2": "L’énonciation, loin d’être un arrière-plan, inscrit dans l’énoncé les traces du locuteur, du temps et de l’allocutaire.",
+        "speak": "L’énonciation, loin d’être un arrière-plan, inscrit dans l’énoncé les traces du locuteur, du temps et de l’allocutaire.",
+        "blank": "énonciation",
+        "en": "enunciation",
+        "gloss": {
+          "en": "enunciation",
+          "es": "enunciación",
+          "ru": "высказывание"
+        }
+      },
+      {
+        "id": "remote-linguistics-c1-gap-7",
+        "fr": "La deixis, encore qu’elle paraisse triviale, ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+        "l2": "La deixis, encore qu’elle paraisse triviale, ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+        "speak": "La deixis, encore qu’elle paraisse triviale, ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+        "blank": "deixis",
+        "en": "deixis",
+        "gloss": {
+          "en": "deixis",
+          "es": "deixis",
+          "ru": "дейксис"
+        }
+      },
+      {
+        "id": "remote-linguistics-c1-gap-8",
+        "fr": "La présupposition, quitte à passer inaperçue, survit à la négation et contraint l’espace des réponses possibles.",
+        "l2": "La présupposition, quitte à passer inaperçue, survit à la négation et contraint l’espace des réponses possibles.",
+        "speak": "La présupposition, quitte à passer inaperçue, survit à la négation et contraint l’espace des réponses possibles.",
+        "blank": "présupposition",
+        "en": "presupposition",
+        "gloss": {
+          "en": "presupposition",
+          "es": "presuposición",
+          "ru": "предпосылка"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-linguistics-c1-ord-1",
+        "fr": "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+        "l2": "Le registre, loin d’être un simple niveau de langue, indexe une relation sociale que l’allocutaire décode d’emblée.",
+        "en": "register",
+        "gloss": {
+          "en": "register",
+          "es": "registro",
+          "ru": "зарегистрироваться"
+        },
+        "words": [
+          "Le",
+          "registre,",
+          "loin",
+          "d’être",
+          "un",
+          "simple",
+          "niveau",
+          "de",
+          "langue,",
+          "indexe",
+          "une",
+          "relation",
+          "sociale",
+          "que",
+          "l’allocutaire",
+          "décode",
+          "d’emblée."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-ord-2",
+        "fr": "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+        "l2": "L’implicature, encore qu’elle ne soit pas dite, constitue l’essentiel de ce que l’acte de langage accomplit réellement.",
+        "en": "implicature",
+        "gloss": {
+          "en": "implicature",
+          "es": "implicatura",
+          "ru": "импликатура"
+        },
+        "words": [
+          "L’implicature,",
+          "encore",
+          "qu’elle",
+          "ne",
+          "soit",
+          "pas",
+          "dite,",
+          "constitue",
+          "l’essentiel",
+          "de",
+          "ce",
+          "que",
+          "l’acte",
+          "de",
+          "langage",
+          "accomplit",
+          "réellement."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-ord-3",
+        "fr": "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre.",
+        "l2": "La pragmatique, quitte à sembler ancillaire vis-à-vis de la syntaxe, explique ce que le seul cotexte ne suffit pas à rendre.",
+        "en": "pragmatics",
+        "gloss": {
+          "en": "pragmatics",
+          "es": "pragmática",
+          "ru": "прагматика"
+        },
+        "words": [
+          "La",
+          "pragmatique,",
+          "quitte",
+          "à",
+          "sembler",
+          "ancillaire",
+          "vis-à-vis",
+          "de",
+          "la",
+          "syntaxe,",
+          "explique",
+          "ce",
+          "que",
+          "le",
+          "seul",
+          "cotexte",
+          "ne",
+          "suffit",
+          "pas",
+          "à",
+          "rendre."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-ord-4",
+        "fr": "Le marqueur discursif, à moins qu’on n’y voie un tic, oriente l’inférence et cadre le registre de l’échange.",
+        "l2": "Le marqueur discursif, à moins qu’on n’y voie un tic, oriente l’inférence et cadre le registre de l’échange.",
+        "en": "discourse marker",
+        "gloss": {
+          "en": "discourse marker",
+          "es": "marcador de discurso",
+          "ru": "маркер дискурса"
+        },
+        "words": [
+          "Le",
+          "marqueur",
+          "discursif,",
+          "à",
+          "moins",
+          "qu’on",
+          "n’y",
+          "voie",
+          "un",
+          "tic,",
+          "oriente",
+          "l’inférence",
+          "et",
+          "cadre",
+          "le",
+          "registre",
+          "de",
+          "l’échange."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-ord-5",
+        "fr": "L’acte de langage, dont la force illocutoire déborde le contenu propositionnel, peut blesser tout en demeurant « poli ».",
+        "l2": "L’acte de langage, dont la force illocutoire déborde le contenu propositionnel, peut blesser tout en demeurant « poli ».",
+        "en": "speech act",
+        "gloss": {
+          "en": "speech act",
+          "es": "acto de habla",
+          "ru": "речевой акт"
+        },
+        "words": [
+          "L’acte",
+          "de",
+          "langage,",
+          "dont",
+          "la",
+          "force",
+          "illocutoire",
+          "déborde",
+          "le",
+          "contenu",
+          "propositionnel,",
+          "peut",
+          "blesser",
+          "tout",
+          "en",
+          "demeurant",
+          "«",
+          "poli",
+          "»."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-ord-6",
+        "fr": "L’énonciation, loin d’être un arrière-plan, inscrit dans l’énoncé les traces du locuteur, du temps et de l’allocutaire.",
+        "l2": "L’énonciation, loin d’être un arrière-plan, inscrit dans l’énoncé les traces du locuteur, du temps et de l’allocutaire.",
+        "en": "enunciation",
+        "gloss": {
+          "en": "enunciation",
+          "es": "enunciación",
+          "ru": "высказывание"
+        },
+        "words": [
+          "L’énonciation,",
+          "loin",
+          "d’être",
+          "un",
+          "arrière-plan,",
+          "inscrit",
+          "dans",
+          "l’énoncé",
+          "les",
+          "traces",
+          "du",
+          "locuteur,",
+          "du",
+          "temps",
+          "et",
+          "de",
+          "l’allocutaire."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-ord-7",
+        "fr": "La deixis, encore qu’elle paraisse triviale, ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+        "l2": "La deixis, encore qu’elle paraisse triviale, ancre le discours dans une situation sans laquelle l’énoncé devient opaque.",
+        "en": "deixis",
+        "gloss": {
+          "en": "deixis",
+          "es": "deixis",
+          "ru": "дейксис"
+        },
+        "words": [
+          "La",
+          "deixis,",
+          "encore",
+          "qu’elle",
+          "paraisse",
+          "triviale,",
+          "ancre",
+          "le",
+          "discours",
+          "dans",
+          "une",
+          "situation",
+          "sans",
+          "laquelle",
+          "l’énoncé",
+          "devient",
+          "opaque."
+        ]
+      },
+      {
+        "id": "remote-linguistics-c1-ord-8",
+        "fr": "La présupposition, quitte à passer inaperçue, survit à la négation et contraint l’espace des réponses possibles.",
+        "l2": "La présupposition, quitte à passer inaperçue, survit à la négation et contraint l’espace des réponses possibles.",
+        "en": "presupposition",
+        "gloss": {
+          "en": "presupposition",
+          "es": "presuposición",
+          "ru": "предпосылка"
+        },
+        "words": [
+          "La",
+          "présupposition,",
+          "quitte",
+          "à",
+          "passer",
+          "inaperçue,",
+          "survit",
+          "à",
+          "la",
+          "négation",
+          "et",
+          "contraint",
+          "l’espace",
+          "des",
+          "réponses",
+          "possibles."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-linguistics-c1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "ʁə.ʒistʁ",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "registre",
+          "l2": "registre",
+          "en": "register",
+          "gloss": {
+            "en": "register",
+            "es": "registro",
+            "ru": "зарегистрироваться"
+          },
+          "ipa": "ʁə.ʒistʁ"
+        },
+        {
+          "fr": "implicature",
+          "l2": "implicature",
+          "en": "implicature",
+          "gloss": {
+            "en": "implicature",
+            "es": "implicatura",
+            "ru": "импликатура"
+          },
+          "ipa": "ɛ̃.pli.ka.tyʁ"
+        },
+        {
+          "fr": "pragmatique",
+          "l2": "pragmatique",
+          "en": "pragmatics",
+          "gloss": {
+            "en": "pragmatics",
+            "es": "pragmática",
+            "ru": "прагматика"
+          },
+          "ipa": "pʁaɡ.ma.tik"
+        },
+        {
+          "fr": "marqueur",
+          "l2": "marqueur",
+          "en": "discourse marker",
+          "gloss": {
+            "en": "discourse marker",
+            "es": "marcador de discurso",
+            "ru": "маркер дискурса"
+          },
+          "ipa": "maʁ.kœʁ"
+        },
+        {
+          "fr": "acte de langage",
+          "l2": "acte de langage",
+          "en": "speech act",
+          "gloss": {
+            "en": "speech act",
+            "es": "acto de habla",
+            "ru": "речевой акт"
+          },
+          "ipa": "akt də lɑ̃.ɡaʒ"
+        }
+      ]
+    }
+  ]
 }

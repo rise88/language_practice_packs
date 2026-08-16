@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "law-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "peut",
             "puisse",
             "pourra"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: It is essential that the accused ___ defend himself.",
+            "es": "Completo: Es imprescindible que el imputado ___ se defienda.",
+            "ru": "Завершено: Очень важно, чтобы обвиняемый ___ защищался."
+          },
+          "why": {
+            "fr": "Réponse : « puisse ».",
+            "en": "Answer: “puisse”.",
+            "es": "Respuesta: « puisse ».",
+            "ru": "Ответ: « puisse »."
+          }
         },
         {
           "id": "remote-law-gq-2",
@@ -537,7 +548,18 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: I fear that the verdict ___ unfair.",
+            "es": "Completo: Temo que el veredicto ___ sea injusto.",
+            "ru": "Завершено: Боюсь, что приговор ___ несправедлив."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-law-gq-3",
@@ -547,13 +569,25 @@
             "soit",
             "est",
             "fût"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: I am certain that this right ___ guaranteed by the constitution.",
+            "es": "Completo: Tengo la certeza de que este derecho ___ garantizado por la constitución.",
+            "ru": "Полный: Я уверен, что это право ___ гарантировано конституцией."
+          },
+          "why": {
+            "fr": "Réponse : « est ».",
+            "en": "Answer: “est”.",
+            "es": "Respuesta: « est ».",
+            "ru": "Ответ: « est »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Subjunctive after necessity and emotion.",
         "es": "Útil cuando necesitas aplicar: Subjuntivo después de necesidad y emoción.",
-        "ru": "Полезно, когда нужно применить: Сослагательное наклонение после необходимости и эмоции."
+        "ru": "Полезно, когда нужно применить: Сослагательное наклонение после необходимости и эмоции.",
+        "fr": "Utile pour appliquer : Le subjonctif de nécessité et d’émotion."
       }
     },
     {
@@ -601,7 +635,18 @@
             "sont",
             "soient",
             "seront"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Although the charges ___ heavy, the presumption of innocence remains.",
+            "es": "Completo: Aunque los cargos ___ son pesados, la presunción de inocencia permanece.",
+            "ru": "Выполнено: Хотя обвинения ___ тяжелы, презумпция невиновности сохраняется."
+          },
+          "why": {
+            "fr": "Réponse : « soient ».",
+            "en": "Answer: “soient”.",
+            "es": "Respuesta: « soient ».",
+            "ru": "Ответ: « soient »."
+          }
         },
         {
           "id": "remote-law-gq-5",
@@ -611,13 +656,25 @@
             "bien que",
             "malgré",
             "afin que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Responsibility was accepted ___ his denials.",
+            "es": "Completo: Se aceptó la responsabilidad ___ sus negaciones.",
+            "ru": "Выполнено: Ответственность была принята за ___ его опровержения."
+          },
+          "why": {
+            "fr": "Réponse : « malgré ».",
+            "en": "Answer: “malgré”.",
+            "es": "Respuesta: « malgré ».",
+            "ru": "Ответ: « malgré »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Concession: bien que vs malgré.",
         "es": "Útil cuando necesitas postular: Concesión: bien que vs malgré.",
-        "ru": "Полезно, когда вам нужно подать заявку: Уступка: bien que vs malgré."
+        "ru": "Полезно, когда вам нужно подать заявку: Уступка: bien que vs malgré.",
+        "fr": "Utile pour appliquer : Bien que + subjonctif / malgré + nom."
       }
     }
   ],
@@ -880,6 +937,868 @@
         },
         "l2": "salle d’audience"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-law-fren-1",
+        "fr": "procès",
+        "en": "trial",
+        "gloss": {
+          "en": "trial",
+          "es": "ensayo",
+          "ru": "пробный"
+        },
+        "l2": "procès"
+      },
+      {
+        "id": "remote-law-fren-2",
+        "fr": "avocat",
+        "en": "lawyer",
+        "gloss": {
+          "en": "lawyer",
+          "es": "abogado",
+          "ru": "адвокат"
+        },
+        "l2": "avocat"
+      },
+      {
+        "id": "remote-law-fren-3",
+        "fr": "verdict",
+        "en": "verdict",
+        "gloss": {
+          "en": "verdict",
+          "es": "veredicto",
+          "ru": "приговор"
+        },
+        "l2": "verdict"
+      },
+      {
+        "id": "remote-law-fren-4",
+        "fr": "législation",
+        "en": "legislation",
+        "gloss": {
+          "en": "legislation",
+          "es": "legislación",
+          "ru": "законодательство"
+        },
+        "l2": "législation"
+      },
+      {
+        "id": "remote-law-fren-5",
+        "fr": "droit",
+        "en": "right",
+        "gloss": {
+          "en": "right",
+          "es": "bien",
+          "ru": "верно"
+        },
+        "l2": "droit"
+      },
+      {
+        "id": "remote-law-fren-6",
+        "fr": "prévenu",
+        "en": "defendant",
+        "gloss": {
+          "en": "defendant",
+          "es": "acusado",
+          "ru": "ответчик"
+        },
+        "l2": "prévenu"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-law-b2-enl2-1",
+        "fr": "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+        "l2": "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+        "en": "trial",
+        "gloss": {
+          "en": "trial",
+          "es": "ensayo",
+          "ru": "пробный"
+        },
+        "prompt": "trial",
+        "choices": [
+          "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+          "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
+          "Le verdict d’acquittement a surpris une partie de l’opinion publique."
+        ]
+      },
+      {
+        "id": "remote-law-b2-enl2-2",
+        "fr": "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
+        "l2": "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
+        "en": "lawyer",
+        "gloss": {
+          "en": "lawyer",
+          "es": "abogado",
+          "ru": "адвокат"
+        },
+        "prompt": "lawyer",
+        "choices": [
+          "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
+          "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+          "Le verdict d’acquittement a surpris une partie de l’opinion publique."
+        ]
+      },
+      {
+        "id": "remote-law-b2-enl2-3",
+        "fr": "Le verdict d’acquittement a surpris une partie de l’opinion publique.",
+        "l2": "Le verdict d’acquittement a surpris une partie de l’opinion publique.",
+        "en": "verdict",
+        "gloss": {
+          "en": "verdict",
+          "es": "veredicto",
+          "ru": "приговор"
+        },
+        "prompt": "verdict",
+        "choices": [
+          "Le verdict d’acquittement a surpris une partie de l’opinion publique.",
+          "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+          "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces."
+        ]
+      },
+      {
+        "id": "remote-law-b2-enl2-4",
+        "fr": "Cette législation encadre désormais le droit à un procès équitable.",
+        "l2": "Cette législation encadre désormais le droit à un procès équitable.",
+        "en": "legislation",
+        "gloss": {
+          "en": "legislation",
+          "es": "legislación",
+          "ru": "законодательство"
+        },
+        "prompt": "legislation",
+        "choices": [
+          "Cette législation encadre désormais le droit à un procès équitable.",
+          "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+          "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces."
+        ]
+      },
+      {
+        "id": "remote-law-b2-enl2-5",
+        "fr": "Ce droit fondamental ne peut être restreint que dans des conditions strictement définies.",
+        "l2": "Ce droit fondamental ne peut être restreint que dans des conditions strictement définies.",
+        "en": "right / law",
+        "gloss": {
+          "en": "right / law",
+          "es": "derecho / ley",
+          "ru": "право / закон"
+        },
+        "prompt": "right / law",
+        "choices": [
+          "Ce droit fondamental ne peut être restreint que dans des conditions strictement définies.",
+          "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+          "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces."
+        ]
+      },
+      {
+        "id": "remote-law-b2-enl2-6",
+        "fr": "Le prévenu a nié les faits, bien que plusieurs témoins l’aient reconnu.",
+        "l2": "Le prévenu a nié les faits, bien que plusieurs témoins l’aient reconnu.",
+        "en": "defendant",
+        "gloss": {
+          "en": "defendant",
+          "es": "acusado",
+          "ru": "ответчик"
+        },
+        "prompt": "defendant",
+        "choices": [
+          "Le prévenu a nié les faits, bien que plusieurs témoins l’aient reconnu.",
+          "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+          "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces."
+        ]
+      },
+      {
+        "id": "remote-law-b2-enl2-7",
+        "fr": "Le témoin a hésité, toutefois son récit a été jugé cohérent par le tribunal.",
+        "l2": "Le témoin a hésité, toutefois son récit a été jugé cohérent par le tribunal.",
+        "en": "witness",
+        "gloss": {
+          "en": "witness",
+          "es": "testigo",
+          "ru": "свидетель"
+        },
+        "prompt": "witness",
+        "choices": [
+          "Le témoin a hésité, toutefois son récit a été jugé cohérent par le tribunal.",
+          "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+          "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces."
+        ]
+      },
+      {
+        "id": "remote-law-b2-enl2-8",
+        "fr": "L’audience a été reportée afin que la défense puisse consulter le dossier.",
+        "l2": "L’audience a été reportée afin que la défense puisse consulter le dossier.",
+        "en": "hearing / court session",
+        "gloss": {
+          "en": "hearing / court session",
+          "es": "audiencia / sesión judicial",
+          "ru": "слушание/судебное заседание"
+        },
+        "prompt": "hearing / court session",
+        "choices": [
+          "L’audience a été reportée afin que la défense puisse consulter le dossier.",
+          "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+          "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-law-b2-prm-1",
+        "en": "trial",
+        "gloss": {
+          "en": "trial",
+          "es": "ensayo",
+          "ru": "пробный"
+        },
+        "answers": [
+          "procès",
+          "le procès"
+        ],
+        "target": "le procès"
+      },
+      {
+        "id": "remote-law-b2-prm-2",
+        "en": "lawyer",
+        "gloss": {
+          "en": "lawyer",
+          "es": "abogado",
+          "ru": "адвокат"
+        },
+        "answers": [
+          "avocat",
+          "l' avocat"
+        ],
+        "target": "l' avocat"
+      },
+      {
+        "id": "remote-law-b2-prm-3",
+        "en": "verdict",
+        "gloss": {
+          "en": "verdict",
+          "es": "veredicto",
+          "ru": "приговор"
+        },
+        "answers": [
+          "verdict",
+          "le verdict"
+        ],
+        "target": "le verdict"
+      },
+      {
+        "id": "remote-law-b2-prm-4",
+        "en": "legislation",
+        "gloss": {
+          "en": "legislation",
+          "es": "legislación",
+          "ru": "законодательство"
+        },
+        "answers": [
+          "législation",
+          "la législation"
+        ],
+        "target": "la législation"
+      },
+      {
+        "id": "remote-law-b2-prm-5",
+        "en": "right / law",
+        "gloss": {
+          "en": "right / law",
+          "es": "derecho / ley",
+          "ru": "право / закон"
+        },
+        "answers": [
+          "droit",
+          "le droit"
+        ],
+        "target": "le droit"
+      },
+      {
+        "id": "remote-law-b2-prm-6",
+        "en": "defendant",
+        "gloss": {
+          "en": "defendant",
+          "es": "acusado",
+          "ru": "ответчик"
+        },
+        "answers": [
+          "prévenu",
+          "le prévenu"
+        ],
+        "target": "le prévenu"
+      },
+      {
+        "id": "remote-law-b2-prm-7",
+        "en": "witness",
+        "gloss": {
+          "en": "witness",
+          "es": "testigo",
+          "ru": "свидетель"
+        },
+        "answers": [
+          "témoin",
+          "le témoin"
+        ],
+        "target": "le témoin"
+      },
+      {
+        "id": "remote-law-b2-prm-8",
+        "en": "hearing / court session",
+        "gloss": {
+          "en": "hearing / court session",
+          "es": "audiencia / sesión judicial",
+          "ru": "слушание/судебное заседание"
+        },
+        "answers": [
+          "audience",
+          "l' audience"
+        ],
+        "target": "l' audience"
+      },
+      {
+        "id": "remote-law-b2-prm-9",
+        "en": "case law",
+        "gloss": {
+          "en": "case law",
+          "es": "jurisprudencia",
+          "ru": "прецедентное право"
+        },
+        "answers": [
+          "jurisprudence",
+          "la jurisprudence"
+        ],
+        "target": "la jurisprudence"
+      },
+      {
+        "id": "remote-law-b2-prm-10",
+        "en": "offence / offense",
+        "gloss": {
+          "en": "offence / offense",
+          "es": "ofensa / ofensa",
+          "ru": "обида / обида"
+        },
+        "answers": [
+          "infraction",
+          "l' infraction"
+        ],
+        "target": "l' infraction"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-law-b2-pair-1",
+        "a": {
+          "fr": "procès",
+          "l2": "procès",
+          "en": "trial",
+          "gloss": {
+            "en": "trial",
+            "es": "ensayo",
+            "ru": "пробный"
+          }
+        },
+        "b": {
+          "fr": "avocat",
+          "l2": "avocat",
+          "en": "lawyer",
+          "gloss": {
+            "en": "lawyer",
+            "es": "abogado",
+            "ru": "адвокат"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-law-b2-pair-2",
+        "a": {
+          "fr": "verdict",
+          "l2": "verdict",
+          "en": "verdict",
+          "gloss": {
+            "en": "verdict",
+            "es": "veredicto",
+            "ru": "приговор"
+          }
+        },
+        "b": {
+          "fr": "législation",
+          "l2": "législation",
+          "en": "legislation",
+          "gloss": {
+            "en": "legislation",
+            "es": "legislación",
+            "ru": "законодательство"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-law-b2-pair-3",
+        "a": {
+          "fr": "droit",
+          "l2": "droit",
+          "en": "right / law",
+          "gloss": {
+            "en": "right / law",
+            "es": "derecho / ley",
+            "ru": "право / закон"
+          }
+        },
+        "b": {
+          "fr": "prévenu",
+          "l2": "prévenu",
+          "en": "defendant",
+          "gloss": {
+            "en": "defendant",
+            "es": "acusado",
+            "ru": "ответчик"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-law-b2-pair-4",
+        "a": {
+          "fr": "témoin",
+          "l2": "témoin",
+          "en": "witness",
+          "gloss": {
+            "en": "witness",
+            "es": "testigo",
+            "ru": "свидетель"
+          }
+        },
+        "b": {
+          "fr": "audience",
+          "l2": "audience",
+          "en": "hearing / court session",
+          "gloss": {
+            "en": "hearing / court session",
+            "es": "audiencia / sesión judicial",
+            "ru": "слушание/судебное заседание"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-law-b2-pair-5",
+        "a": {
+          "fr": "jurisprudence",
+          "l2": "jurisprudence",
+          "en": "case law",
+          "gloss": {
+            "en": "case law",
+            "es": "jurisprudencia",
+            "ru": "прецедентное право"
+          }
+        },
+        "b": {
+          "fr": "infraction",
+          "l2": "infraction",
+          "en": "offence / offense",
+          "gloss": {
+            "en": "offence / offense",
+            "es": "ofensa / ofensa",
+            "ru": "обида / обида"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-law-b2-gap-1",
+        "fr": "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+        "l2": "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+        "speak": "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+        "blank": "procès",
+        "en": "trial",
+        "gloss": {
+          "en": "trial",
+          "es": "ensayo",
+          "ru": "пробный"
+        }
+      },
+      {
+        "id": "remote-law-b2-gap-2",
+        "fr": "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
+        "l2": "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
+        "speak": "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
+        "blank": "avocat",
+        "en": "lawyer",
+        "gloss": {
+          "en": "lawyer",
+          "es": "abogado",
+          "ru": "адвокат"
+        }
+      },
+      {
+        "id": "remote-law-b2-gap-3",
+        "fr": "Le verdict d’acquittement a surpris une partie de l’opinion publique.",
+        "l2": "Le verdict d’acquittement a surpris une partie de l’opinion publique.",
+        "speak": "Le verdict d’acquittement a surpris une partie de l’opinion publique.",
+        "blank": "verdict",
+        "en": "verdict",
+        "gloss": {
+          "en": "verdict",
+          "es": "veredicto",
+          "ru": "приговор"
+        }
+      },
+      {
+        "id": "remote-law-b2-gap-4",
+        "fr": "Cette législation encadre désormais le droit à un procès équitable.",
+        "l2": "Cette législation encadre désormais le droit à un procès équitable.",
+        "speak": "Cette législation encadre désormais le droit à un procès équitable.",
+        "blank": "législation",
+        "en": "legislation",
+        "gloss": {
+          "en": "legislation",
+          "es": "legislación",
+          "ru": "законодательство"
+        }
+      },
+      {
+        "id": "remote-law-b2-gap-5",
+        "fr": "Ce droit fondamental ne peut être restreint que dans des conditions strictement définies.",
+        "l2": "Ce droit fondamental ne peut être restreint que dans des conditions strictement définies.",
+        "speak": "Ce droit fondamental ne peut être restreint que dans des conditions strictement définies.",
+        "blank": "droit",
+        "en": "right / law",
+        "gloss": {
+          "en": "right / law",
+          "es": "derecho / ley",
+          "ru": "право / закон"
+        }
+      },
+      {
+        "id": "remote-law-b2-gap-6",
+        "fr": "Le prévenu a nié les faits, bien que plusieurs témoins l’aient reconnu.",
+        "l2": "Le prévenu a nié les faits, bien que plusieurs témoins l’aient reconnu.",
+        "speak": "Le prévenu a nié les faits, bien que plusieurs témoins l’aient reconnu.",
+        "blank": "prévenu",
+        "en": "defendant",
+        "gloss": {
+          "en": "defendant",
+          "es": "acusado",
+          "ru": "ответчик"
+        }
+      },
+      {
+        "id": "remote-law-b2-gap-7",
+        "fr": "Le témoin a hésité, toutefois son récit a été jugé cohérent par le tribunal.",
+        "l2": "Le témoin a hésité, toutefois son récit a été jugé cohérent par le tribunal.",
+        "speak": "Le témoin a hésité, toutefois son récit a été jugé cohérent par le tribunal.",
+        "blank": "témoin",
+        "en": "witness",
+        "gloss": {
+          "en": "witness",
+          "es": "testigo",
+          "ru": "свидетель"
+        }
+      },
+      {
+        "id": "remote-law-b2-gap-8",
+        "fr": "L’audience a été reportée afin que la défense puisse consulter le dossier.",
+        "l2": "L’audience a été reportée afin que la défense puisse consulter le dossier.",
+        "speak": "L’audience a été reportée afin que la défense puisse consulter le dossier.",
+        "blank": "audience",
+        "en": "hearing / court session",
+        "gloss": {
+          "en": "hearing / court session",
+          "es": "audiencia / sesión judicial",
+          "ru": "слушание/судебное заседание"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-law-b2-ord-1",
+        "fr": "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+        "l2": "Le procès a duré trois semaines, néanmoins le verdict est resté attendu jusqu’au dernier jour.",
+        "en": "trial",
+        "gloss": {
+          "en": "trial",
+          "es": "ensayo",
+          "ru": "пробный"
+        },
+        "words": [
+          "Le",
+          "procès",
+          "a",
+          "duré",
+          "trois",
+          "semaines,",
+          "néanmoins",
+          "le",
+          "verdict",
+          "est",
+          "resté",
+          "attendu",
+          "jusqu’au",
+          "dernier",
+          "jour."
+        ]
+      },
+      {
+        "id": "remote-law-b2-ord-2",
+        "fr": "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
+        "l2": "L’avocat de la défense a demandé un délai afin d’examiner de nouvelles pièces.",
+        "en": "lawyer",
+        "gloss": {
+          "en": "lawyer",
+          "es": "abogado",
+          "ru": "адвокат"
+        },
+        "words": [
+          "L’avocat",
+          "de",
+          "la",
+          "défense",
+          "a",
+          "demandé",
+          "un",
+          "délai",
+          "afin",
+          "d’examiner",
+          "de",
+          "nouvelles",
+          "pièces."
+        ]
+      },
+      {
+        "id": "remote-law-b2-ord-3",
+        "fr": "Le verdict d’acquittement a surpris une partie de l’opinion publique.",
+        "l2": "Le verdict d’acquittement a surpris une partie de l’opinion publique.",
+        "en": "verdict",
+        "gloss": {
+          "en": "verdict",
+          "es": "veredicto",
+          "ru": "приговор"
+        },
+        "words": [
+          "Le",
+          "verdict",
+          "d’acquittement",
+          "a",
+          "surpris",
+          "une",
+          "partie",
+          "de",
+          "l’opinion",
+          "publique."
+        ]
+      },
+      {
+        "id": "remote-law-b2-ord-4",
+        "fr": "Cette législation encadre désormais le droit à un procès équitable.",
+        "l2": "Cette législation encadre désormais le droit à un procès équitable.",
+        "en": "legislation",
+        "gloss": {
+          "en": "legislation",
+          "es": "legislación",
+          "ru": "законодательство"
+        },
+        "words": [
+          "Cette",
+          "législation",
+          "encadre",
+          "désormais",
+          "le",
+          "droit",
+          "à",
+          "un",
+          "procès",
+          "équitable."
+        ]
+      },
+      {
+        "id": "remote-law-b2-ord-5",
+        "fr": "Ce droit fondamental ne peut être restreint que dans des conditions strictement définies.",
+        "l2": "Ce droit fondamental ne peut être restreint que dans des conditions strictement définies.",
+        "en": "right / law",
+        "gloss": {
+          "en": "right / law",
+          "es": "derecho / ley",
+          "ru": "право / закон"
+        },
+        "words": [
+          "Ce",
+          "droit",
+          "fondamental",
+          "ne",
+          "peut",
+          "être",
+          "restreint",
+          "que",
+          "dans",
+          "des",
+          "conditions",
+          "strictement",
+          "définies."
+        ]
+      },
+      {
+        "id": "remote-law-b2-ord-6",
+        "fr": "Le prévenu a nié les faits, bien que plusieurs témoins l’aient reconnu.",
+        "l2": "Le prévenu a nié les faits, bien que plusieurs témoins l’aient reconnu.",
+        "en": "defendant",
+        "gloss": {
+          "en": "defendant",
+          "es": "acusado",
+          "ru": "ответчик"
+        },
+        "words": [
+          "Le",
+          "prévenu",
+          "a",
+          "nié",
+          "les",
+          "faits,",
+          "bien",
+          "que",
+          "plusieurs",
+          "témoins",
+          "l’aient",
+          "reconnu."
+        ]
+      },
+      {
+        "id": "remote-law-b2-ord-7",
+        "fr": "Le témoin a hésité, toutefois son récit a été jugé cohérent par le tribunal.",
+        "l2": "Le témoin a hésité, toutefois son récit a été jugé cohérent par le tribunal.",
+        "en": "witness",
+        "gloss": {
+          "en": "witness",
+          "es": "testigo",
+          "ru": "свидетель"
+        },
+        "words": [
+          "Le",
+          "témoin",
+          "a",
+          "hésité,",
+          "toutefois",
+          "son",
+          "récit",
+          "a",
+          "été",
+          "jugé",
+          "cohérent",
+          "par",
+          "le",
+          "tribunal."
+        ]
+      },
+      {
+        "id": "remote-law-b2-ord-8",
+        "fr": "L’audience a été reportée afin que la défense puisse consulter le dossier.",
+        "l2": "L’audience a été reportée afin que la défense puisse consulter le dossier.",
+        "en": "hearing / court session",
+        "gloss": {
+          "en": "hearing / court session",
+          "es": "audiencia / sesión judicial",
+          "ru": "слушание/судебное заседание"
+        },
+        "words": [
+          "L’audience",
+          "a",
+          "été",
+          "reportée",
+          "afin",
+          "que",
+          "la",
+          "défense",
+          "puisse",
+          "consulter",
+          "le",
+          "dossier."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-law-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "pʁɔ.sɛ",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "procès",
+          "l2": "procès",
+          "en": "trial",
+          "gloss": {
+            "en": "trial",
+            "es": "ensayo",
+            "ru": "пробный"
+          },
+          "ipa": "pʁɔ.sɛ"
+        },
+        {
+          "fr": "avocat",
+          "l2": "avocat",
+          "en": "lawyer",
+          "gloss": {
+            "en": "lawyer",
+            "es": "abogado",
+            "ru": "адвокат"
+          },
+          "ipa": "a.vɔ.ka"
+        },
+        {
+          "fr": "verdict",
+          "l2": "verdict",
+          "en": "verdict",
+          "gloss": {
+            "en": "verdict",
+            "es": "veredicto",
+            "ru": "приговор"
+          },
+          "ipa": "vɛʁ.dikt"
+        },
+        {
+          "fr": "législation",
+          "l2": "législation",
+          "en": "legislation",
+          "gloss": {
+            "en": "legislation",
+            "es": "legislación",
+            "ru": "законодательство"
+          },
+          "ipa": "le.ʒis.la.sjɔ̃"
+        },
+        {
+          "fr": "droit",
+          "l2": "droit",
+          "en": "right / law",
+          "gloss": {
+            "en": "right / law",
+            "es": "derecho / ley",
+            "ru": "право / закон"
+          },
+          "ipa": "dʁwa"
+        }
+      ]
+    }
+  ]
 }

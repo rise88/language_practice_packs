@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "culture-b1",
-  "version": 4,
+  "version": 5,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "était",
             "a été",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "The audience ___ warm.",
+            "es": "El público ___ cálido.",
+            "ru": "Аудитория ___ теплая."
+          },
+          "why": {
+            "fr": "Réponse : « était ».",
+            "en": "Answer: “était”.",
+            "es": "Respuesta: « était ».",
+            "ru": "Ответ: « était »."
+          }
         },
         {
           "id": "remote-culture-gq-2",
@@ -537,7 +548,18 @@
             "commençait",
             "a commencé",
             "commence"
-          ]
+          ],
+          "gloss": {
+            "en": "The show ___ late.",
+            "es": "El programa ___ tarde.",
+            "ru": "Шоу ___ поздно."
+          },
+          "why": {
+            "fr": "Réponse : « a commencé ».",
+            "en": "Answer: “a commencé”.",
+            "es": "Respuesta: « a commencé ».",
+            "ru": "Ответ: « a commencé »."
+          }
         },
         {
           "id": "remote-culture-gq-3",
@@ -547,13 +569,25 @@
             "a",
             "est",
             "avait"
-          ]
+          ],
+          "gloss": {
+            "en": "I really liked it.",
+            "es": "Realmente me gustó.",
+            "ru": "Мне это очень понравилось."
+          },
+          "why": {
+            "fr": "Réponse : « a ».",
+            "en": "Answer: “a”.",
+            "es": "Respuesta: « a ».",
+            "ru": "Ответ: « a »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Imparfait to describe an outing.",
         "es": "Útil cuando necesitas aplicar: Imparfait para describir una salida.",
-        "ru": "Полезно, когда вам нужно подать заявку: Imparfait для описания прогулки."
+        "ru": "Полезно, когда вам нужно подать заявку: Imparfait для описания прогулки.",
+        "fr": "Utile pour appliquer : L’imparfait pour décrire une sortie."
       }
     },
     {
@@ -606,7 +640,18 @@
             "le coup",
             "le coût",
             "le cou"
-          ]
+          ],
+          "gloss": {
+            "en": "This movie is definitely worth ___ .",
+            "es": "Esta película definitivamente vale ___ .",
+            "ru": "Этот фильм определенно стоит ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « le coup ».",
+            "en": "Answer: “le coup”.",
+            "es": "Respuesta: « le coup ».",
+            "ru": "Ответ: « le coup »."
+          }
         },
         {
           "id": "remote-culture-gq-5",
@@ -616,13 +661,25 @@
             "plutôt",
             "plus tôt",
             "plutot"
-          ]
+          ],
+          "gloss": {
+            "en": "The review was ___ positive.",
+            "es": "La revisión fue ___ positiva.",
+            "ru": "Отзыв был ___ положительным."
+          },
+          "why": {
+            "fr": "Réponse : « plutôt ».",
+            "en": "Answer: “plutôt”.",
+            "es": "Respuesta: « plutôt ».",
+            "ru": "Ответ: « plutôt »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Valoir le coup and plutôt.",
         "es": "Útil cuando es necesario aplicar: Valoir le coup y plutôt.",
-        "ru": "Полезно, когда нужно применить: Valoir le coup и plutôt."
+        "ru": "Полезно, когда нужно применить: Valoir le coup и plutôt.",
+        "fr": "Utile pour appliquer : Valoir le coup / plutôt."
       }
     }
   ],
@@ -848,6 +905,1012 @@
         },
         "l2": "On devrait arriver un peu en avance."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-culture-fren-1",
+        "fr": "spectacle",
+        "en": "show",
+        "gloss": {
+          "en": "show",
+          "es": "espectáculo",
+          "ru": "показывать"
+        },
+        "l2": "spectacle"
+      },
+      {
+        "id": "remote-culture-fren-2",
+        "fr": "exposition",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "l2": "exposition"
+      },
+      {
+        "id": "remote-culture-fren-3",
+        "fr": "concert",
+        "en": "concert",
+        "gloss": {
+          "en": "concert",
+          "es": "concierto",
+          "ru": "концерт"
+        },
+        "l2": "concert"
+      },
+      {
+        "id": "remote-culture-fren-4",
+        "fr": "pièce",
+        "en": "play (theatre)",
+        "gloss": {
+          "en": "play (theatre)",
+          "es": "obra de teatro (teatro)",
+          "ru": "играть (театр)"
+        },
+        "l2": "pièce"
+      },
+      {
+        "id": "remote-culture-fren-5",
+        "fr": "acteur",
+        "en": "actor",
+        "gloss": {
+          "en": "actor",
+          "es": "actor",
+          "ru": "актер"
+        },
+        "l2": "acteur"
+      },
+      {
+        "id": "remote-culture-fren-6",
+        "fr": "réalisateur",
+        "en": "director (film)",
+        "gloss": {
+          "en": "director (film)",
+          "es": "director (película)",
+          "ru": "режиссер (фильм)"
+        },
+        "l2": "réalisateur"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-culture-b1-enl2-1",
+        "fr": "Le spectacle a commencé avec vingt minutes de retard.",
+        "l2": "Le spectacle a commencé avec vingt minutes de retard.",
+        "en": "show / performance",
+        "gloss": {
+          "en": "show / performance",
+          "es": "espectáculo / actuación",
+          "ru": "шоу/выступление"
+        },
+        "prompt": "show / performance",
+        "choices": [
+          "Le spectacle a commencé avec vingt minutes de retard.",
+          "L’exposition attire beaucoup de visiteurs.",
+          "Le concert en plein air était gratuit."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-enl2-2",
+        "fr": "L’exposition attire beaucoup de visiteurs.",
+        "l2": "L’exposition attire beaucoup de visiteurs.",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "prompt": "exhibition",
+        "choices": [
+          "L’exposition attire beaucoup de visiteurs.",
+          "Le spectacle a commencé avec vingt minutes de retard.",
+          "Le concert en plein air était gratuit."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-enl2-3",
+        "fr": "Le concert en plein air était gratuit.",
+        "l2": "Le concert en plein air était gratuit.",
+        "en": "concert",
+        "gloss": {
+          "en": "concert",
+          "es": "concierto",
+          "ru": "концерт"
+        },
+        "prompt": "concert",
+        "choices": [
+          "Le concert en plein air était gratuit.",
+          "Le spectacle a commencé avec vingt minutes de retard.",
+          "L’exposition attire beaucoup de visiteurs."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-enl2-4",
+        "fr": "La pièce dure deux heures sans entracte.",
+        "l2": "La pièce dure deux heures sans entracte.",
+        "en": "play (theatre)",
+        "gloss": {
+          "en": "play (theatre)",
+          "es": "obra de teatro (teatro)",
+          "ru": "играть (театр)"
+        },
+        "prompt": "play (theatre)",
+        "choices": [
+          "La pièce dure deux heures sans entracte.",
+          "Le spectacle a commencé avec vingt minutes de retard.",
+          "L’exposition attire beaucoup de visiteurs."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-enl2-5",
+        "fr": "L’acteur principal était impressionnant.",
+        "l2": "L’acteur principal était impressionnant.",
+        "en": "actor",
+        "gloss": {
+          "en": "actor",
+          "es": "actor",
+          "ru": "актер"
+        },
+        "prompt": "actor",
+        "choices": [
+          "L’acteur principal était impressionnant.",
+          "Le spectacle a commencé avec vingt minutes de retard.",
+          "L’exposition attire beaucoup de visiteurs."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-enl2-6",
+        "fr": "Le réalisateur a répondu aux questions.",
+        "l2": "Le réalisateur a répondu aux questions.",
+        "en": "director (film)",
+        "gloss": {
+          "en": "director (film)",
+          "es": "director (película)",
+          "ru": "режиссер (фильм)"
+        },
+        "prompt": "director (film)",
+        "choices": [
+          "Le réalisateur a répondu aux questions.",
+          "Le spectacle a commencé avec vingt minutes de retard.",
+          "L’exposition attire beaucoup de visiteurs."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-enl2-7",
+        "fr": "La critique a été plutôt positive.",
+        "l2": "La critique a été plutôt positive.",
+        "en": "review / critic",
+        "gloss": {
+          "en": "review / critic",
+          "es": "reseña/crítica",
+          "ru": "обзор / критик"
+        },
+        "prompt": "review / critic",
+        "choices": [
+          "La critique a été plutôt positive.",
+          "Le spectacle a commencé avec vingt minutes de retard.",
+          "L’exposition attire beaucoup de visiteurs."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-enl2-8",
+        "fr": "Les billets sont déjà épuisés.",
+        "l2": "Les billets sont déjà épuisés.",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        },
+        "prompt": "ticket",
+        "choices": [
+          "Les billets sont déjà épuisés.",
+          "Le spectacle a commencé avec vingt minutes de retard.",
+          "L’exposition attire beaucoup de visiteurs."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-culture-b1-prm-1",
+        "en": "show / performance",
+        "gloss": {
+          "en": "show / performance",
+          "es": "espectáculo / actuación",
+          "ru": "шоу/выступление"
+        },
+        "answers": [
+          "spectacle",
+          "le spectacle"
+        ],
+        "target": "le spectacle"
+      },
+      {
+        "id": "remote-culture-b1-prm-2",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "answers": [
+          "exposition",
+          "l' exposition"
+        ],
+        "target": "l' exposition"
+      },
+      {
+        "id": "remote-culture-b1-prm-3",
+        "en": "concert",
+        "gloss": {
+          "en": "concert",
+          "es": "concierto",
+          "ru": "концерт"
+        },
+        "answers": [
+          "concert",
+          "le concert"
+        ],
+        "target": "le concert"
+      },
+      {
+        "id": "remote-culture-b1-prm-4",
+        "en": "play (theatre)",
+        "gloss": {
+          "en": "play (theatre)",
+          "es": "obra de teatro (teatro)",
+          "ru": "играть (театр)"
+        },
+        "answers": [
+          "pièce",
+          "la pièce"
+        ],
+        "target": "la pièce"
+      },
+      {
+        "id": "remote-culture-b1-prm-5",
+        "en": "actor",
+        "gloss": {
+          "en": "actor",
+          "es": "actor",
+          "ru": "актер"
+        },
+        "answers": [
+          "acteur",
+          "l' acteur"
+        ],
+        "target": "l' acteur"
+      },
+      {
+        "id": "remote-culture-b1-prm-6",
+        "en": "director (film)",
+        "gloss": {
+          "en": "director (film)",
+          "es": "director (película)",
+          "ru": "режиссер (фильм)"
+        },
+        "answers": [
+          "réalisateur",
+          "le réalisateur"
+        ],
+        "target": "le réalisateur"
+      },
+      {
+        "id": "remote-culture-b1-prm-7",
+        "en": "review / critic",
+        "gloss": {
+          "en": "review / critic",
+          "es": "reseña/crítica",
+          "ru": "обзор / критик"
+        },
+        "answers": [
+          "critique",
+          "la critique"
+        ],
+        "target": "la critique"
+      },
+      {
+        "id": "remote-culture-b1-prm-8",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        },
+        "answers": [
+          "billet",
+          "le billet"
+        ],
+        "target": "le billet"
+      },
+      {
+        "id": "remote-culture-b1-prm-9",
+        "en": "festival",
+        "gloss": {
+          "en": "festival",
+          "es": "festival",
+          "ru": "фестиваль"
+        },
+        "answers": [
+          "festival",
+          "le festival"
+        ],
+        "target": "le festival"
+      },
+      {
+        "id": "remote-culture-b1-prm-10",
+        "en": "museum",
+        "gloss": {
+          "en": "museum",
+          "es": "museo",
+          "ru": "музей"
+        },
+        "answers": [
+          "musée",
+          "le musée"
+        ],
+        "target": "le musée"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-culture-b1-sign-1",
+        "fr": "spectacle",
+        "l2": "spectacle",
+        "en": "show / performance",
+        "gloss": {
+          "en": "show / performance",
+          "es": "espectáculo / actuación",
+          "ru": "шоу/выступление"
+        },
+        "choices": [
+          "show / performance",
+          "exhibition",
+          "concert"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-2",
+        "fr": "exposition",
+        "l2": "exposition",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "choices": [
+          "exhibition",
+          "show / performance",
+          "concert"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-3",
+        "fr": "concert",
+        "l2": "concert",
+        "en": "concert",
+        "gloss": {
+          "en": "concert",
+          "es": "concierto",
+          "ru": "концерт"
+        },
+        "choices": [
+          "concert",
+          "show / performance",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-4",
+        "fr": "pièce",
+        "l2": "pièce",
+        "en": "play (theatre)",
+        "gloss": {
+          "en": "play (theatre)",
+          "es": "obra de teatro (teatro)",
+          "ru": "играть (театр)"
+        },
+        "choices": [
+          "play (theatre)",
+          "show / performance",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-5",
+        "fr": "acteur",
+        "l2": "acteur",
+        "en": "actor",
+        "gloss": {
+          "en": "actor",
+          "es": "actor",
+          "ru": "актер"
+        },
+        "choices": [
+          "actor",
+          "show / performance",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-6",
+        "fr": "réalisateur",
+        "l2": "réalisateur",
+        "en": "director (film)",
+        "gloss": {
+          "en": "director (film)",
+          "es": "director (película)",
+          "ru": "режиссер (фильм)"
+        },
+        "choices": [
+          "director (film)",
+          "show / performance",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-7",
+        "fr": "critique",
+        "l2": "critique",
+        "en": "review / critic",
+        "gloss": {
+          "en": "review / critic",
+          "es": "reseña/crítica",
+          "ru": "обзор / критик"
+        },
+        "choices": [
+          "review / critic",
+          "show / performance",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-8",
+        "fr": "billet",
+        "l2": "billet",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        },
+        "choices": [
+          "ticket",
+          "show / performance",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-9",
+        "fr": "festival",
+        "l2": "festival",
+        "en": "festival",
+        "gloss": {
+          "en": "festival",
+          "es": "festival",
+          "ru": "фестиваль"
+        },
+        "choices": [
+          "festival",
+          "show / performance",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-10",
+        "fr": "musée",
+        "l2": "musée",
+        "en": "museum",
+        "gloss": {
+          "en": "museum",
+          "es": "museo",
+          "ru": "музей"
+        },
+        "choices": [
+          "museum",
+          "show / performance",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-11",
+        "fr": "galerie",
+        "l2": "galerie",
+        "en": "gallery",
+        "gloss": {
+          "en": "gallery",
+          "es": "galería",
+          "ru": "галерея"
+        },
+        "choices": [
+          "gallery",
+          "show / performance",
+          "exhibition"
+        ]
+      },
+      {
+        "id": "remote-culture-b1-sign-12",
+        "fr": "entrée",
+        "l2": "entrée",
+        "en": "admission / entrance",
+        "gloss": {
+          "en": "admission / entrance",
+          "es": "admisión / entrada",
+          "ru": "вход / вход"
+        },
+        "choices": [
+          "admission / entrance",
+          "show / performance",
+          "exhibition"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-culture-b1-pair-1",
+        "a": {
+          "fr": "spectacle",
+          "l2": "spectacle",
+          "en": "show / performance",
+          "gloss": {
+            "en": "show / performance",
+            "es": "espectáculo / actuación",
+            "ru": "шоу/выступление"
+          }
+        },
+        "b": {
+          "fr": "exposition",
+          "l2": "exposition",
+          "en": "exhibition",
+          "gloss": {
+            "en": "exhibition",
+            "es": "exhibición",
+            "ru": "выставка"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-culture-b1-pair-2",
+        "a": {
+          "fr": "concert",
+          "l2": "concert",
+          "en": "concert",
+          "gloss": {
+            "en": "concert",
+            "es": "concierto",
+            "ru": "концерт"
+          }
+        },
+        "b": {
+          "fr": "pièce",
+          "l2": "pièce",
+          "en": "play (theatre)",
+          "gloss": {
+            "en": "play (theatre)",
+            "es": "obra de teatro (teatro)",
+            "ru": "играть (театр)"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-culture-b1-pair-3",
+        "a": {
+          "fr": "acteur",
+          "l2": "acteur",
+          "en": "actor",
+          "gloss": {
+            "en": "actor",
+            "es": "actor",
+            "ru": "актер"
+          }
+        },
+        "b": {
+          "fr": "réalisateur",
+          "l2": "réalisateur",
+          "en": "director (film)",
+          "gloss": {
+            "en": "director (film)",
+            "es": "director (película)",
+            "ru": "режиссер (фильм)"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-culture-b1-pair-4",
+        "a": {
+          "fr": "critique",
+          "l2": "critique",
+          "en": "review / critic",
+          "gloss": {
+            "en": "review / critic",
+            "es": "reseña/crítica",
+            "ru": "обзор / критик"
+          }
+        },
+        "b": {
+          "fr": "billet",
+          "l2": "billet",
+          "en": "ticket",
+          "gloss": {
+            "en": "ticket",
+            "es": "boleto",
+            "ru": "билет"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-culture-b1-pair-5",
+        "a": {
+          "fr": "festival",
+          "l2": "festival",
+          "en": "festival",
+          "gloss": {
+            "en": "festival",
+            "es": "festival",
+            "ru": "фестиваль"
+          }
+        },
+        "b": {
+          "fr": "musée",
+          "l2": "musée",
+          "en": "museum",
+          "gloss": {
+            "en": "museum",
+            "es": "museo",
+            "ru": "музей"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-culture-b1-gap-1",
+        "fr": "Le spectacle a commencé avec vingt minutes de retard.",
+        "l2": "Le spectacle a commencé avec vingt minutes de retard.",
+        "speak": "Le spectacle a commencé avec vingt minutes de retard.",
+        "blank": "spectacle",
+        "en": "show / performance",
+        "gloss": {
+          "en": "show / performance",
+          "es": "espectáculo / actuación",
+          "ru": "шоу/выступление"
+        }
+      },
+      {
+        "id": "remote-culture-b1-gap-2",
+        "fr": "L’exposition attire beaucoup de visiteurs.",
+        "l2": "L’exposition attire beaucoup de visiteurs.",
+        "speak": "L’exposition attire beaucoup de visiteurs.",
+        "blank": "exposition",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        }
+      },
+      {
+        "id": "remote-culture-b1-gap-3",
+        "fr": "Le concert en plein air était gratuit.",
+        "l2": "Le concert en plein air était gratuit.",
+        "speak": "Le concert en plein air était gratuit.",
+        "blank": "concert",
+        "en": "concert",
+        "gloss": {
+          "en": "concert",
+          "es": "concierto",
+          "ru": "концерт"
+        }
+      },
+      {
+        "id": "remote-culture-b1-gap-4",
+        "fr": "La pièce dure deux heures sans entracte.",
+        "l2": "La pièce dure deux heures sans entracte.",
+        "speak": "La pièce dure deux heures sans entracte.",
+        "blank": "pièce",
+        "en": "play (theatre)",
+        "gloss": {
+          "en": "play (theatre)",
+          "es": "obra de teatro (teatro)",
+          "ru": "играть (театр)"
+        }
+      },
+      {
+        "id": "remote-culture-b1-gap-5",
+        "fr": "L’acteur principal était impressionnant.",
+        "l2": "L’acteur principal était impressionnant.",
+        "speak": "L’acteur principal était impressionnant.",
+        "blank": "acteur",
+        "en": "actor",
+        "gloss": {
+          "en": "actor",
+          "es": "actor",
+          "ru": "актер"
+        }
+      },
+      {
+        "id": "remote-culture-b1-gap-6",
+        "fr": "Le réalisateur a répondu aux questions.",
+        "l2": "Le réalisateur a répondu aux questions.",
+        "speak": "Le réalisateur a répondu aux questions.",
+        "blank": "réalisateur",
+        "en": "director (film)",
+        "gloss": {
+          "en": "director (film)",
+          "es": "director (película)",
+          "ru": "режиссер (фильм)"
+        }
+      },
+      {
+        "id": "remote-culture-b1-gap-7",
+        "fr": "La critique a été plutôt positive.",
+        "l2": "La critique a été plutôt positive.",
+        "speak": "La critique a été plutôt positive.",
+        "blank": "critique",
+        "en": "review / critic",
+        "gloss": {
+          "en": "review / critic",
+          "es": "reseña/crítica",
+          "ru": "обзор / критик"
+        }
+      },
+      {
+        "id": "remote-culture-b1-gap-8",
+        "fr": "Les billets sont déjà épuisés.",
+        "l2": "Les billets sont déjà épuisés.",
+        "speak": "Les billets sont déjà épuisés.",
+        "blank": "billet",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-culture-b1-ord-1",
+        "fr": "Le spectacle a commencé avec vingt minutes de retard.",
+        "l2": "Le spectacle a commencé avec vingt minutes de retard.",
+        "en": "show / performance",
+        "gloss": {
+          "en": "show / performance",
+          "es": "espectáculo / actuación",
+          "ru": "шоу/выступление"
+        },
+        "words": [
+          "Le",
+          "spectacle",
+          "a",
+          "commencé",
+          "avec",
+          "vingt",
+          "minutes",
+          "de",
+          "retard."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-ord-2",
+        "fr": "L’exposition attire beaucoup de visiteurs.",
+        "l2": "L’exposition attire beaucoup de visiteurs.",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        },
+        "words": [
+          "L’exposition",
+          "attire",
+          "beaucoup",
+          "de",
+          "visiteurs."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-ord-3",
+        "fr": "Le concert en plein air était gratuit.",
+        "l2": "Le concert en plein air était gratuit.",
+        "en": "concert",
+        "gloss": {
+          "en": "concert",
+          "es": "concierto",
+          "ru": "концерт"
+        },
+        "words": [
+          "Le",
+          "concert",
+          "en",
+          "plein",
+          "air",
+          "était",
+          "gratuit."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-ord-4",
+        "fr": "La pièce dure deux heures sans entracte.",
+        "l2": "La pièce dure deux heures sans entracte.",
+        "en": "play (theatre)",
+        "gloss": {
+          "en": "play (theatre)",
+          "es": "obra de teatro (teatro)",
+          "ru": "играть (театр)"
+        },
+        "words": [
+          "La",
+          "pièce",
+          "dure",
+          "deux",
+          "heures",
+          "sans",
+          "entracte."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-ord-5",
+        "fr": "L’acteur principal était impressionnant.",
+        "l2": "L’acteur principal était impressionnant.",
+        "en": "actor",
+        "gloss": {
+          "en": "actor",
+          "es": "actor",
+          "ru": "актер"
+        },
+        "words": [
+          "L’acteur",
+          "principal",
+          "était",
+          "impressionnant."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-ord-6",
+        "fr": "Le réalisateur a répondu aux questions.",
+        "l2": "Le réalisateur a répondu aux questions.",
+        "en": "director (film)",
+        "gloss": {
+          "en": "director (film)",
+          "es": "director (película)",
+          "ru": "режиссер (фильм)"
+        },
+        "words": [
+          "Le",
+          "réalisateur",
+          "a",
+          "répondu",
+          "aux",
+          "questions."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-ord-7",
+        "fr": "La critique a été plutôt positive.",
+        "l2": "La critique a été plutôt positive.",
+        "en": "review / critic",
+        "gloss": {
+          "en": "review / critic",
+          "es": "reseña/crítica",
+          "ru": "обзор / критик"
+        },
+        "words": [
+          "La",
+          "critique",
+          "a",
+          "été",
+          "plutôt",
+          "positive."
+        ]
+      },
+      {
+        "id": "remote-culture-b1-ord-8",
+        "fr": "Les billets sont déjà épuisés.",
+        "l2": "Les billets sont déjà épuisés.",
+        "en": "ticket",
+        "gloss": {
+          "en": "ticket",
+          "es": "boleto",
+          "ru": "билет"
+        },
+        "words": [
+          "Les",
+          "billets",
+          "sont",
+          "déjà",
+          "épuisés."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-culture-b1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "spɛk.takl",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "spectacle",
+          "l2": "spectacle",
+          "en": "show / performance",
+          "gloss": {
+            "en": "show / performance",
+            "es": "espectáculo / actuación",
+            "ru": "шоу/выступление"
+          },
+          "ipa": "spɛk.takl"
+        },
+        {
+          "fr": "exposition",
+          "l2": "exposition",
+          "en": "exhibition",
+          "gloss": {
+            "en": "exhibition",
+            "es": "exhibición",
+            "ru": "выставка"
+          },
+          "ipa": "ɛk.spo.zi.sjɔ̃"
+        },
+        {
+          "fr": "concert",
+          "l2": "concert",
+          "en": "concert",
+          "gloss": {
+            "en": "concert",
+            "es": "concierto",
+            "ru": "концерт"
+          },
+          "ipa": "kɔ̃.sɛʁ"
+        },
+        {
+          "fr": "pièce",
+          "l2": "pièce",
+          "en": "play (theatre)",
+          "gloss": {
+            "en": "play (theatre)",
+            "es": "obra de teatro (teatro)",
+            "ru": "играть (театр)"
+          },
+          "ipa": "pjɛs"
+        },
+        {
+          "fr": "acteur",
+          "l2": "acteur",
+          "en": "actor",
+          "gloss": {
+            "en": "actor",
+            "es": "actor",
+            "ru": "актер"
+          },
+          "ipa": "ak.tœʁ"
+        }
+      ]
+    }
+  ]
 }

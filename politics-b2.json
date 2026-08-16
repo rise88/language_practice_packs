@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "politics-b2",
-  "version": 4,
+  "version": 5,
   "level": "b2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "soit",
             "est",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: Everyone must be ___ informed before voting.",
+            "es": "Completo: Todos deben ser ___ informados antes de votar.",
+            "ru": "Завершено: каждый должен быть ___ проинформирован перед голосованием."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-politics-gq-2",
@@ -537,7 +548,18 @@
             "est",
             "soit",
             "sera"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: To make the debate ___ more readable, let's clarify the programs.",
+            "es": "Completo: Para hacer más legible el debate ___ , aclaremos los programas.",
+            "ru": "Завершено: Чтобы сделать дискуссию ___ более читабельной, давайте уточним программы."
+          },
+          "why": {
+            "fr": "Réponse : « soit ».",
+            "en": "Answer: “soit”.",
+            "es": "Respuesta: « soit ».",
+            "ru": "Ответ: « soit »."
+          }
         },
         {
           "id": "remote-politics-gq-3",
@@ -547,13 +569,25 @@
             "afin que",
             "parce que",
             "il faut que"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: I vote ___ the stakes seem major to me.",
+            "es": "Completo: voto ___ lo que está en juego me parece importante.",
+            "ru": "Завершено: я голосую ___ , ставки кажутся мне значительными."
+          },
+          "why": {
+            "fr": "Réponse : « parce que ».",
+            "en": "Answer: “parce que”.",
+            "es": "Respuesta: « parce que ».",
+            "ru": "Ответ: « parce que »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Necessity and purpose with the subjunctive.",
         "es": "Útil cuando necesitas aplicar: Necesidad y finalidad con el subjuntivo.",
-        "ru": "Полезно, когда нужно применить: Необходимость и цель с сослагательным наклонением."
+        "ru": "Полезно, когда нужно применить: Необходимость и цель с сослагательным наклонением.",
+        "fr": "Utile pour appliquer : Il faut que / afin que + subjonctif."
       }
     },
     {
@@ -601,7 +635,18 @@
             "est",
             "serait",
             "soit"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: If more citizens voted, the representation ___ more faithful.",
+            "es": "Completo: Si votaran más ciudadanos, la representación ___ más fiel.",
+            "ru": "Завершено: если проголосовало больше граждан, представительство ___ будет более верным."
+          },
+          "why": {
+            "fr": "Réponse : « serait ».",
+            "en": "Answer: “serait”.",
+            "es": "Respuesta: « serait ».",
+            "ru": "Ответ: « serait »."
+          }
         },
         {
           "id": "remote-politics-gq-5",
@@ -611,13 +656,25 @@
             "peut",
             "pourrait",
             "pourra"
-          ]
+          ],
+          "gloss": {
+            "en": "Complete: We ___ object that demonstrating does not replace voting.",
+            "es": "Completo: Nosotros ___ objetamos que la manifestación no reemplaza la votación.",
+            "ru": "Выполнено: Мы ___ возражаем против того, чтобы демонстрации не заменяли голосование."
+          },
+          "why": {
+            "fr": "Réponse : « pourrait ».",
+            "en": "Answer: “pourrait”.",
+            "es": "Respuesta: « pourrait ».",
+            "ru": "Ответ: « pourrait »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: The conditional for political hypotheses.",
         "es": "Útil cuando es necesario aplicar: El condicional para hipótesis políticas.",
-        "ru": "Полезно, когда нужно применить: Условие для политических гипотез."
+        "ru": "Полезно, когда нужно применить: Условие для политических гипотез.",
+        "fr": "Utile pour appliquer : Le conditionnel pour l’hypothèse politique."
       }
     }
   ],
@@ -847,6 +904,1044 @@
         },
         "l2": "L’opposition a demandé une commission d’enquête sur ce scandale."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-politics-fren-1",
+        "fr": "élection",
+        "en": "election",
+        "gloss": {
+          "en": "election",
+          "es": "elección",
+          "ru": "выборы"
+        },
+        "l2": "élection"
+      },
+      {
+        "id": "remote-politics-fren-2",
+        "fr": "scrutin",
+        "en": "ballot",
+        "gloss": {
+          "en": "ballot",
+          "es": "votación",
+          "ru": "избирательный бюллетень"
+        },
+        "l2": "scrutin"
+      },
+      {
+        "id": "remote-politics-fren-3",
+        "fr": "citoyenneté",
+        "en": "citizenship",
+        "gloss": {
+          "en": "citizenship",
+          "es": "ciudadanía",
+          "ru": "гражданство"
+        },
+        "l2": "citoyenneté"
+      },
+      {
+        "id": "remote-politics-fren-4",
+        "fr": "suffrage",
+        "en": "suffrage",
+        "gloss": {
+          "en": "suffrage",
+          "es": "sufragio",
+          "ru": "избирательное право"
+        },
+        "l2": "suffrage"
+      },
+      {
+        "id": "remote-politics-fren-5",
+        "fr": "mandat",
+        "en": "term of office",
+        "gloss": {
+          "en": "term of office",
+          "es": "cadencia",
+          "ru": "срок полномочий"
+        },
+        "l2": "mandat"
+      },
+      {
+        "id": "remote-politics-fren-6",
+        "fr": "représentation",
+        "en": "representation",
+        "gloss": {
+          "en": "representation",
+          "es": "representación",
+          "ru": "представительство"
+        },
+        "l2": "représentation"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-politics-b2-enl2-1",
+        "fr": "L’élection législative a redessiné la majorité à l’Assemblée.",
+        "l2": "L’élection législative a redessiné la majorité à l’Assemblée.",
+        "en": "election",
+        "gloss": {
+          "en": "election",
+          "es": "elección",
+          "ru": "выборы"
+        },
+        "prompt": "election",
+        "choices": [
+          "L’élection législative a redessiné la majorité à l’Assemblée.",
+          "Le scrutin à deux tours favorise les alliances de second tour.",
+          "La citoyenneté implique des droits, mais aussi des devoirs concrets."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-enl2-2",
+        "fr": "Le scrutin à deux tours favorise les alliances de second tour.",
+        "l2": "Le scrutin à deux tours favorise les alliances de second tour.",
+        "en": "ballot / vote",
+        "gloss": {
+          "en": "ballot / vote",
+          "es": "boleta / voto",
+          "ru": "голосование / голосование"
+        },
+        "prompt": "ballot / vote",
+        "choices": [
+          "Le scrutin à deux tours favorise les alliances de second tour.",
+          "L’élection législative a redessiné la majorité à l’Assemblée.",
+          "La citoyenneté implique des droits, mais aussi des devoirs concrets."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-enl2-3",
+        "fr": "La citoyenneté implique des droits, mais aussi des devoirs concrets.",
+        "l2": "La citoyenneté implique des droits, mais aussi des devoirs concrets.",
+        "en": "citizenship",
+        "gloss": {
+          "en": "citizenship",
+          "es": "ciudadanía",
+          "ru": "гражданство"
+        },
+        "prompt": "citizenship",
+        "choices": [
+          "La citoyenneté implique des droits, mais aussi des devoirs concrets.",
+          "L’élection législative a redessiné la majorité à l’Assemblée.",
+          "Le scrutin à deux tours favorise les alliances de second tour."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-enl2-4",
+        "fr": "Le suffrage universel reste un acquis relativement récent dans l’histoire.",
+        "l2": "Le suffrage universel reste un acquis relativement récent dans l’histoire.",
+        "en": "suffrage",
+        "gloss": {
+          "en": "suffrage",
+          "es": "sufragio",
+          "ru": "избирательное право"
+        },
+        "prompt": "suffrage",
+        "choices": [
+          "Le suffrage universel reste un acquis relativement récent dans l’histoire.",
+          "L’élection législative a redessiné la majorité à l’Assemblée.",
+          "Le scrutin à deux tours favorise les alliances de second tour."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-enl2-5",
+        "fr": "Son mandat s’achève, néanmoins il brigue un second quinquennat.",
+        "l2": "Son mandat s’achève, néanmoins il brigue un second quinquennat.",
+        "en": "term of office",
+        "gloss": {
+          "en": "term of office",
+          "es": "cadencia",
+          "ru": "срок полномочий"
+        },
+        "prompt": "term of office",
+        "choices": [
+          "Son mandat s’achève, néanmoins il brigue un second quinquennat.",
+          "L’élection législative a redessiné la majorité à l’Assemblée.",
+          "Le scrutin à deux tours favorise les alliances de second tour."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-enl2-6",
+        "fr": "La représentation des territoires ruraux demeure un enjeu du débat électoral.",
+        "l2": "La représentation des territoires ruraux demeure un enjeu du débat électoral.",
+        "en": "representation",
+        "gloss": {
+          "en": "representation",
+          "es": "representación",
+          "ru": "представительство"
+        },
+        "prompt": "representation",
+        "choices": [
+          "La représentation des territoires ruraux demeure un enjeu du débat électoral.",
+          "L’élection législative a redessiné la majorité à l’Assemblée.",
+          "Le scrutin à deux tours favorise les alliances de second tour."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-enl2-7",
+        "fr": "La manifestation a rassemblé des milliers de personnes malgré la pluie.",
+        "l2": "La manifestation a rassemblé des milliers de personnes malgré la pluie.",
+        "en": "protest / demonstration",
+        "gloss": {
+          "en": "protest / demonstration",
+          "es": "protesta / manifestación",
+          "ru": "протест/демонстрация"
+        },
+        "prompt": "protest / demonstration",
+        "choices": [
+          "La manifestation a rassemblé des milliers de personnes malgré la pluie.",
+          "L’élection législative a redessiné la majorité à l’Assemblée.",
+          "Le scrutin à deux tours favorise les alliances de second tour."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-enl2-8",
+        "fr": "L’abstention record interroge la légitimité du scrutin aux yeux de certains.",
+        "l2": "L’abstention record interroge la légitimité du scrutin aux yeux de certains.",
+        "en": "abstention",
+        "gloss": {
+          "en": "abstention",
+          "es": "abstención",
+          "ru": "воздержание"
+        },
+        "prompt": "abstention",
+        "choices": [
+          "L’abstention record interroge la légitimité du scrutin aux yeux de certains.",
+          "L’élection législative a redessiné la majorité à l’Assemblée.",
+          "Le scrutin à deux tours favorise les alliances de second tour."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-politics-b2-prm-1",
+        "en": "election",
+        "gloss": {
+          "en": "election",
+          "es": "elección",
+          "ru": "выборы"
+        },
+        "answers": [
+          "élection",
+          "l' élection"
+        ],
+        "target": "l' élection"
+      },
+      {
+        "id": "remote-politics-b2-prm-2",
+        "en": "ballot / vote",
+        "gloss": {
+          "en": "ballot / vote",
+          "es": "boleta / voto",
+          "ru": "голосование / голосование"
+        },
+        "answers": [
+          "scrutin",
+          "le scrutin"
+        ],
+        "target": "le scrutin"
+      },
+      {
+        "id": "remote-politics-b2-prm-3",
+        "en": "citizenship",
+        "gloss": {
+          "en": "citizenship",
+          "es": "ciudadanía",
+          "ru": "гражданство"
+        },
+        "answers": [
+          "citoyenneté",
+          "la citoyenneté"
+        ],
+        "target": "la citoyenneté"
+      },
+      {
+        "id": "remote-politics-b2-prm-4",
+        "en": "suffrage",
+        "gloss": {
+          "en": "suffrage",
+          "es": "sufragio",
+          "ru": "избирательное право"
+        },
+        "answers": [
+          "suffrage",
+          "le suffrage"
+        ],
+        "target": "le suffrage"
+      },
+      {
+        "id": "remote-politics-b2-prm-5",
+        "en": "term of office",
+        "gloss": {
+          "en": "term of office",
+          "es": "cadencia",
+          "ru": "срок полномочий"
+        },
+        "answers": [
+          "mandat",
+          "le mandat"
+        ],
+        "target": "le mandat"
+      },
+      {
+        "id": "remote-politics-b2-prm-6",
+        "en": "representation",
+        "gloss": {
+          "en": "representation",
+          "es": "representación",
+          "ru": "представительство"
+        },
+        "answers": [
+          "représentation",
+          "la représentation"
+        ],
+        "target": "la représentation"
+      },
+      {
+        "id": "remote-politics-b2-prm-7",
+        "en": "protest / demonstration",
+        "gloss": {
+          "en": "protest / demonstration",
+          "es": "protesta / manifestación",
+          "ru": "протест/демонстрация"
+        },
+        "answers": [
+          "manifestation",
+          "la manifestation"
+        ],
+        "target": "la manifestation"
+      },
+      {
+        "id": "remote-politics-b2-prm-8",
+        "en": "abstention",
+        "gloss": {
+          "en": "abstention",
+          "es": "abstención",
+          "ru": "воздержание"
+        },
+        "answers": [
+          "abstention",
+          "l' abstention"
+        ],
+        "target": "l' abstention"
+      },
+      {
+        "id": "remote-politics-b2-prm-9",
+        "en": "institution",
+        "gloss": {
+          "en": "institution",
+          "es": "institución",
+          "ru": "учреждение"
+        },
+        "answers": [
+          "institution",
+          "l' institution"
+        ],
+        "target": "l' institution"
+      },
+      {
+        "id": "remote-politics-b2-prm-10",
+        "en": "assembly / parliament",
+        "gloss": {
+          "en": "assembly / parliament",
+          "es": "asamblea / parlamento",
+          "ru": "собрание / парламент"
+        },
+        "answers": [
+          "assemblée",
+          "l' assemblée"
+        ],
+        "target": "l' assemblée"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-politics-b2-sign-1",
+        "fr": "élection",
+        "l2": "élection",
+        "en": "election",
+        "gloss": {
+          "en": "election",
+          "es": "elección",
+          "ru": "выборы"
+        },
+        "choices": [
+          "election",
+          "ballot / vote",
+          "citizenship"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-2",
+        "fr": "scrutin",
+        "l2": "scrutin",
+        "en": "ballot / vote",
+        "gloss": {
+          "en": "ballot / vote",
+          "es": "boleta / voto",
+          "ru": "голосование / голосование"
+        },
+        "choices": [
+          "ballot / vote",
+          "election",
+          "citizenship"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-3",
+        "fr": "citoyenneté",
+        "l2": "citoyenneté",
+        "en": "citizenship",
+        "gloss": {
+          "en": "citizenship",
+          "es": "ciudadanía",
+          "ru": "гражданство"
+        },
+        "choices": [
+          "citizenship",
+          "election",
+          "ballot / vote"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-4",
+        "fr": "suffrage",
+        "l2": "suffrage",
+        "en": "suffrage",
+        "gloss": {
+          "en": "suffrage",
+          "es": "sufragio",
+          "ru": "избирательное право"
+        },
+        "choices": [
+          "suffrage",
+          "election",
+          "ballot / vote"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-5",
+        "fr": "mandat",
+        "l2": "mandat",
+        "en": "term of office",
+        "gloss": {
+          "en": "term of office",
+          "es": "cadencia",
+          "ru": "срок полномочий"
+        },
+        "choices": [
+          "term of office",
+          "election",
+          "ballot / vote"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-6",
+        "fr": "représentation",
+        "l2": "représentation",
+        "en": "representation",
+        "gloss": {
+          "en": "representation",
+          "es": "representación",
+          "ru": "представительство"
+        },
+        "choices": [
+          "representation",
+          "election",
+          "ballot / vote"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-7",
+        "fr": "manifestation",
+        "l2": "manifestation",
+        "en": "protest / demonstration",
+        "gloss": {
+          "en": "protest / demonstration",
+          "es": "protesta / manifestación",
+          "ru": "протест/демонстрация"
+        },
+        "choices": [
+          "protest / demonstration",
+          "election",
+          "ballot / vote"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-8",
+        "fr": "abstention",
+        "l2": "abstention",
+        "en": "abstention",
+        "gloss": {
+          "en": "abstention",
+          "es": "abstención",
+          "ru": "воздержание"
+        },
+        "choices": [
+          "abstention",
+          "election",
+          "ballot / vote"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-9",
+        "fr": "institution",
+        "l2": "institution",
+        "en": "institution",
+        "gloss": {
+          "en": "institution",
+          "es": "institución",
+          "ru": "учреждение"
+        },
+        "choices": [
+          "institution",
+          "election",
+          "ballot / vote"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-10",
+        "fr": "assemblée",
+        "l2": "assemblée",
+        "en": "assembly / parliament",
+        "gloss": {
+          "en": "assembly / parliament",
+          "es": "asamblea / parlamento",
+          "ru": "собрание / парламент"
+        },
+        "choices": [
+          "assembly / parliament",
+          "election",
+          "ballot / vote"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-11",
+        "fr": "référendum",
+        "l2": "référendum",
+        "en": "referendum",
+        "gloss": {
+          "en": "referendum",
+          "es": "referéndum",
+          "ru": "референдум"
+        },
+        "choices": [
+          "referendum",
+          "election",
+          "ballot / vote"
+        ]
+      },
+      {
+        "id": "remote-politics-b2-sign-12",
+        "fr": "coalition",
+        "l2": "coalition",
+        "en": "coalition",
+        "gloss": {
+          "en": "coalition",
+          "es": "coalición",
+          "ru": "коалиция"
+        },
+        "choices": [
+          "coalition",
+          "election",
+          "ballot / vote"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-politics-b2-pair-1",
+        "a": {
+          "fr": "élection",
+          "l2": "élection",
+          "en": "election",
+          "gloss": {
+            "en": "election",
+            "es": "elección",
+            "ru": "выборы"
+          }
+        },
+        "b": {
+          "fr": "scrutin",
+          "l2": "scrutin",
+          "en": "ballot / vote",
+          "gloss": {
+            "en": "ballot / vote",
+            "es": "boleta / voto",
+            "ru": "голосование / голосование"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-politics-b2-pair-2",
+        "a": {
+          "fr": "citoyenneté",
+          "l2": "citoyenneté",
+          "en": "citizenship",
+          "gloss": {
+            "en": "citizenship",
+            "es": "ciudadanía",
+            "ru": "гражданство"
+          }
+        },
+        "b": {
+          "fr": "suffrage",
+          "l2": "suffrage",
+          "en": "suffrage",
+          "gloss": {
+            "en": "suffrage",
+            "es": "sufragio",
+            "ru": "избирательное право"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-politics-b2-pair-3",
+        "a": {
+          "fr": "mandat",
+          "l2": "mandat",
+          "en": "term of office",
+          "gloss": {
+            "en": "term of office",
+            "es": "cadencia",
+            "ru": "срок полномочий"
+          }
+        },
+        "b": {
+          "fr": "représentation",
+          "l2": "représentation",
+          "en": "representation",
+          "gloss": {
+            "en": "representation",
+            "es": "representación",
+            "ru": "представительство"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-politics-b2-pair-4",
+        "a": {
+          "fr": "manifestation",
+          "l2": "manifestation",
+          "en": "protest / demonstration",
+          "gloss": {
+            "en": "protest / demonstration",
+            "es": "protesta / manifestación",
+            "ru": "протест/демонстрация"
+          }
+        },
+        "b": {
+          "fr": "abstention",
+          "l2": "abstention",
+          "en": "abstention",
+          "gloss": {
+            "en": "abstention",
+            "es": "abstención",
+            "ru": "воздержание"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-politics-b2-pair-5",
+        "a": {
+          "fr": "institution",
+          "l2": "institution",
+          "en": "institution",
+          "gloss": {
+            "en": "institution",
+            "es": "institución",
+            "ru": "учреждение"
+          }
+        },
+        "b": {
+          "fr": "assemblée",
+          "l2": "assemblée",
+          "en": "assembly / parliament",
+          "gloss": {
+            "en": "assembly / parliament",
+            "es": "asamblea / parlamento",
+            "ru": "собрание / парламент"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-politics-b2-gap-1",
+        "fr": "L’élection législative a redessiné la majorité à l’Assemblée.",
+        "l2": "L’élection législative a redessiné la majorité à l’Assemblée.",
+        "speak": "L’élection législative a redessiné la majorité à l’Assemblée.",
+        "blank": "élection",
+        "en": "election",
+        "gloss": {
+          "en": "election",
+          "es": "elección",
+          "ru": "выборы"
+        }
+      },
+      {
+        "id": "remote-politics-b2-gap-2",
+        "fr": "Le scrutin à deux tours favorise les alliances de second tour.",
+        "l2": "Le scrutin à deux tours favorise les alliances de second tour.",
+        "speak": "Le scrutin à deux tours favorise les alliances de second tour.",
+        "blank": "scrutin",
+        "en": "ballot / vote",
+        "gloss": {
+          "en": "ballot / vote",
+          "es": "boleta / voto",
+          "ru": "голосование / голосование"
+        }
+      },
+      {
+        "id": "remote-politics-b2-gap-3",
+        "fr": "La citoyenneté implique des droits, mais aussi des devoirs concrets.",
+        "l2": "La citoyenneté implique des droits, mais aussi des devoirs concrets.",
+        "speak": "La citoyenneté implique des droits, mais aussi des devoirs concrets.",
+        "blank": "citoyenneté",
+        "en": "citizenship",
+        "gloss": {
+          "en": "citizenship",
+          "es": "ciudadanía",
+          "ru": "гражданство"
+        }
+      },
+      {
+        "id": "remote-politics-b2-gap-4",
+        "fr": "Le suffrage universel reste un acquis relativement récent dans l’histoire.",
+        "l2": "Le suffrage universel reste un acquis relativement récent dans l’histoire.",
+        "speak": "Le suffrage universel reste un acquis relativement récent dans l’histoire.",
+        "blank": "suffrage",
+        "en": "suffrage",
+        "gloss": {
+          "en": "suffrage",
+          "es": "sufragio",
+          "ru": "избирательное право"
+        }
+      },
+      {
+        "id": "remote-politics-b2-gap-5",
+        "fr": "Son mandat s’achève, néanmoins il brigue un second quinquennat.",
+        "l2": "Son mandat s’achève, néanmoins il brigue un second quinquennat.",
+        "speak": "Son mandat s’achève, néanmoins il brigue un second quinquennat.",
+        "blank": "mandat",
+        "en": "term of office",
+        "gloss": {
+          "en": "term of office",
+          "es": "cadencia",
+          "ru": "срок полномочий"
+        }
+      },
+      {
+        "id": "remote-politics-b2-gap-6",
+        "fr": "La représentation des territoires ruraux demeure un enjeu du débat électoral.",
+        "l2": "La représentation des territoires ruraux demeure un enjeu du débat électoral.",
+        "speak": "La représentation des territoires ruraux demeure un enjeu du débat électoral.",
+        "blank": "représentation",
+        "en": "representation",
+        "gloss": {
+          "en": "representation",
+          "es": "representación",
+          "ru": "представительство"
+        }
+      },
+      {
+        "id": "remote-politics-b2-gap-7",
+        "fr": "La manifestation a rassemblé des milliers de personnes malgré la pluie.",
+        "l2": "La manifestation a rassemblé des milliers de personnes malgré la pluie.",
+        "speak": "La manifestation a rassemblé des milliers de personnes malgré la pluie.",
+        "blank": "manifestation",
+        "en": "protest / demonstration",
+        "gloss": {
+          "en": "protest / demonstration",
+          "es": "protesta / manifestación",
+          "ru": "протест/демонстрация"
+        }
+      },
+      {
+        "id": "remote-politics-b2-gap-8",
+        "fr": "L’abstention record interroge la légitimité du scrutin aux yeux de certains.",
+        "l2": "L’abstention record interroge la légitimité du scrutin aux yeux de certains.",
+        "speak": "L’abstention record interroge la légitimité du scrutin aux yeux de certains.",
+        "blank": "abstention",
+        "en": "abstention",
+        "gloss": {
+          "en": "abstention",
+          "es": "abstención",
+          "ru": "воздержание"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-politics-b2-ord-1",
+        "fr": "L’élection législative a redessiné la majorité à l’Assemblée.",
+        "l2": "L’élection législative a redessiné la majorité à l’Assemblée.",
+        "en": "election",
+        "gloss": {
+          "en": "election",
+          "es": "elección",
+          "ru": "выборы"
+        },
+        "words": [
+          "L’élection",
+          "législative",
+          "a",
+          "redessiné",
+          "la",
+          "majorité",
+          "à",
+          "l’Assemblée."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-ord-2",
+        "fr": "Le scrutin à deux tours favorise les alliances de second tour.",
+        "l2": "Le scrutin à deux tours favorise les alliances de second tour.",
+        "en": "ballot / vote",
+        "gloss": {
+          "en": "ballot / vote",
+          "es": "boleta / voto",
+          "ru": "голосование / голосование"
+        },
+        "words": [
+          "Le",
+          "scrutin",
+          "à",
+          "deux",
+          "tours",
+          "favorise",
+          "les",
+          "alliances",
+          "de",
+          "second",
+          "tour."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-ord-3",
+        "fr": "La citoyenneté implique des droits, mais aussi des devoirs concrets.",
+        "l2": "La citoyenneté implique des droits, mais aussi des devoirs concrets.",
+        "en": "citizenship",
+        "gloss": {
+          "en": "citizenship",
+          "es": "ciudadanía",
+          "ru": "гражданство"
+        },
+        "words": [
+          "La",
+          "citoyenneté",
+          "implique",
+          "des",
+          "droits,",
+          "mais",
+          "aussi",
+          "des",
+          "devoirs",
+          "concrets."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-ord-4",
+        "fr": "Le suffrage universel reste un acquis relativement récent dans l’histoire.",
+        "l2": "Le suffrage universel reste un acquis relativement récent dans l’histoire.",
+        "en": "suffrage",
+        "gloss": {
+          "en": "suffrage",
+          "es": "sufragio",
+          "ru": "избирательное право"
+        },
+        "words": [
+          "Le",
+          "suffrage",
+          "universel",
+          "reste",
+          "un",
+          "acquis",
+          "relativement",
+          "récent",
+          "dans",
+          "l’histoire."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-ord-5",
+        "fr": "Son mandat s’achève, néanmoins il brigue un second quinquennat.",
+        "l2": "Son mandat s’achève, néanmoins il brigue un second quinquennat.",
+        "en": "term of office",
+        "gloss": {
+          "en": "term of office",
+          "es": "cadencia",
+          "ru": "срок полномочий"
+        },
+        "words": [
+          "Son",
+          "mandat",
+          "s’achève,",
+          "néanmoins",
+          "il",
+          "brigue",
+          "un",
+          "second",
+          "quinquennat."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-ord-6",
+        "fr": "La représentation des territoires ruraux demeure un enjeu du débat électoral.",
+        "l2": "La représentation des territoires ruraux demeure un enjeu du débat électoral.",
+        "en": "representation",
+        "gloss": {
+          "en": "representation",
+          "es": "representación",
+          "ru": "представительство"
+        },
+        "words": [
+          "La",
+          "représentation",
+          "des",
+          "territoires",
+          "ruraux",
+          "demeure",
+          "un",
+          "enjeu",
+          "du",
+          "débat",
+          "électoral."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-ord-7",
+        "fr": "La manifestation a rassemblé des milliers de personnes malgré la pluie.",
+        "l2": "La manifestation a rassemblé des milliers de personnes malgré la pluie.",
+        "en": "protest / demonstration",
+        "gloss": {
+          "en": "protest / demonstration",
+          "es": "protesta / manifestación",
+          "ru": "протест/демонстрация"
+        },
+        "words": [
+          "La",
+          "manifestation",
+          "a",
+          "rassemblé",
+          "des",
+          "milliers",
+          "de",
+          "personnes",
+          "malgré",
+          "la",
+          "pluie."
+        ]
+      },
+      {
+        "id": "remote-politics-b2-ord-8",
+        "fr": "L’abstention record interroge la légitimité du scrutin aux yeux de certains.",
+        "l2": "L’abstention record interroge la légitimité du scrutin aux yeux de certains.",
+        "en": "abstention",
+        "gloss": {
+          "en": "abstention",
+          "es": "abstención",
+          "ru": "воздержание"
+        },
+        "words": [
+          "L’abstention",
+          "record",
+          "interroge",
+          "la",
+          "légitimité",
+          "du",
+          "scrutin",
+          "aux",
+          "yeux",
+          "de",
+          "certains."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-politics-b2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "e.lɛk.sjɔ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "élection",
+          "l2": "élection",
+          "en": "election",
+          "gloss": {
+            "en": "election",
+            "es": "elección",
+            "ru": "выборы"
+          },
+          "ipa": "e.lɛk.sjɔ̃"
+        },
+        {
+          "fr": "scrutin",
+          "l2": "scrutin",
+          "en": "ballot / vote",
+          "gloss": {
+            "en": "ballot / vote",
+            "es": "boleta / voto",
+            "ru": "голосование / голосование"
+          },
+          "ipa": "skʁy.tɛ̃"
+        },
+        {
+          "fr": "citoyenneté",
+          "l2": "citoyenneté",
+          "en": "citizenship",
+          "gloss": {
+            "en": "citizenship",
+            "es": "ciudadanía",
+            "ru": "гражданство"
+          },
+          "ipa": "si.twa.jɛn.te"
+        },
+        {
+          "fr": "suffrage",
+          "l2": "suffrage",
+          "en": "suffrage",
+          "gloss": {
+            "en": "suffrage",
+            "es": "sufragio",
+            "ru": "избирательное право"
+          },
+          "ipa": "sy.fʁaʒ"
+        },
+        {
+          "fr": "mandat",
+          "l2": "mandat",
+          "en": "term of office",
+          "gloss": {
+            "en": "term of office",
+            "es": "cadencia",
+            "ru": "срок полномочий"
+          },
+          "ipa": "mɑ̃.da"
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "admin-b1",
-  "version": 4,
+  "version": 5,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "manque",
             "faut",
             "a"
-          ]
+          ],
+          "gloss": {
+            "en": "He ___ a proof.",
+            "es": "Él ___ una prueba.",
+            "ru": "Он ___ доказательство."
+          },
+          "why": {
+            "fr": "Réponse : « manque ».",
+            "en": "Answer: “manque”.",
+            "es": "Respuesta: « manque ».",
+            "ru": "Ответ: « manque »."
+          }
         },
         {
           "id": "remote-admin-gq-2",
@@ -537,7 +548,18 @@
             "faut",
             "manque",
             "a"
-          ]
+          ],
+          "gloss": {
+            "en": "He ___ sign the form.",
+            "es": "Él ___ firma el formulario.",
+            "ru": "Он ___ подписывает форму."
+          },
+          "why": {
+            "fr": "Réponse : « faut ».",
+            "en": "Answer: “faut”.",
+            "es": "Respuesta: « faut ».",
+            "ru": "Ответ: « faut »."
+          }
         },
         {
           "id": "remote-admin-gq-3",
@@ -547,13 +569,25 @@
             "erreur",
             "démarche",
             "attestation"
-          ]
+          ],
+          "gloss": {
+            "en": "There is a ___ on my name.",
+            "es": "Il y a une ___ sur mon nom.",
+            "ru": "В моем имени есть ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « erreur ».",
+            "en": "Answer: “erreur”.",
+            "es": "Respuesta: « erreur ».",
+            "ru": "Ответ: « erreur »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Il manque and il faut.",
         "es": "Útil cuando es necesario aplicar: Il manque e il faut.",
-        "ru": "Полезно, когда нужно применить: Il manque и il faut."
+        "ru": "Полезно, когда нужно применить: Il manque и il faut.",
+        "fr": "Utile pour appliquer : Il manque / il faut."
       }
     },
     {
@@ -606,7 +640,18 @@
             "dans",
             "depuis",
             "en"
-          ]
+          ],
+          "gloss": {
+            "en": "The passport expires ___ six months.",
+            "es": "El pasaporte vence ___ seis meses.",
+            "ru": "Срок действия паспорта истекает ___ шесть месяцев."
+          },
+          "why": {
+            "fr": "Réponse : « dans ».",
+            "en": "Answer: “dans”.",
+            "es": "Respuesta: « dans ».",
+            "ru": "Ответ: « dans »."
+          }
         },
         {
           "id": "remote-admin-gq-5",
@@ -616,13 +661,25 @@
             "en",
             "depuis",
             "il y a"
-          ]
+          ],
+          "gloss": {
+            "en": "Le traitement se fait ___ six semaines.",
+            "es": "El tratamiento dura ___ seis semanas.",
+            "ru": "Лечение занимает ___ шесть недель."
+          },
+          "why": {
+            "fr": "Réponse : « en ».",
+            "en": "Answer: “en”.",
+            "es": "Respuesta: « en ».",
+            "ru": "Ответ: « en »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Time prepositions for admin delays.",
         "es": "Útil cuando necesita presentar una solicitud: preposiciones de tiempo para retrasos administrativos.",
-        "ru": "Полезно, когда вам нужно подать заявку: Предлоги времени для административных задержек."
+        "ru": "Полезно, когда вам нужно подать заявку: Предлоги времени для административных задержек.",
+        "fr": "Utile pour appliquer : Depuis / dans / en pour les délais."
       }
     }
   ],
@@ -877,6 +934,823 @@
         },
         "l2": "accueil"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-admin-fren-1",
+        "fr": "démarche",
+        "en": "administrative step",
+        "gloss": {
+          "en": "administrative step",
+          "es": "paso administrativo",
+          "ru": "административный шаг"
+        },
+        "l2": "démarche"
+      },
+      {
+        "id": "remote-admin-fren-2",
+        "fr": "formulaire",
+        "en": "form",
+        "gloss": {
+          "en": "form",
+          "es": "forma",
+          "ru": "форма"
+        },
+        "l2": "formulaire"
+      },
+      {
+        "id": "remote-admin-fren-3",
+        "fr": "dossier",
+        "en": "file",
+        "gloss": {
+          "en": "file",
+          "es": "archivo",
+          "ru": "файл"
+        },
+        "l2": "dossier"
+      },
+      {
+        "id": "remote-admin-fren-4",
+        "fr": "pièce d’identité",
+        "en": "ID document",
+        "gloss": {
+          "en": "ID document",
+          "es": "documento de identidad",
+          "ru": "документ, удостоверяющий личность"
+        },
+        "l2": "pièce d’identité"
+      },
+      {
+        "id": "remote-admin-fren-5",
+        "fr": "passeport",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        },
+        "l2": "passeport"
+      },
+      {
+        "id": "remote-admin-fren-6",
+        "fr": "justificatif",
+        "en": "supporting document",
+        "gloss": {
+          "en": "supporting document",
+          "es": "documento de respaldo",
+          "ru": "подтверждающий документ"
+        },
+        "l2": "justificatif"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-admin-b1-enl2-1",
+        "fr": "Cette démarche se fait entièrement en ligne.",
+        "l2": "Cette démarche se fait entièrement en ligne.",
+        "en": "administrative step",
+        "gloss": {
+          "en": "administrative step",
+          "es": "paso administrativo",
+          "ru": "административный шаг"
+        },
+        "prompt": "administrative step",
+        "choices": [
+          "Cette démarche se fait entièrement en ligne.",
+          "Le formulaire demande trop de pièces jointes.",
+          "Mon dossier n’est pas encore complet."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-enl2-2",
+        "fr": "Le formulaire demande trop de pièces jointes.",
+        "l2": "Le formulaire demande trop de pièces jointes.",
+        "en": "form",
+        "gloss": {
+          "en": "form",
+          "es": "forma",
+          "ru": "форма"
+        },
+        "prompt": "form",
+        "choices": [
+          "Le formulaire demande trop de pièces jointes.",
+          "Cette démarche se fait entièrement en ligne.",
+          "Mon dossier n’est pas encore complet."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-enl2-3",
+        "fr": "Mon dossier n’est pas encore complet.",
+        "l2": "Mon dossier n’est pas encore complet.",
+        "en": "file / application",
+        "gloss": {
+          "en": "file / application",
+          "es": "archivo/aplicación",
+          "ru": "файл/приложение"
+        },
+        "prompt": "file / application",
+        "choices": [
+          "Mon dossier n’est pas encore complet.",
+          "Cette démarche se fait entièrement en ligne.",
+          "Le formulaire demande trop de pièces jointes."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-enl2-4",
+        "fr": "Une pièce d’identité est obligatoire.",
+        "l2": "Une pièce d’identité est obligatoire.",
+        "en": "ID document",
+        "gloss": {
+          "en": "ID document",
+          "es": "documento de identidad",
+          "ru": "документ, удостоверяющий личность"
+        },
+        "prompt": "ID document",
+        "choices": [
+          "Une pièce d’identité est obligatoire.",
+          "Cette démarche se fait entièrement en ligne.",
+          "Le formulaire demande trop de pièces jointes."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-enl2-5",
+        "fr": "Mon passeport expire dans six mois.",
+        "l2": "Mon passeport expire dans six mois.",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        },
+        "prompt": "passport",
+        "choices": [
+          "Mon passeport expire dans six mois.",
+          "Cette démarche se fait entièrement en ligne.",
+          "Le formulaire demande trop de pièces jointes."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-enl2-6",
+        "fr": "Il manque un justificatif de domicile.",
+        "l2": "Il manque un justificatif de domicile.",
+        "en": "supporting document",
+        "gloss": {
+          "en": "supporting document",
+          "es": "documento de respaldo",
+          "ru": "подтверждающий документ"
+        },
+        "prompt": "supporting document",
+        "choices": [
+          "Il manque un justificatif de domicile.",
+          "Cette démarche se fait entièrement en ligne.",
+          "Le formulaire demande trop de pièces jointes."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-enl2-7",
+        "fr": "Le justificatif de domicile date de moins de trois mois.",
+        "l2": "Le justificatif de domicile date de moins de trois mois.",
+        "en": "place of residence",
+        "gloss": {
+          "en": "place of residence",
+          "es": "domicilio",
+          "ru": "место жительства"
+        },
+        "prompt": "place of residence",
+        "choices": [
+          "Le justificatif de domicile date de moins de trois mois.",
+          "Cette démarche se fait entièrement en ligne.",
+          "Le formulaire demande trop de pièces jointes."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-enl2-8",
+        "fr": "Le prochain rendez-vous est dans trois semaines.",
+        "l2": "Le prochain rendez-vous est dans trois semaines.",
+        "en": "appointment",
+        "gloss": {
+          "en": "appointment",
+          "es": "cita",
+          "ru": "встреча"
+        },
+        "prompt": "appointment",
+        "choices": [
+          "Le prochain rendez-vous est dans trois semaines.",
+          "Cette démarche se fait entièrement en ligne.",
+          "Le formulaire demande trop de pièces jointes."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-admin-b1-prm-1",
+        "en": "administrative step",
+        "gloss": {
+          "en": "administrative step",
+          "es": "paso administrativo",
+          "ru": "административный шаг"
+        },
+        "answers": [
+          "démarche",
+          "la démarche"
+        ],
+        "target": "la démarche"
+      },
+      {
+        "id": "remote-admin-b1-prm-2",
+        "en": "form",
+        "gloss": {
+          "en": "form",
+          "es": "forma",
+          "ru": "форма"
+        },
+        "answers": [
+          "formulaire",
+          "le formulaire"
+        ],
+        "target": "le formulaire"
+      },
+      {
+        "id": "remote-admin-b1-prm-3",
+        "en": "file / application",
+        "gloss": {
+          "en": "file / application",
+          "es": "archivo/aplicación",
+          "ru": "файл/приложение"
+        },
+        "answers": [
+          "dossier",
+          "le dossier"
+        ],
+        "target": "le dossier"
+      },
+      {
+        "id": "remote-admin-b1-prm-4",
+        "en": "ID document",
+        "gloss": {
+          "en": "ID document",
+          "es": "documento de identidad",
+          "ru": "документ, удостоверяющий личность"
+        },
+        "answers": [
+          "pièce d’identité",
+          "la pièce d’identité"
+        ],
+        "target": "la pièce d’identité"
+      },
+      {
+        "id": "remote-admin-b1-prm-5",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        },
+        "answers": [
+          "passeport",
+          "le passeport"
+        ],
+        "target": "le passeport"
+      },
+      {
+        "id": "remote-admin-b1-prm-6",
+        "en": "supporting document",
+        "gloss": {
+          "en": "supporting document",
+          "es": "documento de respaldo",
+          "ru": "подтверждающий документ"
+        },
+        "answers": [
+          "justificatif",
+          "le justificatif"
+        ],
+        "target": "le justificatif"
+      },
+      {
+        "id": "remote-admin-b1-prm-7",
+        "en": "place of residence",
+        "gloss": {
+          "en": "place of residence",
+          "es": "domicilio",
+          "ru": "место жительства"
+        },
+        "answers": [
+          "domicile",
+          "le domicile"
+        ],
+        "target": "le domicile"
+      },
+      {
+        "id": "remote-admin-b1-prm-8",
+        "en": "appointment",
+        "gloss": {
+          "en": "appointment",
+          "es": "cita",
+          "ru": "встреча"
+        },
+        "answers": [
+          "rendez-vous",
+          "le rendez-vous"
+        ],
+        "target": "le rendez-vous"
+      },
+      {
+        "id": "remote-admin-b1-prm-9",
+        "en": "counter / desk",
+        "gloss": {
+          "en": "counter / desk",
+          "es": "mostrador / escritorio",
+          "ru": "стойка/стол"
+        },
+        "answers": [
+          "guichet",
+          "le guichet"
+        ],
+        "target": "le guichet"
+      },
+      {
+        "id": "remote-admin-b1-prm-10",
+        "en": "certificate / statement",
+        "gloss": {
+          "en": "certificate / statement",
+          "es": "certificado / declaración",
+          "ru": "сертификат/заявление"
+        },
+        "answers": [
+          "attestation",
+          "l' attestation"
+        ],
+        "target": "l' attestation"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-admin-b1-pair-1",
+        "a": {
+          "fr": "démarche",
+          "l2": "démarche",
+          "en": "administrative step",
+          "gloss": {
+            "en": "administrative step",
+            "es": "paso administrativo",
+            "ru": "административный шаг"
+          }
+        },
+        "b": {
+          "fr": "formulaire",
+          "l2": "formulaire",
+          "en": "form",
+          "gloss": {
+            "en": "form",
+            "es": "forma",
+            "ru": "форма"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-admin-b1-pair-2",
+        "a": {
+          "fr": "dossier",
+          "l2": "dossier",
+          "en": "file / application",
+          "gloss": {
+            "en": "file / application",
+            "es": "archivo/aplicación",
+            "ru": "файл/приложение"
+          }
+        },
+        "b": {
+          "fr": "pièce d’identité",
+          "l2": "pièce d’identité",
+          "en": "ID document",
+          "gloss": {
+            "en": "ID document",
+            "es": "documento de identidad",
+            "ru": "документ, удостоверяющий личность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-admin-b1-pair-3",
+        "a": {
+          "fr": "passeport",
+          "l2": "passeport",
+          "en": "passport",
+          "gloss": {
+            "en": "passport",
+            "es": "pasaporte",
+            "ru": "паспорт"
+          }
+        },
+        "b": {
+          "fr": "justificatif",
+          "l2": "justificatif",
+          "en": "supporting document",
+          "gloss": {
+            "en": "supporting document",
+            "es": "documento de respaldo",
+            "ru": "подтверждающий документ"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-admin-b1-pair-4",
+        "a": {
+          "fr": "domicile",
+          "l2": "domicile",
+          "en": "place of residence",
+          "gloss": {
+            "en": "place of residence",
+            "es": "domicilio",
+            "ru": "место жительства"
+          }
+        },
+        "b": {
+          "fr": "rendez-vous",
+          "l2": "rendez-vous",
+          "en": "appointment",
+          "gloss": {
+            "en": "appointment",
+            "es": "cita",
+            "ru": "встреча"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-admin-b1-pair-5",
+        "a": {
+          "fr": "guichet",
+          "l2": "guichet",
+          "en": "counter / desk",
+          "gloss": {
+            "en": "counter / desk",
+            "es": "mostrador / escritorio",
+            "ru": "стойка/стол"
+          }
+        },
+        "b": {
+          "fr": "attestation",
+          "l2": "attestation",
+          "en": "certificate / statement",
+          "gloss": {
+            "en": "certificate / statement",
+            "es": "certificado / declaración",
+            "ru": "сертификат/заявление"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-admin-b1-gap-1",
+        "fr": "Cette démarche se fait entièrement en ligne.",
+        "l2": "Cette démarche se fait entièrement en ligne.",
+        "speak": "Cette démarche se fait entièrement en ligne.",
+        "blank": "démarche",
+        "en": "administrative step",
+        "gloss": {
+          "en": "administrative step",
+          "es": "paso administrativo",
+          "ru": "административный шаг"
+        }
+      },
+      {
+        "id": "remote-admin-b1-gap-2",
+        "fr": "Le formulaire demande trop de pièces jointes.",
+        "l2": "Le formulaire demande trop de pièces jointes.",
+        "speak": "Le formulaire demande trop de pièces jointes.",
+        "blank": "formulaire",
+        "en": "form",
+        "gloss": {
+          "en": "form",
+          "es": "forma",
+          "ru": "форма"
+        }
+      },
+      {
+        "id": "remote-admin-b1-gap-3",
+        "fr": "Mon dossier n’est pas encore complet.",
+        "l2": "Mon dossier n’est pas encore complet.",
+        "speak": "Mon dossier n’est pas encore complet.",
+        "blank": "dossier",
+        "en": "file / application",
+        "gloss": {
+          "en": "file / application",
+          "es": "archivo/aplicación",
+          "ru": "файл/приложение"
+        }
+      },
+      {
+        "id": "remote-admin-b1-gap-4",
+        "fr": "Une pièce d’identité est obligatoire.",
+        "l2": "Une pièce d’identité est obligatoire.",
+        "speak": "Une pièce d’identité est obligatoire.",
+        "blank": "pièce d’identité",
+        "en": "ID document",
+        "gloss": {
+          "en": "ID document",
+          "es": "documento de identidad",
+          "ru": "документ, удостоверяющий личность"
+        }
+      },
+      {
+        "id": "remote-admin-b1-gap-5",
+        "fr": "Mon passeport expire dans six mois.",
+        "l2": "Mon passeport expire dans six mois.",
+        "speak": "Mon passeport expire dans six mois.",
+        "blank": "passeport",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        }
+      },
+      {
+        "id": "remote-admin-b1-gap-6",
+        "fr": "Il manque un justificatif de domicile.",
+        "l2": "Il manque un justificatif de domicile.",
+        "speak": "Il manque un justificatif de domicile.",
+        "blank": "justificatif",
+        "en": "supporting document",
+        "gloss": {
+          "en": "supporting document",
+          "es": "documento de respaldo",
+          "ru": "подтверждающий документ"
+        }
+      },
+      {
+        "id": "remote-admin-b1-gap-7",
+        "fr": "Le justificatif de domicile date de moins de trois mois.",
+        "l2": "Le justificatif de domicile date de moins de trois mois.",
+        "speak": "Le justificatif de domicile date de moins de trois mois.",
+        "blank": "domicile",
+        "en": "place of residence",
+        "gloss": {
+          "en": "place of residence",
+          "es": "domicilio",
+          "ru": "место жительства"
+        }
+      },
+      {
+        "id": "remote-admin-b1-gap-8",
+        "fr": "Le prochain rendez-vous est dans trois semaines.",
+        "l2": "Le prochain rendez-vous est dans trois semaines.",
+        "speak": "Le prochain rendez-vous est dans trois semaines.",
+        "blank": "rendez-vous",
+        "en": "appointment",
+        "gloss": {
+          "en": "appointment",
+          "es": "cita",
+          "ru": "встреча"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-admin-b1-ord-1",
+        "fr": "Cette démarche se fait entièrement en ligne.",
+        "l2": "Cette démarche se fait entièrement en ligne.",
+        "en": "administrative step",
+        "gloss": {
+          "en": "administrative step",
+          "es": "paso administrativo",
+          "ru": "административный шаг"
+        },
+        "words": [
+          "Cette",
+          "démarche",
+          "se",
+          "fait",
+          "entièrement",
+          "en",
+          "ligne."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-ord-2",
+        "fr": "Le formulaire demande trop de pièces jointes.",
+        "l2": "Le formulaire demande trop de pièces jointes.",
+        "en": "form",
+        "gloss": {
+          "en": "form",
+          "es": "forma",
+          "ru": "форма"
+        },
+        "words": [
+          "Le",
+          "formulaire",
+          "demande",
+          "trop",
+          "de",
+          "pièces",
+          "jointes."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-ord-3",
+        "fr": "Mon dossier n’est pas encore complet.",
+        "l2": "Mon dossier n’est pas encore complet.",
+        "en": "file / application",
+        "gloss": {
+          "en": "file / application",
+          "es": "archivo/aplicación",
+          "ru": "файл/приложение"
+        },
+        "words": [
+          "Mon",
+          "dossier",
+          "n’est",
+          "pas",
+          "encore",
+          "complet."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-ord-4",
+        "fr": "Une pièce d’identité est obligatoire.",
+        "l2": "Une pièce d’identité est obligatoire.",
+        "en": "ID document",
+        "gloss": {
+          "en": "ID document",
+          "es": "documento de identidad",
+          "ru": "документ, удостоверяющий личность"
+        },
+        "words": [
+          "Une",
+          "pièce",
+          "d’identité",
+          "est",
+          "obligatoire."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-ord-5",
+        "fr": "Mon passeport expire dans six mois.",
+        "l2": "Mon passeport expire dans six mois.",
+        "en": "passport",
+        "gloss": {
+          "en": "passport",
+          "es": "pasaporte",
+          "ru": "паспорт"
+        },
+        "words": [
+          "Mon",
+          "passeport",
+          "expire",
+          "dans",
+          "six",
+          "mois."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-ord-6",
+        "fr": "Il manque un justificatif de domicile.",
+        "l2": "Il manque un justificatif de domicile.",
+        "en": "supporting document",
+        "gloss": {
+          "en": "supporting document",
+          "es": "documento de respaldo",
+          "ru": "подтверждающий документ"
+        },
+        "words": [
+          "Il",
+          "manque",
+          "un",
+          "justificatif",
+          "de",
+          "domicile."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-ord-7",
+        "fr": "Le justificatif de domicile date de moins de trois mois.",
+        "l2": "Le justificatif de domicile date de moins de trois mois.",
+        "en": "place of residence",
+        "gloss": {
+          "en": "place of residence",
+          "es": "domicilio",
+          "ru": "место жительства"
+        },
+        "words": [
+          "Le",
+          "justificatif",
+          "de",
+          "domicile",
+          "date",
+          "de",
+          "moins",
+          "de",
+          "trois",
+          "mois."
+        ]
+      },
+      {
+        "id": "remote-admin-b1-ord-8",
+        "fr": "Le prochain rendez-vous est dans trois semaines.",
+        "l2": "Le prochain rendez-vous est dans trois semaines.",
+        "en": "appointment",
+        "gloss": {
+          "en": "appointment",
+          "es": "cita",
+          "ru": "встреча"
+        },
+        "words": [
+          "Le",
+          "prochain",
+          "rendez-vous",
+          "est",
+          "dans",
+          "trois",
+          "semaines."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-admin-b1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "de.maʁʃ",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "démarche",
+          "l2": "démarche",
+          "en": "administrative step",
+          "gloss": {
+            "en": "administrative step",
+            "es": "paso administrativo",
+            "ru": "административный шаг"
+          },
+          "ipa": "de.maʁʃ"
+        },
+        {
+          "fr": "formulaire",
+          "l2": "formulaire",
+          "en": "form",
+          "gloss": {
+            "en": "form",
+            "es": "forma",
+            "ru": "форма"
+          },
+          "ipa": "fɔʁ.my.lɛʁ"
+        },
+        {
+          "fr": "dossier",
+          "l2": "dossier",
+          "en": "file / application",
+          "gloss": {
+            "en": "file / application",
+            "es": "archivo/aplicación",
+            "ru": "файл/приложение"
+          },
+          "ipa": "dɔ.sje"
+        },
+        {
+          "fr": "pièce d’identité",
+          "l2": "pièce d’identité",
+          "en": "ID document",
+          "gloss": {
+            "en": "ID document",
+            "es": "documento de identidad",
+            "ru": "документ, удостоверяющий личность"
+          },
+          "ipa": "pjɛs di.dɑ̃.ti.te"
+        },
+        {
+          "fr": "passeport",
+          "l2": "passeport",
+          "en": "passport",
+          "gloss": {
+            "en": "passport",
+            "es": "pasaporte",
+            "ru": "паспорт"
+          },
+          "ipa": "pas.pɔʁ"
+        }
+      ]
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "ethics-c1",
-  "version": 4,
+  "version": 5,
   "level": "c1",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "Il convient",
             "Il faut que tu",
             "On kiffe"
-          ]
+          ],
+          "gloss": {
+            "en": "___ to distinguish the dilemma from a simple trade-off.",
+            "es": "___ para distinguir el dilema de una simple compensación.",
+            "ru": "___ , чтобы отличить дилемму от простого компромисса."
+          },
+          "why": {
+            "fr": "Réponse : « Il convient ».",
+            "en": "Answer: “Il convient”.",
+            "es": "Respuesta: « Il convient ».",
+            "ru": "Ответ: « Il convient »."
+          }
         },
         {
           "id": "remote-ethics-gq-2",
@@ -537,7 +548,18 @@
             "incombe",
             "convient",
             "faut"
-          ]
+          ],
+          "gloss": {
+            "en": "Il ___ à l’institution de protéger le lanceur d’alerte.",
+            "es": "Es ___ la institución para proteger al denunciante.",
+            "ru": "Это ___ учреждение по защите информаторов."
+          },
+          "why": {
+            "fr": "Réponse : « incombe ».",
+            "en": "Answer: “incombe”.",
+            "es": "Respuesta: « incombe ».",
+            "ru": "Ответ: « incombe »."
+          }
         },
         {
           "id": "remote-ethics-gq-3",
@@ -547,13 +569,25 @@
             "Je",
             "On",
             "Ça"
-          ]
+          ],
+          "gloss": {
+            "en": "___ takes responsibility for this decision, rather than diluting it in the on.",
+            "es": "___ asume la responsabilidad de esta decisión, en lugar de diluirla en el.",
+            "ru": "___ берет на себя ответственность за это решение, а не растворяет его в себе."
+          },
+          "why": {
+            "fr": "Réponse : « Je ».",
+            "en": "Answer: “Je”.",
+            "es": "Respuesta: « Je ».",
+            "ru": "Ответ: « Je »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Register shifts.",
         "es": "Útil cuando necesitas postular: Registrar turnos.",
-        "ru": "Полезно, когда вам нужно подать заявку: Зарегистрируйте смены."
+        "ru": "Полезно, когда вам нужно подать заявку: Зарегистрируйте смены.",
+        "fr": "Utile pour appliquer : Glissements de registre."
       }
     },
     {
@@ -606,7 +640,18 @@
             "d’",
             "de",
             "à"
-          ]
+          ],
+          "gloss": {
+            "en": "Loin ___ absoudre l’institution, l’intégrité individuelle ne suffit pas.",
+            "es": "Lejos de absolver a la institución, la integridad individual no es suficiente.",
+            "ru": "Если ___ освобождает учреждение, индивидуальной честности недостаточно."
+          },
+          "why": {
+            "fr": "Réponse : « d’ ».",
+            "en": "Answer: “d’”.",
+            "es": "Respuesta: « d’ ».",
+            "ru": "Ответ: « d’ »."
+          }
         },
         {
           "id": "remote-ethics-gq-5",
@@ -616,13 +661,25 @@
             "Quitte à",
             "Loin de",
             "À moins que"
-          ]
+          ],
+          "gloss": {
+            "en": "___ breaking confidentiality, alert prevents serious harm.",
+            "es": "___ romper la confidencialidad, alerta evita daños graves.",
+            "ru": "___ нарушение конфиденциальности, предупреждение предотвращает серьезный вред."
+          },
+          "why": {
+            "fr": "Réponse : « Quitte à ».",
+            "en": "Answer: “Quitte à”.",
+            "es": "Respuesta: « Quitte à ».",
+            "ru": "Ответ: « Quitte à »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Loin de / quitte à in ethical argument.",
         "es": "Útil cuando es necesario aplicar: Loin de / quitte à en argumento ético.",
-        "ru": "Полезно, когда вам нужно применить: Loin de / quitte à в этическом споре."
+        "ru": "Полезно, когда вам нужно применить: Loin de / quitte à в этическом споре.",
+        "fr": "Utile pour appliquer : Loin de / quitte à en argumentation éthique."
       }
     }
   ],
@@ -853,6 +910,1096 @@
         },
         "l2": "Quitte à rompre la confidentialité, l’alerte prévient un préjudice grave."
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-ethics-fren-1",
+        "fr": "consentement",
+        "en": "consent",
+        "gloss": {
+          "en": "consent",
+          "es": "consentir",
+          "ru": "согласие"
+        },
+        "l2": "consentement"
+      },
+      {
+        "id": "remote-ethics-fren-2",
+        "fr": "dilemme",
+        "en": "dilemma",
+        "gloss": {
+          "en": "dilemma",
+          "es": "dilema",
+          "ru": "дилемма"
+        },
+        "l2": "dilemme"
+      },
+      {
+        "id": "remote-ethics-fren-3",
+        "fr": "responsabilité",
+        "en": "responsibility",
+        "gloss": {
+          "en": "responsibility",
+          "es": "responsabilidad",
+          "ru": "ответственность"
+        },
+        "l2": "responsabilité"
+      },
+      {
+        "id": "remote-ethics-fren-4",
+        "fr": "intégrité",
+        "en": "integrity",
+        "gloss": {
+          "en": "integrity",
+          "es": "integridad",
+          "ru": "честность"
+        },
+        "l2": "intégrité"
+      },
+      {
+        "id": "remote-ethics-fren-5",
+        "fr": "lanceur d’alerte",
+        "en": "whistleblower",
+        "gloss": {
+          "en": "whistleblower",
+          "es": "denunciante",
+          "ru": "осведомитель"
+        },
+        "l2": "lanceur d’alerte"
+      },
+      {
+        "id": "remote-ethics-fren-6",
+        "fr": "impartialité",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        },
+        "l2": "impartialité"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-ethics-c1-enl2-1",
+        "fr": "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+        "l2": "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+        "en": "consent",
+        "gloss": {
+          "en": "consent",
+          "es": "consentir",
+          "ru": "согласие"
+        },
+        "prompt": "consent",
+        "choices": [
+          "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+          "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+          "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-enl2-2",
+        "fr": "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+        "l2": "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+        "en": "dilemma",
+        "gloss": {
+          "en": "dilemma",
+          "es": "dilema",
+          "ru": "дилемма"
+        },
+        "prompt": "dilemma",
+        "choices": [
+          "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+          "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+          "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-enl2-3",
+        "fr": "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
+        "l2": "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
+        "en": "responsibility",
+        "gloss": {
+          "en": "responsibility",
+          "es": "responsabilidad",
+          "ru": "ответственность"
+        },
+        "prompt": "responsibility",
+        "choices": [
+          "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
+          "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+          "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-enl2-4",
+        "fr": "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
+        "l2": "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
+        "en": "integrity",
+        "gloss": {
+          "en": "integrity",
+          "es": "integridad",
+          "ru": "честность"
+        },
+        "prompt": "integrity",
+        "choices": [
+          "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
+          "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+          "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-enl2-5",
+        "fr": "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
+        "l2": "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
+        "en": "whistleblower",
+        "gloss": {
+          "en": "whistleblower",
+          "es": "denunciante",
+          "ru": "осведомитель"
+        },
+        "prompt": "whistleblower",
+        "choices": [
+          "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
+          "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+          "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-enl2-6",
+        "fr": "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
+        "l2": "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        },
+        "prompt": "impartiality",
+        "choices": [
+          "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
+          "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+          "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-enl2-7",
+        "fr": "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
+        "l2": "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
+        "en": "conflict of interest",
+        "gloss": {
+          "en": "conflict of interest",
+          "es": "incompatibilidad",
+          "ru": "конфликт интересов"
+        },
+        "prompt": "conflict of interest",
+        "choices": [
+          "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
+          "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+          "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-enl2-8",
+        "fr": "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
+        "l2": "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
+        "en": "professional ethics",
+        "gloss": {
+          "en": "professional ethics",
+          "es": "ética profesional",
+          "ru": "профессиональная этика"
+        },
+        "prompt": "professional ethics",
+        "choices": [
+          "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
+          "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+          "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-ethics-c1-prm-1",
+        "en": "consent",
+        "gloss": {
+          "en": "consent",
+          "es": "consentir",
+          "ru": "согласие"
+        },
+        "answers": [
+          "consentement",
+          "le consentement"
+        ],
+        "target": "le consentement"
+      },
+      {
+        "id": "remote-ethics-c1-prm-2",
+        "en": "dilemma",
+        "gloss": {
+          "en": "dilemma",
+          "es": "dilema",
+          "ru": "дилемма"
+        },
+        "answers": [
+          "dilemme",
+          "le dilemme"
+        ],
+        "target": "le dilemme"
+      },
+      {
+        "id": "remote-ethics-c1-prm-3",
+        "en": "responsibility",
+        "gloss": {
+          "en": "responsibility",
+          "es": "responsabilidad",
+          "ru": "ответственность"
+        },
+        "answers": [
+          "responsabilité",
+          "la responsabilité"
+        ],
+        "target": "la responsabilité"
+      },
+      {
+        "id": "remote-ethics-c1-prm-4",
+        "en": "integrity",
+        "gloss": {
+          "en": "integrity",
+          "es": "integridad",
+          "ru": "честность"
+        },
+        "answers": [
+          "intégrité",
+          "l' intégrité"
+        ],
+        "target": "l' intégrité"
+      },
+      {
+        "id": "remote-ethics-c1-prm-5",
+        "en": "whistleblower",
+        "gloss": {
+          "en": "whistleblower",
+          "es": "denunciante",
+          "ru": "осведомитель"
+        },
+        "answers": [
+          "lanceur d’alerte",
+          "le lanceur d’alerte"
+        ],
+        "target": "le lanceur d’alerte"
+      },
+      {
+        "id": "remote-ethics-c1-prm-6",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        },
+        "answers": [
+          "impartialité",
+          "l' impartialité"
+        ],
+        "target": "l' impartialité"
+      },
+      {
+        "id": "remote-ethics-c1-prm-7",
+        "en": "conflict of interest",
+        "gloss": {
+          "en": "conflict of interest",
+          "es": "incompatibilidad",
+          "ru": "конфликт интересов"
+        },
+        "answers": [
+          "conflit d’intérêts",
+          "le conflit d’intérêts"
+        ],
+        "target": "le conflit d’intérêts"
+      },
+      {
+        "id": "remote-ethics-c1-prm-8",
+        "en": "professional ethics",
+        "gloss": {
+          "en": "professional ethics",
+          "es": "ética profesional",
+          "ru": "профессиональная этика"
+        },
+        "answers": [
+          "déontologie",
+          "la déontologie"
+        ],
+        "target": "la déontologie"
+      },
+      {
+        "id": "remote-ethics-c1-prm-9",
+        "en": "accountability",
+        "gloss": {
+          "en": "accountability",
+          "es": "responsabilidad",
+          "ru": "подотчетность"
+        },
+        "answers": [
+          "redevabilité",
+          "la redevabilité"
+        ],
+        "target": "la redevabilité"
+      },
+      {
+        "id": "remote-ethics-c1-prm-10",
+        "en": "beneficence",
+        "gloss": {
+          "en": "beneficence",
+          "es": "beneficencia",
+          "ru": "благодеяние"
+        },
+        "answers": [
+          "bienfaisance",
+          "la bienfaisance"
+        ],
+        "target": "la bienfaisance"
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-ethics-c1-sign-1",
+        "fr": "consentement",
+        "l2": "consentement",
+        "en": "consent",
+        "gloss": {
+          "en": "consent",
+          "es": "consentir",
+          "ru": "согласие"
+        },
+        "choices": [
+          "consent",
+          "dilemma",
+          "responsibility"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-2",
+        "fr": "dilemme",
+        "l2": "dilemme",
+        "en": "dilemma",
+        "gloss": {
+          "en": "dilemma",
+          "es": "dilema",
+          "ru": "дилемма"
+        },
+        "choices": [
+          "dilemma",
+          "consent",
+          "responsibility"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-3",
+        "fr": "responsabilité",
+        "l2": "responsabilité",
+        "en": "responsibility",
+        "gloss": {
+          "en": "responsibility",
+          "es": "responsabilidad",
+          "ru": "ответственность"
+        },
+        "choices": [
+          "responsibility",
+          "consent",
+          "dilemma"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-4",
+        "fr": "intégrité",
+        "l2": "intégrité",
+        "en": "integrity",
+        "gloss": {
+          "en": "integrity",
+          "es": "integridad",
+          "ru": "честность"
+        },
+        "choices": [
+          "integrity",
+          "consent",
+          "dilemma"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-5",
+        "fr": "lanceur d’alerte",
+        "l2": "lanceur d’alerte",
+        "en": "whistleblower",
+        "gloss": {
+          "en": "whistleblower",
+          "es": "denunciante",
+          "ru": "осведомитель"
+        },
+        "choices": [
+          "whistleblower",
+          "consent",
+          "dilemma"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-6",
+        "fr": "impartialité",
+        "l2": "impartialité",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        },
+        "choices": [
+          "impartiality",
+          "consent",
+          "dilemma"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-7",
+        "fr": "conflit d’intérêts",
+        "l2": "conflit d’intérêts",
+        "en": "conflict of interest",
+        "gloss": {
+          "en": "conflict of interest",
+          "es": "incompatibilidad",
+          "ru": "конфликт интересов"
+        },
+        "choices": [
+          "conflict of interest",
+          "consent",
+          "dilemma"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-8",
+        "fr": "déontologie",
+        "l2": "déontologie",
+        "en": "professional ethics",
+        "gloss": {
+          "en": "professional ethics",
+          "es": "ética profesional",
+          "ru": "профессиональная этика"
+        },
+        "choices": [
+          "professional ethics",
+          "consent",
+          "dilemma"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-9",
+        "fr": "redevabilité",
+        "l2": "redevabilité",
+        "en": "accountability",
+        "gloss": {
+          "en": "accountability",
+          "es": "responsabilidad",
+          "ru": "подотчетность"
+        },
+        "choices": [
+          "accountability",
+          "consent",
+          "dilemma"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-10",
+        "fr": "bienfaisance",
+        "l2": "bienfaisance",
+        "en": "beneficence",
+        "gloss": {
+          "en": "beneficence",
+          "es": "beneficencia",
+          "ru": "благодеяние"
+        },
+        "choices": [
+          "beneficence",
+          "consent",
+          "dilemma"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-11",
+        "fr": "autonomie",
+        "l2": "autonomie",
+        "en": "autonomy",
+        "gloss": {
+          "en": "autonomy",
+          "es": "autonomía",
+          "ru": "автономия"
+        },
+        "choices": [
+          "autonomy",
+          "consent",
+          "dilemma"
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-sign-12",
+        "fr": "préjudice",
+        "l2": "préjudice",
+        "en": "harm",
+        "gloss": {
+          "en": "harm",
+          "es": "dañar",
+          "ru": "вред"
+        },
+        "choices": [
+          "harm",
+          "consent",
+          "dilemma"
+        ]
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-ethics-c1-pair-1",
+        "a": {
+          "fr": "consentement",
+          "l2": "consentement",
+          "en": "consent",
+          "gloss": {
+            "en": "consent",
+            "es": "consentir",
+            "ru": "согласие"
+          }
+        },
+        "b": {
+          "fr": "dilemme",
+          "l2": "dilemme",
+          "en": "dilemma",
+          "gloss": {
+            "en": "dilemma",
+            "es": "dilema",
+            "ru": "дилемма"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-ethics-c1-pair-2",
+        "a": {
+          "fr": "responsabilité",
+          "l2": "responsabilité",
+          "en": "responsibility",
+          "gloss": {
+            "en": "responsibility",
+            "es": "responsabilidad",
+            "ru": "ответственность"
+          }
+        },
+        "b": {
+          "fr": "intégrité",
+          "l2": "intégrité",
+          "en": "integrity",
+          "gloss": {
+            "en": "integrity",
+            "es": "integridad",
+            "ru": "честность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-ethics-c1-pair-3",
+        "a": {
+          "fr": "lanceur d’alerte",
+          "l2": "lanceur d’alerte",
+          "en": "whistleblower",
+          "gloss": {
+            "en": "whistleblower",
+            "es": "denunciante",
+            "ru": "осведомитель"
+          }
+        },
+        "b": {
+          "fr": "impartialité",
+          "l2": "impartialité",
+          "en": "impartiality",
+          "gloss": {
+            "en": "impartiality",
+            "es": "imparcialidad",
+            "ru": "беспристрастность"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-ethics-c1-pair-4",
+        "a": {
+          "fr": "conflit d’intérêts",
+          "l2": "conflit d’intérêts",
+          "en": "conflict of interest",
+          "gloss": {
+            "en": "conflict of interest",
+            "es": "incompatibilidad",
+            "ru": "конфликт интересов"
+          }
+        },
+        "b": {
+          "fr": "déontologie",
+          "l2": "déontologie",
+          "en": "professional ethics",
+          "gloss": {
+            "en": "professional ethics",
+            "es": "ética profesional",
+            "ru": "профессиональная этика"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-ethics-c1-pair-5",
+        "a": {
+          "fr": "redevabilité",
+          "l2": "redevabilité",
+          "en": "accountability",
+          "gloss": {
+            "en": "accountability",
+            "es": "responsabilidad",
+            "ru": "подотчетность"
+          }
+        },
+        "b": {
+          "fr": "bienfaisance",
+          "l2": "bienfaisance",
+          "en": "beneficence",
+          "gloss": {
+            "en": "beneficence",
+            "es": "beneficencia",
+            "ru": "благодеяние"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-ethics-c1-gap-1",
+        "fr": "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+        "l2": "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+        "speak": "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+        "blank": "consentement",
+        "en": "consent",
+        "gloss": {
+          "en": "consent",
+          "es": "consentir",
+          "ru": "согласие"
+        }
+      },
+      {
+        "id": "remote-ethics-c1-gap-2",
+        "fr": "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+        "l2": "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+        "speak": "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+        "blank": "dilemme",
+        "en": "dilemma",
+        "gloss": {
+          "en": "dilemma",
+          "es": "dilema",
+          "ru": "дилемма"
+        }
+      },
+      {
+        "id": "remote-ethics-c1-gap-3",
+        "fr": "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
+        "l2": "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
+        "speak": "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
+        "blank": "responsabilité",
+        "en": "responsibility",
+        "gloss": {
+          "en": "responsibility",
+          "es": "responsabilidad",
+          "ru": "ответственность"
+        }
+      },
+      {
+        "id": "remote-ethics-c1-gap-4",
+        "fr": "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
+        "l2": "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
+        "speak": "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
+        "blank": "intégrité",
+        "en": "integrity",
+        "gloss": {
+          "en": "integrity",
+          "es": "integridad",
+          "ru": "честность"
+        }
+      },
+      {
+        "id": "remote-ethics-c1-gap-5",
+        "fr": "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
+        "l2": "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
+        "speak": "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
+        "blank": "lanceur d’alerte",
+        "en": "whistleblower",
+        "gloss": {
+          "en": "whistleblower",
+          "es": "denunciante",
+          "ru": "осведомитель"
+        }
+      },
+      {
+        "id": "remote-ethics-c1-gap-6",
+        "fr": "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
+        "l2": "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
+        "speak": "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
+        "blank": "impartialité",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        }
+      },
+      {
+        "id": "remote-ethics-c1-gap-7",
+        "fr": "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
+        "l2": "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
+        "speak": "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
+        "blank": "conflit d’intérêts",
+        "en": "conflict of interest",
+        "gloss": {
+          "en": "conflict of interest",
+          "es": "incompatibilidad",
+          "ru": "конфликт интересов"
+        }
+      },
+      {
+        "id": "remote-ethics-c1-gap-8",
+        "fr": "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
+        "l2": "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
+        "speak": "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
+        "blank": "déontologie",
+        "en": "professional ethics",
+        "gloss": {
+          "en": "professional ethics",
+          "es": "ética profesional",
+          "ru": "профессиональная этика"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-ethics-c1-ord-1",
+        "fr": "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+        "l2": "Le consentement, loin d’être un simple paraphe, suppose une information dont la portée réelle reste saisissable.",
+        "en": "consent",
+        "gloss": {
+          "en": "consent",
+          "es": "consentir",
+          "ru": "согласие"
+        },
+        "words": [
+          "Le",
+          "consentement,",
+          "loin",
+          "d’être",
+          "un",
+          "simple",
+          "paraphe,",
+          "suppose",
+          "une",
+          "information",
+          "dont",
+          "la",
+          "portée",
+          "réelle",
+          "reste",
+          "saisissable."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-ord-2",
+        "fr": "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+        "l2": "Ce dilemme, encore qu’il soit présenté comme insoluble, dissimule souvent un arbitrage de responsabilités.",
+        "en": "dilemma",
+        "gloss": {
+          "en": "dilemma",
+          "es": "dilema",
+          "ru": "дилемма"
+        },
+        "words": [
+          "Ce",
+          "dilemme,",
+          "encore",
+          "qu’il",
+          "soit",
+          "présenté",
+          "comme",
+          "insoluble,",
+          "dissimule",
+          "souvent",
+          "un",
+          "arbitrage",
+          "de",
+          "responsabilités."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-ord-3",
+        "fr": "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
+        "l2": "La responsabilité, quitte à peser davantage sur l’agent le plus visible, ne saurait absoudre la complicité structurelle.",
+        "en": "responsibility",
+        "gloss": {
+          "en": "responsibility",
+          "es": "responsabilidad",
+          "ru": "ответственность"
+        },
+        "words": [
+          "La",
+          "responsabilité,",
+          "quitte",
+          "à",
+          "peser",
+          "davantage",
+          "sur",
+          "l’agent",
+          "le",
+          "plus",
+          "visible,",
+          "ne",
+          "saurait",
+          "absoudre",
+          "la",
+          "complicité",
+          "structurelle."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-ord-4",
+        "fr": "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
+        "l2": "L’intégrité, à moins qu’on ne la réduise à une conformité, exige une cohérence entre principes affichés et pratiques.",
+        "en": "integrity",
+        "gloss": {
+          "en": "integrity",
+          "es": "integridad",
+          "ru": "честность"
+        },
+        "words": [
+          "L’intégrité,",
+          "à",
+          "moins",
+          "qu’on",
+          "ne",
+          "la",
+          "réduise",
+          "à",
+          "une",
+          "conformité,",
+          "exige",
+          "une",
+          "cohérence",
+          "entre",
+          "principes",
+          "affichés",
+          "et",
+          "pratiques."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-ord-5",
+        "fr": "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
+        "l2": "Le lanceur d’alerte, dont la vulnérabilité est le corollaire du devoir de vérité, dépend d’un dispositif de protection.",
+        "en": "whistleblower",
+        "gloss": {
+          "en": "whistleblower",
+          "es": "denunciante",
+          "ru": "осведомитель"
+        },
+        "words": [
+          "Le",
+          "lanceur",
+          "d’alerte,",
+          "dont",
+          "la",
+          "vulnérabilité",
+          "est",
+          "le",
+          "corollaire",
+          "du",
+          "devoir",
+          "de",
+          "vérité,",
+          "dépend",
+          "d’un",
+          "dispositif",
+          "de",
+          "protection."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-ord-6",
+        "fr": "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
+        "l2": "L’impartialité, loin d’être une neutralité vide, consiste à rendre visibles les conflits d’intérêts que l’on tranchera.",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        },
+        "words": [
+          "L’impartialité,",
+          "loin",
+          "d’être",
+          "une",
+          "neutralité",
+          "vide,",
+          "consiste",
+          "à",
+          "rendre",
+          "visibles",
+          "les",
+          "conflits",
+          "d’intérêts",
+          "que",
+          "l’on",
+          "tranchera."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-ord-7",
+        "fr": "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
+        "l2": "Le conflit d’intérêts, encore qu’il soit déclaré, continue d’orienter l’arbitrage si nulle déportation n’est exigée.",
+        "en": "conflict of interest",
+        "gloss": {
+          "en": "conflict of interest",
+          "es": "incompatibilidad",
+          "ru": "конфликт интересов"
+        },
+        "words": [
+          "Le",
+          "conflit",
+          "d’intérêts,",
+          "encore",
+          "qu’il",
+          "soit",
+          "déclaré,",
+          "continue",
+          "d’orienter",
+          "l’arbitrage",
+          "si",
+          "nulle",
+          "déportation",
+          "n’est",
+          "exigée."
+        ]
+      },
+      {
+        "id": "remote-ethics-c1-ord-8",
+        "fr": "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
+        "l2": "La déontologie, quitte à paraître procédurale, offre un cadrage que le seul appel à la vertu ne remplace pas.",
+        "en": "professional ethics",
+        "gloss": {
+          "en": "professional ethics",
+          "es": "ética profesional",
+          "ru": "профессиональная этика"
+        },
+        "words": [
+          "La",
+          "déontologie,",
+          "quitte",
+          "à",
+          "paraître",
+          "procédurale,",
+          "offre",
+          "un",
+          "cadrage",
+          "que",
+          "le",
+          "seul",
+          "appel",
+          "à",
+          "la",
+          "vertu",
+          "ne",
+          "remplace",
+          "pas."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-ethics-c1-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "kɔ̃.sɑ̃t.mɑ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "consentement",
+          "l2": "consentement",
+          "en": "consent",
+          "gloss": {
+            "en": "consent",
+            "es": "consentir",
+            "ru": "согласие"
+          },
+          "ipa": "kɔ̃.sɑ̃t.mɑ̃"
+        },
+        {
+          "fr": "dilemme",
+          "l2": "dilemme",
+          "en": "dilemma",
+          "gloss": {
+            "en": "dilemma",
+            "es": "dilema",
+            "ru": "дилемма"
+          },
+          "ipa": "di.lɛm"
+        },
+        {
+          "fr": "responsabilité",
+          "l2": "responsabilité",
+          "en": "responsibility",
+          "gloss": {
+            "en": "responsibility",
+            "es": "responsabilidad",
+            "ru": "ответственность"
+          },
+          "ipa": "ʁɛs.pɔ̃.sa.bi.li.te"
+        },
+        {
+          "fr": "intégrité",
+          "l2": "intégrité",
+          "en": "integrity",
+          "gloss": {
+            "en": "integrity",
+            "es": "integridad",
+            "ru": "честность"
+          },
+          "ipa": "ɛ̃.te.ɡʁi.te"
+        },
+        {
+          "fr": "lanceur d’alerte",
+          "l2": "lanceur d’alerte",
+          "en": "whistleblower",
+          "gloss": {
+            "en": "whistleblower",
+            "es": "denunciante",
+            "ru": "осведомитель"
+          },
+          "ipa": "lɑ̃.sœʁ da.lɛʁt"
+        }
+      ]
+    }
+  ]
 }

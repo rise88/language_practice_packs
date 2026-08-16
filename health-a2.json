@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "health-a2",
-  "version": 5,
+  "version": 6,
   "level": "a2",
   "lang": "fr",
   "title": {
@@ -527,7 +527,18 @@
             "à la",
             "au",
             "aux"
-          ]
+          ],
+          "gloss": {
+            "en": "I have a headache.",
+            "es": "Me duele la cabeza.",
+            "ru": "У меня болит голова."
+          },
+          "why": {
+            "fr": "Réponse : « à la ».",
+            "en": "Answer: “à la”.",
+            "es": "Respuesta: « à la ».",
+            "ru": "Ответ: « à la »."
+          }
         },
         {
           "id": "remote-health-gq-2",
@@ -537,7 +548,18 @@
             "à la",
             "au",
             "aux"
-          ]
+          ],
+          "gloss": {
+            "en": "He has ___ back pain.",
+            "es": "Tiene ___ dolor de espalda.",
+            "ru": "У него ___ боли в спине."
+          },
+          "why": {
+            "fr": "Réponse : « au ».",
+            "en": "Answer: “au”.",
+            "es": "Respuesta: « au ».",
+            "ru": "Ответ: « au »."
+          }
         },
         {
           "id": "remote-health-gq-3",
@@ -547,13 +569,25 @@
             "à la",
             "au",
             "aux"
-          ]
+          ],
+          "gloss": {
+            "en": "She has ___ toothache.",
+            "es": "Tiene ___ dolor de muelas.",
+            "ru": "У нее ___ зубная боль."
+          },
+          "why": {
+            "fr": "Réponse : « aux ».",
+            "en": "Answer: “aux”.",
+            "es": "Respuesta: « aux ».",
+            "ru": "Ответ: « aux »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Expressing pain.",
         "es": "Útil cuando es necesario aplicar: Expresar dolor.",
-        "ru": "Полезно, когда нужно применить: Выражение боли."
+        "ru": "Полезно, когда нужно применить: Выражение боли.",
+        "fr": "Utile pour appliquer : Avoir mal à."
       }
     },
     {
@@ -606,7 +640,18 @@
             "pour",
             "depuis",
             "dans"
-          ]
+          ],
+          "gloss": {
+            "en": "I have a fever ___ yesterday.",
+            "es": "Tengo fiebre ___ ayer.",
+            "ru": "Вчера у меня была лихорадка ___ ."
+          },
+          "why": {
+            "fr": "Réponse : « depuis ».",
+            "en": "Answer: “depuis”.",
+            "es": "Respuesta: « depuis ».",
+            "ru": "Ответ: « depuis »."
+          }
         },
         {
           "id": "remote-health-gq-5",
@@ -616,13 +661,25 @@
             "depuis",
             "pour",
             "pendant"
-          ]
+          ],
+          "gloss": {
+            "en": "Can I make an appointment ___ tomorrow?",
+            "es": "¿Puedo programar una cita ___ mañana?",
+            "ru": "Могу ли я записаться на прием ___ завтра?"
+          },
+          "why": {
+            "fr": "Réponse : « pour ».",
+            "en": "Answer: “pour”.",
+            "es": "Respuesta: « pour ».",
+            "ru": "Ответ: « pour »."
+          }
         }
       ],
       "why": {
         "en": "Useful when you need to apply: Depuis for duration.",
         "es": "Útil cuando es necesario aplicar: Depuis por duración.",
-        "ru": "Полезно, когда нужно применить: Депюи на время действия."
+        "ru": "Полезно, когда нужно применить: Депюи на время действия.",
+        "fr": "Utile pour appliquer : Depuis / pour la durée."
       }
     }
   ],
@@ -867,6 +924,815 @@
         },
         "l2": "urgences"
       }
+    ],
+    "l2en": [
+      {
+        "id": "remote-health-fren-1",
+        "fr": "médecin",
+        "en": "doctor",
+        "gloss": {
+          "en": "doctor",
+          "es": "doctor",
+          "ru": "врач"
+        },
+        "l2": "médecin"
+      },
+      {
+        "id": "remote-health-fren-2",
+        "fr": "pharmacie",
+        "en": "pharmacy",
+        "gloss": {
+          "en": "pharmacy",
+          "es": "farmacia",
+          "ru": "аптека"
+        },
+        "l2": "pharmacie"
+      },
+      {
+        "id": "remote-health-fren-3",
+        "fr": "fièvre",
+        "en": "fever",
+        "gloss": {
+          "en": "fever",
+          "es": "fiebre",
+          "ru": "высокая температура"
+        },
+        "l2": "fièvre"
+      },
+      {
+        "id": "remote-health-fren-4",
+        "fr": "toux",
+        "en": "cough",
+        "gloss": {
+          "en": "cough",
+          "es": "tos",
+          "ru": "кашель"
+        },
+        "l2": "toux"
+      },
+      {
+        "id": "remote-health-fren-5",
+        "fr": "hôpital",
+        "en": "hospital",
+        "gloss": {
+          "en": "hospital",
+          "es": "hospital",
+          "ru": "больница"
+        },
+        "l2": "hôpital"
+      },
+      {
+        "id": "remote-health-fren-6",
+        "fr": "allergie",
+        "en": "allergy",
+        "gloss": {
+          "en": "allergy",
+          "es": "alergia",
+          "ru": "аллергия"
+        },
+        "l2": "allergie"
+      }
+    ],
+    "enfr": [
+      {
+        "id": "remote-health-a2-enl2-1",
+        "fr": "Je prends rendez-vous chez le médecin.",
+        "l2": "Je prends rendez-vous chez le médecin.",
+        "en": "doctor",
+        "gloss": {
+          "en": "doctor",
+          "es": "doctor",
+          "ru": "врач"
+        },
+        "prompt": "doctor",
+        "choices": [
+          "Je prends rendez-vous chez le médecin.",
+          "La pharmacie est ouverte jusqu’à vingt heures.",
+          "Voici mon ordonnance."
+        ]
+      },
+      {
+        "id": "remote-health-a2-enl2-2",
+        "fr": "La pharmacie est ouverte jusqu’à vingt heures.",
+        "l2": "La pharmacie est ouverte jusqu’à vingt heures.",
+        "en": "pharmacy",
+        "gloss": {
+          "en": "pharmacy",
+          "es": "farmacia",
+          "ru": "аптека"
+        },
+        "prompt": "pharmacy",
+        "choices": [
+          "La pharmacie est ouverte jusqu’à vingt heures.",
+          "Je prends rendez-vous chez le médecin.",
+          "Voici mon ordonnance."
+        ]
+      },
+      {
+        "id": "remote-health-a2-enl2-3",
+        "fr": "Voici mon ordonnance.",
+        "l2": "Voici mon ordonnance.",
+        "en": "prescription",
+        "gloss": {
+          "en": "prescription",
+          "es": "prescripción",
+          "ru": "рецепт"
+        },
+        "prompt": "prescription",
+        "choices": [
+          "Voici mon ordonnance.",
+          "Je prends rendez-vous chez le médecin.",
+          "La pharmacie est ouverte jusqu’à vingt heures."
+        ]
+      },
+      {
+        "id": "remote-health-a2-enl2-4",
+        "fr": "Ce médicament se prend trois fois par jour.",
+        "l2": "Ce médicament se prend trois fois par jour.",
+        "en": "medicine / medication",
+        "gloss": {
+          "en": "medicine / medication",
+          "es": "medicina / medicación",
+          "ru": "лекарство / лекарство"
+        },
+        "prompt": "medicine / medication",
+        "choices": [
+          "Ce médicament se prend trois fois par jour.",
+          "Je prends rendez-vous chez le médecin.",
+          "La pharmacie est ouverte jusqu’à vingt heures."
+        ]
+      },
+      {
+        "id": "remote-health-a2-enl2-5",
+        "fr": "J’ai une douleur dans le dos.",
+        "l2": "J’ai une douleur dans le dos.",
+        "en": "pain",
+        "gloss": {
+          "en": "pain",
+          "es": "dolor",
+          "ru": "боль"
+        },
+        "prompt": "pain",
+        "choices": [
+          "J’ai une douleur dans le dos.",
+          "Je prends rendez-vous chez le médecin.",
+          "La pharmacie est ouverte jusqu’à vingt heures."
+        ]
+      },
+      {
+        "id": "remote-health-a2-enl2-6",
+        "fr": "Il a de la fièvre depuis hier.",
+        "l2": "Il a de la fièvre depuis hier.",
+        "en": "fever",
+        "gloss": {
+          "en": "fever",
+          "es": "fiebre",
+          "ru": "высокая температура"
+        },
+        "prompt": "fever",
+        "choices": [
+          "Il a de la fièvre depuis hier.",
+          "Je prends rendez-vous chez le médecin.",
+          "La pharmacie est ouverte jusqu’à vingt heures."
+        ]
+      },
+      {
+        "id": "remote-health-a2-enl2-7",
+        "fr": "J’ai un rhume.",
+        "l2": "J’ai un rhume.",
+        "en": "cold (illness)",
+        "gloss": {
+          "en": "cold (illness)",
+          "es": "resfriado (enfermedad)",
+          "ru": "простуда (болезнь)"
+        },
+        "prompt": "cold (illness)",
+        "choices": [
+          "J’ai un rhume.",
+          "Je prends rendez-vous chez le médecin.",
+          "La pharmacie est ouverte jusqu’à vingt heures."
+        ]
+      },
+      {
+        "id": "remote-health-a2-enl2-8",
+        "fr": "Cette toux me réveille la nuit.",
+        "l2": "Cette toux me réveille la nuit.",
+        "en": "cough",
+        "gloss": {
+          "en": "cough",
+          "es": "tos",
+          "ru": "кашель"
+        },
+        "prompt": "cough",
+        "choices": [
+          "Cette toux me réveille la nuit.",
+          "Je prends rendez-vous chez le médecin.",
+          "La pharmacie est ouverte jusqu’à vingt heures."
+        ]
+      }
+    ],
+    "prompt": [
+      {
+        "id": "remote-health-a2-prm-1",
+        "en": "doctor",
+        "gloss": {
+          "en": "doctor",
+          "es": "doctor",
+          "ru": "врач"
+        },
+        "answers": [
+          "médecin",
+          "le médecin"
+        ],
+        "target": "le médecin"
+      },
+      {
+        "id": "remote-health-a2-prm-2",
+        "en": "pharmacy",
+        "gloss": {
+          "en": "pharmacy",
+          "es": "farmacia",
+          "ru": "аптека"
+        },
+        "answers": [
+          "pharmacie",
+          "la pharmacie"
+        ],
+        "target": "la pharmacie"
+      },
+      {
+        "id": "remote-health-a2-prm-3",
+        "en": "prescription",
+        "gloss": {
+          "en": "prescription",
+          "es": "prescripción",
+          "ru": "рецепт"
+        },
+        "answers": [
+          "ordonnance",
+          "la ordonnance"
+        ],
+        "target": "la ordonnance"
+      },
+      {
+        "id": "remote-health-a2-prm-4",
+        "en": "medicine / medication",
+        "gloss": {
+          "en": "medicine / medication",
+          "es": "medicina / medicación",
+          "ru": "лекарство / лекарство"
+        },
+        "answers": [
+          "médicament",
+          "le médicament"
+        ],
+        "target": "le médicament"
+      },
+      {
+        "id": "remote-health-a2-prm-5",
+        "en": "pain",
+        "gloss": {
+          "en": "pain",
+          "es": "dolor",
+          "ru": "боль"
+        },
+        "answers": [
+          "douleur",
+          "la douleur"
+        ],
+        "target": "la douleur"
+      },
+      {
+        "id": "remote-health-a2-prm-6",
+        "en": "fever",
+        "gloss": {
+          "en": "fever",
+          "es": "fiebre",
+          "ru": "высокая температура"
+        },
+        "answers": [
+          "fièvre",
+          "la fièvre"
+        ],
+        "target": "la fièvre"
+      },
+      {
+        "id": "remote-health-a2-prm-7",
+        "en": "cold (illness)",
+        "gloss": {
+          "en": "cold (illness)",
+          "es": "resfriado (enfermedad)",
+          "ru": "простуда (болезнь)"
+        },
+        "answers": [
+          "rhume",
+          "le rhume"
+        ],
+        "target": "le rhume"
+      },
+      {
+        "id": "remote-health-a2-prm-8",
+        "en": "cough",
+        "gloss": {
+          "en": "cough",
+          "es": "tos",
+          "ru": "кашель"
+        },
+        "answers": [
+          "toux",
+          "la toux"
+        ],
+        "target": "la toux"
+      },
+      {
+        "id": "remote-health-a2-prm-9",
+        "en": "headache",
+        "gloss": {
+          "en": "headache",
+          "es": "dolor de cabeza",
+          "ru": "головная боль"
+        },
+        "answers": [
+          "mal de tête",
+          "le mal de tête"
+        ],
+        "target": "le mal de tête"
+      },
+      {
+        "id": "remote-health-a2-prm-10",
+        "en": "sore throat",
+        "gloss": {
+          "en": "sore throat",
+          "es": "dolor de garganta",
+          "ru": "больное горло"
+        },
+        "answers": [
+          "mal de gorge",
+          "le mal de gorge"
+        ],
+        "target": "le mal de gorge"
+      }
+    ],
+    "pairs": [
+      {
+        "id": "remote-health-a2-pair-1",
+        "a": {
+          "fr": "médecin",
+          "l2": "médecin",
+          "en": "doctor",
+          "gloss": {
+            "en": "doctor",
+            "es": "doctor",
+            "ru": "врач"
+          }
+        },
+        "b": {
+          "fr": "pharmacie",
+          "l2": "pharmacie",
+          "en": "pharmacy",
+          "gloss": {
+            "en": "pharmacy",
+            "es": "farmacia",
+            "ru": "аптека"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-health-a2-pair-2",
+        "a": {
+          "fr": "ordonnance",
+          "l2": "ordonnance",
+          "en": "prescription",
+          "gloss": {
+            "en": "prescription",
+            "es": "prescripción",
+            "ru": "рецепт"
+          }
+        },
+        "b": {
+          "fr": "médicament",
+          "l2": "médicament",
+          "en": "medicine / medication",
+          "gloss": {
+            "en": "medicine / medication",
+            "es": "medicina / medicación",
+            "ru": "лекарство / лекарство"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-health-a2-pair-3",
+        "a": {
+          "fr": "douleur",
+          "l2": "douleur",
+          "en": "pain",
+          "gloss": {
+            "en": "pain",
+            "es": "dolor",
+            "ru": "боль"
+          }
+        },
+        "b": {
+          "fr": "fièvre",
+          "l2": "fièvre",
+          "en": "fever",
+          "gloss": {
+            "en": "fever",
+            "es": "fiebre",
+            "ru": "высокая температура"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-health-a2-pair-4",
+        "a": {
+          "fr": "rhume",
+          "l2": "rhume",
+          "en": "cold (illness)",
+          "gloss": {
+            "en": "cold (illness)",
+            "es": "resfriado (enfermedad)",
+            "ru": "простуда (болезнь)"
+          }
+        },
+        "b": {
+          "fr": "toux",
+          "l2": "toux",
+          "en": "cough",
+          "gloss": {
+            "en": "cough",
+            "es": "tos",
+            "ru": "кашель"
+          }
+        },
+        "play": "a"
+      },
+      {
+        "id": "remote-health-a2-pair-5",
+        "a": {
+          "fr": "mal de tête",
+          "l2": "mal de tête",
+          "en": "headache",
+          "gloss": {
+            "en": "headache",
+            "es": "dolor de cabeza",
+            "ru": "головная боль"
+          }
+        },
+        "b": {
+          "fr": "mal de gorge",
+          "l2": "mal de gorge",
+          "en": "sore throat",
+          "gloss": {
+            "en": "sore throat",
+            "es": "dolor de garganta",
+            "ru": "больное горло"
+          }
+        },
+        "play": "a"
+      }
+    ],
+    "gap": [
+      {
+        "id": "remote-health-a2-gap-1",
+        "fr": "Je prends rendez-vous chez le médecin.",
+        "l2": "Je prends rendez-vous chez le médecin.",
+        "speak": "Je prends rendez-vous chez le médecin.",
+        "blank": "médecin",
+        "en": "doctor",
+        "gloss": {
+          "en": "doctor",
+          "es": "doctor",
+          "ru": "врач"
+        }
+      },
+      {
+        "id": "remote-health-a2-gap-2",
+        "fr": "La pharmacie est ouverte jusqu’à vingt heures.",
+        "l2": "La pharmacie est ouverte jusqu’à vingt heures.",
+        "speak": "La pharmacie est ouverte jusqu’à vingt heures.",
+        "blank": "pharmacie",
+        "en": "pharmacy",
+        "gloss": {
+          "en": "pharmacy",
+          "es": "farmacia",
+          "ru": "аптека"
+        }
+      },
+      {
+        "id": "remote-health-a2-gap-3",
+        "fr": "Voici mon ordonnance.",
+        "l2": "Voici mon ordonnance.",
+        "speak": "Voici mon ordonnance.",
+        "blank": "ordonnance",
+        "en": "prescription",
+        "gloss": {
+          "en": "prescription",
+          "es": "prescripción",
+          "ru": "рецепт"
+        }
+      },
+      {
+        "id": "remote-health-a2-gap-4",
+        "fr": "Ce médicament se prend trois fois par jour.",
+        "l2": "Ce médicament se prend trois fois par jour.",
+        "speak": "Ce médicament se prend trois fois par jour.",
+        "blank": "médicament",
+        "en": "medicine / medication",
+        "gloss": {
+          "en": "medicine / medication",
+          "es": "medicina / medicación",
+          "ru": "лекарство / лекарство"
+        }
+      },
+      {
+        "id": "remote-health-a2-gap-5",
+        "fr": "J’ai une douleur dans le dos.",
+        "l2": "J’ai une douleur dans le dos.",
+        "speak": "J’ai une douleur dans le dos.",
+        "blank": "douleur",
+        "en": "pain",
+        "gloss": {
+          "en": "pain",
+          "es": "dolor",
+          "ru": "боль"
+        }
+      },
+      {
+        "id": "remote-health-a2-gap-6",
+        "fr": "Il a de la fièvre depuis hier.",
+        "l2": "Il a de la fièvre depuis hier.",
+        "speak": "Il a de la fièvre depuis hier.",
+        "blank": "fièvre",
+        "en": "fever",
+        "gloss": {
+          "en": "fever",
+          "es": "fiebre",
+          "ru": "высокая температура"
+        }
+      },
+      {
+        "id": "remote-health-a2-gap-7",
+        "fr": "J’ai un rhume.",
+        "l2": "J’ai un rhume.",
+        "speak": "J’ai un rhume.",
+        "blank": "rhume",
+        "en": "cold (illness)",
+        "gloss": {
+          "en": "cold (illness)",
+          "es": "resfriado (enfermedad)",
+          "ru": "простуда (болезнь)"
+        }
+      },
+      {
+        "id": "remote-health-a2-gap-8",
+        "fr": "Cette toux me réveille la nuit.",
+        "l2": "Cette toux me réveille la nuit.",
+        "speak": "Cette toux me réveille la nuit.",
+        "blank": "toux",
+        "en": "cough",
+        "gloss": {
+          "en": "cough",
+          "es": "tos",
+          "ru": "кашель"
+        }
+      }
+    ],
+    "reorder": [
+      {
+        "id": "remote-health-a2-ord-1",
+        "fr": "Je prends rendez-vous chez le médecin.",
+        "l2": "Je prends rendez-vous chez le médecin.",
+        "en": "doctor",
+        "gloss": {
+          "en": "doctor",
+          "es": "doctor",
+          "ru": "врач"
+        },
+        "words": [
+          "Je",
+          "prends",
+          "rendez-vous",
+          "chez",
+          "le",
+          "médecin."
+        ]
+      },
+      {
+        "id": "remote-health-a2-ord-2",
+        "fr": "La pharmacie est ouverte jusqu’à vingt heures.",
+        "l2": "La pharmacie est ouverte jusqu’à vingt heures.",
+        "en": "pharmacy",
+        "gloss": {
+          "en": "pharmacy",
+          "es": "farmacia",
+          "ru": "аптека"
+        },
+        "words": [
+          "La",
+          "pharmacie",
+          "est",
+          "ouverte",
+          "jusqu’à",
+          "vingt",
+          "heures."
+        ]
+      },
+      {
+        "id": "remote-health-a2-ord-3",
+        "fr": "Voici mon ordonnance.",
+        "l2": "Voici mon ordonnance.",
+        "en": "prescription",
+        "gloss": {
+          "en": "prescription",
+          "es": "prescripción",
+          "ru": "рецепт"
+        },
+        "words": [
+          "Voici",
+          "mon",
+          "ordonnance."
+        ]
+      },
+      {
+        "id": "remote-health-a2-ord-4",
+        "fr": "Ce médicament se prend trois fois par jour.",
+        "l2": "Ce médicament se prend trois fois par jour.",
+        "en": "medicine / medication",
+        "gloss": {
+          "en": "medicine / medication",
+          "es": "medicina / medicación",
+          "ru": "лекарство / лекарство"
+        },
+        "words": [
+          "Ce",
+          "médicament",
+          "se",
+          "prend",
+          "trois",
+          "fois",
+          "par",
+          "jour."
+        ]
+      },
+      {
+        "id": "remote-health-a2-ord-5",
+        "fr": "J’ai une douleur dans le dos.",
+        "l2": "J’ai une douleur dans le dos.",
+        "en": "pain",
+        "gloss": {
+          "en": "pain",
+          "es": "dolor",
+          "ru": "боль"
+        },
+        "words": [
+          "J’ai",
+          "une",
+          "douleur",
+          "dans",
+          "le",
+          "dos."
+        ]
+      },
+      {
+        "id": "remote-health-a2-ord-6",
+        "fr": "Il a de la fièvre depuis hier.",
+        "l2": "Il a de la fièvre depuis hier.",
+        "en": "fever",
+        "gloss": {
+          "en": "fever",
+          "es": "fiebre",
+          "ru": "высокая температура"
+        },
+        "words": [
+          "Il",
+          "a",
+          "de",
+          "la",
+          "fièvre",
+          "depuis",
+          "hier."
+        ]
+      },
+      {
+        "id": "remote-health-a2-ord-7",
+        "fr": "J’ai un rhume.",
+        "l2": "J’ai un rhume.",
+        "en": "cold (illness)",
+        "gloss": {
+          "en": "cold (illness)",
+          "es": "resfriado (enfermedad)",
+          "ru": "простуда (болезнь)"
+        },
+        "words": [
+          "J’ai",
+          "un",
+          "rhume."
+        ]
+      },
+      {
+        "id": "remote-health-a2-ord-8",
+        "fr": "Cette toux me réveille la nuit.",
+        "l2": "Cette toux me réveille la nuit.",
+        "en": "cough",
+        "gloss": {
+          "en": "cough",
+          "es": "tos",
+          "ru": "кашель"
+        },
+        "words": [
+          "Cette",
+          "toux",
+          "me",
+          "réveille",
+          "la",
+          "nuit."
+        ]
+      }
     ]
-  }
+  },
+  "sounds": [
+    {
+      "id": "remote-health-a2-sounds",
+      "label": {
+        "fr": "Sons du pack",
+        "en": "Pack sounds",
+        "es": "Sonidos del pack",
+        "ru": "Звуки пакета"
+      },
+      "ipa": "med.sɛ̃",
+      "tipTitle": {
+        "fr": "Prononciation du thème",
+        "en": "Topic pronunciation",
+        "es": "Pronunciación del tema",
+        "ru": "Произношение темы"
+      },
+      "tipBody": {
+        "fr": "Répète les mots du pack en regardant l’IPA.",
+        "en": "Repeat the pack words while watching the IPA.",
+        "es": "Repite las palabras del pack mirando la IPA.",
+        "ru": "Повторяйте слова пакета, глядя на IPA."
+      },
+      "examples": [
+        {
+          "fr": "médecin",
+          "l2": "médecin",
+          "en": "doctor",
+          "gloss": {
+            "en": "doctor",
+            "es": "doctor",
+            "ru": "врач"
+          },
+          "ipa": "med.sɛ̃"
+        },
+        {
+          "fr": "pharmacie",
+          "l2": "pharmacie",
+          "en": "pharmacy",
+          "gloss": {
+            "en": "pharmacy",
+            "es": "farmacia",
+            "ru": "аптека"
+          },
+          "ipa": "faʁ.ma.si"
+        },
+        {
+          "fr": "ordonnance",
+          "l2": "ordonnance",
+          "en": "prescription",
+          "gloss": {
+            "en": "prescription",
+            "es": "prescripción",
+            "ru": "рецепт"
+          },
+          "ipa": "ɔʁ.dɔ.nɑ̃s"
+        },
+        {
+          "fr": "médicament",
+          "l2": "médicament",
+          "en": "medicine / medication",
+          "gloss": {
+            "en": "medicine / medication",
+            "es": "medicina / medicación",
+            "ru": "лекарство / лекарство"
+          },
+          "ipa": "me.di.ka.mɑ̃"
+        },
+        {
+          "fr": "douleur",
+          "l2": "douleur",
+          "en": "pain",
+          "gloss": {
+            "en": "pain",
+            "es": "dolor",
+            "ru": "боль"
+          },
+          "ipa": "du.lœʁ"
+        }
+      ]
+    }
+  ]
 }
