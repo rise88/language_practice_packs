@@ -49,12 +49,13 @@ Keep gloss locale maps when adding L2 packs — do not remove `en` / `es` / `ru`
 
 ## Add a non-French practice pack (e.g. Spanish or Russian)
 
-1. Copy `_template.json`, set `"lang": "es"` or `"lang": "ru"`.
+1. Copy `_template.json` into `es/<id>.json` or `ru/<id>.json`, set matching `"lang"`.
 2. Put headwords in `seed[].l2` (do not use `fr` as the headword field).
 3. Write `example`, `phrases`, `listen`, `prompts`, and grammar drills in that practice language.
 4. Keep `gloss` / `wordGloss` maps for learner locales.
-5. Register in `catalog.json` with the same `"lang"`.
-6. Or generate twins from French packs: `python3 scripts/generate-spanish-packs.py` / `python3 scripts/generate-russian-packs.py`.
+5. Register in `catalog.json` with the same `"lang"` and `"url": "./es/<id>.json"` (or `./ru/…`).
+6. Or generate twins from French packs: `python3 scripts/generate-spanish-packs.py` / `python3 scripts/generate-russian-packs.py` (writes into `es/` / `ru/`).
+7. See [`LAYOUT.md`](LAYOUT.md) for the folder conventions.
 
 ## Migrate existing v1 packs
 

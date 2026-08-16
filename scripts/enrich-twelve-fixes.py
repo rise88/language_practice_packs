@@ -343,8 +343,12 @@ def main() -> None:
     catalog = json.loads((ROOT / "catalog.json").read_text())
     catalog_by_id = {e["id"]: e for e in catalog.get("packs") or []}
 
-    pack_files = sorted(
-        p for p in ROOT.glob("*.json") if p.name not in ("catalog.json", "_template.json")
+    pack_files = []
+    for lang_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and len(p.name) == 2):
+        pack_files.extend(sorted(lang_dir.glob("*.json")))
+    # Legacy root packs (pre language-folder layout)
+    pack_files.extend(
+        sorted(p for p in ROOT.glob("*.json") if p.name not in ("catalog.json", "_template.json"))
     )
     n_changed = 0
     for path in pack_files:
@@ -355,9 +359,11 @@ def main() -> None:
             entry = catalog_by_id.get(pack["id"])
             if entry is not None:
                 entry["version"] = pack["version"]
+                lang = pack.get("lang") or entry.get("lang") or "fr"
+                entry["url"] = f"./{lang}/{pack['id']}.json"
             if not args.dry_run:
                 path.write_text(json.dumps(pack, ensure_ascii=False, indent=2) + "\n")
-            print(f"updated {path.name} v{before} -> v{pack['version']}")
+            print(f"updated {path.relative_to(ROOT)} v{before} -> v{pack['version']}")
         save_cache(cache)
 
     if not args.dry_run:

@@ -1206,7 +1206,7 @@ def update_catalog(packs: list[dict]) -> None:
             "title": pack["title"],
             "description": pack["description"],
             "cardCount": len(pack["seed"]),
-            "url": f"./{pack['id']}.json",
+            "url": f"./es/{pack['id']}.json",
         }
         if pack["id"] in by_id:
             catalog["packs"][by_id[pack["id"]]] = entry
@@ -1217,17 +1217,19 @@ def update_catalog(packs: list[dict]) -> None:
     catalog_path.write_text(json.dumps(catalog, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def iter_lang_packs(lang: str):
+    lang_dir = ROOT / lang
+    if not lang_dir.is_dir():
+        return
+    for path in sorted(lang_dir.glob("*.json")):
+        yield path, json.loads(path.read_text(encoding="utf-8"))
+
+
 def main() -> None:
     dry = "--dry-run" in sys.argv
     levels = {a.lower() for a in sys.argv[1:] if not a.startswith("-")}
-    fr_files = sorted(
-        p for p in ROOT.glob("*.json") if p.name not in {"catalog.json", "_template.json"}
-    )
     fr_packs = []
-    for path in fr_files:
-        data = json.loads(path.read_text(encoding="utf-8"))
-        if data.get("lang") != "fr":
-            continue
+    for path, data in iter_lang_packs("fr"):
         if levels and data.get("level") not in levels:
             continue
         if data["id"] not in FR_TO_ES_ID:
@@ -1237,13 +1239,15 @@ def main() -> None:
 
     print(f"Generating {len(fr_packs)} Spanish packs…")
     built = []
+    out_dir = ROOT / "es"
+    out_dir.mkdir(exist_ok=True)
     for i, fr in enumerate(fr_packs, start=1):
         es_id = FR_TO_ES_ID[fr["id"]]
         print(f"[{i}/{len(fr_packs)}] {fr['id']} → {es_id}")
         pack = build_pack(fr)
         built.append(pack)
         if not dry:
-            out = ROOT / f"{es_id}.json"
+            out = out_dir / f"{es_id}.json"
             out.write_text(json.dumps(pack, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
             save_cache()
     if not dry:

@@ -274,9 +274,27 @@ def apply_pack(pack: dict) -> bool:
     return changed
 
 
+def list_pack_files():
+    files = []
+    for lang_dir in sorted(p for p in ROOT.iterdir() if p.is_dir() and re.fullmatch(r"[a-z]{2}", p.name)):
+        files.extend(sorted(lang_dir.glob("*-*.json")))
+    files.extend(sorted(p for p in ROOT.glob("*-*.json") if re.search(r"-[abc][12]\.json$", p.name)))
+    # de-dupe while preserving order
+    seen = set()
+    out = []
+    for p in files:
+        if p in seen:
+            continue
+        if not re.search(r"-[abc][12]\.json$", p.name):
+            continue
+        seen.add(p)
+        out.append(p)
+    return out
+
+
 def main() -> None:
     levels = {a.lower() for a in sys.argv[1:]} if len(sys.argv) > 1 else None
-    pack_files = sorted(p for p in ROOT.glob("*-*.json") if re.search(r"-[abc][12]\.json$", p.name))
+    pack_files = list_pack_files()
     if levels:
         pack_files = [p for p in pack_files if any(p.name.endswith(f"-{lv}.json") for lv in levels)]
 

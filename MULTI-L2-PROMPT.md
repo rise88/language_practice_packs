@@ -37,6 +37,7 @@ The app is no longer French-only for practice content. It loads packs into a lan
    - `"lang"` on each entry (same code as the pack)
    - top-level `"languages": ["fr","es","ru"]` for practice L2s
    - top-level `"locales": ["en","es","ru"]` for gloss tooling
+   - `"url": "./<lang>/<id>.json"` (packs live under `fr/`, `es/`, `ru/`, … — see `LAYOUT.md`)
 
 5. Update **`_template.json`**:
    - `pratiquePack: 2` (or 3 if you bump)
@@ -44,9 +45,9 @@ The app is no longer French-only for practice content. It loads packs into a lan
    - seed examples using `l2`
    - description text that does not say “prompts must stay French”
 
-6. Update README / ADD-LANGUAGE docs:
+6. Update README / ADD-LANGUAGE / LAYOUT docs:
    - Clarify **UI/gloss language** vs **practice language**
-   - Point authors at pack `"lang"` + `l2`
+   - Point authors at pack `"lang"` + `l2` and `<lang>/` folders
    - Catalog URL must be `https://raw.githubusercontent.com/rise88/language_practice_packs/main/catalog.json`
 
 ## Migration
