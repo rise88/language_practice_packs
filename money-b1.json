@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "money-b1",
-  "version": 3,
+  "version": 4,
   "level": "b1",
   "lang": "fr",
   "title": {
@@ -28,7 +28,8 @@
         "en": "money",
         "es": "dinero",
         "ru": "деньги"
-      }
+      },
+      "l2": "argent"
     },
     {
       "id": "remote-money-b1-2",
@@ -41,7 +42,8 @@
         "en": "budget",
         "es": "presupuesto",
         "ru": "бюджет"
-      }
+      },
+      "l2": "budget"
     },
     {
       "id": "remote-money-b1-3",
@@ -54,7 +56,8 @@
         "en": "account",
         "es": "cuenta",
         "ru": "счет"
-      }
+      },
+      "l2": "compte"
     },
     {
       "id": "remote-money-b1-4",
@@ -67,7 +70,8 @@
         "en": "transfer",
         "es": "transferir",
         "ru": "передача"
-      }
+      },
+      "l2": "virement"
     },
     {
       "id": "remote-money-b1-5",
@@ -80,7 +84,8 @@
         "en": "overdraft",
         "es": "sobregiro",
         "ru": "овердрафт"
-      }
+      },
+      "l2": "découvert"
     },
     {
       "id": "remote-money-b1-6",
@@ -93,7 +98,8 @@
         "en": "savings",
         "es": "ahorros",
         "ru": "сбережения"
-      }
+      },
+      "l2": "épargne"
     },
     {
       "id": "remote-money-b1-7",
@@ -106,7 +112,8 @@
         "en": "credit / loan",
         "es": "crédito/préstamo",
         "ru": "кредит / заем"
-      }
+      },
+      "l2": "crédit"
     },
     {
       "id": "remote-money-b1-8",
@@ -119,7 +126,8 @@
         "en": "interest (finance)",
         "es": "interés (finanzas)",
         "ru": "проценты (финансы)"
-      }
+      },
+      "l2": "intérêt"
     },
     {
       "id": "remote-money-b1-9",
@@ -132,7 +140,8 @@
         "en": "bill / invoice",
         "es": "factura / factura",
         "ru": "счет / счет-фактура"
-      }
+      },
+      "l2": "facture"
     },
     {
       "id": "remote-money-b1-10",
@@ -145,7 +154,8 @@
         "en": "receipt",
         "es": "recibo",
         "ru": "квитанция"
-      }
+      },
+      "l2": "reçu"
     },
     {
       "id": "remote-money-b1-11",
@@ -158,7 +168,8 @@
         "en": "cash",
         "es": "dinero",
         "ru": "наличные"
-      }
+      },
+      "l2": "espèces"
     },
     {
       "id": "remote-money-b1-12",
@@ -171,7 +182,8 @@
         "en": "bank card",
         "es": "tarjeta bancaria",
         "ru": "банковская карта"
-      }
+      },
+      "l2": "carte bancaire"
     },
     {
       "id": "remote-money-b1-13",
@@ -184,7 +196,8 @@
         "en": "cash machine / ATM",
         "es": "cajero automático / cajero automático",
         "ru": "банкомат/банкомат"
-      }
+      },
+      "l2": "distributeur"
     },
     {
       "id": "remote-money-b1-14",
@@ -197,7 +210,8 @@
         "en": "tax",
         "es": "impuesto",
         "ru": "налог"
-      }
+      },
+      "l2": "impôt"
     },
     {
       "id": "remote-money-b1-15",
@@ -210,7 +224,8 @@
         "en": "salary",
         "es": "salario",
         "ru": "зарплата"
-      }
+      },
+      "l2": "salaire"
     },
     {
       "id": "remote-money-b1-16",
@@ -223,7 +238,8 @@
         "en": "debt",
         "es": "deuda",
         "ru": "долг"
-      }
+      },
+      "l2": "dette"
     },
     {
       "id": "remote-money-b1-17",
@@ -236,7 +252,8 @@
         "en": "investment",
         "es": "inversión",
         "ru": "инвестиции"
-      }
+      },
+      "l2": "investissement"
     },
     {
       "id": "remote-money-b1-18",
@@ -249,7 +266,8 @@
         "en": "insurance",
         "es": "seguro",
         "ru": "страхование"
-      }
+      },
+      "l2": "assurance"
     },
     {
       "id": "remote-money-b1-19",
@@ -262,7 +280,8 @@
         "en": "tip",
         "es": "consejo",
         "ru": "кончик"
-      }
+      },
+      "l2": "pourboire"
     },
     {
       "id": "remote-money-b1-20",
@@ -275,7 +294,8 @@
         "en": "balance / sale",
         "es": "saldo / venta",
         "ru": "баланс / продажа"
-      }
+      },
+      "l2": "solde"
     }
   ],
   "phrases": [
@@ -288,7 +308,8 @@
         "en": "I’d like to make a transfer, please.",
         "es": "Me gustaría hacer una transferencia, por favor.",
         "ru": "Я хотел бы сделать перевод, пожалуйста."
-      }
+      },
+      "l2": "Je voudrais faire un virement, s’il vous plaît."
     },
     {
       "id": "remote-money-phrase-2",
@@ -299,7 +320,8 @@
         "en": "My card was declined in the shop.",
         "es": "Mi tarjeta fue rechazada en la tienda.",
         "ru": "Моя карта была отклонена в магазине."
-      }
+      },
+      "l2": "Ma carte a été refusée au magasin."
     },
     {
       "id": "remote-money-phrase-3",
@@ -310,7 +332,8 @@
         "en": "I try to put money aside.",
         "es": "Intento ahorrar dinero.",
         "ru": "Я стараюсь откладывать деньги."
-      }
+      },
+      "l2": "J’essaie de mettre de l’argent de côté."
     },
     {
       "id": "remote-money-phrase-4",
@@ -321,7 +344,8 @@
         "en": "Rent takes up a large part of my budget.",
         "es": "El alquiler ocupa gran parte de mi presupuesto.",
         "ru": "Аренда занимает большую часть моего бюджета."
-      }
+      },
+      "l2": "Le loyer prend une grande partie de mon budget."
     },
     {
       "id": "remote-money-phrase-5",
@@ -332,7 +356,8 @@
         "en": "Do you take cash?",
         "es": "¿Aceptas efectivo?",
         "ru": "Вы принимаете наличные?"
-      }
+      },
+      "l2": "Est-ce que vous acceptez les espèces ?"
     },
     {
       "id": "remote-money-phrase-6",
@@ -343,7 +368,8 @@
         "en": "I have to pay this bill today.",
         "es": "Tengo que pagar esta factura hoy.",
         "ru": "Я должен оплатить этот счет сегодня."
-      }
+      },
+      "l2": "Il faut que je paie cette facture aujourd’hui."
     }
   ],
   "listen": [
@@ -368,7 +394,8 @@
         "en": "transfer",
         "es": "transferir",
         "ru": "передача"
-      }
+      },
+      "l2": "J’ai fait un virement hier soir."
     },
     {
       "id": "remote-money-listen-2",
@@ -391,7 +418,8 @@
         "en": "bank card",
         "es": "tarjeta bancaria",
         "ru": "банковская карта"
-      }
+      },
+      "l2": "Ma carte bancaire a été refusée."
     },
     {
       "id": "remote-money-listen-3",
@@ -414,7 +442,8 @@
         "en": "savings",
         "es": "ahorros",
         "ru": "сбережения"
-      }
+      },
+      "l2": "Je mets un peu d’épargne chaque mois."
     },
     {
       "id": "remote-money-listen-4",
@@ -437,7 +466,8 @@
         "en": "bill",
         "es": "factura",
         "ru": "счет"
-      }
+      },
+      "l2": "J’ai payé la facture d’électricité."
     }
   ],
   "prompts": [
@@ -607,7 +637,8 @@
           "en": "I’d like to make a transfer, please.",
           "es": "Me gustaría hacer una transferencia, por favor.",
           "ru": "Я хотел бы сделать перевод, пожалуйста."
-        }
+        },
+        "l2": "Je voudrais faire un virement, s’il vous plaît."
       },
       {
         "id": "remote-money-dict-2",
@@ -618,7 +649,8 @@
           "en": "My card was declined in the shop.",
           "es": "Mi tarjeta fue rechazada en la tienda.",
           "ru": "Моя карта была отклонена в магазине."
-        }
+        },
+        "l2": "Ma carte a été refusée au magasin."
       },
       {
         "id": "remote-money-dict-3",
@@ -629,7 +661,8 @@
           "en": "I try to put money aside.",
           "es": "Intento ahorrar dinero.",
           "ru": "Я стараюсь откладывать деньги."
-        }
+        },
+        "l2": "J’essaie de mettre de l’argent de côté."
       }
     ],
     "meaning": [
@@ -641,7 +674,8 @@
           "en": "I’d like to make a transfer, please.",
           "es": "Me gustaría hacer una transferencia, por favor.",
           "ru": "Я хотел бы сделать перевод, пожалуйста."
-        }
+        },
+        "l2": "Je voudrais faire un virement, s’il vous plaît."
       },
       {
         "id": "remote-money-mean-2",
@@ -651,7 +685,8 @@
           "en": "My card was declined in the shop.",
           "es": "Mi tarjeta fue rechazada en la tienda.",
           "ru": "Моя карта была отклонена в магазине."
-        }
+        },
+        "l2": "Ma carte a été refusée au magasin."
       },
       {
         "id": "remote-money-mean-3",
@@ -661,7 +696,8 @@
           "en": "I try to put money aside.",
           "es": "Intento ahorrar dinero.",
           "ru": "Я стараюсь откладывать деньги."
-        }
+        },
+        "l2": "J’essaie de mettre de l’argent de côté."
       }
     ],
     "fren": [
@@ -673,7 +709,8 @@
           "en": "money",
           "es": "dinero",
           "ru": "деньги"
-        }
+        },
+        "l2": "argent"
       },
       {
         "id": "remote-money-fren-2",
@@ -683,7 +720,8 @@
           "en": "budget",
           "es": "presupuesto",
           "ru": "бюджет"
-        }
+        },
+        "l2": "budget"
       },
       {
         "id": "remote-money-fren-3",
@@ -693,7 +731,8 @@
           "en": "account",
           "es": "cuenta",
           "ru": "счет"
-        }
+        },
+        "l2": "compte"
       },
       {
         "id": "remote-money-fren-4",
@@ -703,7 +742,8 @@
           "en": "transfer",
           "es": "transferir",
           "ru": "передача"
-        }
+        },
+        "l2": "virement"
       },
       {
         "id": "remote-money-fren-5",
@@ -713,7 +753,8 @@
           "en": "overdraft",
           "es": "sobregiro",
           "ru": "овердрафт"
-        }
+        },
+        "l2": "découvert"
       },
       {
         "id": "remote-money-fren-6",
@@ -723,7 +764,8 @@
           "en": "savings",
           "es": "ahorros",
           "ru": "сбережения"
-        }
+        },
+        "l2": "épargne"
       }
     ],
     "aloud": [
@@ -736,7 +778,8 @@
           "en": "I’d like to make a transfer, please.",
           "es": "Me gustaría hacer una transferencia, por favor.",
           "ru": "Я хотел бы сделать перевод, пожалуйста."
-        }
+        },
+        "l2": "Je voudrais faire un virement, s’il vous plaît."
       },
       {
         "id": "remote-money-aloud-2",
@@ -747,7 +790,8 @@
           "en": "I try to put money aside.",
           "es": "Intento ahorrar dinero.",
           "ru": "Я стараюсь откладывать деньги."
-        }
+        },
+        "l2": "J’essaie de mettre de l’argent de côté."
       },
       {
         "id": "remote-money-aloud-3",
@@ -758,7 +802,8 @@
           "en": "Do you take cash?",
           "es": "¿Aceptas efectivo?",
           "ru": "Вы принимаете наличные?"
-        }
+        },
+        "l2": "Est-ce que vous acceptez les espèces ?"
       }
     ],
     "unscramble": [
@@ -781,7 +826,8 @@
           "en": "Rent takes up a large part of my budget.",
           "es": "El alquiler ocupa gran parte de mi presupuesto.",
           "ru": "Аренда занимает большую часть моего бюджета."
-        }
+        },
+        "l2": "Le loyer prend une grande partie de mon budget."
       },
       {
         "id": "remote-money-unsc-2",
@@ -800,7 +846,8 @@
           "en": "Do you take cash?",
           "es": "¿Aceptas efectivo?",
           "ru": "Вы принимаете наличные?"
-        }
+        },
+        "l2": "Est-ce que vous acceptez les espèces ?"
       }
     ]
   }

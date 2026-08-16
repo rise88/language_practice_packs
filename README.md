@@ -1,10 +1,10 @@
-# pratique-packs
+# language_practice_packs
 
 Public JSON catalog for [Vocalis](https://github.com/rise88/language_practice) (the web app can stay **private**).
 
 Hosting this repo as **public** is free. The app fetches:
 
-`https://raw.githubusercontent.com/rise88/pratique-packs/main/catalog.json`
+`https://raw.githubusercontent.com/rise88/language_practice_packs/main/catalog.json`
 
 ## Files
 
@@ -84,6 +84,8 @@ Hosting this repo as **public** is free. The app fetches:
 
 Each pack and its `catalog.json` entry declare `"lang": "fr"` | `"es"` | `"ru"` | … (ISO code for the language being practiced).
 
+`catalog.json` also lists practice languages in `"languages": ["fr","es","ru"]` and gloss UI languages in `"locales": ["en","es","ru"]`.
+
 | Field | Role |
 |-------|------|
 | `lang` | Practice language for the whole pack |
@@ -142,6 +144,6 @@ Seed `example` sentences also let the app auto-derive many drills — still ship
 | Repo | Visibility | Contents |
 |------|------------|----------|
 | `language_practice` | **Private** | Web app source |
-| `pratique-packs` (this repo) | **Public** | Catalog + pack JSON only |
+| `language_practice_packs` (this repo) | **Public** | Catalog + pack JSON only |
 
 Only the vocabulary JSON is public — not your app code.

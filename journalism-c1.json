@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "journalism-c1",
-  "version": 3,
+  "version": 4,
   "level": "c1",
   "lang": "fr",
   "title": {
@@ -28,7 +28,8 @@
         "en": "investigation",
         "es": "investigación",
         "ru": "расследование"
-      }
+      },
+      "l2": "investigation"
     },
     {
       "id": "remote-journalism-c1-2",
@@ -41,7 +42,8 @@
         "en": "source",
         "es": "fuente",
         "ru": "источник"
-      }
+      },
+      "l2": "source"
     },
     {
       "id": "remote-journalism-c1-3",
@@ -54,7 +56,8 @@
         "en": "framing",
         "es": "enmarcado",
         "ru": "обрамление"
-      }
+      },
+      "l2": "cadrage"
     },
     {
       "id": "remote-journalism-c1-4",
@@ -67,7 +70,8 @@
         "en": "editorial",
         "es": "editorial",
         "ru": "редакционная статья"
-      }
+      },
+      "l2": "éditorial"
     },
     {
       "id": "remote-journalism-c1-5",
@@ -80,7 +84,8 @@
         "en": "fact-checking",
         "es": "verificación de hechos",
         "ru": "проверка фактов"
-      }
+      },
+      "l2": "vérification"
     },
     {
       "id": "remote-journalism-c1-6",
@@ -93,7 +98,8 @@
         "en": "scoop",
         "es": "cuchara",
         "ru": "совок"
-      }
+      },
+      "l2": "scoop"
     },
     {
       "id": "remote-journalism-c1-7",
@@ -106,7 +112,8 @@
         "en": "editorial line",
         "es": "linea editorial",
         "ru": "редакционная линия"
-      }
+      },
+      "l2": "ligne éditoriale"
     },
     {
       "id": "remote-journalism-c1-8",
@@ -119,7 +126,8 @@
         "en": "correspondent / special envoy",
         "es": "corresponsal / enviado especial",
         "ru": "корреспондент / специальный посланник"
-      }
+      },
+      "l2": "envoyé"
     },
     {
       "id": "remote-journalism-c1-9",
@@ -132,7 +140,8 @@
         "en": "angle",
         "es": "ángulo",
         "ru": "угол"
-      }
+      },
+      "l2": "angle"
     },
     {
       "id": "remote-journalism-c1-10",
@@ -145,7 +154,8 @@
         "en": "front page",
         "es": "página delantera",
         "ru": "первая страница"
-      }
+      },
+      "l2": "une"
     },
     {
       "id": "remote-journalism-c1-11",
@@ -158,7 +168,8 @@
         "en": "newsroom",
         "es": "sala de redacción",
         "ru": "отдел новостей"
-      }
+      },
+      "l2": "rédaction"
     },
     {
       "id": "remote-journalism-c1-12",
@@ -171,7 +182,8 @@
         "en": "disinformation / fake news",
         "es": "desinformación/noticias falsas",
         "ru": "дезинформация/фейковые новости"
-      }
+      },
+      "l2": "infox"
     },
     {
       "id": "remote-journalism-c1-13",
@@ -184,7 +196,8 @@
         "en": "leak",
         "es": "filtración",
         "ru": "утечка"
-      }
+      },
+      "l2": "fuite"
     },
     {
       "id": "remote-journalism-c1-14",
@@ -197,7 +210,8 @@
         "en": "interview",
         "es": "entrevista",
         "ru": "интервью"
-      }
+      },
+      "l2": "entretien"
     },
     {
       "id": "remote-journalism-c1-15",
@@ -210,7 +224,8 @@
         "en": "column",
         "es": "columna",
         "ru": "столбец"
-      }
+      },
+      "l2": "chronique"
     },
     {
       "id": "remote-journalism-c1-16",
@@ -223,7 +238,8 @@
         "en": "pluralism",
         "es": "pluralismo",
         "ru": "плюрализм"
-      }
+      },
+      "l2": "pluralisme"
     },
     {
       "id": "remote-journalism-c1-17",
@@ -236,7 +252,8 @@
         "en": "audience",
         "es": "audiencia",
         "ru": "аудитория"
-      }
+      },
+      "l2": "audience"
     },
     {
       "id": "remote-journalism-c1-18",
@@ -249,7 +266,8 @@
         "en": "headlines / deck",
         "es": "titulares / cubierta",
         "ru": "заголовки / колода"
-      }
+      },
+      "l2": "titraille"
     },
     {
       "id": "remote-journalism-c1-19",
@@ -262,7 +280,8 @@
         "en": "embargo (press)",
         "es": "embargo (prensa)",
         "ru": "эмбарго (пресса)"
-      }
+      },
+      "l2": "embargo"
     },
     {
       "id": "remote-journalism-c1-20",
@@ -275,7 +294,8 @@
         "en": "journalistic ethics",
         "es": "ética periodística",
         "ru": "журналистская этика"
-      }
+      },
+      "l2": "déontologie"
     }
   ],
   "phrases": [
@@ -288,7 +308,8 @@
         "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
         "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
         "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
-      }
+      },
+      "l2": "Encore que le scoop soit tentant, la vérification doit précéder la une."
     },
     {
       "id": "remote-journalism-phrase-2",
@@ -299,7 +320,8 @@
         "en": "Far from being harmless, the headline performs a framing that steers the reader’s inference.",
         "es": "Lejos de ser inofensivo, el titular constituye un encuadre que dirige la inferencia del lector.",
         "ru": "Заголовок далеко не безобиден: он создает структуру, которая направляет умозаключения читателя."
-      }
+      },
+      "l2": "Loin d’être anodine, la titraille accomplit un cadrage qui oriente l’inférence du lecteur."
     },
     {
       "id": "remote-journalism-phrase-3",
@@ -310,7 +332,8 @@
         "en": "Unless the source is protected, the investigation will dry up after the first leak.",
         "es": "A menos que se proteja la fuente, la investigación se agotará después de la primera filtración.",
         "ru": "Если источник не будет защищен, расследование захлебнется после первой утечки."
-      }
+      },
+      "l2": "À moins que la source ne soit protégée, l’investigation tarira après la première fuite."
     },
     {
       "id": "remote-journalism-phrase-4",
@@ -321,7 +344,8 @@
         "en": "Even at the cost of losing audience, the newsroom refuses to publish unchecked disinformation.",
         "es": "Incluso a costa de perder audiencia, la redacción se niega a publicar desinformación sin control.",
         "ru": "Редакция новостей отказывается публиковать непроверенную дезинформацию даже ценой потери аудитории."
-      }
+      },
+      "l2": "Quitte à perdre de l’audience, la rédaction refuse de publier une infox non recoupée."
     },
     {
       "id": "remote-journalism-phrase-5",
@@ -332,7 +356,8 @@
         "en": "“The facts are established,” he declares, even though the angle remains highly selective.",
         "es": "\"Los hechos están establecidos\", afirma, aunque el ángulo sigue siendo muy selectivo.",
         "ru": "«Факты установлены», — заявляет он, хотя точка зрения остается весьма избирательной."
-      }
+      },
+      "l2": "« Les faits sont établis », déclare-t-il, alors que l’angle reste hautement sélectif."
     },
     {
       "id": "remote-journalism-phrase-6",
@@ -343,7 +368,8 @@
         "en": "The editorial endorses a thesis; the investigation still has to document it.",
         "es": "La editorial avala una tesis; la investigación aún tiene que documentarlo.",
         "ru": "Редакция поддерживает тезис; следствие еще должно это задокументировать."
-      }
+      },
+      "l2": "L’éditorial endosse une thèse ; l’enquête, elle, doit encore la documenter."
     }
   ],
   "listen": [
@@ -368,7 +394,8 @@
         "en": "source",
         "es": "fuente",
         "ru": "источник"
-      }
+      },
+      "l2": "La source n’exonère pas la rédaction d’un devoir de vérification croisée."
     },
     {
       "id": "remote-journalism-listen-2",
@@ -391,7 +418,8 @@
         "en": "framing",
         "es": "enmarcado",
         "ru": "обрамление"
-      }
+      },
+      "l2": "Le cadrage configure d’emblée l’inférence que le lecteur tirera des faits."
     },
     {
       "id": "remote-journalism-listen-3",
@@ -414,7 +442,8 @@
         "en": "fact-checking",
         "es": "verificación de hechos",
         "ru": "проверка фактов"
-      }
+      },
+      "l2": "La vérification arrive trop tard pour corriger une infox déjà virale."
     },
     {
       "id": "remote-journalism-listen-4",
@@ -437,7 +466,8 @@
         "en": "editorial",
         "es": "editorial",
         "ru": "редакционная статья"
-      }
+      },
+      "l2": "L’éditorial se distingue de l’enquête en ce qu’il endosse une thèse."
     }
   ],
   "prompts": [
@@ -607,7 +637,8 @@
           "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
           "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
           "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
-        }
+        },
+        "l2": "Encore que le scoop soit tentant, la vérification doit précéder la une."
       },
       {
         "id": "remote-journalism-dict-2",
@@ -618,7 +649,8 @@
           "en": "Far from being harmless, the headline performs a framing that steers the reader’s inference.",
           "es": "Lejos de ser inofensivo, el titular constituye un encuadre que dirige la inferencia del lector.",
           "ru": "Заголовок далеко не безобиден: он создает структуру, которая направляет умозаключения читателя."
-        }
+        },
+        "l2": "Loin d’être anodine, la titraille accomplit un cadrage qui oriente l’inférence du lecteur."
       },
       {
         "id": "remote-journalism-dict-3",
@@ -629,7 +661,8 @@
           "en": "Unless the source is protected, the investigation will dry up after the first leak.",
           "es": "A menos que se proteja la fuente, la investigación se agotará después de la primera filtración.",
           "ru": "Если источник не будет защищен, расследование захлебнется после первой утечки."
-        }
+        },
+        "l2": "À moins que la source ne soit protégée, l’investigation tarira après la première fuite."
       }
     ],
     "meaning": [
@@ -641,7 +674,8 @@
           "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
           "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
           "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
-        }
+        },
+        "l2": "Encore que le scoop soit tentant, la vérification doit précéder la une."
       },
       {
         "id": "remote-journalism-mean-2",
@@ -651,7 +685,8 @@
           "en": "Far from being harmless, the headline performs a framing that steers the reader’s inference.",
           "es": "Lejos de ser inofensivo, el titular constituye un encuadre que dirige la inferencia del lector.",
           "ru": "Заголовок далеко не безобиден: он создает структуру, которая направляет умозаключения читателя."
-        }
+        },
+        "l2": "Loin d’être anodine, la titraille accomplit un cadrage qui oriente l’inférence du lecteur."
       },
       {
         "id": "remote-journalism-mean-3",
@@ -661,7 +696,8 @@
           "en": "Unless the source is protected, the investigation will dry up after the first leak.",
           "es": "A menos que se proteja la fuente, la investigación se agotará después de la primera filtración.",
           "ru": "Если источник не будет защищен, расследование захлебнется после первой утечки."
-        }
+        },
+        "l2": "À moins que la source ne soit protégée, l’investigation tarira après la première fuite."
       }
     ],
     "fren": [
@@ -673,7 +709,8 @@
           "en": "investigation",
           "es": "investigación",
           "ru": "расследование"
-        }
+        },
+        "l2": "investigation"
       },
       {
         "id": "remote-journalism-fren-2",
@@ -683,7 +720,8 @@
           "en": "source",
           "es": "fuente",
           "ru": "источник"
-        }
+        },
+        "l2": "source"
       },
       {
         "id": "remote-journalism-fren-3",
@@ -693,7 +731,8 @@
           "en": "framing",
           "es": "enmarcado",
           "ru": "обрамление"
-        }
+        },
+        "l2": "cadrage"
       },
       {
         "id": "remote-journalism-fren-4",
@@ -703,7 +742,8 @@
           "en": "editorial",
           "es": "editorial",
           "ru": "редакционная статья"
-        }
+        },
+        "l2": "éditorial"
       },
       {
         "id": "remote-journalism-fren-5",
@@ -713,7 +753,8 @@
           "en": "fact-checking",
           "es": "verificación de hechos",
           "ru": "проверка фактов"
-        }
+        },
+        "l2": "vérification"
       },
       {
         "id": "remote-journalism-fren-6",
@@ -723,7 +764,8 @@
           "en": "scoop",
           "es": "cuchara",
           "ru": "совок"
-        }
+        },
+        "l2": "scoop"
       }
     ],
     "aloud": [
@@ -736,7 +778,8 @@
           "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
           "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
           "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
-        }
+        },
+        "l2": "Encore que le scoop soit tentant, la vérification doit précéder la une."
       },
       {
         "id": "remote-journalism-aloud-2",
@@ -747,7 +790,8 @@
           "en": "Unless the source is protected, the investigation will dry up after the first leak.",
           "es": "A menos que se proteja la fuente, la investigación se agotará después de la primera filtración.",
           "ru": "Если источник не будет защищен, расследование захлебнется после первой утечки."
-        }
+        },
+        "l2": "À moins que la source ne soit protégée, l’investigation tarira après la première fuite."
       },
       {
         "id": "remote-journalism-aloud-3",
@@ -758,7 +802,8 @@
           "en": "“The facts are established,” he declares, even though the angle remains highly selective.",
           "es": "\"Los hechos están establecidos\", afirma, aunque el ángulo sigue siendo muy selectivo.",
           "ru": "«Факты установлены», — заявляет он, хотя точка зрения остается весьма избирательной."
-        }
+        },
+        "l2": "« Les faits sont établis », déclare-t-il, alors que l’angle reste hautement sélectif."
       }
     ],
     "unscramble": [
@@ -784,7 +829,8 @@
           "en": "Even though the scoop is tempting, fact-checking must precede the front page.",
           "es": "Aunque la primicia sea tentadora, la verificación de datos debe preceder a la portada.",
           "ru": "Несмотря на то, что сенсационная новость заманчива, проверка фактов должна предшествовать первой полосе."
-        }
+        },
+        "l2": "Encore que le scoop soit tentant, la vérification doit précéder la une."
       },
       {
         "id": "remote-journalism-unsc-2",
@@ -805,7 +851,8 @@
           "en": "Far from being harmless, the headline already performs a framing.",
           "es": "Lejos de ser inofensivo, el titular ya cumple un encuadre.",
           "ru": "Заголовок далеко не безобидный, он уже выполняет обрамляющую функцию."
-        }
+        },
+        "l2": "Loin d’être anodine, la titraille accomplit déjà un cadrage."
       }
     ]
   }
