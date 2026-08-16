@@ -1,6 +1,6 @@
 {
   "pratiquePacks": 1,
-  "updatedAt": "2026-08-15",
+  "updatedAt": "2026-08-16",
   "packs": [
     {
       "id": "food-a1",
@@ -204,7 +204,7 @@
     },
     {
       "id": "comida-a1",
-      "version": 1,
+      "version": 2,
       "level": "a1",
       "lang": "es",
       "title": {
@@ -214,17 +214,17 @@
         "ru": "Еда А1 (ES)"
       },
       "description": {
-        "fr": "Café, marché et repas du quotidien — pack espagnol A1.",
-        "en": "Café, market, and everyday meals — Spanish A1 pack.",
-        "es": "Café, mercado y comidas diarias para principiantes de español.",
-        "ru": "Кафе, рынок и повседневное питание — испанский пакет A1."
+        "fr": "Café, marché et repas du quotidien pour débutants — pack espagnol.",
+        "en": "Café, market, and everyday meals for beginners — Spanish pack.",
+        "es": "Café, mercado y comidas diarias para principiantes para estudiar español.",
+        "ru": "Кафе, рынок и повседневное питание для новичков — испанский пакет."
       },
-      "cardCount": 12,
+      "cardCount": 22,
       "url": "./comida-a1.json"
     },
     {
       "id": "familia-a1",
-      "version": 1,
+      "version": 2,
       "level": "a1",
       "lang": "es",
       "title": {
@@ -234,17 +234,17 @@
         "ru": "Семья А1 (ES)"
       },
       "description": {
-        "fr": "Membres de la famille et présentations simples — pack espagnol A1.",
-        "en": "Family members and simple introductions — Spanish A1 pack.",
-        "es": "Miembros de la familia y presentaciones sencillas para principiantes.",
-        "ru": "Члены семьи и простые представления — испанский пакет A1."
+        "fr": "Personnes de la famille et mots simples pour se présenter — pack espagnol.",
+        "en": "Family members and simple words to introduce people — Spanish pack.",
+        "es": "Miembros de la familia y palabras sencillas para presentar a las personas para estudiar español.",
+        "ru": "Члены семьи и простые слова, чтобы представить людей — испанский пакет."
       },
-      "cardCount": 12,
+      "cardCount": 20,
       "url": "./familia-a1.json"
     },
     {
       "id": "casa-a1",
-      "version": 1,
+      "version": 2,
       "level": "a1",
       "lang": "es",
       "title": {
@@ -254,12 +254,12 @@
         "ru": "Дом А1 (ES)"
       },
       "description": {
-        "fr": "Pièces et objets du quotidien à la maison — pack espagnol A1.",
-        "en": "Rooms and everyday objects at home — Spanish A1 pack.",
-        "es": "Habitaciones y objetos cotidianos del hogar para principiantes.",
-        "ru": "Комнаты и предметы быта — испанский пакет A1."
+        "fr": "Pièces, meubles et objets du quotidien à la maison — pack espagnol.",
+        "en": "Rooms, furniture, and everyday objects at home — Spanish pack.",
+        "es": "Habitaciones, muebles y objetos cotidianos del hogar para estudiar español.",
+        "ru": "Комнаты, мебель и предметы быта дома — испанский пакет."
       },
-      "cardCount": 12,
+      "cardCount": 20,
       "url": "./casa-a1.json"
     },
     {
@@ -1261,6 +1261,146 @@
       },
       "cardCount": 20,
       "url": "./register-c2.json"
+    },
+    {
+      "id": "animales-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "Animaux A1 (ES)",
+        "en": "Animals A1 (ES)",
+        "es": "Animales A1",
+        "ru": "Животные А1 (ES)"
+      },
+      "description": {
+        "fr": "Animaux domestiques, de la ferme et de la nature pour débutants — pack espagnol.",
+        "en": "Pets, farm animals, and wildlife vocabulary for beginners — Spanish pack.",
+        "es": "Vocabulario sobre mascotas, animales de granja y vida salvaje para principiantes para estudiar español.",
+        "ru": "Словарный запас домашних животных, сельскохозяйственных животных и дикой природы для начинающих — испанский пакет."
+      },
+      "cardCount": 20,
+      "url": "./animales-a1.json"
+    },
+    {
+      "id": "ciudad-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "En ville A1 (ES)",
+        "en": "In town A1 (ES)",
+        "es": "En la ciudad A1",
+        "ru": "В городе А1 (ES)"
+      },
+      "description": {
+        "fr": "Lieux de la ville et phrases simples pour se déplacer — pack espagnol.",
+        "en": "Town places and simple phrases for getting around — Spanish pack.",
+        "es": "Lugares de la ciudad y frases sencillas para moverse para estudiar español.",
+        "ru": "Городские места и простые фразы для передвижения — испанский пакет."
+      },
+      "cardCount": 20,
+      "url": "./ciudad-a1.json"
+    },
+    {
+      "id": "ropa-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "Vêtements A1 (ES)",
+        "en": "Clothes A1 (ES)",
+        "es": "Ropa A1",
+        "ru": "Одежда А1 (ES)"
+      },
+      "description": {
+        "fr": "Habits, couleurs et expressions simples pour s’habiller au quotidien — pack espagnol.",
+        "en": "Clothes, colors, and simple phrases for getting dressed every day — Spanish pack.",
+        "es": "Ropa, colores y frases sencillas para vestirse cada día para estudiar español.",
+        "ru": "Одежда, цвета и простые фразы, которые помогут одеваться каждый день — испанский пакет."
+      },
+      "cardCount": 20,
+      "url": "./ropa-a1.json"
+    },
+    {
+      "id": "rutina-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "Routine A1 (ES)",
+        "en": "Daily routine A1 (ES)",
+        "es": "Rutina diaria A1",
+        "ru": "Распорядок дня А1 (ES)"
+      },
+      "description": {
+        "fr": "Levers, repas et habitudes simples de la journée — pack espagnol.",
+        "en": "Getting up, meals, and simple daily habits — Spanish pack.",
+        "es": "Levantarse, comidas y hábitos diarios sencillos para estudiar español.",
+        "ru": "Вставание, прием пищи и простые повседневные привычки — испанский пакет."
+      },
+      "cardCount": 20,
+      "url": "./rutina-a1.json"
+    },
+    {
+      "id": "escuela-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "École A1 (ES)",
+        "en": "School A1 (ES)",
+        "es": "Escuela A1",
+        "ru": "Школа А1 (ES)"
+      },
+      "description": {
+        "fr": "Classe, matériel scolaire et vie à l’école pour débutants — pack espagnol.",
+        "en": "Classroom, school supplies, and everyday school life for beginners — Spanish pack.",
+        "es": "Aula, material escolar y vida escolar cotidiana para principiantes para estudiar español.",
+        "ru": "Класс, школьные принадлежности и повседневная школьная жизнь для начинающих — испанский пакет."
+      },
+      "cardCount": 20,
+      "url": "./escuela-a1.json"
+    },
+    {
+      "id": "hora-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "L’heure A1 (ES)",
+        "en": "Time A1 (ES)",
+        "es": "Hora A1",
+        "ru": "Время А1 (ES)"
+      },
+      "description": {
+        "fr": "Heures, jours et moments de la journée pour débutants — pack espagnol.",
+        "en": "Hours, days, and times of day for beginners — Spanish pack.",
+        "es": "Horas, días y horas del día para principiantes para estudiar español.",
+        "ru": "Часы, дни и время суток для начинающих — испанский пакет."
+      },
+      "cardCount": 20,
+      "url": "./hora-a1.json"
+    },
+    {
+      "id": "clima-a1",
+      "version": 1,
+      "level": "a1",
+      "lang": "es",
+      "title": {
+        "fr": "Météo A1 (ES)",
+        "en": "Weather A1 (ES)",
+        "es": "Tiempo A1",
+        "ru": "Погода А1 (ES)"
+      },
+      "description": {
+        "fr": "Soleil, pluie, saisons et expressions simples sur le temps qu’il fait — pack espagnol.",
+        "en": "Sun, rain, seasons, and simple expressions about the weather — Spanish pack.",
+        "es": "Sol, lluvia, estaciones y expresiones sencillas sobre el tiempo para estudiar español.",
+        "ru": "Солнце, дождь, времена года и простые выражения о погоде — испанский пакет."
+      },
+      "cardCount": 20,
+      "url": "./clima-a1.json"
     }
   ],
   "locales": [

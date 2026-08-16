@@ -1,7 +1,7 @@
 {
   "pratiquePack": 2,
   "id": "casa-a1",
-  "version": 1,
+  "version": 2,
   "level": "a1",
   "lang": "es",
   "title": {
@@ -11,236 +11,617 @@
     "ru": "Дом А1 (ES)"
   },
   "description": {
-    "fr": "Pièces et objets du quotidien à la maison — pack espagnol A1.",
-    "en": "Rooms and everyday objects at home — Spanish A1 pack.",
-    "es": "Habitaciones y objetos cotidianos del hogar para principiantes.",
-    "ru": "Комнаты и предметы быта — испанский пакет A1."
+    "fr": "Pièces, meubles et objets du quotidien à la maison — pack espagnol.",
+    "en": "Rooms, furniture, and everyday objects at home — Spanish pack.",
+    "es": "Habitaciones, muebles y objetos cotidianos del hogar para estudiar español.",
+    "ru": "Комнаты, мебель и предметы быта дома — испанский пакет."
   },
   "seed": [
     {
       "id": "remote-casa-a1-1",
       "l2": "casa",
-      "en": "house / home",
-      "gloss": { "en": "house / home", "es": "casa", "ru": "дом" },
+      "en": "house",
+      "gloss": {
+        "en": "house",
+        "es": "casa",
+        "ru": "дом"
+      },
       "example": "Vivo en una casa pequeña.",
-      "ipa": "ˈka.sa",
+      "ipa": "cˈa.sa",
       "article": "la"
     },
     {
       "id": "remote-casa-a1-2",
-      "l2": "cocina",
-      "en": "kitchen",
-      "gloss": { "en": "kitchen", "es": "cocina", "ru": "кухня" },
-      "example": "La cocina es grande.",
-      "ipa": "ko.ˈθi.na",
-      "article": "la"
-    },
-    {
-      "id": "remote-casa-a1-3",
-      "l2": "baño",
-      "en": "bathroom",
-      "gloss": { "en": "bathroom", "es": "baño", "ru": "ванная" },
-      "example": "El baño está limpio.",
-      "ipa": "ˈba.ɲo",
+      "l2": "apartamento",
+      "en": "apartment / flat",
+      "gloss": {
+        "en": "apartment / flat",
+        "es": "apartamento / piso",
+        "ru": "квартира / квартира"
+      },
+      "example": "Mi departamento está en el segundo piso.",
+      "ipa": "a.partamˈento",
       "article": "el"
     },
     {
+      "id": "remote-casa-a1-3",
+      "l2": "cocina",
+      "en": "kitchen",
+      "gloss": {
+        "en": "kitchen",
+        "es": "cocina",
+        "ru": "кухня"
+      },
+      "example": "La cocina es grande.",
+      "ipa": "coθˈi.na",
+      "article": "la"
+    },
+    {
       "id": "remote-casa-a1-4",
-      "l2": "dormitorio",
-      "en": "bedroom",
-      "gloss": { "en": "bedroom", "es": "dormitorio", "ru": "спальня" },
-      "example": "Mi dormitorio tiene una ventana.",
-      "ipa": "doɾ.mi.ˈto.ɾjo",
+      "l2": "sala de estar",
+      "en": "living room",
+      "gloss": {
+        "en": "living room",
+        "es": "sala de estar",
+        "ru": "гостиная"
+      },
+      "example": "Vemos la televisión en el salón.",
+      "ipa": "sa.la de estˈar",
       "article": "el"
     },
     {
       "id": "remote-casa-a1-5",
-      "l2": "sala",
-      "en": "living room",
-      "gloss": { "en": "living room", "es": "sala", "ru": "гостиная" },
-      "example": "Vemos la tele en la sala.",
-      "ipa": "ˈsa.la",
-      "article": "la"
+      "l2": "dormitorio",
+      "en": "bedroom",
+      "gloss": {
+        "en": "bedroom",
+        "es": "dormitorio",
+        "ru": "спальня"
+      },
+      "example": "Mi habitación está en silencio.",
+      "ipa": "dormi.torˈio",
+      "article": "el"
     },
     {
       "id": "remote-casa-a1-6",
-      "l2": "mesa",
-      "en": "table",
-      "gloss": { "en": "table", "es": "mesa", "ru": "стол" },
-      "example": "La mesa está en la cocina.",
-      "ipa": "ˈme.sa",
-      "article": "la"
+      "l2": "baño",
+      "en": "bathroom",
+      "gloss": {
+        "en": "bathroom",
+        "es": "baño",
+        "ru": "ванная комната"
+      },
+      "example": "¿Dónde está el baño?",
+      "ipa": "bˈa.ɲo",
+      "article": "el"
     },
     {
       "id": "remote-casa-a1-7",
-      "l2": "silla",
-      "en": "chair",
-      "gloss": { "en": "chair", "es": "silla", "ru": "стул" },
-      "example": "Hay cuatro sillas.",
-      "ipa": "ˈsi.ʎa",
+      "l2": "cama",
+      "en": "bed",
+      "gloss": {
+        "en": "bed",
+        "es": "cama",
+        "ru": "кровать"
+      },
+      "example": "Me acuesto temprano.",
+      "ipa": "cˈa.ma",
       "article": "la"
     },
     {
       "id": "remote-casa-a1-8",
-      "l2": "cama",
-      "en": "bed",
-      "gloss": { "en": "bed", "es": "cama", "ru": "кровать" },
-      "example": "La cama es cómoda.",
-      "ipa": "ˈka.ma",
+      "l2": "mesa",
+      "en": "table",
+      "gloss": {
+        "en": "table",
+        "es": "mesa",
+        "ru": "стол"
+      },
+      "example": "La mesa está en la cocina.",
+      "ipa": "mˈe.sa",
       "article": "la"
     },
     {
       "id": "remote-casa-a1-9",
-      "l2": "puerta",
-      "en": "door",
-      "gloss": { "en": "door", "es": "puerta", "ru": "дверь" },
-      "example": "Cierra la puerta, por favor.",
-      "ipa": "ˈpweɾ.ta",
+      "l2": "silla",
+      "en": "chair",
+      "gloss": {
+        "en": "chair",
+        "es": "silla",
+        "ru": "стул"
+      },
+      "example": "Siéntate en esta silla.",
+      "ipa": "sˈi.ʎa",
       "article": "la"
     },
     {
       "id": "remote-casa-a1-10",
       "l2": "ventana",
       "en": "window",
-      "gloss": { "en": "window", "es": "ventana", "ru": "окно" },
-      "example": "Abre la ventana.",
-      "ipa": "ben.ˈta.na",
+      "gloss": {
+        "en": "window",
+        "es": "ventana",
+        "ru": "окно"
+      },
+      "example": "Abre la ventana, por favor.",
+      "ipa": "bentˈa.na",
       "article": "la"
     },
     {
       "id": "remote-casa-a1-11",
-      "l2": "llave",
-      "en": "key",
-      "gloss": { "en": "key", "es": "llave", "ru": "ключ" },
-      "example": "No encuentro la llave.",
-      "ipa": "ˈʎa.βe",
+      "l2": "puerta",
+      "en": "door",
+      "gloss": {
+        "en": "door",
+        "es": "puerta",
+        "ru": "дверь"
+      },
+      "example": "Cierre la puerta.",
+      "ipa": "puˈerta",
       "article": "la"
     },
     {
       "id": "remote-casa-a1-12",
-      "l2": "luz",
-      "en": "light",
-      "gloss": { "en": "light", "es": "luz", "ru": "свет" },
-      "example": "Enciende la luz.",
-      "ipa": "luθ",
+      "l2": "lámpara",
+      "en": "lamp",
+      "gloss": {
+        "en": "lamp",
+        "es": "lámpara",
+        "ru": "лампа"
+      },
+      "example": "Enciende la lámpara.",
+      "ipa": "lˈampa.ra",
       "article": "la"
+    },
+    {
+      "id": "remote-casa-a1-13",
+      "l2": "sofá",
+      "en": "sofa / couch",
+      "gloss": {
+        "en": "sofa / couch",
+        "es": "sofá / sofá",
+        "ru": "диван / кушетка"
+      },
+      "example": "El sofá es cómodo.",
+      "ipa": "sofˈa",
+      "article": "el"
+    },
+    {
+      "id": "remote-casa-a1-14",
+      "l2": "armario",
+      "en": "wardrobe / cupboard",
+      "gloss": {
+        "en": "wardrobe / cupboard",
+        "es": "armario / alacena",
+        "ru": "гардероб / шкаф"
+      },
+      "example": "Mi ropa está en el armario.",
+      "ipa": "armarˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-casa-a1-15",
+      "l2": "jardín",
+      "en": "garden",
+      "gloss": {
+        "en": "garden",
+        "es": "jardín",
+        "ru": "сад"
+      },
+      "example": "Hay un jardín detrás de la casa.",
+      "ipa": "xardˈin",
+      "article": "el"
+    },
+    {
+      "id": "remote-casa-a1-16",
+      "l2": "llave",
+      "en": "key",
+      "gloss": {
+        "en": "key",
+        "es": "llave",
+        "ru": "ключ"
+      },
+      "example": "Perdí mi llave.",
+      "ipa": "ʎˈa.be",
+      "article": "el"
+    },
+    {
+      "id": "remote-casa-a1-17",
+      "l2": "refrigerador",
+      "en": "fridge",
+      "gloss": {
+        "en": "fridge",
+        "es": "refrigerador",
+        "ru": "холодильник"
+      },
+      "example": "La leche está en la nevera.",
+      "ipa": "refri.xeradˈor",
+      "article": "el"
+    },
+    {
+      "id": "remote-casa-a1-18",
+      "l2": "escaleras",
+      "en": "stairs",
+      "gloss": {
+        "en": "stairs",
+        "es": "escaleras",
+        "ru": "лестница"
+      },
+      "example": "Sube las escaleras hasta el primer piso.",
+      "ipa": "escalˈe.ras",
+      "article": "el"
+    },
+    {
+      "id": "remote-casa-a1-19",
+      "l2": "televisión",
+      "en": "television",
+      "gloss": {
+        "en": "television",
+        "es": "televisión",
+        "ru": "телевидение"
+      },
+      "example": "La televisión está en el salón.",
+      "ipa": "te.lebi.siˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-casa-a1-20",
+      "l2": "piso",
+      "en": "floor / storey",
+      "gloss": {
+        "en": "floor / storey",
+        "es": "piso / piso",
+        "ru": "этаж / этаж"
+      },
+      "example": "Vivo en el tercer piso.",
+      "ipa": "pˈi.so",
+      "article": "el"
     }
   ],
   "phrases": [
     {
       "id": "remote-casa-a1-phrase-1",
-      "l2": "¿Dónde está el baño?",
-      "en": "Where is the bathroom?",
+      "l2": "¿Dónde está la cocina?",
+      "en": "Where is the kitchen?",
       "gloss": {
-        "en": "Where is the bathroom?",
-        "es": "¿Dónde está el baño?",
-        "ru": "Где ванная?"
+        "en": "Where is the kitchen?",
+        "es": "¿Dónde está la cocina?",
+        "ru": "Где кухня?"
       },
-      "ipa": "ˈdon.de es.ˈta el ˈba.ɲo"
+      "ipa": "dˈonde estˈa lˈa coθˈi.na"
     },
     {
       "id": "remote-casa-a1-phrase-2",
-      "l2": "La cocina es pequeña.",
-      "en": "The kitchen is small.",
-      "gloss": {
-        "en": "The kitchen is small.",
-        "es": "La cocina es pequeña.",
-        "ru": "Кухня маленькая."
-      },
-      "ipa": "la ko.ˈθi.na es pe.ˈke.ɲa"
-    },
-    {
-      "id": "remote-casa-a1-phrase-3",
-      "l2": "Abre la ventana, por favor.",
-      "en": "Open the window, please.",
-      "gloss": {
-        "en": "Open the window, please.",
-        "es": "Abre la ventana, por favor.",
-        "ru": "Открой окно, пожалуйста."
-      },
-      "ipa": "ˈa.βɾe la ben.ˈta.na poɾ fa.ˈβoɾ"
-    },
-    {
-      "id": "remote-casa-a1-phrase-4",
-      "l2": "Vivo en un piso.",
+      "l2": "Vivo en un apartamento.",
       "en": "I live in an apartment.",
       "gloss": {
         "en": "I live in an apartment.",
-        "es": "Vivo en un piso.",
+        "es": "Vivo en un apartamento.",
         "ru": "Я живу в квартире."
       },
-      "ipa": "ˈbi.βo en un ˈpi.so"
-    }
-  ],
-  "listen": [
-    {
-      "id": "remote-casa-a1-listen-1",
-      "l2": "La mesa está en la cocina.",
-      "en": "The table is in the kitchen.",
-      "gloss": {
-        "en": "The table is in the kitchen.",
-        "es": "La mesa está en la cocina.",
-        "ru": "Стол на кухне."
-      },
-      "word": "mesa",
-      "wordEn": "table",
-      "wordGloss": { "en": "table", "es": "mesa", "ru": "стол" },
-      "wordIpa": "ˈme.sa",
-      "distractors": ["silla", "cama", "llave"]
+      "ipa": "bˈi.bo ˈen ˈun a.partamˈento"
     },
     {
-      "id": "remote-casa-a1-listen-2",
+      "id": "remote-casa-a1-phrase-3",
+      "l2": "Mi habitación es pequeña pero agradable.",
+      "en": "My bedroom is small but pleasant.",
+      "gloss": {
+        "en": "My bedroom is small but pleasant.",
+        "es": "Mi dormitorio es pequeño pero agradable.",
+        "ru": "Моя спальня маленькая, но приятная."
+      },
+      "ipa": "mˈi a.bita.θiˈon ˈes pekˈe.ɲa pˈe.ro agradˈable"
+    },
+    {
+      "id": "remote-casa-a1-phrase-4",
+      "l2": "Hay un jardín detrás de la casa.",
+      "en": "There is a garden behind the house.",
+      "gloss": {
+        "en": "There is a garden behind the house.",
+        "es": "Hay un jardín detrás de la casa.",
+        "ru": "За домом есть сад."
+      },
+      "ipa": "ˈaʝ ˈun xardˈin detrˈas dˈe lˈa cˈa.sa"
+    },
+    {
+      "id": "remote-casa-a1-phrase-5",
       "l2": "Cierra la puerta, por favor.",
       "en": "Close the door, please.",
       "gloss": {
         "en": "Close the door, please.",
         "es": "Cierra la puerta, por favor.",
-        "ru": "Закрой дверь, пожалуйста."
+        "ru": "Закройте дверь, пожалуйста."
       },
-      "word": "puerta",
-      "wordEn": "door",
-      "wordGloss": { "en": "door", "es": "puerta", "ru": "дверь" },
-      "wordIpa": "ˈpweɾ.ta",
-      "distractors": ["ventana", "luz", "casa"]
+      "ipa": "θiˈe.ra lˈa puˈerta pˈor fabˈor"
+    },
+    {
+      "id": "remote-casa-a1-phrase-6",
+      "l2": "Enciende la lámpara del salón.",
+      "en": "Turn on the lamp in the living room.",
+      "gloss": {
+        "en": "Turn on the lamp in the living room.",
+        "es": "Enciende la lámpara del salón.",
+        "ru": "Включите лампу в гостиной."
+      },
+      "ipa": "enθiˈende lˈa lˈampa.ra dˈel salˈon"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-casa-a1-listen-1",
+      "l2": "Comemos en la mesa de la cocina.",
+      "en": "We eat at the table in the kitchen.",
+      "gloss": {
+        "en": "We eat at the table in the kitchen.",
+        "es": "Comemos en la mesa de la cocina.",
+        "ru": "Мы едим за столом на кухне."
+      },
+      "word": "cocina",
+      "wordEn": "kitchen",
+      "wordGloss": {
+        "en": "kitchen",
+        "es": "cocina",
+        "ru": "кухня"
+      },
+      "wordIpa": "coθˈi.na",
+      "distractors": [
+        "sala de estar",
+        "dormitorio",
+        "jardín"
+      ]
+    },
+    {
+      "id": "remote-casa-a1-listen-2",
+      "l2": "Mi llave está en la mesa junto a la puerta.",
+      "en": "My key is on the table near the door.",
+      "gloss": {
+        "en": "My key is on the table near the door.",
+        "es": "Mi llave está en la mesa cerca de la puerta.",
+        "ru": "Мой ключ на столе возле двери."
+      },
+      "word": "llave",
+      "wordEn": "key",
+      "wordGloss": {
+        "en": "key",
+        "es": "llave",
+        "ru": "ключ"
+      },
+      "wordIpa": "ʎˈa.be",
+      "distractors": [
+        "lámpara",
+        "silla",
+        "ventana"
+      ]
+    },
+    {
+      "id": "remote-casa-a1-listen-3",
+      "l2": "El sofá es cómodo en el salón.",
+      "en": "The sofa is comfortable in the living room.",
+      "gloss": {
+        "en": "The sofa is comfortable in the living room.",
+        "es": "El sofá es cómodo en el salón.",
+        "ru": "Диван удобен в гостиной."
+      },
+      "word": "sofá",
+      "wordEn": "sofa",
+      "wordGloss": {
+        "en": "sofa",
+        "es": "sofá",
+        "ru": "диван"
+      },
+      "wordIpa": "sofˈa",
+      "distractors": [
+        "cama",
+        "armario",
+        "refrigerador"
+      ]
+    },
+    {
+      "id": "remote-casa-a1-listen-4",
+      "l2": "Abre la ventana del dormitorio.",
+      "en": "Open the bedroom window.",
+      "gloss": {
+        "en": "Open the bedroom window.",
+        "es": "Abre la ventana del dormitorio.",
+        "ru": "Откройте окно спальни."
+      },
+      "word": "ventana",
+      "wordEn": "window",
+      "wordGloss": {
+        "en": "window",
+        "es": "ventana",
+        "ru": "окно"
+      },
+      "wordIpa": "bentˈa.na",
+      "distractors": [
+        "puerta",
+        "lámpara",
+        "mesa"
+      ]
     }
   ],
   "prompts": [
-    "Describe tu casa en tres frases.",
-    "¿Dónde comes en casa?",
-    "¿Qué hay en tu dormitorio?",
-    "Da instrucciones: abre o cierra algo en casa."
+    "Describe tu casa o apartamento.",
+    "¿Qué hay en tu salón?",
+    "¿Dónde duermes?",
+    "¿Qué muebles hay en tu habitación?"
   ],
   "grammar": [
     {
       "id": "remote-casa-a1-grammar-1",
       "title": {
-        "fr": "Hay / está",
-        "en": "Hay / está",
-        "es": "Hay / está",
-        "ru": "Hay / está"
+        "fr": "Articles définis (el / la)",
+        "en": "Definite articles (el / la)",
+        "es": "Artículos definidos (el / la)",
+        "ru": "Определённые артикли (el / la)"
       },
       "rule": {
-        "fr": "hay = il y a ; está = localisation d’une chose connue.",
-        "en": "hay = there is/are; está = location of a known thing.",
-        "es": "hay = there is/are; está = ubicación de algo conocido.",
-        "ru": "hay = есть; está = где находится известный предмет."
+        "fr": "el + masculin ; la + féminin.",
+        "en": "el + masculine; la + feminine.",
+        "es": "el + masculino; la + femenino.",
+        "ru": "el + мужской род; la + женский род."
       },
       "why": {
-        "en": "Useful to describe rooms and furniture.",
-        "es": "Útil para describir habitaciones y muebles.",
-        "ru": "Полезно для описания комнат и мебели."
+        "en": "Helps you name nouns correctly.",
+        "es": "Ayuda a nombrar sustantivos correctamente.",
+        "ru": "Помогает правильно называть существительные."
       },
       "table": [
-        ["Forma", "Uso", "Ejemplo"],
-        ["hay", "existencia", "Hay una mesa."],
-        ["está", "lugar", "La mesa está en la cocina."]
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "el",
+          "masculino",
+          "el apartamento"
+        ],
+        [
+          "la",
+          "femenino",
+          "la dormitorio"
+        ]
       ],
       "questions": [
         {
-          "id": "remote-casa-a1-gq-1",
-          "prompt": "Completa: ___ cuatro sillas.",
+          "id": "remote-casa-a1-gq-1-1",
+          "prompt": "Completa: ___ apartamento.",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-casa-a1-gq-1-2",
+          "prompt": "Completa: ___ dormitorio.",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "las"
+          ]
+        },
+        {
+          "id": "remote-casa-a1-gq-1-3",
+          "prompt": "¿El o la? → apartamento",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-casa-a1-gq-1-4",
+          "prompt": "Relaciona con el tema: apartamento / dormitorio. ¿Artículo de «apartamento»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-casa-a1-gq-1-5",
+          "prompt": "Relaciona con el tema: apartamento / dormitorio. ¿Artículo de «apartamento»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-casa-a1-grammar-2",
+      "title": {
+        "fr": "Hay + sustantivo",
+        "en": "Hay + noun",
+        "es": "Hay + sustantivo",
+        "ru": "Hay + существительное"
+      },
+      "rule": {
+        "fr": "Hay introduit ce qui existe : Hay un / una + nom.",
+        "en": "Hay introduces what exists: Hay un / una + noun.",
+        "es": "Hay presenta lo que existe: Hay un / una + sustantivo.",
+        "ru": "Hay вводит то, что есть: Hay un / una + существительное."
+      },
+      "why": {
+        "en": "Useful to say what is there.",
+        "es": "Útil para decir lo que hay.",
+        "ru": "Полезно, чтобы сказать, что есть."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Hay",
+          "existencia",
+          "Hay una cocina."
+        ],
+        [
+          "No hay",
+          "negación",
+          "No hay baño."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-casa-a1-gq-2-1",
+          "prompt": "Completa: ___ una cocina.",
           "answer": "Hay",
-          "options": ["Hay", "Está", "Soy"]
+          "options": [
+            "Hay",
+            "Es",
+            "Está"
+          ]
+        },
+        {
+          "id": "remote-casa-a1-gq-2-2",
+          "prompt": "Completa: No ___ baño.",
+          "answer": "hay",
+          "options": [
+            "hay",
+            "es",
+            "está"
+          ]
+        },
+        {
+          "id": "remote-casa-a1-gq-2-3",
+          "prompt": "Elige: Hay ___ cocina.",
+          "answer": "una",
+          "options": [
+            "una",
+            "el",
+            "la"
+          ]
+        },
+        {
+          "id": "remote-casa-a1-gq-2-4",
+          "prompt": "Relaciona con el tema: cocina / baño. ¿Artículo de «cocina»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-casa-a1-gq-2-5",
+          "prompt": "Relaciona con el tema: cocina / baño. ¿Artículo de «cocina»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
         }
       ]
     }
@@ -249,25 +630,67 @@
     "dictation": [
       {
         "id": "remote-casa-a1-dict-1",
-        "l2": "Abre la ventana.",
-        "en": "Open the window.",
+        "l2": "Vivo en una casa pequeña.",
+        "en": "I live in a small house.",
         "gloss": {
-          "en": "Open the window.",
-          "es": "Abre la ventana.",
-          "ru": "Открой окно."
+          "en": "I live in a small house.",
+          "es": "Vivo en una casa pequeña.",
+          "ru": "Я живу в небольшом доме."
         },
-        "ipa": "ˈa.βɾe la ben.ˈta.na"
+        "ipa": "bˈi.bo ˈen ˈu.na cˈa.sa pekˈe.ɲa"
+      },
+      {
+        "id": "remote-casa-a1-dict-2",
+        "l2": "La cocina es grande.",
+        "en": "The kitchen is big.",
+        "gloss": {
+          "en": "The kitchen is big.",
+          "es": "La cocina es grande.",
+          "ru": "Кухня большая."
+        },
+        "ipa": "lˈa coθˈi.na ˈes grˈande"
+      },
+      {
+        "id": "remote-casa-a1-dict-3",
+        "l2": "Abre la ventana, por favor.",
+        "en": "Open the window, please.",
+        "gloss": {
+          "en": "Open the window, please.",
+          "es": "Abre la ventana, por favor.",
+          "ru": "Откройте окно, пожалуйста."
+        },
+        "ipa": "ˈabre lˈa bentˈa.na pˈor fabˈor"
       }
     ],
     "meaning": [
       {
         "id": "remote-casa-a1-mean-1",
-        "l2": "El baño está limpio.",
-        "en": "The bathroom is clean.",
+        "l2": "¿Dónde está el baño?",
+        "en": "Where is the bathroom?",
         "gloss": {
-          "en": "The bathroom is clean.",
-          "es": "El baño está limpio.",
-          "ru": "Ванная чистая."
+          "en": "Where is the bathroom?",
+          "es": "¿Dónde está el baño?",
+          "ru": "Где здесь ванная комната?"
+        }
+      },
+      {
+        "id": "remote-casa-a1-mean-2",
+        "l2": "Me acuesto temprano.",
+        "en": "I go to bed early.",
+        "gloss": {
+          "en": "I go to bed early.",
+          "es": "Me acuesto temprano.",
+          "ru": "Я ложусь спать рано."
+        }
+      },
+      {
+        "id": "remote-casa-a1-mean-3",
+        "l2": "Enciende la lámpara.",
+        "en": "Turn on the lamp.",
+        "gloss": {
+          "en": "Turn on the lamp.",
+          "es": "Enciende la lámpara.",
+          "ru": "Включите лампу."
         }
       }
     ],
@@ -275,49 +698,157 @@
       {
         "id": "remote-casa-a1-fren-1",
         "l2": "casa",
-        "en": "house / home",
-        "gloss": { "en": "house / home", "es": "casa", "ru": "дом" }
+        "en": "house",
+        "gloss": {
+          "en": "house",
+          "es": "casa",
+          "ru": "дом"
+        }
       },
       {
         "id": "remote-casa-a1-fren-2",
         "l2": "cocina",
         "en": "kitchen",
-        "gloss": { "en": "kitchen", "es": "cocina", "ru": "кухня" }
+        "gloss": {
+          "en": "kitchen",
+          "es": "cocina",
+          "ru": "кухня"
+        }
+      },
+      {
+        "id": "remote-casa-a1-fren-3",
+        "l2": "sala de estar",
+        "en": "living room",
+        "gloss": {
+          "en": "living room",
+          "es": "sala de estar",
+          "ru": "гостиная"
+        }
+      },
+      {
+        "id": "remote-casa-a1-fren-4",
+        "l2": "dormitorio",
+        "en": "bedroom",
+        "gloss": {
+          "en": "bedroom",
+          "es": "dormitorio",
+          "ru": "спальня"
+        }
+      },
+      {
+        "id": "remote-casa-a1-fren-5",
+        "l2": "cama",
+        "en": "bed",
+        "gloss": {
+          "en": "bed",
+          "es": "cama",
+          "ru": "кровать"
+        }
+      },
+      {
+        "id": "remote-casa-a1-fren-6",
+        "l2": "puerta",
+        "en": "door",
+        "gloss": {
+          "en": "door",
+          "es": "puerta",
+          "ru": "дверь"
+        }
       }
     ],
     "aloud": [
       {
-        "id": "remote-casa-a1-aloud-1",
-        "l2": "Vivo en una casa pequeña.",
-        "en": "I live in a small house.",
+        "id": "remote-casa-a1-alou-1",
+        "l2": "Mi habitación está en silencio.",
+        "en": "My bedroom is quiet.",
         "gloss": {
-          "en": "I live in a small house.",
-          "es": "Vivo en una casa pequeña.",
-          "ru": "Я живу в маленьком доме."
+          "en": "My bedroom is quiet.",
+          "es": "Mi dormitorio está en silencio.",
+          "ru": "В моей спальне тихо."
         },
-        "ipa": "ˈbi.βo en ˈu.na ˈka.sa pe.ˈke.ɲa"
+        "ipa": "mˈi a.bita.θiˈon estˈa ˈen si.lenθˈio"
+      },
+      {
+        "id": "remote-casa-a1-alou-2",
+        "l2": "Cierre la puerta.",
+        "en": "Close the door.",
+        "gloss": {
+          "en": "Close the door.",
+          "es": "Cierre la puerta.",
+          "ru": "Закрыть дверь."
+        },
+        "ipa": "θiˈe.re lˈa puˈerta"
+      },
+      {
+        "id": "remote-casa-a1-alou-3",
+        "l2": "Hay un jardín detrás de la casa.",
+        "en": "There is a garden behind the house.",
+        "gloss": {
+          "en": "There is a garden behind the house.",
+          "es": "Hay un jardín detrás de la casa.",
+          "ru": "За домом есть сад."
+        },
+        "ipa": "ˈaʝ ˈun xardˈin detrˈas dˈe lˈa cˈa.sa"
       }
     ],
     "unscramble": [
       {
         "id": "remote-casa-a1-unsc-1",
-        "l2": "La cama es cómoda.",
-        "en": "The bed is comfortable.",
+        "l2": "La mesa está en la cocina.",
+        "en": "The table is in the kitchen.",
         "gloss": {
-          "en": "The bed is comfortable.",
-          "es": "La cama es cómoda.",
-          "ru": "Кровать удобная."
+          "en": "The table is in the kitchen.",
+          "es": "La mesa está en la cocina.",
+          "ru": "Стол находится на кухне."
         },
-        "words": ["La", "cama", "es", "cómoda."]
+        "words": [
+          "La",
+          "mesa",
+          "está",
+          "en",
+          "la",
+          "cocina."
+        ]
+      },
+      {
+        "id": "remote-casa-a1-unsc-2",
+        "l2": "El sofá es cómodo.",
+        "en": "The sofa is comfortable.",
+        "gloss": {
+          "en": "The sofa is comfortable.",
+          "es": "El sofá es cómodo.",
+          "ru": "Диван удобный."
+        },
+        "words": [
+          "El",
+          "sofá",
+          "es",
+          "cómodo."
+        ]
       }
     ],
     "signs": [
       {
         "id": "remote-casa-a1-sign-1",
-        "l2": "baño",
-        "en": "bathroom",
-        "gloss": { "en": "bathroom", "es": "baño", "ru": "ванная" },
-        "hint": "room sign"
+        "l2": "salida",
+        "en": "exit",
+        "gloss": {
+          "en": "exit",
+          "es": "salida",
+          "ru": "Выход"
+        },
+        "hint": "puerta/salida"
+      },
+      {
+        "id": "remote-casa-a1-sign-2",
+        "l2": "privado",
+        "en": "private",
+        "gloss": {
+          "en": "private",
+          "es": "privado",
+          "ru": "частный"
+        },
+        "hint": "no para el publico"
       }
     ]
   },
