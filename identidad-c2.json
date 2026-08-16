@@ -1,0 +1,851 @@
+{
+  "pratiquePack": 2,
+  "id": "identidad-c2",
+  "version": 1,
+  "level": "c2",
+  "lang": "es",
+  "title": {
+    "fr": "Identité et altérité C2 (ES)",
+    "en": "Identity and otherness C2 (ES)",
+    "es": "Identidad y alteridad C2",
+    "ru": "Идентичность и инаковость C2 (ES)"
+  },
+  "description": {
+    "fr": "Altérité, hybridité et reconnaissance pour penser l’appartenance et la diaspora — pack espagnol.",
+    "en": "Otherness, hybridity, and recognition for thinking belonging and diaspora — Spanish pack.",
+    "es": "Otredad, hibridez y reconocimiento para pensar la pertenencia y la diáspora para estudiar español.",
+    "ru": "Инаковость, гибридность и признание мыслящей принадлежности и диаспоры — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-identidad-c2-1",
+      "l2": "alteridad",
+      "en": "otherness",
+      "gloss": {
+        "en": "otherness",
+        "es": "alteridad",
+        "ru": "инаковость"
+      },
+      "example": "La alteridad, irreductible, no es una falta de identidad: es la condición.",
+      "ipa": "alte.ridˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-2",
+      "l2": "hibridación",
+      "en": "hybridity",
+      "gloss": {
+        "en": "hybridity",
+        "es": "hibridación",
+        "ru": "гибридность"
+      },
+      "example": "La hibridación, para Bhabha, no es una mezcla silenciosa: es una zona de fricción donde se negocian identidades.",
+      "ipa": "ibri.daθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-3",
+      "l2": "pertenencia",
+      "en": "belonging",
+      "gloss": {
+        "en": "belonging",
+        "es": "pertenencia",
+        "ru": "принадлежность"
+      },
+      "example": "La pertenencia, tan pronto como la esencializamos, excluye a las mismas personas que dice reunir.",
+      "ipa": "perte.nenθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-4",
+      "l2": "reconocimiento",
+      "en": "recognition",
+      "gloss": {
+        "en": "recognition",
+        "es": "reconocimiento",
+        "ru": "признание"
+      },
+      "example": "El reconocimiento, hegeliano, no es una mirada benevolente: es una lucha por ser considerado sujeto.",
+      "ipa": "re.cono.θimiˈento",
+      "article": "el"
+    },
+    {
+      "id": "remote-identidad-c2-5",
+      "l2": "diáspora",
+      "en": "diaspora",
+      "gloss": {
+        "en": "diaspora",
+        "es": "diáspora",
+        "ru": "диаспора"
+      },
+      "example": "La diáspora mantiene, más allá del territorio perdido, una memoria y redes.",
+      "ipa": "diˈaspo.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-6",
+      "l2": "esencialización",
+      "en": "essentialization",
+      "gloss": {
+        "en": "essentialization",
+        "es": "esencialización",
+        "ru": "эссенциализация"
+      },
+      "example": "La esencialización congela una identidad en la naturaleza y cierra el debate antes de que tenga lugar.",
+      "ipa": "e.senθia.liθa.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-7",
+      "l2": "adscripción",
+      "en": "ascription / assignment",
+      "gloss": {
+        "en": "ascription / assignment",
+        "es": "adscripción / cesión",
+        "ru": "приписывание / присвоение"
+      },
+      "example": "La asignación de identidad suele preceder al consentimiento de la persona a la que nombra.",
+      "ipa": "adscripθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-8",
+      "l2": "mestizaje",
+      "en": "métissage / mixing",
+      "gloss": {
+        "en": "métissage / mixing",
+        "es": "mestizaje / mezcla",
+        "ru": "метиссаж / смешивание"
+      },
+      "example": "El mestizaje, frente a la obsesión por la pureza, afirma una genealogía plural.",
+      "ipa": "mestiθˈa.xe",
+      "article": "el"
+    },
+    {
+      "id": "remote-identidad-c2-9",
+      "l2": "exilio",
+      "en": "exile",
+      "gloss": {
+        "en": "exile",
+        "es": "exilio",
+        "ru": "изгнание"
+      },
+      "example": "El exilio, incluso elegido, desplaza el centro: ya no habitamos el lugar, nos lo llevamos.",
+      "ipa": "e.xilˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-identidad-c2-10",
+      "l2": "heterotopía",
+      "en": "heterotopia",
+      "gloss": {
+        "en": "heterotopia",
+        "es": "heterotopía",
+        "ru": "гетеротопия"
+      },
+      "example": "La heterotopía, para Foucault, es un lugar real que cuestiona, al reflejarlos, todos los demás lugares.",
+      "ipa": "e.tero.topˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-11",
+      "l2": "en el medio",
+      "en": "in-between",
+      "gloss": {
+        "en": "in-between",
+        "es": "en el medio",
+        "ru": "между"
+      },
+      "example": "El entremedio no es una carencia: es el espacio donde se trabaja la hibridación.",
+      "ipa": "en el medˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-identidad-c2-12",
+      "l2": "subalternidad",
+      "en": "subalternity",
+      "gloss": {
+        "en": "subalternity",
+        "es": "subalternidad",
+        "ru": "подчинение"
+      },
+      "example": "La subalternidad, nos recordó Spivak, no se trata sólo de ser dominado: se trata de no ser escuchado.",
+      "ipa": "su.balternidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-13",
+      "l2": "criollización",
+      "en": "creolization",
+      "gloss": {
+        "en": "creolization",
+        "es": "criollización",
+        "ru": "креолизация"
+      },
+      "example": "La criollización, para Glissant, nombra un futuro impredecible, no una mezcla ya estructurada.",
+      "ipa": "crio.ʎiθa.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-14",
+      "l2": "descentrando",
+      "en": "decentring",
+      "gloss": {
+        "en": "decentring",
+        "es": "descentrando",
+        "ru": "децентрация"
+      },
+      "example": "La descentración le quita a Occidente el privilegio de ser la medida de toda alteridad.",
+      "ipa": "desθentrˈando",
+      "article": "el"
+    },
+    {
+      "id": "remote-identidad-c2-15",
+      "l2": "indigeneidad",
+      "en": "indigeneity",
+      "gloss": {
+        "en": "indigeneity",
+        "es": "indigeneidad",
+        "ru": "коренное население"
+      },
+      "example": "La autoctonía reivindica un vínculo anterior a la conquista, no una esencia fuera de la historia.",
+      "ipa": "indi.xeneidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-16",
+      "l2": "cosmopolitanismo",
+      "en": "cosmopolitanism",
+      "gloss": {
+        "en": "cosmopolitanism",
+        "es": "cosmopolitanismo",
+        "ru": "космополитизм"
+      },
+      "example": "El cosmopolitismo, si olvida sus anclas, queda reducido a la elegancia de los transeúntes.",
+      "ipa": "cosmo.poli.tanˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-identidad-c2-17",
+      "l2": "comunalismo",
+      "en": "communalism",
+      "gloss": {
+        "en": "communalism",
+        "es": "comunalismo",
+        "ru": "коммунализм"
+      },
+      "example": "El comunitarismo, en el debate francés, con demasiada frecuencia sirve como anatema para cualquier lealtad minoritaria.",
+      "ipa": "co.munalˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-identidad-c2-18",
+      "l2": "interseccionalidad",
+      "en": "intersectionality",
+      "gloss": {
+        "en": "intersectionality",
+        "es": "interseccionalidad",
+        "ru": "интерсекциональность"
+      },
+      "example": "La interseccionalidad rechaza que raza, género y clase se sumen sin entrelazarse.",
+      "ipa": "intersecθio.nalidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-19",
+      "l2": "performatividad",
+      "en": "performativity",
+      "gloss": {
+        "en": "performativity",
+        "es": "performatividad",
+        "ru": "перформативность"
+      },
+      "example": "La performatividad, para Butler, requiere que la identidad se forme enunciando a sí misma, no que preceda a la declaración.",
+      "ipa": "performa.tibidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-identidad-c2-20",
+      "l2": "arraigo",
+      "en": "rootedness",
+      "gloss": {
+        "en": "rootedness",
+        "es": "arraigo",
+        "ru": "укорененность"
+      },
+      "example": "Weil sabía que el arraigo no es nacionalismo: es la necesidad de un entorno vivo.",
+      "ipa": "a.raˈi.go",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-identidad-c2-phrase-1",
+      "l2": "La alteridad, que no es un defecto, sigue siendo la condición misma de toda identidad.",
+      "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+      "gloss": {
+        "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+        "es": "La alteridad, que no es un defecto, sigue siendo la condición misma de cualquier identidad.",
+        "ru": "Инаковость, которая не является дефектом, остается самим условием всякой идентичности."
+      },
+      "ipa": "lˈa alte.ridˈad kˈe nˈo ˈes ˈun defˈecto sˈi.ɡe siˈendo lˈa condi.θiˈon mˈisma"
+    },
+    {
+      "id": "remote-identidad-c2-phrase-2",
+      "l2": "Las diásporas que la historia ha dispersado mantienen, más allá del territorio, una memoria común.",
+      "en": "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+      "gloss": {
+        "en": "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+        "es": "Las diásporas que la historia ha dispersado mantienen, más allá del territorio, una memoria compartida.",
+        "ru": "Диаспоры, рассеянные историей, сохраняют за пределами территории общую память."
+      },
+      "ipa": "lˈas diˈaspo.ras kˈe lˈa istorˈia ˈa dispersˈa.do mantiˈe.nen mˈas aʎˈa dˈel te.ritorˈio"
+    },
+    {
+      "id": "remote-identidad-c2-phrase-3",
+      "l2": "Incluso si la pertenencia es cálida, no autoriza la esencialización.",
+      "en": "Even if belonging were warm, it would not licence essentialization.",
+      "gloss": {
+        "en": "Even if belonging were warm, it would not licence essentialization.",
+        "es": "Incluso si la pertenencia fuera cálida, no autorizaría la esencialización.",
+        "ru": "Даже если бы принадлежность была теплой, она не давала бы разрешения на эссенциализацию."
+      },
+      "ipa": "inclˈu.so sˈi lˈa perte.nenθˈia ˈes cˈa.lida nˈo au.torˈi.θa lˈa e.senθia.liθa.θiˈon"
+    },
+    {
+      "id": "remote-identidad-c2-phrase-4",
+      "l2": "El reconocimiento, hegeliano, es una lucha por ser considerado un sujeto, no una mirada benévola.",
+      "en": "Hegelian recognition is a struggle to be held as a subject, not a kindly gaze.",
+      "gloss": {
+        "en": "Hegelian recognition is a struggle to be held as a subject, not a kindly gaze.",
+        "es": "El reconocimiento hegeliano es una lucha por ser considerado un sujeto, no una mirada bondadosa.",
+        "ru": "Гегелевское признание — это борьба за то, чтобы его считали субъектом, а не добрый взгляд."
+      },
+      "ipa": "ˈel re.cono.θimiˈento e.xeliˈa.no ˈes ˈu.na lˈutʃa pˈor sˈer consi.derˈa.do ˈun suxˈe.to nˈo"
+    },
+    {
+      "id": "remote-identidad-c2-phrase-5",
+      "l2": "Aunque se celebró la hibridación, sigue siendo un área de fricción, no un refugio.",
+      "en": "Even though hybridity was celebrated, it remains a zone of friction, not a shelter.",
+      "gloss": {
+        "en": "Even though hybridity was celebrated, it remains a zone of friction, not a shelter.",
+        "es": "Aunque se celebró la hibridación, sigue siendo una zona de fricción, no un refugio.",
+        "ru": "Несмотря на то, что гибридность прославлялась, она остается зоной трений, а не убежищем."
+      },
+      "ipa": "aˈunke sˈe θe.lebrˈo lˈa ibri.daθiˈon sˈi.ɡe siˈendo ˈun ˈa.rea dˈe fricθiˈon nˈo"
+    },
+    {
+      "id": "remote-identidad-c2-phrase-6",
+      "l2": "Además, la citación precede muchas veces al consentimiento de la persona a la que nombra.",
+      "en": "Thus ascription often precedes the consent of the one it names.",
+      "gloss": {
+        "en": "Thus ascription often precedes the consent of the one it names.",
+        "es": "Así, la adscripción precede frecuentemente al consentimiento de aquel a quien nombra.",
+        "ru": "Таким образом, приписывание часто предшествует согласию того, кого оно называет."
+      },
+      "ipa": "a.demˈas lˈa θi.taθiˈon preθˈe.de mˈutʃas bˈe.θes ˈal consenti.miˈento dˈe lˈa persˈo.na ˈa"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-identidad-c2-listen-1",
+      "l2": "La alteridad no es una falta de identidad: es la condición.",
+      "en": "Otherness is not a defect of identity: it is its condition.",
+      "gloss": {
+        "en": "Otherness is not a defect of identity: it is its condition.",
+        "es": "La alteridad no es un defecto de identidad: es su condición.",
+        "ru": "Инаковость не является дефектом идентичности: это ее состояние."
+      },
+      "word": "alteridad",
+      "wordEn": "otherness",
+      "wordGloss": {
+        "en": "otherness",
+        "es": "alteridad",
+        "ru": "инаковость"
+      },
+      "wordIpa": "alte.ridˈad",
+      "distractors": [
+        "hibridación",
+        "pertenencia",
+        "exilio"
+      ]
+    },
+    {
+      "id": "remote-identidad-c2-listen-2",
+      "l2": "La hibridación es una zona de fricción donde se negocian identidades.",
+      "en": "Hybridity is a zone of friction where identities are negotiated.",
+      "gloss": {
+        "en": "Hybridity is a zone of friction where identities are negotiated.",
+        "es": "La hibridación es una zona de fricción donde se negocian identidades.",
+        "ru": "Гибридность — это зона трений, где обсуждаются идентичности."
+      },
+      "word": "hibridación",
+      "wordEn": "hybridity",
+      "wordGloss": {
+        "en": "hybridity",
+        "es": "hibridación",
+        "ru": "гибридность"
+      },
+      "wordIpa": "ibri.daθiˈon",
+      "distractors": [
+        "mestizaje",
+        "criollización",
+        "en el medio"
+      ]
+    },
+    {
+      "id": "remote-identidad-c2-listen-3",
+      "l2": "El reconocimiento es una lucha por ser considerado un sujeto.",
+      "en": "Recognition is a struggle to be held as a subject.",
+      "gloss": {
+        "en": "Recognition is a struggle to be held as a subject.",
+        "es": "El reconocimiento es una lucha por ser sostenido como sujeto.",
+        "ru": "Признание – это борьба за право быть субъектом."
+      },
+      "word": "reconocimiento",
+      "wordEn": "recognition",
+      "wordGloss": {
+        "en": "recognition",
+        "es": "reconocimiento",
+        "ru": "признание"
+      },
+      "wordIpa": "re.cono.θimiˈento",
+      "distractors": [
+        "pertenencia",
+        "performatividad",
+        "arraigo"
+      ]
+    },
+    {
+      "id": "remote-identidad-c2-listen-4",
+      "l2": "La diáspora mantiene una memoria más allá del territorio perdido.",
+      "en": "The diaspora maintains a memory beyond the lost territory.",
+      "gloss": {
+        "en": "The diaspora maintains a memory beyond the lost territory.",
+        "es": "La diáspora mantiene una memoria más allá del territorio perdido.",
+        "ru": "Диаспора хранит память за пределами утраченной территории."
+      },
+      "word": "diáspora",
+      "wordEn": "diaspora",
+      "wordGloss": {
+        "en": "diaspora",
+        "es": "diáspora",
+        "ru": "диаспора"
+      },
+      "wordIpa": "diˈaspo.ra",
+      "distractors": [
+        "exilio",
+        "indigeneidad",
+        "cosmopolitanismo"
+      ]
+    }
+  ],
+  "prompts": [
+    "Analice la diferencia de registro entre hibridación, mestizaje y criollización: ¿cuál de estos términos rechaza más claramente el modelo de pureza?",
+    "Criticar un discurso de pertenencia que esencializa: ¿qué hace con la alteridad interna del grupo?",
+    "¿Puede el reconocimiento funcionar sin lucha o es, hegelianamente, sólo un equilibrio simbólico de fuerzas?",
+    "A partir de una experiencia diaspórica (literaria o histórica), evaluar qué cambios del exilio se producen en el sentimiento de lugar."
+  ],
+  "grammar": [
+    {
+      "id": "remote-identidad-c2-grammar-1",
+      "title": {
+        "fr": "Registres et nuances lexicales",
+        "en": "Registers and lexical nuance",
+        "es": "Registros y matices léxicos",
+        "ru": "Регистры и лексические оттенки"
+      },
+      "rule": {
+        "fr": "Alternez léxico culto y léxico marcado (ironía, eufemismo) según el género discursivo.",
+        "en": "Switch between learned and marked lexicon (irony, euphemism) by discourse genre.",
+        "es": "Alterna léxico culto y léxico marcado (ironía, eufemismo) según el género discursivo.",
+        "ru": "Чередуйте книжную и маркированную лексику в зависимости от жанра."
+      },
+      "why": {
+        "en": "Control tone at near-native level.",
+        "es": "Controla el tono a un nivel casi nativo.",
+        "ru": "Контроль тона на почти родном уровне."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "culto",
+          "formal",
+          "contemplar la hibridación"
+        ],
+        [
+          "marcado",
+          "ironia / eufemismo",
+          "lo de diáspora"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-identidad-c2-gq-1-1",
+          "prompt": "Registro culto: ___ (no 'mirar').",
+          "answer": "contemplar",
+          "options": [
+            "contemplar",
+            "mirar",
+            "ver"
+          ]
+        },
+        {
+          "id": "remote-identidad-c2-gq-1-2",
+          "prompt": "El eufemismo suaviza el ___.",
+          "answer": "tono",
+          "options": [
+            "tono",
+            "sujeto",
+            "verbo"
+          ]
+        },
+        {
+          "id": "remote-identidad-c2-gq-1-3",
+          "prompt": "Matiz culto para hablar de hibridación.",
+          "answer": "discurso",
+          "options": [
+            "discurso",
+            "chisme",
+            "rollo"
+          ]
+        },
+        {
+          "id": "remote-identidad-c2-gq-1-4",
+          "prompt": "Relaciona con el tema: hibridación / diáspora. ¿Artículo de «hibridación»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-identidad-c2-gq-1-5",
+          "prompt": "Relaciona con el tema: hibridación / diáspora. ¿Artículo de «hibridación»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-identidad-c2-grammar-2",
+      "title": {
+        "fr": "Concessives complexes",
+        "en": "Complex concessives",
+        "es": "Concesivas complejas",
+        "ru": "Сложные уступительные конструкции"
+      },
+      "rule": {
+        "fr": "Por más que / si bien / aun cuando + subjuntivo intensifican la concesión.",
+        "en": "Por más que / si bien / aun cuando + subjunctive intensify concession.",
+        "es": "Por más que / si bien / aun cuando + subjuntivo intensifican la concesión.",
+        "ru": "Por más que / si bien / aun cuando + subjuntivo усиливают уступку."
+      },
+      "why": {
+        "en": "Useful in critique and rhetoric.",
+        "es": "Útil en la crítica y la retórica.",
+        "ru": "Полезно в критике и риторике."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "por más que",
+          "+ subj.",
+          "Por más que insista, dudo."
+        ],
+        [
+          "aun cuando",
+          "+ subj.",
+          "Aun cuando exista pertenencia, matizo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-identidad-c2-gq-2-1",
+          "prompt": "Por más que ___, no convence. (insistir)",
+          "answer": "insista",
+          "options": [
+            "insista",
+            "insiste",
+            "insistirá"
+          ]
+        },
+        {
+          "id": "remote-identidad-c2-gq-2-2",
+          "prompt": "Aun cuando ___, matizo. (ser)",
+          "answer": "sea",
+          "options": [
+            "sea",
+            "es",
+            "será"
+          ]
+        },
+        {
+          "id": "remote-identidad-c2-gq-2-3",
+          "prompt": "Si bien ___, concedo el punto. (discrepar)",
+          "answer": "discrepo",
+          "options": [
+            "discrepo",
+            "discrepe",
+            "discreparé"
+          ]
+        },
+        {
+          "id": "remote-identidad-c2-gq-2-4",
+          "prompt": "Relaciona con el tema: pertenencia / esencialización. ¿Artículo de «pertenencia»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-identidad-c2-gq-2-5",
+          "prompt": "Relaciona con el tema: pertenencia / esencialización. ¿Artículo de «pertenencia»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-identidad-c2-dict-1",
+        "l2": "La alteridad, que no es un defecto, sigue siendo la condición misma de toda identidad.",
+        "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+        "gloss": {
+          "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+          "es": "La alteridad, que no es un defecto, sigue siendo la condición misma de cualquier identidad.",
+          "ru": "Инаковость, которая не является дефектом, остается самим условием всякой идентичности."
+        },
+        "ipa": "lˈa alte.ridˈad kˈe nˈo ˈes ˈun defˈecto sˈi.ɡe siˈendo lˈa condi.θiˈon mˈisma"
+      },
+      {
+        "id": "remote-identidad-c2-dict-2",
+        "l2": "Las diásporas que la historia ha dispersado mantienen, más allá del territorio, una memoria común.",
+        "en": "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+        "gloss": {
+          "en": "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+          "es": "Las diásporas que la historia ha dispersado mantienen, más allá del territorio, una memoria compartida.",
+          "ru": "Диаспоры, рассеянные историей, сохраняют за пределами территории общую память."
+        },
+        "ipa": "lˈas diˈaspo.ras kˈe lˈa istorˈia ˈa dispersˈa.do mantiˈe.nen mˈas aʎˈa dˈel te.ritorˈio"
+      },
+      {
+        "id": "remote-identidad-c2-dict-3",
+        "l2": "Incluso si la pertenencia es cálida, no autoriza la esencialización.",
+        "en": "Even if belonging were warm, it would not licence essentialization.",
+        "gloss": {
+          "en": "Even if belonging were warm, it would not licence essentialization.",
+          "es": "Incluso si la pertenencia fuera cálida, no autorizaría la esencialización.",
+          "ru": "Даже если бы принадлежность была теплой, она не давала бы разрешения на эссенциализацию."
+        },
+        "ipa": "inclˈu.so sˈi lˈa perte.nenθˈia ˈes cˈa.lida nˈo au.torˈi.θa lˈa e.senθia.liθa.θiˈon"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-identidad-c2-mean-1",
+        "l2": "La alteridad, que no es un defecto, sigue siendo la condición misma de toda identidad.",
+        "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+        "gloss": {
+          "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+          "es": "La alteridad, que no es un defecto, sigue siendo la condición misma de cualquier identidad.",
+          "ru": "Инаковость, которая не является дефектом, остается самим условием всякой идентичности."
+        }
+      },
+      {
+        "id": "remote-identidad-c2-mean-2",
+        "l2": "Las diásporas que la historia ha dispersado mantienen, más allá del territorio, una memoria común.",
+        "en": "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+        "gloss": {
+          "en": "The diasporas that history has scattered maintain, beyond territory, a shared memory.",
+          "es": "Las diásporas que la historia ha dispersado mantienen, más allá del territorio, una memoria compartida.",
+          "ru": "Диаспоры, рассеянные историей, сохраняют за пределами территории общую память."
+        }
+      },
+      {
+        "id": "remote-identidad-c2-mean-3",
+        "l2": "Incluso si la pertenencia es cálida, no autoriza la esencialización.",
+        "en": "Even if belonging were warm, it would not licence essentialization.",
+        "gloss": {
+          "en": "Even if belonging were warm, it would not licence essentialization.",
+          "es": "Incluso si la pertenencia fuera cálida, no autorizaría la esencialización.",
+          "ru": "Даже если бы принадлежность была теплой, она не давала бы разрешения на эссенциализацию."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-identidad-c2-fren-1",
+        "l2": "alteridad",
+        "en": "otherness",
+        "gloss": {
+          "en": "otherness",
+          "es": "alteridad",
+          "ru": "инаковость"
+        }
+      },
+      {
+        "id": "remote-identidad-c2-fren-2",
+        "l2": "hibridación",
+        "en": "hybridity",
+        "gloss": {
+          "en": "hybridity",
+          "es": "hibridación",
+          "ru": "гибридность"
+        }
+      },
+      {
+        "id": "remote-identidad-c2-fren-3",
+        "l2": "pertenencia",
+        "en": "belonging",
+        "gloss": {
+          "en": "belonging",
+          "es": "pertenencia",
+          "ru": "принадлежность"
+        }
+      },
+      {
+        "id": "remote-identidad-c2-fren-4",
+        "l2": "reconocimiento",
+        "en": "recognition",
+        "gloss": {
+          "en": "recognition",
+          "es": "reconocimiento",
+          "ru": "признание"
+        }
+      },
+      {
+        "id": "remote-identidad-c2-fren-5",
+        "l2": "diáspora",
+        "en": "diaspora",
+        "gloss": {
+          "en": "diaspora",
+          "es": "diáspora",
+          "ru": "диаспора"
+        }
+      },
+      {
+        "id": "remote-identidad-c2-fren-6",
+        "l2": "esencialización",
+        "en": "essentialization",
+        "gloss": {
+          "en": "essentialization",
+          "es": "esencialización",
+          "ru": "эссенциализация"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-identidad-c2-alou-1",
+        "l2": "La alteridad, que no es un defecto, sigue siendo la condición misma de toda identidad.",
+        "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+        "gloss": {
+          "en": "Otherness, which is not a defect, remains the very condition of any identity.",
+          "es": "La alteridad, que no es un defecto, sigue siendo la condición misma de cualquier identidad.",
+          "ru": "Инаковость, которая не является дефектом, остается самим условием всякой идентичности."
+        },
+        "ipa": "lˈa alte.ridˈad kˈe nˈo ˈes ˈun defˈecto sˈi.ɡe siˈendo lˈa condi.θiˈon mˈisma"
+      },
+      {
+        "id": "remote-identidad-c2-alou-2",
+        "l2": "Incluso si la pertenencia es cálida, no autoriza la esencialización.",
+        "en": "Even if belonging were warm, it would not licence essentialization.",
+        "gloss": {
+          "en": "Even if belonging were warm, it would not licence essentialization.",
+          "es": "Incluso si la pertenencia fuera cálida, no autorizaría la esencialización.",
+          "ru": "Даже если бы принадлежность была теплой, она не давала бы разрешения на эссенциализацию."
+        },
+        "ipa": "inclˈu.so sˈi lˈa perte.nenθˈia ˈes cˈa.lida nˈo au.torˈi.θa lˈa e.senθia.liθa.θiˈon"
+      },
+      {
+        "id": "remote-identidad-c2-alou-3",
+        "l2": "Aunque se celebró la hibridación, sigue siendo un área de fricción, no un refugio.",
+        "en": "Even though hybridity was celebrated, it remains a zone of friction, not a shelter.",
+        "gloss": {
+          "en": "Even though hybridity was celebrated, it remains a zone of friction, not a shelter.",
+          "es": "Aunque se celebró la hibridación, sigue siendo una zona de fricción, no un refugio.",
+          "ru": "Несмотря на то, что гибридность прославлялась, она остается зоной трений, а не убежищем."
+        },
+        "ipa": "aˈunke sˈe θe.lebrˈo lˈa ibri.daθiˈon sˈi.ɡe siˈendo ˈun ˈa.rea dˈe fricθiˈon nˈo"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-identidad-c2-unsc-1",
+        "l2": "La diáspora mantiene, más allá del territorio perdido, una memoria y redes.",
+        "en": "The diaspora maintains, beyond the lost territory, a memory and networks.",
+        "gloss": {
+          "en": "The diaspora maintains, beyond the lost territory, a memory and networks.",
+          "es": "La diáspora mantiene, más allá del territorio perdido, una memoria y redes.",
+          "ru": "Диаспора сохраняет за пределами утраченной территории память и связи."
+        },
+        "words": [
+          "La",
+          "diáspora",
+          "mantiene,",
+          "más",
+          "allá",
+          "del",
+          "territorio",
+          "perdido,",
+          "una",
+          "memoria",
+          "y",
+          "redes."
+        ]
+      },
+      {
+        "id": "remote-identidad-c2-unsc-2",
+        "l2": "La esencialización congela una identidad en la naturaleza y cierra el debate antes de que tenga lugar.",
+        "en": "Essentialization freezes an identity into nature and closes the debate before it has even begun.",
+        "gloss": {
+          "en": "Essentialization freezes an identity into nature and closes the debate before it has even begun.",
+          "es": "La esencialización congela una identidad en la naturaleza y cierra el debate incluso antes de que haya comenzado.",
+          "ru": "Эссенциализация замораживает идентичность в природе и закрывает дискуссию еще до того, как она началась."
+        },
+        "words": [
+          "La",
+          "esencialización",
+          "congela",
+          "una",
+          "identidad",
+          "en",
+          "la",
+          "naturaleza",
+          "y",
+          "cierra",
+          "el",
+          "debate",
+          "antes",
+          "de",
+          "que",
+          "tenga",
+          "lugar."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

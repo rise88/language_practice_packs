@@ -1,0 +1,833 @@
+{
+  "pratiquePack": 2,
+  "id": "pasatiempos-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "es",
+  "title": {
+    "fr": "Loisirs A2 (ES)",
+    "en": "Hobbies A2 (ES)",
+    "es": "Pasatiempos A2",
+    "ru": "Хобби А2 (ES)"
+  },
+  "description": {
+    "fr": "Sports, musique, lecture et activités de temps libre — pack espagnol.",
+    "en": "Sports, music, reading, and free-time activities — Spanish pack.",
+    "es": "Deportes, música, lectura y actividades de tiempo libre para estudiar español.",
+    "ru": "Спорт, музыка, чтение и развлечения в свободное время — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-pasatiempos-a2-1",
+      "l2": "ocio",
+      "en": "leisure / hobby",
+      "gloss": {
+        "en": "leisure / hobby",
+        "es": "ocio / pasatiempo",
+        "ru": "досуг/хобби"
+      },
+      "example": "¿Cuáles son tus pasatiempos favoritos?",
+      "ipa": "oθˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-2",
+      "l2": "deporte",
+      "en": "sport",
+      "gloss": {
+        "en": "sport",
+        "es": "deporte",
+        "ru": "спорт"
+      },
+      "example": "Hago ejercicio tres veces por semana.",
+      "ipa": "depˈorte",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-3",
+      "l2": "fútbol",
+      "en": "football / soccer",
+      "gloss": {
+        "en": "football / soccer",
+        "es": "fútbol / fútbol",
+        "ru": "футбол / футбол"
+      },
+      "example": "Mi hermano juega al fútbol los sábados.",
+      "ipa": "fˈutbol",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-4",
+      "l2": "nadar",
+      "en": "swimming",
+      "gloss": {
+        "en": "swimming",
+        "es": "nadar",
+        "ru": "плавание"
+      },
+      "example": "La natación es buena para la salud.",
+      "ipa": "nadˈar",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-5",
+      "l2": "bicicleta",
+      "en": "bicycle / cycling",
+      "gloss": {
+        "en": "bicycle / cycling",
+        "es": "bicicleta / ciclismo",
+        "ru": "велосипед / езда на велосипеде"
+      },
+      "example": "Monto en bicicleta el domingo por la mañana.",
+      "ipa": "bi.θiclˈe.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-pasatiempos-a2-6",
+      "l2": "música",
+      "en": "music",
+      "gloss": {
+        "en": "music",
+        "es": "música",
+        "ru": "музыка"
+      },
+      "example": "Escucho música todos los días.",
+      "ipa": "mˈu.sica",
+      "article": "la"
+    },
+    {
+      "id": "remote-pasatiempos-a2-7",
+      "l2": "guitarra",
+      "en": "guitar",
+      "gloss": {
+        "en": "guitar",
+        "es": "guitarra",
+        "ru": "гитара"
+      },
+      "example": "Aprende a tocar la guitarra.",
+      "ipa": "ɡitˈa.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-pasatiempos-a2-8",
+      "l2": "piano",
+      "en": "piano",
+      "gloss": {
+        "en": "piano",
+        "es": "piano",
+        "ru": "фортепиано"
+      },
+      "example": "Toca el piano desde hace cinco años.",
+      "ipa": "piˈa.no",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-9",
+      "l2": "lectura",
+      "en": "reading",
+      "gloss": {
+        "en": "reading",
+        "es": "lectura",
+        "ru": "чтение"
+      },
+      "example": "La lectura me relaja por la noche.",
+      "ipa": "lectˈu.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-pasatiempos-a2-10",
+      "l2": "cine",
+      "en": "cinema / movies",
+      "gloss": {
+        "en": "cinema / movies",
+        "es": "cine / películas",
+        "ru": "кино / фильмы"
+      },
+      "example": "Este fin de semana vamos al cine.",
+      "ipa": "θˈi.ne",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-11",
+      "l2": "cuadro",
+      "en": "painting",
+      "gloss": {
+        "en": "painting",
+        "es": "cuadro",
+        "ru": "рисование"
+      },
+      "example": "La pintura es mi pasatiempo favorito.",
+      "ipa": "cuˈadro",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-12",
+      "l2": "fotografía",
+      "en": "photography",
+      "gloss": {
+        "en": "photography",
+        "es": "fotografía",
+        "ru": "фотография"
+      },
+      "example": "Le interesa la fotografía.",
+      "ipa": "fo.tografˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-pasatiempos-a2-13",
+      "l2": "jardinería",
+      "en": "gardening",
+      "gloss": {
+        "en": "gardening",
+        "es": "jardinería",
+        "ru": "садоводство"
+      },
+      "example": "A mi abuela le encanta la jardinería.",
+      "ipa": "xardi.nerˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-pasatiempos-a2-14",
+      "l2": "cocinando",
+      "en": "cooking",
+      "gloss": {
+        "en": "cooking",
+        "es": "cocinando",
+        "ru": "приготовление пищи"
+      },
+      "example": "Cocinar es un arte y un placer.",
+      "ipa": "co.θinˈando",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-15",
+      "l2": "senderismo",
+      "en": "hiking",
+      "gloss": {
+        "en": "hiking",
+        "es": "senderismo",
+        "ru": "пеший туризм"
+      },
+      "example": "Estamos caminando por las montañas.",
+      "ipa": "senderˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-16",
+      "l2": "tenis",
+      "en": "tennis",
+      "gloss": {
+        "en": "tennis",
+        "es": "tenis",
+        "ru": "теннис"
+      },
+      "example": "Ella juega tenis con su amiga.",
+      "ipa": "tˈe.nis",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-17",
+      "l2": "bailar",
+      "en": "dance / dancing",
+      "gloss": {
+        "en": "dance / dancing",
+        "es": "bailar / bailar",
+        "ru": "танцевать / танцы"
+      },
+      "example": "Toma clases de baile los martes.",
+      "ipa": "bailˈar",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-18",
+      "l2": "videojuego",
+      "en": "video game",
+      "gloss": {
+        "en": "video game",
+        "es": "videojuego",
+        "ru": "видеоигра"
+      },
+      "example": "Los videojuegos son populares entre los jóvenes.",
+      "ipa": "bi.deo.xuˈe.go",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-19",
+      "l2": "teatro",
+      "en": "theater",
+      "gloss": {
+        "en": "theater",
+        "es": "teatro",
+        "ru": "театр"
+      },
+      "example": "Esta tarde iremos al teatro.",
+      "ipa": "teˈatro",
+      "article": "el"
+    },
+    {
+      "id": "remote-pasatiempos-a2-20",
+      "l2": "recopilación",
+      "en": "collection",
+      "gloss": {
+        "en": "collection",
+        "es": "recopilación",
+        "ru": "коллекция"
+      },
+      "example": "Tiene una colección de sellos.",
+      "ipa": "re.copi.laθiˈon",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-pasatiempos-a2-phrase-1",
+      "l2": "¿Qué haces en tu tiempo libre?",
+      "en": "What do you do in your free time?",
+      "gloss": {
+        "en": "What do you do in your free time?",
+        "es": "¿Qué haces en tu tiempo libre?",
+        "ru": "Чем вы занимаетесь в свободное время?"
+      },
+      "ipa": "kˈe ˈa.θes ˈen tˈu tiˈempo lˈibre"
+    },
+    {
+      "id": "remote-pasatiempos-a2-phrase-2",
+      "l2": "Hago ejercicio tres veces por semana.",
+      "en": "I do sports three times a week.",
+      "gloss": {
+        "en": "I do sports three times a week.",
+        "es": "Hago deporte tres veces por semana.",
+        "ru": "Я занимаюсь спортом три раза в неделю."
+      },
+      "ipa": "ˈa.go e.xerθiθˈio trˈes bˈe.θes pˈor semˈa.na"
+    },
+    {
+      "id": "remote-pasatiempos-a2-phrase-3",
+      "l2": "Estoy aprendiendo a tocar la guitarra.",
+      "en": "I’m learning to play the guitar.",
+      "gloss": {
+        "en": "I’m learning to play the guitar.",
+        "es": "Estoy aprendiendo a tocar la guitarra.",
+        "ru": "Я учусь играть на гитаре."
+      },
+      "ipa": "estˈoʝ aprendiˈendo ˈa tocˈar lˈa ɡitˈa.ra"
+    },
+    {
+      "id": "remote-pasatiempos-a2-phrase-4",
+      "l2": "¿Quieres ir al cine este fin de semana?",
+      "en": "Do you want to go to the movies this weekend?",
+      "gloss": {
+        "en": "Do you want to go to the movies this weekend?",
+        "es": "¿Quieres ir al cine este fin de semana?",
+        "ru": "Хочешь пойти в кино на этих выходных?"
+      },
+      "ipa": "kiˈe.res ˈir ˈal θˈi.ne ˈeste fˈin dˈe semˈa.na"
+    },
+    {
+      "id": "remote-pasatiempos-a2-phrase-5",
+      "l2": "La lectura me relaja después del trabajo.",
+      "en": "Reading relaxes me after work.",
+      "gloss": {
+        "en": "Reading relaxes me after work.",
+        "es": "La lectura me relaja después del trabajo.",
+        "ru": "Чтение расслабляет меня после работы."
+      },
+      "ipa": "lˈa lectˈu.ra mˈe relˈa.xa despuˈes dˈel trabˈa.xo"
+    },
+    {
+      "id": "remote-pasatiempos-a2-phrase-6",
+      "l2": "Mi hobby favorito es la fotografía.",
+      "en": "My favorite hobby is photography.",
+      "gloss": {
+        "en": "My favorite hobby is photography.",
+        "es": "Mi hobby favorito es la fotografía.",
+        "ru": "Мое любимое хобби – фотография."
+      },
+      "ipa": "mˈi ˈobbʝ fa.borˈi.to ˈes lˈa fo.tografˈia"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-pasatiempos-a2-listen-1",
+      "l2": "Salgo en bicicleta el domingo por la mañana con amigos.",
+      "en": "I go cycling on Sunday mornings with friends.",
+      "gloss": {
+        "en": "I go cycling on Sunday mornings with friends.",
+        "es": "Salgo en bicicleta los domingos por la mañana con amigos.",
+        "ru": "Я езжу на велосипеде по воскресеньям утром с друзьями."
+      },
+      "word": "bicicleta",
+      "wordEn": "cycling / bicycle",
+      "wordGloss": {
+        "en": "cycling / bicycle",
+        "es": "ciclismo / bicicleta",
+        "ru": "езда на велосипеде / велосипед"
+      },
+      "wordIpa": "bi.θiclˈe.ta",
+      "distractors": [
+        "fútbol",
+        "nadar",
+        "tenis"
+      ]
+    },
+    {
+      "id": "remote-pasatiempos-a2-listen-2",
+      "l2": "Toca el piano desde hace cinco años.",
+      "en": "She has been playing the piano for five years.",
+      "gloss": {
+        "en": "She has been playing the piano for five years.",
+        "es": "Toca el piano desde hace cinco años.",
+        "ru": "Она играет на фортепиано уже пять лет."
+      },
+      "word": "piano",
+      "wordEn": "piano",
+      "wordGloss": {
+        "en": "piano",
+        "es": "piano",
+        "ru": "фортепиано"
+      },
+      "wordIpa": "piˈa.no",
+      "distractors": [
+        "guitarra",
+        "música",
+        "bailar"
+      ]
+    },
+    {
+      "id": "remote-pasatiempos-a2-listen-3",
+      "l2": "Este fin de semana vamos a hacer senderismo por la montaña.",
+      "en": "We’re going hiking in the mountains this weekend.",
+      "gloss": {
+        "en": "We’re going hiking in the mountains this weekend.",
+        "es": "Este fin de semana vamos a ir de excursión a la montaña.",
+        "ru": "На этих выходных мы собираемся в поход в горы."
+      },
+      "word": "senderismo",
+      "wordEn": "hiking",
+      "wordGloss": {
+        "en": "hiking",
+        "es": "senderismo",
+        "ru": "пеший туризм"
+      },
+      "wordIpa": "senderˈismo",
+      "distractors": [
+        "nadar",
+        "jardinería",
+        "recopilación"
+      ]
+    },
+    {
+      "id": "remote-pasatiempos-a2-listen-4",
+      "l2": "¿Qué haces en tu tiempo libre?",
+      "en": "What do you do in your free time?",
+      "gloss": {
+        "en": "What do you do in your free time?",
+        "es": "¿Qué haces en tu tiempo libre?",
+        "ru": "Чем вы занимаетесь в свободное время?"
+      },
+      "word": "tiempo libre",
+      "wordEn": "free time",
+      "wordGloss": {
+        "en": "free time",
+        "es": "tiempo libre",
+        "ru": "свободное время"
+      },
+      "wordIpa": "tiempo lˈibre",
+      "distractors": [
+        "ocio",
+        "deporte",
+        "trabajar"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Cuáles son tus pasatiempos favoritos?",
+    "Describe una actividad que haces el fin de semana.",
+    "¿Qué deporte te gustaría probar?",
+    "¿Cómo te relajas después del trabajo?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-pasatiempos-a2-grammar-1",
+      "title": {
+        "fr": "Pretérito vs imperfecto",
+        "en": "Preterite vs imperfect",
+        "es": "Pretérito frente a imperfecto",
+        "ru": "Pretérito и imperfecto"
+      },
+      "rule": {
+        "fr": "Le prétérito raconte un fait achevé ; l’imperfecto décrit le cadre ou l’habitude.",
+        "en": "Preterite narrates a completed event; imperfect sets the scene or habit.",
+        "es": "El pretérito narra un hecho terminado; el imperfecto describe el marco o la costumbre.",
+        "ru": "Pretérito — завершённое событие; imperfecto — фон или привычка."
+      },
+      "why": {
+        "en": "Choosing the right past tense clarifies your story.",
+        "es": "Elegir el pasado correcto aclara tu relato.",
+        "ru": "Правильный выбор прошедшего делает рассказ яснее."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Pretérito",
+          "hecho terminado",
+          "Ayer vi el deporte."
+        ],
+        [
+          "Imperfecto",
+          "costumbre / marco",
+          "Siempre había bicicleta."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-pasatiempos-a2-gq-1-1",
+          "prompt": "Ayer ___ al médico. (ir)",
+          "answer": "fui",
+          "options": [
+            "fui",
+            "iba",
+            "iré"
+          ]
+        },
+        {
+          "id": "remote-pasatiempos-a2-gq-1-2",
+          "prompt": "De niño, ___ mucho. (leer)",
+          "answer": "leía",
+          "options": [
+            "leí",
+            "leía",
+            "leeré"
+          ]
+        },
+        {
+          "id": "remote-pasatiempos-a2-gq-1-3",
+          "prompt": "El año pasado ___ el deporte. (comprar)",
+          "answer": "compré",
+          "options": [
+            "compré",
+            "compraba",
+            "compro"
+          ]
+        },
+        {
+          "id": "remote-pasatiempos-a2-gq-1-4",
+          "prompt": "Relaciona con el tema: deporte / bicicleta. ¿Artículo de «deporte»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-pasatiempos-a2-gq-1-5",
+          "prompt": "Relaciona con el tema: deporte / bicicleta. ¿Artículo de «deporte»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-pasatiempos-a2-grammar-2",
+      "title": {
+        "fr": "Por / para",
+        "en": "Por / para",
+        "es": "Por / para",
+        "ru": "Por / para"
+      },
+      "rule": {
+        "fr": "Para indique le but ou la destination ; por la cause, la durée ou le moyen.",
+        "en": "Para marks purpose or destination; por marks cause, duration, or means.",
+        "es": "Para indica propósito o destino; por indica causa, duración o medio.",
+        "ru": "Para — цель или направление; por — причина, длительность или средство."
+      },
+      "why": {
+        "en": "Avoids a very common mix-up.",
+        "es": "Evita una confusión muy frecuente.",
+        "ru": "Помогает избежать частой ошибки."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "para",
+          "objetivo / destino",
+          "Esto es para fútbol."
+        ],
+        [
+          "por",
+          "causa / medio",
+          "Lo hago por música."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-pasatiempos-a2-gq-2-1",
+          "prompt": "Estudio ___ fútbol. (objetivo)",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "con"
+          ]
+        },
+        {
+          "id": "remote-pasatiempos-a2-gq-2-2",
+          "prompt": "Gracias ___ tu ayuda.",
+          "answer": "por",
+          "options": [
+            "por",
+            "para",
+            "de"
+          ]
+        },
+        {
+          "id": "remote-pasatiempos-a2-gq-2-3",
+          "prompt": "Salgo ___ Madrid mañana.",
+          "answer": "para",
+          "options": [
+            "para",
+            "por",
+            "en"
+          ]
+        },
+        {
+          "id": "remote-pasatiempos-a2-gq-2-4",
+          "prompt": "Relaciona con el tema: fútbol / música. ¿Artículo de «fútbol»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-pasatiempos-a2-gq-2-5",
+          "prompt": "Relaciona con el tema: fútbol / música. ¿Artículo de «fútbol»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-pasatiempos-a2-dict-1",
+        "l2": "¿Qué haces en tu tiempo libre?",
+        "en": "What do you do in your free time?",
+        "gloss": {
+          "en": "What do you do in your free time?",
+          "es": "¿Qué haces en tu tiempo libre?",
+          "ru": "Чем вы занимаетесь в свободное время?"
+        },
+        "ipa": "kˈe ˈa.θes ˈen tˈu tiˈempo lˈibre"
+      },
+      {
+        "id": "remote-pasatiempos-a2-dict-2",
+        "l2": "Hago ejercicio tres veces por semana.",
+        "en": "I do sports three times a week.",
+        "gloss": {
+          "en": "I do sports three times a week.",
+          "es": "Hago deporte tres veces por semana.",
+          "ru": "Я занимаюсь спортом три раза в неделю."
+        },
+        "ipa": "ˈa.go e.xerθiθˈio trˈes bˈe.θes pˈor semˈa.na"
+      },
+      {
+        "id": "remote-pasatiempos-a2-dict-3",
+        "l2": "Estoy aprendiendo a tocar la guitarra.",
+        "en": "I’m learning to play the guitar.",
+        "gloss": {
+          "en": "I’m learning to play the guitar.",
+          "es": "Estoy aprendiendo a tocar la guitarra.",
+          "ru": "Я учусь играть на гитаре."
+        },
+        "ipa": "estˈoʝ aprendiˈendo ˈa tocˈar lˈa ɡitˈa.ra"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-pasatiempos-a2-mean-1",
+        "l2": "¿Quieres ir al cine este fin de semana?",
+        "en": "Do you want to go to the movies this weekend?",
+        "gloss": {
+          "en": "Do you want to go to the movies this weekend?",
+          "es": "¿Quieres ir al cine este fin de semana?",
+          "ru": "Хочешь пойти в кино на этих выходных?"
+        }
+      },
+      {
+        "id": "remote-pasatiempos-a2-mean-2",
+        "l2": "La lectura me relaja después del trabajo.",
+        "en": "Reading relaxes me after work.",
+        "gloss": {
+          "en": "Reading relaxes me after work.",
+          "es": "La lectura me relaja después del trabajo.",
+          "ru": "Чтение расслабляет меня после работы."
+        }
+      },
+      {
+        "id": "remote-pasatiempos-a2-mean-3",
+        "l2": "Mi hobby favorito es la fotografía.",
+        "en": "My favorite hobby is photography.",
+        "gloss": {
+          "en": "My favorite hobby is photography.",
+          "es": "Mi hobby favorito es la fotografía.",
+          "ru": "Мое любимое хобби – фотография."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-pasatiempos-a2-fren-1",
+        "l2": "deporte",
+        "en": "sport",
+        "gloss": {
+          "en": "sport",
+          "es": "deporte",
+          "ru": "спорт"
+        }
+      },
+      {
+        "id": "remote-pasatiempos-a2-fren-2",
+        "l2": "música",
+        "en": "music",
+        "gloss": {
+          "en": "music",
+          "es": "música",
+          "ru": "музыка"
+        }
+      },
+      {
+        "id": "remote-pasatiempos-a2-fren-3",
+        "l2": "lectura",
+        "en": "reading",
+        "gloss": {
+          "en": "reading",
+          "es": "lectura",
+          "ru": "чтение"
+        }
+      },
+      {
+        "id": "remote-pasatiempos-a2-fren-4",
+        "l2": "bicicleta",
+        "en": "cycling",
+        "gloss": {
+          "en": "cycling",
+          "es": "ciclismo",
+          "ru": "езда на велосипеде"
+        }
+      },
+      {
+        "id": "remote-pasatiempos-a2-fren-5",
+        "l2": "senderismo",
+        "en": "hiking",
+        "gloss": {
+          "en": "hiking",
+          "es": "senderismo",
+          "ru": "пеший туризм"
+        }
+      },
+      {
+        "id": "remote-pasatiempos-a2-fren-6",
+        "l2": "fotografía",
+        "en": "photography",
+        "gloss": {
+          "en": "photography",
+          "es": "fotografía",
+          "ru": "фотография"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-pasatiempos-a2-alou-1",
+        "l2": "¿Qué haces en tu tiempo libre?",
+        "en": "What do you do in your free time?",
+        "gloss": {
+          "en": "What do you do in your free time?",
+          "es": "¿Qué haces en tu tiempo libre?",
+          "ru": "Чем вы занимаетесь в свободное время?"
+        },
+        "ipa": "kˈe ˈa.θes ˈen tˈu tiˈempo lˈibre"
+      },
+      {
+        "id": "remote-pasatiempos-a2-alou-2",
+        "l2": "Estoy aprendiendo a tocar la guitarra.",
+        "en": "I’m learning to play the guitar.",
+        "gloss": {
+          "en": "I’m learning to play the guitar.",
+          "es": "Estoy aprendiendo a tocar la guitarra.",
+          "ru": "Я учусь играть на гитаре."
+        },
+        "ipa": "estˈoʝ aprendiˈendo ˈa tocˈar lˈa ɡitˈa.ra"
+      },
+      {
+        "id": "remote-pasatiempos-a2-alou-3",
+        "l2": "Estamos caminando por las montañas.",
+        "en": "We’re going hiking in the mountains.",
+        "gloss": {
+          "en": "We’re going hiking in the mountains.",
+          "es": "Vamos a hacer senderismo por las montañas.",
+          "ru": "Мы собираемся в поход в горы."
+        },
+        "ipa": "estˈa.mos ca.minˈando pˈor lˈas montˈa.ɲas"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-pasatiempos-a2-unsc-1",
+        "l2": "Hago deporte los sábados.",
+        "en": "I do sports on Saturdays.",
+        "gloss": {
+          "en": "I do sports on Saturdays.",
+          "es": "Hago deporte los sábados.",
+          "ru": "Я занимаюсь спортом по субботам."
+        },
+        "words": [
+          "Hago",
+          "deporte",
+          "los",
+          "sábados."
+        ]
+      },
+      {
+        "id": "remote-pasatiempos-a2-unsc-2",
+        "l2": "Toca el piano desde hace cinco años.",
+        "en": "She has played the piano for five years.",
+        "gloss": {
+          "en": "She has played the piano for five years.",
+          "es": "Toca el piano desde hace cinco años.",
+          "ru": "Она играет на фортепиано уже пять лет."
+        },
+        "words": [
+          "Toca",
+          "el",
+          "piano",
+          "desde",
+          "hace",
+          "cinco",
+          "años."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

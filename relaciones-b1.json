@@ -1,0 +1,833 @@
+{
+  "pratiquePack": 2,
+  "id": "relaciones-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "es",
+  "title": {
+    "fr": "Relations B1 (ES)",
+    "en": "Relationships B1 (ES)",
+    "es": "Relaciones B1",
+    "ru": "Отношения B1 (ES)"
+  },
+  "description": {
+    "fr": "Amitié, couple et conflits pour parler des relations avec nuance — pack espagnol.",
+    "en": "Friendship, couple life, and conflict — talking about relationships with nuance — Spanish pack.",
+    "es": "Amistad, vida de pareja y conflicto: hablar de relaciones con matices para estudiar español.",
+    "ru": "Дружба, семейная жизнь и конфликты — об отношениях с нюансами — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-relaciones-b1-1",
+      "l2": "relación",
+      "en": "relationship",
+      "gloss": {
+        "en": "relationship",
+        "es": "relación",
+        "ru": "отношение"
+      },
+      "example": "Nuestra relación ha cambiado desde el año pasado.",
+      "ipa": "re.laθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-2",
+      "l2": "amistad",
+      "en": "friendship",
+      "gloss": {
+        "en": "friendship",
+        "es": "amistad",
+        "ru": "дружба"
+      },
+      "example": "La amistad se construye con el tiempo.",
+      "ipa": "a.mistˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-3",
+      "l2": "confianza",
+      "en": "trust",
+      "gloss": {
+        "en": "trust",
+        "es": "confianza",
+        "ru": "доверять"
+      },
+      "example": "La confianza se gana lentamente.",
+      "ipa": "confiˈanθa",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-4",
+      "l2": "pareja",
+      "en": "couple",
+      "gloss": {
+        "en": "couple",
+        "es": "pareja",
+        "ru": "пара"
+      },
+      "example": "La pareja suele hablar por la noche.",
+      "ipa": "parˈe.xa",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-5",
+      "l2": "argumento",
+      "en": "argument / row",
+      "gloss": {
+        "en": "argument / row",
+        "es": "argumento/fila",
+        "ru": "аргумент/строка"
+      },
+      "example": "Después de la discusión, hicieron las paces.",
+      "ipa": "arɡmˈento",
+      "article": "el"
+    },
+    {
+      "id": "remote-relaciones-b1-6",
+      "l2": "disculpa",
+      "en": "apology / excuse",
+      "gloss": {
+        "en": "apology / excuse",
+        "es": "disculpa / excusa",
+        "ru": "извинение / оправдание"
+      },
+      "example": "Ella se disculpó.",
+      "ipa": "discˈulpa",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-7",
+      "l2": "celos",
+      "en": "jealousy",
+      "gloss": {
+        "en": "jealousy",
+        "es": "celos",
+        "ru": "ревность"
+      },
+      "example": "Los celos dañaron su amistad.",
+      "ipa": "θˈe.los",
+      "article": "el"
+    },
+    {
+      "id": "remote-relaciones-b1-8",
+      "l2": "apoyo",
+      "en": "support",
+      "gloss": {
+        "en": "support",
+        "es": "apoyo",
+        "ru": "поддерживать"
+      },
+      "example": "Necesito tu apoyo.",
+      "ipa": "apˈo.ʝo",
+      "article": "el"
+    },
+    {
+      "id": "remote-relaciones-b1-9",
+      "l2": "cercanía",
+      "en": "closeness / complicity",
+      "gloss": {
+        "en": "closeness / complicity",
+        "es": "cercanía / complicidad",
+        "ru": "близость/соучастие"
+      },
+      "example": "Existe un vínculo real entre ellos.",
+      "ipa": "θercanˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-10",
+      "l2": "ruptura",
+      "en": "break-up",
+      "gloss": {
+        "en": "break-up",
+        "es": "ruptura",
+        "ru": "расставаться"
+      },
+      "example": "La ruptura fue difícil para ambos.",
+      "ipa": "ruptˈu.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-11",
+      "l2": "reunión",
+      "en": "meeting / encounter",
+      "gloss": {
+        "en": "meeting / encounter",
+        "es": "reunión / encuentro",
+        "ru": "встреча / встреча"
+      },
+      "example": "Su encuentro tuvo lugar en un concierto.",
+      "ipa": "reu.niˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-12",
+      "l2": "persona soltera",
+      "en": "single person",
+      "gloss": {
+        "en": "single person",
+        "es": "persona soltera",
+        "ru": "одинокий человек"
+      },
+      "example": "Lleva dos años soltero.",
+      "ipa": "perso.na soltˈe.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-13",
+      "l2": "compromiso",
+      "en": "engagement",
+      "gloss": {
+        "en": "engagement",
+        "es": "compromiso",
+        "ru": "обручение"
+      },
+      "example": "Su compromiso sorprendió a la familia.",
+      "ipa": "compromˈi.so",
+      "article": "el"
+    },
+    {
+      "id": "remote-relaciones-b1-14",
+      "l2": "vecino",
+      "en": "neighbour",
+      "gloss": {
+        "en": "neighbour",
+        "es": "vecino",
+        "ru": "сосед"
+      },
+      "example": "Mi vecino a veces me ayuda los fines de semana.",
+      "ipa": "beθˈi.no",
+      "article": "el"
+    },
+    {
+      "id": "remote-relaciones-b1-15",
+      "l2": "círculo de personas",
+      "en": "circle of people",
+      "gloss": {
+        "en": "circle of people",
+        "es": "círculo de personas",
+        "ru": "круг людей"
+      },
+      "example": "Quienes la rodeaban la ayudaron mucho.",
+      "ipa": "cˈircu.lo de perso.nas",
+      "article": "el"
+    },
+    {
+      "id": "remote-relaciones-b1-16",
+      "l2": "soledad",
+      "en": "loneliness / solitude",
+      "gloss": {
+        "en": "loneliness / solitude",
+        "es": "soledad / soledad",
+        "ru": "одиночество / одиночество"
+      },
+      "example": "La soledad le pesa en invierno.",
+      "ipa": "so.ledˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-17",
+      "l2": "respeto",
+      "en": "respect",
+      "gloss": {
+        "en": "respect",
+        "es": "respeto",
+        "ru": "уважать"
+      },
+      "example": "El respeto mutuo es esencial.",
+      "ipa": "respˈe.to",
+      "article": "el"
+    },
+    {
+      "id": "remote-relaciones-b1-18",
+      "l2": "mentir",
+      "en": "lie",
+      "gloss": {
+        "en": "lie",
+        "es": "mentir",
+        "ru": "ложь"
+      },
+      "example": "Una mentira puede romper la confianza.",
+      "ipa": "mentˈir",
+      "article": "el"
+    },
+    {
+      "id": "remote-relaciones-b1-19",
+      "l2": "reconciliación",
+      "en": "reconciliation",
+      "gloss": {
+        "en": "reconciliation",
+        "es": "reconciliación",
+        "ru": "примирение"
+      },
+      "example": "La reconciliación tomó tiempo.",
+      "ipa": "re.conθi.lia.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-relaciones-b1-20",
+      "l2": "adjunto",
+      "en": "attachment",
+      "gloss": {
+        "en": "attachment",
+        "es": "adjunto",
+        "ru": "вложение"
+      },
+      "example": "El apego se ve en pequeños gestos.",
+      "ipa": "adxˈunto",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-relaciones-b1-phrase-1",
+      "l2": "Nos llevamos bien, aunque no estemos de acuerdo.",
+      "en": "We get along, even if we disagree.",
+      "gloss": {
+        "en": "We get along, even if we disagree.",
+        "es": "Nos llevamos bien, incluso si no estamos de acuerdo.",
+        "ru": "Мы ладим, даже если не согласны."
+      },
+      "ipa": "nˈos ʎebˈa.mos bˈien aˈunke nˈo estˈe.mos dˈe a.cuˈerdo"
+    },
+    {
+      "id": "remote-relaciones-b1-phrase-2",
+      "l2": "Le pedí disculpas.",
+      "en": "I apologised to him/her.",
+      "gloss": {
+        "en": "I apologised to him/her.",
+        "es": "Le pedí disculpas.",
+        "ru": "Я извинился перед ним/ней."
+      },
+      "ipa": "lˈe pedˈi discˈulpas"
+    },
+    {
+      "id": "remote-relaciones-b1-phrase-3",
+      "l2": "La confianza se construye poco a poco.",
+      "en": "Trust is built little by little.",
+      "gloss": {
+        "en": "Trust is built little by little.",
+        "es": "La confianza se construye poco a poco.",
+        "ru": "Доверие строится постепенно."
+      },
+      "ipa": "lˈa confiˈanθa sˈe constrˈu.ʝe pˈo.co ˈa pˈo.co"
+    },
+    {
+      "id": "remote-relaciones-b1-phrase-4",
+      "l2": "Después de la discusión, terminamos hablando.",
+      "en": "After the argument, we ended up talking.",
+      "gloss": {
+        "en": "After the argument, we ended up talking.",
+        "es": "Después de la discusión, terminamos hablando.",
+        "ru": "После ссоры мы разговорились."
+      },
+      "ipa": "despuˈes dˈe lˈa discu.siˈon terminˈa.mos ablˈando"
+    },
+    {
+      "id": "remote-relaciones-b1-phrase-5",
+      "l2": "Necesito tu apoyo ahora mismo.",
+      "en": "I need your support at the moment.",
+      "gloss": {
+        "en": "I need your support at the moment.",
+        "es": "Necesito tu apoyo en este momento.",
+        "ru": "Мне нужна ваша поддержка в данный момент."
+      },
+      "ipa": "ne.θesˈi.to tˈu apˈo.ʝo aˈo.ra mˈismo"
+    },
+    {
+      "id": "remote-relaciones-b1-phrase-6",
+      "l2": "No confundas todo con celos.",
+      "en": "You shouldn’t mistake everything for jealousy.",
+      "gloss": {
+        "en": "You shouldn’t mistake everything for jealousy.",
+        "es": "No debes confundir todo con celos.",
+        "ru": "Не стоит все принимать за ревность."
+      },
+      "ipa": "nˈo confˈundas tˈo.do cˈon θˈe.los"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-relaciones-b1-listen-1",
+      "l2": "Después de la discusión, hicieron las paces.",
+      "en": "After the argument, they made up.",
+      "gloss": {
+        "en": "After the argument, they made up.",
+        "es": "Después de la discusión, hicieron las paces.",
+        "ru": "После ссоры они помирились."
+      },
+      "word": "argumento",
+      "wordEn": "argument",
+      "wordGloss": {
+        "en": "argument",
+        "es": "argumento",
+        "ru": "аргумент"
+      },
+      "wordIpa": "arɡmˈento",
+      "distractors": [
+        "ruptura",
+        "reunión",
+        "disculpa"
+      ]
+    },
+    {
+      "id": "remote-relaciones-b1-listen-2",
+      "l2": "La confianza se gana lentamente.",
+      "en": "Trust is earned slowly.",
+      "gloss": {
+        "en": "Trust is earned slowly.",
+        "es": "La confianza se gana lentamente.",
+        "ru": "Доверие зарабатывается медленно."
+      },
+      "word": "confianza",
+      "wordEn": "trust",
+      "wordGloss": {
+        "en": "trust",
+        "es": "confianza",
+        "ru": "доверять"
+      },
+      "wordIpa": "confiˈanθa",
+      "distractors": [
+        "celos",
+        "soledad",
+        "respeto"
+      ]
+    },
+    {
+      "id": "remote-relaciones-b1-listen-3",
+      "l2": "Necesito tu apoyo ahora mismo.",
+      "en": "I need your support right now.",
+      "gloss": {
+        "en": "I need your support right now.",
+        "es": "Necesito tu apoyo ahora mismo.",
+        "ru": "Мне нужна твоя поддержка прямо сейчас."
+      },
+      "word": "apoyo",
+      "wordEn": "support",
+      "wordGloss": {
+        "en": "support",
+        "es": "apoyo",
+        "ru": "поддерживать"
+      },
+      "wordIpa": "apˈo.ʝo",
+      "distractors": [
+        "círculo de personas",
+        "adjunto",
+        "cercanía"
+      ]
+    },
+    {
+      "id": "remote-relaciones-b1-listen-4",
+      "l2": "Una mentira puede romper la confianza.",
+      "en": "A lie can break trust.",
+      "gloss": {
+        "en": "A lie can break trust.",
+        "es": "Una mentira puede romper la confianza.",
+        "ru": "Ложь может подорвать доверие."
+      },
+      "word": "mentir",
+      "wordEn": "lie",
+      "wordGloss": {
+        "en": "lie",
+        "es": "mentir",
+        "ru": "ложь"
+      },
+      "wordIpa": "mentˈir",
+      "distractors": [
+        "disculpa",
+        "ruptura",
+        "respeto"
+      ]
+    }
+  ],
+  "prompts": [
+    "Describe una amistad que sea importante para ti.",
+    "¿Cómo reaccionas después de una discusión?",
+    "¿Qué crees que hace que una relación dure?",
+    "Habla de una reconciliación (real o imaginaria)."
+  ],
+  "grammar": [
+    {
+      "id": "remote-relaciones-b1-grammar-1",
+      "title": {
+        "fr": "Subjonctif présent après querer que",
+        "en": "Present subjunctive after querer que",
+        "es": "Subjuntivo presente tras querer que",
+        "ru": "Subjuntivo после querer que"
+      },
+      "rule": {
+        "fr": "Après querer / esperar / es importante que, utilisez le subjonctif présent.",
+        "en": "After querer / esperar / es importante que, use the present subjunctive.",
+        "es": "Tras querer / esperar / es importante que, usa el subjuntivo presente.",
+        "ru": "После querer / esperar / es importante que — presente de subjuntivo."
+      },
+      "why": {
+        "en": "Expresses wishes and necessity about someone else.",
+        "es": "Expresa deseos y necesidad sobre otra persona.",
+        "ru": "Выражает желание или необходимость в отношении другого."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "quiero que",
+          "+ subjuntivo",
+          "Quiero que haya amistad."
+        ],
+        [
+          "es importante que",
+          "+ subjuntivo",
+          "Es importante que exista argumento."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-relaciones-b1-gq-1-1",
+          "prompt": "Quiero que tú ___ (venir).",
+          "answer": "vengas",
+          "options": [
+            "vengas",
+            "vienes",
+            "vendrás"
+          ]
+        },
+        {
+          "id": "remote-relaciones-b1-gq-1-2",
+          "prompt": "Es importante que ___ (haber) consenso.",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-relaciones-b1-gq-1-3",
+          "prompt": "Espero que ___ (ser) posible.",
+          "answer": "sea",
+          "options": [
+            "sea",
+            "es",
+            "será"
+          ]
+        },
+        {
+          "id": "remote-relaciones-b1-gq-1-4",
+          "prompt": "Relaciona con el tema: amistad / argumento. ¿Artículo de «amistad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-relaciones-b1-gq-1-5",
+          "prompt": "Relaciona con el tema: amistad / argumento. ¿Artículo de «amistad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-relaciones-b1-grammar-2",
+      "title": {
+        "fr": "Se impersonal",
+        "en": "Impersonal se",
+        "es": "Se impersonal",
+        "ru": "Безличный se"
+      },
+      "rule": {
+        "fr": "Se + 3e personne exprime une généralité : Se habla español.",
+        "en": "Se + 3rd person expresses a general rule: Se habla español.",
+        "es": "Se + 3.ª persona expresa una generalidad: Se habla español.",
+        "ru": "Se + 3-е лицо выражает общее правило: Se habla español."
+      },
+      "why": {
+        "en": "Sounds natural in advice and public notices.",
+        "es": "Suena natural en consejos y avisos.",
+        "ru": "Звучит естественно в советах и объявлениях."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Se + 3ª",
+          "generalidad",
+          "Se necesita confianza."
+        ],
+        [
+          "Se + 3ª",
+          "aviso",
+          "Se habla de disculpa."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-relaciones-b1-gq-2-1",
+          "prompt": "___ habla de confianza.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Lo",
+            "Le"
+          ]
+        },
+        {
+          "id": "remote-relaciones-b1-gq-2-2",
+          "prompt": "___ recomienda disculpa.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Me",
+            "Te"
+          ]
+        },
+        {
+          "id": "remote-relaciones-b1-gq-2-3",
+          "prompt": "En España ___ español.",
+          "answer": "se habla",
+          "options": [
+            "se habla",
+            "habla se",
+            "hablan se"
+          ]
+        },
+        {
+          "id": "remote-relaciones-b1-gq-2-4",
+          "prompt": "Relaciona con el tema: confianza / disculpa. ¿Artículo de «confianza»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-relaciones-b1-gq-2-5",
+          "prompt": "Relaciona con el tema: confianza / disculpa. ¿Artículo de «confianza»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-relaciones-b1-dict-1",
+        "l2": "Nos llevamos bien, aunque no estemos de acuerdo.",
+        "en": "We get along, even if we disagree.",
+        "gloss": {
+          "en": "We get along, even if we disagree.",
+          "es": "Nos llevamos bien, incluso si no estamos de acuerdo.",
+          "ru": "Мы ладим, даже если не согласны."
+        },
+        "ipa": "nˈos ʎebˈa.mos bˈien aˈunke nˈo estˈe.mos dˈe a.cuˈerdo"
+      },
+      {
+        "id": "remote-relaciones-b1-dict-2",
+        "l2": "Le pedí disculpas.",
+        "en": "I apologised to him/her.",
+        "gloss": {
+          "en": "I apologised to him/her.",
+          "es": "Le pedí disculpas.",
+          "ru": "Я извинился перед ним/ней."
+        },
+        "ipa": "lˈe pedˈi discˈulpas"
+      },
+      {
+        "id": "remote-relaciones-b1-dict-3",
+        "l2": "La confianza se construye poco a poco.",
+        "en": "Trust is built little by little.",
+        "gloss": {
+          "en": "Trust is built little by little.",
+          "es": "La confianza se construye poco a poco.",
+          "ru": "Доверие строится постепенно."
+        },
+        "ipa": "lˈa confiˈanθa sˈe constrˈu.ʝe pˈo.co ˈa pˈo.co"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-relaciones-b1-mean-1",
+        "l2": "Nos llevamos bien, aunque no estemos de acuerdo.",
+        "en": "We get along, even if we disagree.",
+        "gloss": {
+          "en": "We get along, even if we disagree.",
+          "es": "Nos llevamos bien, incluso si no estamos de acuerdo.",
+          "ru": "Мы ладим, даже если не согласны."
+        }
+      },
+      {
+        "id": "remote-relaciones-b1-mean-2",
+        "l2": "Le pedí disculpas.",
+        "en": "I apologised to him/her.",
+        "gloss": {
+          "en": "I apologised to him/her.",
+          "es": "Le pedí disculpas.",
+          "ru": "Я извинился перед ним/ней."
+        }
+      },
+      {
+        "id": "remote-relaciones-b1-mean-3",
+        "l2": "La confianza se construye poco a poco.",
+        "en": "Trust is built little by little.",
+        "gloss": {
+          "en": "Trust is built little by little.",
+          "es": "La confianza se construye poco a poco.",
+          "ru": "Доверие строится постепенно."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-relaciones-b1-fren-1",
+        "l2": "relación",
+        "en": "relationship",
+        "gloss": {
+          "en": "relationship",
+          "es": "relación",
+          "ru": "отношение"
+        }
+      },
+      {
+        "id": "remote-relaciones-b1-fren-2",
+        "l2": "amistad",
+        "en": "friendship",
+        "gloss": {
+          "en": "friendship",
+          "es": "amistad",
+          "ru": "дружба"
+        }
+      },
+      {
+        "id": "remote-relaciones-b1-fren-3",
+        "l2": "confianza",
+        "en": "trust",
+        "gloss": {
+          "en": "trust",
+          "es": "confianza",
+          "ru": "доверять"
+        }
+      },
+      {
+        "id": "remote-relaciones-b1-fren-4",
+        "l2": "pareja",
+        "en": "couple",
+        "gloss": {
+          "en": "couple",
+          "es": "pareja",
+          "ru": "пара"
+        }
+      },
+      {
+        "id": "remote-relaciones-b1-fren-5",
+        "l2": "argumento",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        }
+      },
+      {
+        "id": "remote-relaciones-b1-fren-6",
+        "l2": "disculpa",
+        "en": "apology",
+        "gloss": {
+          "en": "apology",
+          "es": "disculpa",
+          "ru": "извинение"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-relaciones-b1-alou-1",
+        "l2": "Nos llevamos bien, aunque no estemos de acuerdo.",
+        "en": "We get along, even if we disagree.",
+        "gloss": {
+          "en": "We get along, even if we disagree.",
+          "es": "Nos llevamos bien, incluso si no estamos de acuerdo.",
+          "ru": "Мы ладим, даже если не согласны."
+        },
+        "ipa": "nˈos ʎebˈa.mos bˈien aˈunke nˈo estˈe.mos dˈe a.cuˈerdo"
+      },
+      {
+        "id": "remote-relaciones-b1-alou-2",
+        "l2": "La confianza se construye poco a poco.",
+        "en": "Trust is built little by little.",
+        "gloss": {
+          "en": "Trust is built little by little.",
+          "es": "La confianza se construye poco a poco.",
+          "ru": "Доверие строится постепенно."
+        },
+        "ipa": "lˈa confiˈanθa sˈe constrˈu.ʝe pˈo.co ˈa pˈo.co"
+      },
+      {
+        "id": "remote-relaciones-b1-alou-3",
+        "l2": "Necesito tu apoyo ahora mismo.",
+        "en": "I need your support at the moment.",
+        "gloss": {
+          "en": "I need your support at the moment.",
+          "es": "Necesito tu apoyo en este momento.",
+          "ru": "Мне нужна ваша поддержка в данный момент."
+        },
+        "ipa": "ne.θesˈi.to tˈu apˈo.ʝo aˈo.ra mˈismo"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-relaciones-b1-unsc-1",
+        "l2": "Después de la discusión, terminamos hablando.",
+        "en": "After the argument, we ended up talking.",
+        "gloss": {
+          "en": "After the argument, we ended up talking.",
+          "es": "Después de la discusión, terminamos hablando.",
+          "ru": "После ссоры мы разговорились."
+        },
+        "words": [
+          "Después",
+          "de",
+          "la",
+          "discusión,",
+          "terminamos",
+          "hablando."
+        ]
+      },
+      {
+        "id": "remote-relaciones-b1-unsc-2",
+        "l2": "Necesito tu apoyo ahora mismo.",
+        "en": "I need your support at the moment.",
+        "gloss": {
+          "en": "I need your support at the moment.",
+          "es": "Necesito tu apoyo en este momento.",
+          "ru": "Мне нужна ваша поддержка в данный момент."
+        },
+        "words": [
+          "Necesito",
+          "tu",
+          "apoyo",
+          "ahora",
+          "mismo."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

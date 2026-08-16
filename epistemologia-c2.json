@@ -1,0 +1,857 @@
+{
+  "pratiquePack": 2,
+  "id": "epistemologia-c2",
+  "version": 1,
+  "level": "c2",
+  "lang": "es",
+  "title": {
+    "fr": "Épistémologie C2 (ES)",
+    "en": "Epistemology C2 (ES)",
+    "es": "Epistemología C2",
+    "ru": "Эпистемология C2 (ES)"
+  },
+  "description": {
+    "fr": "Justification, falsifiabilité et paradigmes pour penser les conditions du savoir — pack espagnol.",
+    "en": "Justification, falsifiability, and paradigms for thinking the conditions of knowledge — Spanish pack.",
+    "es": "Justificación, falsabilidad y paradigmas para pensar las condiciones del conocimiento para estudiar español.",
+    "ru": "Обоснование, фальсифицируемость и парадигмы мышления условий познания — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-epistemologia-c2-1",
+      "l2": "justificación",
+      "en": "justification",
+      "gloss": {
+        "en": "justification",
+        "es": "justificación",
+        "ru": "оправдание"
+      },
+      "example": "La justificación, incluso si es interna, no exime a la creencia de la prueba del mundo.",
+      "ipa": "xusti.fica.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-epistemologia-c2-2",
+      "l2": "falsabilidad",
+      "en": "falsifiability",
+      "gloss": {
+        "en": "falsifiability",
+        "es": "falsabilidad",
+        "ru": "фальсифицируемость"
+      },
+      "example": "La falsabilidad, argumentó Popper, sigue siendo el criterio por el cual una conjetura abandona la metafísica.",
+      "ipa": "falsa.bilidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-epistemologia-c2-3",
+      "l2": "paradigma",
+      "en": "paradigm",
+      "gloss": {
+        "en": "paradigm",
+        "es": "paradigma",
+        "ru": "парадигма"
+      },
+      "example": "El paradigma, para Kuhn, no es una teoría entre otras: organiza el campo de los problemas admisibles.",
+      "ipa": "pa.radˈigma",
+      "article": "la"
+    },
+    {
+      "id": "remote-epistemologia-c2-4",
+      "l2": "a priori",
+      "en": "a priori",
+      "gloss": {
+        "en": "a priori",
+        "es": "a priori",
+        "ru": "априори"
+      },
+      "example": "El a priori, lejos de ser una intuición cruda, designa lo que la experiencia no puede establecer.",
+      "ipa": "a priˈo.ri",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-5",
+      "l2": "testimonio",
+      "en": "testimony",
+      "gloss": {
+        "en": "testimony",
+        "es": "testimonio",
+        "ru": "показания"
+      },
+      "example": "El testimonio, una fuente epistémica olvidada durante mucho tiempo, plantea la cuestión de la confianza de los demás.",
+      "ipa": "testi.monˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-6",
+      "l2": "empirismo",
+      "en": "empiricism",
+      "gloss": {
+        "en": "empiricism",
+        "es": "empirismo",
+        "ru": "эмпиризм"
+      },
+      "example": "El empirismo, si se cierra a cualquier estructura a priori, se condena a la dispersión de impresiones.",
+      "ipa": "empirˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-7",
+      "l2": "inducción",
+      "en": "induction",
+      "gloss": {
+        "en": "induction",
+        "es": "inducción",
+        "ru": "индукция"
+      },
+      "example": "La inducción, había demostrado Hume, no tiene otra garantía que el hábito, no la necesidad.",
+      "ipa": "inducθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-epistemologia-c2-8",
+      "l2": "deducción",
+      "en": "deduction",
+      "gloss": {
+        "en": "deduction",
+        "es": "deducción",
+        "ru": "вычет"
+      },
+      "example": "La deducción preserva la verdad de las premisas, pero no aumenta el contenido informativo.",
+      "ipa": "de.ducθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-epistemologia-c2-9",
+      "l2": "fundacionalismo",
+      "en": "foundationalism",
+      "gloss": {
+        "en": "foundationalism",
+        "es": "fundacionalismo",
+        "ru": "фундаментализм"
+      },
+      "example": "El fundacionalismo busca una roca de creencias no inferidas sobre la cual construir conocimiento.",
+      "ipa": "funda.θio.nalˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-10",
+      "l2": "coherentismo",
+      "en": "coherentism",
+      "gloss": {
+        "en": "coherentism",
+        "es": "coherentismo",
+        "ru": "когерентизм"
+      },
+      "example": "El coherentismo, más que un fundamento, requiere la coherencia mutua de la red de creencias.",
+      "ipa": "coe.rentˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-11",
+      "l2": "episteme",
+      "en": "episteme",
+      "gloss": {
+        "en": "episteme",
+        "es": "episteme",
+        "ru": "эпистема"
+      },
+      "example": "La episteme, para Foucault, nombra la base histórica del conocimiento de una época.",
+      "ipa": "e.pistˈe.me",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-12",
+      "l2": "secuestro",
+      "en": "abduction",
+      "gloss": {
+        "en": "abduction",
+        "es": "secuestro",
+        "ru": "похищение"
+      },
+      "example": "La abducción, la inferencia hacia la mejor explicación, sigue siendo, como sabía Peirce, una conjetura.",
+      "ipa": "se.cuˈestro",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-13",
+      "l2": "solipsismo",
+      "en": "solipsism",
+      "gloss": {
+        "en": "solipsism",
+        "es": "solipsismo",
+        "ru": "солипсизм"
+      },
+      "example": "El solipsismo, reducido a su rigor, no admite otra mente que la mía: tesis insostenible y, sin embargo, difícil de refutar.",
+      "ipa": "so.lipsˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-14",
+      "l2": "nominalismo",
+      "en": "nominalism",
+      "gloss": {
+        "en": "nominalism",
+        "es": "nominalismo",
+        "ru": "номинализм"
+      },
+      "example": "El nominalismo niega a los universales cualquier existencia fuera de los nombres que se refieren a ellos.",
+      "ipa": "no.minalˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-15",
+      "l2": "confiabilidad",
+      "en": "reliabilism",
+      "gloss": {
+        "en": "reliabilism",
+        "es": "confiabilidad",
+        "ru": "релайабилизм"
+      },
+      "example": "El fiabilismo juzga justificada una creencia si proviene de un proceso confiable, incluso si es opaco para el sujeto.",
+      "ipa": "confia.bilidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-epistemologia-c2-16",
+      "l2": "subdeterminación",
+      "en": "underdetermination",
+      "gloss": {
+        "en": "underdetermination",
+        "es": "subdeterminación",
+        "ru": "недоопределенность"
+      },
+      "example": "La subdeterminación significa que la misma base empírica autoriza varias teorías incompatibles.",
+      "ipa": "subde.termi.naθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-epistemologia-c2-17",
+      "l2": "corroboración",
+      "en": "corroboration",
+      "gloss": {
+        "en": "corroboration",
+        "es": "corroboración",
+        "ru": "подтверждение"
+      },
+      "example": "La corroboración, para Popper, no es una prueba: es una supervivencia provisional de pruebas severas.",
+      "ipa": "co.robo.raθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-epistemologia-c2-18",
+      "l2": "escepticismo",
+      "en": "scepticism",
+      "gloss": {
+        "en": "scepticism",
+        "es": "escepticismo",
+        "ru": "скептицизм"
+      },
+      "example": "El escepticismo, si se radicaliza, socava incluso la posibilidad de plantear su propia tesis.",
+      "ipa": "esθeptiθˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-19",
+      "l2": "a posteriori",
+      "en": "a posteriori",
+      "gloss": {
+        "en": "a posteriori",
+        "es": "a posteriori",
+        "ru": "апостериори"
+      },
+      "example": "A posteriori designa aquello cuya justificación proviene de la experiencia.",
+      "ipa": "a poste.riˈo.ri",
+      "article": "el"
+    },
+    {
+      "id": "remote-epistemologia-c2-20",
+      "l2": "inferencia",
+      "en": "inference",
+      "gloss": {
+        "en": "inference",
+        "es": "inferencia",
+        "ru": "вывод"
+      },
+      "example": "La inferencia, ya sea deductiva, inductiva o abductiva, es el gesto mismo de la razón.",
+      "ipa": "infe.renθˈia",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-epistemologia-c2-phrase-1",
+      "l2": "No creo que la falsabilidad, por sí sola, agote el criterio del científico.",
+      "en": "I do not believe that falsifiability, by itself, exhausts the criterion of the scientific.",
+      "gloss": {
+        "en": "I do not believe that falsifiability, by itself, exhausts the criterion of the scientific.",
+        "es": "No creo que la falsabilidad, por sí sola, agote el criterio de lo científico.",
+        "ru": "Я не верю, что фальсифицируемость сама по себе исчерпывает критерий научности."
+      },
+      "ipa": "nˈo crˈeo kˈe lˈa falsa.bilidˈad pˈor sˈi sˈo.la agˈo.te ˈel cri.terˈio dˈel"
+    },
+    {
+      "id": "remote-epistemologia-c2-phrase-2",
+      "l2": "La justificación, incluso si es interna, no exime a la creencia de la prueba del mundo.",
+      "en": "Justification, even if internal, does not exempt belief from the world’s test.",
+      "gloss": {
+        "en": "Justification, even if internal, does not exempt belief from the world’s test.",
+        "es": "La justificación, incluso si es interna, no exime a la creencia de la prueba del mundo.",
+        "ru": "Оправдание, даже если оно внутреннее, не освобождает веру от мировых испытаний."
+      },
+      "ipa": "lˈa xusti.fica.θiˈon inclˈu.so sˈi ˈes intˈerna nˈo exˈi.me ˈa lˈa creenθˈia dˈe"
+    },
+    {
+      "id": "remote-epistemologia-c2-phrase-3",
+      "l2": "Puede ser que el paradigma organice el campo incluso antes de que los hechos hablen.",
+      "en": "It may be that the paradigm organises the field even before the facts speak.",
+      "gloss": {
+        "en": "It may be that the paradigm organises the field even before the facts speak.",
+        "es": "Puede ser que el paradigma organice el campo incluso antes de que los hechos hablen.",
+        "ru": "Возможно, парадигма организует поле еще до того, как заговорят факты."
+      },
+      "ipa": "puˈe.de sˈer kˈe ˈel pa.radˈigma organˈi.θe ˈel cˈampo inclˈu.so ˈantes dˈe kˈe"
+    },
+    {
+      "id": "remote-epistemologia-c2-phrase-4",
+      "l2": "Lo a priori, objetó, no es una intuición cruda, sino lo que la experiencia no puede establecer.",
+      "en": "The a priori, he objected, is not a raw intuition, but what experience cannot ground.",
+      "gloss": {
+        "en": "The a priori, he objected, is not a raw intuition, but what experience cannot ground.",
+        "es": "Lo a priori, objetó, no es una intuición cruda, sino algo que la experiencia no puede fundamentar.",
+        "ru": "Априори, возражал он, — это не грубая интуиция, а то, что опыт не может обосновать."
+      },
+      "ipa": "lˈo ˈa priˈo.ri obxetˈo nˈo ˈes ˈu.na intui.θiˈon crˈu.da sˈi.no lˈo kˈe"
+    },
+    {
+      "id": "remote-epistemologia-c2-phrase-5",
+      "l2": "Aunque el testimonio fue sospechoso, no podemos ignorarlo en las ciencias históricas.",
+      "en": "Even though testimony was suspect, one can hardly do without it in the historical sciences.",
+      "gloss": {
+        "en": "Even though testimony was suspect, one can hardly do without it in the historical sciences.",
+        "es": "Aunque el testimonio fuera sospechoso, en las ciencias históricas difícilmente se puede prescindir de él.",
+        "ru": "Хотя показания и были подозрительными, в исторических науках без них вряд ли можно обойтись."
+      },
+      "ipa": "aˈunke ˈel testi.monˈio fˈue sospetʃˈo.so nˈo podˈe.mos ignorˈarlo ˈen lˈas θienθˈias istˈo.ricas"
+    },
+    {
+      "id": "remote-epistemologia-c2-phrase-6",
+      "l2": "La subdeterminación significa que la misma base empírica autoriza varias teorías rivales.",
+      "en": "Underdetermination has it that the same empirical base licences several rival theories.",
+      "gloss": {
+        "en": "Underdetermination has it that the same empirical base licences several rival theories.",
+        "es": "La subdeterminación significa que la misma base empírica autoriza varias teorías rivales.",
+        "ru": "Недоопределенность заключается в том, что одна и та же эмпирическая база допускает несколько конкурирующих теорий."
+      },
+      "ipa": "lˈa subde.termi.naθiˈon signifˈi.ca kˈe lˈa mˈisma bˈa.se empˈi.rica au.torˈi.θa barˈias teorˈias ribˈa.les"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-epistemologia-c2-listen-1",
+      "l2": "La falsabilidad sigue siendo el criterio por el cual una conjetura sale de la metafísica.",
+      "en": "Falsifiability remains the criterion by which a conjecture leaves metaphysics.",
+      "gloss": {
+        "en": "Falsifiability remains the criterion by which a conjecture leaves metaphysics.",
+        "es": "La falsabilidad sigue siendo el criterio por el cual una conjetura sale de la metafísica.",
+        "ru": "Фальсифицируемость остается критерием, по которому гипотеза выходит из метафизики."
+      },
+      "word": "falsabilidad",
+      "wordEn": "falsifiability",
+      "wordGloss": {
+        "en": "falsifiability",
+        "es": "falsabilidad",
+        "ru": "фальсифицируемость"
+      },
+      "wordIpa": "falsa.bilidˈad",
+      "distractors": [
+        "corroboración",
+        "inducción",
+        "secuestro"
+      ]
+    },
+    {
+      "id": "remote-epistemologia-c2-listen-2",
+      "l2": "El paradigma organiza el campo de problemas admisibles.",
+      "en": "The paradigm organises the field of admissible problems.",
+      "gloss": {
+        "en": "The paradigm organises the field of admissible problems.",
+        "es": "El paradigma organiza el campo de problemas admisibles.",
+        "ru": "Парадигма организует поле допустимых задач."
+      },
+      "word": "paradigma",
+      "wordEn": "paradigm",
+      "wordGloss": {
+        "en": "paradigm",
+        "es": "paradigma",
+        "ru": "парадигма"
+      },
+      "wordIpa": "pa.radˈigma",
+      "distractors": [
+        "episteme",
+        "fundacionalismo",
+        "confiabilidad"
+      ]
+    },
+    {
+      "id": "remote-epistemologia-c2-listen-3",
+      "l2": "El testimonio plantea la cuestión de la confianza depositada en los demás.",
+      "en": "Testimony raises the question of the trust granted to others.",
+      "gloss": {
+        "en": "Testimony raises the question of the trust granted to others.",
+        "es": "El testimonio plantea la cuestión de la confianza otorgada a los demás.",
+        "ru": "Свидетельство поднимает вопрос о доверии, оказываемом другим."
+      },
+      "word": "testimonio",
+      "wordEn": "testimony",
+      "wordGloss": {
+        "en": "testimony",
+        "es": "testimonio",
+        "ru": "показания"
+      },
+      "wordIpa": "testi.monˈio",
+      "distractors": [
+        "justificación",
+        "inferencia",
+        "escepticismo"
+      ]
+    },
+    {
+      "id": "remote-epistemologia-c2-listen-4",
+      "l2": "El a priori designa lo que la experiencia no puede establecer.",
+      "en": "The a priori designates what experience cannot ground.",
+      "gloss": {
+        "en": "The a priori designates what experience cannot ground.",
+        "es": "El a priori designa lo que la experiencia no puede fundamentar.",
+        "ru": "Априори обозначает то, что опыт не может обосновать."
+      },
+      "word": "a priori",
+      "wordEn": "a priori",
+      "wordGloss": {
+        "en": "a priori",
+        "es": "a priori",
+        "ru": "априори"
+      },
+      "wordIpa": "a priˈo.ri",
+      "distractors": [
+        "a posteriori",
+        "empirismo",
+        "nominalismo"
+      ]
+    }
+  ],
+  "prompts": [
+    "Criticar el criterio popperiano de falsabilidad: ¿es suficiente separar ciencia y metafísica, o la subdeterminación arruina la claridad?",
+    "Comparemos el fundacionalismo y el coherentismo: ¿cuál de estas figuras de justificación resiste mejor al escepticismo?",
+    "Analizar el estatus epistémico del testimonio: ¿en qué se diferencia de la percepción y la inferencia?",
+    "Muestre, utilizando un ejemplo histórico, cómo un paradigma delimita lo que se considera un hecho."
+  ],
+  "grammar": [
+    {
+      "id": "remote-epistemologia-c2-grammar-1",
+      "title": {
+        "fr": "Registres et nuances lexicales",
+        "en": "Registers and lexical nuance",
+        "es": "Registros y matices léxicos",
+        "ru": "Регистры и лексические оттенки"
+      },
+      "rule": {
+        "fr": "Alternez léxico culto y léxico marcado (ironía, eufemismo) según el género discursivo.",
+        "en": "Switch between learned and marked lexicon (irony, euphemism) by discourse genre.",
+        "es": "Alterna léxico culto y léxico marcado (ironía, eufemismo) según el género discursivo.",
+        "ru": "Чередуйте книжную и маркированную лексику в зависимости от жанра."
+      },
+      "why": {
+        "en": "Control tone at near-native level.",
+        "es": "Controla el tono a un nivel casi nativo.",
+        "ru": "Контроль тона на почти родном уровне."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "culto",
+          "formal",
+          "contemplar la falsabilidad"
+        ],
+        [
+          "marcado",
+          "ironia / eufemismo",
+          "lo de testimonio"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-epistemologia-c2-gq-1-1",
+          "prompt": "Registro culto: ___ (no 'mirar').",
+          "answer": "contemplar",
+          "options": [
+            "contemplar",
+            "mirar",
+            "ver"
+          ]
+        },
+        {
+          "id": "remote-epistemologia-c2-gq-1-2",
+          "prompt": "El eufemismo suaviza el ___.",
+          "answer": "tono",
+          "options": [
+            "tono",
+            "sujeto",
+            "verbo"
+          ]
+        },
+        {
+          "id": "remote-epistemologia-c2-gq-1-3",
+          "prompt": "Matiz culto para hablar de falsabilidad.",
+          "answer": "discurso",
+          "options": [
+            "discurso",
+            "chisme",
+            "rollo"
+          ]
+        },
+        {
+          "id": "remote-epistemologia-c2-gq-1-4",
+          "prompt": "Relaciona con el tema: falsabilidad / testimonio. ¿Artículo de «falsabilidad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-epistemologia-c2-gq-1-5",
+          "prompt": "Relaciona con el tema: falsabilidad / testimonio. ¿Artículo de «falsabilidad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-epistemologia-c2-grammar-2",
+      "title": {
+        "fr": "Concessives complexes",
+        "en": "Complex concessives",
+        "es": "Concesivas complejas",
+        "ru": "Сложные уступительные конструкции"
+      },
+      "rule": {
+        "fr": "Por más que / si bien / aun cuando + subjuntivo intensifican la concesión.",
+        "en": "Por más que / si bien / aun cuando + subjunctive intensify concession.",
+        "es": "Por más que / si bien / aun cuando + subjuntivo intensifican la concesión.",
+        "ru": "Por más que / si bien / aun cuando + subjuntivo усиливают уступку."
+      },
+      "why": {
+        "en": "Useful in critique and rhetoric.",
+        "es": "Útil en la crítica y la retórica.",
+        "ru": "Полезно в критике и риторике."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "por más que",
+          "+ subj.",
+          "Por más que insista, dudo."
+        ],
+        [
+          "aun cuando",
+          "+ subj.",
+          "Aun cuando exista paradigma, matizo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-epistemologia-c2-gq-2-1",
+          "prompt": "Por más que ___, no convence. (insistir)",
+          "answer": "insista",
+          "options": [
+            "insista",
+            "insiste",
+            "insistirá"
+          ]
+        },
+        {
+          "id": "remote-epistemologia-c2-gq-2-2",
+          "prompt": "Aun cuando ___, matizo. (ser)",
+          "answer": "sea",
+          "options": [
+            "sea",
+            "es",
+            "será"
+          ]
+        },
+        {
+          "id": "remote-epistemologia-c2-gq-2-3",
+          "prompt": "Si bien ___, concedo el punto. (discrepar)",
+          "answer": "discrepo",
+          "options": [
+            "discrepo",
+            "discrepe",
+            "discreparé"
+          ]
+        },
+        {
+          "id": "remote-epistemologia-c2-gq-2-4",
+          "prompt": "Relaciona con el tema: paradigma / empirismo. ¿Artículo de «paradigma»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-epistemologia-c2-gq-2-5",
+          "prompt": "Relaciona con el tema: paradigma / empirismo. ¿Artículo de «paradigma»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-epistemologia-c2-dict-1",
+        "l2": "No creo que la falsabilidad, por sí sola, agote el criterio del científico.",
+        "en": "I do not believe that falsifiability, by itself, exhausts the criterion of the scientific.",
+        "gloss": {
+          "en": "I do not believe that falsifiability, by itself, exhausts the criterion of the scientific.",
+          "es": "No creo que la falsabilidad, por sí sola, agote el criterio de lo científico.",
+          "ru": "Я не верю, что фальсифицируемость сама по себе исчерпывает критерий научности."
+        },
+        "ipa": "nˈo crˈeo kˈe lˈa falsa.bilidˈad pˈor sˈi sˈo.la agˈo.te ˈel cri.terˈio dˈel"
+      },
+      {
+        "id": "remote-epistemologia-c2-dict-2",
+        "l2": "La justificación, incluso si es interna, no exime a la creencia de la prueba del mundo.",
+        "en": "Justification, even if internal, does not exempt belief from the world’s test.",
+        "gloss": {
+          "en": "Justification, even if internal, does not exempt belief from the world’s test.",
+          "es": "La justificación, incluso si es interna, no exime a la creencia de la prueba del mundo.",
+          "ru": "Оправдание, даже если оно внутреннее, не освобождает веру от мировых испытаний."
+        },
+        "ipa": "lˈa xusti.fica.θiˈon inclˈu.so sˈi ˈes intˈerna nˈo exˈi.me ˈa lˈa creenθˈia dˈe"
+      },
+      {
+        "id": "remote-epistemologia-c2-dict-3",
+        "l2": "Puede ser que el paradigma organice el campo incluso antes de que los hechos hablen.",
+        "en": "It may be that the paradigm organises the field even before the facts speak.",
+        "gloss": {
+          "en": "It may be that the paradigm organises the field even before the facts speak.",
+          "es": "Puede ser que el paradigma organice el campo incluso antes de que los hechos hablen.",
+          "ru": "Возможно, парадигма организует поле еще до того, как заговорят факты."
+        },
+        "ipa": "puˈe.de sˈer kˈe ˈel pa.radˈigma organˈi.θe ˈel cˈampo inclˈu.so ˈantes dˈe kˈe"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-epistemologia-c2-mean-1",
+        "l2": "No creo que la falsabilidad, por sí sola, agote el criterio del científico.",
+        "en": "I do not believe that falsifiability, by itself, exhausts the criterion of the scientific.",
+        "gloss": {
+          "en": "I do not believe that falsifiability, by itself, exhausts the criterion of the scientific.",
+          "es": "No creo que la falsabilidad, por sí sola, agote el criterio de lo científico.",
+          "ru": "Я не верю, что фальсифицируемость сама по себе исчерпывает критерий научности."
+        }
+      },
+      {
+        "id": "remote-epistemologia-c2-mean-2",
+        "l2": "La justificación, incluso si es interna, no exime a la creencia de la prueba del mundo.",
+        "en": "Justification, even if internal, does not exempt belief from the world’s test.",
+        "gloss": {
+          "en": "Justification, even if internal, does not exempt belief from the world’s test.",
+          "es": "La justificación, incluso si es interna, no exime a la creencia de la prueba del mundo.",
+          "ru": "Оправдание, даже если оно внутреннее, не освобождает веру от мировых испытаний."
+        }
+      },
+      {
+        "id": "remote-epistemologia-c2-mean-3",
+        "l2": "Puede ser que el paradigma organice el campo incluso antes de que los hechos hablen.",
+        "en": "It may be that the paradigm organises the field even before the facts speak.",
+        "gloss": {
+          "en": "It may be that the paradigm organises the field even before the facts speak.",
+          "es": "Puede ser que el paradigma organice el campo incluso antes de que los hechos hablen.",
+          "ru": "Возможно, парадигма организует поле еще до того, как заговорят факты."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-epistemologia-c2-fren-1",
+        "l2": "justificación",
+        "en": "justification",
+        "gloss": {
+          "en": "justification",
+          "es": "justificación",
+          "ru": "оправдание"
+        }
+      },
+      {
+        "id": "remote-epistemologia-c2-fren-2",
+        "l2": "falsabilidad",
+        "en": "falsifiability",
+        "gloss": {
+          "en": "falsifiability",
+          "es": "falsabilidad",
+          "ru": "фальсифицируемость"
+        }
+      },
+      {
+        "id": "remote-epistemologia-c2-fren-3",
+        "l2": "paradigma",
+        "en": "paradigm",
+        "gloss": {
+          "en": "paradigm",
+          "es": "paradigma",
+          "ru": "парадигма"
+        }
+      },
+      {
+        "id": "remote-epistemologia-c2-fren-4",
+        "l2": "a priori",
+        "en": "a priori",
+        "gloss": {
+          "en": "a priori",
+          "es": "a priori",
+          "ru": "априори"
+        }
+      },
+      {
+        "id": "remote-epistemologia-c2-fren-5",
+        "l2": "testimonio",
+        "en": "testimony",
+        "gloss": {
+          "en": "testimony",
+          "es": "testimonio",
+          "ru": "показания"
+        }
+      },
+      {
+        "id": "remote-epistemologia-c2-fren-6",
+        "l2": "empirismo",
+        "en": "empiricism",
+        "gloss": {
+          "en": "empiricism",
+          "es": "empirismo",
+          "ru": "эмпиризм"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-epistemologia-c2-alou-1",
+        "l2": "No creo que la falsabilidad, por sí sola, agote el criterio del científico.",
+        "en": "I do not believe that falsifiability, by itself, exhausts the criterion of the scientific.",
+        "gloss": {
+          "en": "I do not believe that falsifiability, by itself, exhausts the criterion of the scientific.",
+          "es": "No creo que la falsabilidad, por sí sola, agote el criterio de lo científico.",
+          "ru": "Я не верю, что фальсифицируемость сама по себе исчерпывает критерий научности."
+        },
+        "ipa": "nˈo crˈeo kˈe lˈa falsa.bilidˈad pˈor sˈi sˈo.la agˈo.te ˈel cri.terˈio dˈel"
+      },
+      {
+        "id": "remote-epistemologia-c2-alou-2",
+        "l2": "Puede ser que el paradigma organice el campo incluso antes de que los hechos hablen.",
+        "en": "It may be that the paradigm organises the field even before the facts speak.",
+        "gloss": {
+          "en": "It may be that the paradigm organises the field even before the facts speak.",
+          "es": "Puede ser que el paradigma organice el campo incluso antes de que los hechos hablen.",
+          "ru": "Возможно, парадигма организует поле еще до того, как заговорят факты."
+        },
+        "ipa": "puˈe.de sˈer kˈe ˈel pa.radˈigma organˈi.θe ˈel cˈampo inclˈu.so ˈantes dˈe kˈe"
+      },
+      {
+        "id": "remote-epistemologia-c2-alou-3",
+        "l2": "Aunque el testimonio fue sospechoso, no podemos ignorarlo en las ciencias históricas.",
+        "en": "Even though testimony was suspect, one can hardly do without it in the historical sciences.",
+        "gloss": {
+          "en": "Even though testimony was suspect, one can hardly do without it in the historical sciences.",
+          "es": "Aunque el testimonio fuera sospechoso, en las ciencias históricas difícilmente se puede prescindir de él.",
+          "ru": "Хотя показания и были подозрительными, в исторических науках без них вряд ли можно обойтись."
+        },
+        "ipa": "aˈunke ˈel testi.monˈio fˈue sospetʃˈo.so nˈo podˈe.mos ignorˈarlo ˈen lˈas θienθˈias istˈo.ricas"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-epistemologia-c2-unsc-1",
+        "l2": "El testimonio, una fuente epistémica olvidada durante mucho tiempo, plantea la cuestión de la confianza de los demás.",
+        "en": "Testimony, a long-neglected epistemic source, raises the question of trust in others.",
+        "gloss": {
+          "en": "Testimony, a long-neglected epistemic source, raises the question of trust in others.",
+          "es": "El testimonio, una fuente epistémica olvidada durante mucho tiempo, plantea la cuestión de la confianza en los demás.",
+          "ru": "Свидетельство, эпистемологический источник, которым долгое время пренебрегали, поднимает вопрос о доверии к другим."
+        },
+        "words": [
+          "El",
+          "testimonio,",
+          "una",
+          "fuente",
+          "epistémica",
+          "olvidada",
+          "durante",
+          "mucho",
+          "tiempo,",
+          "plantea",
+          "la",
+          "cuestión",
+          "de",
+          "la",
+          "confianza",
+          "de",
+          "los",
+          "demás."
+        ]
+      },
+      {
+        "id": "remote-epistemologia-c2-unsc-2",
+        "l2": "El empirismo, si se cierra a cualquier estructura a priori, se condena a la dispersión de impresiones.",
+        "en": "Empiricism, if it shuts itself off from any a priori structure, condemns itself to a scatter of impressions.",
+        "gloss": {
+          "en": "Empiricism, if it shuts itself off from any a priori structure, condemns itself to a scatter of impressions.",
+          "es": "El empirismo, si se cierra a cualquier estructura a priori, se condena a sí mismo a la dispersión de impresiones.",
+          "ru": "Эмпиризм, если он замыкается в какой-либо априорной структуре, обрекает себя на разброс впечатлений."
+        },
+        "words": [
+          "El",
+          "empirismo,",
+          "si",
+          "se",
+          "cierra",
+          "a",
+          "cualquier",
+          "estructura",
+          "a",
+          "priori,",
+          "se",
+          "condena",
+          "a",
+          "la",
+          "dispersión",
+          "de",
+          "impresiones."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

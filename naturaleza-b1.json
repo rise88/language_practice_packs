@@ -1,0 +1,837 @@
+{
+  "pratiquePack": 2,
+  "id": "naturaleza-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "es",
+  "title": {
+    "fr": "Nature B1 (ES)",
+    "en": "Nature B1 (ES)",
+    "es": "Naturaleza B1",
+    "ru": "Природа Б1 (ES)"
+  },
+  "description": {
+    "fr": "Paysages, randonnée et plein air pour raconter une sortie en nature — pack espagnol.",
+    "en": "Landscapes, hiking, and the outdoors for narrating a trip in nature — Spanish pack.",
+    "es": "Paisajes, senderismo y aire libre para narrar un viaje en la naturaleza para estudiar español.",
+    "ru": "Пейзажи, походы и природа для рассказа о поездке на природу — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-naturaleza-b1-1",
+      "l2": "paisaje",
+      "en": "landscape",
+      "gloss": {
+        "en": "landscape",
+        "es": "paisaje",
+        "ru": "пейзаж"
+      },
+      "example": "El paisaje cambia tras el paso.",
+      "ipa": "paisˈa.xe",
+      "article": "el"
+    },
+    {
+      "id": "remote-naturaleza-b1-2",
+      "l2": "caminata",
+      "en": "hike",
+      "gloss": {
+        "en": "hike",
+        "es": "caminata",
+        "ru": "поход"
+      },
+      "example": "La caminata duró cuatro horas.",
+      "ipa": "ca.minˈa.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-3",
+      "l2": "sendero",
+      "en": "trail / path",
+      "gloss": {
+        "en": "trail / path",
+        "es": "sendero/camino",
+        "ru": "тропа / путь"
+      },
+      "example": "El camino discurre junto al río.",
+      "ipa": "sendˈe.ro",
+      "article": "el"
+    },
+    {
+      "id": "remote-naturaleza-b1-4",
+      "l2": "cumbre",
+      "en": "summit",
+      "gloss": {
+        "en": "summit",
+        "es": "cumbre",
+        "ru": "саммит"
+      },
+      "example": "Llegamos a la cumbre alrededor del mediodía.",
+      "ipa": "cˈumbre",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-5",
+      "l2": "valle",
+      "en": "valley",
+      "gloss": {
+        "en": "valley",
+        "es": "valle",
+        "ru": "долина"
+      },
+      "example": "El valle todavía está envuelto en niebla.",
+      "ipa": "bˈa.ʎe",
+      "article": "el"
+    },
+    {
+      "id": "remote-naturaleza-b1-6",
+      "l2": "lago",
+      "en": "lake",
+      "gloss": {
+        "en": "lake",
+        "es": "lago",
+        "ru": "озеро"
+      },
+      "example": "El lago se congela en enero.",
+      "ipa": "lˈa.go",
+      "article": "el"
+    },
+    {
+      "id": "remote-naturaleza-b1-7",
+      "l2": "río",
+      "en": "river",
+      "gloss": {
+        "en": "river",
+        "es": "río",
+        "ru": "река"
+      },
+      "example": "El río está demasiado frío para nadar.",
+      "ipa": "rˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-naturaleza-b1-8",
+      "l2": "cascada",
+      "en": "waterfall",
+      "gloss": {
+        "en": "waterfall",
+        "es": "cascada",
+        "ru": "водопад"
+      },
+      "example": "La cascada se puede ver desde el puente.",
+      "ipa": "cascˈa.da",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-9",
+      "l2": "roca",
+      "en": "rock / boulder",
+      "gloss": {
+        "en": "rock / boulder",
+        "es": "roca / canto rodado",
+        "ru": "камень / валун"
+      },
+      "example": "Una roca bloquea parte del camino.",
+      "ipa": "rˈo.ca",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-10",
+      "l2": "bosque",
+      "en": "forest",
+      "gloss": {
+        "en": "forest",
+        "es": "bosque",
+        "ru": "лес"
+      },
+      "example": "El bosque huele a humus después de la lluvia.",
+      "ipa": "bˈoske",
+      "article": "el"
+    },
+    {
+      "id": "remote-naturaleza-b1-11",
+      "l2": "claro",
+      "en": "clearing",
+      "gloss": {
+        "en": "clearing",
+        "es": "claro",
+        "ru": "очистка"
+      },
+      "example": "Hicimos un picnic en un claro.",
+      "ipa": "clˈa.ro",
+      "article": "el"
+    },
+    {
+      "id": "remote-naturaleza-b1-12",
+      "l2": "niebla",
+      "en": "fog",
+      "gloss": {
+        "en": "fog",
+        "es": "niebla",
+        "ru": "туман"
+      },
+      "example": "La niebla dificultaba la visibilidad.",
+      "ipa": "niˈebla",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-13",
+      "l2": "altitud",
+      "en": "altitude",
+      "gloss": {
+        "en": "altitude",
+        "es": "altitud",
+        "ru": "высота"
+      },
+      "example": "A esta altitud, el viento arrecia rápidamente.",
+      "ipa": "altitˈud",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-14",
+      "l2": "brújula",
+      "en": "compass",
+      "gloss": {
+        "en": "compass",
+        "es": "brújula",
+        "ru": "компас"
+      },
+      "example": "Saqué la brújula cuando falló el GPS.",
+      "ipa": "brˈu.xula",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-15",
+      "l2": "refugio de montaña",
+      "en": "mountain hut",
+      "gloss": {
+        "en": "mountain hut",
+        "es": "refugio de montaña",
+        "ru": "горная хижина"
+      },
+      "example": "Desgraciadamente el refugio estaba lleno.",
+      "ipa": "re.fuxio de montˈa.ɲa",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-16",
+      "l2": "vida silvestre",
+      "en": "wildlife / fauna",
+      "gloss": {
+        "en": "wildlife / fauna",
+        "es": "vida silvestre / fauna",
+        "ru": "дикая природа/фауна"
+      },
+      "example": "La vida silvestre está protegida en este parque.",
+      "ipa": "bi.da silbˈestre",
+      "article": "el"
+    },
+    {
+      "id": "remote-naturaleza-b1-17",
+      "l2": "flora",
+      "en": "flora",
+      "gloss": {
+        "en": "flora",
+        "es": "flora",
+        "ru": "Флора"
+      },
+      "example": "La flora alpina es frágil en primavera.",
+      "ipa": "flˈo.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-18",
+      "l2": "marea",
+      "en": "tide",
+      "gloss": {
+        "en": "tide",
+        "es": "marea",
+        "ru": "прилив"
+      },
+      "example": "Hay que regresar antes de la marea alta.",
+      "ipa": "marˈea",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-19",
+      "l2": "duna",
+      "en": "dune",
+      "gloss": {
+        "en": "dune",
+        "es": "duna",
+        "ru": "дюна"
+      },
+      "example": "Las dunas se mueven un poco cada año.",
+      "ipa": "dˈu.na",
+      "article": "la"
+    },
+    {
+      "id": "remote-naturaleza-b1-20",
+      "l2": "panorama",
+      "en": "panorama / view",
+      "gloss": {
+        "en": "panorama / view",
+        "es": "panorama / vista",
+        "ru": "панорама / вид"
+      },
+      "example": "El panorama definitivamente valió la pena.",
+      "ipa": "pa.norˈa.ma",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-naturaleza-b1-phrase-1",
+      "l2": "Caminamos cuatro horas antes de llegar a la cumbre.",
+      "en": "We walked for four hours before reaching the summit.",
+      "gloss": {
+        "en": "We walked for four hours before reaching the summit.",
+        "es": "Caminamos durante cuatro horas antes de llegar a la cumbre.",
+        "ru": "Мы шли четыре часа, прежде чем достигли вершины."
+      },
+      "ipa": "ca.minˈa.mos cuˈatro ˈo.ras ˈantes dˈe ʎegˈar ˈa lˈa cˈumbre"
+    },
+    {
+      "id": "remote-naturaleza-b1-phrase-2",
+      "l2": "El camino estaba resbaladizo después de la lluvia.",
+      "en": "The trail was slippery after the rain.",
+      "gloss": {
+        "en": "The trail was slippery after the rain.",
+        "es": "El camino estaba resbaladizo después de la lluvia.",
+        "ru": "Тропа была скользкой после дождя."
+      },
+      "ipa": "ˈel camˈi.no estˈa.ba resba.ladˈi.θo despuˈes dˈe lˈa ʎubˈia"
+    },
+    {
+      "id": "remote-naturaleza-b1-phrase-3",
+      "l2": "Es mejor salir temprano por el calor.",
+      "en": "It’s better to leave early because of the heat.",
+      "gloss": {
+        "en": "It’s better to leave early because of the heat.",
+        "es": "Es mejor salir temprano por el calor.",
+        "ru": "Из-за жары лучше уйти пораньше."
+      },
+      "ipa": "ˈes mexˈor salˈir temprˈa.no pˈor ˈel calˈor"
+    },
+    {
+      "id": "remote-naturaleza-b1-phrase-4",
+      "l2": "El panorama definitivamente valió la pena.",
+      "en": "The view was really worth the effort.",
+      "gloss": {
+        "en": "The view was really worth the effort.",
+        "es": "La vista realmente valió la pena.",
+        "ru": "Вид действительно стоил затраченных усилий."
+      },
+      "ipa": "ˈel pa.norˈa.ma de.fini.tibamˈente ba.liˈo lˈa pˈe.na"
+    },
+    {
+      "id": "remote-naturaleza-b1-phrase-5",
+      "l2": "Tuvimos que dar marcha atrás debido a la niebla.",
+      "en": "We had to turn back because of the fog.",
+      "gloss": {
+        "en": "We had to turn back because of the fog.",
+        "es": "Tuvimos que dar marcha atrás debido a la niebla.",
+        "ru": "Нам пришлось повернуть назад из-за тумана."
+      },
+      "ipa": "tubˈi.mos kˈe dˈar mˈartʃa atrˈas debˈi.do ˈa lˈa niˈebla"
+    },
+    {
+      "id": "remote-naturaleza-b1-phrase-6",
+      "l2": "No olvides el agua y un mapa de senderos.",
+      "en": "Don’t forget water and a trail map.",
+      "gloss": {
+        "en": "Don’t forget water and a trail map.",
+        "es": "No olvides el agua y un mapa de senderos.",
+        "ru": "Не забудьте воду и карту маршрутов."
+      },
+      "ipa": "nˈo olbˈi.des ˈel ˈa.ɡa ʝ ˈun mˈa.pa dˈe sendˈe.ros"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-naturaleza-b1-listen-1",
+      "l2": "Llegamos a la cumbre alrededor del mediodía.",
+      "en": "We reached the summit around noon.",
+      "gloss": {
+        "en": "We reached the summit around noon.",
+        "es": "Llegamos a la cumbre alrededor del mediodía.",
+        "ru": "Мы достигли вершины около полудня."
+      },
+      "word": "cumbre",
+      "wordEn": "summit",
+      "wordGloss": {
+        "en": "summit",
+        "es": "cumbre",
+        "ru": "саммит"
+      },
+      "wordIpa": "cˈumbre",
+      "distractors": [
+        "lago",
+        "refugio de montaña",
+        "roca"
+      ]
+    },
+    {
+      "id": "remote-naturaleza-b1-listen-2",
+      "l2": "El camino discurre junto al río.",
+      "en": "The trail follows the river.",
+      "gloss": {
+        "en": "The trail follows the river.",
+        "es": "El sendero sigue el río.",
+        "ru": "Тропа идет вдоль реки."
+      },
+      "word": "sendero",
+      "wordEn": "trail",
+      "wordGloss": {
+        "en": "trail",
+        "es": "camino",
+        "ru": "тащить"
+      },
+      "wordIpa": "sendˈe.ro",
+      "distractors": [
+        "cascada",
+        "claro",
+        "duna"
+      ]
+    },
+    {
+      "id": "remote-naturaleza-b1-listen-3",
+      "l2": "Tuvimos que dar marcha atrás debido a la niebla.",
+      "en": "We had to turn back because of the fog.",
+      "gloss": {
+        "en": "We had to turn back because of the fog.",
+        "es": "Tuvimos que dar marcha atrás debido a la niebla.",
+        "ru": "Нам пришлось повернуть назад из-за тумана."
+      },
+      "word": "niebla",
+      "wordEn": "fog",
+      "wordGloss": {
+        "en": "fog",
+        "es": "niebla",
+        "ru": "туман"
+      },
+      "wordIpa": "niˈebla",
+      "distractors": [
+        "marea",
+        "altitud",
+        "panorama"
+      ]
+    },
+    {
+      "id": "remote-naturaleza-b1-listen-4",
+      "l2": "El panorama definitivamente valió la pena.",
+      "en": "The view was really worth the effort.",
+      "gloss": {
+        "en": "The view was really worth the effort.",
+        "es": "La vista realmente valió la pena.",
+        "ru": "Вид действительно стоил затраченных усилий."
+      },
+      "word": "panorama",
+      "wordEn": "view",
+      "wordGloss": {
+        "en": "view",
+        "es": "vista",
+        "ru": "вид"
+      },
+      "wordIpa": "pa.norˈa.ma",
+      "distractors": [
+        "paisaje",
+        "valle",
+        "bosque"
+      ]
+    }
+  ],
+  "prompts": [
+    "Describe una caminata o salida a la naturaleza.",
+    "¿Prefieres el mar, la montaña o el bosque? Para qué ?",
+    "¿Qué consejo darías antes de una caminata?",
+    "Describe un paisaje que te haya marcado."
+  ],
+  "grammar": [
+    {
+      "id": "remote-naturaleza-b1-grammar-1",
+      "title": {
+        "fr": "Subjonctif présent après querer que",
+        "en": "Present subjunctive after querer que",
+        "es": "Subjuntivo presente tras querer que",
+        "ru": "Subjuntivo после querer que"
+      },
+      "rule": {
+        "fr": "Après querer / esperar / es importante que, utilisez le subjonctif présent.",
+        "en": "After querer / esperar / es importante que, use the present subjunctive.",
+        "es": "Tras querer / esperar / es importante que, usa el subjuntivo presente.",
+        "ru": "После querer / esperar / es importante que — presente de subjuntivo."
+      },
+      "why": {
+        "en": "Expresses wishes and necessity about someone else.",
+        "es": "Expresa deseos y necesidad sobre otra persona.",
+        "ru": "Выражает желание или необходимость в отношении другого."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "quiero que",
+          "+ subjuntivo",
+          "Quiero que haya caminata."
+        ],
+        [
+          "es importante que",
+          "+ subjuntivo",
+          "Es importante que exista valle."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-naturaleza-b1-gq-1-1",
+          "prompt": "Quiero que tú ___ (venir).",
+          "answer": "vengas",
+          "options": [
+            "vengas",
+            "vienes",
+            "vendrás"
+          ]
+        },
+        {
+          "id": "remote-naturaleza-b1-gq-1-2",
+          "prompt": "Es importante que ___ (haber) consenso.",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-naturaleza-b1-gq-1-3",
+          "prompt": "Espero que ___ (ser) posible.",
+          "answer": "sea",
+          "options": [
+            "sea",
+            "es",
+            "será"
+          ]
+        },
+        {
+          "id": "remote-naturaleza-b1-gq-1-4",
+          "prompt": "Relaciona con el tema: caminata / valle. ¿Artículo de «caminata»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-naturaleza-b1-gq-1-5",
+          "prompt": "Relaciona con el tema: caminata / valle. ¿Artículo de «caminata»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-naturaleza-b1-grammar-2",
+      "title": {
+        "fr": "Se impersonal",
+        "en": "Impersonal se",
+        "es": "Se impersonal",
+        "ru": "Безличный se"
+      },
+      "rule": {
+        "fr": "Se + 3e personne exprime une généralité : Se habla español.",
+        "en": "Se + 3rd person expresses a general rule: Se habla español.",
+        "es": "Se + 3.ª persona expresa una generalidad: Se habla español.",
+        "ru": "Se + 3-е лицо выражает общее правило: Se habla español."
+      },
+      "why": {
+        "en": "Sounds natural in advice and public notices.",
+        "es": "Suena natural en consejos y avisos.",
+        "ru": "Звучит естественно в советах и объявлениях."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Se + 3ª",
+          "generalidad",
+          "Se necesita sendero."
+        ],
+        [
+          "Se + 3ª",
+          "aviso",
+          "Se habla de lago."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-naturaleza-b1-gq-2-1",
+          "prompt": "___ habla de sendero.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Lo",
+            "Le"
+          ]
+        },
+        {
+          "id": "remote-naturaleza-b1-gq-2-2",
+          "prompt": "___ recomienda lago.",
+          "answer": "Se",
+          "options": [
+            "Se",
+            "Me",
+            "Te"
+          ]
+        },
+        {
+          "id": "remote-naturaleza-b1-gq-2-3",
+          "prompt": "En España ___ español.",
+          "answer": "se habla",
+          "options": [
+            "se habla",
+            "habla se",
+            "hablan se"
+          ]
+        },
+        {
+          "id": "remote-naturaleza-b1-gq-2-4",
+          "prompt": "Relaciona con el tema: sendero / lago. ¿Artículo de «sendero»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-naturaleza-b1-gq-2-5",
+          "prompt": "Relaciona con el tema: sendero / lago. ¿Artículo de «sendero»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-naturaleza-b1-dict-1",
+        "l2": "Caminamos cuatro horas antes de llegar a la cumbre.",
+        "en": "We walked for four hours before reaching the summit.",
+        "gloss": {
+          "en": "We walked for four hours before reaching the summit.",
+          "es": "Caminamos durante cuatro horas antes de llegar a la cumbre.",
+          "ru": "Мы шли четыре часа, прежде чем достигли вершины."
+        },
+        "ipa": "ca.minˈa.mos cuˈatro ˈo.ras ˈantes dˈe ʎegˈar ˈa lˈa cˈumbre"
+      },
+      {
+        "id": "remote-naturaleza-b1-dict-2",
+        "l2": "El camino estaba resbaladizo después de la lluvia.",
+        "en": "The trail was slippery after the rain.",
+        "gloss": {
+          "en": "The trail was slippery after the rain.",
+          "es": "El camino estaba resbaladizo después de la lluvia.",
+          "ru": "Тропа была скользкой после дождя."
+        },
+        "ipa": "ˈel camˈi.no estˈa.ba resba.ladˈi.θo despuˈes dˈe lˈa ʎubˈia"
+      },
+      {
+        "id": "remote-naturaleza-b1-dict-3",
+        "l2": "Es mejor salir temprano por el calor.",
+        "en": "It’s better to leave early because of the heat.",
+        "gloss": {
+          "en": "It’s better to leave early because of the heat.",
+          "es": "Es mejor salir temprano por el calor.",
+          "ru": "Из-за жары лучше уйти пораньше."
+        },
+        "ipa": "ˈes mexˈor salˈir temprˈa.no pˈor ˈel calˈor"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-naturaleza-b1-mean-1",
+        "l2": "Caminamos cuatro horas antes de llegar a la cumbre.",
+        "en": "We walked for four hours before reaching the summit.",
+        "gloss": {
+          "en": "We walked for four hours before reaching the summit.",
+          "es": "Caminamos durante cuatro horas antes de llegar a la cumbre.",
+          "ru": "Мы шли четыре часа, прежде чем достигли вершины."
+        }
+      },
+      {
+        "id": "remote-naturaleza-b1-mean-2",
+        "l2": "El camino estaba resbaladizo después de la lluvia.",
+        "en": "The trail was slippery after the rain.",
+        "gloss": {
+          "en": "The trail was slippery after the rain.",
+          "es": "El camino estaba resbaladizo después de la lluvia.",
+          "ru": "Тропа была скользкой после дождя."
+        }
+      },
+      {
+        "id": "remote-naturaleza-b1-mean-3",
+        "l2": "Es mejor salir temprano por el calor.",
+        "en": "It’s better to leave early because of the heat.",
+        "gloss": {
+          "en": "It’s better to leave early because of the heat.",
+          "es": "Es mejor salir temprano por el calor.",
+          "ru": "Из-за жары лучше уйти пораньше."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-naturaleza-b1-fren-1",
+        "l2": "paisaje",
+        "en": "landscape",
+        "gloss": {
+          "en": "landscape",
+          "es": "paisaje",
+          "ru": "пейзаж"
+        }
+      },
+      {
+        "id": "remote-naturaleza-b1-fren-2",
+        "l2": "caminata",
+        "en": "hike",
+        "gloss": {
+          "en": "hike",
+          "es": "caminata",
+          "ru": "поход"
+        }
+      },
+      {
+        "id": "remote-naturaleza-b1-fren-3",
+        "l2": "sendero",
+        "en": "trail",
+        "gloss": {
+          "en": "trail",
+          "es": "camino",
+          "ru": "тащить"
+        }
+      },
+      {
+        "id": "remote-naturaleza-b1-fren-4",
+        "l2": "cumbre",
+        "en": "summit",
+        "gloss": {
+          "en": "summit",
+          "es": "cumbre",
+          "ru": "саммит"
+        }
+      },
+      {
+        "id": "remote-naturaleza-b1-fren-5",
+        "l2": "valle",
+        "en": "valley",
+        "gloss": {
+          "en": "valley",
+          "es": "valle",
+          "ru": "долина"
+        }
+      },
+      {
+        "id": "remote-naturaleza-b1-fren-6",
+        "l2": "lago",
+        "en": "lake",
+        "gloss": {
+          "en": "lake",
+          "es": "lago",
+          "ru": "озеро"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-naturaleza-b1-alou-1",
+        "l2": "Caminamos cuatro horas antes de llegar a la cumbre.",
+        "en": "We walked for four hours before reaching the summit.",
+        "gloss": {
+          "en": "We walked for four hours before reaching the summit.",
+          "es": "Caminamos durante cuatro horas antes de llegar a la cumbre.",
+          "ru": "Мы шли четыре часа, прежде чем достигли вершины."
+        },
+        "ipa": "ca.minˈa.mos cuˈatro ˈo.ras ˈantes dˈe ʎegˈar ˈa lˈa cˈumbre"
+      },
+      {
+        "id": "remote-naturaleza-b1-alou-2",
+        "l2": "Es mejor salir temprano por el calor.",
+        "en": "It’s better to leave early because of the heat.",
+        "gloss": {
+          "en": "It’s better to leave early because of the heat.",
+          "es": "Es mejor salir temprano por el calor.",
+          "ru": "Из-за жары лучше уйти пораньше."
+        },
+        "ipa": "ˈes mexˈor salˈir temprˈa.no pˈor ˈel calˈor"
+      },
+      {
+        "id": "remote-naturaleza-b1-alou-3",
+        "l2": "Tuvimos que dar marcha atrás debido a la niebla.",
+        "en": "We had to turn back because of the fog.",
+        "gloss": {
+          "en": "We had to turn back because of the fog.",
+          "es": "Tuvimos que dar marcha atrás debido a la niebla.",
+          "ru": "Нам пришлось повернуть назад из-за тумана."
+        },
+        "ipa": "tubˈi.mos kˈe dˈar mˈartʃa atrˈas debˈi.do ˈa lˈa niˈebla"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-naturaleza-b1-unsc-1",
+        "l2": "El panorama definitivamente valió la pena.",
+        "en": "The view was really worth the effort.",
+        "gloss": {
+          "en": "The view was really worth the effort.",
+          "es": "La vista realmente valió la pena.",
+          "ru": "Вид действительно стоил затраченных усилий."
+        },
+        "words": [
+          "El",
+          "panorama",
+          "definitivamente",
+          "valió",
+          "la",
+          "pena."
+        ]
+      },
+      {
+        "id": "remote-naturaleza-b1-unsc-2",
+        "l2": "Tuvimos que dar marcha atrás debido a la niebla.",
+        "en": "We had to turn back because of the fog.",
+        "gloss": {
+          "en": "We had to turn back because of the fog.",
+          "es": "Tuvimos que dar marcha atrás debido a la niebla.",
+          "ru": "Нам пришлось повернуть назад из-за тумана."
+        },
+        "words": [
+          "Tuvimos",
+          "que",
+          "dar",
+          "marcha",
+          "atrás",
+          "debido",
+          "a",
+          "la",
+          "niebla."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

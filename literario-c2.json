@@ -1,0 +1,851 @@
+{
+  "pratiquePack": 2,
+  "id": "literario-c2",
+  "version": 1,
+  "level": "c2",
+  "lang": "es",
+  "title": {
+    "fr": "Analyse littéraire C2 (ES)",
+    "en": "Literary analysis C2 (ES)",
+    "es": "Análisis literario C2",
+    "ru": "Литературный анализ С2 (ES)"
+  },
+  "description": {
+    "fr": "Focalisation, diégèse et intertextualité pour une lecture immanente des textes — pack espagnol.",
+    "en": "Focalization, diegesis, and intertextuality for immanent close reading of texts — Spanish pack.",
+    "es": "Focalización, diégesis e intertextualidad para una lectura atenta e inmanente de los textos para estudiar español.",
+    "ru": "Фокализация, диегезис и интертекстуальность для имманентного внимательного чтения текстов — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-literario-c2-1",
+      "l2": "focalización",
+      "en": "focalization",
+      "gloss": {
+        "en": "focalization",
+        "es": "focalización",
+        "ru": "фокусировка"
+      },
+      "example": "El enfoque interno, para Genette, filtra el mundo a través de una única conciencia.",
+      "ipa": "fo.cali.θaθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-literario-c2-2",
+      "l2": "intertextualidad",
+      "en": "intertextuality",
+      "gloss": {
+        "en": "intertextuality",
+        "es": "intertextualidad",
+        "ru": "интертекстуальность"
+      },
+      "example": "La intertextualidad, lejos de ser un juego de citas, teje la legibilidad misma del texto.",
+      "ipa": "intertextua.lidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-literario-c2-3",
+      "l2": "diégesis",
+      "en": "diegesis",
+      "gloss": {
+        "en": "diegesis",
+        "es": "diégesis",
+        "ru": "диегезис"
+      },
+      "example": "La diégesis designa el universo espacio-temporal que el relato presenta como real.",
+      "ipa": "diˈe.xesis",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-4",
+      "l2": "ironía",
+      "en": "irony",
+      "gloss": {
+        "en": "irony",
+        "es": "ironía",
+        "ru": "ирония"
+      },
+      "example": "La ironía aquí no dice lo contrario: sugiere un vacío que el lector debe llenar.",
+      "ipa": "i.ronˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-literario-c2-5",
+      "l2": "lectura cercana",
+      "en": "close reading",
+      "gloss": {
+        "en": "close reading",
+        "es": "lectura cercana",
+        "ru": "внимательно читать"
+      },
+      "example": "La explicación del texto requiere que cada hipotaxis, cada inciso, esté relacionado con una hipótesis de lectura.",
+      "ipa": "lectu.ra θercˈa.na",
+      "article": "la"
+    },
+    {
+      "id": "remote-literario-c2-6",
+      "l2": "narratario",
+      "en": "narratee",
+      "gloss": {
+        "en": "narratee",
+        "es": "narratario",
+        "ru": "рассказчик"
+      },
+      "example": "El narrador, aunque sea implícito, dirige el régimen de connivencia del relato.",
+      "ipa": "na.ratarˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-7",
+      "l2": "metalepsis",
+      "en": "metalepsis",
+      "gloss": {
+        "en": "metalepsis",
+        "es": "metalepsis",
+        "ru": "металепсис"
+      },
+      "example": "Metalepsis traspasa el umbral entre el mundo narrado y la instancia que cuenta la historia.",
+      "ipa": "me.talˈepsis",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-8",
+      "l2": "puesta en abismo",
+      "en": "mise en abyme",
+      "gloss": {
+        "en": "mise en abyme",
+        "es": "puesta en abismo",
+        "ru": "мизансцена"
+      },
+      "example": "La puesta en abismo refleja, reducida, la estructura misma de la novela que la contiene.",
+      "ipa": "puesta en abˈismo",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-9",
+      "l2": "polifonía",
+      "en": "polyphony",
+      "gloss": {
+        "en": "polyphony",
+        "es": "polifonía",
+        "ru": "полифония"
+      },
+      "example": "La polifonía bajtiniana se niega a permitir que una voz del autor absorba a las demás.",
+      "ipa": "po.lifonˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-literario-c2-10",
+      "l2": "analepsis",
+      "en": "analepsis / flashback",
+      "gloss": {
+        "en": "analepsis / flashback",
+        "es": "analepsis / flashback",
+        "ru": "аналепсия / воспоминания"
+      },
+      "example": "La analepsis reabrió de pronto una falla que el presente del relato había pretendido taponar.",
+      "ipa": "a.nalˈepsis",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-11",
+      "l2": "prolepsis",
+      "en": "prolepsis / flash-forward",
+      "gloss": {
+        "en": "prolepsis / flash-forward",
+        "es": "prolepsis / flash-forward",
+        "ru": "пролепсис / флеш-форвард"
+      },
+      "example": "La prolepsis adelanta un desenlace cuya explicación se demorará mucho tiempo.",
+      "ipa": "prolˈepsis",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-12",
+      "l2": "puntos suspensivos",
+      "en": "ellipsis (narrative)",
+      "gloss": {
+        "en": "ellipsis (narrative)",
+        "es": "puntos suspensivos (narrativa)",
+        "ru": "многоточие (повествование)"
+      },
+      "example": "La elipse salta años de los que el texto sólo conservará una cicatriz.",
+      "ipa": "puntos suspensˈi.bos",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-13",
+      "l2": "cronotopo",
+      "en": "chronotope",
+      "gloss": {
+        "en": "chronotope",
+        "es": "cronotopo",
+        "ru": "хронотоп"
+      },
+      "example": "El cronotopo bajtiniano vincula un lugar y un tiempo en una matriz narrativa.",
+      "ipa": "cro.notˈo.po",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-14",
+      "l2": "hipotexto",
+      "en": "hypotext",
+      "gloss": {
+        "en": "hypotext",
+        "es": "hipotexto",
+        "ru": "гипотекст"
+      },
+      "example": "El hipotexto, una vez identificado, arroja luz sobre los movimientos que le impone el hipertexto.",
+      "ipa": "i.potˈexto",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-15",
+      "l2": "palimpsesto",
+      "en": "palimpsest",
+      "gloss": {
+        "en": "palimpsest",
+        "es": "palimpsesto",
+        "ru": "палимпсест"
+      },
+      "example": "El palimpsesto, en Genette, nombra la literatura en segundo grado.",
+      "ipa": "pa.limpsˈesto",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-16",
+      "l2": "discurso indirecto libre",
+      "en": "free indirect speech",
+      "gloss": {
+        "en": "free indirect speech",
+        "es": "discurso indirecto libre",
+        "ru": "свободная косвенная речь"
+      },
+      "example": "El estilo indirecto libre mezcla, sin marcas, la voz del narrador y la del personaje.",
+      "ipa": "discurso indi.recto lˈibre",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-17",
+      "l2": "isotopía",
+      "en": "isotopy",
+      "gloss": {
+        "en": "isotopy",
+        "es": "isotopía",
+        "ru": "изотопия"
+      },
+      "example": "La isotopía sémica, una vez reconocida, unifica sucesos aparentemente dispersos.",
+      "ipa": "i.sotopˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-literario-c2-18",
+      "l2": "actante",
+      "en": "actant",
+      "gloss": {
+        "en": "actant",
+        "es": "actante",
+        "ru": "актант"
+      },
+      "example": "El actor, para Greimas, no es un personaje: es una función en el esquema narrativo.",
+      "ipa": "actˈante",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-19",
+      "l2": "paratexto",
+      "en": "paratext",
+      "gloss": {
+        "en": "paratext",
+        "es": "paratexto",
+        "ru": "паратекст"
+      },
+      "example": "El paratexto –título, prefacio, notas– condiciona la lectura incluso antes de la primera frase.",
+      "ipa": "pa.ratˈexto",
+      "article": "el"
+    },
+    {
+      "id": "remote-literario-c2-20",
+      "l2": "catarsis",
+      "en": "catharsis",
+      "gloss": {
+        "en": "catharsis",
+        "es": "catarsis",
+        "ru": "катарсис"
+      },
+      "example": "La catarsis, si creemos a Aristóteles, purga las pasiones por su misma representación.",
+      "ipa": "catˈarsis",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-literario-c2-phrase-1",
+      "l2": "Se fue sin decir una palabra; Se entendía que ella se quedaría para mantener la casa vacía.",
+      "en": "He left without a word; she would stay, that was understood, to keep the empty house.",
+      "gloss": {
+        "en": "He left without a word; she would stay, that was understood, to keep the empty house.",
+        "es": "Se fue sin decir una palabra; Se entendía que ella se quedaría para conservar la casa vacía.",
+        "ru": "Он ушел, не сказав ни слова; Понятно, что она останется, чтобы сохранить пустой дом."
+      },
+      "ipa": "sˈe fˈue sˈin deθˈir ˈu.na palˈabra sˈe entendˈia kˈe ˈe.ʎa sˈe ke.darˈia"
+    },
+    {
+      "id": "remote-literario-c2-phrase-2",
+      "l2": "Nadie sabía, en ese momento, si la ironía iba dirigida al narrador o al mundo que pretendía pintar.",
+      "en": "No one knew, in that instant, whether the irony targeted the narrator or the world he pretended to depict.",
+      "gloss": {
+        "en": "No one knew, in that instant, whether the irony targeted the narrator or the world he pretended to depict.",
+        "es": "Nadie supo, en ese instante, si la ironía apuntaba al narrador o al mundo que pretendía representar.",
+        "ru": "В тот момент никто не знал, была ли ирония нацелена на рассказчика или на мир, который он якобы изображал."
+      },
+      "ipa": "nadˈie sabˈia ˈen ˈe.se momˈento sˈi lˈa i.ronˈia ˈi.ba di.rixˈi.da ˈal na.radˈor"
+    },
+    {
+      "id": "remote-literario-c2-phrase-3",
+      "l2": "El enfoque interno nos impide saber más de lo que sabe el personaje.",
+      "en": "Internal focalization forbids our knowing more than the character knows.",
+      "gloss": {
+        "en": "Internal focalization forbids our knowing more than the character knows.",
+        "es": "La focalización interna nos prohíbe saber más de lo que sabe el personaje.",
+        "ru": "Внутренняя фокусировка не позволяет нам знать больше, чем знает персонаж."
+      },
+      "ipa": "ˈel enfˈo.ke intˈerno nˈos impˈi.de sabˈer mˈas dˈe lˈo kˈe sˈa.be ˈel"
+    },
+    {
+      "id": "remote-literario-c2-phrase-4",
+      "l2": "Aunque el hipotexto era legible, la novela desplazó todos sus valores.",
+      "en": "Even though the hypotext was readable, the novel displaced all of its values.",
+      "gloss": {
+        "en": "Even though the hypotext was readable, the novel displaced all of its values.",
+        "es": "Aunque el hipotexto era legible, la novela desplazó todos sus valores.",
+        "ru": "Несмотря на то, что гипотекст был читабелен, роман вытеснил все его ценности."
+      },
+      "ipa": "aˈunke ˈel i.potˈexto ˈe.ra lexˈible lˈa nobˈe.la desplazˈo tˈo.dos sˈus balˈo.res"
+    },
+    {
+      "id": "remote-literario-c2-phrase-5",
+      "l2": "El estilo indirecto libre, observó, es el lugar donde la voz se divide sin admitirse.",
+      "en": "Free indirect speech, she observed, is the place where the voice splits without admitting it.",
+      "gloss": {
+        "en": "Free indirect speech, she observed, is the place where the voice splits without admitting it.",
+        "es": "El discurso indirecto libre, observó, es el lugar donde la voz se divide sin admitirlo.",
+        "ru": "Свободная косвенная речь, заметила она, — это место, где голос разделяется, даже не признаваясь в этом."
+      },
+      "ipa": "ˈel estˈi.lo indirˈecto lˈibre obserbˈo ˈes ˈel lugˈar dˈonde lˈa bˈoz sˈe"
+    },
+    {
+      "id": "remote-literario-c2-phrase-6",
+      "l2": "La diégesis, una vez establecida, no tolera la metalepsis rompiendo el contrato.",
+      "en": "Once the diegesis is established, it hardly tolerates metalepsis breaking the contract.",
+      "gloss": {
+        "en": "Once the diegesis is established, it hardly tolerates metalepsis breaking the contract.",
+        "es": "Una vez establecida la diégesis, difícilmente tolera la metalepsis rompiendo el contrato.",
+        "ru": "Как только диегезис установлен, он с трудом терпит металепсиса, нарушающего контракт."
+      },
+      "ipa": "lˈa diˈe.xesis ˈu.na bˈez estableθˈi.da nˈo tolˈe.ra lˈa me.talˈepsis rompiˈendo ˈel contrˈa.to"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-literario-c2-listen-1",
+      "l2": "El enfoque interno filtra el mundo a través de una única conciencia.",
+      "en": "Internal focalization filters the world through a single consciousness.",
+      "gloss": {
+        "en": "Internal focalization filters the world through a single consciousness.",
+        "es": "La focalización interna filtra el mundo a través de una única conciencia.",
+        "ru": "Внутренняя фокусировка фильтрует мир через единое сознание."
+      },
+      "word": "focalización",
+      "wordEn": "focalization",
+      "wordGloss": {
+        "en": "focalization",
+        "es": "focalización",
+        "ru": "фокусировка"
+      },
+      "wordIpa": "fo.cali.θaθiˈon",
+      "distractors": [
+        "diégesis",
+        "analepsis",
+        "puntos suspensivos"
+      ]
+    },
+    {
+      "id": "remote-literario-c2-listen-2",
+      "l2": "La intertextualidad teje la legibilidad misma del texto.",
+      "en": "Intertextuality weaves the very readability of the text.",
+      "gloss": {
+        "en": "Intertextuality weaves the very readability of the text.",
+        "es": "La intertextualidad teje la legibilidad misma del texto.",
+        "ru": "Интертекстуальность сплетает саму читабельность текста."
+      },
+      "word": "intertextualidad",
+      "wordEn": "intertextuality",
+      "wordGloss": {
+        "en": "intertextuality",
+        "es": "intertextualidad",
+        "ru": "интертекстуальность"
+      },
+      "wordIpa": "intertextua.lidˈad",
+      "distractors": [
+        "isotopía",
+        "polifonía",
+        "paratexto"
+      ]
+    },
+    {
+      "id": "remote-literario-c2-listen-3",
+      "l2": "El estilo indirecto libre mezcla la voz del narrador y la del personaje.",
+      "en": "Free indirect speech blends the narrator’s voice with that of the character.",
+      "gloss": {
+        "en": "Free indirect speech blends the narrator’s voice with that of the character.",
+        "es": "El discurso indirecto libre combina la voz del narrador con la del personaje.",
+        "ru": "Свободная косвенная речь объединяет голос рассказчика с голосом персонажа."
+      },
+      "word": "discurso indirecto libre",
+      "wordEn": "free indirect speech",
+      "wordGloss": {
+        "en": "free indirect speech",
+        "es": "discurso indirecto libre",
+        "ru": "свободная косвенная речь"
+      },
+      "wordIpa": "discurso indi.recto lˈibre",
+      "distractors": [
+        "metalepsis",
+        "prolepsis",
+        "actante"
+      ]
+    },
+    {
+      "id": "remote-literario-c2-listen-4",
+      "l2": "La diégesis designa como real el universo que el relato presenta.",
+      "en": "Diegesis designates the universe the narrative presents as real.",
+      "gloss": {
+        "en": "Diegesis designates the universe the narrative presents as real.",
+        "es": "La diégesis designa el universo que la narrativa presenta como real.",
+        "ru": "Диегесис называет вселенную, которую представляет повествование, реальной."
+      },
+      "word": "diégesis",
+      "wordEn": "diegesis",
+      "wordGloss": {
+        "en": "diegesis",
+        "es": "diégesis",
+        "ru": "диегезис"
+      },
+      "wordIpa": "diˈe.xesis",
+      "distractors": [
+        "catarsis",
+        "cronotopo",
+        "hipotexto"
+      ]
+    }
+  ],
+  "prompts": [
+    "En un extracto de su elección, determine el régimen de enfoque y muestre lo que la historia se niega a saber.",
+    "Analice un caso de estilo indirecto libre: ¿dónde comienza la voz del personaje y dónde toma el relevo el narrador?",
+    "Criticar una lectura que reduciría la intertextualidad a un catálogo de fuentes: ¿qué hace el texto con su hipotexto?",
+    "Evaluar, en un cuento, el contrato diegético y los efectos de una metalepsis o una puesta en abismo."
+  ],
+  "grammar": [
+    {
+      "id": "remote-literario-c2-grammar-1",
+      "title": {
+        "fr": "Registres et nuances lexicales",
+        "en": "Registers and lexical nuance",
+        "es": "Registros y matices léxicos",
+        "ru": "Регистры и лексические оттенки"
+      },
+      "rule": {
+        "fr": "Alternez léxico culto y léxico marcado (ironía, eufemismo) según el género discursivo.",
+        "en": "Switch between learned and marked lexicon (irony, euphemism) by discourse genre.",
+        "es": "Alterna léxico culto y léxico marcado (ironía, eufemismo) según el género discursivo.",
+        "ru": "Чередуйте книжную и маркированную лексику в зависимости от жанра."
+      },
+      "why": {
+        "en": "Control tone at near-native level.",
+        "es": "Controla el tono a un nivel casi nativo.",
+        "ru": "Контроль тона на почти родном уровне."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "culto",
+          "formal",
+          "contemplar la intertextualidad"
+        ],
+        [
+          "marcado",
+          "ironia / eufemismo",
+          "lo de lectura cercana"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-literario-c2-gq-1-1",
+          "prompt": "Registro culto: ___ (no 'mirar').",
+          "answer": "contemplar",
+          "options": [
+            "contemplar",
+            "mirar",
+            "ver"
+          ]
+        },
+        {
+          "id": "remote-literario-c2-gq-1-2",
+          "prompt": "El eufemismo suaviza el ___.",
+          "answer": "tono",
+          "options": [
+            "tono",
+            "sujeto",
+            "verbo"
+          ]
+        },
+        {
+          "id": "remote-literario-c2-gq-1-3",
+          "prompt": "Matiz culto para hablar de intertextualidad.",
+          "answer": "discurso",
+          "options": [
+            "discurso",
+            "chisme",
+            "rollo"
+          ]
+        },
+        {
+          "id": "remote-literario-c2-gq-1-4",
+          "prompt": "Relaciona con el tema: intertextualidad / lectura cercana. ¿Artículo de «intertextualidad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-literario-c2-gq-1-5",
+          "prompt": "Relaciona con el tema: intertextualidad / lectura cercana. ¿Artículo de «intertextualidad»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-literario-c2-grammar-2",
+      "title": {
+        "fr": "Concessives complexes",
+        "en": "Complex concessives",
+        "es": "Concesivas complejas",
+        "ru": "Сложные уступительные конструкции"
+      },
+      "rule": {
+        "fr": "Por más que / si bien / aun cuando + subjuntivo intensifican la concesión.",
+        "en": "Por más que / si bien / aun cuando + subjunctive intensify concession.",
+        "es": "Por más que / si bien / aun cuando + subjuntivo intensifican la concesión.",
+        "ru": "Por más que / si bien / aun cuando + subjuntivo усиливают уступку."
+      },
+      "why": {
+        "en": "Useful in critique and rhetoric.",
+        "es": "Útil en la crítica y la retórica.",
+        "ru": "Полезно в критике и риторике."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "por más que",
+          "+ subj.",
+          "Por más que insista, dudo."
+        ],
+        [
+          "aun cuando",
+          "+ subj.",
+          "Aun cuando exista diégesis, matizo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-literario-c2-gq-2-1",
+          "prompt": "Por más que ___, no convence. (insistir)",
+          "answer": "insista",
+          "options": [
+            "insista",
+            "insiste",
+            "insistirá"
+          ]
+        },
+        {
+          "id": "remote-literario-c2-gq-2-2",
+          "prompt": "Aun cuando ___, matizo. (ser)",
+          "answer": "sea",
+          "options": [
+            "sea",
+            "es",
+            "será"
+          ]
+        },
+        {
+          "id": "remote-literario-c2-gq-2-3",
+          "prompt": "Si bien ___, concedo el punto. (discrepar)",
+          "answer": "discrepo",
+          "options": [
+            "discrepo",
+            "discrepe",
+            "discreparé"
+          ]
+        },
+        {
+          "id": "remote-literario-c2-gq-2-4",
+          "prompt": "Relaciona con el tema: diégesis / narratario. ¿Artículo de «diégesis»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-literario-c2-gq-2-5",
+          "prompt": "Relaciona con el tema: diégesis / narratario. ¿Artículo de «diégesis»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-literario-c2-dict-1",
+        "l2": "Se fue sin decir una palabra; Se entendía que ella se quedaría para mantener la casa vacía.",
+        "en": "He left without a word; she would stay, that was understood, to keep the empty house.",
+        "gloss": {
+          "en": "He left without a word; she would stay, that was understood, to keep the empty house.",
+          "es": "Se fue sin decir una palabra; Se entendía que ella se quedaría para conservar la casa vacía.",
+          "ru": "Он ушел, не сказав ни слова; Понятно, что она останется, чтобы сохранить пустой дом."
+        },
+        "ipa": "sˈe fˈue sˈin deθˈir ˈu.na palˈabra sˈe entendˈia kˈe ˈe.ʎa sˈe ke.darˈia"
+      },
+      {
+        "id": "remote-literario-c2-dict-2",
+        "l2": "Nadie sabía, en ese momento, si la ironía iba dirigida al narrador o al mundo que pretendía pintar.",
+        "en": "No one knew, in that instant, whether the irony targeted the narrator or the world he pretended to depict.",
+        "gloss": {
+          "en": "No one knew, in that instant, whether the irony targeted the narrator or the world he pretended to depict.",
+          "es": "Nadie supo, en ese instante, si la ironía apuntaba al narrador o al mundo que pretendía representar.",
+          "ru": "В тот момент никто не знал, была ли ирония нацелена на рассказчика или на мир, который он якобы изображал."
+        },
+        "ipa": "nadˈie sabˈia ˈen ˈe.se momˈento sˈi lˈa i.ronˈia ˈi.ba di.rixˈi.da ˈal na.radˈor"
+      },
+      {
+        "id": "remote-literario-c2-dict-3",
+        "l2": "El enfoque interno nos impide saber más de lo que sabe el personaje.",
+        "en": "Internal focalization forbids our knowing more than the character knows.",
+        "gloss": {
+          "en": "Internal focalization forbids our knowing more than the character knows.",
+          "es": "La focalización interna nos prohíbe saber más de lo que sabe el personaje.",
+          "ru": "Внутренняя фокусировка не позволяет нам знать больше, чем знает персонаж."
+        },
+        "ipa": "ˈel enfˈo.ke intˈerno nˈos impˈi.de sabˈer mˈas dˈe lˈo kˈe sˈa.be ˈel"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-literario-c2-mean-1",
+        "l2": "Se fue sin decir una palabra; Se entendía que ella se quedaría para mantener la casa vacía.",
+        "en": "He left without a word; she would stay, that was understood, to keep the empty house.",
+        "gloss": {
+          "en": "He left without a word; she would stay, that was understood, to keep the empty house.",
+          "es": "Se fue sin decir una palabra; Se entendía que ella se quedaría para conservar la casa vacía.",
+          "ru": "Он ушел, не сказав ни слова; Понятно, что она останется, чтобы сохранить пустой дом."
+        }
+      },
+      {
+        "id": "remote-literario-c2-mean-2",
+        "l2": "Nadie sabía, en ese momento, si la ironía iba dirigida al narrador o al mundo que pretendía pintar.",
+        "en": "No one knew, in that instant, whether the irony targeted the narrator or the world he pretended to depict.",
+        "gloss": {
+          "en": "No one knew, in that instant, whether the irony targeted the narrator or the world he pretended to depict.",
+          "es": "Nadie supo, en ese instante, si la ironía apuntaba al narrador o al mundo que pretendía representar.",
+          "ru": "В тот момент никто не знал, была ли ирония нацелена на рассказчика или на мир, который он якобы изображал."
+        }
+      },
+      {
+        "id": "remote-literario-c2-mean-3",
+        "l2": "El enfoque interno nos impide saber más de lo que sabe el personaje.",
+        "en": "Internal focalization forbids our knowing more than the character knows.",
+        "gloss": {
+          "en": "Internal focalization forbids our knowing more than the character knows.",
+          "es": "La focalización interna nos prohíbe saber más de lo que sabe el personaje.",
+          "ru": "Внутренняя фокусировка не позволяет нам знать больше, чем знает персонаж."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-literario-c2-fren-1",
+        "l2": "focalización",
+        "en": "focalization",
+        "gloss": {
+          "en": "focalization",
+          "es": "focalización",
+          "ru": "фокусировка"
+        }
+      },
+      {
+        "id": "remote-literario-c2-fren-2",
+        "l2": "intertextualidad",
+        "en": "intertextuality",
+        "gloss": {
+          "en": "intertextuality",
+          "es": "intertextualidad",
+          "ru": "интертекстуальность"
+        }
+      },
+      {
+        "id": "remote-literario-c2-fren-3",
+        "l2": "diégesis",
+        "en": "diegesis",
+        "gloss": {
+          "en": "diegesis",
+          "es": "diégesis",
+          "ru": "диегезис"
+        }
+      },
+      {
+        "id": "remote-literario-c2-fren-4",
+        "l2": "ironía",
+        "en": "irony",
+        "gloss": {
+          "en": "irony",
+          "es": "ironía",
+          "ru": "ирония"
+        }
+      },
+      {
+        "id": "remote-literario-c2-fren-5",
+        "l2": "lectura cercana",
+        "en": "close reading",
+        "gloss": {
+          "en": "close reading",
+          "es": "lectura cercana",
+          "ru": "внимательно читать"
+        }
+      },
+      {
+        "id": "remote-literario-c2-fren-6",
+        "l2": "narratario",
+        "en": "narratee",
+        "gloss": {
+          "en": "narratee",
+          "es": "narratario",
+          "ru": "рассказчик"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-literario-c2-alou-1",
+        "l2": "Se fue sin decir una palabra; Se entendía que ella se quedaría para mantener la casa vacía.",
+        "en": "He left without a word; she would stay, that was understood, to keep the empty house.",
+        "gloss": {
+          "en": "He left without a word; she would stay, that was understood, to keep the empty house.",
+          "es": "Se fue sin decir una palabra; Se entendía que ella se quedaría para conservar la casa vacía.",
+          "ru": "Он ушел, не сказав ни слова; Понятно, что она останется, чтобы сохранить пустой дом."
+        },
+        "ipa": "sˈe fˈue sˈin deθˈir ˈu.na palˈabra sˈe entendˈia kˈe ˈe.ʎa sˈe ke.darˈia"
+      },
+      {
+        "id": "remote-literario-c2-alou-2",
+        "l2": "El enfoque interno nos impide saber más de lo que sabe el personaje.",
+        "en": "Internal focalization forbids our knowing more than the character knows.",
+        "gloss": {
+          "en": "Internal focalization forbids our knowing more than the character knows.",
+          "es": "La focalización interna nos prohíbe saber más de lo que sabe el personaje.",
+          "ru": "Внутренняя фокусировка не позволяет нам знать больше, чем знает персонаж."
+        },
+        "ipa": "ˈel enfˈo.ke intˈerno nˈos impˈi.de sabˈer mˈas dˈe lˈo kˈe sˈa.be ˈel"
+      },
+      {
+        "id": "remote-literario-c2-alou-3",
+        "l2": "El estilo indirecto libre, observó, es el lugar donde la voz se divide sin admitirse.",
+        "en": "Free indirect speech, she observed, is the place where the voice splits without admitting it.",
+        "gloss": {
+          "en": "Free indirect speech, she observed, is the place where the voice splits without admitting it.",
+          "es": "El discurso indirecto libre, observó, es el lugar donde la voz se divide sin admitirlo.",
+          "ru": "Свободная косвенная речь, заметила она, — это место, где голос разделяется, даже не признаваясь в этом."
+        },
+        "ipa": "ˈel estˈi.lo indirˈecto lˈibre obserbˈo ˈes ˈel lugˈar dˈonde lˈa bˈoz sˈe"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-literario-c2-unsc-1",
+        "l2": "La explicación del texto requiere que cada hipotaxis, cada inciso, esté relacionado con una hipótesis de lectura.",
+        "en": "Close reading requires that every hypotaxis, every parenthetical, be tied back to a reading hypothesis.",
+        "gloss": {
+          "en": "Close reading requires that every hypotaxis, every parenthetical, be tied back to a reading hypothesis.",
+          "es": "Una lectura minuciosa requiere que cada hipotaxis, cada paréntesis, esté vinculado a una hipótesis de lectura.",
+          "ru": "Чтение внимательнее требует, чтобы каждый гипотаксис, каждая скобка была связана с гипотезой чтения."
+        },
+        "words": [
+          "La",
+          "explicación",
+          "del",
+          "texto",
+          "requiere",
+          "que",
+          "cada",
+          "hipotaxis,",
+          "cada",
+          "inciso,",
+          "esté",
+          "relacionado",
+          "con",
+          "una",
+          "hipótesis",
+          "de",
+          "lectura."
+        ]
+      },
+      {
+        "id": "remote-literario-c2-unsc-2",
+        "l2": "El narrador, aunque sea implícito, dirige el régimen de connivencia del relato.",
+        "en": "The narratee, even if implicit, shapes the narrative’s regime of complicity.",
+        "gloss": {
+          "en": "The narratee, even if implicit, shapes the narrative’s regime of complicity.",
+          "es": "El narratario, incluso si está implícito, da forma al régimen de complicidad de la narrativa.",
+          "ru": "Рассказчик, даже если он неявный, формирует режим соучастия повествования."
+        },
+        "words": [
+          "El",
+          "narrador,",
+          "aunque",
+          "sea",
+          "implícito,",
+          "dirige",
+          "el",
+          "régimen",
+          "de",
+          "connivencia",
+          "del",
+          "relato."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

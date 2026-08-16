@@ -75,9 +75,8 @@ Hosting this repo as **public** is free. The app fetches:
 | `ADD-LANGUAGE.md` | Gloss locales (en/es/ru) + practice language (`lang`) |
 | `scripts/migrate-gloss.mjs` | Lift v1 flat `en` → `gloss.en` |
 | `scripts/validate-packs.mjs` | Check every pack has `lang`; every seed has `l2` or `fr` |
-| `comida-a1.json` | Food A1 (Spanish L2) |
-| `familia-a1.json` | Family A1 (Spanish L2) |
-| `casa-a1.json` | Home A1 (Spanish L2) |
+| `scripts/generate-spanish-packs.py` | Build Spanish L2 twins from French packs |
+| `comida-a1.json` … `registros-c2.json` | Full Spanish L2 catalog (60 packs, A1–C2) mirroring French topics |
 
 ## Practice language (L2)
 
@@ -94,14 +93,16 @@ Non-French packs should use `l2` for headwords. Do not remove gloss locale maps 
 
 ## Levels
 
-| Level | Packs |
-|-------|--------|
-| A1 | Food, Home, Family, School, Weather, Animals, Clothes, Time, In town, Daily routine (+ Spanish: Comida, Familia, Casa) |
-| A2 | Travel, Shopping, Health, Restaurant, Hobbies, Work, Directions, Housing, Phone, Celebrations |
-| B1 | Environment, Studies, Relationships, Money, Technology, News, Culture, Opinions, Nature, Admin |
-| B2 | Workplace, Media and news, Politics and citizenship, Science, Economy, Law and justice, Climate and energy, Psychology, Arts and film, Argumentation |
-| C1 | Academic discourse, International relations, Philosophy, Ecological transition, Ethics, Innovation and research, Social issues, Contemporary arts, Language and discourse, Journalism |
-| C2 | Rhetoric, Literary analysis, Geopolitics, Epistemology, Irony and satire, Identity and otherness, Aesthetics, Fundamental rights, Scientific knowledge, Registers and nuances |
+| Level | French (`lang: fr`) | Spanish (`lang: es`) |
+|-------|--------|--------|
+| A1 | Food, Home, Family, School, Weather, Animals, Clothes, Time, In town, Daily routine | Comida, Casa, Familia, Escuela, Clima, Animales, Ropa, Hora, Ciudad, Rutina |
+| A2 | Travel, Shopping, Health, Restaurant, Hobbies, Work, Directions, Housing, Phone, Celebrations | Viaje, Compras, Salud, Restaurante, Pasatiempos, Trabajo, Direcciones, Vivienda, Teléfono, Celebraciones |
+| B1 | Environment, Studies, Relationships, Money, Technology, News, Culture, Opinions, Nature, Admin | Medioambiente, Estudios, Relaciones, Dinero, Tecnología, Noticias, Cultura, Opiniones, Naturaleza, Trámites |
+| B2 | Workplace, Media and news, Politics and citizenship, Science, Economy, Law and justice, Climate and energy, Psychology, Arts and film, Argumentation | Lugar de trabajo, Medios, Política, Ciencias, Economía, Derecho, Clima y energía, Psicología, Artes, Argumentación |
+| C1 | Academic discourse, International relations, Philosophy, Ecological transition, Ethics, Innovation and research, Social issues, Contemporary arts, Language and discourse, Journalism | Académico, Diplomacia, Filosofía, Sostenibilidad, Ética, Innovación, Sociedad, Artes contemporáneas, Lingüística, Periodismo |
+| C2 | Rhetoric, Literary analysis, Geopolitics, Epistemology, Irony and satire, Identity and otherness, Aesthetics, Fundamental rights, Scientific knowledge, Registers and nuances | Retórica, Literario, Geopolítica, Epistemología, Sátira, Identidad, Estética, Derechos, Ciencia, Registros |
+
+Each level has **10 French + 10 Spanish** packs with the same section depth (seed, phrases, listen, prompts, grammar, skills).
 
 ## Pack fields → Pratique modes
 

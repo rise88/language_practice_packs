@@ -1,0 +1,845 @@
+{
+  "pratiquePack": 2,
+  "id": "politica-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "es",
+  "title": {
+    "fr": "Politique et citoyenneté B2 (ES)",
+    "en": "Politics and citizenship B2 (ES)",
+    "es": "Política y ciudadanía B2",
+    "ru": "Политика и гражданство B2 (ES)"
+  },
+  "description": {
+    "fr": "Élections, institutions, devoir civique, contestation et représentation — pack espagnol.",
+    "en": "Elections, institutions, civic duty, protest, and representation — Spanish pack.",
+    "es": "Elecciones, instituciones, deber cívico, protesta y representación para estudiar español.",
+    "ru": "Выборы, институты, гражданский долг, протест и представительство — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-politica-b2-1",
+      "l2": "elección",
+      "en": "election",
+      "gloss": {
+        "en": "election",
+        "es": "elección",
+        "ru": "выборы"
+      },
+      "example": "Las elecciones legislativas remodelaron la mayoría en la Asamblea.",
+      "ipa": "e.lecθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-2",
+      "l2": "boleta",
+      "en": "ballot / vote",
+      "gloss": {
+        "en": "ballot / vote",
+        "es": "boleta / voto",
+        "ru": "голосование / голосование"
+      },
+      "example": "La votación de dos vueltas favorece las alianzas de segunda vuelta.",
+      "ipa": "bolˈe.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-3",
+      "l2": "ciudadanía",
+      "en": "citizenship",
+      "gloss": {
+        "en": "citizenship",
+        "es": "ciudadanía",
+        "ru": "гражданство"
+      },
+      "example": "La ciudadanía implica derechos, pero también deberes concretos.",
+      "ipa": "θiu.dadanˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-4",
+      "l2": "sufragio",
+      "en": "suffrage",
+      "gloss": {
+        "en": "suffrage",
+        "es": "sufragio",
+        "ru": "избирательное право"
+      },
+      "example": "El sufragio universal sigue siendo un logro relativamente reciente en la historia.",
+      "ipa": "sufraxˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-politica-b2-5",
+      "l2": "cadencia",
+      "en": "term of office",
+      "gloss": {
+        "en": "term of office",
+        "es": "cadencia",
+        "ru": "срок полномочий"
+      },
+      "example": "Su mandato está llegando a su fin, sin embargo, se postula para un segundo mandato de cinco años.",
+      "ipa": "ca.denθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-6",
+      "l2": "representación",
+      "en": "representation",
+      "gloss": {
+        "en": "representation",
+        "es": "representación",
+        "ru": "представительство"
+      },
+      "example": "La representación de las zonas rurales sigue siendo un tema en el debate electoral.",
+      "ipa": "repre.senta.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-7",
+      "l2": "protesta",
+      "en": "protest / demonstration",
+      "gloss": {
+        "en": "protest / demonstration",
+        "es": "protesta / manifestación",
+        "ru": "протест/демонстрация"
+      },
+      "example": "La manifestación reunió a miles de personas a pesar de la lluvia.",
+      "ipa": "protˈesta",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-8",
+      "l2": "abstención",
+      "en": "abstention",
+      "gloss": {
+        "en": "abstention",
+        "es": "abstención",
+        "ru": "воздержание"
+      },
+      "example": "La abstención récord pone en duda la legitimidad del voto a los ojos de algunos.",
+      "ipa": "abstenθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-9",
+      "l2": "institución",
+      "en": "institution",
+      "gloss": {
+        "en": "institution",
+        "es": "institución",
+        "ru": "учреждение"
+      },
+      "example": "Esta institución independiente controla el financiamiento de las campañas.",
+      "ipa": "insti.tuθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-10",
+      "l2": "asamblea",
+      "en": "assembly / parliament",
+      "gloss": {
+        "en": "assembly / parliament",
+        "es": "asamblea / parlamento",
+        "ru": "собрание / парламент"
+      },
+      "example": "La asamblea rechazó el texto después de un acalorado debate en sesión.",
+      "ipa": "a.samblˈea",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-11",
+      "l2": "referéndum",
+      "en": "referendum",
+      "gloss": {
+        "en": "referendum",
+        "es": "referéndum",
+        "ru": "референдум"
+      },
+      "example": "El referéndum se referiría a una importante reforma institucional.",
+      "ipa": "re.ferˈendum",
+      "article": "el"
+    },
+    {
+      "id": "remote-politica-b2-12",
+      "l2": "coalición",
+      "en": "coalition",
+      "gloss": {
+        "en": "coalition",
+        "es": "coalición",
+        "ru": "коалиция"
+      },
+      "example": "Una coalición diversa tendrá que negociar cada partida del presupuesto.",
+      "ipa": "coa.liθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-13",
+      "l2": "distrito electoral",
+      "en": "constituency",
+      "gloss": {
+        "en": "constituency",
+        "es": "distrito electoral",
+        "ru": "избирательный округ"
+      },
+      "example": "En esta circunscripción, ya no se garantiza que el titular sea reelegido.",
+      "ipa": "distri.to e.lectorˈal",
+      "article": "el"
+    },
+    {
+      "id": "remote-politica-b2-14",
+      "l2": "deber cívico",
+      "en": "civic duty",
+      "gloss": {
+        "en": "civic duty",
+        "es": "deber cívico",
+        "ru": "гражданский долг"
+      },
+      "example": "Votar sigue siendo un deber cívico, incluso cuando la oferta política decepciona.",
+      "ipa": "de.ber cˈi.bico",
+      "article": "el"
+    },
+    {
+      "id": "remote-politica-b2-15",
+      "l2": "oposición",
+      "en": "opposition",
+      "gloss": {
+        "en": "opposition",
+        "es": "oposición",
+        "ru": "оппозиция"
+      },
+      "example": "La oposición ha pedido una comisión de investigación sobre este escándalo.",
+      "ipa": "o.posi.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-16",
+      "l2": "papeleta",
+      "en": "ballot paper",
+      "gloss": {
+        "en": "ballot paper",
+        "es": "papeleta",
+        "ru": "избирательный бюллетень"
+      },
+      "example": "El voto en blanco expresa un rechazo de los candidatos sin boicotear la votación.",
+      "ipa": "pa.pelˈe.ta",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-17",
+      "l2": "mandato de cinco años",
+      "en": "five-year term",
+      "gloss": {
+        "en": "five-year term",
+        "es": "mandato de cinco años",
+        "ru": "пятилетний срок"
+      },
+      "example": "El mandato de cinco años ha acelerado el ritmo político, para bien o para mal.",
+      "ipa": "manda.to de θinco ˈa.ɲos",
+      "article": "el"
+    },
+    {
+      "id": "remote-politica-b2-18",
+      "l2": "reforma",
+      "en": "reform",
+      "gloss": {
+        "en": "reform",
+        "es": "reforma",
+        "ru": "реформа"
+      },
+      "example": "Esta reforma electoral cambiaría profundamente la representatividad del Parlamento.",
+      "ipa": "refˈorma",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-19",
+      "l2": "legitimidad",
+      "en": "legitimacy",
+      "gloss": {
+        "en": "legitimacy",
+        "es": "legitimidad",
+        "ru": "легитимность"
+      },
+      "example": "La legitimidad de un funcionario electo no se limita al puntaje obtenido la noche de las elecciones.",
+      "ipa": "le.xiti.midˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-politica-b2-20",
+      "l2": "participación",
+      "en": "turnout / participation",
+      "gloss": {
+        "en": "turnout / participation",
+        "es": "participación / participación",
+        "ru": "явка/участие"
+      },
+      "example": "La participación de los jóvenes sigue siendo inferior a la de las generaciones anteriores.",
+      "ipa": "parti.θipa.θiˈon",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-politica-b2-phrase-1",
+      "l2": "Todo el mundo debe averiguarlo antes de depositar su voto en las urnas.",
+      "en": "Everyone must get informed before putting their ballot in the box.",
+      "gloss": {
+        "en": "Everyone must get informed before putting their ballot in the box.",
+        "es": "Todos deben informarse antes de depositar su papeleta en la urna.",
+        "ru": "Каждый должен получить информацию, прежде чем опустить свой бюллетень в урну."
+      },
+      "ipa": "tˈo.do ˈel mˈundo dˈe.be a.beriɡˈarlo ˈantes dˈe de.positˈar sˈu bˈo.to ˈen lˈas"
+    },
+    {
+      "id": "remote-politica-b2-phrase-2",
+      "l2": "Aunque la abstención es alta, el resultado sigue siendo oficial.",
+      "en": "Although turnout is low, the result is nonetheless official.",
+      "gloss": {
+        "en": "Although turnout is low, the result is nonetheless official.",
+        "es": "Aunque la participación es baja, el resultado es oficial.",
+        "ru": "Несмотря на низкую явку, результат, тем не менее, является официальным."
+      },
+      "ipa": "aˈunke lˈa abstenθiˈon ˈes ˈalta ˈel re.sultˈa.do sˈi.ɡe siˈendo o.fiθiˈal"
+    },
+    {
+      "id": "remote-politica-b2-phrase-3",
+      "l2": "Si votaran más ciudadanos, la representación sería más fiel al país.",
+      "en": "If more citizens voted, representation would more closely match the country.",
+      "gloss": {
+        "en": "If more citizens voted, representation would more closely match the country.",
+        "es": "Si votaran más ciudadanos, la representación se acercaría más al país.",
+        "ru": "Если бы проголосовало больше граждан, представительство было бы более точно соответствующим стране."
+      },
+      "ipa": "sˈi botˈa.ran mˈas θiu.dadˈa.nos lˈa repre.senta.θiˈon serˈia mˈas fiˈel ˈal paˈis"
+    },
+    {
+      "id": "remote-politica-b2-phrase-4",
+      "l2": "Se podría objetar que manifestarse no reemplaza a votar, pero ambos se complementan.",
+      "en": "One might object that protesting does not replace voting; nevertheless the two complement each other.",
+      "gloss": {
+        "en": "One might object that protesting does not replace voting; nevertheless the two complement each other.",
+        "es": "Se podría objetar que protestar no reemplaza a votar; sin embargo, los dos se complementan.",
+        "ru": "Можно возразить, что протест не заменяет голосование; тем не менее, они дополняют друг друга."
+      },
+      "ipa": "sˈe podrˈia obxetˈar kˈe ma.nifestˈarse nˈo reemplˈa.θa ˈa botˈar pˈe.ro ˈambos sˈe"
+    },
+    {
+      "id": "remote-politica-b2-phrase-5",
+      "l2": "Para que el debate siga siendo legible, es necesario aclarar los programas antes de la votación.",
+      "en": "So that the debate remains readable, programmes should be clarified before the vote.",
+      "gloss": {
+        "en": "So that the debate remains readable, programmes should be clarified before the vote.",
+        "es": "Para que el debate siga siendo legible, es necesario aclarar los programas antes de la votación.",
+        "ru": "Чтобы дебаты оставались читабельными, программы следует уточнять перед голосованием."
+      },
+      "ipa": "pˈa.ra kˈe ˈel debˈa.te sˈi.ga siˈendo lexˈible ˈes ne.θesarˈio aclarˈar lˈos progrˈa.mas"
+    },
+    {
+      "id": "remote-politica-b2-phrase-6",
+      "l2": "No creo que esta reforma sea suficiente para reactivar la participación.",
+      "en": "I do not believe this reform is enough to revive turnout.",
+      "gloss": {
+        "en": "I do not believe this reform is enough to revive turnout.",
+        "es": "No creo que esta reforma sea suficiente para reactivar la participación.",
+        "ru": "Я не верю, что этой реформы достаточно, чтобы восстановить явку."
+      },
+      "ipa": "nˈo crˈeo kˈe ˈesta refˈorma sˈea su.fiθiˈente pˈa.ra reactibˈar lˈa parti.θipa.θiˈon"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-politica-b2-listen-1",
+      "l2": "La votación de dos vueltas favorece las alianzas de segunda vuelta.",
+      "en": "The two-round ballot favours second-round alliances.",
+      "gloss": {
+        "en": "The two-round ballot favours second-round alliances.",
+        "es": "La votación de dos vueltas favorece las alianzas de segunda vuelta.",
+        "ru": "Голосование в два тура отдает предпочтение альянсам второго тура."
+      },
+      "word": "boleta",
+      "wordEn": "ballot",
+      "wordGloss": {
+        "en": "ballot",
+        "es": "votación",
+        "ru": "избирательный бюллетень"
+      },
+      "wordIpa": "bolˈe.ta",
+      "distractors": [
+        "referéndum",
+        "papeleta",
+        "mandato de cinco años"
+      ]
+    },
+    {
+      "id": "remote-politica-b2-listen-2",
+      "l2": "La manifestación reunió a miles de personas a pesar de la lluvia.",
+      "en": "The protest brought together thousands of people despite the rain.",
+      "gloss": {
+        "en": "The protest brought together thousands of people despite the rain.",
+        "es": "La protesta reunió a miles de personas a pesar de la lluvia.",
+        "ru": "Акция протеста собрала тысячи людей, несмотря на дождь."
+      },
+      "word": "protesta",
+      "wordEn": "protest",
+      "wordGloss": {
+        "en": "protest",
+        "es": "protesta",
+        "ru": "протест"
+      },
+      "wordIpa": "protˈesta",
+      "distractors": [
+        "elección",
+        "coalición",
+        "asamblea"
+      ]
+    },
+    {
+      "id": "remote-politica-b2-listen-3",
+      "l2": "La abstención récord pone en duda la legitimidad del voto.",
+      "en": "Record abstention raises questions about the vote’s legitimacy.",
+      "gloss": {
+        "en": "Record abstention raises questions about the vote’s legitimacy.",
+        "es": "La abstención récord plantea dudas sobre la legitimidad de la votación.",
+        "ru": "Рекордное воздержание поднимает вопросы о легитимности голосования."
+      },
+      "word": "abstención",
+      "wordEn": "abstention",
+      "wordGloss": {
+        "en": "abstention",
+        "es": "abstención",
+        "ru": "воздержание"
+      },
+      "wordIpa": "abstenθiˈon",
+      "distractors": [
+        "participación",
+        "sufragio",
+        "ciudadanía"
+      ]
+    },
+    {
+      "id": "remote-politica-b2-listen-4",
+      "l2": "Una coalición diversa tendrá que negociar cada partida del presupuesto.",
+      "en": "A mixed coalition will have to negotiate every article of the budget.",
+      "gloss": {
+        "en": "A mixed coalition will have to negotiate every article of the budget.",
+        "es": "Una coalición mixta tendrá que negociar cada artículo del presupuesto.",
+        "ru": "Смешанной коалиции придется обсуждать каждую статью бюджета."
+      },
+      "word": "coalición",
+      "wordEn": "coalition",
+      "wordGloss": {
+        "en": "coalition",
+        "es": "coalición",
+        "ru": "коалиция"
+      },
+      "wordIpa": "coa.liθiˈon",
+      "distractors": [
+        "oposición",
+        "institución",
+        "distrito electoral"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Votar es un derecho, un deber o ambos? Justifica tu posición.",
+    "Comparemos una manifestación y una votación: ¿qué efectos diferentes producen?",
+    "¿En su opinión, la abstención amenaza la legitimidad de las instituciones?",
+    "Si pudieras reformar el sistema de votación, ¿qué cambiarías y por qué?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-politica-b2-grammar-1",
+      "title": {
+        "fr": "Subjonctif imparfait en hypothèse",
+        "en": "Imperfect subjunctive in hypotheses",
+        "es": "Imperfecto de subjuntivo en hipótesis",
+        "ru": "Imperfecto de subjuntivo в гипотезах"
+      },
+      "rule": {
+        "fr": "Si + imperfecto de subjuntivo, condicional : Si tuviera tiempo, iría.",
+        "en": "Si + imperfect subjunctive, conditional: Si tuviera tiempo, iría.",
+        "es": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría.",
+        "ru": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría."
+      },
+      "why": {
+        "en": "Lets you discuss unlikely or polite scenarios.",
+        "es": "Permite hablar de escenarios poco reales o corteses.",
+        "ru": "Позволяет обсуждать маловероятные или вежливые сценарии."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Si + subj. impf.",
+          "hipótesis",
+          "Si tuviera tiempo, iría."
+        ],
+        [
+          "condicional",
+          "resultado",
+          "Compraría la boleta."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-politica-b2-gq-1-1",
+          "prompt": "Si ___ tiempo, viajaría. (tener)",
+          "answer": "tuviera",
+          "options": [
+            "tuviera",
+            "tengo",
+            "tendré"
+          ]
+        },
+        {
+          "id": "remote-politica-b2-gq-1-2",
+          "prompt": "Si pudiera, ___ más. (leer)",
+          "answer": "leería",
+          "options": [
+            "leería",
+            "leo",
+            "leí"
+          ]
+        },
+        {
+          "id": "remote-politica-b2-gq-1-3",
+          "prompt": "Si hubiera cadencia, sería distinto.",
+          "answer": "hubiera",
+          "options": [
+            "hubiera",
+            "hay",
+            "había"
+          ]
+        },
+        {
+          "id": "remote-politica-b2-gq-1-4",
+          "prompt": "Relaciona con el tema: boleta / cadencia. ¿Artículo de «boleta»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-politica-b2-gq-1-5",
+          "prompt": "Relaciona con el tema: boleta / cadencia. ¿Artículo de «boleta»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-politica-b2-grammar-2",
+      "title": {
+        "fr": "Aunque + indicatif / subjonctif",
+        "en": "Aunque + indicative / subjunctive",
+        "es": "Aunque + indicativo / subjuntivo",
+        "ru": "Aunque + indicativo / subjuntivo"
+      },
+      "rule": {
+        "fr": "Aunque + indicatif = fait connu ; aunque + subjonctif = concession non assertive.",
+        "en": "Aunque + indicative = known fact; + subjunctive = non-assertive concession.",
+        "es": "Aunque + indicativo = hecho conocido; + subjuntivo = concesión no asertiva.",
+        "ru": "Aunque + indicativo — известный факт; + subjuntivo — уступка без утверждения."
+      },
+      "why": {
+        "en": "Nuances how strongly you commit to a claim.",
+        "es": "Matiza cuánto te comprometes con una afirmación.",
+        "ru": "Оттенки того, насколько вы настаиваете на утверждении."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "aunque + ind.",
+          "hecho conocido",
+          "Aunque hay ciudadanía, sigo."
+        ],
+        [
+          "aunque + subj.",
+          "no asertivo",
+          "Aunque haya representación, dudo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-politica-b2-gq-2-1",
+          "prompt": "Aunque ___ frío, salgo. (hecho)",
+          "answer": "hace",
+          "options": [
+            "hace",
+            "haga",
+            "hará"
+          ]
+        },
+        {
+          "id": "remote-politica-b2-gq-2-2",
+          "prompt": "Aunque ___ problemas, intentaré. (no seguro)",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-politica-b2-gq-2-3",
+          "prompt": "Aunque exista ciudadanía, no basta.",
+          "answer": "exista",
+          "options": [
+            "exista",
+            "existe",
+            "existirá"
+          ]
+        },
+        {
+          "id": "remote-politica-b2-gq-2-4",
+          "prompt": "Relaciona con el tema: ciudadanía / representación. ¿Artículo de «ciudadanía»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-politica-b2-gq-2-5",
+          "prompt": "Relaciona con el tema: ciudadanía / representación. ¿Artículo de «ciudadanía»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-politica-b2-dict-1",
+        "l2": "Todo el mundo debe averiguarlo antes de depositar su voto en las urnas.",
+        "en": "Everyone must get informed before putting their ballot in the box.",
+        "gloss": {
+          "en": "Everyone must get informed before putting their ballot in the box.",
+          "es": "Todos deben informarse antes de depositar su papeleta en la urna.",
+          "ru": "Каждый должен получить информацию, прежде чем опустить свой бюллетень в урну."
+        },
+        "ipa": "tˈo.do ˈel mˈundo dˈe.be a.beriɡˈarlo ˈantes dˈe de.positˈar sˈu bˈo.to ˈen lˈas"
+      },
+      {
+        "id": "remote-politica-b2-dict-2",
+        "l2": "Aunque la abstención es alta, el resultado sigue siendo oficial.",
+        "en": "Although turnout is low, the result is nonetheless official.",
+        "gloss": {
+          "en": "Although turnout is low, the result is nonetheless official.",
+          "es": "Aunque la participación es baja, el resultado es oficial.",
+          "ru": "Несмотря на низкую явку, результат, тем не менее, является официальным."
+        },
+        "ipa": "aˈunke lˈa abstenθiˈon ˈes ˈalta ˈel re.sultˈa.do sˈi.ɡe siˈendo o.fiθiˈal"
+      },
+      {
+        "id": "remote-politica-b2-dict-3",
+        "l2": "Si votaran más ciudadanos, la representación sería más fiel al país.",
+        "en": "If more citizens voted, representation would more closely match the country.",
+        "gloss": {
+          "en": "If more citizens voted, representation would more closely match the country.",
+          "es": "Si votaran más ciudadanos, la representación se acercaría más al país.",
+          "ru": "Если бы проголосовало больше граждан, представительство было бы более точно соответствующим стране."
+        },
+        "ipa": "sˈi botˈa.ran mˈas θiu.dadˈa.nos lˈa repre.senta.θiˈon serˈia mˈas fiˈel ˈal paˈis"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-politica-b2-mean-1",
+        "l2": "Todo el mundo debe averiguarlo antes de depositar su voto en las urnas.",
+        "en": "Everyone must get informed before putting their ballot in the box.",
+        "gloss": {
+          "en": "Everyone must get informed before putting their ballot in the box.",
+          "es": "Todos deben informarse antes de depositar su papeleta en la urna.",
+          "ru": "Каждый должен получить информацию, прежде чем опустить свой бюллетень в урну."
+        }
+      },
+      {
+        "id": "remote-politica-b2-mean-2",
+        "l2": "Aunque la abstención es alta, el resultado sigue siendo oficial.",
+        "en": "Although turnout is low, the result is nonetheless official.",
+        "gloss": {
+          "en": "Although turnout is low, the result is nonetheless official.",
+          "es": "Aunque la participación es baja, el resultado es oficial.",
+          "ru": "Несмотря на низкую явку, результат, тем не менее, является официальным."
+        }
+      },
+      {
+        "id": "remote-politica-b2-mean-3",
+        "l2": "Si votaran más ciudadanos, la representación sería más fiel al país.",
+        "en": "If more citizens voted, representation would more closely match the country.",
+        "gloss": {
+          "en": "If more citizens voted, representation would more closely match the country.",
+          "es": "Si votaran más ciudadanos, la representación se acercaría más al país.",
+          "ru": "Если бы проголосовало больше граждан, представительство было бы более точно соответствующим стране."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-politica-b2-fren-1",
+        "l2": "elección",
+        "en": "election",
+        "gloss": {
+          "en": "election",
+          "es": "elección",
+          "ru": "выборы"
+        }
+      },
+      {
+        "id": "remote-politica-b2-fren-2",
+        "l2": "boleta",
+        "en": "ballot",
+        "gloss": {
+          "en": "ballot",
+          "es": "votación",
+          "ru": "избирательный бюллетень"
+        }
+      },
+      {
+        "id": "remote-politica-b2-fren-3",
+        "l2": "ciudadanía",
+        "en": "citizenship",
+        "gloss": {
+          "en": "citizenship",
+          "es": "ciudadanía",
+          "ru": "гражданство"
+        }
+      },
+      {
+        "id": "remote-politica-b2-fren-4",
+        "l2": "sufragio",
+        "en": "suffrage",
+        "gloss": {
+          "en": "suffrage",
+          "es": "sufragio",
+          "ru": "избирательное право"
+        }
+      },
+      {
+        "id": "remote-politica-b2-fren-5",
+        "l2": "cadencia",
+        "en": "term of office",
+        "gloss": {
+          "en": "term of office",
+          "es": "cadencia",
+          "ru": "срок полномочий"
+        }
+      },
+      {
+        "id": "remote-politica-b2-fren-6",
+        "l2": "representación",
+        "en": "representation",
+        "gloss": {
+          "en": "representation",
+          "es": "representación",
+          "ru": "представительство"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-politica-b2-alou-1",
+        "l2": "Todo el mundo debe averiguarlo antes de depositar su voto en las urnas.",
+        "en": "Everyone must get informed before putting their ballot in the box.",
+        "gloss": {
+          "en": "Everyone must get informed before putting their ballot in the box.",
+          "es": "Todos deben informarse antes de depositar su papeleta en la urna.",
+          "ru": "Каждый должен получить информацию, прежде чем опустить свой бюллетень в урну."
+        },
+        "ipa": "tˈo.do ˈel mˈundo dˈe.be a.beriɡˈarlo ˈantes dˈe de.positˈar sˈu bˈo.to ˈen lˈas"
+      },
+      {
+        "id": "remote-politica-b2-alou-2",
+        "l2": "Si votaran más ciudadanos, la representación sería más fiel al país.",
+        "en": "If more citizens voted, representation would more closely match the country.",
+        "gloss": {
+          "en": "If more citizens voted, representation would more closely match the country.",
+          "es": "Si votaran más ciudadanos, la representación se acercaría más al país.",
+          "ru": "Если бы проголосовало больше граждан, представительство было бы более точно соответствующим стране."
+        },
+        "ipa": "sˈi botˈa.ran mˈas θiu.dadˈa.nos lˈa repre.senta.θiˈon serˈia mˈas fiˈel ˈal paˈis"
+      },
+      {
+        "id": "remote-politica-b2-alou-3",
+        "l2": "Para que el debate siga siendo legible, es necesario aclarar los programas antes de la votación.",
+        "en": "So that the debate remains readable, programmes should be clarified before the vote.",
+        "gloss": {
+          "en": "So that the debate remains readable, programmes should be clarified before the vote.",
+          "es": "Para que el debate siga siendo legible, es necesario aclarar los programas antes de la votación.",
+          "ru": "Чтобы дебаты оставались читабельными, программы следует уточнять перед голосованием."
+        },
+        "ipa": "pˈa.ra kˈe ˈel debˈa.te sˈi.ga siˈendo lexˈible ˈes ne.θesarˈio aclarˈar lˈos progrˈa.mas"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-politica-b2-unsc-1",
+        "l2": "Votar sigue siendo un deber cívico, incluso cuando la oferta política decepciona.",
+        "en": "Voting remains a civic duty, even when the political offer is disappointing.",
+        "gloss": {
+          "en": "Voting remains a civic duty, even when the political offer is disappointing.",
+          "es": "Votar sigue siendo un deber cívico, incluso cuando la oferta política sea decepcionante.",
+          "ru": "Голосование остается гражданским долгом, даже когда политическое предложение разочаровывает."
+        },
+        "words": [
+          "Votar",
+          "sigue",
+          "siendo",
+          "un",
+          "deber",
+          "cívico,",
+          "incluso",
+          "cuando",
+          "la",
+          "oferta",
+          "política",
+          "decepciona."
+        ]
+      },
+      {
+        "id": "remote-politica-b2-unsc-2",
+        "l2": "La oposición ha pedido una comisión de investigación sobre este escándalo.",
+        "en": "The opposition has called for a committee of inquiry into this scandal.",
+        "gloss": {
+          "en": "The opposition has called for a committee of inquiry into this scandal.",
+          "es": "La oposición ha pedido una comisión de investigación sobre este escándalo.",
+          "ru": "Оппозиция призвала создать комиссию по расследованию этого скандала."
+        },
+        "words": [
+          "La",
+          "oposición",
+          "ha",
+          "pedido",
+          "una",
+          "comisión",
+          "de",
+          "investigación",
+          "sobre",
+          "este",
+          "escándalo."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

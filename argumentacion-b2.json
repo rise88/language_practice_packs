@@ -1,0 +1,847 @@
+{
+  "pratiquePack": 2,
+  "id": "argumentacion-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "es",
+  "title": {
+    "fr": "Argumentation B2 (ES)",
+    "en": "Argumentation B2 (ES)",
+    "es": "Argumentación B2",
+    "ru": "Аргументация Б2 (ES)"
+  },
+  "description": {
+    "fr": "Thèse, contre-argument, nuance, concession et recours à la preuve — pack espagnol.",
+    "en": "Claims, counterarguments, nuance, concession, and evidence — Spanish pack.",
+    "es": "Reclamaciones, contraargumentos, matices, concesiones y pruebas para estudiar español.",
+    "ru": "Претензии, контраргументы, нюансы, уступки и доказательства — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-argumentacion-b2-1",
+      "l2": "reclamo",
+      "en": "claim / thesis",
+      "gloss": {
+        "en": "claim / thesis",
+        "es": "reclamo / tesis",
+        "ru": "претензия / тезис"
+      },
+      "example": "Su tesis es clara, pero los ejemplos propuestos siguen siendo demasiado específicos.",
+      "ipa": "reclˈa.mo",
+      "article": "el"
+    },
+    {
+      "id": "remote-argumentacion-b2-2",
+      "l2": "contraargumento",
+      "en": "counterargument",
+      "gloss": {
+        "en": "counterargument",
+        "es": "contraargumento",
+        "ru": "контраргумент"
+      },
+      "example": "El contraargumento más serio se refiere a la falta de datos comparables.",
+      "ipa": "contraarɡmˈento",
+      "article": "el"
+    },
+    {
+      "id": "remote-argumentacion-b2-3",
+      "l2": "matiz",
+      "en": "nuance",
+      "gloss": {
+        "en": "nuance",
+        "es": "matiz",
+        "ru": "нюанс"
+      },
+      "example": "Un matiz bien colocado no debilita la tesis, la hace más creíble.",
+      "ipa": "matˈiz",
+      "article": "el"
+    },
+    {
+      "id": "remote-argumentacion-b2-4",
+      "l2": "concesión",
+      "en": "concession",
+      "gloss": {
+        "en": "concession",
+        "es": "concesión",
+        "ru": "уступка"
+      },
+      "example": "La concesión (“ciertamente… sin embargo”) desarma al interlocutor antes de la respuesta.",
+      "ipa": "conθe.siˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-5",
+      "l2": "argumento",
+      "en": "argument",
+      "gloss": {
+        "en": "argument",
+        "es": "argumento",
+        "ru": "аргумент"
+      },
+      "example": "Un argumento no es una opinión: se basa en una razón que puede ser discutida.",
+      "ipa": "arɡmˈento",
+      "article": "el"
+    },
+    {
+      "id": "remote-argumentacion-b2-6",
+      "l2": "afirmación",
+      "en": "assertion",
+      "gloss": {
+        "en": "assertion",
+        "es": "afirmación",
+        "ru": "утверждение"
+      },
+      "example": "Esta afirmación perentoria necesitaría estar respaldada por al menos un estudio.",
+      "ipa": "a.firma.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-7",
+      "l2": "refutación",
+      "en": "rebuttal / refutation",
+      "gloss": {
+        "en": "rebuttal / refutation",
+        "es": "refutación / refutación",
+        "ru": "опровержение / опровержение"
+      },
+      "example": "La refutación no consiste en ridiculizar al otro, sino en mostrar dónde falla el razonamiento.",
+      "ipa": "re.futa.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-8",
+      "l2": "suposición",
+      "en": "assumption / presupposition",
+      "gloss": {
+        "en": "assumption / presupposition",
+        "es": "suposición / presuposición",
+        "ru": "предположение/предпосылка"
+      },
+      "example": "La presuposición tácita (“todo el mundo lo sabe”) merece ser sacada a la luz.",
+      "ipa": "su.posi.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-9",
+      "l2": "analogía",
+      "en": "analogy",
+      "gloss": {
+        "en": "analogy",
+        "es": "analogía",
+        "ru": "аналогия"
+      },
+      "example": "La analogía es esclarecedora, pero no prueba nada si las dos situaciones divergen.",
+      "ipa": "a.nalogˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-10",
+      "l2": "retórica",
+      "en": "rhetoric",
+      "gloss": {
+        "en": "rhetoric",
+        "es": "retórica",
+        "ru": "риторика"
+      },
+      "example": "Una retórica brillante puede enmascarar una debilidad fundamental que descubrimos demasiado tarde.",
+      "ipa": "retˈo.rica",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-11",
+      "l2": "objeción",
+      "en": "objection",
+      "gloss": {
+        "en": "objection",
+        "es": "objeción",
+        "ru": "возражение"
+      },
+      "example": "La objeción fue estimada, lo que permitió perfeccionar la tesis inicial.",
+      "ipa": "obxe.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-12",
+      "l2": "síntesis",
+      "en": "synthesis",
+      "gloss": {
+        "en": "synthesis",
+        "es": "síntesis",
+        "ru": "синтез"
+      },
+      "example": "La síntesis final articula los puntos de acuerdo sin borrar los desacuerdos restantes.",
+      "ipa": "sˈinte.sis",
+      "article": "el"
+    },
+    {
+      "id": "remote-argumentacion-b2-13",
+      "l2": "ilustración",
+      "en": "illustration / example",
+      "gloss": {
+        "en": "illustration / example",
+        "es": "ilustración / ejemplo",
+        "ru": "иллюстрация/пример"
+      },
+      "example": "Esta ilustración concreta hace que el argumento sea más comprensible para un público no especializado.",
+      "ipa": "i.lustra.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-14",
+      "l2": "lo que está en juego",
+      "en": "stake / issue at stake",
+      "gloss": {
+        "en": "stake / issue at stake",
+        "es": "lo que está en juego/cuestión en juego",
+        "ru": "ставка / вопрос на кону"
+      },
+      "example": "El desafío no es “ganar”, sino aclarar lo que realmente está en juego.",
+      "ipa": "lo ke estˈa en xue.go",
+      "article": "el"
+    },
+    {
+      "id": "remote-argumentacion-b2-15",
+      "l2": "paradoja",
+      "en": "paradox",
+      "gloss": {
+        "en": "paradox",
+        "es": "paradoja",
+        "ru": "парадокс"
+      },
+      "example": "La paradoja (“cuanto menos regulamos, menos libres somos”) nos obliga a revisar un presupuesto.",
+      "ipa": "pa.radˈo.xa",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-16",
+      "l2": "palabra conectiva",
+      "en": "connective / linking word",
+      "gloss": {
+        "en": "connective / linking word",
+        "es": "palabra conectiva/enlazante",
+        "ru": "связующее/связующее слово"
+      },
+      "example": "Un conector mal elegido (es decir, en lugar de o) distorsiona toda la progresión del razonamiento.",
+      "ipa": "pa.labra co.nectˈi.ba",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-17",
+      "l2": "punto de vista",
+      "en": "point of view",
+      "gloss": {
+        "en": "point of view",
+        "es": "Punto de vista",
+        "ru": "точка зрения"
+      },
+      "example": "Su punto de vista no es absurdo; sin embargo, parte de un presupuesto cuestionable.",
+      "ipa": "punto de bˈista",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-18",
+      "l2": "pertinencia",
+      "en": "relevance",
+      "gloss": {
+        "en": "relevance",
+        "es": "pertinencia",
+        "ru": "актуальность"
+      },
+      "example": "La relevancia de un ejemplo se juzga por lo que ilumina, no sólo por su carácter sorprendente.",
+      "ipa": "perti.nenθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-19",
+      "l2": "generalización",
+      "en": "generalization",
+      "gloss": {
+        "en": "generalization",
+        "es": "generalización",
+        "ru": "обобщение"
+      },
+      "example": "Esta generalización abusiva se basa en tres casos, lo que la hace frágil.",
+      "ipa": "xe.nera.liθa.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-argumentacion-b2-20",
+      "l2": "caso",
+      "en": "case / plea",
+      "gloss": {
+        "en": "case / plea",
+        "es": "caso / alegato",
+        "ru": "дело/просьба"
+      },
+      "example": "Su petición de compromiso llevó el debate al terreno práctico.",
+      "ipa": "cˈa.so",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-argumentacion-b2-phrase-1",
+      "l2": "Ciertamente, la objeción es seria; Sin embargo, esto no arruina por completo la tesis.",
+      "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+      "gloss": {
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+        "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+      },
+      "ipa": "θiertamˈente lˈa obxe.θiˈon ˈes serˈia sˈin embˈargo ˈesto nˈo a.ruˈi.na pˈor complˈe.to"
+    },
+    {
+      "id": "remote-argumentacion-b2-phrase-2",
+      "l2": "Aunque la analogía es atractiva, las dos situaciones no son comparables.",
+      "en": "Although the analogy is appealing, the two situations are not comparable.",
+      "gloss": {
+        "en": "Although the analogy is appealing, the two situations are not comparable.",
+        "es": "Aunque la analogía resulta atractiva, las dos situaciones no son comparables.",
+        "ru": "Хотя аналогия привлекательна, эти две ситуации несопоставимы."
+      },
+      "ipa": "aˈunke lˈa a.nalogˈia ˈes atractˈi.ba lˈas dˈos si.tua.θiˈo.nes nˈo sˈon comparˈables"
+    },
+    {
+      "id": "remote-argumentacion-b2-phrase-3",
+      "l2": "Se podría objetar que aquí la retórica triunfa sobre la evidencia.",
+      "en": "One might object that rhetoric is winning out over evidence here.",
+      "gloss": {
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+        "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+      },
+      "ipa": "sˈe podrˈia obxetˈar kˈe akˈi lˈa retˈo.rica triˈunfa sˈobre lˈa e.bidenθˈia"
+    },
+    {
+      "id": "remote-argumentacion-b2-phrase-4",
+      "l2": "Conviene admitir este punto para que el debate pueda avanzar en lo esencial.",
+      "en": "It is worth conceding this point so that the debate can move on to what matters.",
+      "gloss": {
+        "en": "It is worth conceding this point so that the debate can move on to what matters.",
+        "es": "Vale la pena admitir este punto para que el debate pueda pasar a lo que importa.",
+        "ru": "Стоит признать этот момент, чтобы дискуссия могла перейти к тому, что имеет значение."
+      },
+      "ipa": "conbiˈe.ne admitˈir ˈeste pˈunto pˈa.ra kˈe ˈel debˈa.te puˈe.da a.banθˈar ˈen lˈo"
+    },
+    {
+      "id": "remote-argumentacion-b2-phrase-5",
+      "l2": "No estoy convencido de que esta generalización esté justificada.",
+      "en": "I am not convinced that this generalization is well-founded.",
+      "gloss": {
+        "en": "I am not convinced that this generalization is well-founded.",
+        "es": "No estoy convencido de que esta generalización esté bien fundada.",
+        "ru": "Я не уверен, что это обобщение обосновано."
+      },
+      "ipa": "nˈo estˈoʝ conbenθˈi.do dˈe kˈe ˈesta xe.nera.liθa.θiˈon estˈe xusti.ficˈa.da"
+    },
+    {
+      "id": "remote-argumentacion-b2-phrase-6",
+      "l2": "Por otra parte, un matiz bien colocado hace que la tesis sea más difícil de refutar.",
+      "en": "By contrast, a well-placed nuance makes the claim harder to refute.",
+      "gloss": {
+        "en": "By contrast, a well-placed nuance makes the claim harder to refute.",
+        "es": "Por el contrario, un matiz bien colocado hace que la afirmación sea más difícil de refutar.",
+        "ru": "Напротив, из-за хорошо продуманного нюанса это утверждение труднее опровергнуть."
+      },
+      "ipa": "pˈor ˈotra pˈarte ˈun matˈiz bˈien co.locˈa.do ˈa.θe kˈe lˈa tˈe.sis sˈea"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-argumentacion-b2-listen-1",
+      "l2": "Su tesis es clara, pero los ejemplos siguen siendo demasiado particulares.",
+      "en": "The claim is clear; however the examples remain too specific.",
+      "gloss": {
+        "en": "The claim is clear; however the examples remain too specific.",
+        "es": "El reclamo es claro; sin embargo, los ejemplos siguen siendo demasiado específicos.",
+        "ru": "Претензия ясна; однако примеры остаются слишком конкретными."
+      },
+      "word": "reclamo",
+      "wordEn": "claim",
+      "wordGloss": {
+        "en": "claim",
+        "es": "afirmar",
+        "ru": "требовать"
+      },
+      "wordIpa": "reclˈa.mo",
+      "distractors": [
+        "afirmación",
+        "síntesis",
+        "caso"
+      ]
+    },
+    {
+      "id": "remote-argumentacion-b2-listen-2",
+      "l2": "El contraargumento más serio se refiere a la falta de datos.",
+      "en": "The most serious counterargument concerns the lack of comparable data.",
+      "gloss": {
+        "en": "The most serious counterargument concerns the lack of comparable data.",
+        "es": "El contraargumento más serio se refiere a la falta de datos comparables.",
+        "ru": "Самый серьезный контраргумент касается отсутствия сопоставимых данных."
+      },
+      "word": "contraargumento",
+      "wordEn": "counterargument",
+      "wordGloss": {
+        "en": "counterargument",
+        "es": "contraargumento",
+        "ru": "контраргумент"
+      },
+      "wordIpa": "contraarɡmˈento",
+      "distractors": [
+        "objeción",
+        "refutación",
+        "concesión"
+      ]
+    },
+    {
+      "id": "remote-argumentacion-b2-listen-3",
+      "l2": "Un matiz bien colocado no debilita la tesis, la hace más creíble.",
+      "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+      "gloss": {
+        "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+        "es": "Un matiz bien colocado no debilita la afirmación; lo hace más creíble.",
+        "ru": "Удачно поставленный нюанс не ослабляет претензии; это делает его более достоверным."
+      },
+      "word": "matiz",
+      "wordEn": "nuance",
+      "wordGloss": {
+        "en": "nuance",
+        "es": "matiz",
+        "ru": "нюанс"
+      },
+      "wordIpa": "matˈiz",
+      "distractors": [
+        "pertinencia",
+        "palabra conectiva",
+        "retórica"
+      ]
+    },
+    {
+      "id": "remote-argumentacion-b2-listen-4",
+      "l2": "Esta generalización abusiva se basa sólo en tres casos.",
+      "en": "This careless generalization rests on only three cases.",
+      "gloss": {
+        "en": "This careless generalization rests on only three cases.",
+        "es": "Esta generalización descuidada se basa sólo en tres casos.",
+        "ru": "Это небрежное обобщение опирается всего на три случая."
+      },
+      "word": "generalización",
+      "wordEn": "generalization",
+      "wordGloss": {
+        "en": "generalization",
+        "es": "generalización",
+        "ru": "обобщение"
+      },
+      "wordIpa": "xe.nera.liθa.θiˈon",
+      "distractors": [
+        "analogía",
+        "suposición",
+        "ilustración"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Por qué conceder un punto puede fortalecer una tesis en lugar de debilitarla?",
+    "Compare un contraargumento fuerte con un simple ataque personal.",
+    "En su opinión, ¿puede realmente una analogía servir como prueba? Justificar.",
+    "Si tuvieras que matizar una opinión demasiado clara, ¿cómo lo harías?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-argumentacion-b2-grammar-1",
+      "title": {
+        "fr": "Subjonctif imparfait en hypothèse",
+        "en": "Imperfect subjunctive in hypotheses",
+        "es": "Imperfecto de subjuntivo en hipótesis",
+        "ru": "Imperfecto de subjuntivo в гипотезах"
+      },
+      "rule": {
+        "fr": "Si + imperfecto de subjuntivo, condicional : Si tuviera tiempo, iría.",
+        "en": "Si + imperfect subjunctive, conditional: Si tuviera tiempo, iría.",
+        "es": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría.",
+        "ru": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría."
+      },
+      "why": {
+        "en": "Lets you discuss unlikely or polite scenarios.",
+        "es": "Permite hablar de escenarios poco reales o corteses.",
+        "ru": "Позволяет обсуждать маловероятные или вежливые сценарии."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Si + subj. impf.",
+          "hipótesis",
+          "Si tuviera tiempo, iría."
+        ],
+        [
+          "condicional",
+          "resultado",
+          "Compraría el contraargumento."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-argumentacion-b2-gq-1-1",
+          "prompt": "Si ___ tiempo, viajaría. (tener)",
+          "answer": "tuviera",
+          "options": [
+            "tuviera",
+            "tengo",
+            "tendré"
+          ]
+        },
+        {
+          "id": "remote-argumentacion-b2-gq-1-2",
+          "prompt": "Si pudiera, ___ más. (leer)",
+          "answer": "leería",
+          "options": [
+            "leería",
+            "leo",
+            "leí"
+          ]
+        },
+        {
+          "id": "remote-argumentacion-b2-gq-1-3",
+          "prompt": "Si hubiera argumento, sería distinto.",
+          "answer": "hubiera",
+          "options": [
+            "hubiera",
+            "hay",
+            "había"
+          ]
+        },
+        {
+          "id": "remote-argumentacion-b2-gq-1-4",
+          "prompt": "Relaciona con el tema: contraargumento / argumento. ¿Artículo de «contraargumento»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-argumentacion-b2-gq-1-5",
+          "prompt": "Relaciona con el tema: contraargumento / argumento. ¿Artículo de «contraargumento»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-argumentacion-b2-grammar-2",
+      "title": {
+        "fr": "Aunque + indicatif / subjonctif",
+        "en": "Aunque + indicative / subjunctive",
+        "es": "Aunque + indicativo / subjuntivo",
+        "ru": "Aunque + indicativo / subjuntivo"
+      },
+      "rule": {
+        "fr": "Aunque + indicatif = fait connu ; aunque + subjonctif = concession non assertive.",
+        "en": "Aunque + indicative = known fact; + subjunctive = non-assertive concession.",
+        "es": "Aunque + indicativo = hecho conocido; + subjuntivo = concesión no asertiva.",
+        "ru": "Aunque + indicativo — известный факт; + subjuntivo — уступка без утверждения."
+      },
+      "why": {
+        "en": "Nuances how strongly you commit to a claim.",
+        "es": "Matiza cuánto te comprometes con una afirmación.",
+        "ru": "Оттенки того, насколько вы настаиваете на утверждении."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "aunque + ind.",
+          "hecho conocido",
+          "Aunque hay matiz, sigo."
+        ],
+        [
+          "aunque + subj.",
+          "no asertivo",
+          "Aunque haya afirmación, dudo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-argumentacion-b2-gq-2-1",
+          "prompt": "Aunque ___ frío, salgo. (hecho)",
+          "answer": "hace",
+          "options": [
+            "hace",
+            "haga",
+            "hará"
+          ]
+        },
+        {
+          "id": "remote-argumentacion-b2-gq-2-2",
+          "prompt": "Aunque ___ problemas, intentaré. (no seguro)",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-argumentacion-b2-gq-2-3",
+          "prompt": "Aunque exista matiz, no basta.",
+          "answer": "exista",
+          "options": [
+            "exista",
+            "existe",
+            "existirá"
+          ]
+        },
+        {
+          "id": "remote-argumentacion-b2-gq-2-4",
+          "prompt": "Relaciona con el tema: matiz / afirmación. ¿Artículo de «matiz»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-argumentacion-b2-gq-2-5",
+          "prompt": "Relaciona con el tema: matiz / afirmación. ¿Artículo de «matiz»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-argumentacion-b2-dict-1",
+        "l2": "Ciertamente, la objeción es seria; Sin embargo, esto no arruina por completo la tesis.",
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "gloss": {
+          "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+          "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+        },
+        "ipa": "θiertamˈente lˈa obxe.θiˈon ˈes serˈia sˈin embˈargo ˈesto nˈo a.ruˈi.na pˈor complˈe.to"
+      },
+      {
+        "id": "remote-argumentacion-b2-dict-2",
+        "l2": "Aunque la analogía es atractiva, las dos situaciones no son comparables.",
+        "en": "Although the analogy is appealing, the two situations are not comparable.",
+        "gloss": {
+          "en": "Although the analogy is appealing, the two situations are not comparable.",
+          "es": "Aunque la analogía resulta atractiva, las dos situaciones no son comparables.",
+          "ru": "Хотя аналогия привлекательна, эти две ситуации несопоставимы."
+        },
+        "ipa": "aˈunke lˈa a.nalogˈia ˈes atractˈi.ba lˈas dˈos si.tua.θiˈo.nes nˈo sˈon comparˈables"
+      },
+      {
+        "id": "remote-argumentacion-b2-dict-3",
+        "l2": "Se podría objetar que aquí la retórica triunfa sobre la evidencia.",
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "gloss": {
+          "en": "One might object that rhetoric is winning out over evidence here.",
+          "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+          "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+        },
+        "ipa": "sˈe podrˈia obxetˈar kˈe akˈi lˈa retˈo.rica triˈunfa sˈobre lˈa e.bidenθˈia"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-argumentacion-b2-mean-1",
+        "l2": "Ciertamente, la objeción es seria; Sin embargo, esto no arruina por completo la tesis.",
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "gloss": {
+          "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+          "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+        }
+      },
+      {
+        "id": "remote-argumentacion-b2-mean-2",
+        "l2": "Aunque la analogía es atractiva, las dos situaciones no son comparables.",
+        "en": "Although the analogy is appealing, the two situations are not comparable.",
+        "gloss": {
+          "en": "Although the analogy is appealing, the two situations are not comparable.",
+          "es": "Aunque la analogía resulta atractiva, las dos situaciones no son comparables.",
+          "ru": "Хотя аналогия привлекательна, эти две ситуации несопоставимы."
+        }
+      },
+      {
+        "id": "remote-argumentacion-b2-mean-3",
+        "l2": "Se podría objetar que aquí la retórica triunfa sobre la evidencia.",
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "gloss": {
+          "en": "One might object that rhetoric is winning out over evidence here.",
+          "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+          "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-argumentacion-b2-fren-1",
+        "l2": "reclamo",
+        "en": "claim",
+        "gloss": {
+          "en": "claim",
+          "es": "afirmar",
+          "ru": "требовать"
+        }
+      },
+      {
+        "id": "remote-argumentacion-b2-fren-2",
+        "l2": "contraargumento",
+        "en": "counterargument",
+        "gloss": {
+          "en": "counterargument",
+          "es": "contraargumento",
+          "ru": "контраргумент"
+        }
+      },
+      {
+        "id": "remote-argumentacion-b2-fren-3",
+        "l2": "matiz",
+        "en": "nuance",
+        "gloss": {
+          "en": "nuance",
+          "es": "matiz",
+          "ru": "нюанс"
+        }
+      },
+      {
+        "id": "remote-argumentacion-b2-fren-4",
+        "l2": "concesión",
+        "en": "concession",
+        "gloss": {
+          "en": "concession",
+          "es": "concesión",
+          "ru": "уступка"
+        }
+      },
+      {
+        "id": "remote-argumentacion-b2-fren-5",
+        "l2": "argumento",
+        "en": "argument",
+        "gloss": {
+          "en": "argument",
+          "es": "argumento",
+          "ru": "аргумент"
+        }
+      },
+      {
+        "id": "remote-argumentacion-b2-fren-6",
+        "l2": "afirmación",
+        "en": "assertion",
+        "gloss": {
+          "en": "assertion",
+          "es": "afirmación",
+          "ru": "утверждение"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-argumentacion-b2-alou-1",
+        "l2": "Ciertamente, la objeción es seria; Sin embargo, esto no arruina por completo la tesis.",
+        "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+        "gloss": {
+          "en": "Admittedly the objection is serious; however it does not entirely undermine the claim.",
+          "es": "Es cierto que la objeción es grave; sin embargo, no socava por completo la afirmación.",
+          "ru": "По общему признанию, возражение серьезное; однако это не полностью подрывает утверждение."
+        },
+        "ipa": "θiertamˈente lˈa obxe.θiˈon ˈes serˈia sˈin embˈargo ˈesto nˈo a.ruˈi.na pˈor complˈe.to"
+      },
+      {
+        "id": "remote-argumentacion-b2-alou-2",
+        "l2": "Se podría objetar que aquí la retórica triunfa sobre la evidencia.",
+        "en": "One might object that rhetoric is winning out over evidence here.",
+        "gloss": {
+          "en": "One might object that rhetoric is winning out over evidence here.",
+          "es": "Se podría objetar que aquí la retórica está ganando a la evidencia.",
+          "ru": "Можно возразить, что риторика здесь берет верх над фактами."
+        },
+        "ipa": "sˈe podrˈia obxetˈar kˈe akˈi lˈa retˈo.rica triˈunfa sˈobre lˈa e.bidenθˈia"
+      },
+      {
+        "id": "remote-argumentacion-b2-alou-3",
+        "l2": "No estoy convencido de que esta generalización esté justificada.",
+        "en": "I am not convinced that this generalization is well-founded.",
+        "gloss": {
+          "en": "I am not convinced that this generalization is well-founded.",
+          "es": "No estoy convencido de que esta generalización esté bien fundada.",
+          "ru": "Я не уверен, что это обобщение обосновано."
+        },
+        "ipa": "nˈo estˈoʝ conbenθˈi.do dˈe kˈe ˈesta xe.nera.liθa.θiˈon estˈe xusti.ficˈa.da"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-argumentacion-b2-unsc-1",
+        "l2": "Un matiz bien colocado no debilita la tesis, la hace más creíble.",
+        "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+        "gloss": {
+          "en": "A well-placed nuance does not weaken the claim; it makes it more credible.",
+          "es": "Un matiz bien colocado no debilita la afirmación; lo hace más creíble.",
+          "ru": "Удачно поставленный нюанс не ослабляет претензии; это делает его более достоверным."
+        },
+        "words": [
+          "Un",
+          "matiz",
+          "bien",
+          "colocado",
+          "no",
+          "debilita",
+          "la",
+          "tesis,",
+          "la",
+          "hace",
+          "más",
+          "creíble."
+        ]
+      },
+      {
+        "id": "remote-argumentacion-b2-unsc-2",
+        "l2": "Esta generalización abusiva se basa en tres casos, lo que la hace frágil.",
+        "en": "This careless generalization rests on three cases, which makes it fragile.",
+        "gloss": {
+          "en": "This careless generalization rests on three cases, which makes it fragile.",
+          "es": "Esta generalización descuidada se basa en tres casos, lo que la hace frágil.",
+          "ru": "Это небрежное обобщение опирается на три случая, что делает его хрупким."
+        },
+        "words": [
+          "Esta",
+          "generalización",
+          "abusiva",
+          "se",
+          "basa",
+          "en",
+          "tres",
+          "casos,",
+          "lo",
+          "que",
+          "la",
+          "hace",
+          "frágil."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

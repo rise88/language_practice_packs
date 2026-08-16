@@ -1,0 +1,847 @@
+{
+  "pratiquePack": 2,
+  "id": "lugar-trabajo-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "es",
+  "title": {
+    "fr": "Lieu de travail B2 (ES)",
+    "en": "Workplace B2 (ES)",
+    "es": "Lugar de trabajo B2",
+    "ru": "Рабочее место B2 (ES)"
+  },
+  "description": {
+    "fr": "Réunions, carrière, hiérarchie, télétravail et évaluation de la performance — pack espagnol.",
+    "en": "Meetings, career, hierarchy, remote work, and performance reviews — Spanish pack.",
+    "es": "Reuniones, carrera, jerarquía, trabajo remoto y evaluaciones de desempeño para estudiar español.",
+    "ru": "Встречи, карьера, иерархия, удаленная работа и обзоры производительности — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-lugar-trabajo-b2-1",
+      "l2": "jerarquía",
+      "en": "hierarchy",
+      "gloss": {
+        "en": "hierarchy",
+        "es": "jerarquía",
+        "ru": "иерархия"
+      },
+      "example": "Aunque la jerarquía es clara, los equipos se comunican sin excesiva formalidad.",
+      "ipa": "xe.rarkˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-2",
+      "l2": "trabajo remoto",
+      "en": "remote work",
+      "gloss": {
+        "en": "remote work",
+        "es": "trabajo remoto",
+        "ru": "удаленная работа"
+      },
+      "example": "El teletrabajo ha redefinido la frontera entre la vida privada y profesional.",
+      "ipa": "tra.baxo remˈo.to",
+      "article": "el"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-3",
+      "l2": "revisión de desempeño",
+      "en": "performance review",
+      "gloss": {
+        "en": "performance review",
+        "es": "revisión de desempeño",
+        "ru": "обзор производительности"
+      },
+      "example": "Su evaluación anual destacó habilidades que aún están infrautilizadas.",
+      "ipa": "re.bisiˈon de de.sempe.ɲo",
+      "article": "el"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-4",
+      "l2": "carrera",
+      "en": "career",
+      "gloss": {
+        "en": "career",
+        "es": "carrera",
+        "ru": "карьера"
+      },
+      "example": "Reorientó su carrera para obtener más responsabilidades.",
+      "ipa": "carˈe.ra",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-5",
+      "l2": "promoción",
+      "en": "promotion",
+      "gloss": {
+        "en": "promotion",
+        "es": "promoción",
+        "ru": "повышение"
+      },
+      "example": "Habría conseguido el ascenso si hubiera defendido mejor su récord.",
+      "ipa": "pro.moθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-6",
+      "l2": "gerente de línea",
+      "en": "line manager",
+      "gloss": {
+        "en": "line manager",
+        "es": "gerente de línea",
+        "ru": "линейный менеджер"
+      },
+      "example": "Mi supervisor exige un informe después de cada reunión.",
+      "ipa": "xe.rente de lˈi.nea",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-7",
+      "l2": "objetivo",
+      "en": "objective / goal",
+      "gloss": {
+        "en": "objective / goal",
+        "es": "objetivo / meta",
+        "ru": "цель / цель"
+      },
+      "example": "No lograremos el objetivo trimestral a menos que revisemos las prioridades.",
+      "ipa": "obxetˈi.bo",
+      "article": "el"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-8",
+      "l2": "productividad",
+      "en": "productivity",
+      "gloss": {
+        "en": "productivity",
+        "es": "productividad",
+        "ru": "производительность"
+      },
+      "example": "La productividad ha caído, pero la calidad del trabajo sigue siendo notable.",
+      "ipa": "pro.ducti.bidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-9",
+      "l2": "delegación",
+      "en": "delegation",
+      "gloss": {
+        "en": "delegation",
+        "es": "delegación",
+        "ru": "делегация"
+      },
+      "example": "La delegación clara de tareas evita sobrecargas y malentendidos.",
+      "ipa": "de.lega.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-10",
+      "l2": "sobrecarga de carga de trabajo",
+      "en": "workload overload",
+      "gloss": {
+        "en": "workload overload",
+        "es": "sobrecarga de carga de trabajo",
+        "ru": "перегрузка рабочей нагрузкой"
+      },
+      "example": "La sobrecarga de trabajo compromete la concentración, incluso entre los más motivados.",
+      "ipa": "sobre.carga de carga de trabˈa.xo",
+      "article": "el"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-11",
+      "l2": "habilidad",
+      "en": "skill / competency",
+      "gloss": {
+        "en": "skill / competency",
+        "es": "habilidad / competencia",
+        "ru": "умение/компетентность"
+      },
+      "example": "Esta habilidad técnica se vuelve esencial a medida que el equipo crece.",
+      "ipa": "a.bilidˈad",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-12",
+      "l2": "fecha límite",
+      "en": "deadline",
+      "gloss": {
+        "en": "deadline",
+        "es": "fecha límite",
+        "ru": "крайний срок"
+      },
+      "example": "La fecha límite se acerca, sin embargo aún es posible ajustar el cronograma.",
+      "ipa": "fetʃa lˈi.mite",
+      "article": "el"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-13",
+      "l2": "despido",
+      "en": "layoff / dismissal",
+      "gloss": {
+        "en": "layoff / dismissal",
+        "es": "despido / despido",
+        "ru": "увольнение / увольнение"
+      },
+      "example": "El despido económico se anunció después de varios trimestres deficitarios.",
+      "ipa": "despˈi.do",
+      "article": "el"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-14",
+      "l2": "capacitación",
+      "en": "training",
+      "gloss": {
+        "en": "training",
+        "es": "capacitación",
+        "ru": "обучение"
+      },
+      "example": "La formación continua ayuda a los equipos a adaptarse a las nuevas herramientas digitales.",
+      "ipa": "ca.paθi.taθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-15",
+      "l2": "organigrama",
+      "en": "organization chart",
+      "gloss": {
+        "en": "organization chart",
+        "es": "organigrama",
+        "ru": "организационная структура"
+      },
+      "example": "El organigrama refleja mal las colaboraciones reales entre los diferentes servicios.",
+      "ipa": "orga.nigrˈa.ma",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-16",
+      "l2": "consulta",
+      "en": "consultation",
+      "gloss": {
+        "en": "consultation",
+        "es": "consulta",
+        "ru": "консультация"
+      },
+      "example": "Después de consultar con los representantes, la dirección relajó los horarios.",
+      "ipa": "consˈulta",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-17",
+      "l2": "pago",
+      "en": "pay / compensation",
+      "gloss": {
+        "en": "pay / compensation",
+        "es": "pago / compensación",
+        "ru": "оплата/компенсация"
+      },
+      "example": "La remuneración variable ahora depende de los resultados colectivos del equipo.",
+      "ipa": "pˈa.go",
+      "article": "el"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-18",
+      "l2": "tasación",
+      "en": "appraisal / review",
+      "gloss": {
+        "en": "appraisal / review",
+        "es": "tasación / revisión",
+        "ru": "оценка / обзор"
+      },
+      "example": "La evaluación de habilidades reveló una necesidad urgente de una formación específica.",
+      "ipa": "ta.saθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-19",
+      "l2": "contratista",
+      "en": "contractor / provider",
+      "gloss": {
+        "en": "contractor / provider",
+        "es": "contratista / proveedor",
+        "ru": "подрядчик/поставщик"
+      },
+      "example": "El prestador del servicio entregará el informe antes del plazo fijado por el comité.",
+      "ipa": "contratˈista",
+      "article": "la"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-20",
+      "l2": "autonomía",
+      "en": "autonomy",
+      "gloss": {
+        "en": "autonomy",
+        "es": "autonomía",
+        "ru": "автономия"
+      },
+      "example": "Sin embargo, una mayor autonomía requiere una comunicación más rigurosa a diario.",
+      "ipa": "au.tonomˈia",
+      "article": "la"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-lugar-trabajo-b2-phrase-1",
+      "l2": "El acta deberá enviarse antes de la reunión.",
+      "en": "The minutes should be sent before the meeting.",
+      "gloss": {
+        "en": "The minutes should be sent before the meeting.",
+        "es": "El acta deberá enviarse antes de la reunión.",
+        "ru": "Протокол должен быть отправлен до начала заседания."
+      },
+      "ipa": "ˈel ˈacta de.berˈa enbiˈarse ˈantes dˈe lˈa reu.niˈon"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-phrase-2",
+      "l2": "Trabajo de forma remota tres días a la semana, pero sigo siendo accesible.",
+      "en": "I work remotely three days a week; nevertheless I remain reachable.",
+      "gloss": {
+        "en": "I work remotely three days a week; nevertheless I remain reachable.",
+        "es": "Trabajo de forma remota tres días a la semana; sin embargo sigo siendo accesible.",
+        "ru": "Я работаю удаленно три дня в неделю; тем не менее я остаюсь доступным."
+      },
+      "ipa": "trabˈa.xo dˈe fˈorma remˈo.ta trˈes dˈias ˈa lˈa semˈa.na pˈe.ro sˈi.go siˈendo"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-phrase-3",
+      "l2": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+      "en": "If I had more autonomy, I would completely reorganize my schedule.",
+      "gloss": {
+        "en": "If I had more autonomy, I would completely reorganize my schedule.",
+        "es": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+        "ru": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график."
+      },
+      "ipa": "sˈi tu.biˈe.ra mˈas au.tonomˈia reorga.niθarˈia comple.tamˈente mˈi axˈenda"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-phrase-4",
+      "l2": "Aunque la jerarquía es formal, puedes impugnar una decisión siempre que argumentes.",
+      "en": "Although the hierarchy is formal, you can challenge a decision provided you make a case.",
+      "gloss": {
+        "en": "Although the hierarchy is formal, you can challenge a decision provided you make a case.",
+        "es": "Aunque la jerarquía es formal, usted puede impugnar una decisión siempre que presente un caso.",
+        "ru": "Несмотря на то, что иерархия является формальной, вы можете оспорить решение, если подготовите доводы."
+      },
+      "ipa": "aˈunke lˈa xe.rarkˈia ˈes formˈal puˈe.des impugnˈar ˈu.na de.θisiˈon siˈempre kˈe arɡmˈentes"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-phrase-5",
+      "l2": "¿Podrías aclarar el objetivo para que el equipo pueda prepararse?",
+      "en": "Could you clarify the objective so that the team can prepare?",
+      "gloss": {
+        "en": "Could you clarify the objective so that the team can prepare?",
+        "es": "¿Podrías aclarar el objetivo para que el equipo pueda prepararse?",
+        "ru": "Не могли бы вы уточнить цель, чтобы команда могла подготовиться?"
+      },
+      "ipa": "podrˈias aclarˈar ˈel obxetˈi.bo pˈa.ra kˈe ˈel ekˈi.po puˈe.da pre.parˈarse"
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-phrase-6",
+      "l2": "Solicité capacitación, sin embargo la gerencia aún no ha respondido.",
+      "en": "I requested training; however management has not replied yet.",
+      "gloss": {
+        "en": "I requested training; however management has not replied yet.",
+        "es": "Solicité capacitación; sin embargo, la gerencia aún no ha respondido.",
+        "ru": "Я запросил обучение; однако руководство еще не ответило."
+      },
+      "ipa": "so.liθitˈe ca.paθi.taθiˈon sˈin embˈargo lˈa xe.renθˈia aˈun nˈo ˈa respondˈi.do"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-lugar-trabajo-b2-listen-1",
+      "l2": "El trabajo remoto ha redefinido las reuniones de nuestro equipo.",
+      "en": "Remote work has redefined our team meetings.",
+      "gloss": {
+        "en": "Remote work has redefined our team meetings.",
+        "es": "El trabajo remoto ha redefinido las reuniones de nuestro equipo.",
+        "ru": "Удаленная работа изменила определение наших командных встреч."
+      },
+      "word": "trabajo remoto",
+      "wordEn": "remote work",
+      "wordGloss": {
+        "en": "remote work",
+        "es": "trabajo remoto",
+        "ru": "удаленная работа"
+      },
+      "wordIpa": "tra.baxo remˈo.to",
+      "distractors": [
+        "capacitación",
+        "tasación",
+        "consulta"
+      ]
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-listen-2",
+      "l2": "Su evaluación anual destacó sus habilidades.",
+      "en": "Her annual review highlighted her skills.",
+      "gloss": {
+        "en": "Her annual review highlighted her skills.",
+        "es": "Su revisión anual destacó sus habilidades.",
+        "ru": "Ее ежегодный обзор подчеркнул ее навыки."
+      },
+      "word": "revisión de desempeño",
+      "wordEn": "performance review",
+      "wordGloss": {
+        "en": "performance review",
+        "es": "revisión de desempeño",
+        "ru": "обзор производительности"
+      },
+      "wordIpa": "re.bisiˈon de de.sempe.ɲo",
+      "distractors": [
+        "promoción",
+        "pago",
+        "fecha límite"
+      ]
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-listen-3",
+      "l2": "La sobrecarga de trabajo compromete claramente la productividad.",
+      "en": "Workload overload clearly undermines productivity.",
+      "gloss": {
+        "en": "Workload overload clearly undermines productivity.",
+        "es": "La sobrecarga de trabajo claramente socava la productividad.",
+        "ru": "Перегрузка рабочей нагрузкой явно снижает производительность."
+      },
+      "word": "sobrecarga de carga de trabajo",
+      "wordEn": "workload overload",
+      "wordGloss": {
+        "en": "workload overload",
+        "es": "sobrecarga de carga de trabajo",
+        "ru": "перегрузка рабочей нагрузкой"
+      },
+      "wordIpa": "sobre.carga de carga de trabˈa.xo",
+      "distractors": [
+        "autonomía",
+        "delegación",
+        "objetivo"
+      ]
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-listen-4",
+      "l2": "El organigrama refleja mal las colaboraciones reales.",
+      "en": "The org chart poorly reflects actual collaboration.",
+      "gloss": {
+        "en": "The org chart poorly reflects actual collaboration.",
+        "es": "El organigrama refleja mal la colaboración real.",
+        "ru": "Организационная структура плохо отражает фактическое сотрудничество."
+      },
+      "word": "organigrama",
+      "wordEn": "organization chart",
+      "wordGloss": {
+        "en": "organization chart",
+        "es": "organigrama",
+        "ru": "организационная структура"
+      },
+      "wordIpa": "orga.nigrˈa.ma",
+      "distractors": [
+        "jerarquía",
+        "gerente de línea",
+        "contratista"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Crees que el teletrabajo realmente mejora la productividad? Justifica tu opinión.",
+    "Explique cómo reaccionaría si no estuviera de acuerdo con su gerente.",
+    "Compara una evaluación útil con una evaluación mal realizada.",
+    "En su opinión, ¿es imprescindible la jerarquía o debe primar la autonomía?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-lugar-trabajo-b2-grammar-1",
+      "title": {
+        "fr": "Subjonctif imparfait en hypothèse",
+        "en": "Imperfect subjunctive in hypotheses",
+        "es": "Imperfecto de subjuntivo en hipótesis",
+        "ru": "Imperfecto de subjuntivo в гипотезах"
+      },
+      "rule": {
+        "fr": "Si + imperfecto de subjuntivo, condicional : Si tuviera tiempo, iría.",
+        "en": "Si + imperfect subjunctive, conditional: Si tuviera tiempo, iría.",
+        "es": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría.",
+        "ru": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría."
+      },
+      "why": {
+        "en": "Lets you discuss unlikely or polite scenarios.",
+        "es": "Permite hablar de escenarios poco reales o corteses.",
+        "ru": "Позволяет обсуждать маловероятные или вежливые сценарии."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Si + subj. impf.",
+          "hipótesis",
+          "Si tuviera tiempo, iría."
+        ],
+        [
+          "condicional",
+          "resultado",
+          "Compraría el trabajo remoto."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-lugar-trabajo-b2-gq-1-1",
+          "prompt": "Si ___ tiempo, viajaría. (tener)",
+          "answer": "tuviera",
+          "options": [
+            "tuviera",
+            "tengo",
+            "tendré"
+          ]
+        },
+        {
+          "id": "remote-lugar-trabajo-b2-gq-1-2",
+          "prompt": "Si pudiera, ___ más. (leer)",
+          "answer": "leería",
+          "options": [
+            "leería",
+            "leo",
+            "leí"
+          ]
+        },
+        {
+          "id": "remote-lugar-trabajo-b2-gq-1-3",
+          "prompt": "Si hubiera promoción, sería distinto.",
+          "answer": "hubiera",
+          "options": [
+            "hubiera",
+            "hay",
+            "había"
+          ]
+        },
+        {
+          "id": "remote-lugar-trabajo-b2-gq-1-4",
+          "prompt": "Relaciona con el tema: trabajo remoto / promoción. ¿Artículo de «trabajo remoto»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-lugar-trabajo-b2-gq-1-5",
+          "prompt": "Relaciona con el tema: trabajo remoto / promoción. ¿Artículo de «trabajo remoto»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-lugar-trabajo-b2-grammar-2",
+      "title": {
+        "fr": "Aunque + indicatif / subjonctif",
+        "en": "Aunque + indicative / subjunctive",
+        "es": "Aunque + indicativo / subjuntivo",
+        "ru": "Aunque + indicativo / subjuntivo"
+      },
+      "rule": {
+        "fr": "Aunque + indicatif = fait connu ; aunque + subjonctif = concession non assertive.",
+        "en": "Aunque + indicative = known fact; + subjunctive = non-assertive concession.",
+        "es": "Aunque + indicativo = hecho conocido; + subjuntivo = concesión no asertiva.",
+        "ru": "Aunque + indicativo — известный факт; + subjuntivo — уступка без утверждения."
+      },
+      "why": {
+        "en": "Nuances how strongly you commit to a claim.",
+        "es": "Matiza cuánto te comprometes con una afirmación.",
+        "ru": "Оттенки того, насколько вы настаиваете на утверждении."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "aunque + ind.",
+          "hecho conocido",
+          "Aunque hay revisión de desempeño, sigo."
+        ],
+        [
+          "aunque + subj.",
+          "no asertivo",
+          "Aunque haya gerente de línea, dudo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-lugar-trabajo-b2-gq-2-1",
+          "prompt": "Aunque ___ frío, salgo. (hecho)",
+          "answer": "hace",
+          "options": [
+            "hace",
+            "haga",
+            "hará"
+          ]
+        },
+        {
+          "id": "remote-lugar-trabajo-b2-gq-2-2",
+          "prompt": "Aunque ___ problemas, intentaré. (no seguro)",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-lugar-trabajo-b2-gq-2-3",
+          "prompt": "Aunque exista revisión de desempeño, no basta.",
+          "answer": "exista",
+          "options": [
+            "exista",
+            "existe",
+            "existirá"
+          ]
+        },
+        {
+          "id": "remote-lugar-trabajo-b2-gq-2-4",
+          "prompt": "Relaciona con el tema: revisión de desempeño / gerente de línea. ¿Artículo de «revisión de desempeño»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-lugar-trabajo-b2-gq-2-5",
+          "prompt": "Relaciona con el tema: revisión de desempeño / gerente de línea. ¿Artículo de «revisión de desempeño»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-lugar-trabajo-b2-dict-1",
+        "l2": "El acta deberá enviarse antes de la reunión.",
+        "en": "The minutes should be sent before the meeting.",
+        "gloss": {
+          "en": "The minutes should be sent before the meeting.",
+          "es": "El acta deberá enviarse antes de la reunión.",
+          "ru": "Протокол должен быть отправлен до начала заседания."
+        },
+        "ipa": "ˈel ˈacta de.berˈa enbiˈarse ˈantes dˈe lˈa reu.niˈon"
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-dict-2",
+        "l2": "Trabajo de forma remota tres días a la semana, pero sigo siendo accesible.",
+        "en": "I work remotely three days a week; nevertheless I remain reachable.",
+        "gloss": {
+          "en": "I work remotely three days a week; nevertheless I remain reachable.",
+          "es": "Trabajo de forma remota tres días a la semana; sin embargo sigo siendo accesible.",
+          "ru": "Я работаю удаленно три дня в неделю; тем не менее я остаюсь доступным."
+        },
+        "ipa": "trabˈa.xo dˈe fˈorma remˈo.ta trˈes dˈias ˈa lˈa semˈa.na pˈe.ro sˈi.go siˈendo"
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-dict-3",
+        "l2": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+        "en": "If I had more autonomy, I would completely reorganize my schedule.",
+        "gloss": {
+          "en": "If I had more autonomy, I would completely reorganize my schedule.",
+          "es": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+          "ru": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график."
+        },
+        "ipa": "sˈi tu.biˈe.ra mˈas au.tonomˈia reorga.niθarˈia comple.tamˈente mˈi axˈenda"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-lugar-trabajo-b2-mean-1",
+        "l2": "El acta deberá enviarse antes de la reunión.",
+        "en": "The minutes should be sent before the meeting.",
+        "gloss": {
+          "en": "The minutes should be sent before the meeting.",
+          "es": "El acta deberá enviarse antes de la reunión.",
+          "ru": "Протокол должен быть отправлен до начала заседания."
+        }
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-mean-2",
+        "l2": "Trabajo de forma remota tres días a la semana, pero sigo siendo accesible.",
+        "en": "I work remotely three days a week; nevertheless I remain reachable.",
+        "gloss": {
+          "en": "I work remotely three days a week; nevertheless I remain reachable.",
+          "es": "Trabajo de forma remota tres días a la semana; sin embargo sigo siendo accesible.",
+          "ru": "Я работаю удаленно три дня в неделю; тем не менее я остаюсь доступным."
+        }
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-mean-3",
+        "l2": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+        "en": "If I had more autonomy, I would completely reorganize my schedule.",
+        "gloss": {
+          "en": "If I had more autonomy, I would completely reorganize my schedule.",
+          "es": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+          "ru": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-lugar-trabajo-b2-fren-1",
+        "l2": "jerarquía",
+        "en": "hierarchy",
+        "gloss": {
+          "en": "hierarchy",
+          "es": "jerarquía",
+          "ru": "иерархия"
+        }
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-fren-2",
+        "l2": "trabajo remoto",
+        "en": "remote work",
+        "gloss": {
+          "en": "remote work",
+          "es": "trabajo remoto",
+          "ru": "удаленная работа"
+        }
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-fren-3",
+        "l2": "revisión de desempeño",
+        "en": "performance review",
+        "gloss": {
+          "en": "performance review",
+          "es": "revisión de desempeño",
+          "ru": "обзор производительности"
+        }
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-fren-4",
+        "l2": "carrera",
+        "en": "career",
+        "gloss": {
+          "en": "career",
+          "es": "carrera",
+          "ru": "карьера"
+        }
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-fren-5",
+        "l2": "promoción",
+        "en": "promotion",
+        "gloss": {
+          "en": "promotion",
+          "es": "promoción",
+          "ru": "повышение"
+        }
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-fren-6",
+        "l2": "gerente de línea",
+        "en": "line manager",
+        "gloss": {
+          "en": "line manager",
+          "es": "gerente de línea",
+          "ru": "линейный менеджер"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-lugar-trabajo-b2-alou-1",
+        "l2": "El acta deberá enviarse antes de la reunión.",
+        "en": "The minutes should be sent before the meeting.",
+        "gloss": {
+          "en": "The minutes should be sent before the meeting.",
+          "es": "El acta deberá enviarse antes de la reunión.",
+          "ru": "Протокол должен быть отправлен до начала заседания."
+        },
+        "ipa": "ˈel ˈacta de.berˈa enbiˈarse ˈantes dˈe lˈa reu.niˈon"
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-alou-2",
+        "l2": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+        "en": "If I had more autonomy, I would completely reorganize my schedule.",
+        "gloss": {
+          "en": "If I had more autonomy, I would completely reorganize my schedule.",
+          "es": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+          "ru": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график."
+        },
+        "ipa": "sˈi tu.biˈe.ra mˈas au.tonomˈia reorga.niθarˈia comple.tamˈente mˈi axˈenda"
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-alou-3",
+        "l2": "¿Podrías aclarar el objetivo para que el equipo pueda prepararse?",
+        "en": "Could you clarify the objective so that the team can prepare?",
+        "gloss": {
+          "en": "Could you clarify the objective so that the team can prepare?",
+          "es": "¿Podrías aclarar el objetivo para que el equipo pueda prepararse?",
+          "ru": "Не могли бы вы уточнить цель, чтобы команда могла подготовиться?"
+        },
+        "ipa": "podrˈias aclarˈar ˈel obxetˈi.bo pˈa.ra kˈe ˈel ekˈi.po puˈe.da pre.parˈarse"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-lugar-trabajo-b2-unsc-1",
+        "l2": "La fecha límite se acerca, sin embargo aún es posible ajustar el cronograma.",
+        "en": "The deadline is approaching; however it is still possible to adjust the schedule.",
+        "gloss": {
+          "en": "The deadline is approaching; however it is still possible to adjust the schedule.",
+          "es": "La fecha límite se acerca; sin embargo, todavía es posible ajustar el horario.",
+          "ru": "Срок приближается; однако график все еще можно скорректировать."
+        },
+        "words": [
+          "La",
+          "fecha",
+          "límite",
+          "se",
+          "acerca,",
+          "sin",
+          "embargo",
+          "aún",
+          "es",
+          "posible",
+          "ajustar",
+          "el",
+          "cronograma."
+        ]
+      },
+      {
+        "id": "remote-lugar-trabajo-b2-unsc-2",
+        "l2": "La productividad ha caído, pero la calidad del trabajo sigue siendo notable.",
+        "en": "Productivity has fallen; nevertheless the quality of the work remains remarkable.",
+        "gloss": {
+          "en": "Productivity has fallen; nevertheless the quality of the work remains remarkable.",
+          "es": "La productividad ha caído; sin embargo, la calidad del trabajo sigue siendo notable.",
+          "ru": "Производительность упала; тем не менее качество работы остается замечательным."
+        },
+        "words": [
+          "La",
+          "productividad",
+          "ha",
+          "caído,",
+          "pero",
+          "la",
+          "calidad",
+          "del",
+          "trabajo",
+          "sigue",
+          "siendo",
+          "notable."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

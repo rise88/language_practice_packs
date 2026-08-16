@@ -1,0 +1,841 @@
+{
+  "pratiquePack": 2,
+  "id": "ciencias-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "es",
+  "title": {
+    "fr": "Sciences B2 (ES)",
+    "en": "Science B2 (ES)",
+    "es": "Ciencias B2",
+    "ru": "Наука B2 (ES)"
+  },
+  "description": {
+    "fr": "Recherche, expérience, hypothèse, preuves et travail de laboratoire — pack espagnol.",
+    "en": "Research, experiments, hypotheses, evidence, and lab work — Spanish pack.",
+    "es": "Investigación, experimentos, hipótesis, evidencia y trabajo de laboratorio para estudiar español.",
+    "ru": "Исследования, эксперименты, гипотезы, доказательства и лабораторные работы — испанский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-ciencias-b2-1",
+      "l2": "hipótesis",
+      "en": "hypothesis",
+      "gloss": {
+        "en": "hypothesis",
+        "es": "hipótesis",
+        "ru": "гипотеза"
+      },
+      "example": "La hipótesis inicial no se mantuvo hasta la segunda serie de mediciones.",
+      "ipa": "ipˈo.tesis",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-2",
+      "l2": "experimento",
+      "en": "experiment",
+      "gloss": {
+        "en": "experiment",
+        "es": "experimento",
+        "ru": "эксперимент"
+      },
+      "example": "El experimento se reprodujo en otro laboratorio para confirmar el resultado.",
+      "ipa": "expe.rimˈento",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-3",
+      "l2": "evidencia",
+      "en": "evidence / proof",
+      "gloss": {
+        "en": "evidence / proof",
+        "es": "evidencia / prueba",
+        "ru": "доказательства / доказательства"
+      },
+      "example": "Esta prueba por sí sola no es suficiente, pero orienta la investigación.",
+      "ipa": "e.bidenθˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciencias-b2-4",
+      "l2": "laboratorio",
+      "en": "laboratory",
+      "gloss": {
+        "en": "laboratory",
+        "es": "laboratorio",
+        "ru": "лаборатория"
+      },
+      "example": "El laboratorio carece de personal calificado para analizar todas las muestras.",
+      "ipa": "la.bora.torˈio",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-5",
+      "l2": "investigación",
+      "en": "research",
+      "gloss": {
+        "en": "research",
+        "es": "investigación",
+        "ru": "исследовать"
+      },
+      "example": "La investigación básica avanza lentamente, pero sus aplicaciones pueden ser repentinas.",
+      "ipa": "inbesti.gaθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciencias-b2-6",
+      "l2": "protocolo",
+      "en": "protocol",
+      "gloss": {
+        "en": "protocol",
+        "es": "protocolo",
+        "ru": "протокол"
+      },
+      "example": "El protocolo exige que cada desviación, incluso mínima, se anote en el cuaderno.",
+      "ipa": "pro.tocˈo.lo",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-7",
+      "l2": "muestra",
+      "en": "sample",
+      "gloss": {
+        "en": "sample",
+        "es": "muestra",
+        "ru": "образец"
+      },
+      "example": "La muestra era demasiado pequeña para generalizarla a toda la población.",
+      "ipa": "muˈestra",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciencias-b2-8",
+      "l2": "variable",
+      "en": "variable",
+      "gloss": {
+        "en": "variable",
+        "es": "variable",
+        "ru": "переменная"
+      },
+      "example": "Probablemente una variable no controlada distorsionó las primeras mediciones.",
+      "ipa": "ba.riˈable",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-9",
+      "l2": "publicación",
+      "en": "publication",
+      "gloss": {
+        "en": "publication",
+        "es": "publicación",
+        "ru": "публикация"
+      },
+      "example": "La publicación fue retractada luego de que se informara un error metodológico.",
+      "ipa": "publi.caθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciencias-b2-10",
+      "l2": "resultado",
+      "en": "result",
+      "gloss": {
+        "en": "result",
+        "es": "resultado",
+        "ru": "результат"
+      },
+      "example": "Los resultados difieren dependiendo de si se incluye o no este grupo de control.",
+      "ipa": "re.sultˈa.do",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-11",
+      "l2": "observación",
+      "en": "observation",
+      "gloss": {
+        "en": "observation",
+        "es": "observación",
+        "ru": "наблюдение"
+      },
+      "example": "Una observación casual revivió una pista que el equipo había abandonado.",
+      "ipa": "obserba.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciencias-b2-12",
+      "l2": "teoría",
+      "en": "theory",
+      "gloss": {
+        "en": "theory",
+        "es": "teoría",
+        "ru": "теория"
+      },
+      "example": "Esta teoría explica parte de los datos, sin embargo deja anomalías.",
+      "ipa": "teorˈia",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciencias-b2-13",
+      "l2": "datos",
+      "en": "data",
+      "gloss": {
+        "en": "data",
+        "es": "datos",
+        "ru": "данные"
+      },
+      "example": "Los datos sin procesar tendrán acceso abierto después de su publicación.",
+      "ipa": "dˈa.tos",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-14",
+      "l2": "conclusión",
+      "en": "conclusion",
+      "gloss": {
+        "en": "conclusion",
+        "es": "conclusión",
+        "ru": "заключение"
+      },
+      "example": "La conclusión sigue siendo cautelosa, porque la muestra sigue siendo demasiado limitada.",
+      "ipa": "conclu.siˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciencias-b2-15",
+      "l2": "investigador",
+      "en": "researcher",
+      "gloss": {
+        "en": "researcher",
+        "es": "investigador",
+        "ru": "исследователь"
+      },
+      "example": "El investigador presentó su trabajo en una conferencia internacional.",
+      "ipa": "inbesti.gadˈor",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-16",
+      "l2": "método",
+      "en": "method",
+      "gloss": {
+        "en": "method",
+        "es": "método",
+        "ru": "метод"
+      },
+      "example": "Un método más riguroso habría evitado este artefacto.",
+      "ipa": "mˈe.todo",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-17",
+      "l2": "medición",
+      "en": "measurement",
+      "gloss": {
+        "en": "measurement",
+        "es": "medición",
+        "ru": "измерение"
+      },
+      "example": "Cada medición se repitió tres veces para reducir la incertidumbre.",
+      "ipa": "me.diθiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciencias-b2-18",
+      "l2": "correlación",
+      "en": "correlation",
+      "gloss": {
+        "en": "correlation",
+        "es": "correlación",
+        "ru": "корреляция"
+      },
+      "example": "Una correlación no establece un vínculo de causa y efecto, digan lo que digan.",
+      "ipa": "co.rela.θiˈon",
+      "article": "la"
+    },
+    {
+      "id": "remote-ciencias-b2-19",
+      "l2": "grupo de control",
+      "en": "control group",
+      "gloss": {
+        "en": "control group",
+        "es": "grupo de control",
+        "ru": "контрольная группа"
+      },
+      "example": "El grupo de control no recibió ningún tratamiento, a diferencia del grupo evaluado.",
+      "ipa": "gru.po de contrˈol",
+      "article": "el"
+    },
+    {
+      "id": "remote-ciencias-b2-20",
+      "l2": "validez",
+      "en": "validity",
+      "gloss": {
+        "en": "validity",
+        "es": "validez",
+        "ru": "действительность"
+      },
+      "example": "La validez del estudio depende de la calidad del protocolo y de la muestra.",
+      "ipa": "ba.lidˈez",
+      "article": "el"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-ciencias-b2-phrase-1",
+      "l2": "Es fundamental que la experiencia sea reproducible por un equipo independiente.",
+      "en": "It is essential that the experiment be reproducible by an independent team.",
+      "gloss": {
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "es": "Es fundamental que el experimento sea reproducible por un equipo independiente.",
+        "ru": "Очень важно, чтобы эксперимент мог быть воспроизведен независимой командой."
+      },
+      "ipa": "ˈes funda.mentˈal kˈe lˈa expe.rienθˈia sˈea repro.duθˈible pˈor ˈun ekˈi.po inde.pendiˈente"
+    },
+    {
+      "id": "remote-ciencias-b2-phrase-2",
+      "l2": "Los investigadores ya habían recopilado los datos antes de formular la hipótesis final.",
+      "en": "The researchers had already collected the data before formulating the final hypothesis.",
+      "gloss": {
+        "en": "The researchers had already collected the data before formulating the final hypothesis.",
+        "es": "Los investigadores ya habían recopilado los datos antes de formular la hipótesis final.",
+        "ru": "Исследователи уже собрали данные, прежде чем сформулировать окончательную гипотезу."
+      },
+      "ipa": "lˈos inbesti.gadˈo.res ʝˈa abˈian re.copilˈa.do lˈos dˈa.tos ˈantes dˈe formulˈar lˈa ipˈo.tesis"
+    },
+    {
+      "id": "remote-ciencias-b2-phrase-3",
+      "l2": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+      "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+      "gloss": {
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "es": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+        "ru": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен."
+      },
+      "ipa": "sˈi ˈel pro.tocˈo.lo fuˈe.ra mˈas estrˈicto sˈe re.duθirˈia ˈel riˈesgo dˈe erˈor"
+    },
+    {
+      "id": "remote-ciencias-b2-phrase-4",
+      "l2": "La correlación no implica causalidad, sin embargo, puede guiar la investigación.",
+      "en": "A correlation does not imply causation; nevertheless it can guide the research.",
+      "gloss": {
+        "en": "A correlation does not imply causation; nevertheless it can guide the research.",
+        "es": "Una correlación no implica causalidad; sin embargo, puede guiar la investigación.",
+        "ru": "Корреляция не подразумевает причинно-следственную связь; тем не менее, он может направлять исследование."
+      },
+      "ipa": "lˈa co.rela.θiˈon nˈo implˈi.ca cau.salidˈad sˈin embˈargo puˈe.de ɡiˈar lˈa inbesti.gaθiˈon"
+    },
+    {
+      "id": "remote-ciencias-b2-phrase-5",
+      "l2": "Aunque el resultado es prometedor, la muestra sigue siendo demasiado pequeña.",
+      "en": "Although the result is promising, the sample remains too limited.",
+      "gloss": {
+        "en": "Although the result is promising, the sample remains too limited.",
+        "es": "Aunque el resultado es prometedor, la muestra sigue siendo demasiado limitada.",
+        "ru": "Хотя результат многообещающий, выборка остается слишком ограниченной."
+      },
+      "ipa": "aˈunke ˈel re.sultˈa.do ˈes pro.metedˈor lˈa muˈestra sˈi.ɡe siˈendo de.masiˈa.do pekˈe.ɲa"
+    },
+    {
+      "id": "remote-ciencias-b2-phrase-6",
+      "l2": "Se podría objetar que la teoría aún no explica todas las anomalías.",
+      "en": "One might object that the theory does not yet explain all the anomalies.",
+      "gloss": {
+        "en": "One might object that the theory does not yet explain all the anomalies.",
+        "es": "Se podría objetar que la teoría aún no explica todas las anomalías.",
+        "ru": "Можно возразить, что теория еще не объясняет всех аномалий."
+      },
+      "ipa": "sˈe podrˈia obxetˈar kˈe lˈa teorˈia aˈun nˈo explˈi.ca tˈo.das lˈas a.nomalˈias"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-ciencias-b2-listen-1",
+      "l2": "La hipótesis inicial no se mantuvo hasta la segunda serie de mediciones.",
+      "en": "The initial hypothesis did not withstand the second series of measurements.",
+      "gloss": {
+        "en": "The initial hypothesis did not withstand the second series of measurements.",
+        "es": "La hipótesis inicial no resistió la segunda serie de mediciones.",
+        "ru": "Первоначальная гипотеза не выдержала вторую серию измерений."
+      },
+      "word": "hipótesis",
+      "wordEn": "hypothesis",
+      "wordGloss": {
+        "en": "hypothesis",
+        "es": "hipótesis",
+        "ru": "гипотеза"
+      },
+      "wordIpa": "ipˈo.tesis",
+      "distractors": [
+        "teoría",
+        "conclusión",
+        "método"
+      ]
+    },
+    {
+      "id": "remote-ciencias-b2-listen-2",
+      "l2": "El protocolo exige que cada desviación se anote en el cuaderno.",
+      "en": "The protocol requires every discrepancy to be recorded in the notebook.",
+      "gloss": {
+        "en": "The protocol requires every discrepancy to be recorded in the notebook.",
+        "es": "El protocolo exige que cada discrepancia se registre en un cuaderno.",
+        "ru": "Протокол требует, чтобы каждое несоответствие фиксировалось в тетради."
+      },
+      "word": "protocolo",
+      "wordEn": "protocol",
+      "wordGloss": {
+        "en": "protocol",
+        "es": "protocolo",
+        "ru": "протокол"
+      },
+      "wordIpa": "pro.tocˈo.lo",
+      "distractors": [
+        "laboratorio",
+        "publicación",
+        "validez"
+      ]
+    },
+    {
+      "id": "remote-ciencias-b2-listen-3",
+      "l2": "La muestra era demasiado pequeña para generalizar.",
+      "en": "The sample was too limited for the findings to be generalised.",
+      "gloss": {
+        "en": "The sample was too limited for the findings to be generalised.",
+        "es": "La muestra era demasiado limitada para generalizar los hallazgos.",
+        "ru": "Выборка была слишком ограничена, чтобы можно было обобщить результаты."
+      },
+      "word": "muestra",
+      "wordEn": "sample",
+      "wordGloss": {
+        "en": "sample",
+        "es": "muestra",
+        "ru": "образец"
+      },
+      "wordIpa": "muˈestra",
+      "distractors": [
+        "grupo de control",
+        "variable",
+        "medición"
+      ]
+    },
+    {
+      "id": "remote-ciencias-b2-listen-4",
+      "l2": "Una correlación no establece causa y efecto.",
+      "en": "A correlation does not establish a causal link.",
+      "gloss": {
+        "en": "A correlation does not establish a causal link.",
+        "es": "Una correlación no establece un vínculo causal.",
+        "ru": "Корреляция не устанавливает причинно-следственной связи."
+      },
+      "word": "correlación",
+      "wordEn": "correlation",
+      "wordGloss": {
+        "en": "correlation",
+        "es": "correlación",
+        "ru": "корреляция"
+      },
+      "wordIpa": "co.rela.θiˈon",
+      "distractors": [
+        "evidencia",
+        "observación",
+        "investigación"
+      ]
+    }
+  ],
+  "prompts": [
+    "¿Por qué un experimento debería ser reproducible? Ilustra tu punto.",
+    "Explique la diferencia entre una correlación y un vínculo de causa y efecto.",
+    "Si dirigieras un laboratorio, ¿cómo asegurarías la validez de los resultados?",
+    "Comparemos una hipótesis sólida y una intuición simple: ¿qué las distingue?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-ciencias-b2-grammar-1",
+      "title": {
+        "fr": "Subjonctif imparfait en hypothèse",
+        "en": "Imperfect subjunctive in hypotheses",
+        "es": "Imperfecto de subjuntivo en hipótesis",
+        "ru": "Imperfecto de subjuntivo в гипотезах"
+      },
+      "rule": {
+        "fr": "Si + imperfecto de subjuntivo, condicional : Si tuviera tiempo, iría.",
+        "en": "Si + imperfect subjunctive, conditional: Si tuviera tiempo, iría.",
+        "es": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría.",
+        "ru": "Si + imperfecto de subjuntivo, condicional: Si tuviera tiempo, iría."
+      },
+      "why": {
+        "en": "Lets you discuss unlikely or polite scenarios.",
+        "es": "Permite hablar de escenarios poco reales o corteses.",
+        "ru": "Позволяет обсуждать маловероятные или вежливые сценарии."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "Si + subj. impf.",
+          "hipótesis",
+          "Si tuviera tiempo, iría."
+        ],
+        [
+          "condicional",
+          "resultado",
+          "Compraría el experimento."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ciencias-b2-gq-1-1",
+          "prompt": "Si ___ tiempo, viajaría. (tener)",
+          "answer": "tuviera",
+          "options": [
+            "tuviera",
+            "tengo",
+            "tendré"
+          ]
+        },
+        {
+          "id": "remote-ciencias-b2-gq-1-2",
+          "prompt": "Si pudiera, ___ más. (leer)",
+          "answer": "leería",
+          "options": [
+            "leería",
+            "leo",
+            "leí"
+          ]
+        },
+        {
+          "id": "remote-ciencias-b2-gq-1-3",
+          "prompt": "Si hubiera investigación, sería distinto.",
+          "answer": "hubiera",
+          "options": [
+            "hubiera",
+            "hay",
+            "había"
+          ]
+        },
+        {
+          "id": "remote-ciencias-b2-gq-1-4",
+          "prompt": "Relaciona con el tema: experimento / investigación. ¿Artículo de «experimento»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ciencias-b2-gq-1-5",
+          "prompt": "Relaciona con el tema: experimento / investigación. ¿Artículo de «experimento»?",
+          "answer": "el",
+          "options": [
+            "el",
+            "la",
+            "los"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-ciencias-b2-grammar-2",
+      "title": {
+        "fr": "Aunque + indicatif / subjonctif",
+        "en": "Aunque + indicative / subjunctive",
+        "es": "Aunque + indicativo / subjuntivo",
+        "ru": "Aunque + indicativo / subjuntivo"
+      },
+      "rule": {
+        "fr": "Aunque + indicatif = fait connu ; aunque + subjonctif = concession non assertive.",
+        "en": "Aunque + indicative = known fact; + subjunctive = non-assertive concession.",
+        "es": "Aunque + indicativo = hecho conocido; + subjuntivo = concesión no asertiva.",
+        "ru": "Aunque + indicativo — известный факт; + subjuntivo — уступка без утверждения."
+      },
+      "why": {
+        "en": "Nuances how strongly you commit to a claim.",
+        "es": "Matiza cuánto te comprometes con una afirmación.",
+        "ru": "Оттенки того, насколько вы настаиваете на утверждении."
+      },
+      "table": [
+        [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        [
+          "aunque + ind.",
+          "hecho conocido",
+          "Aunque hay evidencia, sigo."
+        ],
+        [
+          "aunque + subj.",
+          "no asertivo",
+          "Aunque haya protocolo, dudo."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-ciencias-b2-gq-2-1",
+          "prompt": "Aunque ___ frío, salgo. (hecho)",
+          "answer": "hace",
+          "options": [
+            "hace",
+            "haga",
+            "hará"
+          ]
+        },
+        {
+          "id": "remote-ciencias-b2-gq-2-2",
+          "prompt": "Aunque ___ problemas, intentaré. (no seguro)",
+          "answer": "haya",
+          "options": [
+            "haya",
+            "hay",
+            "habrá"
+          ]
+        },
+        {
+          "id": "remote-ciencias-b2-gq-2-3",
+          "prompt": "Aunque exista evidencia, no basta.",
+          "answer": "exista",
+          "options": [
+            "exista",
+            "existe",
+            "existirá"
+          ]
+        },
+        {
+          "id": "remote-ciencias-b2-gq-2-4",
+          "prompt": "Relaciona con el tema: evidencia / protocolo. ¿Artículo de «evidencia»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        },
+        {
+          "id": "remote-ciencias-b2-gq-2-5",
+          "prompt": "Relaciona con el tema: evidencia / protocolo. ¿Artículo de «evidencia»?",
+          "answer": "la",
+          "options": [
+            "la",
+            "el",
+            "los"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-ciencias-b2-dict-1",
+        "l2": "Es fundamental que la experiencia sea reproducible por un equipo independiente.",
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "gloss": {
+          "en": "It is essential that the experiment be reproducible by an independent team.",
+          "es": "Es fundamental que el experimento sea reproducible por un equipo independiente.",
+          "ru": "Очень важно, чтобы эксперимент мог быть воспроизведен независимой командой."
+        },
+        "ipa": "ˈes funda.mentˈal kˈe lˈa expe.rienθˈia sˈea repro.duθˈible pˈor ˈun ekˈi.po inde.pendiˈente"
+      },
+      {
+        "id": "remote-ciencias-b2-dict-2",
+        "l2": "Los investigadores ya habían recopilado los datos antes de formular la hipótesis final.",
+        "en": "The researchers had already collected the data before formulating the final hypothesis.",
+        "gloss": {
+          "en": "The researchers had already collected the data before formulating the final hypothesis.",
+          "es": "Los investigadores ya habían recopilado los datos antes de formular la hipótesis final.",
+          "ru": "Исследователи уже собрали данные, прежде чем сформулировать окончательную гипотезу."
+        },
+        "ipa": "lˈos inbesti.gadˈo.res ʝˈa abˈian re.copilˈa.do lˈos dˈa.tos ˈantes dˈe formulˈar lˈa ipˈo.tesis"
+      },
+      {
+        "id": "remote-ciencias-b2-dict-3",
+        "l2": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "gloss": {
+          "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+          "es": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+          "ru": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен."
+        },
+        "ipa": "sˈi ˈel pro.tocˈo.lo fuˈe.ra mˈas estrˈicto sˈe re.duθirˈia ˈel riˈesgo dˈe erˈor"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-ciencias-b2-mean-1",
+        "l2": "Es fundamental que la experiencia sea reproducible por un equipo independiente.",
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "gloss": {
+          "en": "It is essential that the experiment be reproducible by an independent team.",
+          "es": "Es fundamental que el experimento sea reproducible por un equipo independiente.",
+          "ru": "Очень важно, чтобы эксперимент мог быть воспроизведен независимой командой."
+        }
+      },
+      {
+        "id": "remote-ciencias-b2-mean-2",
+        "l2": "Los investigadores ya habían recopilado los datos antes de formular la hipótesis final.",
+        "en": "The researchers had already collected the data before formulating the final hypothesis.",
+        "gloss": {
+          "en": "The researchers had already collected the data before formulating the final hypothesis.",
+          "es": "Los investigadores ya habían recopilado los datos antes de formular la hipótesis final.",
+          "ru": "Исследователи уже собрали данные, прежде чем сформулировать окончательную гипотезу."
+        }
+      },
+      {
+        "id": "remote-ciencias-b2-mean-3",
+        "l2": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "gloss": {
+          "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+          "es": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+          "ru": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-ciencias-b2-fren-1",
+        "l2": "hipótesis",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        }
+      },
+      {
+        "id": "remote-ciencias-b2-fren-2",
+        "l2": "experimento",
+        "en": "experiment",
+        "gloss": {
+          "en": "experiment",
+          "es": "experimento",
+          "ru": "эксперимент"
+        }
+      },
+      {
+        "id": "remote-ciencias-b2-fren-3",
+        "l2": "evidencia",
+        "en": "evidence",
+        "gloss": {
+          "en": "evidence",
+          "es": "evidencia",
+          "ru": "доказательство"
+        }
+      },
+      {
+        "id": "remote-ciencias-b2-fren-4",
+        "l2": "laboratorio",
+        "en": "laboratory",
+        "gloss": {
+          "en": "laboratory",
+          "es": "laboratorio",
+          "ru": "лаборатория"
+        }
+      },
+      {
+        "id": "remote-ciencias-b2-fren-5",
+        "l2": "investigación",
+        "en": "research",
+        "gloss": {
+          "en": "research",
+          "es": "investigación",
+          "ru": "исследовать"
+        }
+      },
+      {
+        "id": "remote-ciencias-b2-fren-6",
+        "l2": "protocolo",
+        "en": "protocol",
+        "gloss": {
+          "en": "protocol",
+          "es": "protocolo",
+          "ru": "протокол"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-ciencias-b2-alou-1",
+        "l2": "Es fundamental que la experiencia sea reproducible por un equipo independiente.",
+        "en": "It is essential that the experiment be reproducible by an independent team.",
+        "gloss": {
+          "en": "It is essential that the experiment be reproducible by an independent team.",
+          "es": "Es fundamental que el experimento sea reproducible por un equipo independiente.",
+          "ru": "Очень важно, чтобы эксперимент мог быть воспроизведен независимой командой."
+        },
+        "ipa": "ˈes funda.mentˈal kˈe lˈa expe.rienθˈia sˈea repro.duθˈible pˈor ˈun ekˈi.po inde.pendiˈente"
+      },
+      {
+        "id": "remote-ciencias-b2-alou-2",
+        "l2": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+        "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+        "gloss": {
+          "en": "If the protocol were stricter, the risk of measurement error would be reduced.",
+          "es": "Si el protocolo fuera más estricto, se reduciría el riesgo de error de medición.",
+          "ru": "Если бы протокол был более строгим, риск ошибки измерения был бы уменьшен."
+        },
+        "ipa": "sˈi ˈel pro.tocˈo.lo fuˈe.ra mˈas estrˈicto sˈe re.duθirˈia ˈel riˈesgo dˈe erˈor"
+      },
+      {
+        "id": "remote-ciencias-b2-alou-3",
+        "l2": "Aunque el resultado es prometedor, la muestra sigue siendo demasiado pequeña.",
+        "en": "Although the result is promising, the sample remains too limited.",
+        "gloss": {
+          "en": "Although the result is promising, the sample remains too limited.",
+          "es": "Aunque el resultado es prometedor, la muestra sigue siendo demasiado limitada.",
+          "ru": "Хотя результат многообещающий, выборка остается слишком ограниченной."
+        },
+        "ipa": "aˈunke ˈel re.sultˈa.do ˈes pro.metedˈor lˈa muˈestra sˈi.ɡe siˈendo de.masiˈa.do pekˈe.ɲa"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-ciencias-b2-unsc-1",
+        "l2": "Esta prueba por sí sola no es suficiente, pero orienta la investigación.",
+        "en": "This single piece of evidence is not enough; nevertheless it guides the research.",
+        "gloss": {
+          "en": "This single piece of evidence is not enough; nevertheless it guides the research.",
+          "es": "Esta única prueba no es suficiente; sin embargo, guía la investigación.",
+          "ru": "Этого единственного доказательства недостаточно; тем не менее, он направляет исследование."
+        },
+        "words": [
+          "Esta",
+          "prueba",
+          "por",
+          "sí",
+          "sola",
+          "no",
+          "es",
+          "suficiente,",
+          "pero",
+          "orienta",
+          "la",
+          "investigación."
+        ]
+      },
+      {
+        "id": "remote-ciencias-b2-unsc-2",
+        "l2": "Una correlación no establece causa y efecto.",
+        "en": "A correlation does not establish a cause-and-effect link.",
+        "gloss": {
+          "en": "A correlation does not establish a cause-and-effect link.",
+          "es": "Una correlación no establece un vínculo de causa y efecto.",
+          "ru": "Корреляция не устанавливает причинно-следственной связи."
+        },
+        "words": [
+          "Una",
+          "correlación",
+          "no",
+          "establece",
+          "causa",
+          "y",
+          "efecto."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}
