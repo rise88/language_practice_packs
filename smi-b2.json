@@ -1,0 +1,863 @@
+{
+  "pratiquePack": 2,
+  "id": "smi-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "ru",
+  "title": {
+    "fr": "Médias et information B2 (RU)",
+    "en": "Media and news B2 (RU)",
+    "es": "Medios y noticias B2 (RU)",
+    "ru": "СМИ и новости B2"
+  },
+  "description": {
+    "fr": "Presse, biais, sources, titres et débats sur les réseaux sociaux — pack russe.",
+    "en": "Press, bias, sources, headlines, and debate on social media — Russian pack.",
+    "es": "Prensa, sesgos, fuentes, titulares y debate en las redes sociales — paquete ruso.",
+    "ru": "Пресса, предвзятость, источники, заголовки и дебаты в социальных сетях — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-smi-b2-1",
+      "l2": "отдел новостей",
+      "en": "newsroom",
+      "gloss": {
+        "en": "newsroom",
+        "es": "sala de redacción",
+        "ru": "отдел новостей"
+      },
+      "example": "Редакция решила проверить каждый источник перед публикацией.",
+      "ipa": "otdjel nˈovostjej",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-2",
+      "l2": "беспристрастность",
+      "en": "impartiality",
+      "gloss": {
+        "en": "impartiality",
+        "es": "imparcialidad",
+        "ru": "беспристрастность"
+      },
+      "example": "После этого расследования беспристрастность газеты была поставлена ​​под сомнение.",
+      "ipa": "bjespristrˈastnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-3",
+      "l2": "источник",
+      "en": "source",
+      "gloss": {
+        "en": "source",
+        "es": "fuente",
+        "ru": "источник"
+      },
+      "example": "Ни один независимый источник пока не подтвердил эту информацию.",
+      "ipa": "istˈotɕnik",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-4",
+      "l2": "предвзятость",
+      "en": "bias",
+      "gloss": {
+        "en": "bias",
+        "es": "inclinación",
+        "ru": "предвзятость"
+      },
+      "example": "Эта редакционная предвзятость очевидна из выбора заголовков на первой полосе.",
+      "ipa": "prjedvzjˈatostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-5",
+      "l2": "дезинформация",
+      "en": "disinformation",
+      "gloss": {
+        "en": "disinformation",
+        "es": "desinformación",
+        "ru": "дезинформация"
+      },
+      "example": "Дезинформация распространяется быстрее, чем официальное опровержение.",
+      "ipa": "djezinformatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-smi-b2-6",
+      "l2": "заголовок",
+      "en": "headline",
+      "gloss": {
+        "en": "headline",
+        "es": "titular",
+        "ru": "заголовок"
+      },
+      "example": "Некоторые читатели сочли шокирующее название вводящим в заблуждение.",
+      "ipa": "zaɡolˈovok",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-7",
+      "l2": "расследование",
+      "en": "investigation",
+      "gloss": {
+        "en": "investigation",
+        "es": "investigación",
+        "ru": "расследование"
+      },
+      "example": "Журналистское расследование выявило ранее игнорированные конфликты интересов.",
+      "ipa": "rassljedovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-smi-b2-8",
+      "l2": "корреспондент",
+      "en": "correspondent",
+      "gloss": {
+        "en": "correspondent",
+        "es": "corresponsal",
+        "ru": "корреспондент"
+      },
+      "example": "Иностранный корреспондент передал изображения, несмотря на цензуру.",
+      "ipa": "kˈorrjespondjent",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-9",
+      "l2": "проверка фактов",
+      "en": "fact-checking",
+      "gloss": {
+        "en": "fact-checking",
+        "es": "verificación de hechos",
+        "ru": "проверка фактов"
+      },
+      "example": "Проверка фактов требует времени, которого не хватает в прямом эфире.",
+      "ipa": "provjerka fˈaktov",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-10",
+      "l2": "поляризация",
+      "en": "polarization",
+      "gloss": {
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
+      },
+      "example": "Поляризация онлайн-дебатов препятствует умеренным голосам.",
+      "ipa": "poljarizatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-smi-b2-11",
+      "l2": "аудитория",
+      "en": "audience / ratings",
+      "gloss": {
+        "en": "audience / ratings",
+        "es": "audiencia / ratings",
+        "ru": "аудитория/рейтинги"
+      },
+      "example": "Аудитория телевизионных новостей сокращается по сравнению с постоянными новостными каналами.",
+      "ipa": "auditorˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-smi-b2-12",
+      "l2": "редакционная статья",
+      "en": "editorial",
+      "gloss": {
+        "en": "editorial",
+        "es": "editorial",
+        "ru": "редакционная статья"
+      },
+      "example": "Воскресная редакционная статья явно занимает чью-либо сторону, однако краткая информация остается фактической.",
+      "ipa": "rjedaktsionnaja stˈatʲja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-smi-b2-13",
+      "l2": "осведомитель",
+      "en": "whistleblower",
+      "gloss": {
+        "en": "whistleblower",
+        "es": "denunciante",
+        "ru": "осведомитель"
+      },
+      "example": "Информатор сначала обратился в редакцию, а не в полицию.",
+      "ipa": "osvjedˈomitjelʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-14",
+      "l2": "покрытие",
+      "en": "coverage",
+      "gloss": {
+        "en": "coverage",
+        "es": "cobertura",
+        "ru": "покрытие"
+      },
+      "example": "Некоторые эксперты сочли освещение кризиса слишком эмоциональным.",
+      "ipa": "pokrˈɨtije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-smi-b2-15",
+      "l2": "социальная сеть",
+      "en": "social network",
+      "gloss": {
+        "en": "social network",
+        "es": "red social",
+        "ru": "социальная сеть"
+      },
+      "example": "Эта социальная сеть усиливает вызывающий разногласия контент, чтобы удержать внимание.",
+      "ipa": "sotsialʲnˈaja sjetʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-16",
+      "l2": "виральность",
+      "en": "virality",
+      "gloss": {
+        "en": "virality",
+        "es": "viralidad",
+        "ru": "виральность"
+      },
+      "example": "Виральность слуха никоим образом не доказывает его достоверность.",
+      "ipa": "virˈalʲnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-17",
+      "l2": "слух",
+      "en": "rumour / rumor",
+      "gloss": {
+        "en": "rumour / rumor",
+        "es": "rumor / rumor",
+        "ru": "слух / слух"
+      },
+      "example": "Слух циркулировал несколько часов, прежде чем был опровергнут.",
+      "ipa": "slˈux",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-18",
+      "l2": "плюрализм",
+      "en": "pluralism",
+      "gloss": {
+        "en": "pluralism",
+        "es": "pluralismo",
+        "ru": "плюрализм"
+      },
+      "example": "Информационный плюрализм требует СМИ с разнообразными редакционными линиями.",
+      "ipa": "pljurˈalizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-19",
+      "l2": "платный доступ",
+      "en": "paywall",
+      "gloss": {
+        "en": "paywall",
+        "es": "muro de pago",
+        "ru": "платный доступ"
+      },
+      "example": "За платным доступом файл предлагает больше контекста и нюансов.",
+      "ipa": "platnɨj dˈostup",
+      "article": "м"
+    },
+    {
+      "id": "remote-smi-b2-20",
+      "l2": "первая страница",
+      "en": "front page",
+      "gloss": {
+        "en": "front page",
+        "es": "página delantera",
+        "ru": "первая страница"
+      },
+      "example": "На первой полосе газеты этому политическому скандалу посвящены три колонки.",
+      "ipa": "pjervaja stranˈitsa",
+      "article": "ж"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-smi-b2-phrase-1",
+      "l2": "Прежде чем делиться информацией, желательно сделать перекрестные ссылки на несколько источников.",
+      "en": "You should cross-check several sources before sharing a piece of news.",
+      "gloss": {
+        "en": "You should cross-check several sources before sharing a piece of news.",
+        "es": "Debes cotejar varias fuentes antes de compartir una noticia.",
+        "ru": "Прежде чем поделиться новостью, вам следует перепроверить несколько источников."
+      },
+      "ipa": "prjeʐdje tɕjem djelˈitʲsja informˈatsijej ʐjelˈatjelʲno sdjelˈatʲ pjerjekrjestnˈɨje ssˈɨlki nˈa njeskˈolʲko istotɕnˈikov"
+    },
+    {
+      "id": "remote-smi-b2-phrase-2",
+      "l2": "Это название бросается в глаза, но оно слишком упрощает ситуацию.",
+      "en": "This headline is catchy; however it oversimplifies the story.",
+      "gloss": {
+        "en": "This headline is catchy; however it oversimplifies the story.",
+        "es": "Este titular es pegadizo; sin embargo, simplifica demasiado la historia.",
+        "ru": "Этот заголовок запоминающийся; однако это слишком упрощает историю."
+      },
+      "ipa": "ˈɛto nazvˈanije brosˈajetsja v ɡlˈaza nˈo ˈono slˈiʂkom uprˈoɕːajet situatsˈiju"
+    },
+    {
+      "id": "remote-smi-b2-phrase-3",
+      "l2": "Хотя статья хорошо документирована, в выборе свидетелей очевидна предвзятость.",
+      "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+      "gloss": {
+        "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+        "es": "Aunque el artículo está bien documentado, se muestra un sesgo en la elección de los testigos.",
+        "ru": "Хотя статья хорошо задокументирована, в выборе свидетелей проявляется предвзятость."
+      },
+      "ipa": "xˈotja stˈatʲja xorˈoʂo dokumjentirovˈana v vˈɨborje svˈidjetjeljej otɕjevˈidna prjedvzjˈatostʲ"
+    },
+    {
+      "id": "remote-smi-b2-phrase-4",
+      "l2": "С другой стороны, социальные сети отдают предпочтение скорости, а не проверке.",
+      "en": "By contrast, social media favour speed over fact-checking.",
+      "gloss": {
+        "en": "By contrast, social media favour speed over fact-checking.",
+        "es": "Por el contrario, las redes sociales prefieren la velocidad a la verificación de datos.",
+        "ru": "Напротив, социальные сети предпочитают скорость проверке фактов."
+      },
+      "ipa": "s drˈuɡoj storˈonɨ sotsiˈalʲnɨje sjetˈi otdˈajut prjedpˈotɕtjenije skorˈosti ˈa nje prˈovjerkje"
+    },
+    {
+      "id": "remote-smi-b2-phrase-5",
+      "l2": "Я сомневаюсь, что этот слух правдив, даже если он распространяется повсюду.",
+      "en": "I doubt this rumour is well-founded, even if it is circulating everywhere.",
+      "gloss": {
+        "en": "I doubt this rumour is well-founded, even if it is circulating everywhere.",
+        "es": "Dudo que este rumor esté bien fundamentado, aunque esté circulando por todas partes.",
+        "ru": "Я сомневаюсь, что этот слух обоснован, даже если он распространяется повсюду."
+      },
+      "ipa": "jˈa somnjevˈajusʲ tɕtˈo ˈɛtot slˈux prˈavdiv dˈaʐje jeslˈi ˈon rasprostranjˈajetsja povsjˈudu"
+    },
+    {
+      "id": "remote-smi-b2-phrase-6",
+      "l2": "Можем ли мы получить официальную реакцию, чтобы проинформировать общественность?",
+      "en": "Could we get an official response so that the public is informed?",
+      "gloss": {
+        "en": "Could we get an official response so that the public is informed?",
+        "es": "¿Podríamos obtener una respuesta oficial para que el público esté informado?",
+        "ru": "Можем ли мы получить официальный ответ, чтобы проинформировать общественность?"
+      },
+      "ipa": "mˈoʐjem lˈi mˈɨ polˈutɕitʲ ofitsialʲnˈuju rjeaktsˈiju tɕtˈobɨ proinformirˈovatʲ ˈobɕːjestvjennostʲ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-smi-b2-listen-1",
+      "l2": "Редакция решила проверить каждый источник.",
+      "en": "The newsroom decided to check every source.",
+      "gloss": {
+        "en": "The newsroom decided to check every source.",
+        "es": "La redacción decidió comprobar todas las fuentes.",
+        "ru": "Редакция новостей решила проверить все источники."
+      },
+      "word": "отдел новостей",
+      "wordEn": "newsroom",
+      "wordGloss": {
+        "en": "newsroom",
+        "es": "sala de redacción",
+        "ru": "отдел новостей"
+      },
+      "wordIpa": "otdjel nˈovostjej",
+      "distractors": [
+        "расследование",
+        "редакционная статья",
+        "заголовок"
+      ]
+    },
+    {
+      "id": "remote-smi-b2-listen-2",
+      "l2": "Эта редакционная предвзятость очевидна из выбора названий.",
+      "en": "This editorial bias shows from the choice of headlines.",
+      "gloss": {
+        "en": "This editorial bias shows from the choice of headlines.",
+        "es": "Este sesgo editorial se manifiesta en la elección de los titulares.",
+        "ru": "Эта редакционная предвзятость проявляется в выборе заголовков."
+      },
+      "word": "предвзятость",
+      "wordEn": "bias",
+      "wordGloss": {
+        "en": "bias",
+        "es": "inclinación",
+        "ru": "предвзятость"
+      },
+      "wordIpa": "prjedvzjˈatostʲ",
+      "distractors": [
+        "плюрализм",
+        "беспристрастность",
+        "покрытие"
+      ]
+    },
+    {
+      "id": "remote-smi-b2-listen-3",
+      "l2": "Дезинформация распространяется быстрее, чем отрицание.",
+      "en": "Disinformation spreads faster than the official denial.",
+      "gloss": {
+        "en": "Disinformation spreads faster than the official denial.",
+        "es": "La desinformación se propaga más rápido que la negación oficial.",
+        "ru": "Дезинформация распространяется быстрее, чем официальное опровержение."
+      },
+      "word": "дезинформация",
+      "wordEn": "disinformation",
+      "wordGloss": {
+        "en": "disinformation",
+        "es": "desinformación",
+        "ru": "дезинформация"
+      },
+      "wordIpa": "djezinformatsˈija",
+      "distractors": [
+        "слух",
+        "виральность",
+        "проверка фактов"
+      ]
+    },
+    {
+      "id": "remote-smi-b2-listen-4",
+      "l2": "Поляризация онлайн-дебатов препятствует умеренным голосам.",
+      "en": "The polarization of online debate discourages moderate voices.",
+      "gloss": {
+        "en": "The polarization of online debate discourages moderate voices.",
+        "es": "La polarización del debate en línea desalienta las voces moderadas.",
+        "ru": "Поляризация онлайн-дебатов препятствует умеренным голосам."
+      },
+      "word": "поляризация",
+      "wordEn": "polarization",
+      "wordGloss": {
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
+      },
+      "wordIpa": "poljarizatsˈija",
+      "distractors": [
+        "аудитория",
+        "платный доступ",
+        "корреспондент"
+      ]
+    }
+  ],
+  "prompts": [
+    "Можем ли мы еще говорить о беспристрастности СМИ? Обоснуйте свою точку зрения.",
+    "Сравните запоминающийся заголовок и информативный заголовок: что вы предпочитаете и почему?",
+    "Объясните, как вы проверяете информацию, прежде чем поделиться ею.",
+    "Обогащают ли социальные сети общественные дебаты или обедняют их?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-smi-b2-grammar-1",
+      "title": {
+        "fr": "Instrumental (кем / чем)",
+        "en": "Instrumental case (кем / чем)",
+        "es": "Caso instrumental (кем / чем)",
+        "ru": "Творительный падеж (кем / чем)"
+      },
+      "rule": {
+        "fr": "Творительный marque le moyen, l’accompagnement ou le prédicat (стать врачом).",
+        "en": "Instrumental marks means, company, or predicate nouns (стать врачом).",
+        "es": "El instrumental marca medio, compañía o predicado (стать врачом).",
+        "ru": "Творительный обозначает средство, совместность или предикатив (стать врачом)."
+      },
+      "why": {
+        "en": "Needed for professions, tools, and «with».",
+        "es": "Necesario para profesiones, herramientas y «con».",
+        "ru": "Нужен для профессий, инструментов и значения «с»."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "чем",
+          "средство",
+          "Пишу ручкой / говорю о беспристрастность."
+        ],
+        [
+          "кем",
+          "профессия",
+          "Он стал врачом."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-smi-b2-gq-1-1",
+          "prompt": "Стать врачом — ___ падеж.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "родительный",
+            "винительный"
+          ]
+        },
+        {
+          "id": "remote-smi-b2-gq-1-2",
+          "prompt": "Я пишу ___ . (карандаш)",
+          "answer": "карандашом",
+          "options": [
+            "карандашом",
+            "карандаш",
+            "карандаша"
+          ]
+        },
+        {
+          "id": "remote-smi-b2-gq-1-3",
+          "prompt": "Тема «беспристрастность» часто требует предложных конструкций.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "именительный",
+            "звательный"
+          ]
+        },
+        {
+          "id": "remote-smi-b2-gq-1-4",
+          "prompt": "Свяжите с темой: беспристрастность / дезинформация. Род «беспристрастность»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-smi-b2-gq-1-5",
+          "prompt": "Свяжите с темой: беспристрастность / дезинформация. Род «беспристрастность»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-smi-b2-grammar-2",
+      "title": {
+        "fr": "Aspect perfectif / imperfectif",
+        "en": "Perfective / imperfective aspect",
+        "es": "Aspecto perfectivo / imperfectivo",
+        "ru": "Вид глагола: совершенный / несовершенный"
+      },
+      "rule": {
+        "fr": "Imperfectif = processus / habitude ; perfectif = résultat achevé.",
+        "en": "Imperfective = process / habit; perfective = completed result.",
+        "es": "Imperfectivo = proceso / hábito; perfectivo = resultado terminado.",
+        "ru": "Несовершенный — процесс / привычка; совершенный — завершённый результат."
+      },
+      "why": {
+        "en": "Aspect is central to natural Russian storytelling.",
+        "es": "El aspecto es central en la narración rusa natural.",
+        "ru": "Вид — ключ к естественному русскому рассказу."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "НСВ",
+          "процесс / привычка",
+          "Я читал книгу час."
+        ],
+        [
+          "СВ",
+          "результат",
+          "Я прочитал книгу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-smi-b2-gq-2-1",
+          "prompt": "Результат: я ___ книгу. (прочитать)",
+          "answer": "прочитал",
+          "options": [
+            "прочитал",
+            "читал",
+            "буду читать"
+          ]
+        },
+        {
+          "id": "remote-smi-b2-gq-2-2",
+          "prompt": "Процесс: я долго ___ . (читать)",
+          "answer": "читал",
+          "options": [
+            "читал",
+            "прочитал",
+            "прочту"
+          ]
+        },
+        {
+          "id": "remote-smi-b2-gq-2-3",
+          "prompt": "Привычка обычно выражается ___ видом.",
+          "answer": "несовершенным",
+          "options": [
+            "несовершенным",
+            "совершенным",
+            "будущим"
+          ]
+        },
+        {
+          "id": "remote-smi-b2-gq-2-4",
+          "prompt": "Свяжите с темой: источник / заголовок. Род «источник»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-smi-b2-gq-2-5",
+          "prompt": "Свяжите с темой: источник / заголовок. Род «источник»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-smi-b2-dict-1",
+        "l2": "Прежде чем делиться информацией, желательно сделать перекрестные ссылки на несколько источников.",
+        "en": "You should cross-check several sources before sharing a piece of news.",
+        "gloss": {
+          "en": "You should cross-check several sources before sharing a piece of news.",
+          "es": "Debes cotejar varias fuentes antes de compartir una noticia.",
+          "ru": "Прежде чем поделиться новостью, вам следует перепроверить несколько источников."
+        },
+        "ipa": "prjeʐdje tɕjem djelˈitʲsja informˈatsijej ʐjelˈatjelʲno sdjelˈatʲ pjerjekrjestnˈɨje ssˈɨlki nˈa njeskˈolʲko istotɕnˈikov"
+      },
+      {
+        "id": "remote-smi-b2-dict-2",
+        "l2": "Это название бросается в глаза, но оно слишком упрощает ситуацию.",
+        "en": "This headline is catchy; however it oversimplifies the story.",
+        "gloss": {
+          "en": "This headline is catchy; however it oversimplifies the story.",
+          "es": "Este titular es pegadizo; sin embargo, simplifica demasiado la historia.",
+          "ru": "Этот заголовок запоминающийся; однако это слишком упрощает историю."
+        },
+        "ipa": "ˈɛto nazvˈanije brosˈajetsja v ɡlˈaza nˈo ˈono slˈiʂkom uprˈoɕːajet situatsˈiju"
+      },
+      {
+        "id": "remote-smi-b2-dict-3",
+        "l2": "Хотя статья хорошо документирована, в выборе свидетелей очевидна предвзятость.",
+        "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+        "gloss": {
+          "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+          "es": "Aunque el artículo está bien documentado, se muestra un sesgo en la elección de los testigos.",
+          "ru": "Хотя статья хорошо задокументирована, в выборе свидетелей проявляется предвзятость."
+        },
+        "ipa": "xˈotja stˈatʲja xorˈoʂo dokumjentirovˈana v vˈɨborje svˈidjetjeljej otɕjevˈidna prjedvzjˈatostʲ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-smi-b2-mean-1",
+        "l2": "Прежде чем делиться информацией, желательно сделать перекрестные ссылки на несколько источников.",
+        "en": "You should cross-check several sources before sharing a piece of news.",
+        "gloss": {
+          "en": "You should cross-check several sources before sharing a piece of news.",
+          "es": "Debes cotejar varias fuentes antes de compartir una noticia.",
+          "ru": "Прежде чем поделиться новостью, вам следует перепроверить несколько источников."
+        }
+      },
+      {
+        "id": "remote-smi-b2-mean-2",
+        "l2": "Это название бросается в глаза, но оно слишком упрощает ситуацию.",
+        "en": "This headline is catchy; however it oversimplifies the story.",
+        "gloss": {
+          "en": "This headline is catchy; however it oversimplifies the story.",
+          "es": "Este titular es pegadizo; sin embargo, simplifica demasiado la historia.",
+          "ru": "Этот заголовок запоминающийся; однако это слишком упрощает историю."
+        }
+      },
+      {
+        "id": "remote-smi-b2-mean-3",
+        "l2": "Хотя статья хорошо документирована, в выборе свидетелей очевидна предвзятость.",
+        "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+        "gloss": {
+          "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+          "es": "Aunque el artículo está bien documentado, se muestra un sesgo en la elección de los testigos.",
+          "ru": "Хотя статья хорошо задокументирована, в выборе свидетелей проявляется предвзятость."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-smi-b2-fren-1",
+        "l2": "отдел новостей",
+        "en": "newsroom",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        }
+      },
+      {
+        "id": "remote-smi-b2-fren-2",
+        "l2": "беспристрастность",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        }
+      },
+      {
+        "id": "remote-smi-b2-fren-3",
+        "l2": "источник",
+        "en": "source",
+        "gloss": {
+          "en": "source",
+          "es": "fuente",
+          "ru": "источник"
+        }
+      },
+      {
+        "id": "remote-smi-b2-fren-4",
+        "l2": "предвзятость",
+        "en": "bias",
+        "gloss": {
+          "en": "bias",
+          "es": "inclinación",
+          "ru": "предвзятость"
+        }
+      },
+      {
+        "id": "remote-smi-b2-fren-5",
+        "l2": "дезинформация",
+        "en": "disinformation",
+        "gloss": {
+          "en": "disinformation",
+          "es": "desinformación",
+          "ru": "дезинформация"
+        }
+      },
+      {
+        "id": "remote-smi-b2-fren-6",
+        "l2": "заголовок",
+        "en": "headline",
+        "gloss": {
+          "en": "headline",
+          "es": "titular",
+          "ru": "заголовок"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-smi-b2-alou-1",
+        "l2": "Прежде чем делиться информацией, желательно сделать перекрестные ссылки на несколько источников.",
+        "en": "You should cross-check several sources before sharing a piece of news.",
+        "gloss": {
+          "en": "You should cross-check several sources before sharing a piece of news.",
+          "es": "Debes cotejar varias fuentes antes de compartir una noticia.",
+          "ru": "Прежде чем поделиться новостью, вам следует перепроверить несколько источников."
+        },
+        "ipa": "prjeʐdje tɕjem djelˈitʲsja informˈatsijej ʐjelˈatjelʲno sdjelˈatʲ pjerjekrjestnˈɨje ssˈɨlki nˈa njeskˈolʲko istotɕnˈikov"
+      },
+      {
+        "id": "remote-smi-b2-alou-2",
+        "l2": "Хотя статья хорошо документирована, в выборе свидетелей очевидна предвзятость.",
+        "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+        "gloss": {
+          "en": "Although the article is well documented, a bias shows in the choice of witnesses.",
+          "es": "Aunque el artículo está bien documentado, se muestra un sesgo en la elección de los testigos.",
+          "ru": "Хотя статья хорошо задокументирована, в выборе свидетелей проявляется предвзятость."
+        },
+        "ipa": "xˈotja stˈatʲja xorˈoʂo dokumjentirovˈana v vˈɨborje svˈidjetjeljej otɕjevˈidna prjedvzjˈatostʲ"
+      },
+      {
+        "id": "remote-smi-b2-alou-3",
+        "l2": "Я сомневаюсь, что этот слух правдив, даже если он распространяется повсюду.",
+        "en": "I doubt this rumour is well-founded, even if it is circulating everywhere.",
+        "gloss": {
+          "en": "I doubt this rumour is well-founded, even if it is circulating everywhere.",
+          "es": "Dudo que este rumor esté bien fundamentado, aunque esté circulando por todas partes.",
+          "ru": "Я сомневаюсь, что этот слух обоснован, даже если он распространяется повсюду."
+        },
+        "ipa": "jˈa somnjevˈajusʲ tɕtˈo ˈɛtot slˈux prˈavdiv dˈaʐje jeslˈi ˈon rasprostranjˈajetsja povsjˈudu"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-smi-b2-unsc-1",
+        "l2": "Виральность слуха никоим образом не доказывает его достоверность.",
+        "en": "The virality of a rumour in no way proves its reliability.",
+        "gloss": {
+          "en": "The virality of a rumour in no way proves its reliability.",
+          "es": "La viralidad de un rumor no demuestra en modo alguno su fiabilidad.",
+          "ru": "Виральность слуха никоим образом не доказывает его достоверность."
+        },
+        "words": [
+          "Виральность",
+          "слуха",
+          "никоим",
+          "образом",
+          "не",
+          "доказывает",
+          "его",
+          "достоверность."
+        ]
+      },
+      {
+        "id": "remote-smi-b2-unsc-2",
+        "l2": "Ни один независимый источник пока не подтвердил эту информацию.",
+        "en": "No independent source has yet confirmed this information.",
+        "gloss": {
+          "en": "No independent source has yet confirmed this information.",
+          "es": "Ninguna fuente independiente ha confirmado todavía esta información.",
+          "ru": "Ни один независимый источник пока не подтвердил эту информацию."
+        },
+        "words": [
+          "Ни",
+          "один",
+          "независимый",
+          "источник",
+          "пока",
+          "не",
+          "подтвердил",
+          "эту",
+          "информацию."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-smi-b2-sign-1",
+        "l2": "пресс-центр",
+        "en": "press room",
+        "gloss": {
+          "en": "press room",
+          "es": "sala de prensa",
+          "ru": "пресс-центр"
+        },
+        "hint": "бейджи, фотоаппараты, журналисты"
+      },
+      {
+        "id": "remote-smi-b2-sign-2",
+        "l2": "отдел новостей",
+        "en": "newsroom",
+        "gloss": {
+          "en": "newsroom",
+          "es": "sala de redacción",
+          "ru": "отдел новостей"
+        },
+        "hint": "столы, ширмы, газеты"
+      }
+    ]
+  },
+  "sounds": []
+}

@@ -1,0 +1,856 @@
+{
+  "pratiquePack": 2,
+  "id": "restoran-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "ru",
+  "title": {
+    "fr": "Restaurant A2 (RU)",
+    "en": "Restaurant A2 (RU)",
+    "es": "Restaurante A2 (RU)",
+    "ru": "Ресторан А2"
+  },
+  "description": {
+    "fr": "Commander, réserver et manger au restaurant avec confiance — pack russe.",
+    "en": "Order, book a table, and dine out with confidence — Russian pack.",
+    "es": "Ordene, reserve una mesa y cene con confianza — paquete ruso.",
+    "ru": "Заказывайте, бронируйте столик и ужинайте вне дома с уверенностью — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-restoran-a2-1",
+      "l2": "ресторан",
+      "en": "restaurant",
+      "gloss": {
+        "en": "restaurant",
+        "es": "restaurante",
+        "ru": "ресторан"
+      },
+      "example": "Этот ресторан очень популярен.",
+      "ipa": "rjestˈoran",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-2",
+      "l2": "официант",
+      "en": "waiter",
+      "gloss": {
+        "en": "waiter",
+        "es": "mesero",
+        "ru": "официант"
+      },
+      "example": "Официант принимает наш заказ.",
+      "ipa": "ofitsˈiant",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-3",
+      "l2": "официантка",
+      "en": "waitress",
+      "gloss": {
+        "en": "waitress",
+        "es": "camarera",
+        "ru": "официантка"
+      },
+      "example": "Официантка приносит блюда.",
+      "ipa": "ofitsiˈantka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-restoran-a2-4",
+      "l2": "меню",
+      "en": "menu",
+      "gloss": {
+        "en": "menu",
+        "es": "menú",
+        "ru": "меню"
+      },
+      "example": "Могу ли я увидеть меню, пожалуйста?",
+      "ipa": "mjenjˈu",
+      "article": "ср"
+    },
+    {
+      "id": "remote-restoran-a2-5",
+      "l2": "меню",
+      "en": "menu / wine list",
+      "gloss": {
+        "en": "menu / wine list",
+        "es": "menú/carta de vinos",
+        "ru": "меню/винная карта"
+      },
+      "example": "Карта вин на столе.",
+      "ipa": "mjenjˈu",
+      "article": "ср"
+    },
+    {
+      "id": "remote-restoran-a2-6",
+      "l2": "закуска",
+      "en": "starter / appetizer",
+      "gloss": {
+        "en": "starter / appetizer",
+        "es": "entrante/aperitivo",
+        "ru": "закуска/закуска"
+      },
+      "example": "У меня есть салат в качестве закуски.",
+      "ipa": "zakˈuska",
+      "article": "ж"
+    },
+    {
+      "id": "remote-restoran-a2-7",
+      "l2": "основное блюдо",
+      "en": "main course / dish",
+      "gloss": {
+        "en": "main course / dish",
+        "es": "plato principal/plato",
+        "ru": "основное блюдо/блюдо"
+      },
+      "example": "Какое блюдо посоветуете?",
+      "ipa": "osnovnoje bljˈudo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-restoran-a2-8",
+      "l2": "десерт",
+      "en": "dessert",
+      "gloss": {
+        "en": "dessert",
+        "es": "postre",
+        "ru": "десерт"
+      },
+      "example": "У вас есть домашние десерты?",
+      "ipa": "djesjert",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-9",
+      "l2": "счет",
+      "en": "bill / check",
+      "gloss": {
+        "en": "bill / check",
+        "es": "factura / cheque",
+        "ru": "счет/чек"
+      },
+      "example": "Счет, пожалуйста.",
+      "ipa": "stɕjet",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-10",
+      "l2": "бронирование",
+      "en": "reservation / booking",
+      "gloss": {
+        "en": "reservation / booking",
+        "es": "reserva / reserva",
+        "ru": "бронирование / бронирование"
+      },
+      "example": "У меня есть бронь на имя Мартина.",
+      "ipa": "bronirovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-restoran-a2-11",
+      "l2": "стол",
+      "en": "table",
+      "gloss": {
+        "en": "table",
+        "es": "mesa",
+        "ru": "стол"
+      },
+      "example": "Столик на двоих, пожалуйста.",
+      "ipa": "stˈol",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-12",
+      "l2": "сервировка столовых приборов",
+      "en": "place setting / cutlery",
+      "gloss": {
+        "en": "place setting / cutlery",
+        "es": "cubierto / cubiertos",
+        "ru": "сервировка столовых приборов/столовые приборы"
+      },
+      "example": "Сервировка уже стоит на столе.",
+      "ipa": "sjervirovka stolovɨx pribˈorov",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-13",
+      "l2": "кончик",
+      "en": "tip",
+      "gloss": {
+        "en": "tip",
+        "es": "consejo",
+        "ru": "кончик"
+      },
+      "example": "Чаевые включены в счет.",
+      "ipa": "kˈontɕik",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-14",
+      "l2": "комплексное меню",
+      "en": "set menu / meal deal",
+      "gloss": {
+        "en": "set menu / meal deal",
+        "es": "menú fijo / oferta de comida",
+        "ru": "комплексное меню/предложение о питании"
+      },
+      "example": "Сегодняшняя формула стоит двадцать евро.",
+      "ipa": "kompljeksnˈoje mjenju",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-15",
+      "l2": "специальность",
+      "en": "specialty / house specialty",
+      "gloss": {
+        "en": "specialty / house specialty",
+        "es": "especialidad / especialidad de la casa",
+        "ru": "специальность / домашняя специальность"
+      },
+      "example": "Фирменным блюдом ресторана является говядина по-бургундски.",
+      "ipa": "spjetsiˈalʲnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-16",
+      "l2": "аллергия",
+      "en": "allergy",
+      "gloss": {
+        "en": "allergy",
+        "es": "alergia",
+        "ru": "аллергия"
+      },
+      "example": "У меня аллергия на морепродукты.",
+      "ipa": "alljerɡˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-restoran-a2-17",
+      "l2": "вегетарианец",
+      "en": "vegetarian (male)",
+      "gloss": {
+        "en": "vegetarian (male)",
+        "es": "vegetariano (masculino)",
+        "ru": "вегетарианец (мужчина)"
+      },
+      "example": "У вас есть вегетарианские блюда?",
+      "ipa": "vjeɡjetarˈianjets",
+      "article": "м"
+    },
+    {
+      "id": "remote-restoran-a2-18",
+      "l2": "вино",
+      "en": "wine",
+      "gloss": {
+        "en": "wine",
+        "es": "vino",
+        "ru": "вино"
+      },
+      "example": "Бокал красного вина, пожалуйста.",
+      "ipa": "vˈino",
+      "article": "ср"
+    },
+    {
+      "id": "remote-restoran-a2-19",
+      "l2": "открытая терраса",
+      "en": "outdoor terrace",
+      "gloss": {
+        "en": "outdoor terrace",
+        "es": "terraza al aire libre",
+        "ru": "открытая терраса"
+      },
+      "example": "Вы предпочитаете столик на террасе?",
+      "ipa": "otkrɨtaja tjerrˈasa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-restoran-a2-20",
+      "l2": "кухня",
+      "en": "kitchen / cuisine",
+      "gloss": {
+        "en": "kitchen / cuisine",
+        "es": "cocina / cocina",
+        "ru": "кухня / кухня"
+      },
+      "example": "Кухня этого ресторана великолепна.",
+      "ipa": "kˈuxnja",
+      "article": "ж"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-restoran-a2-phrase-1",
+      "l2": "Я хотел бы заказать столик на сегодняшний вечер.",
+      "en": "I’d like to book a table for tonight.",
+      "gloss": {
+        "en": "I’d like to book a table for tonight.",
+        "es": "Me gustaría reservar una mesa para esta noche.",
+        "ru": "Я хотел бы забронировать столик на сегодняшний вечер."
+      },
+      "ipa": "jˈa xˈotjel bˈɨ zakˈazatʲ stˈolik nˈa sjeɡodnjˈaʂnij vjetɕjer"
+    },
+    {
+      "id": "remote-restoran-a2-phrase-2",
+      "l2": "Какое блюдо посоветуете?",
+      "en": "What main course do you recommend?",
+      "gloss": {
+        "en": "What main course do you recommend?",
+        "es": "¿Qué plato principal me recomiendas?",
+        "ru": "Какое основное блюдо вы порекомендуете?"
+      },
+      "ipa": "kˈakoje bljˈudo posˈovjetujetje"
+    },
+    {
+      "id": "remote-restoran-a2-phrase-3",
+      "l2": "У меня аллергия на арахис.",
+      "en": "I am allergic to peanuts.",
+      "gloss": {
+        "en": "I am allergic to peanuts.",
+        "es": "Soy alérgico a los cacahuetes.",
+        "ru": "У меня аллергия на арахис."
+      },
+      "ipa": "ˈu mjenjˈa alljerɡˈija nˈa arˈaxis"
+    },
+    {
+      "id": "remote-restoran-a2-phrase-4",
+      "l2": "Счет, пожалуйста.",
+      "en": "The bill, please.",
+      "gloss": {
+        "en": "The bill, please.",
+        "es": "La cuenta, por favor.",
+        "ru": "Счет, пожалуйста."
+      },
+      "ipa": "stɕjet poʐalˈujsta"
+    },
+    {
+      "id": "remote-restoran-a2-phrase-5",
+      "l2": "Входит ли сюда плата за обслуживание ?",
+      "en": "Is service included?",
+      "gloss": {
+        "en": "Is service included?",
+        "es": "¿Está incluido el servicio?",
+        "ru": "Включено ли обслуживание?"
+      },
+      "ipa": "vxˈodit lˈi sjˈuda plˈata zˈa obsluʐivˈanije"
+    },
+    {
+      "id": "remote-restoran-a2-phrase-6",
+      "l2": "Было очень вкусно, спасибо большое.",
+      "en": "It was delicious, thank you very much.",
+      "gloss": {
+        "en": "It was delicious, thank you very much.",
+        "es": "Quedó delicioso, muchas gracias.",
+        "ru": "Было очень вкусно, спасибо большое."
+      },
+      "ipa": "bˈɨlo ˈotɕjenʲ vkˈusno spasˈibo bˈolʲʂoje"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-restoran-a2-listen-1",
+      "l2": "Я хотел бы зарезервировать столик на двоих на этот вечер.",
+      "en": "I’d like to book a table for two people tonight.",
+      "gloss": {
+        "en": "I’d like to book a table for two people tonight.",
+        "es": "Me gustaría reservar una mesa para dos personas esta noche.",
+        "ru": "Я хотел бы забронировать столик на двоих сегодня вечером."
+      },
+      "word": "бронирование",
+      "wordEn": "reservation",
+      "wordGloss": {
+        "en": "reservation",
+        "es": "reserva",
+        "ru": "бронирование"
+      },
+      "wordIpa": "bronirovˈanije",
+      "distractors": [
+        "счет",
+        "меню",
+        "открытая терраса"
+      ]
+    },
+    {
+      "id": "remote-restoran-a2-listen-2",
+      "l2": "Официантка приносит закуску и основное блюдо.",
+      "en": "The waitress brings the starter and the main course.",
+      "gloss": {
+        "en": "The waitress brings the starter and the main course.",
+        "es": "La camarera trae el entrante y el plato principal.",
+        "ru": "Официантка приносит закуску и основное блюдо."
+      },
+      "word": "закуска",
+      "wordEn": "starter",
+      "wordGloss": {
+        "en": "starter",
+        "es": "motor de arranque",
+        "ru": "стартер"
+      },
+      "wordIpa": "zakˈuska",
+      "distractors": [
+        "десерт",
+        "комплексное меню",
+        "сервировка столовых приборов"
+      ]
+    },
+    {
+      "id": "remote-restoran-a2-listen-3",
+      "l2": "Фирменным блюдом ресторана является говядина по-бургундски.",
+      "en": "The house specialty is beef bourguignon.",
+      "gloss": {
+        "en": "The house specialty is beef bourguignon.",
+        "es": "La especialidad de la casa es la ternera bourguignon.",
+        "ru": "Фирменным блюдом ресторана является говядина по-бургундски."
+      },
+      "word": "специальность",
+      "wordEn": "specialty",
+      "wordGloss": {
+        "en": "specialty",
+        "es": "especialidad",
+        "ru": "специальность"
+      },
+      "wordIpa": "spjetsiˈalʲnostʲ",
+      "distractors": [
+        "комплексное меню",
+        "кухня",
+        "меню"
+      ]
+    },
+    {
+      "id": "remote-restoran-a2-listen-4",
+      "l2": "У меня аллергия на морепродукты.",
+      "en": "I am allergic to seafood.",
+      "gloss": {
+        "en": "I am allergic to seafood.",
+        "es": "Soy alérgico a los mariscos.",
+        "ru": "У меня аллергия на морепродукты."
+      },
+      "word": "аллергический",
+      "wordEn": "allergic",
+      "wordGloss": {
+        "en": "allergic",
+        "es": "alérgico",
+        "ru": "аллергический"
+      },
+      "wordIpa": "alljerɡˈitɕjeskij",
+      "distractors": [
+        "вегетарианец",
+        "вкусный",
+        "понял"
+      ]
+    }
+  ],
+  "prompts": [
+    "Опишите свой любимый ресторан.",
+    "Как сделать заказ в ресторане?",
+    "Есть ли у вас пищевая аллергия? Объясните официанту.",
+    "Расскажите нам о вкусной еде, которую вы недавно ели."
+  ],
+  "grammar": [
+    {
+      "id": "remote-restoran-a2-grammar-1",
+      "title": {
+        "fr": "Accusatif après я хочу / я вижу",
+        "en": "Accusative after я хочу / я вижу",
+        "es": "Acusativo tras я хочу / я вижу",
+        "ru": "Винительный падеж после я хочу / я вижу"
+      },
+      "rule": {
+        "fr": "Après un verbe transitif, le complément est souvent à l’accusatif.",
+        "en": "After a transitive verb, the object is often in the accusative.",
+        "es": "Tras un verbo transitivo, el complemento suele ir en acusativo.",
+        "ru": "После переходного глагола дополнение часто стоит в винительном падеже."
+      },
+      "why": {
+        "en": "Lets you say what you want, see, or buy.",
+        "es": "Permite decir lo que quieres, ves o compras.",
+        "ru": "Позволяет сказать, что вы хотите, видите или покупаете."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "я вижу + Вин.",
+          "объект",
+          "Я вижу официант."
+        ],
+        [
+          "я хочу + Вин.",
+          "желание",
+          "Я хочу меню."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-restoran-a2-gq-1-1",
+          "prompt": "Я вижу ___ . (официант)",
+          "answer": "официант",
+          "options": [
+            "официант",
+            "меню",
+            "нет"
+          ]
+        },
+        {
+          "id": "remote-restoran-a2-gq-1-2",
+          "prompt": "После «я хочу» обычно нужен ___ падеж.",
+          "answer": "винительный",
+          "options": [
+            "винительный",
+            "творительный",
+            "предложный"
+          ]
+        },
+        {
+          "id": "remote-restoran-a2-gq-1-3",
+          "prompt": "Я покупаю ___ .",
+          "answer": "меню",
+          "options": [
+            "меню",
+            "нет",
+            "есть"
+          ]
+        },
+        {
+          "id": "remote-restoran-a2-gq-1-4",
+          "prompt": "Свяжите с темой: официант / меню. Род «официант»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-restoran-a2-gq-1-5",
+          "prompt": "Свяжите с темой: официант / меню. Род «официант»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-restoran-a2-grammar-2",
+      "title": {
+        "fr": "Passé : -л / -ла / -ло / -ли",
+        "en": "Past tense: -л / -ла / -ло / -ли",
+        "es": "Pasado: -л / -ла / -ло / -ли",
+        "ru": "Прошедшее время: -л / -ла / -ло / -ли"
+      },
+      "rule": {
+        "fr": "Le passé s’accorde en genre et nombre : был, была, было, были.",
+        "en": "Past tense agrees in gender and number: был, была, было, были.",
+        "es": "El pasado concuerda en género y número: был, была, было, были.",
+        "ru": "Прошедшее время согласуется по роду и числу: был, была, было, были."
+      },
+      "why": {
+        "en": "Past forms must match the subject.",
+        "es": "Las formas del pasado deben coincidir con el sujeto.",
+        "ru": "Формы прошедшего должны согласоваться с подлежащим."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "-л",
+          "м. р.",
+          "Он был дома."
+        ],
+        [
+          "-ла",
+          "ж. р.",
+          "Она была дома."
+        ],
+        [
+          "-ли",
+          "мн. ч.",
+          "Они были дома."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-restoran-a2-gq-2-1",
+          "prompt": "Вчера он ___ дома. (быть)",
+          "answer": "был",
+          "options": [
+            "был",
+            "была",
+            "были"
+          ]
+        },
+        {
+          "id": "remote-restoran-a2-gq-2-2",
+          "prompt": "Вчера она ___ дома. (быть)",
+          "answer": "была",
+          "options": [
+            "была",
+            "был",
+            "было"
+          ]
+        },
+        {
+          "id": "remote-restoran-a2-gq-2-3",
+          "prompt": "Вчера они ___ дома. (быть)",
+          "answer": "были",
+          "options": [
+            "были",
+            "был",
+            "была"
+          ]
+        },
+        {
+          "id": "remote-restoran-a2-gq-2-4",
+          "prompt": "Свяжите с темой: официантка / закуска. Род «официантка»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-restoran-a2-gq-2-5",
+          "prompt": "Свяжите с темой: официантка / закуска. Род «официантка»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-restoran-a2-dict-1",
+        "l2": "Я хотел бы заказать столик на сегодняшний вечер.",
+        "en": "I’d like to book a table for tonight.",
+        "gloss": {
+          "en": "I’d like to book a table for tonight.",
+          "es": "Me gustaría reservar una mesa para esta noche.",
+          "ru": "Я хотел бы забронировать столик на сегодняшний вечер."
+        },
+        "ipa": "jˈa xˈotjel bˈɨ zakˈazatʲ stˈolik nˈa sjeɡodnjˈaʂnij vjetɕjer"
+      },
+      {
+        "id": "remote-restoran-a2-dict-2",
+        "l2": "Счет, пожалуйста.",
+        "en": "The bill, please.",
+        "gloss": {
+          "en": "The bill, please.",
+          "es": "La cuenta, por favor.",
+          "ru": "Счет, пожалуйста."
+        },
+        "ipa": "stɕjet poʐalˈujsta"
+      },
+      {
+        "id": "remote-restoran-a2-dict-3",
+        "l2": "Было очень вкусно, спасибо большое.",
+        "en": "It was delicious, thank you very much.",
+        "gloss": {
+          "en": "It was delicious, thank you very much.",
+          "es": "Quedó delicioso, muchas gracias.",
+          "ru": "Было очень вкусно, спасибо большое."
+        },
+        "ipa": "bˈɨlo ˈotɕjenʲ vkˈusno spasˈibo bˈolʲʂoje"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-restoran-a2-mean-1",
+        "l2": "Входит ли сюда плата за обслуживание ?",
+        "en": "Is service included?",
+        "gloss": {
+          "en": "Is service included?",
+          "es": "¿Está incluido el servicio?",
+          "ru": "Включено ли обслуживание?"
+        }
+      },
+      {
+        "id": "remote-restoran-a2-mean-2",
+        "l2": "У меня аллергия на арахис.",
+        "en": "I am allergic to peanuts.",
+        "gloss": {
+          "en": "I am allergic to peanuts.",
+          "es": "Soy alérgico a los cacahuetes.",
+          "ru": "У меня аллергия на арахис."
+        }
+      },
+      {
+        "id": "remote-restoran-a2-mean-3",
+        "l2": "Какое блюдо посоветуете?",
+        "en": "What main course do you recommend?",
+        "gloss": {
+          "en": "What main course do you recommend?",
+          "es": "¿Qué plato principal me recomiendas?",
+          "ru": "Какое основное блюдо вы порекомендуете?"
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-restoran-a2-fren-1",
+        "l2": "меню",
+        "en": "menu",
+        "gloss": {
+          "en": "menu",
+          "es": "menú",
+          "ru": "меню"
+        }
+      },
+      {
+        "id": "remote-restoran-a2-fren-2",
+        "l2": "закуска",
+        "en": "starter",
+        "gloss": {
+          "en": "starter",
+          "es": "motor de arranque",
+          "ru": "стартер"
+        }
+      },
+      {
+        "id": "remote-restoran-a2-fren-3",
+        "l2": "счет",
+        "en": "bill",
+        "gloss": {
+          "en": "bill",
+          "es": "factura",
+          "ru": "счет"
+        }
+      },
+      {
+        "id": "remote-restoran-a2-fren-4",
+        "l2": "бронирование",
+        "en": "reservation",
+        "gloss": {
+          "en": "reservation",
+          "es": "reserva",
+          "ru": "бронирование"
+        }
+      },
+      {
+        "id": "remote-restoran-a2-fren-5",
+        "l2": "специальность",
+        "en": "specialty",
+        "gloss": {
+          "en": "specialty",
+          "es": "especialidad",
+          "ru": "специальность"
+        }
+      },
+      {
+        "id": "remote-restoran-a2-fren-6",
+        "l2": "официант",
+        "en": "waiter",
+        "gloss": {
+          "en": "waiter",
+          "es": "mesero",
+          "ru": "официант"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-restoran-a2-alou-1",
+        "l2": "Я хотел бы заказать столик на сегодняшний вечер.",
+        "en": "I’d like to book a table for tonight.",
+        "gloss": {
+          "en": "I’d like to book a table for tonight.",
+          "es": "Me gustaría reservar una mesa para esta noche.",
+          "ru": "Я хотел бы забронировать столик на сегодняшний вечер."
+        },
+        "ipa": "jˈa xˈotjel bˈɨ zakˈazatʲ stˈolik nˈa sjeɡodnjˈaʂnij vjetɕjer"
+      },
+      {
+        "id": "remote-restoran-a2-alou-2",
+        "l2": "Могу ли я увидеть меню, пожалуйста?",
+        "en": "May I see the menu, please?",
+        "gloss": {
+          "en": "May I see the menu, please?",
+          "es": "¿Puedo ver el menú, por favor?",
+          "ru": "Могу я посмотреть меню, пожалуйста?"
+        },
+        "ipa": "mˈoɡu lˈi jˈa ˈuvidjetʲ mjenjˈu poʐalˈujsta"
+      },
+      {
+        "id": "remote-restoran-a2-alou-3",
+        "l2": "Фирменное блюдо отличное.",
+        "en": "The house specialty is excellent.",
+        "gloss": {
+          "en": "The house specialty is excellent.",
+          "es": "La especialidad de la casa es excelente.",
+          "ru": "Фирменное блюдо отличное."
+        },
+        "ipa": "fˈirmjennoje bljˈudo otlˈitɕnoje"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-restoran-a2-unsc-1",
+        "l2": "Счет, пожалуйста.",
+        "en": "The bill, please.",
+        "gloss": {
+          "en": "The bill, please.",
+          "es": "La cuenta, por favor.",
+          "ru": "Счет, пожалуйста."
+        },
+        "words": [
+          "Счет,",
+          "пожалуйста."
+        ]
+      },
+      {
+        "id": "remote-restoran-a2-unsc-2",
+        "l2": "Беру формулу дня.",
+        "en": "I’ll have the set menu of the day.",
+        "gloss": {
+          "en": "I’ll have the set menu of the day.",
+          "es": "Tendré el menú fijo del día.",
+          "ru": "У меня будет комплексное меню на день."
+        },
+        "words": [
+          "Беру",
+          "формулу",
+          "дня."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-restoran-a2-sign-1",
+        "l2": "бронировать",
+        "en": "reserved",
+        "gloss": {
+          "en": "reserved",
+          "es": "reservado",
+          "ru": "сдержанный"
+        },
+        "hint": "табличка/бронирование столика"
+      },
+      {
+        "id": "remote-restoran-a2-sign-2",
+        "l2": "ферма",
+        "en": "closed",
+        "gloss": {
+          "en": "closed",
+          "es": "cerrado",
+          "ru": "закрыто"
+        },
+        "hint": "табличка на дверь ресторана"
+      }
+    ]
+  },
+  "sounds": []
+}

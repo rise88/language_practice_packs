@@ -1,0 +1,864 @@
+{
+  "pratiquePack": 2,
+  "id": "pravo-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "ru",
+  "title": {
+    "fr": "Droit et justice B2 (RU)",
+    "en": "Law and justice B2 (RU)",
+    "es": "Ley y justicia B2 (RU)",
+    "ru": "Закон и справедливость B2"
+  },
+  "description": {
+    "fr": "Procès, droits, avocats, verdicts et législation — pack russe.",
+    "en": "Trials, rights, lawyers, verdicts, and legislation — Russian pack.",
+    "es": "Juicios, derechos, abogados, sentencias y legislación — paquete ruso.",
+    "ru": "Суды, права, адвокаты, приговоры и законодательство — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-pravo-b2-1",
+      "l2": "пробный",
+      "en": "trial",
+      "gloss": {
+        "en": "trial",
+        "es": "ensayo",
+        "ru": "пробный"
+      },
+      "example": "Суд длился три недели, однако приговора ждали до последнего дня.",
+      "ipa": "prˈobnɨj",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-2",
+      "l2": "адвокат",
+      "en": "lawyer",
+      "gloss": {
+        "en": "lawyer",
+        "es": "abogado",
+        "ru": "адвокат"
+      },
+      "example": "Адвокат запросил время для изучения новых документов.",
+      "ipa": "advˈokat",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-3",
+      "l2": "приговор",
+      "en": "verdict",
+      "gloss": {
+        "en": "verdict",
+        "es": "veredicto",
+        "ru": "приговор"
+      },
+      "example": "Оправдательный приговор удивил часть общественного мнения.",
+      "ipa": "priɡˈovor",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-4",
+      "l2": "законодательство",
+      "en": "legislation",
+      "gloss": {
+        "en": "legislation",
+        "es": "legislación",
+        "ru": "законодательство"
+      },
+      "example": "Этот закон теперь регулирует право на справедливое судебное разбирательство.",
+      "ipa": "zakonodˈatjelʲstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-pravo-b2-5",
+      "l2": "право",
+      "en": "right / law",
+      "gloss": {
+        "en": "right / law",
+        "es": "derecho / ley",
+        "ru": "право / закон"
+      },
+      "example": "Это фундаментальное право может быть ограничено только при строго определенных условиях.",
+      "ipa": "prˈavo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-pravo-b2-6",
+      "l2": "ответчик",
+      "en": "defendant",
+      "gloss": {
+        "en": "defendant",
+        "es": "acusado",
+        "ru": "ответчик"
+      },
+      "example": "Обвиняемый отрицал факты, хотя несколько свидетелей это признали.",
+      "ipa": "ˈotvjettɕik",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-7",
+      "l2": "свидетель",
+      "en": "witness",
+      "gloss": {
+        "en": "witness",
+        "es": "testigo",
+        "ru": "свидетель"
+      },
+      "example": "Свидетель колебался, однако суд счел его показания последовательными.",
+      "ipa": "svˈidjetjelʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-8",
+      "l2": "слушание",
+      "en": "hearing / court session",
+      "gloss": {
+        "en": "hearing / court session",
+        "es": "audiencia / sesión judicial",
+        "ru": "слушание/судебное заседание"
+      },
+      "example": "Слушание было отложено, чтобы защита могла ознакомиться с материалами дела.",
+      "ipa": "sluʂˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-pravo-b2-9",
+      "l2": "прецедентное право",
+      "en": "case law",
+      "gloss": {
+        "en": "case law",
+        "es": "jurisprudencia",
+        "ru": "прецедентное право"
+      },
+      "example": "Недавнее прецедентное право направляет суды к более гибкому толкованию.",
+      "ipa": "prjetsjedjentnoje prˈavo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-pravo-b2-10",
+      "l2": "обида",
+      "en": "offence / offense",
+      "gloss": {
+        "en": "offence / offense",
+        "es": "ofensa / ofensa",
+        "ru": "обида / обида"
+      },
+      "example": "Предполагаемое правонарушение не было достаточно серьезным, чтобы оправдать суровый приговор.",
+      "ipa": "obˈida",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pravo-b2-11",
+      "l2": "приговор",
+      "en": "sentence / penalty",
+      "gloss": {
+        "en": "sentence / penalty",
+        "es": "sentencia / pena",
+        "ru": "приговор / наказание"
+      },
+      "example": "Вынесенный приговор некоторые ученые-юристы сочли несоразмерным.",
+      "ipa": "priɡˈovor",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-12",
+      "l2": "конституция",
+      "en": "constitution",
+      "gloss": {
+        "en": "constitution",
+        "es": "constitución",
+        "ru": "конституция"
+      },
+      "example": "Конституция гарантирует презумпцию невиновности до вынесения окончательного приговора.",
+      "ipa": "konstitutsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pravo-b2-13",
+      "l2": "суд",
+      "en": "court",
+      "gloss": {
+        "en": "court",
+        "es": "corte",
+        "ru": "суд"
+      },
+      "example": "Суд заслушал устные аргументы, прежде чем удалиться для совещаний.",
+      "ipa": "sˈud",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-14",
+      "l2": "заключительный аргумент",
+      "en": "closing argument",
+      "gloss": {
+        "en": "closing argument",
+        "es": "argumento final",
+        "ru": "заключительный аргумент"
+      },
+      "example": "Его аргументы поставили под сомнение достоверность доказательств, представленных обвинением.",
+      "ipa": "zakljutɕitjelʲnɨj ˈarɡumjent",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-15",
+      "l2": "заряжать",
+      "en": "charge",
+      "gloss": {
+        "en": "charge",
+        "es": "cargar",
+        "ru": "заряжать"
+      },
+      "example": "Основная нагрузка ложится на запись, подлинность которой оспаривается.",
+      "ipa": "zarjˈaʐatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-16",
+      "l2": "оправдание",
+      "en": "acquittal",
+      "gloss": {
+        "en": "acquittal",
+        "es": "absolución",
+        "ru": "оправдание"
+      },
+      "example": "Оправдание означает лишь отсутствие доказательств на суде.",
+      "ipa": "opravdˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-pravo-b2-17",
+      "l2": "обращаться",
+      "en": "appeal",
+      "gloss": {
+        "en": "appeal",
+        "es": "apelar",
+        "ru": "обращаться"
+      },
+      "example": "Апелляция была подана на следующий день после вынесения решения первой инстанции.",
+      "ipa": "obraɕːˈatʲsja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pravo-b2-18",
+      "l2": "справедливость",
+      "en": "justice",
+      "gloss": {
+        "en": "justice",
+        "es": "justicia",
+        "ru": "справедливость"
+      },
+      "example": "Доступ к правосудию остается неравным в зависимости от ресурсов сторон.",
+      "ipa": "spravjedlˈivostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-19",
+      "l2": "вызов",
+      "en": "summons",
+      "gloss": {
+        "en": "summons",
+        "es": "citación",
+        "ru": "вызов"
+      },
+      "example": "Повестка была выдана, однако обвиняемый не явился.",
+      "ipa": "vˈɨzov",
+      "article": "м"
+    },
+    {
+      "id": "remote-pravo-b2-20",
+      "l2": "ответственность",
+      "en": "liability / responsibility",
+      "gloss": {
+        "en": "liability / responsibility",
+        "es": "responsabilidad / responsabilidad",
+        "ru": "ответственность / ответственность"
+      },
+      "example": "Гражданская ответственность поставщика услуг была сохранена, несмотря на его отказы.",
+      "ipa": "ˈotvjetstvjennostʲ",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-pravo-b2-phrase-1",
+      "l2": "Крайне важно, чтобы обвиняемый имел возможность защитить себя в справедливых условиях.",
+      "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+      "gloss": {
+        "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+        "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+        "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+      },
+      "ipa": "krˈajnje vˈaʐno tɕtˈobɨ obvinjˈajemɨj ˈimjel vozmˈoʐnostʲ zaɕːˈititʲ sjebjˈa v spravjedlˈivɨx uslovˈijax"
+    },
+    {
+      "id": "remote-pravo-b2-phrase-2",
+      "l2": "Несмотря на тяжесть обвинений, презумпция невиновности остается правилом.",
+      "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+      "gloss": {
+        "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+        "es": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+        "ru": "Хотя обвинения серьезны, презумпция невиновности остается правилом."
+      },
+      "ipa": "njesmˈotrja nˈa tjˈaʐjestʲ obvˈinjenij prjezumptsˈija njevinovnˈosti ostˈajetsja pravˈilom"
+    },
+    {
+      "id": "remote-pravo-b2-phrase-3",
+      "l2": "Если бы свидетель заговорил раньше, приговор мог бы быть другим.",
+      "en": "If the witness had spoken earlier, the verdict might have been different.",
+      "gloss": {
+        "en": "If the witness had spoken earlier, the verdict might have been different.",
+        "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+        "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+      },
+      "ipa": "jeslˈi bˈɨ svˈidjetjelʲ zaɡovˈoril rˈanʲʂje priɡˈovor mˈoɡ bˈɨ bˈɨtʲ drˈuɡim"
+    },
+    {
+      "id": "remote-pravo-b2-phrase-4",
+      "l2": "Адвокат просил отсрочки, однако суд продолжил заседание.",
+      "en": "The lawyer asked for more time; nevertheless the court kept the hearing.",
+      "gloss": {
+        "en": "The lawyer asked for more time; nevertheless the court kept the hearing.",
+        "es": "El abogado pidió más tiempo; sin embargo, el tribunal mantuvo la audiencia.",
+        "ru": "Адвокат попросил больше времени; тем не менее суд продолжил слушание."
+      },
+      "ipa": "advˈokat prˈosil otsrˈotɕki odnˈako sˈud prodˈolʐil zasjedˈanije"
+    },
+    {
+      "id": "remote-pravo-b2-phrase-5",
+      "l2": "Можно возразить, что законодательство развивается быстрее, чем прецедентное право.",
+      "en": "One might object that legislation is evolving faster than case law.",
+      "gloss": {
+        "en": "One might object that legislation is evolving faster than case law.",
+        "es": "Se podría objetar que la legislación está evolucionando más rápidamente que la jurisprudencia.",
+        "ru": "Можно возразить, что законодательство развивается быстрее, чем прецедентное право."
+      },
+      "ipa": "mˈoʐno vozrˈazitʲ tɕtˈo zakonodˈatjelʲstvo razvivˈajetsja bˈɨstrjeje tɕjem prjetsjedjentnˈoje prˈavo"
+    },
+    {
+      "id": "remote-pravo-b2-phrase-6",
+      "l2": "Чтобы судебный процесс оставался справедливым, защита должна быть ознакомлена с каждым доказательством.",
+      "en": "So that the trial remains fair, every exhibit must be disclosed to the defence.",
+      "gloss": {
+        "en": "So that the trial remains fair, every exhibit must be disclosed to the defence.",
+        "es": "Para que el juicio siga siendo justo, todas las pruebas deben ser comunicadas a la defensa.",
+        "ru": "Чтобы суд оставался справедливым, защите необходимо предоставить все улики."
+      },
+      "ipa": "tɕtˈobɨ sˈudjebnɨj prˈotsjess ostavˈalsja spravjedlˈivɨm zaɕːˈita dˈolʐna bˈɨtʲ oznakˈomljena s kˈaʐdɨm dokazˈatjelʲstvom"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-pravo-b2-listen-1",
+      "l2": "Адвокат попросил дать ему больше времени на ознакомление с материалами дела.",
+      "en": "The defence lawyer asked for time to examine the file.",
+      "gloss": {
+        "en": "The defence lawyer asked for time to examine the file.",
+        "es": "El abogado defensor pidió tiempo para examinar el expediente.",
+        "ru": "Адвокат защиты попросил время для ознакомления с материалами дела."
+      },
+      "word": "адвокат",
+      "wordEn": "lawyer",
+      "wordGloss": {
+        "en": "lawyer",
+        "es": "abogado",
+        "ru": "адвокат"
+      },
+      "wordIpa": "advˈokat",
+      "distractors": [
+        "ответчик",
+        "свидетель",
+        "суд"
+      ]
+    },
+    {
+      "id": "remote-pravo-b2-listen-2",
+      "l2": "Оправдательный приговор удивил часть общественности.",
+      "en": "The acquittal verdict surprised part of public opinion.",
+      "gloss": {
+        "en": "The acquittal verdict surprised part of public opinion.",
+        "es": "La sentencia absolutoria sorprendió a parte de la opinión pública.",
+        "ru": "Оправдательный приговор удивил часть общественного мнения."
+      },
+      "word": "приговор",
+      "wordEn": "verdict",
+      "wordGloss": {
+        "en": "verdict",
+        "es": "veredicto",
+        "ru": "приговор"
+      },
+      "wordIpa": "priɡˈovor",
+      "distractors": [
+        "обращаться",
+        "заключительный аргумент",
+        "пробный"
+      ]
+    },
+    {
+      "id": "remote-pravo-b2-listen-3",
+      "l2": "Недавнее прецедентное право направляет суды к более гибкому толкованию.",
+      "en": "Recent case law is steering the courts towards a more flexible interpretation.",
+      "gloss": {
+        "en": "Recent case law is steering the courts towards a more flexible interpretation.",
+        "es": "La jurisprudencia reciente está llevando a los tribunales hacia una interpretación más flexible.",
+        "ru": "Недавнее прецедентное право подталкивает суды к более гибкому толкованию."
+      },
+      "word": "прецедентное право",
+      "wordEn": "case law",
+      "wordGloss": {
+        "en": "case law",
+        "es": "jurisprudencia",
+        "ru": "прецедентное право"
+      },
+      "wordIpa": "prjetsjedjentnoje prˈavo",
+      "distractors": [
+        "законодательство",
+        "конституция",
+        "справедливость"
+      ]
+    },
+    {
+      "id": "remote-pravo-b2-listen-4",
+      "l2": "Слушание было отложено, чтобы защита могла ознакомиться с материалами дела.",
+      "en": "The hearing was postponed so that the defence could consult the file.",
+      "gloss": {
+        "en": "The hearing was postponed so that the defence could consult the file.",
+        "es": "La audiencia fue postergada para que la defensa pudiera consultar el expediente.",
+        "ru": "Слушание было отложено, чтобы защита могла ознакомиться с материалами дела."
+      },
+      "word": "слушание",
+      "wordEn": "hearing",
+      "wordGloss": {
+        "en": "hearing",
+        "es": "audiencia",
+        "ru": "слушание"
+      },
+      "wordIpa": "sluʂˈanije",
+      "distractors": [
+        "вызов",
+        "обида",
+        "заряжать"
+      ]
+    }
+  ],
+  "prompts": [
+    "Достаточно ли соблюдается презумпция невиновности? Обоснуйте свое мнение.",
+    "Сравнивается роль адвоката и суда в судебном процессе.",
+    "По вашему мнению, действительно ли суровый приговор предотвращает преступления?",
+    "Если бы вы могли реформировать один пункт законодательства, какой бы вы выбрали и почему?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-pravo-b2-grammar-1",
+      "title": {
+        "fr": "Instrumental (кем / чем)",
+        "en": "Instrumental case (кем / чем)",
+        "es": "Caso instrumental (кем / чем)",
+        "ru": "Творительный падеж (кем / чем)"
+      },
+      "rule": {
+        "fr": "Творительный marque le moyen, l’accompagnement ou le prédicat (стать врачом).",
+        "en": "Instrumental marks means, company, or predicate nouns (стать врачом).",
+        "es": "El instrumental marca medio, compañía o predicado (стать врачом).",
+        "ru": "Творительный обозначает средство, совместность или предикатив (стать врачом)."
+      },
+      "why": {
+        "en": "Needed for professions, tools, and «with».",
+        "es": "Necesario para profesiones, herramientas y «con».",
+        "ru": "Нужен для профессий, инструментов и значения «с»."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "чем",
+          "средство",
+          "Пишу ручкой / говорю о адвокат."
+        ],
+        [
+          "кем",
+          "профессия",
+          "Он стал врачом."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-pravo-b2-gq-1-1",
+          "prompt": "Стать врачом — ___ падеж.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "родительный",
+            "винительный"
+          ]
+        },
+        {
+          "id": "remote-pravo-b2-gq-1-2",
+          "prompt": "Я пишу ___ . (карандаш)",
+          "answer": "карандашом",
+          "options": [
+            "карандашом",
+            "карандаш",
+            "карандаша"
+          ]
+        },
+        {
+          "id": "remote-pravo-b2-gq-1-3",
+          "prompt": "Тема «адвокат» часто требует предложных конструкций.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "именительный",
+            "звательный"
+          ]
+        },
+        {
+          "id": "remote-pravo-b2-gq-1-4",
+          "prompt": "Свяжите с темой: адвокат / право. Род «адвокат»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-pravo-b2-gq-1-5",
+          "prompt": "Свяжите с темой: адвокат / право. Род «адвокат»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-pravo-b2-grammar-2",
+      "title": {
+        "fr": "Aspect perfectif / imperfectif",
+        "en": "Perfective / imperfective aspect",
+        "es": "Aspecto perfectivo / imperfectivo",
+        "ru": "Вид глагола: совершенный / несовершенный"
+      },
+      "rule": {
+        "fr": "Imperfectif = processus / habitude ; perfectif = résultat achevé.",
+        "en": "Imperfective = process / habit; perfective = completed result.",
+        "es": "Imperfectivo = proceso / hábito; perfectivo = resultado terminado.",
+        "ru": "Несовершенный — процесс / привычка; совершенный — завершённый результат."
+      },
+      "why": {
+        "en": "Aspect is central to natural Russian storytelling.",
+        "es": "El aspecto es central en la narración rusa natural.",
+        "ru": "Вид — ключ к естественному русскому рассказу."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "НСВ",
+          "процесс / привычка",
+          "Я читал книгу час."
+        ],
+        [
+          "СВ",
+          "результат",
+          "Я прочитал книгу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-pravo-b2-gq-2-1",
+          "prompt": "Результат: я ___ книгу. (прочитать)",
+          "answer": "прочитал",
+          "options": [
+            "прочитал",
+            "читал",
+            "буду читать"
+          ]
+        },
+        {
+          "id": "remote-pravo-b2-gq-2-2",
+          "prompt": "Процесс: я долго ___ . (читать)",
+          "answer": "читал",
+          "options": [
+            "читал",
+            "прочитал",
+            "прочту"
+          ]
+        },
+        {
+          "id": "remote-pravo-b2-gq-2-3",
+          "prompt": "Привычка обычно выражается ___ видом.",
+          "answer": "несовершенным",
+          "options": [
+            "несовершенным",
+            "совершенным",
+            "будущим"
+          ]
+        },
+        {
+          "id": "remote-pravo-b2-gq-2-4",
+          "prompt": "Свяжите с темой: приговор / ответчик. Род «приговор»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-pravo-b2-gq-2-5",
+          "prompt": "Свяжите с темой: приговор / ответчик. Род «приговор»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-pravo-b2-dict-1",
+        "l2": "Крайне важно, чтобы обвиняемый имел возможность защитить себя в справедливых условиях.",
+        "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+        "gloss": {
+          "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+          "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+          "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+        },
+        "ipa": "krˈajnje vˈaʐno tɕtˈobɨ obvinjˈajemɨj ˈimjel vozmˈoʐnostʲ zaɕːˈititʲ sjebjˈa v spravjedlˈivɨx uslovˈijax"
+      },
+      {
+        "id": "remote-pravo-b2-dict-2",
+        "l2": "Несмотря на тяжесть обвинений, презумпция невиновности остается правилом.",
+        "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+        "gloss": {
+          "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+          "es": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+          "ru": "Хотя обвинения серьезны, презумпция невиновности остается правилом."
+        },
+        "ipa": "njesmˈotrja nˈa tjˈaʐjestʲ obvˈinjenij prjezumptsˈija njevinovnˈosti ostˈajetsja pravˈilom"
+      },
+      {
+        "id": "remote-pravo-b2-dict-3",
+        "l2": "Если бы свидетель заговорил раньше, приговор мог бы быть другим.",
+        "en": "If the witness had spoken earlier, the verdict might have been different.",
+        "gloss": {
+          "en": "If the witness had spoken earlier, the verdict might have been different.",
+          "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+          "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+        },
+        "ipa": "jeslˈi bˈɨ svˈidjetjelʲ zaɡovˈoril rˈanʲʂje priɡˈovor mˈoɡ bˈɨ bˈɨtʲ drˈuɡim"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-pravo-b2-mean-1",
+        "l2": "Крайне важно, чтобы обвиняемый имел возможность защитить себя в справедливых условиях.",
+        "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+        "gloss": {
+          "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+          "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+          "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+        }
+      },
+      {
+        "id": "remote-pravo-b2-mean-2",
+        "l2": "Несмотря на тяжесть обвинений, презумпция невиновности остается правилом.",
+        "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+        "gloss": {
+          "en": "Although the charges are serious, the presumption of innocence remains the rule.",
+          "es": "Aunque los cargos son graves, la presunción de inocencia sigue siendo la regla.",
+          "ru": "Хотя обвинения серьезны, презумпция невиновности остается правилом."
+        }
+      },
+      {
+        "id": "remote-pravo-b2-mean-3",
+        "l2": "Если бы свидетель заговорил раньше, приговор мог бы быть другим.",
+        "en": "If the witness had spoken earlier, the verdict might have been different.",
+        "gloss": {
+          "en": "If the witness had spoken earlier, the verdict might have been different.",
+          "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+          "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-pravo-b2-fren-1",
+        "l2": "пробный",
+        "en": "trial",
+        "gloss": {
+          "en": "trial",
+          "es": "ensayo",
+          "ru": "пробный"
+        }
+      },
+      {
+        "id": "remote-pravo-b2-fren-2",
+        "l2": "адвокат",
+        "en": "lawyer",
+        "gloss": {
+          "en": "lawyer",
+          "es": "abogado",
+          "ru": "адвокат"
+        }
+      },
+      {
+        "id": "remote-pravo-b2-fren-3",
+        "l2": "приговор",
+        "en": "verdict",
+        "gloss": {
+          "en": "verdict",
+          "es": "veredicto",
+          "ru": "приговор"
+        }
+      },
+      {
+        "id": "remote-pravo-b2-fren-4",
+        "l2": "законодательство",
+        "en": "legislation",
+        "gloss": {
+          "en": "legislation",
+          "es": "legislación",
+          "ru": "законодательство"
+        }
+      },
+      {
+        "id": "remote-pravo-b2-fren-5",
+        "l2": "право",
+        "en": "right",
+        "gloss": {
+          "en": "right",
+          "es": "bien",
+          "ru": "верно"
+        }
+      },
+      {
+        "id": "remote-pravo-b2-fren-6",
+        "l2": "ответчик",
+        "en": "defendant",
+        "gloss": {
+          "en": "defendant",
+          "es": "acusado",
+          "ru": "ответчик"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-pravo-b2-alou-1",
+        "l2": "Крайне важно, чтобы обвиняемый имел возможность защитить себя в справедливых условиях.",
+        "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+        "gloss": {
+          "en": "It is essential that the defendant be able to defend themselves under fair conditions.",
+          "es": "Es fundamental que el acusado pueda defenderse en condiciones justas.",
+          "ru": "Крайне важно, чтобы ответчик имел возможность защитить себя на справедливых условиях."
+        },
+        "ipa": "krˈajnje vˈaʐno tɕtˈobɨ obvinjˈajemɨj ˈimjel vozmˈoʐnostʲ zaɕːˈititʲ sjebjˈa v spravjedlˈivɨx uslovˈijax"
+      },
+      {
+        "id": "remote-pravo-b2-alou-2",
+        "l2": "Если бы свидетель заговорил раньше, приговор мог бы быть другим.",
+        "en": "If the witness had spoken earlier, the verdict might have been different.",
+        "gloss": {
+          "en": "If the witness had spoken earlier, the verdict might have been different.",
+          "es": "Si el testigo hubiera hablado antes, el veredicto podría haber sido diferente.",
+          "ru": "Если бы свидетель высказался раньше, приговор мог бы быть другим."
+        },
+        "ipa": "jeslˈi bˈɨ svˈidjetjelʲ zaɡovˈoril rˈanʲʂje priɡˈovor mˈoɡ bˈɨ bˈɨtʲ drˈuɡim"
+      },
+      {
+        "id": "remote-pravo-b2-alou-3",
+        "l2": "Можно возразить, что законодательство развивается быстрее, чем прецедентное право.",
+        "en": "One might object that legislation is evolving faster than case law.",
+        "gloss": {
+          "en": "One might object that legislation is evolving faster than case law.",
+          "es": "Se podría objetar que la legislación está evolucionando más rápidamente que la jurisprudencia.",
+          "ru": "Можно возразить, что законодательство развивается быстрее, чем прецедентное право."
+        },
+        "ipa": "mˈoʐno vozrˈazitʲ tɕtˈo zakonodˈatjelʲstvo razvivˈajetsja bˈɨstrjeje tɕjem prjetsjedjentnˈoje prˈavo"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-pravo-b2-unsc-1",
+        "l2": "Адвокат запросил время для изучения новых документов.",
+        "en": "The defence lawyer asked for more time in order to examine new exhibits.",
+        "gloss": {
+          "en": "The defence lawyer asked for more time in order to examine new exhibits.",
+          "es": "El abogado defensor pidió más tiempo para examinar nuevas pruebas.",
+          "ru": "Адвокат просил предоставить ему больше времени для осмотра новых вещественных доказательств."
+        },
+        "words": [
+          "Адвокат",
+          "запросил",
+          "время",
+          "для",
+          "изучения",
+          "новых",
+          "документов."
+        ]
+      },
+      {
+        "id": "remote-pravo-b2-unsc-2",
+        "l2": "Апелляция была подана на следующий день после вынесения решения первой инстанции.",
+        "en": "An appeal was lodged the very next day after the first-instance judgment.",
+        "gloss": {
+          "en": "An appeal was lodged the very next day after the first-instance judgment.",
+          "es": "Se interpuso recurso de apelación al día siguiente de la sentencia de primera instancia.",
+          "ru": "Апелляция была подана уже на следующий день после вынесения решения первой инстанции."
+        },
+        "words": [
+          "Апелляция",
+          "была",
+          "подана",
+          "на",
+          "следующий",
+          "день",
+          "после",
+          "вынесения",
+          "решения",
+          "первой",
+          "инстанции."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-pravo-b2-sign-1",
+        "l2": "здание суда",
+        "en": "courthouse",
+        "gloss": {
+          "en": "courthouse",
+          "es": "palacio de justicia",
+          "ru": "здание суда"
+        },
+        "hint": "колонны, весы правосудия"
+      },
+      {
+        "id": "remote-pravo-b2-sign-2",
+        "l2": "зал суда",
+        "en": "courtroom",
+        "gloss": {
+          "en": "courtroom",
+          "es": "sala de justicia",
+          "ru": "зал суда"
+        },
+        "hint": "судья, коллегии, адвокаты"
+      }
+    ]
+  },
+  "sounds": []
+}

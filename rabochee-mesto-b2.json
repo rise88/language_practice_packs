@@ -1,0 +1,836 @@
+{
+  "pratiquePack": 2,
+  "id": "rabochee-mesto-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "ru",
+  "title": {
+    "fr": "Vie professionnelle B2 (RU)",
+    "en": "Workplace B2 (RU)",
+    "es": "Lugar de trabajo B2 (RU)",
+    "ru": "Рабочее место Б2"
+  },
+  "description": {
+    "fr": "Réunions, carrière, hiérarchie, télétravail et évaluation de la performance — pack russe.",
+    "en": "Meetings, career, hierarchy, remote work, and performance reviews — Russian pack.",
+    "es": "Reuniones, carrera, jerarquía, trabajo remoto y evaluaciones de desempeño — paquete ruso.",
+    "ru": "Встречи, карьера, иерархия, удаленная работа и обзоры производительности — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-rabochee-mesto-b2-1",
+      "l2": "иерархия",
+      "en": "hierarchy",
+      "gloss": {
+        "en": "hierarchy",
+        "es": "jerarquía",
+        "ru": "иерархия"
+      },
+      "example": "Хотя иерархия ясна, команды общаются без излишней формальности.",
+      "ipa": "ijerarxˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-2",
+      "l2": "удаленная работа",
+      "en": "remote work",
+      "gloss": {
+        "en": "remote work",
+        "es": "trabajo remoto",
+        "ru": "удаленная работа"
+      },
+      "example": "Телеработа переопределила границу между частной и профессиональной жизнью.",
+      "ipa": "udaljennaja rabˈota",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-3",
+      "l2": "обзор производительности",
+      "en": "performance review",
+      "gloss": {
+        "en": "performance review",
+        "es": "revisión de desempeño",
+        "ru": "обзор производительности"
+      },
+      "example": "Ежегодная оценка выявила навыки, которые все еще недостаточно используются.",
+      "ipa": "obzor proizvoditjelʲnˈosti",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-4",
+      "l2": "карьера",
+      "en": "career",
+      "gloss": {
+        "en": "career",
+        "es": "carrera",
+        "ru": "карьера"
+      },
+      "example": "Она переориентировала свою карьеру, чтобы получить больше обязанностей.",
+      "ipa": "kˈarʲjera",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-5",
+      "l2": "повышение",
+      "en": "promotion",
+      "gloss": {
+        "en": "promotion",
+        "es": "promoción",
+        "ru": "повышение"
+      },
+      "example": "Он бы получил повышение, если бы лучше защищал свой рекорд.",
+      "ipa": "povˈɨʂjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-6",
+      "l2": "линейный менеджер",
+      "en": "line manager",
+      "gloss": {
+        "en": "line manager",
+        "es": "gerente de línea",
+        "ru": "линейный менеджер"
+      },
+      "example": "Мой руководитель требует отчета после каждого совещания.",
+      "ipa": "lˈinjejnɨj mjenjedʐjer",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-7",
+      "l2": "цель",
+      "en": "objective / goal",
+      "gloss": {
+        "en": "objective / goal",
+        "es": "objetivo / meta",
+        "ru": "цель / цель"
+      },
+      "example": "Мы не достигнем квартальной цели, если не пересмотрим приоритеты.",
+      "ipa": "tsjelʲ",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-8",
+      "l2": "производительность",
+      "en": "productivity",
+      "gloss": {
+        "en": "productivity",
+        "es": "productividad",
+        "ru": "производительность"
+      },
+      "example": "Производительность упала, однако качество работы остается замечательным.",
+      "ipa": "proizvodˈitjelʲnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-9",
+      "l2": "делегация",
+      "en": "delegation",
+      "gloss": {
+        "en": "delegation",
+        "es": "delegación",
+        "ru": "делегация"
+      },
+      "example": "Четкое делегирование задач позволяет избежать перегрузки и недоразумений.",
+      "ipa": "djeljeɡatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-10",
+      "l2": "перегрузка рабочей нагрузкой",
+      "en": "workload overload",
+      "gloss": {
+        "en": "workload overload",
+        "es": "sobrecarga de carga de trabajo",
+        "ru": "перегрузка рабочей нагрузкой"
+      },
+      "example": "Перегрузка на работе снижает концентрацию даже у самых мотивированных людей.",
+      "ipa": "pjerjeɡruzka rabotɕjej naɡrˈuzkoj",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-11",
+      "l2": "умение",
+      "en": "skill / competency",
+      "gloss": {
+        "en": "skill / competency",
+        "es": "habilidad / competencia",
+        "ru": "умение/компетентность"
+      },
+      "example": "Этот технический навык становится важным по мере роста команды.",
+      "ipa": "ˈumjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-12",
+      "l2": "крайний срок",
+      "en": "deadline",
+      "gloss": {
+        "en": "deadline",
+        "es": "fecha límite",
+        "ru": "крайний срок"
+      },
+      "example": "Сроки приближаются, однако корректировать график еще можно.",
+      "ipa": "krajnˈij srok",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-13",
+      "l2": "увольнение",
+      "en": "layoff / dismissal",
+      "gloss": {
+        "en": "layoff / dismissal",
+        "es": "despido / despido",
+        "ru": "увольнение / увольнение"
+      },
+      "example": "О сокращении экономики было объявлено после нескольких убыточных кварталов.",
+      "ipa": "uvˈolʲnjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-14",
+      "l2": "обучение",
+      "en": "training",
+      "gloss": {
+        "en": "training",
+        "es": "capacitación",
+        "ru": "обучение"
+      },
+      "example": "Постоянное обучение помогает командам адаптироваться к новым цифровым инструментам.",
+      "ipa": "obˈutɕjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-15",
+      "l2": "организационная структура",
+      "en": "organization chart",
+      "gloss": {
+        "en": "organization chart",
+        "es": "organigrama",
+        "ru": "организационная структура"
+      },
+      "example": "Организационная структура плохо отражает реальное сотрудничество между различными службами.",
+      "ipa": "orɡanizatsionnaja struktˈura",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-16",
+      "l2": "консультация",
+      "en": "consultation",
+      "gloss": {
+        "en": "consultation",
+        "es": "consulta",
+        "ru": "консультация"
+      },
+      "example": "После консультации с представителями руководство смягчило график.",
+      "ipa": "konsulʲtatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-17",
+      "l2": "оплата",
+      "en": "pay / compensation",
+      "gloss": {
+        "en": "pay / compensation",
+        "es": "pago / compensación",
+        "ru": "оплата/компенсация"
+      },
+      "example": "Переменное вознаграждение теперь зависит от коллективных результатов команды.",
+      "ipa": "oplˈata",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-18",
+      "l2": "оценка",
+      "en": "appraisal / review",
+      "gloss": {
+        "en": "appraisal / review",
+        "es": "tasación / revisión",
+        "ru": "оценка / обзор"
+      },
+      "example": "Оценка навыков выявила острую необходимость в целевом обучении.",
+      "ipa": "ˈotsjenka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-19",
+      "l2": "подрядчик",
+      "en": "contractor / provider",
+      "gloss": {
+        "en": "contractor / provider",
+        "es": "contratista / proveedor",
+        "ru": "подрядчик/поставщик"
+      },
+      "example": "Поставщик услуг предоставит отчет до срока, установленного комитетом.",
+      "ipa": "podrjˈadtɕik",
+      "article": "м"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-20",
+      "l2": "автономия",
+      "en": "autonomy",
+      "gloss": {
+        "en": "autonomy",
+        "es": "autonomía",
+        "ru": "автономия"
+      },
+      "example": "Однако возросшая автономия требует более строгого ежедневного общения.",
+      "ipa": "avtonomˈija",
+      "article": "ж"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-rabochee-mesto-b2-phrase-1",
+      "l2": "Протокол должен быть отправлен до начала заседания.",
+      "en": "The minutes should be sent before the meeting.",
+      "gloss": {
+        "en": "The minutes should be sent before the meeting.",
+        "es": "El acta deberá enviarse antes de la reunión.",
+        "ru": "Протокол должен быть отправлен до начала заседания."
+      },
+      "ipa": "protˈokol dˈolʐjen bˈɨtʲ ˈotpravljen dˈo natɕˈala zasjedanˈija"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-phrase-2",
+      "l2": "Я работаю удаленно три дня в неделю, но остаюсь на связи.",
+      "en": "I work remotely three days a week; nevertheless I remain reachable.",
+      "gloss": {
+        "en": "I work remotely three days a week; nevertheless I remain reachable.",
+        "es": "Trabajo de forma remota tres días a la semana; sin embargo sigo siendo accesible.",
+        "ru": "Я работаю удаленно три дня в неделю; тем не менее я остаюсь доступным."
+      },
+      "ipa": "jˈa rabotˈaju udˈaljenno trˈi dnjˈa v njedjeljˈu nˈo ostˈajusʲ nˈa svjˈazi"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-phrase-3",
+      "l2": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график.",
+      "en": "If I had more autonomy, I would completely reorganize my schedule.",
+      "gloss": {
+        "en": "If I had more autonomy, I would completely reorganize my schedule.",
+        "es": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+        "ru": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график."
+      },
+      "ipa": "jeslˈi bˈɨ ˈu mjenjˈa bˈɨlo bˈolʲʂje avtonomˈii jˈa bˈɨ polnˈostʲju rjeorɡanizˈoval svˈoj"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-phrase-4",
+      "l2": "Несмотря на то, что иерархия является формальной, вы можете оспорить решение, если приведёте аргументы.",
+      "en": "Although the hierarchy is formal, you can challenge a decision provided you make a case.",
+      "gloss": {
+        "en": "Although the hierarchy is formal, you can challenge a decision provided you make a case.",
+        "es": "Aunque la jerarquía es formal, usted puede impugnar una decisión siempre que presente un caso.",
+        "ru": "Несмотря на то, что иерархия является формальной, вы можете оспорить решение, если подготовите доводы."
+      },
+      "ipa": "njesmˈotrja nˈa tˈo tɕtˈo ijerarxˈija javljˈajetsja formˈalʲnoj vˈɨ mˈoʐjetje ospˈoritʲ rjeʂjenˈije jeslˈi"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-phrase-5",
+      "l2": "Не могли бы вы уточнить цель, чтобы команда могла подготовиться?",
+      "en": "Could you clarify the objective so that the team can prepare?",
+      "gloss": {
+        "en": "Could you clarify the objective so that the team can prepare?",
+        "es": "¿Podrías aclarar el objetivo para que el equipo pueda prepararse?",
+        "ru": "Не могли бы вы уточнить цель, чтобы команда могла подготовиться?"
+      },
+      "ipa": "nje mˈoɡli bˈɨ vˈɨ utˈotɕnitʲ tsjelʲ tɕtˈobɨ komˈanda mˈoɡla podɡotovˈitʲsja"
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-phrase-6",
+      "l2": "Я запросил обучение, однако руководство еще не ответило.",
+      "en": "I requested training; however management has not replied yet.",
+      "gloss": {
+        "en": "I requested training; however management has not replied yet.",
+        "es": "Solicité capacitación; sin embargo, la gerencia aún no ha respondido.",
+        "ru": "Я запросил обучение; однако руководство еще не ответило."
+      },
+      "ipa": "jˈa zaprˈosil obˈutɕjenije odnˈako rukovˈodstvo jeɕːje nje otvjetˈilo"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-rabochee-mesto-b2-listen-1",
+      "l2": "Удаленная работа изменила определение наших командных встреч.",
+      "en": "Remote work has redefined our team meetings.",
+      "gloss": {
+        "en": "Remote work has redefined our team meetings.",
+        "es": "El trabajo remoto ha redefinido las reuniones de nuestro equipo.",
+        "ru": "Удаленная работа изменила определение наших командных встреч."
+      },
+      "word": "удаленная работа",
+      "wordEn": "remote work",
+      "wordGloss": {
+        "en": "remote work",
+        "es": "trabajo remoto",
+        "ru": "удаленная работа"
+      },
+      "wordIpa": "udaljennaja rabˈota",
+      "distractors": [
+        "обучение",
+        "оценка",
+        "консультация"
+      ]
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-listen-2",
+      "l2": "Его ежегодная оценка подчеркнула его навыки.",
+      "en": "Her annual review highlighted her skills.",
+      "gloss": {
+        "en": "Her annual review highlighted her skills.",
+        "es": "Su revisión anual destacó sus habilidades.",
+        "ru": "Ее ежегодный обзор подчеркнул ее навыки."
+      },
+      "word": "обзор производительности",
+      "wordEn": "performance review",
+      "wordGloss": {
+        "en": "performance review",
+        "es": "revisión de desempeño",
+        "ru": "обзор производительности"
+      },
+      "wordIpa": "obzor proizvoditjelʲnˈosti",
+      "distractors": [
+        "повышение",
+        "оплата",
+        "крайний срок"
+      ]
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-listen-3",
+      "l2": "Перегрузка на работе явно снижает производительность.",
+      "en": "Workload overload clearly undermines productivity.",
+      "gloss": {
+        "en": "Workload overload clearly undermines productivity.",
+        "es": "La sobrecarga de trabajo claramente socava la productividad.",
+        "ru": "Перегрузка рабочей нагрузкой явно снижает производительность."
+      },
+      "word": "перегрузка рабочей нагрузкой",
+      "wordEn": "workload overload",
+      "wordGloss": {
+        "en": "workload overload",
+        "es": "sobrecarga de carga de trabajo",
+        "ru": "перегрузка рабочей нагрузкой"
+      },
+      "wordIpa": "pjerjeɡruzka rabotɕjej naɡrˈuzkoj",
+      "distractors": [
+        "автономия",
+        "делегация",
+        "цель"
+      ]
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-listen-4",
+      "l2": "Организационная структура плохо отражает фактическое сотрудничество.",
+      "en": "The org chart poorly reflects actual collaboration.",
+      "gloss": {
+        "en": "The org chart poorly reflects actual collaboration.",
+        "es": "El organigrama refleja mal la colaboración real.",
+        "ru": "Организационная структура плохо отражает фактическое сотрудничество."
+      },
+      "word": "организационная структура",
+      "wordEn": "organization chart",
+      "wordGloss": {
+        "en": "organization chart",
+        "es": "organigrama",
+        "ru": "организационная структура"
+      },
+      "wordIpa": "orɡanizatsionnaja struktˈura",
+      "distractors": [
+        "иерархия",
+        "линейный менеджер",
+        "подрядчик"
+      ]
+    }
+  ],
+  "prompts": [
+    "Считаете ли вы, что удаленная работа действительно повышает производительность? Обоснуйте свое мнение.",
+    "Объясните, как бы вы отреагировали, если бы не согласились с мнением своего руководителя.",
+    "Сравнивает полезную оценку с плохо проведенной оценкой.",
+    "По вашему мнению, необходима ли иерархия или автономия должна иметь приоритет?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-rabochee-mesto-b2-grammar-1",
+      "title": {
+        "fr": "Instrumental (кем / чем)",
+        "en": "Instrumental case (кем / чем)",
+        "es": "Caso instrumental (кем / чем)",
+        "ru": "Творительный падеж (кем / чем)"
+      },
+      "rule": {
+        "fr": "Творительный marque le moyen, l’accompagnement ou le prédicat (стать врачом).",
+        "en": "Instrumental marks means, company, or predicate nouns (стать врачом).",
+        "es": "El instrumental marca medio, compañía o predicado (стать врачом).",
+        "ru": "Творительный обозначает средство, совместность или предикатив (стать врачом)."
+      },
+      "why": {
+        "en": "Needed for professions, tools, and «with».",
+        "es": "Necesario para profesiones, herramientas y «con».",
+        "ru": "Нужен для профессий, инструментов и значения «с»."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "чем",
+          "средство",
+          "Пишу ручкой / говорю о удаленная работа."
+        ],
+        [
+          "кем",
+          "профессия",
+          "Он стал врачом."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-rabochee-mesto-b2-gq-1-1",
+          "prompt": "Стать врачом — ___ падеж.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "родительный",
+            "винительный"
+          ]
+        },
+        {
+          "id": "remote-rabochee-mesto-b2-gq-1-2",
+          "prompt": "Я пишу ___ . (карандаш)",
+          "answer": "карандашом",
+          "options": [
+            "карандашом",
+            "карандаш",
+            "карандаша"
+          ]
+        },
+        {
+          "id": "remote-rabochee-mesto-b2-gq-1-3",
+          "prompt": "Тема «удаленная работа» часто требует предложных конструкций.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "именительный",
+            "звательный"
+          ]
+        },
+        {
+          "id": "remote-rabochee-mesto-b2-gq-1-4",
+          "prompt": "Свяжите с темой: удаленная работа / повышение. Род «удаленная работа»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "ср",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-rabochee-mesto-b2-gq-1-5",
+          "prompt": "Свяжите с темой: удаленная работа / повышение. Род «удаленная работа»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "ср",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-rabochee-mesto-b2-grammar-2",
+      "title": {
+        "fr": "Aspect perfectif / imperfectif",
+        "en": "Perfective / imperfective aspect",
+        "es": "Aspecto perfectivo / imperfectivo",
+        "ru": "Вид глагола: совершенный / несовершенный"
+      },
+      "rule": {
+        "fr": "Imperfectif = processus / habitude ; perfectif = résultat achevé.",
+        "en": "Imperfective = process / habit; perfective = completed result.",
+        "es": "Imperfectivo = proceso / hábito; perfectivo = resultado terminado.",
+        "ru": "Несовершенный — процесс / привычка; совершенный — завершённый результат."
+      },
+      "why": {
+        "en": "Aspect is central to natural Russian storytelling.",
+        "es": "El aspecto es central en la narración rusa natural.",
+        "ru": "Вид — ключ к естественному русскому рассказу."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "НСВ",
+          "процесс / привычка",
+          "Я читал книгу час."
+        ],
+        [
+          "СВ",
+          "результат",
+          "Я прочитал книгу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-rabochee-mesto-b2-gq-2-1",
+          "prompt": "Результат: я ___ книгу. (прочитать)",
+          "answer": "прочитал",
+          "options": [
+            "прочитал",
+            "читал",
+            "буду читать"
+          ]
+        },
+        {
+          "id": "remote-rabochee-mesto-b2-gq-2-2",
+          "prompt": "Процесс: я долго ___ . (читать)",
+          "answer": "читал",
+          "options": [
+            "читал",
+            "прочитал",
+            "прочту"
+          ]
+        },
+        {
+          "id": "remote-rabochee-mesto-b2-gq-2-3",
+          "prompt": "Привычка обычно выражается ___ видом.",
+          "answer": "несовершенным",
+          "options": [
+            "несовершенным",
+            "совершенным",
+            "будущим"
+          ]
+        },
+        {
+          "id": "remote-rabochee-mesto-b2-gq-2-4",
+          "prompt": "Свяжите с темой: обзор производительности / линейный менеджер. Род «обзор производительности»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-rabochee-mesto-b2-gq-2-5",
+          "prompt": "Свяжите с темой: обзор производительности / линейный менеджер. Род «обзор производительности»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-rabochee-mesto-b2-dict-1",
+        "l2": "Протокол должен быть отправлен до начала заседания.",
+        "en": "The minutes should be sent before the meeting.",
+        "gloss": {
+          "en": "The minutes should be sent before the meeting.",
+          "es": "El acta deberá enviarse antes de la reunión.",
+          "ru": "Протокол должен быть отправлен до начала заседания."
+        },
+        "ipa": "protˈokol dˈolʐjen bˈɨtʲ ˈotpravljen dˈo natɕˈala zasjedanˈija"
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-dict-2",
+        "l2": "Я работаю удаленно три дня в неделю, но остаюсь на связи.",
+        "en": "I work remotely three days a week; nevertheless I remain reachable.",
+        "gloss": {
+          "en": "I work remotely three days a week; nevertheless I remain reachable.",
+          "es": "Trabajo de forma remota tres días a la semana; sin embargo sigo siendo accesible.",
+          "ru": "Я работаю удаленно три дня в неделю; тем не менее я остаюсь доступным."
+        },
+        "ipa": "jˈa rabotˈaju udˈaljenno trˈi dnjˈa v njedjeljˈu nˈo ostˈajusʲ nˈa svjˈazi"
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-dict-3",
+        "l2": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график.",
+        "en": "If I had more autonomy, I would completely reorganize my schedule.",
+        "gloss": {
+          "en": "If I had more autonomy, I would completely reorganize my schedule.",
+          "es": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+          "ru": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график."
+        },
+        "ipa": "jeslˈi bˈɨ ˈu mjenjˈa bˈɨlo bˈolʲʂje avtonomˈii jˈa bˈɨ polnˈostʲju rjeorɡanizˈoval svˈoj"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-rabochee-mesto-b2-mean-1",
+        "l2": "Протокол должен быть отправлен до начала заседания.",
+        "en": "The minutes should be sent before the meeting.",
+        "gloss": {
+          "en": "The minutes should be sent before the meeting.",
+          "es": "El acta deberá enviarse antes de la reunión.",
+          "ru": "Протокол должен быть отправлен до начала заседания."
+        }
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-mean-2",
+        "l2": "Я работаю удаленно три дня в неделю, но остаюсь на связи.",
+        "en": "I work remotely three days a week; nevertheless I remain reachable.",
+        "gloss": {
+          "en": "I work remotely three days a week; nevertheless I remain reachable.",
+          "es": "Trabajo de forma remota tres días a la semana; sin embargo sigo siendo accesible.",
+          "ru": "Я работаю удаленно три дня в неделю; тем не менее я остаюсь доступным."
+        }
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-mean-3",
+        "l2": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график.",
+        "en": "If I had more autonomy, I would completely reorganize my schedule.",
+        "gloss": {
+          "en": "If I had more autonomy, I would completely reorganize my schedule.",
+          "es": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+          "ru": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-rabochee-mesto-b2-fren-1",
+        "l2": "иерархия",
+        "en": "hierarchy",
+        "gloss": {
+          "en": "hierarchy",
+          "es": "jerarquía",
+          "ru": "иерархия"
+        }
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-fren-2",
+        "l2": "удаленная работа",
+        "en": "remote work",
+        "gloss": {
+          "en": "remote work",
+          "es": "trabajo remoto",
+          "ru": "удаленная работа"
+        }
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-fren-3",
+        "l2": "обзор производительности",
+        "en": "performance review",
+        "gloss": {
+          "en": "performance review",
+          "es": "revisión de desempeño",
+          "ru": "обзор производительности"
+        }
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-fren-4",
+        "l2": "карьера",
+        "en": "career",
+        "gloss": {
+          "en": "career",
+          "es": "carrera",
+          "ru": "карьера"
+        }
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-fren-5",
+        "l2": "повышение",
+        "en": "promotion",
+        "gloss": {
+          "en": "promotion",
+          "es": "promoción",
+          "ru": "повышение"
+        }
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-fren-6",
+        "l2": "линейный менеджер",
+        "en": "line manager",
+        "gloss": {
+          "en": "line manager",
+          "es": "gerente de línea",
+          "ru": "линейный менеджер"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-rabochee-mesto-b2-alou-1",
+        "l2": "Протокол должен быть отправлен до начала заседания.",
+        "en": "The minutes should be sent before the meeting.",
+        "gloss": {
+          "en": "The minutes should be sent before the meeting.",
+          "es": "El acta deberá enviarse antes de la reunión.",
+          "ru": "Протокол должен быть отправлен до начала заседания."
+        },
+        "ipa": "protˈokol dˈolʐjen bˈɨtʲ ˈotpravljen dˈo natɕˈala zasjedanˈija"
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-alou-2",
+        "l2": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график.",
+        "en": "If I had more autonomy, I would completely reorganize my schedule.",
+        "gloss": {
+          "en": "If I had more autonomy, I would completely reorganize my schedule.",
+          "es": "Si tuviera más autonomía, reorganizaría completamente mi agenda.",
+          "ru": "Если бы у меня было больше автономии, я бы полностью реорганизовал свой график."
+        },
+        "ipa": "jeslˈi bˈɨ ˈu mjenjˈa bˈɨlo bˈolʲʂje avtonomˈii jˈa bˈɨ polnˈostʲju rjeorɡanizˈoval svˈoj"
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-alou-3",
+        "l2": "Не могли бы вы уточнить цель, чтобы команда могла подготовиться?",
+        "en": "Could you clarify the objective so that the team can prepare?",
+        "gloss": {
+          "en": "Could you clarify the objective so that the team can prepare?",
+          "es": "¿Podrías aclarar el objetivo para que el equipo pueda prepararse?",
+          "ru": "Не могли бы вы уточнить цель, чтобы команда могла подготовиться?"
+        },
+        "ipa": "nje mˈoɡli bˈɨ vˈɨ utˈotɕnitʲ tsjelʲ tɕtˈobɨ komˈanda mˈoɡla podɡotovˈitʲsja"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-rabochee-mesto-b2-unsc-1",
+        "l2": "Сроки приближаются, однако корректировать график еще можно.",
+        "en": "The deadline is approaching; however it is still possible to adjust the schedule.",
+        "gloss": {
+          "en": "The deadline is approaching; however it is still possible to adjust the schedule.",
+          "es": "La fecha límite se acerca; sin embargo, todavía es posible ajustar el horario.",
+          "ru": "Срок приближается; однако график все еще можно скорректировать."
+        },
+        "words": [
+          "Сроки",
+          "приближаются,",
+          "однако",
+          "корректировать",
+          "график",
+          "еще",
+          "можно."
+        ]
+      },
+      {
+        "id": "remote-rabochee-mesto-b2-unsc-2",
+        "l2": "Производительность упала, однако качество работы остается замечательным.",
+        "en": "Productivity has fallen; nevertheless the quality of the work remains remarkable.",
+        "gloss": {
+          "en": "Productivity has fallen; nevertheless the quality of the work remains remarkable.",
+          "es": "La productividad ha caído; sin embargo, la calidad del trabajo sigue siendo notable.",
+          "ru": "Производительность упала; тем не менее качество работы остается замечательным."
+        },
+        "words": [
+          "Производительность",
+          "упала,",
+          "однако",
+          "качество",
+          "работы",
+          "остается",
+          "замечательным."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

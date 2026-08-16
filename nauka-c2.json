@@ -1,0 +1,851 @@
+{
+  "pratiquePack": 2,
+  "id": "nauka-c2",
+  "version": 1,
+  "level": "c2",
+  "lang": "ru",
+  "title": {
+    "fr": "Savoir scientifique C2 (RU)",
+    "en": "Scientific knowledge C2 (RU)",
+    "es": "Conocimiento científico C2 (RU)",
+    "ru": "Научные знания C2"
+  },
+  "description": {
+    "fr": "Incommensurabilité, réplication et modèles pour une épistémologie des sciences en acte — pack russe.",
+    "en": "Incommensurability, replication, and models for an epistemology of science in practice — Russian pack.",
+    "es": "Inconmensurabilidad, replicación y modelos para una epistemología de la ciencia en la práctica — paquete ruso.",
+    "ru": "Несоизмеримость, репликация и модели эпистемологии науки на практике — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-nauka-c2-1",
+      "l2": "несоизмеримость",
+      "en": "incommensurability",
+      "gloss": {
+        "en": "incommensurability",
+        "es": "inconmensurabilidad",
+        "ru": "несоизмеримость"
+      },
+      "example": "Несоизмеримость, по мнению Куна, означает, что две парадигмы не имеют общей меры для выбора между ними.",
+      "ipa": "njesoizmjerˈimostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-2",
+      "l2": "репликация",
+      "en": "replication",
+      "gloss": {
+        "en": "replication",
+        "es": "replicación",
+        "ru": "репликация"
+      },
+      "example": "Репликация в случае сбоя не делает ее немедленно недействительной: она открывает папку вспомогательных условий.",
+      "ipa": "rjeplikatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauka-c2-3",
+      "l2": "модель",
+      "en": "model",
+      "gloss": {
+        "en": "model",
+        "es": "modelo",
+        "ru": "модель"
+      },
+      "example": "Модель — это не мир: это намеренно обеднённое посредничество, которое делает реальность просчитываемой.",
+      "ipa": "mˈodjelʲ",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauka-c2-4",
+      "l2": "неопределенность",
+      "en": "uncertainty",
+      "gloss": {
+        "en": "uncertainty",
+        "es": "incertidumbre",
+        "ru": "неопределенность"
+      },
+      "example": "Неопределенность, далекая от признания неудачи, является количественной формой научной осмотрительности.",
+      "ipa": "njeˈoprjedjeljennostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-5",
+      "l2": "консенсус",
+      "en": "consensus",
+      "gloss": {
+        "en": "consensus",
+        "es": "consenso",
+        "ru": "консенсус"
+      },
+      "example": "Консенсус — это не единогласие: это предварительное соглашение сообщества по поводу того, что все еще не поддается опровержению.",
+      "ipa": "kˈonsjensus",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-6",
+      "l2": "воспроизводимость",
+      "en": "reproducibility",
+      "gloss": {
+        "en": "reproducibility",
+        "es": "reproducibilidad",
+        "ru": "воспроизводимость"
+      },
+      "example": "Воспроизводимость требует, чтобы другие, используя те же протоколы, получали сходящиеся результаты.",
+      "ipa": "vosproizvodˈimostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-7",
+      "l2": "аномалия",
+      "en": "anomaly",
+      "gloss": {
+        "en": "anomaly",
+        "es": "anomalía",
+        "ru": "аномалия"
+      },
+      "example": "Аномалия, изначально поглощенная парадигмой, может, накапливаясь, ускорить ее кризис.",
+      "ipa": "anomalˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauka-c2-8",
+      "l2": "редукционизм",
+      "en": "reductionism",
+      "gloss": {
+        "en": "reductionism",
+        "es": "reduccionismo",
+        "ru": "редукционизм"
+      },
+      "example": "Редукционизм, если он онтологичен, утверждает, что целое есть не что иное, как сумма своих частей.",
+      "ipa": "rjeduktsiˈonizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-9",
+      "l2": "появление",
+      "en": "emergence",
+      "gloss": {
+        "en": "emergence",
+        "es": "aparición",
+        "ru": "появление"
+      },
+      "example": "Эмерджентность, наоборот, утверждает, что определенные уровни описания не могут быть сведены к более низким уровням.",
+      "ipa": "pojˈavljenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-nauka-c2-10",
+      "l2": "надежность",
+      "en": "robustness",
+      "gloss": {
+        "en": "robustness",
+        "es": "robustez",
+        "ru": "надежность"
+      },
+      "example": "Надежность результата оценивается по его выживаемости при различных протоколах и моделях.",
+      "ipa": "nˈadjeʐnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-11",
+      "l2": "предвзятость",
+      "en": "bias",
+      "gloss": {
+        "en": "bias",
+        "es": "inclinación",
+        "ru": "предвзятость"
+      },
+      "example": "Предвзятость, если ее не исправить, смещает доказательства в сторону того, что мы хотели найти.",
+      "ipa": "prjedvzjˈatostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-12",
+      "l2": "метаанализ",
+      "en": "meta-analysis",
+      "gloss": {
+        "en": "meta-analysis",
+        "es": "metanálisis",
+        "ru": "метаанализ"
+      },
+      "example": "Метаанализ объединяет исследования не для устранения неопределенности, а для ее картирования.",
+      "ipa": "mjetaanˈaliz",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-13",
+      "l2": "опровержение",
+      "en": "refutation",
+      "gloss": {
+        "en": "refutation",
+        "es": "refutación",
+        "ru": "опровержение"
+      },
+      "example": "Опровержение, встречающееся реже, чем говорят, предполагает, что вспомогательные гипотезы проверены.",
+      "ipa": "oprˈovjerʐjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-nauka-c2-14",
+      "l2": "нулевая гипотеза",
+      "en": "null hypothesis",
+      "gloss": {
+        "en": "null hypothesis",
+        "es": "hipótesis nula",
+        "ru": "нулевая гипотеза"
+      },
+      "example": "Нулевая гипотеза, которую мы стремимся отвергнуть, не является той гипотезой, которую мы считаем истинной.",
+      "ipa": "nuljevaja ɡipˈotjeza",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauka-c2-15",
+      "l2": "согласие",
+      "en": "consilience",
+      "gloss": {
+        "en": "consilience",
+        "es": "consiliencia",
+        "ru": "согласие"
+      },
+      "example": "Согласованность, сближение независимых показателей, усиливает тезис лучше, чем одно доказательство.",
+      "ipa": "soɡlˈasije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-nauka-c2-16",
+      "l2": "операционализм",
+      "en": "operationalism",
+      "gloss": {
+        "en": "operationalism",
+        "es": "operacionalismo",
+        "ru": "операционализм"
+      },
+      "example": "Операционализм отождествляет концепцию с операциями измерения, которые ее определяют.",
+      "ipa": "opjeratsionˈalizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-17",
+      "l2": "приборы",
+      "en": "instrumentation",
+      "gloss": {
+        "en": "instrumentation",
+        "es": "instrumentación",
+        "ru": "приборы"
+      },
+      "example": "Инструментарий, далеко не нейтральный, уже теоретизирует то, что показывает.",
+      "ipa": "pribˈorɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-18",
+      "l2": "теория",
+      "en": "theory",
+      "gloss": {
+        "en": "theory",
+        "es": "teoría",
+        "ru": "теория"
+      },
+      "example": "Теория – это не просто изложение фактов, это сеть гипотез, благодаря которой факты говорят сами за себя.",
+      "ipa": "tjeorˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-nauka-c2-19",
+      "l2": "эмпирическая адекватность",
+      "en": "empirical adequacy",
+      "gloss": {
+        "en": "empirical adequacy",
+        "es": "adecuación empírica",
+        "ru": "эмпирическая адекватность"
+      },
+      "example": "Эмпирическая адекватность, по мнению ван Фраассена, требует, чтобы модель сохраняла явления, а не чтобы она была верной.",
+      "ipa": "ɛmpiritɕjeskaja adjekvˈatnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-nauka-c2-20",
+      "l2": "байесианство",
+      "en": "Bayesianism",
+      "gloss": {
+        "en": "Bayesianism",
+        "es": "bayesianismo",
+        "ru": "байесианство"
+      },
+      "example": "Байесианство пересматривает степень веры в свете данных, не претендуя на уверенность.",
+      "ipa": "bajjesiˈanstvo",
+      "article": "ср"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-nauka-c2-phrase-1",
+      "l2": "Несоизмеримость означает, что две парадигмы не имеют общей меры для выбора между ними.",
+      "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+      "gloss": {
+        "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+        "es": "La inconmensurabilidad implica que dos paradigmas no tienen una medida común para decidir.",
+        "ru": "Несоизмеримость заключается в том, что две парадигмы не имеют общей меры, по которой можно было бы принимать решения."
+      },
+      "ipa": "njesoizmjerˈimostʲ oznˈatɕajet tɕtˈo dvje paradˈiɡmɨ nje ˈimjejut ˈobɕːjej mjerˈɨ dljˈa vɨbˈora mjeʐdˈu"
+    },
+    {
+      "id": "remote-nauka-c2-phrase-2",
+      "l2": "Мы отвечаем реже, чем следовало бы; поэтому консенсус остается более хрупким, чем кажется.",
+      "en": "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+      "gloss": {
+        "en": "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+        "es": "Uno replica menos de lo que debería; por tanto, el consenso sigue siendo más frágil de lo que parece.",
+        "ru": "Человек копирует реже, чем следовало бы; таким образом, консенсус остается более хрупким, чем кажется."
+      },
+      "ipa": "mˈɨ ˈotvjetɕajem rjeʐje tɕjem sljedovˈalo bˈɨ poɛtˈomu kˈonsjensus ostˈajetsja bˈoljeje xrˈupkim tɕjem"
+    },
+    {
+      "id": "remote-nauka-c2-phrase-3",
+      "l2": "Модель, намеренно обедненная, делает реальность вычислимой, не заменяя ее.",
+      "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+      "gloss": {
+        "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+        "es": "El modelo, deliberadamente empobrecido, hace calculable lo real sin sustituirlo.",
+        "ru": "Модель, намеренно обедненная, делает реальное вычислимым, не заменяя его."
+      },
+      "ipa": "mˈodjelʲ nˈamjerjenno objednjennˈaja djelˈajet rjeˈalʲnostʲ vɨtɕislˈimoj nje zamjenjˈaja jeje"
+    },
+    {
+      "id": "remote-nauka-c2-phrase-4",
+      "l2": "Неопределенность, а не признание, является количественной формой благоразумия.",
+      "en": "Uncertainty, more than an admission, is the quantitative form of prudence.",
+      "gloss": {
+        "en": "Uncertainty, more than an admission, is the quantitative form of prudence.",
+        "es": "La incertidumbre, más que una admisión, es la forma cuantitativa de la prudencia.",
+        "ru": "Неопределенность, а не признание, является количественной формой благоразумия."
+      },
+      "ipa": "njeˈoprjedjeljennostʲ ˈa nje priznˈanije javljˈajetsja kolˈitɕjestvjennoj fˈormoj blaɡorazumˈija"
+    },
+    {
+      "id": "remote-nauka-c2-phrase-5",
+      "l2": "Несмотря на то, что репликация не удалась, исходное исследование не было сразу признано недействительным.",
+      "en": "Even though replication had failed, the original study was not invalidated at once.",
+      "gloss": {
+        "en": "Even though replication had failed, the original study was not invalidated at once.",
+        "es": "Aunque la replicación fracasó, el estudio original no quedó invalidado de inmediato.",
+        "ru": "Несмотря на то, что репликация не удалась, исходное исследование не было сразу признано недействительным."
+      },
+      "ipa": "njesmˈotrja nˈa tˈo tɕtˈo rjeplikatsˈija nje udˈalasʲ isxˈodnoje issljedovˈanije nje bˈɨlo srˈazu"
+    },
+    {
+      "id": "remote-nauka-c2-phrase-6",
+      "l2": "Опровержение предполагает, что вспомогательные гипотезы контролировались в большей степени, чем об этом говорится.",
+      "en": "Refutation presupposes that auxiliary hypotheses have been controlled more than is usually said.",
+      "gloss": {
+        "en": "Refutation presupposes that auxiliary hypotheses have been controlled more than is usually said.",
+        "es": "La refutación presupone que las hipótesis auxiliares han sido controladas más de lo que suele decirse.",
+        "ru": "Опровержение предполагает, что вспомогательные гипотезы контролировались в большей степени, чем обычно говорят."
+      },
+      "ipa": "oprˈovjerʐjenije prjedpolˈaɡajet tɕtˈo vspomoɡˈatjelʲnɨje ɡipˈotjezɨ kontrolirovˈalisʲ v bˈolʲʂjej stjepjenˈi tɕjem ˈob ˈɛtom"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-nauka-c2-listen-1",
+      "l2": "Несоизмеримость означает, что две парадигмы не имеют общей меры.",
+      "en": "Incommensurability has it that two paradigms have no common measure.",
+      "gloss": {
+        "en": "Incommensurability has it that two paradigms have no common measure.",
+        "es": "La inconmensurabilidad implica que dos paradigmas no tienen una medida común.",
+        "ru": "Несоизмеримость заключается в том, что две парадигмы не имеют общей меры."
+      },
+      "word": "несоизмеримость",
+      "wordEn": "incommensurability",
+      "wordGloss": {
+        "en": "incommensurability",
+        "es": "inconmensurabilidad",
+        "ru": "несоизмеримость"
+      },
+      "wordIpa": "njesoizmjerˈimostʲ",
+      "distractors": [
+        "опровержение",
+        "аномалия",
+        "согласие"
+      ]
+    },
+    {
+      "id": "remote-nauka-c2-listen-2",
+      "l2": "Репликация при сбое открывает папку вспомогательных условий.",
+      "en": "Replication, when it fails, opens the file of auxiliary conditions.",
+      "gloss": {
+        "en": "Replication, when it fails, opens the file of auxiliary conditions.",
+        "es": "La replicación, cuando falla, abre el archivo de condiciones auxiliares.",
+        "ru": "Репликация при сбое открывает файл вспомогательных условий."
+      },
+      "word": "репликация",
+      "wordEn": "replication",
+      "wordGloss": {
+        "en": "replication",
+        "es": "replicación",
+        "ru": "репликация"
+      },
+      "wordIpa": "rjeplikatsˈija",
+      "distractors": [
+        "воспроизводимость",
+        "метаанализ",
+        "надежность"
+      ]
+    },
+    {
+      "id": "remote-nauka-c2-listen-3",
+      "l2": "Модель — это обедненное посредничество, которое делает реальность просчитываемой.",
+      "en": "The model is an impoverished mediation that makes the real calculable.",
+      "gloss": {
+        "en": "The model is an impoverished mediation that makes the real calculable.",
+        "es": "El modelo es una mediación empobrecida que hace calculable lo real.",
+        "ru": "Модель — это обедненное посредничество, которое делает реальное вычислимым."
+      },
+      "word": "модель",
+      "wordEn": "model",
+      "wordGloss": {
+        "en": "model",
+        "es": "modelo",
+        "ru": "модель"
+      },
+      "wordIpa": "mˈodjelʲ",
+      "distractors": [
+        "теория",
+        "приборы",
+        "нулевая гипотеза"
+      ]
+    },
+    {
+      "id": "remote-nauka-c2-listen-4",
+      "l2": "Консенсус – это предварительное соглашение о том, что еще не поддается опровержению.",
+      "en": "Consensus is the provisional agreement on what still resists refutation.",
+      "gloss": {
+        "en": "Consensus is the provisional agreement on what still resists refutation.",
+        "es": "El consenso es el acuerdo provisional sobre lo que aún resiste refutación.",
+        "ru": "Консенсус – это предварительное соглашение о том, что все еще сопротивляется опровержению."
+      },
+      "word": "консенсус",
+      "wordEn": "consensus",
+      "wordGloss": {
+        "en": "consensus",
+        "es": "consenso",
+        "ru": "консенсус"
+      },
+      "wordIpa": "kˈonsjensus",
+      "distractors": [
+        "неопределенность",
+        "байесианство",
+        "эмпирическая адекватность"
+      ]
+    }
+  ],
+  "prompts": [
+    "Критикуйте тезис о несоизмеримости: действительно ли две конкурирующие теории не имеют общей меры или же ее обеспечивает согласие?",
+    "Анализируйте неудачу репликации: выбирайте между предубеждениями, вспомогательными гипотезами и реальными опровержениями.",
+    "Модель — полезная выдумка или претензия на истину? Обсудите, исходя из эмпирической адекватности.",
+    "Является ли научный консенсус аргументом авторитета или предварительным хранилищем накопленных доказательств?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-nauka-c2-grammar-1",
+      "title": {
+        "fr": "Registres et nuances lexicales",
+        "en": "Registers and lexical nuance",
+        "es": "Registros y matices léxicos",
+        "ru": "Регистры и лексические оттенки"
+      },
+      "rule": {
+        "fr": "Alternez vocabulaire savant et marqué (ironie, euphémisme) selon le genre.",
+        "en": "Switch between learned and marked lexicon (irony, euphemism) by genre.",
+        "es": "Alterna léxico culto y marcado (ironía, eufemismo) según el género.",
+        "ru": "Чередуйте книжную и маркированную лексику (ирония, эвфемизм) в зависимости от жанра."
+      },
+      "why": {
+        "en": "Control tone at near-native level.",
+        "es": "Controla el tono a un nivel casi nativo.",
+        "ru": "Контроль тона на почти родном уровне."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "книжный",
+          "формальный",
+          "рассматривать репликация"
+        ],
+        [
+          "маркированный",
+          "ирония / эвфемизм",
+          "то, что связано с консенсус"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-nauka-c2-gq-1-1",
+          "prompt": "Книжный регистр: ___ (не «смотреть»).",
+          "answer": "рассматривать",
+          "options": [
+            "рассматривать",
+            "смотреть",
+            "глядеть"
+          ]
+        },
+        {
+          "id": "remote-nauka-c2-gq-1-2",
+          "prompt": "Эвфемизм смягчает ___ .",
+          "answer": "тон",
+          "options": [
+            "тон",
+            "род",
+            "падеж"
+          ]
+        },
+        {
+          "id": "remote-nauka-c2-gq-1-3",
+          "prompt": "Оттенок для обсуждения «репликация» в эссе — ___ .",
+          "answer": "дискурс",
+          "options": [
+            "дискурс",
+            "болтовня",
+            "сленг"
+          ]
+        },
+        {
+          "id": "remote-nauka-c2-gq-1-4",
+          "prompt": "Свяжите с темой: репликация / консенсус. Род «репликация»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-nauka-c2-gq-1-5",
+          "prompt": "Свяжите с темой: репликация / консенсус. Род «репликация»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-nauka-c2-grammar-2",
+      "title": {
+        "fr": "Constructions concessives complexes",
+        "en": "Complex concessive constructions",
+        "es": "Construcciones concesivas complejas",
+        "ru": "Сложные уступительные конструкции"
+      },
+      "rule": {
+        "fr": "Несмотря на / хотя / даже если intensifient la concession.",
+        "en": "Несмотря на / хотя / даже если intensify concession.",
+        "es": "Несмотря на / хотя / даже если intensifican la concesión.",
+        "ru": "Несмотря на / хотя / даже если усиливают уступку."
+      },
+      "why": {
+        "en": "Useful in critique and rhetoric.",
+        "es": "Útil en la crítica y la retórica.",
+        "ru": "Полезно в критике и риторике."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "несмотря на",
+          "+ Вин.",
+          "Несмотря на модель, продолжаю."
+        ],
+        [
+          "хотя / даже если",
+          "уступка",
+          "Хотя есть воспроизводимость, сомневаюсь."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-nauka-c2-gq-2-1",
+          "prompt": "Несмотря ___ трудности, иду дальше.",
+          "answer": "на",
+          "options": [
+            "на",
+            "о",
+            "в"
+          ]
+        },
+        {
+          "id": "remote-nauka-c2-gq-2-2",
+          "prompt": "___ холодно, я выхожу. (уступка)",
+          "answer": "Хотя",
+          "options": [
+            "Хотя",
+            "Потому",
+            "Когда"
+          ]
+        },
+        {
+          "id": "remote-nauka-c2-gq-2-3",
+          "prompt": "Даже если будет сложно, я ___ .",
+          "answer": "попробую",
+          "options": [
+            "попробую",
+            "пробовал",
+            "пробую бы"
+          ]
+        },
+        {
+          "id": "remote-nauka-c2-gq-2-4",
+          "prompt": "Свяжите с темой: модель / воспроизводимость. Род «модель»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-nauka-c2-gq-2-5",
+          "prompt": "Свяжите с темой: модель / воспроизводимость. Род «модель»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-nauka-c2-dict-1",
+        "l2": "Несоизмеримость означает, что две парадигмы не имеют общей меры для выбора между ними.",
+        "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+        "gloss": {
+          "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+          "es": "La inconmensurabilidad implica que dos paradigmas no tienen una medida común para decidir.",
+          "ru": "Несоизмеримость заключается в том, что две парадигмы не имеют общей меры, по которой можно было бы принимать решения."
+        },
+        "ipa": "njesoizmjerˈimostʲ oznˈatɕajet tɕtˈo dvje paradˈiɡmɨ nje ˈimjejut ˈobɕːjej mjerˈɨ dljˈa vɨbˈora mjeʐdˈu"
+      },
+      {
+        "id": "remote-nauka-c2-dict-2",
+        "l2": "Мы отвечаем реже, чем следовало бы; поэтому консенсус остается более хрупким, чем кажется.",
+        "en": "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+        "gloss": {
+          "en": "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+          "es": "Uno replica menos de lo que debería; por tanto, el consenso sigue siendo más frágil de lo que parece.",
+          "ru": "Человек копирует реже, чем следовало бы; таким образом, консенсус остается более хрупким, чем кажется."
+        },
+        "ipa": "mˈɨ ˈotvjetɕajem rjeʐje tɕjem sljedovˈalo bˈɨ poɛtˈomu kˈonsjensus ostˈajetsja bˈoljeje xrˈupkim tɕjem"
+      },
+      {
+        "id": "remote-nauka-c2-dict-3",
+        "l2": "Модель, намеренно обедненная, делает реальность вычислимой, не заменяя ее.",
+        "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+        "gloss": {
+          "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+          "es": "El modelo, deliberadamente empobrecido, hace calculable lo real sin sustituirlo.",
+          "ru": "Модель, намеренно обедненная, делает реальное вычислимым, не заменяя его."
+        },
+        "ipa": "mˈodjelʲ nˈamjerjenno objednjennˈaja djelˈajet rjeˈalʲnostʲ vɨtɕislˈimoj nje zamjenjˈaja jeje"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-nauka-c2-mean-1",
+        "l2": "Несоизмеримость означает, что две парадигмы не имеют общей меры для выбора между ними.",
+        "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+        "gloss": {
+          "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+          "es": "La inconmensurabilidad implica que dos paradigmas no tienen una medida común para decidir.",
+          "ru": "Несоизмеримость заключается в том, что две парадигмы не имеют общей меры, по которой можно было бы принимать решения."
+        }
+      },
+      {
+        "id": "remote-nauka-c2-mean-2",
+        "l2": "Мы отвечаем реже, чем следовало бы; поэтому консенсус остается более хрупким, чем кажется.",
+        "en": "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+        "gloss": {
+          "en": "One replicates less often than one ought to; thus consensus remains more fragile than it appears.",
+          "es": "Uno replica menos de lo que debería; por tanto, el consenso sigue siendo más frágil de lo que parece.",
+          "ru": "Человек копирует реже, чем следовало бы; таким образом, консенсус остается более хрупким, чем кажется."
+        }
+      },
+      {
+        "id": "remote-nauka-c2-mean-3",
+        "l2": "Модель, намеренно обедненная, делает реальность вычислимой, не заменяя ее.",
+        "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+        "gloss": {
+          "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+          "es": "El modelo, deliberadamente empobrecido, hace calculable lo real sin sustituirlo.",
+          "ru": "Модель, намеренно обедненная, делает реальное вычислимым, не заменяя его."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-nauka-c2-fren-1",
+        "l2": "несоизмеримость",
+        "en": "incommensurability",
+        "gloss": {
+          "en": "incommensurability",
+          "es": "inconmensurabilidad",
+          "ru": "несоизмеримость"
+        }
+      },
+      {
+        "id": "remote-nauka-c2-fren-2",
+        "l2": "репликация",
+        "en": "replication",
+        "gloss": {
+          "en": "replication",
+          "es": "replicación",
+          "ru": "репликация"
+        }
+      },
+      {
+        "id": "remote-nauka-c2-fren-3",
+        "l2": "модель",
+        "en": "model",
+        "gloss": {
+          "en": "model",
+          "es": "modelo",
+          "ru": "модель"
+        }
+      },
+      {
+        "id": "remote-nauka-c2-fren-4",
+        "l2": "неопределенность",
+        "en": "uncertainty",
+        "gloss": {
+          "en": "uncertainty",
+          "es": "incertidumbre",
+          "ru": "неопределенность"
+        }
+      },
+      {
+        "id": "remote-nauka-c2-fren-5",
+        "l2": "консенсус",
+        "en": "consensus",
+        "gloss": {
+          "en": "consensus",
+          "es": "consenso",
+          "ru": "консенсус"
+        }
+      },
+      {
+        "id": "remote-nauka-c2-fren-6",
+        "l2": "воспроизводимость",
+        "en": "reproducibility",
+        "gloss": {
+          "en": "reproducibility",
+          "es": "reproducibilidad",
+          "ru": "воспроизводимость"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-nauka-c2-alou-1",
+        "l2": "Несоизмеримость означает, что две парадигмы не имеют общей меры для выбора между ними.",
+        "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+        "gloss": {
+          "en": "Incommensurability has it that two paradigms have no common measure by which to decide.",
+          "es": "La inconmensurabilidad implica que dos paradigmas no tienen una medida común para decidir.",
+          "ru": "Несоизмеримость заключается в том, что две парадигмы не имеют общей меры, по которой можно было бы принимать решения."
+        },
+        "ipa": "njesoizmjerˈimostʲ oznˈatɕajet tɕtˈo dvje paradˈiɡmɨ nje ˈimjejut ˈobɕːjej mjerˈɨ dljˈa vɨbˈora mjeʐdˈu"
+      },
+      {
+        "id": "remote-nauka-c2-alou-2",
+        "l2": "Модель, намеренно обедненная, делает реальность вычислимой, не заменяя ее.",
+        "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+        "gloss": {
+          "en": "The model, deliberately impoverished, makes the real calculable without replacing it.",
+          "es": "El modelo, deliberadamente empobrecido, hace calculable lo real sin sustituirlo.",
+          "ru": "Модель, намеренно обедненная, делает реальное вычислимым, не заменяя его."
+        },
+        "ipa": "mˈodjelʲ nˈamjerjenno objednjennˈaja djelˈajet rjeˈalʲnostʲ vɨtɕislˈimoj nje zamjenjˈaja jeje"
+      },
+      {
+        "id": "remote-nauka-c2-alou-3",
+        "l2": "Несмотря на то, что репликация не удалась, исходное исследование не было сразу признано недействительным.",
+        "en": "Even though replication had failed, the original study was not invalidated at once.",
+        "gloss": {
+          "en": "Even though replication had failed, the original study was not invalidated at once.",
+          "es": "Aunque la replicación fracasó, el estudio original no quedó invalidado de inmediato.",
+          "ru": "Несмотря на то, что репликация не удалась, исходное исследование не было сразу признано недействительным."
+        },
+        "ipa": "njesmˈotrja nˈa tˈo tɕtˈo rjeplikatsˈija nje udˈalasʲ isxˈodnoje issljedovˈanije nje bˈɨlo srˈazu"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-nauka-c2-unsc-1",
+        "l2": "Консенсус — это не единогласие: это предварительное соглашение сообщества по поводу того, что все еще не поддается опровержению.",
+        "en": "Consensus is not unanimity: it is a community’s provisional agreement on what still resists refutation.",
+        "gloss": {
+          "en": "Consensus is not unanimity: it is a community’s provisional agreement on what still resists refutation.",
+          "es": "El consenso no es unanimidad: es un acuerdo provisional de una comunidad sobre lo que aún resiste refutación.",
+          "ru": "Консенсус – это не единогласие: это предварительное соглашение сообщества относительно того, что все еще не поддается опровержению."
+        },
+        "words": [
+          "Консенсус",
+          "—",
+          "это",
+          "не",
+          "единогласие:",
+          "это",
+          "предварительное",
+          "соглашение",
+          "сообщества",
+          "по",
+          "поводу",
+          "того,",
+          "что",
+          "все",
+          "еще",
+          "не",
+          "поддается",
+          "опровержению."
+        ]
+      },
+      {
+        "id": "remote-nauka-c2-unsc-2",
+        "l2": "Воспроизводимость требует, чтобы другие, используя те же протоколы, получали сходящиеся результаты.",
+        "en": "Reproducibility requires that others, with the same protocols, obtain converging results.",
+        "gloss": {
+          "en": "Reproducibility requires that others, with the same protocols, obtain converging results.",
+          "es": "La reproducibilidad requiere que otros, con los mismos protocolos, obtengan resultados convergentes.",
+          "ru": "Воспроизводимость требует, чтобы другие, используя те же протоколы, получали сходящиеся результаты."
+        },
+        "words": [
+          "Воспроизводимость",
+          "требует,",
+          "чтобы",
+          "другие,",
+          "используя",
+          "те",
+          "же",
+          "протоколы,",
+          "получали",
+          "сходящиеся",
+          "результаты."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

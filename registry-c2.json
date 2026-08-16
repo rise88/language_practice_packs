@@ -1,0 +1,845 @@
+{
+  "pratiquePack": 2,
+  "id": "registry-c2",
+  "version": 1,
+  "level": "c2",
+  "lang": "ru",
+  "title": {
+    "fr": "Registres et nuances C2 (RU)",
+    "en": "Registers and nuances C2 (RU)",
+    "es": "Registros y matices C2 (RU)",
+    "ru": "Регистры и нюансы С2"
+  },
+  "description": {
+    "fr": "Connotation, euphémisme, litote et sociolecte pour une pragmatique de l’énonciation — pack russe.",
+    "en": "Connotation, euphemism, litotes, and sociolect for a pragmatics of utterance — Russian pack.",
+    "es": "Connotación, eufemismo, litotes y sociolecto para una pragmática del enunciado — paquete ruso.",
+    "ru": "Коннотация, эвфемизм, литота и социолект для прагматики высказывания — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-registry-c2-1",
+      "l2": "коннотация",
+      "en": "connotation",
+      "gloss": {
+        "en": "connotation",
+        "es": "connotación",
+        "ru": "коннотация"
+      },
+      "example": "Коннотация, смысловой ореол ориентирует слово за пределы его денотации.",
+      "ipa": "konnotatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-registry-c2-2",
+      "l2": "эвфемизм",
+      "en": "euphemism",
+      "gloss": {
+        "en": "euphemism",
+        "es": "eufemismo",
+        "ru": "эвфемизм"
+      },
+      "example": "Эвфемизм смягчает реальность; он все же не должен скрывать это до такой степени, чтобы отрицать это.",
+      "ipa": "ˈɛvfjemizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-registry-c2-3",
+      "l2": "литоты",
+      "en": "litotes",
+      "gloss": {
+        "en": "litotes",
+        "es": "litotes",
+        "ru": "литоты"
+      },
+      "example": "Преуменьшение утверждается отрицанием противоположного: «неинтересно» ради похвалы.",
+      "ipa": "litˈotɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-registry-c2-4",
+      "l2": "социолект",
+      "en": "sociolect",
+      "gloss": {
+        "en": "sociolect",
+        "es": "sociolecto",
+        "ru": "социолект"
+      },
+      "example": "Социолект, разновидность, связанная с группой, выдает положение более достоверно, чем удостоверение личности.",
+      "ipa": "sotsˈioljekt",
+      "article": "м"
+    },
+    {
+      "id": "remote-registry-c2-5",
+      "l2": "иллюзия",
+      "en": "illocution",
+      "gloss": {
+        "en": "illocution",
+        "es": "ilocución",
+        "ru": "иллюзия"
+      },
+      "example": "Иллокация для Остина — это действие, совершаемое посредством разговора: обещание, приказание, оправдание.",
+      "ipa": "illjuzˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-registry-c2-6",
+      "l2": "обозначение",
+      "en": "denotation",
+      "gloss": {
+        "en": "denotation",
+        "es": "denotación",
+        "ru": "обозначение"
+      },
+      "example": "Денотат, устойчивое содержание, не исчерпывает того, что слово делает в ситуации.",
+      "ipa": "oboznˈatɕjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-registry-c2-7",
+      "l2": "перлокуция",
+      "en": "perlocution",
+      "gloss": {
+        "en": "perlocution",
+        "es": "perlocución",
+        "ru": "перлокуция"
+      },
+      "example": "Перлокуция обозначает эффект, производимый на говорящего, помимо условностей.",
+      "ipa": "pjerlokutsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-registry-c2-8",
+      "l2": "идиолект",
+      "en": "idiolect",
+      "gloss": {
+        "en": "idiolect",
+        "es": "idiolecto",
+        "ru": "идиолект"
+      },
+      "example": "Идиолект, подпись говорящего, не является социолектом, сведенным к индивидууму.",
+      "ipa": "idˈioljekt",
+      "article": "м"
+    },
+    {
+      "id": "remote-registry-c2-9",
+      "l2": "диастратическая вариация",
+      "en": "diastratic variation",
+      "gloss": {
+        "en": "diastratic variation",
+        "es": "variación diastratica",
+        "ru": "диастратическая вариация"
+      },
+      "example": "Диастратия называет вариацию в зависимости от социальных слоев, отличную от диатопии.",
+      "ipa": "diastratitɕjeskaja variatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-registry-c2-10",
+      "l2": "дисфемизм",
+      "en": "dysphemism",
+      "gloss": {
+        "en": "dysphemism",
+        "es": "disfemismo",
+        "ru": "дисфемизм"
+      },
+      "example": "Дисфемизм, противоположность эвфемизму, намеренно ужесточает то, что можно было бы назвать более мягким.",
+      "ipa": "dˈisfjemizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-registry-c2-11",
+      "l2": "метаязык",
+      "en": "metalanguage",
+      "gloss": {
+        "en": "metalanguage",
+        "es": "metalenguaje",
+        "ru": "метаязык"
+      },
+      "example": "Метаязык говорит о языке; он все же не должен принимать себя за сам объект.",
+      "ipa": "mjetajˈazɨk",
+      "article": "м"
+    },
+    {
+      "id": "remote-registry-c2-12",
+      "l2": "импликатура",
+      "en": "implicature",
+      "gloss": {
+        "en": "implicature",
+        "es": "implicatura",
+        "ru": "импликатура"
+      },
+      "example": "Импликатура, по Грайсу, — это то, что мы даем понять, не произнося этого, нарушая максиму.",
+      "ipa": "implikatˈura",
+      "article": "ж"
+    },
+    {
+      "id": "remote-registry-c2-13",
+      "l2": "предпосылка",
+      "en": "presupposition",
+      "gloss": {
+        "en": "presupposition",
+        "es": "presuposición",
+        "ru": "предпосылка"
+      },
+      "example": "Предпосылка переживает отрицание: «Он не переставал лгать» предполагает, что он лгал.",
+      "ipa": "prjedposˈɨlka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-registry-c2-14",
+      "l2": "модализация",
+      "en": "modalization",
+      "gloss": {
+        "en": "modalization",
+        "es": "modalización",
+        "ru": "модализация"
+      },
+      "example": "Модализация с помощью надреза или наречия указывает на степень приверженности говорящего тому, что он говорит.",
+      "ipa": "modalizatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-registry-c2-15",
+      "l2": "высказывание",
+      "en": "enunciation",
+      "gloss": {
+        "en": "enunciation",
+        "es": "enunciación",
+        "ru": "высказывание"
+      },
+      "example": "Произнесение, в отличие от высказывания, представляет собой ситуативный акт, посредством которого говорящий присваивает язык.",
+      "ipa": "vɨskazɨvˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-registry-c2-16",
+      "l2": "адресат",
+      "en": "addressee",
+      "gloss": {
+        "en": "addressee",
+        "es": "destinatario",
+        "ru": "адресат"
+      },
+      "example": "Говорящий, тот, с кем разговаривают, не обязательно является предполагаемым получателем неявного.",
+      "ipa": "ˈadrjesat",
+      "article": "м"
+    },
+    {
+      "id": "remote-registry-c2-17",
+      "l2": "диафазная вариация",
+      "en": "diaphasic variation",
+      "gloss": {
+        "en": "diaphasic variation",
+        "es": "variación diafásica",
+        "ru": "диафазная вариация"
+      },
+      "example": "Диафазия означает изменение в зависимости от ситуации: от устойчивого к привычному, от священного к профанному.",
+      "ipa": "diafaznaja variatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-registry-c2-18",
+      "l2": "ксенизм",
+      "en": "xenism (unassimilated loan)",
+      "gloss": {
+        "en": "xenism (unassimilated loan)",
+        "es": "xenismo (préstamo no asimilado)",
+        "ru": "ксенизм (неассимилированный заем)"
+      },
+      "example": "Ксенизм, неассимилированный заимствованный материал, сохраняет свою иностранную морфологию и сигнализирует о наличии чего-то еще.",
+      "ipa": "ksjenˈizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-registry-c2-19",
+      "l2": "лицемерный",
+      "en": "hypocoristic",
+      "gloss": {
+        "en": "hypocoristic",
+        "es": "hipocorístico",
+        "ru": "лицемерный"
+      },
+      "example": "Лицемерная, приятная форма сокращает расстояние; за пределами конфиденциальности это может навредить.",
+      "ipa": "lˈitsjemjernɨj",
+      "article": "м"
+    },
+    {
+      "id": "remote-registry-c2-20",
+      "l2": "дейксис",
+      "en": "deixis",
+      "gloss": {
+        "en": "deixis",
+        "es": "deixis",
+        "ru": "дейксис"
+      },
+      "example": "Дейксис закрепляет высказывание в ситуации: я здесь и сейчас имею ссылку только через высказывание.",
+      "ipa": "djejksˈis",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-registry-c2-phrase-1",
+      "l2": "Коннотация, более скользкая, чем денотат, направляет слово далеко за пределы того, что оно называет.",
+      "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+      "gloss": {
+        "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+        "es": "La connotación, más resbaladiza que la denotación, lleva la palabra mucho más allá de lo que nombra.",
+        "ru": "Коннотация, более скользкая, чем денотат, выводит слово далеко за пределы того, что оно называет."
+      },
+      "ipa": "konnotatsˈija bˈoljeje skolʲzkˈaja tɕjem djenˈotat naprˈavljajet slˈovo dˈaljeko zˈa prjedjelˈɨ tˈoɡo tɕtˈo"
+    },
+    {
+      "id": "remote-registry-c2-phrase-2",
+      "l2": "Эвфемизм, хотя и смягчает, может зайти так далеко, что замаскирует реальность.",
+      "en": "Euphemism, even though it softens, may go so far as to disguise the real.",
+      "gloss": {
+        "en": "Euphemism, even though it softens, may go so far as to disguise the real.",
+        "es": "El eufemismo, aunque se suavice, puede llegar incluso a disfrazar lo real.",
+        "ru": "Эвфемизм, хотя и смягчается, может зайти так далеко, что замаскирует реальность."
+      },
+      "ipa": "ˈɛvfjemizm xˈotja ˈi smjˈaɡtɕajet mˈoʐjet zˈajti tˈak dˈaljeko tɕtˈo zamaskˈirujet rjeˈalʲnostʲ"
+    },
+    {
+      "id": "remote-registry-c2-phrase-3",
+      "l2": "«Это не неинтересно», — говорит он, — и преуменьшение говорит громче, чем прямая похвала.",
+      "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+      "gloss": {
+        "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+        "es": "No deja de ser interesante, dijo, y los litotes dicen más que un elogio directo.",
+        "ru": "«Это не неинтересно», — сказал он, — и литоты говорят больше, чем просто похвалу."
+      },
+      "ipa": "ˈɛto nje njeˈintjerjesno ɡovˈorit ˈon ˈi prjeˈumjenʲʂjenije ɡovˈorit ɡrˈomtɕje tɕjem prjamˈaja poxvˈala"
+    },
+    {
+      "id": "remote-registry-c2-phrase-4",
+      "l2": "Так что социолект вернее выдает позицию, чем декларацию принадлежности.",
+      "en": "Thus a sociolect betrays a position more surely than a declaration of belonging.",
+      "gloss": {
+        "en": "Thus a sociolect betrays a position more surely than a declaration of belonging.",
+        "es": "Así, un sociolecto traiciona una posición con mayor seguridad que una declaración de pertenencia.",
+        "ru": "Таким образом, социолект вернее выдает позицию, чем декларация принадлежности."
+      },
+      "ipa": "tˈak tɕtˈo sotsˈioljekt vjernjeje vˈɨdajet pozitsˈiju tɕjem djeklaratsˈiju prinadljeʐnˈosti"
+    },
+    {
+      "id": "remote-registry-c2-phrase-5",
+      "l2": "Илкуция, говорил Остин, — это не содержание: это действие, совершаемое посредством речи.",
+      "en": "Illocution, Austin said, is not the content: it is the act accomplished in speaking.",
+      "gloss": {
+        "en": "Illocution, Austin said, is not the content: it is the act accomplished in speaking.",
+        "es": "La ilocución, dijo Austin, no es el contenido: es el acto realizado al hablar.",
+        "ru": "Иллокация, говорил Остин, — это не содержание: это акт, совершаемый в разговоре."
+      },
+      "ipa": "ilkutsˈija ɡovˈoril ˈostin ˈɛto nje sodjerʐˈanije ˈɛto djejstvˈije sovjerʂˈajemoje pˈosrjedstvom rjetɕˈi"
+    },
+    {
+      "id": "remote-registry-c2-phrase-6",
+      "l2": "Боюсь, что этот намек останется незамеченным оратором, который говорит слишком буквально.",
+      "en": "I fear this implicature may go unnoticed by an overly literal addressee.",
+      "gloss": {
+        "en": "I fear this implicature may go unnoticed by an overly literal addressee.",
+        "es": "Temo que esta implicatura pueda pasar desapercibida para un destinatario demasiado literal.",
+        "ru": "Боюсь, что этот намек может остаться незамеченным слишком буквальным адресатом."
+      },
+      "ipa": "bˈojusʲ tɕtˈo ˈɛtot nˈamjek ostˈanjetsja njezˈamjetɕjennɨm oratˈorom kotˈorɨj ɡovˈorit slˈiʂkom bukvˈalʲno"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-registry-c2-listen-1",
+      "l2": "Коннотация ориентирует слово за пределы его значения.",
+      "en": "Connotation steers the word beyond its denotation.",
+      "gloss": {
+        "en": "Connotation steers the word beyond its denotation.",
+        "es": "La connotación lleva la palabra más allá de su denotación.",
+        "ru": "Коннотация выводит слово за пределы его значения."
+      },
+      "word": "коннотация",
+      "wordEn": "connotation",
+      "wordGloss": {
+        "en": "connotation",
+        "es": "connotación",
+        "ru": "коннотация"
+      },
+      "wordIpa": "konnotatsˈija",
+      "distractors": [
+        "обозначение",
+        "модализация",
+        "предпосылка"
+      ]
+    },
+    {
+      "id": "remote-registry-c2-listen-2",
+      "l2": "Эвфемизм смягчает реальность, не всегда называя ее.",
+      "en": "Euphemism softens the real without always naming it.",
+      "gloss": {
+        "en": "Euphemism softens the real without always naming it.",
+        "es": "El eufemismo suaviza lo real sin nombrarlo siempre.",
+        "ru": "Эвфемизм смягчает реальность, не всегда называя ее."
+      },
+      "word": "эвфемизм",
+      "wordEn": "euphemism",
+      "wordGloss": {
+        "en": "euphemism",
+        "es": "eufemismo",
+        "ru": "эвфемизм"
+      },
+      "wordIpa": "ˈɛvfjemizm",
+      "distractors": [
+        "дисфемизм",
+        "литоты",
+        "лицемерный"
+      ]
+    },
+    {
+      "id": "remote-registry-c2-listen-3",
+      "l2": "Преуменьшение утверждает, отрицая при этом обратное.",
+      "en": "Litotes affirms by denying the opposite.",
+      "gloss": {
+        "en": "Litotes affirms by denying the opposite.",
+        "es": "Litotes afirma negando lo contrario.",
+        "ru": "Литот утверждает, отрицая обратное."
+      },
+      "word": "литоты",
+      "wordEn": "litotes",
+      "wordGloss": {
+        "en": "litotes",
+        "es": "litotes",
+        "ru": "литоты"
+      },
+      "wordIpa": "litˈotɨ",
+      "distractors": [
+        "импликатура",
+        "дисфемизм",
+        "эвфемизм"
+      ]
+    },
+    {
+      "id": "remote-registry-c2-listen-4",
+      "l2": "Иллокация — это действие, совершаемое во время разговора: обещание, приказание, извинение.",
+      "en": "Illocution is the act accomplished in speaking: promising, ordering, apologising.",
+      "gloss": {
+        "en": "Illocution is the act accomplished in speaking: promising, ordering, apologising.",
+        "es": "La ilocución es el acto que se realiza al hablar: prometer, ordenar, pedir disculpas.",
+        "ru": "Иллокация — это действие, совершаемое в разговоре: обещание, приказание, извинение."
+      },
+      "word": "иллюзия",
+      "wordEn": "illocution",
+      "wordGloss": {
+        "en": "illocution",
+        "es": "ilocución",
+        "ru": "иллюзия"
+      },
+      "wordIpa": "illjuzˈija",
+      "distractors": [
+        "перлокуция",
+        "высказывание",
+        "дейксис"
+      ]
+    }
+  ],
+  "prompts": [
+    "Проанализируйте в одном и том же высказывании денотат и коннотацию: что получает говорящий, позволяя понять больше, чем он говорит?",
+    "Критиковать институциональный эвфемизм: смягчает ли он реальность или делает ее неоспоримой, вытесняя ее?",
+    "Покажите, как преуменьшение и дисфемизм по одному и тому же вопросу навязывают говорящему два властных отношения.",
+    "Из пробела в социолекте или диафазии оцените реальную иллокуцию (обещание, приказ, оправдание), скрывающуюся за видимым содержанием."
+  ],
+  "grammar": [
+    {
+      "id": "remote-registry-c2-grammar-1",
+      "title": {
+        "fr": "Registres et nuances lexicales",
+        "en": "Registers and lexical nuance",
+        "es": "Registros y matices léxicos",
+        "ru": "Регистры и лексические оттенки"
+      },
+      "rule": {
+        "fr": "Alternez vocabulaire savant et marqué (ironie, euphémisme) selon le genre.",
+        "en": "Switch between learned and marked lexicon (irony, euphemism) by genre.",
+        "es": "Alterna léxico culto y marcado (ironía, eufemismo) según el género.",
+        "ru": "Чередуйте книжную и маркированную лексику (ирония, эвфемизм) в зависимости от жанра."
+      },
+      "why": {
+        "en": "Control tone at near-native level.",
+        "es": "Controla el tono a un nivel casi nativo.",
+        "ru": "Контроль тона на почти родном уровне."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "книжный",
+          "формальный",
+          "рассматривать эвфемизм"
+        ],
+        [
+          "маркированный",
+          "ирония / эвфемизм",
+          "то, что связано с иллюзия"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-registry-c2-gq-1-1",
+          "prompt": "Книжный регистр: ___ (не «смотреть»).",
+          "answer": "рассматривать",
+          "options": [
+            "рассматривать",
+            "смотреть",
+            "глядеть"
+          ]
+        },
+        {
+          "id": "remote-registry-c2-gq-1-2",
+          "prompt": "Эвфемизм смягчает ___ .",
+          "answer": "тон",
+          "options": [
+            "тон",
+            "род",
+            "падеж"
+          ]
+        },
+        {
+          "id": "remote-registry-c2-gq-1-3",
+          "prompt": "Оттенок для обсуждения «эвфемизм» в эссе — ___ .",
+          "answer": "дискурс",
+          "options": [
+            "дискурс",
+            "болтовня",
+            "сленг"
+          ]
+        },
+        {
+          "id": "remote-registry-c2-gq-1-4",
+          "prompt": "Свяжите с темой: эвфемизм / иллюзия. Род «эвфемизм»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-registry-c2-gq-1-5",
+          "prompt": "Свяжите с темой: эвфемизм / иллюзия. Род «эвфемизм»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-registry-c2-grammar-2",
+      "title": {
+        "fr": "Constructions concessives complexes",
+        "en": "Complex concessive constructions",
+        "es": "Construcciones concesivas complejas",
+        "ru": "Сложные уступительные конструкции"
+      },
+      "rule": {
+        "fr": "Несмотря на / хотя / даже если intensifient la concession.",
+        "en": "Несмотря на / хотя / даже если intensify concession.",
+        "es": "Несмотря на / хотя / даже если intensifican la concesión.",
+        "ru": "Несмотря на / хотя / даже если усиливают уступку."
+      },
+      "why": {
+        "en": "Useful in critique and rhetoric.",
+        "es": "Útil en la crítica y la retórica.",
+        "ru": "Полезно в критике и риторике."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "несмотря на",
+          "+ Вин.",
+          "Несмотря на литоты, продолжаю."
+        ],
+        [
+          "хотя / даже если",
+          "уступка",
+          "Хотя есть обозначение, сомневаюсь."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-registry-c2-gq-2-1",
+          "prompt": "Несмотря ___ трудности, иду дальше.",
+          "answer": "на",
+          "options": [
+            "на",
+            "о",
+            "в"
+          ]
+        },
+        {
+          "id": "remote-registry-c2-gq-2-2",
+          "prompt": "___ холодно, я выхожу. (уступка)",
+          "answer": "Хотя",
+          "options": [
+            "Хотя",
+            "Потому",
+            "Когда"
+          ]
+        },
+        {
+          "id": "remote-registry-c2-gq-2-3",
+          "prompt": "Даже если будет сложно, я ___ .",
+          "answer": "попробую",
+          "options": [
+            "попробую",
+            "пробовал",
+            "пробую бы"
+          ]
+        },
+        {
+          "id": "remote-registry-c2-gq-2-4",
+          "prompt": "Свяжите с темой: литоты / обозначение. Род «литоты»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-registry-c2-gq-2-5",
+          "prompt": "Свяжите с темой: литоты / обозначение. Род «литоты»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-registry-c2-dict-1",
+        "l2": "Коннотация, более скользкая, чем денотат, направляет слово далеко за пределы того, что оно называет.",
+        "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+        "gloss": {
+          "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+          "es": "La connotación, más resbaladiza que la denotación, lleva la palabra mucho más allá de lo que nombra.",
+          "ru": "Коннотация, более скользкая, чем денотат, выводит слово далеко за пределы того, что оно называет."
+        },
+        "ipa": "konnotatsˈija bˈoljeje skolʲzkˈaja tɕjem djenˈotat naprˈavljajet slˈovo dˈaljeko zˈa prjedjelˈɨ tˈoɡo tɕtˈo"
+      },
+      {
+        "id": "remote-registry-c2-dict-2",
+        "l2": "Эвфемизм, хотя и смягчает, может зайти так далеко, что замаскирует реальность.",
+        "en": "Euphemism, even though it softens, may go so far as to disguise the real.",
+        "gloss": {
+          "en": "Euphemism, even though it softens, may go so far as to disguise the real.",
+          "es": "El eufemismo, aunque se suavice, puede llegar incluso a disfrazar lo real.",
+          "ru": "Эвфемизм, хотя и смягчается, может зайти так далеко, что замаскирует реальность."
+        },
+        "ipa": "ˈɛvfjemizm xˈotja ˈi smjˈaɡtɕajet mˈoʐjet zˈajti tˈak dˈaljeko tɕtˈo zamaskˈirujet rjeˈalʲnostʲ"
+      },
+      {
+        "id": "remote-registry-c2-dict-3",
+        "l2": "«Это не неинтересно», — говорит он, — и преуменьшение говорит громче, чем прямая похвала.",
+        "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+        "gloss": {
+          "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+          "es": "No deja de ser interesante, dijo, y los litotes dicen más que un elogio directo.",
+          "ru": "«Это не неинтересно», — сказал он, — и литоты говорят больше, чем просто похвалу."
+        },
+        "ipa": "ˈɛto nje njeˈintjerjesno ɡovˈorit ˈon ˈi prjeˈumjenʲʂjenije ɡovˈorit ɡrˈomtɕje tɕjem prjamˈaja poxvˈala"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-registry-c2-mean-1",
+        "l2": "Коннотация, более скользкая, чем денотат, направляет слово далеко за пределы того, что оно называет.",
+        "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+        "gloss": {
+          "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+          "es": "La connotación, más resbaladiza que la denotación, lleva la palabra mucho más allá de lo que nombra.",
+          "ru": "Коннотация, более скользкая, чем денотат, выводит слово далеко за пределы того, что оно называет."
+        }
+      },
+      {
+        "id": "remote-registry-c2-mean-2",
+        "l2": "Эвфемизм, хотя и смягчает, может зайти так далеко, что замаскирует реальность.",
+        "en": "Euphemism, even though it softens, may go so far as to disguise the real.",
+        "gloss": {
+          "en": "Euphemism, even though it softens, may go so far as to disguise the real.",
+          "es": "El eufemismo, aunque se suavice, puede llegar incluso a disfrazar lo real.",
+          "ru": "Эвфемизм, хотя и смягчается, может зайти так далеко, что замаскирует реальность."
+        }
+      },
+      {
+        "id": "remote-registry-c2-mean-3",
+        "l2": "«Это не неинтересно», — говорит он, — и преуменьшение говорит громче, чем прямая похвала.",
+        "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+        "gloss": {
+          "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+          "es": "No deja de ser interesante, dijo, y los litotes dicen más que un elogio directo.",
+          "ru": "«Это не неинтересно», — сказал он, — и литоты говорят больше, чем просто похвалу."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-registry-c2-fren-1",
+        "l2": "коннотация",
+        "en": "connotation",
+        "gloss": {
+          "en": "connotation",
+          "es": "connotación",
+          "ru": "коннотация"
+        }
+      },
+      {
+        "id": "remote-registry-c2-fren-2",
+        "l2": "эвфемизм",
+        "en": "euphemism",
+        "gloss": {
+          "en": "euphemism",
+          "es": "eufemismo",
+          "ru": "эвфемизм"
+        }
+      },
+      {
+        "id": "remote-registry-c2-fren-3",
+        "l2": "литоты",
+        "en": "litotes",
+        "gloss": {
+          "en": "litotes",
+          "es": "litotes",
+          "ru": "литоты"
+        }
+      },
+      {
+        "id": "remote-registry-c2-fren-4",
+        "l2": "социолект",
+        "en": "sociolect",
+        "gloss": {
+          "en": "sociolect",
+          "es": "sociolecto",
+          "ru": "социолект"
+        }
+      },
+      {
+        "id": "remote-registry-c2-fren-5",
+        "l2": "иллюзия",
+        "en": "illocution",
+        "gloss": {
+          "en": "illocution",
+          "es": "ilocución",
+          "ru": "иллюзия"
+        }
+      },
+      {
+        "id": "remote-registry-c2-fren-6",
+        "l2": "обозначение",
+        "en": "denotation",
+        "gloss": {
+          "en": "denotation",
+          "es": "denotación",
+          "ru": "обозначение"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-registry-c2-alou-1",
+        "l2": "Коннотация, более скользкая, чем денотат, направляет слово далеко за пределы того, что оно называет.",
+        "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+        "gloss": {
+          "en": "Connotation, more slippery than denotation, steers the word well beyond what it names.",
+          "es": "La connotación, más resbaladiza que la denotación, lleva la palabra mucho más allá de lo que nombra.",
+          "ru": "Коннотация, более скользкая, чем денотат, выводит слово далеко за пределы того, что оно называет."
+        },
+        "ipa": "konnotatsˈija bˈoljeje skolʲzkˈaja tɕjem djenˈotat naprˈavljajet slˈovo dˈaljeko zˈa prjedjelˈɨ tˈoɡo tɕtˈo"
+      },
+      {
+        "id": "remote-registry-c2-alou-2",
+        "l2": "«Это не неинтересно», — говорит он, — и преуменьшение говорит громче, чем прямая похвала.",
+        "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+        "gloss": {
+          "en": "It’s not uninteresting, he said — and the litotes says more than direct praise.",
+          "es": "No deja de ser interesante, dijo, y los litotes dicen más que un elogio directo.",
+          "ru": "«Это не неинтересно», — сказал он, — и литоты говорят больше, чем просто похвалу."
+        },
+        "ipa": "ˈɛto nje njeˈintjerjesno ɡovˈorit ˈon ˈi prjeˈumjenʲʂjenije ɡovˈorit ɡrˈomtɕje tɕjem prjamˈaja poxvˈala"
+      },
+      {
+        "id": "remote-registry-c2-alou-3",
+        "l2": "Илкуция, говорил Остин, — это не содержание: это действие, совершаемое посредством речи.",
+        "en": "Illocution, Austin said, is not the content: it is the act accomplished in speaking.",
+        "gloss": {
+          "en": "Illocution, Austin said, is not the content: it is the act accomplished in speaking.",
+          "es": "La ilocución, dijo Austin, no es el contenido: es el acto realizado al hablar.",
+          "ru": "Иллокация, говорил Остин, — это не содержание: это акт, совершаемый в разговоре."
+        },
+        "ipa": "ilkutsˈija ɡovˈoril ˈostin ˈɛto nje sodjerʐˈanije ˈɛto djejstvˈije sovjerʂˈajemoje pˈosrjedstvom rjetɕˈi"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-registry-c2-unsc-1",
+        "l2": "Иллокация для Остина — это действие, совершаемое посредством разговора: обещание, приказание, оправдание.",
+        "en": "Illocution, for Austin, is the act performed in speaking: promising, ordering, apologizing.",
+        "gloss": {
+          "en": "Illocution, for Austin, is the act performed in speaking: promising, ordering, apologizing.",
+          "es": "La ilocución, para Austin, es el acto realizado al hablar: prometer, ordenar, disculparse.",
+          "ru": "Иллокация для Остина — это действие, совершаемое в разговоре: обещание, приказание, извинение."
+        },
+        "words": [
+          "Иллокация",
+          "для",
+          "Остина",
+          "—",
+          "это",
+          "действие,",
+          "совершаемое",
+          "посредством",
+          "разговора:",
+          "обещание,",
+          "приказание,",
+          "оправдание."
+        ]
+      },
+      {
+        "id": "remote-registry-c2-unsc-2",
+        "l2": "Денотат, устойчивое содержание, не исчерпывает того, что слово делает в ситуации.",
+        "en": "Denotation, the stable content, does not exhaust what the word does in a situation.",
+        "gloss": {
+          "en": "Denotation, the stable content, does not exhaust what the word does in a situation.",
+          "es": "La denotación, el contenido estable, no agota lo que hace la palabra en una situación.",
+          "ru": "Денотация, устойчивое содержание, не исчерпывает того, что слово делает в ситуации."
+        },
+        "words": [
+          "Денотат,",
+          "устойчивое",
+          "содержание,",
+          "не",
+          "исчерпывает",
+          "того,",
+          "что",
+          "слово",
+          "делает",
+          "в",
+          "ситуации."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

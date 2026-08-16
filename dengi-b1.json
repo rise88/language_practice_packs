@@ -1,0 +1,831 @@
+{
+  "pratiquePack": 2,
+  "id": "dengi-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "ru",
+  "title": {
+    "fr": "Argent B1 (RU)",
+    "en": "Money B1 (RU)",
+    "es": "Dinero B1 (RU)",
+    "ru": "Деньги Б1"
+  },
+  "description": {
+    "fr": "Banque, budget et paiements pour gérer l’argent au quotidien — pack russe.",
+    "en": "Banking, budgets, and payments for everyday money matters — Russian pack.",
+    "es": "Banca, presupuestos y pagos para asuntos monetarios cotidianos — paquete ruso.",
+    "ru": "Банковское дело, бюджеты и платежи для повседневных денежных вопросов — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-dengi-b1-1",
+      "l2": "деньги",
+      "en": "money",
+      "gloss": {
+        "en": "money",
+        "es": "dinero",
+        "ru": "деньги"
+      },
+      "example": "Мне не хватает денег в этом месяце.",
+      "ipa": "djenʲɡˈi",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-2",
+      "l2": "бюджет",
+      "en": "budget",
+      "gloss": {
+        "en": "budget",
+        "es": "presupuesto",
+        "ru": "бюджет"
+      },
+      "example": "Мой бюджет на еду увеличился.",
+      "ipa": "bjˈudʐjet",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-3",
+      "l2": "счет",
+      "en": "account",
+      "gloss": {
+        "en": "account",
+        "es": "cuenta",
+        "ru": "счет"
+      },
+      "example": "Я проверяю свой аккаунт онлайн.",
+      "ipa": "stɕjet",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-4",
+      "l2": "передача",
+      "en": "transfer",
+      "gloss": {
+        "en": "transfer",
+        "es": "transferir",
+        "ru": "передача"
+      },
+      "example": "Вчера я сделал перевод.",
+      "ipa": "pjerjedˈatɕa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dengi-b1-5",
+      "l2": "овердрафт",
+      "en": "overdraft",
+      "gloss": {
+        "en": "overdraft",
+        "es": "sobregiro",
+        "ru": "овердрафт"
+      },
+      "example": "Овердрафт разрешен до 200 евро.",
+      "ipa": "ˈovjerdraft",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-6",
+      "l2": "сбережения",
+      "en": "savings",
+      "gloss": {
+        "en": "savings",
+        "es": "ahorros",
+        "ru": "сбережения"
+      },
+      "example": "Каждый месяц я откладываю немного денег.",
+      "ipa": "sbjerjeʐjenˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dengi-b1-7",
+      "l2": "кредит",
+      "en": "credit / loan",
+      "gloss": {
+        "en": "credit / loan",
+        "es": "crédito/préstamo",
+        "ru": "кредит / заем"
+      },
+      "example": "Ипотека рассчитана на двадцать лет.",
+      "ipa": "krjedˈit",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-8",
+      "l2": "проценты",
+      "en": "interest (finance)",
+      "gloss": {
+        "en": "interest (finance)",
+        "es": "interés (finanzas)",
+        "ru": "проценты (финансы)"
+      },
+      "example": "Проценты по кредиту высокие.",
+      "ipa": "prˈotsjentɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-9",
+      "l2": "счет",
+      "en": "bill / invoice",
+      "gloss": {
+        "en": "bill / invoice",
+        "es": "factura / factura",
+        "ru": "счет / счет-фактура"
+      },
+      "example": "Я оплатил счет за электричество.",
+      "ipa": "stɕjet",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-10",
+      "l2": "квитанция",
+      "en": "receipt",
+      "gloss": {
+        "en": "receipt",
+        "es": "recibo",
+        "ru": "квитанция"
+      },
+      "example": "На всякий случай сохраните чек.",
+      "ipa": "kvitantsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dengi-b1-11",
+      "l2": "наличные",
+      "en": "cash",
+      "gloss": {
+        "en": "cash",
+        "es": "dinero",
+        "ru": "наличные"
+      },
+      "example": "Они больше не принимают наличные.",
+      "ipa": "nalˈitɕnɨje",
+      "article": "ср"
+    },
+    {
+      "id": "remote-dengi-b1-12",
+      "l2": "банковская карта",
+      "en": "bank card",
+      "gloss": {
+        "en": "bank card",
+        "es": "tarjeta bancaria",
+        "ru": "банковская карта"
+      },
+      "example": "Моя банковская карта была отклонена.",
+      "ipa": "bankovskaja kˈarta",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dengi-b1-13",
+      "l2": "банкомат",
+      "en": "cash machine / ATM",
+      "gloss": {
+        "en": "cash machine / ATM",
+        "es": "cajero automático / cajero automático",
+        "ru": "банкомат/банкомат"
+      },
+      "example": "Распределитель сломан.",
+      "ipa": "bankˈomat",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-14",
+      "l2": "налог",
+      "en": "tax",
+      "gloss": {
+        "en": "tax",
+        "es": "impuesto",
+        "ru": "налог"
+      },
+      "example": "Налоги оплачиваются онлайн.",
+      "ipa": "nˈaloɡ",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-15",
+      "l2": "зарплата",
+      "en": "salary",
+      "gloss": {
+        "en": "salary",
+        "es": "salario",
+        "ru": "зарплата"
+      },
+      "example": "Зарплата приходит двадцать восьмого числа.",
+      "ipa": "zarplˈata",
+      "article": "ж"
+    },
+    {
+      "id": "remote-dengi-b1-16",
+      "l2": "долг",
+      "en": "debt",
+      "gloss": {
+        "en": "debt",
+        "es": "deuda",
+        "ru": "долг"
+      },
+      "example": "Долг беспокоил его уже несколько месяцев.",
+      "ipa": "dˈolɡ",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-17",
+      "l2": "инвестиции",
+      "en": "investment",
+      "gloss": {
+        "en": "investment",
+        "es": "inversión",
+        "ru": "инвестиции"
+      },
+      "example": "Эта инвестиция рискованна.",
+      "ipa": "invjestitsˈii",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-18",
+      "l2": "страхование",
+      "en": "insurance",
+      "gloss": {
+        "en": "insurance",
+        "es": "seguro",
+        "ru": "страхование"
+      },
+      "example": "Моя страховка на жилье увеличилась.",
+      "ipa": "straxovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-dengi-b1-19",
+      "l2": "кончик",
+      "en": "tip",
+      "gloss": {
+        "en": "tip",
+        "es": "consejo",
+        "ru": "кончик"
+      },
+      "example": "Чаевые здесь не обязательны.",
+      "ipa": "kˈontɕik",
+      "article": "м"
+    },
+    {
+      "id": "remote-dengi-b1-20",
+      "l2": "баланс",
+      "en": "balance / sale",
+      "gloss": {
+        "en": "balance / sale",
+        "es": "saldo / venta",
+        "ru": "баланс / продажа"
+      },
+      "example": "Баланс счета положительный.",
+      "ipa": "bˈalans",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-dengi-b1-phrase-1",
+      "l2": "Я хотел бы сделать перевод, пожалуйста.",
+      "en": "I’d like to make a transfer, please.",
+      "gloss": {
+        "en": "I’d like to make a transfer, please.",
+        "es": "Me gustaría hacer una transferencia, por favor.",
+        "ru": "Я хотел бы сделать перевод, пожалуйста."
+      },
+      "ipa": "jˈa xˈotjel bˈɨ sdjelˈatʲ pjerjevˈod poʐalˈujsta"
+    },
+    {
+      "id": "remote-dengi-b1-phrase-2",
+      "l2": "Моя карта была отклонена в магазине.",
+      "en": "My card was declined in the shop.",
+      "gloss": {
+        "en": "My card was declined in the shop.",
+        "es": "Mi tarjeta fue rechazada en la tienda.",
+        "ru": "Моя карта была отклонена в магазине."
+      },
+      "ipa": "mˈoja kˈarta bˈɨla otklˈonjena v maɡˈazinje"
+    },
+    {
+      "id": "remote-dengi-b1-phrase-3",
+      "l2": "Я пытаюсь сэкономить.",
+      "en": "I try to put money aside.",
+      "gloss": {
+        "en": "I try to put money aside.",
+        "es": "Intento ahorrar dinero.",
+        "ru": "Я стараюсь откладывать деньги."
+      },
+      "ipa": "jˈa pɨtˈajusʲ sɛkonˈomitʲ"
+    },
+    {
+      "id": "remote-dengi-b1-phrase-4",
+      "l2": "Аренда занимает большую часть моего бюджета.",
+      "en": "Rent takes up a large part of my budget.",
+      "gloss": {
+        "en": "Rent takes up a large part of my budget.",
+        "es": "El alquiler ocupa gran parte de mi presupuesto.",
+        "ru": "Аренда занимает большую часть моего бюджета."
+      },
+      "ipa": "ˈarjenda zanˈimajet bolʲʂˈuju tɕˈastʲ mˈojeɡo bjˈudʐjeta"
+    },
+    {
+      "id": "remote-dengi-b1-phrase-5",
+      "l2": "Вы принимаете наличные?",
+      "en": "Do you take cash?",
+      "gloss": {
+        "en": "Do you take cash?",
+        "es": "¿Aceptas efectivo?",
+        "ru": "Вы принимаете наличные?"
+      },
+      "ipa": "vˈɨ prinˈimajetje nalˈitɕnɨje"
+    },
+    {
+      "id": "remote-dengi-b1-phrase-6",
+      "l2": "Я должен оплатить этот счет сегодня.",
+      "en": "I have to pay this bill today.",
+      "gloss": {
+        "en": "I have to pay this bill today.",
+        "es": "Tengo que pagar esta factura hoy.",
+        "ru": "Я должен оплатить этот счет сегодня."
+      },
+      "ipa": "jˈa dˈolʐjen oplˈatitʲ ˈɛtot stɕjet sjeɡˈodnja"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-dengi-b1-listen-1",
+      "l2": "Вчера вечером я сделал перевод.",
+      "en": "I made a transfer last night.",
+      "gloss": {
+        "en": "I made a transfer last night.",
+        "es": "Anoche hice una transferencia.",
+        "ru": "Вчера вечером я сделал перевод."
+      },
+      "word": "передача",
+      "wordEn": "transfer",
+      "wordGloss": {
+        "en": "transfer",
+        "es": "transferir",
+        "ru": "передача"
+      },
+      "wordIpa": "pjerjedˈatɕa",
+      "distractors": [
+        "овердрафт",
+        "налог",
+        "кончик"
+      ]
+    },
+    {
+      "id": "remote-dengi-b1-listen-2",
+      "l2": "Моя банковская карта была отклонена.",
+      "en": "My bank card was declined.",
+      "gloss": {
+        "en": "My bank card was declined.",
+        "es": "Mi tarjeta bancaria fue rechazada.",
+        "ru": "Моя банковская карта была отклонена."
+      },
+      "word": "банковская карта",
+      "wordEn": "bank card",
+      "wordGloss": {
+        "en": "bank card",
+        "es": "tarjeta bancaria",
+        "ru": "банковская карта"
+      },
+      "wordIpa": "bankovskaja kˈarta",
+      "distractors": [
+        "наличные",
+        "квитанция",
+        "баланс"
+      ]
+    },
+    {
+      "id": "remote-dengi-b1-listen-3",
+      "l2": "Каждый месяц я откладываю немного денег.",
+      "en": "I put a bit into savings each month.",
+      "gloss": {
+        "en": "I put a bit into savings each month.",
+        "es": "Ahorro un poco cada mes.",
+        "ru": "Каждый месяц я откладываю немного денег."
+      },
+      "word": "сбережения",
+      "wordEn": "savings",
+      "wordGloss": {
+        "en": "savings",
+        "es": "ahorros",
+        "ru": "сбережения"
+      },
+      "wordIpa": "sbjerjeʐjenˈija",
+      "distractors": [
+        "долг",
+        "проценты",
+        "кредит"
+      ]
+    },
+    {
+      "id": "remote-dengi-b1-listen-4",
+      "l2": "Я оплатил счет за электричество.",
+      "en": "I paid the electricity bill.",
+      "gloss": {
+        "en": "I paid the electricity bill.",
+        "es": "Pagué la factura de la luz.",
+        "ru": "Я оплатил счет за электричество."
+      },
+      "word": "счет",
+      "wordEn": "bill",
+      "wordGloss": {
+        "en": "bill",
+        "es": "factura",
+        "ru": "счет"
+      },
+      "wordIpa": "stɕjet",
+      "distractors": [
+        "квитанция",
+        "налог",
+        "страхование"
+      ]
+    }
+  ],
+  "prompts": [
+    "Как вы управляете своим ежемесячным бюджетом?",
+    "Вы предпочитаете платить картой или наличными? За что ?",
+    "Рассказывает о проблеме с банком или векселем.",
+    "Что стоит больше всего в вашей повседневной жизни?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-dengi-b1-grammar-1",
+      "title": {
+        "fr": "Génitif après нет / много",
+        "en": "Genitive after нет / много",
+        "es": "Genitivo tras нет / много",
+        "ru": "Родительный падеж после нет / много"
+      },
+      "rule": {
+        "fr": "После нет, мало, много, без — génitif.",
+        "en": "After нет, мало, много, без — use genitive.",
+        "es": "Tras нет, мало, много, без — genitivo.",
+        "ru": "После нет, мало, много, без — родительный падеж."
+      },
+      "why": {
+        "en": "Essential for negation and quantities.",
+        "es": "Esencial para la negación y las cantidades.",
+        "ru": "Необходимо для отрицания и количеств."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "нет + Род.",
+          "отрицание",
+          "Нет бюджет."
+        ],
+        [
+          "много + Род.",
+          "количество",
+          "Много овердрафт."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-dengi-b1-gq-1-1",
+          "prompt": "После «нет» нужен ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "винительный",
+            "дательный"
+          ]
+        },
+        {
+          "id": "remote-dengi-b1-gq-1-2",
+          "prompt": "У меня нет ___ . (тема: бюджет)",
+          "answer": "бюджет",
+          "options": [
+            "бюджет",
+            "есть",
+            "это"
+          ]
+        },
+        {
+          "id": "remote-dengi-b1-gq-1-3",
+          "prompt": "Много / мало / без → ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "творительный",
+            "именительный"
+          ]
+        },
+        {
+          "id": "remote-dengi-b1-gq-1-4",
+          "prompt": "Свяжите с темой: бюджет / овердрафт. Род «бюджет»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-dengi-b1-gq-1-5",
+          "prompt": "Свяжите с темой: бюджет / овердрафт. Род «бюджет»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-dengi-b1-grammar-2",
+      "title": {
+        "fr": "Verbes de mouvement (идти / ехать)",
+        "en": "Verbs of motion (идти / ехать)",
+        "es": "Verbos de movimiento (идти / ехать)",
+        "ru": "Глаголы движения (идти / ехать)"
+      },
+      "rule": {
+        "fr": "Идти — à pied ; ехать — en véhicule (direction précise).",
+        "en": "Идти — on foot; ехать — by vehicle (specific direction).",
+        "es": "Идти — a pie; ехать — en vehículo (dirección concreta).",
+        "ru": "Идти — пешком; ехать — на транспорте (конкретное направление)."
+      },
+      "why": {
+        "en": "Choosing the right motion verb sounds natural.",
+        "es": "Elegir el verbo de movimiento correcto suena natural.",
+        "ru": "Правильный глагол движения звучит естественно."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "идти",
+          "пешком",
+          "Я иду в магазин."
+        ],
+        [
+          "ехать",
+          "на транспорте",
+          "Я еду на работу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-dengi-b1-gq-2-1",
+          "prompt": "Пешком в парк: я ___ .",
+          "answer": "иду",
+          "options": [
+            "иду",
+            "еду",
+            "летаю"
+          ]
+        },
+        {
+          "id": "remote-dengi-b1-gq-2-2",
+          "prompt": "На автобусе: я ___ .",
+          "answer": "еду",
+          "options": [
+            "еду",
+            "иду",
+            "хожу"
+          ]
+        },
+        {
+          "id": "remote-dengi-b1-gq-2-3",
+          "prompt": "Конкретное направление на машине — глагол ___ .",
+          "answer": "ехать",
+          "options": [
+            "ехать",
+            "идти",
+            "быть"
+          ]
+        },
+        {
+          "id": "remote-dengi-b1-gq-2-4",
+          "prompt": "Свяжите с темой: счет / сбережения. Род «счет»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-dengi-b1-gq-2-5",
+          "prompt": "Свяжите с темой: счет / сбережения. Род «счет»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-dengi-b1-dict-1",
+        "l2": "Я хотел бы сделать перевод, пожалуйста.",
+        "en": "I’d like to make a transfer, please.",
+        "gloss": {
+          "en": "I’d like to make a transfer, please.",
+          "es": "Me gustaría hacer una transferencia, por favor.",
+          "ru": "Я хотел бы сделать перевод, пожалуйста."
+        },
+        "ipa": "jˈa xˈotjel bˈɨ sdjelˈatʲ pjerjevˈod poʐalˈujsta"
+      },
+      {
+        "id": "remote-dengi-b1-dict-2",
+        "l2": "Моя карта была отклонена в магазине.",
+        "en": "My card was declined in the shop.",
+        "gloss": {
+          "en": "My card was declined in the shop.",
+          "es": "Mi tarjeta fue rechazada en la tienda.",
+          "ru": "Моя карта была отклонена в магазине."
+        },
+        "ipa": "mˈoja kˈarta bˈɨla otklˈonjena v maɡˈazinje"
+      },
+      {
+        "id": "remote-dengi-b1-dict-3",
+        "l2": "Я пытаюсь сэкономить.",
+        "en": "I try to put money aside.",
+        "gloss": {
+          "en": "I try to put money aside.",
+          "es": "Intento ahorrar dinero.",
+          "ru": "Я стараюсь откладывать деньги."
+        },
+        "ipa": "jˈa pɨtˈajusʲ sɛkonˈomitʲ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-dengi-b1-mean-1",
+        "l2": "Я хотел бы сделать перевод, пожалуйста.",
+        "en": "I’d like to make a transfer, please.",
+        "gloss": {
+          "en": "I’d like to make a transfer, please.",
+          "es": "Me gustaría hacer una transferencia, por favor.",
+          "ru": "Я хотел бы сделать перевод, пожалуйста."
+        }
+      },
+      {
+        "id": "remote-dengi-b1-mean-2",
+        "l2": "Моя карта была отклонена в магазине.",
+        "en": "My card was declined in the shop.",
+        "gloss": {
+          "en": "My card was declined in the shop.",
+          "es": "Mi tarjeta fue rechazada en la tienda.",
+          "ru": "Моя карта была отклонена в магазине."
+        }
+      },
+      {
+        "id": "remote-dengi-b1-mean-3",
+        "l2": "Я пытаюсь сэкономить.",
+        "en": "I try to put money aside.",
+        "gloss": {
+          "en": "I try to put money aside.",
+          "es": "Intento ahorrar dinero.",
+          "ru": "Я стараюсь откладывать деньги."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-dengi-b1-fren-1",
+        "l2": "деньги",
+        "en": "money",
+        "gloss": {
+          "en": "money",
+          "es": "dinero",
+          "ru": "деньги"
+        }
+      },
+      {
+        "id": "remote-dengi-b1-fren-2",
+        "l2": "бюджет",
+        "en": "budget",
+        "gloss": {
+          "en": "budget",
+          "es": "presupuesto",
+          "ru": "бюджет"
+        }
+      },
+      {
+        "id": "remote-dengi-b1-fren-3",
+        "l2": "счет",
+        "en": "account",
+        "gloss": {
+          "en": "account",
+          "es": "cuenta",
+          "ru": "счет"
+        }
+      },
+      {
+        "id": "remote-dengi-b1-fren-4",
+        "l2": "передача",
+        "en": "transfer",
+        "gloss": {
+          "en": "transfer",
+          "es": "transferir",
+          "ru": "передача"
+        }
+      },
+      {
+        "id": "remote-dengi-b1-fren-5",
+        "l2": "овердрафт",
+        "en": "overdraft",
+        "gloss": {
+          "en": "overdraft",
+          "es": "sobregiro",
+          "ru": "овердрафт"
+        }
+      },
+      {
+        "id": "remote-dengi-b1-fren-6",
+        "l2": "сбережения",
+        "en": "savings",
+        "gloss": {
+          "en": "savings",
+          "es": "ahorros",
+          "ru": "сбережения"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-dengi-b1-alou-1",
+        "l2": "Я хотел бы сделать перевод, пожалуйста.",
+        "en": "I’d like to make a transfer, please.",
+        "gloss": {
+          "en": "I’d like to make a transfer, please.",
+          "es": "Me gustaría hacer una transferencia, por favor.",
+          "ru": "Я хотел бы сделать перевод, пожалуйста."
+        },
+        "ipa": "jˈa xˈotjel bˈɨ sdjelˈatʲ pjerjevˈod poʐalˈujsta"
+      },
+      {
+        "id": "remote-dengi-b1-alou-2",
+        "l2": "Я пытаюсь сэкономить.",
+        "en": "I try to put money aside.",
+        "gloss": {
+          "en": "I try to put money aside.",
+          "es": "Intento ahorrar dinero.",
+          "ru": "Я стараюсь откладывать деньги."
+        },
+        "ipa": "jˈa pɨtˈajusʲ sɛkonˈomitʲ"
+      },
+      {
+        "id": "remote-dengi-b1-alou-3",
+        "l2": "Вы принимаете наличные?",
+        "en": "Do you take cash?",
+        "gloss": {
+          "en": "Do you take cash?",
+          "es": "¿Aceptas efectivo?",
+          "ru": "Вы принимаете наличные?"
+        },
+        "ipa": "vˈɨ prinˈimajetje nalˈitɕnɨje"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-dengi-b1-unsc-1",
+        "l2": "Аренда занимает большую часть моего бюджета.",
+        "en": "Rent takes up a large part of my budget.",
+        "gloss": {
+          "en": "Rent takes up a large part of my budget.",
+          "es": "El alquiler ocupa gran parte de mi presupuesto.",
+          "ru": "Аренда занимает большую часть моего бюджета."
+        },
+        "words": [
+          "Аренда",
+          "занимает",
+          "большую",
+          "часть",
+          "моего",
+          "бюджета."
+        ]
+      },
+      {
+        "id": "remote-dengi-b1-unsc-2",
+        "l2": "Вы принимаете наличные?",
+        "en": "Do you take cash?",
+        "gloss": {
+          "en": "Do you take cash?",
+          "es": "¿Aceptas efectivo?",
+          "ru": "Вы принимаете наличные?"
+        },
+        "words": [
+          "Вы",
+          "принимаете",
+          "наличные?"
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

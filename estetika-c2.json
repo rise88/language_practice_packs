@@ -1,0 +1,849 @@
+{
+  "pratiquePack": 2,
+  "id": "estetika-c2",
+  "version": 1,
+  "level": "c2",
+  "lang": "ru",
+  "title": {
+    "fr": "Esthétique C2 (RU)",
+    "en": "Aesthetics C2 (RU)",
+    "es": "Estética C2 (RU)",
+    "ru": "Эстетика C2"
+  },
+  "description": {
+    "fr": "Sublime, mimèsis, goût et aura pour une critique des régimes du sensible — pack russe.",
+    "en": "The sublime, mimesis, taste, and aura for a critique of regimes of the sensible — Russian pack.",
+    "es": "Lo sublime, mimesis, gusto y aura para una crítica de los regímenes de lo sensible — paquete ruso.",
+    "ru": "Возвышенное, мимесис, вкус и аура для критики режимов чувственного — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-estetika-c2-1",
+      "l2": "возвышенное",
+      "en": "the sublime",
+      "gloss": {
+        "en": "the sublime",
+        "es": "lo sublime",
+        "ru": "возвышенное"
+      },
+      "example": "Возвышенное, по Канту, не есть преувеличенная красота: это столкновение воображения с тем, что его переполняет.",
+      "ipa": "vozvˈɨʂjennoje",
+      "article": "ср"
+    },
+    {
+      "id": "remote-estetika-c2-2",
+      "l2": "мимесис",
+      "en": "mimesis",
+      "gloss": {
+        "en": "mimesis",
+        "es": "mimetismo",
+        "ru": "мимесис"
+      },
+      "example": "Мимесис, далекий от рабской копии, строит мир по своим правилам.",
+      "ipa": "mˈimjesis",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-3",
+      "l2": "вкус",
+      "en": "taste",
+      "gloss": {
+        "en": "taste",
+        "es": "gusto",
+        "ru": "вкус"
+      },
+      "example": "Вкус, антиномия Канта, стремится быть универсальным, оставаясь при этом суждением без понятия.",
+      "ipa": "vkˈus",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-4",
+      "l2": "форма",
+      "en": "form",
+      "gloss": {
+        "en": "form",
+        "es": "forma",
+        "ru": "форма"
+      },
+      "example": "Форма не является вместилищем содержания: это сама организация чувственного.",
+      "ipa": "fˈorma",
+      "article": "ж"
+    },
+    {
+      "id": "remote-estetika-c2-5",
+      "l2": "аура",
+      "en": "aura",
+      "gloss": {
+        "en": "aura",
+        "es": "aura",
+        "ru": "аура"
+      },
+      "example": "Аура для Беньямина — это уникальное произведение здесь и сейчас, техническую воспроизводимость которого разрушает.",
+      "ipa": "aˈura",
+      "article": "ж"
+    },
+    {
+      "id": "remote-estetika-c2-6",
+      "l2": "красивый",
+      "en": "the beautiful",
+      "gloss": {
+        "en": "the beautiful",
+        "es": "la bella",
+        "ru": "красивый"
+      },
+      "example": "Прекрасное, отличное от возвышенного, обещает гармонию, в которой разум может жить без головокружения.",
+      "ipa": "krasˈivɨj",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-7",
+      "l2": "китч",
+      "en": "kitsch",
+      "gloss": {
+        "en": "kitsch",
+        "es": "kitsch",
+        "ru": "китч"
+      },
+      "example": "Китч, предлагая эмоции без сопротивления формы, больше утешает, чем осуждает.",
+      "ipa": "kˈittɕ",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-8",
+      "l2": "поэзис",
+      "en": "poiesis",
+      "gloss": {
+        "en": "poiesis",
+        "es": "poiesis",
+        "ru": "поэзис"
+      },
+      "example": "Poiesis, производство, благодаря которому вещи происходят, противостоит практике, как работа противостоит действию.",
+      "ipa": "poˈɛzis",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-9",
+      "l2": "милость",
+      "en": "grace",
+      "gloss": {
+        "en": "grace",
+        "es": "gracia",
+        "ru": "милость"
+      },
+      "example": "Грация для Шиллера — это красота движения, в котором свобода кажется естественной.",
+      "ipa": "mˈilostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-10",
+      "l2": "живописный",
+      "en": "the picturesque",
+      "gloss": {
+        "en": "the picturesque",
+        "es": "lo pintoresco",
+        "ru": "живописный"
+      },
+      "example": "Живописное оформляет пейзаж в картину и щадит взгляд, от которого отвлекало бы слишком резкое возвышенное.",
+      "ipa": "ʐivopˈisnɨj",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-11",
+      "l2": "эстетизм",
+      "en": "aestheticism",
+      "gloss": {
+        "en": "aestheticism",
+        "es": "esteticismo",
+        "ru": "эстетизм"
+      },
+      "example": "Эстетизм, закрываясь от мира, делает искусство скорее идолом, чем вопросом.",
+      "ipa": "ˈɛstjetizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-12",
+      "l2": "светотень",
+      "en": "chiaroscuro",
+      "gloss": {
+        "en": "chiaroscuro",
+        "es": "claroscuro",
+        "ru": "светотень"
+      },
+      "example": "Светотень не рисует свет: она отрывает его от тени, которая его раскрывает.",
+      "ipa": "svjetˈotjenʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-13",
+      "l2": "аналогон",
+      "en": "analogon",
+      "gloss": {
+        "en": "analogon",
+        "es": "análogo",
+        "ru": "аналогон"
+      },
+      "example": "Аналогон для Сартра — это материальная опора, посредством которой дается ирреальный образ.",
+      "ipa": "analˈoɡon",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-14",
+      "l2": "схема",
+      "en": "schema",
+      "gloss": {
+        "en": "schema",
+        "es": "esquema",
+        "ru": "схема"
+      },
+      "example": "Схема, кантианский посредник, артикулирует концепцию и интуицию, не смешивая их.",
+      "ipa": "sxjemˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-estetika-c2-15",
+      "l2": "остранение",
+      "en": "defamiliarization",
+      "gloss": {
+        "en": "defamiliarization",
+        "es": "desfamiliarización",
+        "ru": "остранение"
+      },
+      "example": "Сингуляризация у русских формалистов вырывает привычное из автоматизма восприятия.",
+      "ipa": "ostrˈanjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-estetika-c2-16",
+      "l2": "гармония",
+      "en": "harmony",
+      "gloss": {
+        "en": "harmony",
+        "es": "armonía",
+        "ru": "гармония"
+      },
+      "example": "Гармония, классическое обещание, предполагает соглашение между сторонами, которое современность продолжает подрывать.",
+      "ipa": "ɡarmonˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-estetika-c2-17",
+      "l2": "идеальный",
+      "en": "ideal",
+      "gloss": {
+        "en": "ideal",
+        "es": "ideal",
+        "ru": "идеальный"
+      },
+      "example": "Идеал — это не модель, которую нужно копировать: это цель, к которой форма приближается, но не достигает ее.",
+      "ipa": "idjeˈalʲnɨj",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-18",
+      "l2": "технэ",
+      "en": "techne",
+      "gloss": {
+        "en": "techne",
+        "es": "techné",
+        "ru": "технэ"
+      },
+      "example": "Греческое техне, ориентированное на ноу-хау, еще не противопоставляет искусство технике.",
+      "ipa": "tjexnˈɛ",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-19",
+      "l2": "je-ne-sais-quoi",
+      "en": "je-ne-sais-quoi",
+      "gloss": {
+        "en": "je-ne-sais-quoi",
+        "es": "je-ne-sais-quoi",
+        "ru": "je-ne-sais-quoi"
+      },
+      "example": "je ne sais quoi называет, по признанию бессилия, то, что вкус пахнет и что понятие не исчерпывает.",
+      "ipa": "je-ne-sais-quˈoi",
+      "article": "м"
+    },
+    {
+      "id": "remote-estetika-c2-20",
+      "l2": "аистез",
+      "en": "aisthesis",
+      "gloss": {
+        "en": "aisthesis",
+        "es": "aistesis",
+        "ru": "аистез"
+      },
+      "example": "Аистез, чуткое понимание предшествует любому теоретизированию красоты.",
+      "ipa": "ˈaistjez",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-estetika-c2-phrase-1",
+      "l2": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает красоту, а разрушает ее.",
+      "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+      "gloss": {
+        "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+        "es": "Lo sublime es más desconcertante de lo que comúnmente se dice: no agranda lo bello, lo rompe.",
+        "ru": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает прекрасное, а разрушает его."
+      },
+      "ipa": "vozvˈɨʂjennoje sbˈivajet s tˈolku bˈolʲʂje tɕjem obˈɨtɕno ɡovˈorjat ˈono nje uvjelitɕˈivajet krasˈotu"
+    },
+    {
+      "id": "remote-estetika-c2-phrase-2",
+      "l2": "Мимесис, возражал он, устанавливает мир; она не копирует нашу.",
+      "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
+      "gloss": {
+        "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
+        "es": "La mimesis, objetó, instituye un mundo; no copia el nuestro.",
+        "ru": "Мимесис, возражал он, учреждает мир; он не копирует наш."
+      },
+      "ipa": "mˈimjesis vozrˈaʐal ˈon ustanavlˈivajet mˈir ˈona nje kopˈirujet nˈaʂu"
+    },
+    {
+      "id": "remote-estetika-c2-phrase-3",
+      "l2": "Аура, которую разрушает техническая воспроизводимость, возникла благодаря уникальности того, что происходит здесь и сейчас.",
+      "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+      "gloss": {
+        "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+        "es": "El aura, que la reproducibilidad técnica erosiona, reside en la unicidad del aquí y ahora.",
+        "ru": "Аура, которую разрушает техническая воспроизводимость, заключается в уникальности здесь и сейчас."
+      },
+      "ipa": "aˈura kotorˈuju razrˈuʂajet tjexnitɕjeskˈaja vosproizvodˈimostʲ voznˈikla blaɡodˈarja unikalʲnˈosti tˈoɡo tɕtˈo proisxˈodit zdjesʲ"
+    },
+    {
+      "id": "remote-estetika-c2-phrase-4",
+      "l2": "Хотя вкус стремится быть универсальным, он остается суждением без понятия.",
+      "en": "Even though taste claims universality, it remains a judgement without a concept.",
+      "gloss": {
+        "en": "Even though taste claims universality, it remains a judgement without a concept.",
+        "es": "Aunque el gusto pretende ser universal, sigue siendo un juicio sin concepto.",
+        "ru": "Хотя вкус и претендует на универсальность, он остается суждением без понятия."
+      },
+      "ipa": "xˈotja vkˈus strjemˈitsja bˈɨtʲ univjersˈalʲnɨm ˈon ostˈajetsja sˈuʐdjenijem bjez ponjatˈija"
+    },
+    {
+      "id": "remote-estetika-c2-phrase-5",
+      "l2": "Кроме того, форма — это не вместилище содержания, а организация чувственного.",
+      "en": "Thus form is not the container of a content, but the organisation of the sensible.",
+      "gloss": {
+        "en": "Thus form is not the container of a content, but the organisation of the sensible.",
+        "es": "Así, la forma no es el contenedor de un contenido, sino la organización de lo sensible.",
+        "ru": "Таким образом, форма — это не вместилище содержания, а организация чувственного."
+      },
+      "ipa": "krˈomje tˈoɡo fˈorma ˈɛto nje vmjestˈiliɕːje sodjerʐanˈija ˈa orɡanizatsˈija tɕuvstvjennˈoɡo"
+    },
+    {
+      "id": "remote-estetika-c2-phrase-6",
+      "l2": "Китч больше утешает, чем судит, предлагая эмоции без сопротивления формы.",
+      "en": "Kitsch consoles more than it judges, offering emotion without the resistance of form.",
+      "gloss": {
+        "en": "Kitsch consoles more than it judges, offering emotion without the resistance of form.",
+        "es": "Kitsch consuela más de lo que juzga, ofreciendo emoción sin la resistencia de la forma.",
+        "ru": "Китч больше утешает, чем судит, предлагая эмоции без сопротивления формы."
+      },
+      "ipa": "kˈittɕ bˈolʲʂje ˈutjeʂajet tɕjem sˈudit prjedlaɡˈaja ɛmotsˈii bjez soprotivljenˈija fˈormɨ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-estetika-c2-listen-1",
+      "l2": "Возвышенное — это столкновение воображения с тем, что выходит за его пределы.",
+      "en": "The sublime is the imagination’s collision with what overflows it.",
+      "gloss": {
+        "en": "The sublime is the imagination’s collision with what overflows it.",
+        "es": "Lo sublime es el choque de la imaginación con lo que la desborda.",
+        "ru": "Возвышенное — это столкновение воображения с тем, что его переполняет."
+      },
+      "word": "возвышенное",
+      "wordEn": "the sublime",
+      "wordGloss": {
+        "en": "the sublime",
+        "es": "lo sublime",
+        "ru": "возвышенное"
+      },
+      "wordIpa": "vozvˈɨʂjennoje",
+      "distractors": [
+        "красивый",
+        "живописный",
+        "милость"
+      ]
+    },
+    {
+      "id": "remote-estetika-c2-listen-2",
+      "l2": "Мимесис строит мир по своим правилам.",
+      "en": "Mimesis institutes a world according to rules of its own.",
+      "gloss": {
+        "en": "Mimesis institutes a world according to rules of its own.",
+        "es": "La mimesis instituye un mundo según sus propias reglas.",
+        "ru": "Мимесис создает мир по своим собственным правилам."
+      },
+      "word": "мимесис",
+      "wordEn": "mimesis",
+      "wordGloss": {
+        "en": "mimesis",
+        "es": "mimetismo",
+        "ru": "мимесис"
+      },
+      "wordIpa": "mˈimjesis",
+      "distractors": [
+        "поэзис",
+        "технэ",
+        "форма"
+      ]
+    },
+    {
+      "id": "remote-estetika-c2-listen-3",
+      "l2": "Аура – ​​это уникальное здесь и сейчас произведение.",
+      "en": "Aura is the unique here-and-now of the work.",
+      "gloss": {
+        "en": "Aura is the unique here-and-now of the work.",
+        "es": "Aura es el aquí y ahora único de la obra.",
+        "ru": "Аура — это уникальное «здесь и сейчас» работы."
+      },
+      "word": "аура",
+      "wordEn": "aura",
+      "wordGloss": {
+        "en": "aura",
+        "es": "aura",
+        "ru": "аура"
+      },
+      "wordIpa": "aˈura",
+      "distractors": [
+        "идеальный",
+        "гармония",
+        "аистез"
+      ]
+    },
+    {
+      "id": "remote-estetika-c2-listen-4",
+      "l2": "Вкус стремится быть универсальным, оставаясь при этом суждением без понятия.",
+      "en": "Taste claims universality while remaining a judgement without a concept.",
+      "gloss": {
+        "en": "Taste claims universality while remaining a judgement without a concept.",
+        "es": "El gusto pretende universalidad sin dejar de ser un juicio sin concepto.",
+        "ru": "Вкус претендует на универсальность, оставаясь при этом суждением без понятия."
+      },
+      "word": "вкус",
+      "wordEn": "taste",
+      "wordGloss": {
+        "en": "taste",
+        "es": "gusto",
+        "ru": "вкус"
+      },
+      "wordIpa": "vkˈus",
+      "distractors": [
+        "схема",
+        "эстетизм",
+        "je-ne-sais-quoi"
+      ]
+    }
+  ],
+  "prompts": [
+    "Отличайте в произведении (живописи, музыке или пейзаже) прекрасное, возвышенное и живописное: какой режим чувствительности устанавливает каждое из них?",
+    "Критиковать тезис Беньямина об утрате ауры: уничтожает ли воспроизводимость «здесь и сейчас» или порождает другие?",
+    "Проанализируйте суждение вкуса: как оно выражает притязание на всеобщее и отсутствие понятия?",
+    "Мимесис копирует мир или создает другой? Используйте конкретный пример формы."
+  ],
+  "grammar": [
+    {
+      "id": "remote-estetika-c2-grammar-1",
+      "title": {
+        "fr": "Registres et nuances lexicales",
+        "en": "Registers and lexical nuance",
+        "es": "Registros y matices léxicos",
+        "ru": "Регистры и лексические оттенки"
+      },
+      "rule": {
+        "fr": "Alternez vocabulaire savant et marqué (ironie, euphémisme) selon le genre.",
+        "en": "Switch between learned and marked lexicon (irony, euphemism) by genre.",
+        "es": "Alterna léxico culto y marcado (ironía, eufemismo) según el género.",
+        "ru": "Чередуйте книжную и маркированную лексику (ирония, эвфемизм) в зависимости от жанра."
+      },
+      "why": {
+        "en": "Control tone at near-native level.",
+        "es": "Controla el tono a un nivel casi nativo.",
+        "ru": "Контроль тона на почти родном уровне."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "книжный",
+          "формальный",
+          "рассматривать мимесис"
+        ],
+        [
+          "маркированный",
+          "ирония / эвфемизм",
+          "то, что связано с аура"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-estetika-c2-gq-1-1",
+          "prompt": "Книжный регистр: ___ (не «смотреть»).",
+          "answer": "рассматривать",
+          "options": [
+            "рассматривать",
+            "смотреть",
+            "глядеть"
+          ]
+        },
+        {
+          "id": "remote-estetika-c2-gq-1-2",
+          "prompt": "Эвфемизм смягчает ___ .",
+          "answer": "тон",
+          "options": [
+            "тон",
+            "род",
+            "падеж"
+          ]
+        },
+        {
+          "id": "remote-estetika-c2-gq-1-3",
+          "prompt": "Оттенок для обсуждения «мимесис» в эссе — ___ .",
+          "answer": "дискурс",
+          "options": [
+            "дискурс",
+            "болтовня",
+            "сленг"
+          ]
+        },
+        {
+          "id": "remote-estetika-c2-gq-1-4",
+          "prompt": "Свяжите с темой: мимесис / аура. Род «мимесис»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-estetika-c2-gq-1-5",
+          "prompt": "Свяжите с темой: мимесис / аура. Род «мимесис»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-estetika-c2-grammar-2",
+      "title": {
+        "fr": "Constructions concessives complexes",
+        "en": "Complex concessive constructions",
+        "es": "Construcciones concesivas complejas",
+        "ru": "Сложные уступительные конструкции"
+      },
+      "rule": {
+        "fr": "Несмотря на / хотя / даже если intensifient la concession.",
+        "en": "Несмотря на / хотя / даже если intensify concession.",
+        "es": "Несмотря на / хотя / даже если intensifican la concesión.",
+        "ru": "Несмотря на / хотя / даже если усиливают уступку."
+      },
+      "why": {
+        "en": "Useful in critique and rhetoric.",
+        "es": "Útil en la crítica y la retórica.",
+        "ru": "Полезно в критике и риторике."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "несмотря на",
+          "+ Вин.",
+          "Несмотря на вкус, продолжаю."
+        ],
+        [
+          "хотя / даже если",
+          "уступка",
+          "Хотя есть красивый, сомневаюсь."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-estetika-c2-gq-2-1",
+          "prompt": "Несмотря ___ трудности, иду дальше.",
+          "answer": "на",
+          "options": [
+            "на",
+            "о",
+            "в"
+          ]
+        },
+        {
+          "id": "remote-estetika-c2-gq-2-2",
+          "prompt": "___ холодно, я выхожу. (уступка)",
+          "answer": "Хотя",
+          "options": [
+            "Хотя",
+            "Потому",
+            "Когда"
+          ]
+        },
+        {
+          "id": "remote-estetika-c2-gq-2-3",
+          "prompt": "Даже если будет сложно, я ___ .",
+          "answer": "попробую",
+          "options": [
+            "попробую",
+            "пробовал",
+            "пробую бы"
+          ]
+        },
+        {
+          "id": "remote-estetika-c2-gq-2-4",
+          "prompt": "Свяжите с темой: вкус / красивый. Род «вкус»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-estetika-c2-gq-2-5",
+          "prompt": "Свяжите с темой: вкус / красивый. Род «вкус»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-estetika-c2-dict-1",
+        "l2": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает красоту, а разрушает ее.",
+        "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+        "gloss": {
+          "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+          "es": "Lo sublime es más desconcertante de lo que comúnmente se dice: no agranda lo bello, lo rompe.",
+          "ru": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает прекрасное, а разрушает его."
+        },
+        "ipa": "vozvˈɨʂjennoje sbˈivajet s tˈolku bˈolʲʂje tɕjem obˈɨtɕno ɡovˈorjat ˈono nje uvjelitɕˈivajet krasˈotu"
+      },
+      {
+        "id": "remote-estetika-c2-dict-2",
+        "l2": "Мимесис, возражал он, устанавливает мир; она не копирует нашу.",
+        "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
+        "gloss": {
+          "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
+          "es": "La mimesis, objetó, instituye un mundo; no copia el nuestro.",
+          "ru": "Мимесис, возражал он, учреждает мир; он не копирует наш."
+        },
+        "ipa": "mˈimjesis vozrˈaʐal ˈon ustanavlˈivajet mˈir ˈona nje kopˈirujet nˈaʂu"
+      },
+      {
+        "id": "remote-estetika-c2-dict-3",
+        "l2": "Аура, которую разрушает техническая воспроизводимость, возникла благодаря уникальности того, что происходит здесь и сейчас.",
+        "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+        "gloss": {
+          "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+          "es": "El aura, que la reproducibilidad técnica erosiona, reside en la unicidad del aquí y ahora.",
+          "ru": "Аура, которую разрушает техническая воспроизводимость, заключается в уникальности здесь и сейчас."
+        },
+        "ipa": "aˈura kotorˈuju razrˈuʂajet tjexnitɕjeskˈaja vosproizvodˈimostʲ voznˈikla blaɡodˈarja unikalʲnˈosti tˈoɡo tɕtˈo proisxˈodit zdjesʲ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-estetika-c2-mean-1",
+        "l2": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает красоту, а разрушает ее.",
+        "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+        "gloss": {
+          "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+          "es": "Lo sublime es más desconcertante de lo que comúnmente se dice: no agranda lo bello, lo rompe.",
+          "ru": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает прекрасное, а разрушает его."
+        }
+      },
+      {
+        "id": "remote-estetika-c2-mean-2",
+        "l2": "Мимесис, возражал он, устанавливает мир; она не копирует нашу.",
+        "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
+        "gloss": {
+          "en": "Mimesis, he objected, institutes a world; it does not copy ours.",
+          "es": "La mimesis, objetó, instituye un mundo; no copia el nuestro.",
+          "ru": "Мимесис, возражал он, учреждает мир; он не копирует наш."
+        }
+      },
+      {
+        "id": "remote-estetika-c2-mean-3",
+        "l2": "Аура, которую разрушает техническая воспроизводимость, возникла благодаря уникальности того, что происходит здесь и сейчас.",
+        "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+        "gloss": {
+          "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+          "es": "El aura, que la reproducibilidad técnica erosiona, reside en la unicidad del aquí y ahora.",
+          "ru": "Аура, которую разрушает техническая воспроизводимость, заключается в уникальности здесь и сейчас."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-estetika-c2-fren-1",
+        "l2": "возвышенное",
+        "en": "the sublime",
+        "gloss": {
+          "en": "the sublime",
+          "es": "lo sublime",
+          "ru": "возвышенное"
+        }
+      },
+      {
+        "id": "remote-estetika-c2-fren-2",
+        "l2": "мимесис",
+        "en": "mimesis",
+        "gloss": {
+          "en": "mimesis",
+          "es": "mimetismo",
+          "ru": "мимесис"
+        }
+      },
+      {
+        "id": "remote-estetika-c2-fren-3",
+        "l2": "вкус",
+        "en": "taste",
+        "gloss": {
+          "en": "taste",
+          "es": "gusto",
+          "ru": "вкус"
+        }
+      },
+      {
+        "id": "remote-estetika-c2-fren-4",
+        "l2": "форма",
+        "en": "form",
+        "gloss": {
+          "en": "form",
+          "es": "forma",
+          "ru": "форма"
+        }
+      },
+      {
+        "id": "remote-estetika-c2-fren-5",
+        "l2": "аура",
+        "en": "aura",
+        "gloss": {
+          "en": "aura",
+          "es": "aura",
+          "ru": "аура"
+        }
+      },
+      {
+        "id": "remote-estetika-c2-fren-6",
+        "l2": "красивый",
+        "en": "the beautiful",
+        "gloss": {
+          "en": "the beautiful",
+          "es": "la bella",
+          "ru": "красивый"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-estetika-c2-alou-1",
+        "l2": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает красоту, а разрушает ее.",
+        "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+        "gloss": {
+          "en": "The sublime is more disconcerting than one ordinarily says: it does not enlarge the beautiful, it breaks it.",
+          "es": "Lo sublime es más desconcertante de lo que comúnmente se dice: no agranda lo bello, lo rompe.",
+          "ru": "Возвышенное сбивает с толку больше, чем обычно говорят: оно не увеличивает прекрасное, а разрушает его."
+        },
+        "ipa": "vozvˈɨʂjennoje sbˈivajet s tˈolku bˈolʲʂje tɕjem obˈɨtɕno ɡovˈorjat ˈono nje uvjelitɕˈivajet krasˈotu"
+      },
+      {
+        "id": "remote-estetika-c2-alou-2",
+        "l2": "Аура, которую разрушает техническая воспроизводимость, возникла благодаря уникальности того, что происходит здесь и сейчас.",
+        "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+        "gloss": {
+          "en": "Aura, which technical reproducibility erodes, lay in the uniqueness of the here and now.",
+          "es": "El aura, que la reproducibilidad técnica erosiona, reside en la unicidad del aquí y ahora.",
+          "ru": "Аура, которую разрушает техническая воспроизводимость, заключается в уникальности здесь и сейчас."
+        },
+        "ipa": "aˈura kotorˈuju razrˈuʂajet tjexnitɕjeskˈaja vosproizvodˈimostʲ voznˈikla blaɡodˈarja unikalʲnˈosti tˈoɡo tɕtˈo proisxˈodit zdjesʲ"
+      },
+      {
+        "id": "remote-estetika-c2-alou-3",
+        "l2": "Кроме того, форма — это не вместилище содержания, а организация чувственного.",
+        "en": "Thus form is not the container of a content, but the organisation of the sensible.",
+        "gloss": {
+          "en": "Thus form is not the container of a content, but the organisation of the sensible.",
+          "es": "Así, la forma no es el contenedor de un contenido, sino la organización de lo sensible.",
+          "ru": "Таким образом, форма — это не вместилище содержания, а организация чувственного."
+        },
+        "ipa": "krˈomje tˈoɡo fˈorma ˈɛto nje vmjestˈiliɕːje sodjerʐanˈija ˈa orɡanizatsˈija tɕuvstvjennˈoɡo"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-estetika-c2-unsc-1",
+        "l2": "Аура для Беньямина — это уникальное произведение здесь и сейчас, техническую воспроизводимость которого разрушает.",
+        "en": "For Benjamin, aura is the unique here-and-now of the work, which technical reproducibility erodes.",
+        "gloss": {
+          "en": "For Benjamin, aura is the unique here-and-now of the work, which technical reproducibility erodes.",
+          "es": "Para Benjamin, el aura es el aquí y ahora único de la obra, cuya reproducibilidad técnica erosiona.",
+          "ru": "Для Беньямина аура — это уникальное «здесь и сейчас» работы, техническую воспроизводимость которого разрушает."
+        },
+        "words": [
+          "Аура",
+          "для",
+          "Беньямина",
+          "—",
+          "это",
+          "уникальное",
+          "произведение",
+          "здесь",
+          "и",
+          "сейчас,",
+          "техническую",
+          "воспроизводимость",
+          "которого",
+          "разрушает."
+        ]
+      },
+      {
+        "id": "remote-estetika-c2-unsc-2",
+        "l2": "Прекрасное, отличное от возвышенного, обещает гармонию, в которой разум может жить без головокружения.",
+        "en": "The beautiful, distinct from the sublime, promises a harmony the mind can inhabit without vertigo.",
+        "gloss": {
+          "en": "The beautiful, distinct from the sublime, promises a harmony the mind can inhabit without vertigo.",
+          "es": "Lo bello, distinto de lo sublime, promete una armonía en la que la mente puede habitar sin vértigo.",
+          "ru": "Прекрасное, отличное от возвышенного, обещает гармонию, в которой разум может жить без головокружения."
+        },
+        "words": [
+          "Прекрасное,",
+          "отличное",
+          "от",
+          "возвышенного,",
+          "обещает",
+          "гармонию,",
+          "в",
+          "которой",
+          "разум",
+          "может",
+          "жить",
+          "без",
+          "головокружения."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

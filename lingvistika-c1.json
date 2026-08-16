@@ -1,0 +1,843 @@
+{
+  "pratiquePack": 2,
+  "id": "lingvistika-c1",
+  "version": 1,
+  "level": "c1",
+  "lang": "ru",
+  "title": {
+    "fr": "Langue et discours C1 (RU)",
+    "en": "Language and discourse C1 (RU)",
+    "es": "Lenguaje y discurso C1 (RU)",
+    "ru": "Язык и дискурс C1"
+  },
+  "description": {
+    "fr": "Registre, implicature, pragmatique, marqueurs discursifs et actes de langage — pack russe.",
+    "en": "Register, implicature, pragmatics, discourse markers, and speech acts — Russian pack.",
+    "es": "Registro, implicatura, pragmática, marcadores del discurso y actos de habla — paquete ruso.",
+    "ru": "Регистр, импликатура, прагматика, дискурсивные маркеры и речевые акты — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-lingvistika-c1-1",
+      "l2": "зарегистрироваться",
+      "en": "register",
+      "gloss": {
+        "en": "register",
+        "es": "registro",
+        "ru": "зарегистрироваться"
+      },
+      "example": "Регистр — это далеко не простой уровень языка, он индексирует социальные отношения, которые говорящий расшифровывает с самого начала.",
+      "ipa": "zarjeɡistrirovˈatʲsja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-lingvistika-c1-2",
+      "l2": "импликатура",
+      "en": "implicature",
+      "gloss": {
+        "en": "implicature",
+        "es": "implicatura",
+        "ru": "импликатура"
+      },
+      "example": "Импликатура, даже если она не высказывается, составляет существенную часть того, чего фактически достигает речевой акт.",
+      "ipa": "implikatˈura",
+      "article": "ж"
+    },
+    {
+      "id": "remote-lingvistika-c1-3",
+      "l2": "прагматика",
+      "en": "pragmatics",
+      "gloss": {
+        "en": "pragmatics",
+        "es": "pragmática",
+        "ru": "прагматика"
+      },
+      "example": "Прагматика, даже если она кажется вспомогательной по отношению к синтаксису, объясняет то, что одного лишь котекста недостаточно, чтобы передать.",
+      "ipa": "praɡmatˈika",
+      "article": "ж"
+    },
+    {
+      "id": "remote-lingvistika-c1-4",
+      "l2": "маркер дискурса",
+      "en": "discourse marker",
+      "gloss": {
+        "en": "discourse marker",
+        "es": "marcador de discurso",
+        "ru": "маркер дискурса"
+      },
+      "example": "Дискурсивный маркер, если мы не видим тика, направляет вывод и создает регистр обмена.",
+      "ipa": "markjer diskˈursa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-lingvistika-c1-5",
+      "l2": "речевой акт",
+      "en": "speech act",
+      "gloss": {
+        "en": "speech act",
+        "es": "acto de habla",
+        "ru": "речевой акт"
+      },
+      "example": "Речевой акт, иллокутивная сила которого выходит за рамки пропозиционального содержания, может ранить, оставаясь при этом «вежливым».",
+      "ipa": "rjetɕjevˈoj akt",
+      "article": "м"
+    },
+    {
+      "id": "remote-lingvistika-c1-6",
+      "l2": "высказывание",
+      "en": "enunciation",
+      "gloss": {
+        "en": "enunciation",
+        "es": "enunciación",
+        "ru": "высказывание"
+      },
+      "example": "Высказывание не является фоном, оно вписывает в высказывание следы говорящего, времени и адресата.",
+      "ipa": "vɨskazɨvˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-lingvistika-c1-7",
+      "l2": "дейксис",
+      "en": "deixis",
+      "gloss": {
+        "en": "deixis",
+        "es": "deixis",
+        "ru": "дейксис"
+      },
+      "example": "Дейксис, хотя это и кажется тривиальным, но закрепляет дискурс в ситуации, без которой утверждение становится непрозрачным.",
+      "ipa": "djejksˈis",
+      "article": "м"
+    },
+    {
+      "id": "remote-lingvistika-c1-8",
+      "l2": "предпосылка",
+      "en": "presupposition",
+      "gloss": {
+        "en": "presupposition",
+        "es": "presuposición",
+        "ru": "предпосылка"
+      },
+      "example": "Пресуппозиция, даже если она остается незамеченной, выдерживает отрицание и сужает пространство возможных ответов.",
+      "ipa": "prjedposˈɨlka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-lingvistika-c1-9",
+      "l2": "модальность",
+      "en": "modality",
+      "gloss": {
+        "en": "modality",
+        "es": "modalidad",
+        "ru": "модальность"
+      },
+      "example": "Модальность, если только ее не свести к «можно и должно», включает также степень приверженности говорящего своему тезису.",
+      "ipa": "modˈalʲnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-lingvistika-c1-10",
+      "l2": "полифония",
+      "en": "polyphony",
+      "gloss": {
+        "en": "polyphony",
+        "es": "polifonía",
+        "ru": "полифония"
+      },
+      "example": "Полифония, понятием которой выступил Бахтин, обозначает голоса, с которыми дискурс соотносится, иронизирует или принимает во внимание.",
+      "ipa": "polifonˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-lingvistika-c1-11",
+      "l2": "анафора",
+      "en": "anaphora",
+      "gloss": {
+        "en": "anaphora",
+        "es": "anáfora",
+        "ru": "анафора"
+      },
+      "example": "Анафора, будучи далеко не просто грамматической ссылкой, конструирует референциальную непрерывность текста и его импликатур.",
+      "ipa": "anafˈora",
+      "article": "ж"
+    },
+    {
+      "id": "remote-lingvistika-c1-12",
+      "l2": "высказывание",
+      "en": "utterance",
+      "gloss": {
+        "en": "utterance",
+        "es": "declaración",
+        "ru": "высказывание"
+      },
+      "example": "Утверждение, даже если оно цитируется вне ситуации, имеет силу только в сотексте и регистре, в котором оно было произведено.",
+      "ipa": "vɨskazɨvˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-lingvistika-c1-13",
+      "l2": "соединительный",
+      "en": "connective",
+      "gloss": {
+        "en": "connective",
+        "es": "conectivo",
+        "ru": "соединительный"
+      },
+      "example": "Соединитель, даже если он кажется прозрачным, навязывает умозаключение: следовательно, не говорит то же самое, что или или, тем не менее.",
+      "ipa": "sojedinˈitjelʲnɨj",
+      "article": "м"
+    },
+    {
+      "id": "remote-lingvistika-c1-14",
+      "l2": "вариация",
+      "en": "variation",
+      "gloss": {
+        "en": "variation",
+        "es": "variación",
+        "ru": "вариация"
+      },
+      "example": "Вариация, если она не стигматизирована, является обычным способом языка, а не отклонением от одного регистра.",
+      "ipa": "variatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-lingvistika-c1-15",
+      "l2": "диахрония",
+      "en": "diachrony",
+      "gloss": {
+        "en": "diachrony",
+        "es": "diacronía",
+        "ru": "диахрония"
+      },
+      "example": "Диахрония, объем которой Соссюр ограничил, остается важной для понимания изменений в седиментированном регистре.",
+      "ipa": "diaxronˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-lingvistika-c1-16",
+      "l2": "синхронность",
+      "en": "synchrony",
+      "gloss": {
+        "en": "synchrony",
+        "es": "sincronía",
+        "ru": "синхронность"
+      },
+      "example": "Синхрония, далекая от наивного снимка, представляет собой методологический подход, который прагматики, тем не менее, историзируют.",
+      "ipa": "sinxrˈonnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-lingvistika-c1-17",
+      "l2": "сотекст",
+      "en": "co-text",
+      "gloss": {
+        "en": "co-text",
+        "es": "co-texto",
+        "ru": "сотекст"
+      },
+      "example": "Котекст, хотя и путается с контекстом, обозначает словесную цепочку, без которой анафора остается неразрешимой.",
+      "ipa": "sˈotjekst",
+      "article": "м"
+    },
+    {
+      "id": "remote-lingvistika-c1-18",
+      "l2": "вывод",
+      "en": "inference",
+      "gloss": {
+        "en": "inference",
+        "es": "inferencia",
+        "ru": "вывод"
+      },
+      "example": "Вывод, даже если он не гарантирован, — это то, что говорящий предлагает адресату вычислить на основе импликатуры.",
+      "ipa": "vˈɨvod",
+      "article": "м"
+    },
+    {
+      "id": "remote-lingvistika-c1-19",
+      "l2": "адресат",
+      "en": "addressee",
+      "gloss": {
+        "en": "addressee",
+        "es": "destinatario",
+        "ru": "адресат"
+      },
+      "example": "Говорящий, если это не выдумка текста, управляет выбором регистра, маркеров и вежливости.",
+      "ipa": "ˈadrjesat",
+      "article": "м"
+    },
+    {
+      "id": "remote-lingvistika-c1-20",
+      "l2": "вежливость",
+      "en": "politeness",
+      "gloss": {
+        "en": "politeness",
+        "es": "cortesía",
+        "ru": "вежливость"
+      },
+      "example": "Вежливость, положительные и отрицательные стороны которой оговариваются, может маскировать весьма импозантный речевой акт.",
+      "ipa": "vjeʐlˈivostʲ",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-lingvistika-c1-phrase-1",
+      "l2": "Хотя импликатура и не произносится, она выполняет существенную часть речевого акта.",
+      "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+      "gloss": {
+        "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+        "es": "Aunque la implicatura no esté enunciada, cumple la parte esencial del acto de habla.",
+        "ru": "Хотя импликатура и не выражена, она выполняет существенную часть речевого акта."
+      },
+      "ipa": "xˈotja implikatˈura ˈi nje proiznosˈitsja ˈona vɨpˈolnjajet suɕːjestvjennˈuju tɕˈastʲ rjetɕjevˈoɡo ˈakta"
+    },
+    {
+      "id": "remote-lingvistika-c1-phrase-2",
+      "l2": "Дискурсивный маркер вовсе не является тиком: он направляет вывод и формирует регистр.",
+      "en": "Far from being a tic, the discourse marker steers inference and frames register.",
+      "gloss": {
+        "en": "Far from being a tic, the discourse marker steers inference and frames register.",
+        "es": "Lejos de ser un tic, el marcador del discurso dirige la inferencia y el registro de los encuadres.",
+        "ru": "Маркер дискурса вовсе не является тиком: он управляет выводами и регистрирует кадры."
+      },
+      "ipa": "diskursˈivnɨj mˈarkjer vˈovsje nje javljˈajetsja tˈikom ˈon naprˈavljajet vˈɨvod ˈi formˈirujet rjeɡˈistr"
+    },
+    {
+      "id": "remote-lingvistika-c1-phrase-3",
+      "l2": "Если пресуппозиция не отменена, она сохраняется после отрицания утверждения.",
+      "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+      "gloss": {
+        "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+        "es": "A menos que se cancele la presuposición, sobrevive a la negación del enunciado.",
+        "ru": "Если пресуппозиция не отменена, она сохраняется после отрицания высказывания."
+      },
+      "ipa": "jeslˈi prjesuppozitsˈija nje ˈotmjenjena ˈona soxranjˈajetsja pˈoslje otritsanˈija utvjerʐdjenˈija"
+    },
+    {
+      "id": "remote-lingvistika-c1-phrase-4",
+      "l2": "Даже если это кажется вспомогательным, прагматика объясняет то, чего не объясняет котекст.",
+      "en": "Even if it seems ancillary, pragmatics explains what co-text does not capture.",
+      "gloss": {
+        "en": "Even if it seems ancillary, pragmatics explains what co-text does not capture.",
+        "es": "Aunque parezca secundaria, la pragmática explica lo que el cotexto no capta.",
+        "ru": "Даже если это кажется вспомогательным, прагматика объясняет то, чего не отражает сотекст."
+      },
+      "ipa": "dˈaʐje jeslˈi ˈɛto kˈaʐjetsja vspomoɡˈatjelʲnɨm praɡmatˈika objˈasnjajet tˈo tɕjeɡˈo nje objˈasnjajet kˈotjekst"
+    },
+    {
+      "id": "remote-lingvistika-c1-phrase-5",
+      "l2": "Боюсь, что этот речевой акт заденет говорящего, даже если он будет «вежливым».",
+      "en": "I fear this speech act may wound the addressee, even though it is “polite.”",
+      "gloss": {
+        "en": "I fear this speech act may wound the addressee, even though it is “polite.”",
+        "es": "Temo que este acto de habla pueda herir al destinatario, aunque sea “educado”.",
+        "ru": "Боюсь, что этот речевой акт может ранить адресата, хотя он и «вежливый»."
+      },
+      "ipa": "bˈojusʲ tɕtˈo ˈɛtot rjetɕjevˈoj ˈakt zˈadjenjet ɡovorjˈaɕːjeɡo dˈaʐje jeslˈi ˈon bˈudjet vjeʐlˈivɨm"
+    },
+    {
+      "id": "remote-lingvistika-c1-phrase-6",
+      "l2": "Дейксис закрепляет дискурс в ситуации, без которой высказывание становится непрозрачным.",
+      "en": "Deixis anchors discourse in a situation without which the utterance becomes opaque.",
+      "gloss": {
+        "en": "Deixis anchors discourse in a situation without which the utterance becomes opaque.",
+        "es": "Deixis ancla el discurso en una situación sin la cual el enunciado se vuelve opaco.",
+        "ru": "Дейксис закрепляет дискурс в ситуации, без которой высказывание становится непрозрачным."
+      },
+      "ipa": "djejksˈis zˈakrjepljajet dˈiskurs v situatsˈii bjez kotˈoroj vɨskazɨvˈanije stanovˈitsja njeprozrˈatɕnɨm"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-lingvistika-c1-listen-1",
+      "l2": "Импликатура составляет суть того, чего фактически достигает речевой акт.",
+      "en": "Implicature constitutes what the speech act actually accomplishes.",
+      "gloss": {
+        "en": "Implicature constitutes what the speech act actually accomplishes.",
+        "es": "La implicatura constituye lo que realmente logra el acto de habla.",
+        "ru": "Импликатура представляет собой то, чего фактически достигает речевой акт."
+      },
+      "word": "импликатура",
+      "wordEn": "implicature",
+      "wordGloss": {
+        "en": "implicature",
+        "es": "implicatura",
+        "ru": "импликатура"
+      },
+      "wordIpa": "implikatˈura",
+      "distractors": [
+        "анафора",
+        "дейксис",
+        "модальность"
+      ]
+    },
+    {
+      "id": "remote-lingvistika-c1-listen-2",
+      "l2": "Регистр индексирует социальные отношения, которые говорящий немедленно расшифровывает.",
+      "en": "Register indexes a social relation that the addressee decodes at once.",
+      "gloss": {
+        "en": "Register indexes a social relation that the addressee decodes at once.",
+        "es": "El registro indexa una relación social que el destinatario decodifica inmediatamente.",
+        "ru": "Регистр индексирует социальное отношение, которое адресат сразу расшифровывает."
+      },
+      "word": "зарегистрироваться",
+      "wordEn": "register",
+      "wordGloss": {
+        "en": "register",
+        "es": "registro",
+        "ru": "зарегистрироваться"
+      },
+      "wordIpa": "zarjeɡistrirovˈatʲsja",
+      "distractors": [
+        "вариация",
+        "вежливость",
+        "синхронность"
+      ]
+    },
+    {
+      "id": "remote-lingvistika-c1-listen-3",
+      "l2": "Пресуппозиция выдерживает отрицание и ограничивает пространство возможных ответов.",
+      "en": "Presupposition survives negation and constrains the space of possible replies.",
+      "gloss": {
+        "en": "Presupposition survives negation and constrains the space of possible replies.",
+        "es": "La presuposición sobrevive a la negación y limita el espacio de posibles respuestas.",
+        "ru": "Пресуппозиция выдерживает отрицание и ограничивает пространство возможных ответов."
+      },
+      "word": "предпосылка",
+      "wordEn": "presupposition",
+      "wordGloss": {
+        "en": "presupposition",
+        "es": "presuposición",
+        "ru": "предпосылка"
+      },
+      "wordIpa": "prjedposˈɨlka",
+      "distractors": [
+        "вывод",
+        "полифония",
+        "высказывание"
+      ]
+    },
+    {
+      "id": "remote-lingvistika-c1-listen-4",
+      "l2": "Соединитель навязывает умозаключение: следовательно, не говорит то же самое, что и тем не менее.",
+      "en": "The connective imposes an inference: donc does not mean the same as pourtant.",
+      "gloss": {
+        "en": "The connective imposes an inference: donc does not mean the same as pourtant.",
+        "es": "El conectivo impone una inferencia: donc no significa lo mismo que pourtant.",
+        "ru": "Связка накладывает вывод: donc не означает то же самое, что pourtant."
+      },
+      "word": "соединительный",
+      "wordEn": "connective",
+      "wordGloss": {
+        "en": "connective",
+        "es": "conectivo",
+        "ru": "соединительный"
+      },
+      "wordIpa": "sojedinˈitjelʲnɨj",
+      "distractors": [
+        "маркер дискурса",
+        "сотекст",
+        "высказывание"
+      ]
+    }
+  ],
+  "prompts": [
+    "Определите идею о том, что вежливое заявление не может привести к впечатляющему поступку.",
+    "Признайте, что дискурсивный маркер может показаться пустым, а затем переформулируйте его функцию вывода.",
+    "В какой степени пресуппозиция выдерживает отрицание в отличие от импликатуры?",
+    "Переформулируйте для неспециализированной аудитории различие между котекстом и контекстом."
+  ],
+  "grammar": [
+    {
+      "id": "remote-lingvistika-c1-grammar-1",
+      "title": {
+        "fr": "Nominalisation savante",
+        "en": "Academic nominalization",
+        "es": "Nominalización académica",
+        "ru": "Академическая номинализация"
+      },
+      "rule": {
+        "fr": "Préférez un nom abstrait : рассмотрение вопроса, pas рассматривать вопрос.",
+        "en": "Prefer an abstract noun: рассмотрение вопроса, not рассматривать вопрос.",
+        "es": "Prefiere un sustantivo abstracto: рассмотрение вопроса.",
+        "ru": "Предпочитайте абстрактное существительное: рассмотрение вопроса, а не рассматривать вопрос."
+      },
+      "why": {
+        "en": "Matches formal academic tone.",
+        "es": "Encaja con el tono académico formal.",
+        "ru": "Соответствует формальному академическому тону."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "глагол → имя",
+          "формальный стиль",
+          "наличие импликатура"
+        ],
+        [
+          "избегать придаточного",
+          "плотность",
+          "отсутствие речевой акт"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-lingvistika-c1-gq-1-1",
+          "prompt": "Предпочтительнее: ___ вопроса. (рассмотреть)",
+          "answer": "рассмотрение",
+          "options": [
+            "рассмотрение",
+            "рассмотреть",
+            "рассмотренный"
+          ]
+        },
+        {
+          "id": "remote-lingvistika-c1-gq-1-2",
+          "prompt": "Анализ импликатура — более академично, чем «анализировать».",
+          "answer": "анализ",
+          "options": [
+            "анализ",
+            "анализировать",
+            "аналитик"
+          ]
+        },
+        {
+          "id": "remote-lingvistika-c1-gq-1-3",
+          "prompt": "Лучше существительное, а не ___ .",
+          "answer": "глагол",
+          "options": [
+            "глагол",
+            "союз",
+            "междометие"
+          ]
+        },
+        {
+          "id": "remote-lingvistika-c1-gq-1-4",
+          "prompt": "Свяжите с темой: импликатура / речевой акт. Род «импликатура»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-lingvistika-c1-gq-1-5",
+          "prompt": "Свяжите с темой: импликатура / речевой акт. Род «импликатура»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-lingvistika-c1-grammar-2",
+      "title": {
+        "fr": "Participes et gerundifs",
+        "en": "Participles and verbal adverbs",
+        "es": "Participios y gerundios",
+        "ru": "Причастия и деепричастия"
+      },
+      "rule": {
+        "fr": "Причастие qualifie un nom ; деепричастие ajoute une action secondaire.",
+        "en": "A participle modifies a noun; a verbal adverb adds a secondary action.",
+        "es": "El participio modifica un sustantivo; el gerundio añade una acción secundaria.",
+        "ru": "Причастие определяет существительное; деепричастие добавляет второстепенное действие."
+      },
+      "why": {
+        "en": "Dense written Russian relies on these forms.",
+        "es": "El ruso escrito denso depende de estas formas.",
+        "ru": "Плотный письменный русский опирается на эти формы."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "причастие",
+          "определение",
+          "книга, написанная автором"
+        ],
+        [
+          "деепричастие",
+          "второе действие",
+          "Читая, он делал заметки."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-lingvistika-c1-gq-2-1",
+          "prompt": "Форма, определяющая существительное — ___ .",
+          "answer": "причастие",
+          "options": [
+            "причастие",
+            "деепричастие",
+            "наречие"
+          ]
+        },
+        {
+          "id": "remote-lingvistika-c1-gq-2-2",
+          "prompt": "«Читая» в «Читая, он…» — это ___ .",
+          "answer": "деепричастие",
+          "options": [
+            "деепричастие",
+            "причастие",
+            "инфинитив"
+          ]
+        },
+        {
+          "id": "remote-lingvistika-c1-gq-2-3",
+          "prompt": "В академическом тексте часто нужны ___ .",
+          "answer": "причастия",
+          "options": [
+            "причастия",
+            "междометия",
+            "обращения"
+          ]
+        },
+        {
+          "id": "remote-lingvistika-c1-gq-2-4",
+          "prompt": "Свяжите с темой: прагматика / высказывание. Род «прагматика»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "ср",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-lingvistika-c1-gq-2-5",
+          "prompt": "Свяжите с темой: прагматика / высказывание. Род «прагматика»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "ср",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-lingvistika-c1-dict-1",
+        "l2": "Хотя импликатура и не произносится, она выполняет существенную часть речевого акта.",
+        "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+        "gloss": {
+          "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+          "es": "Aunque la implicatura no esté enunciada, cumple la parte esencial del acto de habla.",
+          "ru": "Хотя импликатура и не выражена, она выполняет существенную часть речевого акта."
+        },
+        "ipa": "xˈotja implikatˈura ˈi nje proiznosˈitsja ˈona vɨpˈolnjajet suɕːjestvjennˈuju tɕˈastʲ rjetɕjevˈoɡo ˈakta"
+      },
+      {
+        "id": "remote-lingvistika-c1-dict-2",
+        "l2": "Дискурсивный маркер вовсе не является тиком: он направляет вывод и формирует регистр.",
+        "en": "Far from being a tic, the discourse marker steers inference and frames register.",
+        "gloss": {
+          "en": "Far from being a tic, the discourse marker steers inference and frames register.",
+          "es": "Lejos de ser un tic, el marcador del discurso dirige la inferencia y el registro de los encuadres.",
+          "ru": "Маркер дискурса вовсе не является тиком: он управляет выводами и регистрирует кадры."
+        },
+        "ipa": "diskursˈivnɨj mˈarkjer vˈovsje nje javljˈajetsja tˈikom ˈon naprˈavljajet vˈɨvod ˈi formˈirujet rjeɡˈistr"
+      },
+      {
+        "id": "remote-lingvistika-c1-dict-3",
+        "l2": "Если пресуппозиция не отменена, она сохраняется после отрицания утверждения.",
+        "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+        "gloss": {
+          "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+          "es": "A menos que se cancele la presuposición, sobrevive a la negación del enunciado.",
+          "ru": "Если пресуппозиция не отменена, она сохраняется после отрицания высказывания."
+        },
+        "ipa": "jeslˈi prjesuppozitsˈija nje ˈotmjenjena ˈona soxranjˈajetsja pˈoslje otritsanˈija utvjerʐdjenˈija"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-lingvistika-c1-mean-1",
+        "l2": "Хотя импликатура и не произносится, она выполняет существенную часть речевого акта.",
+        "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+        "gloss": {
+          "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+          "es": "Aunque la implicatura no esté enunciada, cumple la parte esencial del acto de habla.",
+          "ru": "Хотя импликатура и не выражена, она выполняет существенную часть речевого акта."
+        }
+      },
+      {
+        "id": "remote-lingvistika-c1-mean-2",
+        "l2": "Дискурсивный маркер вовсе не является тиком: он направляет вывод и формирует регистр.",
+        "en": "Far from being a tic, the discourse marker steers inference and frames register.",
+        "gloss": {
+          "en": "Far from being a tic, the discourse marker steers inference and frames register.",
+          "es": "Lejos de ser un tic, el marcador del discurso dirige la inferencia y el registro de los encuadres.",
+          "ru": "Маркер дискурса вовсе не является тиком: он управляет выводами и регистрирует кадры."
+        }
+      },
+      {
+        "id": "remote-lingvistika-c1-mean-3",
+        "l2": "Если пресуппозиция не отменена, она сохраняется после отрицания утверждения.",
+        "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+        "gloss": {
+          "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+          "es": "A menos que se cancele la presuposición, sobrevive a la negación del enunciado.",
+          "ru": "Если пресуппозиция не отменена, она сохраняется после отрицания высказывания."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-lingvistika-c1-fren-1",
+        "l2": "зарегистрироваться",
+        "en": "register",
+        "gloss": {
+          "en": "register",
+          "es": "registro",
+          "ru": "зарегистрироваться"
+        }
+      },
+      {
+        "id": "remote-lingvistika-c1-fren-2",
+        "l2": "импликатура",
+        "en": "implicature",
+        "gloss": {
+          "en": "implicature",
+          "es": "implicatura",
+          "ru": "импликатура"
+        }
+      },
+      {
+        "id": "remote-lingvistika-c1-fren-3",
+        "l2": "прагматика",
+        "en": "pragmatics",
+        "gloss": {
+          "en": "pragmatics",
+          "es": "pragmática",
+          "ru": "прагматика"
+        }
+      },
+      {
+        "id": "remote-lingvistika-c1-fren-4",
+        "l2": "маркер дискурса",
+        "en": "discourse marker",
+        "gloss": {
+          "en": "discourse marker",
+          "es": "marcador de discurso",
+          "ru": "маркер дискурса"
+        }
+      },
+      {
+        "id": "remote-lingvistika-c1-fren-5",
+        "l2": "речевой акт",
+        "en": "speech act",
+        "gloss": {
+          "en": "speech act",
+          "es": "acto de habla",
+          "ru": "речевой акт"
+        }
+      },
+      {
+        "id": "remote-lingvistika-c1-fren-6",
+        "l2": "высказывание",
+        "en": "enunciation",
+        "gloss": {
+          "en": "enunciation",
+          "es": "enunciación",
+          "ru": "высказывание"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-lingvistika-c1-alou-1",
+        "l2": "Хотя импликатура и не произносится, она выполняет существенную часть речевого акта.",
+        "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+        "gloss": {
+          "en": "Even though the implicature is not stated, it accomplishes the essential part of the speech act.",
+          "es": "Aunque la implicatura no esté enunciada, cumple la parte esencial del acto de habla.",
+          "ru": "Хотя импликатура и не выражена, она выполняет существенную часть речевого акта."
+        },
+        "ipa": "xˈotja implikatˈura ˈi nje proiznosˈitsja ˈona vɨpˈolnjajet suɕːjestvjennˈuju tɕˈastʲ rjetɕjevˈoɡo ˈakta"
+      },
+      {
+        "id": "remote-lingvistika-c1-alou-2",
+        "l2": "Если пресуппозиция не отменена, она сохраняется после отрицания утверждения.",
+        "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+        "gloss": {
+          "en": "Unless the presupposition is cancelled, it survives the negation of the utterance.",
+          "es": "A menos que se cancele la presuposición, sobrevive a la negación del enunciado.",
+          "ru": "Если пресуппозиция не отменена, она сохраняется после отрицания высказывания."
+        },
+        "ipa": "jeslˈi prjesuppozitsˈija nje ˈotmjenjena ˈona soxranjˈajetsja pˈoslje otritsanˈija utvjerʐdjenˈija"
+      },
+      {
+        "id": "remote-lingvistika-c1-alou-3",
+        "l2": "Боюсь, что этот речевой акт заденет говорящего, даже если он будет «вежливым».",
+        "en": "I fear this speech act may wound the addressee, even though it is “polite.”",
+        "gloss": {
+          "en": "I fear this speech act may wound the addressee, even though it is “polite.”",
+          "es": "Temo que este acto de habla pueda herir al destinatario, aunque sea “educado”.",
+          "ru": "Боюсь, что этот речевой акт может ранить адресата, хотя он и «вежливый»."
+        },
+        "ipa": "bˈojusʲ tɕtˈo ˈɛtot rjetɕjevˈoj ˈakt zˈadjenjet ɡovorjˈaɕːjeɡo dˈaʐje jeslˈi ˈon bˈudjet vjeʐlˈivɨm"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-lingvistika-c1-unsc-1",
+        "l2": "Даже несмотря на то, что импликатура не высказывается, она осуществляет существенное действие.",
+        "en": "Even though the implicature is not stated, it accomplishes the essential act.",
+        "gloss": {
+          "en": "Even though the implicature is not stated, it accomplishes the essential act.",
+          "es": "Aunque no se enuncia la implicatura, cumple el acto esencial.",
+          "ru": "Даже несмотря на то, что импликатура не заявлена, она осуществляет существенное действие."
+        },
+        "words": [
+          "Даже",
+          "несмотря",
+          "на",
+          "то,",
+          "что",
+          "импликатура",
+          "не",
+          "высказывается,",
+          "она",
+          "осуществляет",
+          "существенное",
+          "действие."
+        ]
+      },
+      {
+        "id": "remote-lingvistika-c1-unsc-2",
+        "l2": "Дискурсивный маркер вовсе не является тиком: он направляет вывод.",
+        "en": "Far from being a tic, the discourse marker steers inference.",
+        "gloss": {
+          "en": "Far from being a tic, the discourse marker steers inference.",
+          "es": "Lejos de ser un tic, el marcador del discurso dirige la inferencia.",
+          "ru": "Дискурсивный маркер вовсе не является тиком: он управляет выводами."
+        },
+        "words": [
+          "Дискурсивный",
+          "маркер",
+          "вовсе",
+          "не",
+          "является",
+          "тиком:",
+          "он",
+          "направляет",
+          "вывод."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

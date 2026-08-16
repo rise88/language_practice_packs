@@ -1,0 +1,837 @@
+{
+  "pratiquePack": 2,
+  "id": "rasporyadok-a1",
+  "version": 1,
+  "level": "a1",
+  "lang": "ru",
+  "title": {
+    "fr": "Routine A1 (RU)",
+    "en": "Daily routine A1 (RU)",
+    "es": "Rutina diaria A1 (RU)",
+    "ru": "Распорядок дня А1"
+  },
+  "description": {
+    "fr": "Levers, repas et habitudes simples de la journée — pack russe.",
+    "en": "Getting up, meals, and simple daily habits — Russian pack.",
+    "es": "Levantarse, comidas y hábitos diarios sencillos — paquete ruso.",
+    "ru": "Вставание, прием пищи и простые повседневные привычки — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-rasporyadok-a1-1",
+      "l2": "будильник",
+      "en": "alarm clock",
+      "gloss": {
+        "en": "alarm clock",
+        "es": "despertador",
+        "ru": "будильник"
+      },
+      "example": "Будильник звенит в семь часов.",
+      "ipa": "budˈilʲnik",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-2",
+      "l2": "душ",
+      "en": "shower",
+      "gloss": {
+        "en": "shower",
+        "es": "ducha",
+        "ru": "душ"
+      },
+      "example": "Я принимаю душ утром.",
+      "ipa": "dˈuʂ",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-3",
+      "l2": "завтрак",
+      "en": "breakfast",
+      "gloss": {
+        "en": "breakfast",
+        "es": "desayuno",
+        "ru": "завтрак"
+      },
+      "example": "Завтрак в восемь часов.",
+      "ipa": "zˈavtrak",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-4",
+      "l2": "щетка",
+      "en": "brush",
+      "gloss": {
+        "en": "brush",
+        "es": "cepillar",
+        "ru": "щетка"
+      },
+      "example": "Я беру зубную щетку.",
+      "ipa": "ɕːjetkˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rasporyadok-a1-5",
+      "l2": "мыло",
+      "en": "soap",
+      "gloss": {
+        "en": "soap",
+        "es": "jabón",
+        "ru": "мыло"
+      },
+      "example": "Мыло находится в ванной.",
+      "ipa": "mˈɨlo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-rasporyadok-a1-6",
+      "l2": "полотенце",
+      "en": "towel",
+      "gloss": {
+        "en": "towel",
+        "es": "toalla",
+        "ru": "полотенце"
+      },
+      "example": "Передайте мне полотенце, пожалуйста.",
+      "ipa": "pˈolotjentsje",
+      "article": "ср"
+    },
+    {
+      "id": "remote-rasporyadok-a1-7",
+      "l2": "перерыв",
+      "en": "break",
+      "gloss": {
+        "en": "break",
+        "es": "romper",
+        "ru": "перерыв"
+      },
+      "example": "У нас перерыв в десять часов.",
+      "ipa": "pjerjerˈɨv",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-8",
+      "l2": "обед",
+      "en": "lunch",
+      "gloss": {
+        "en": "lunch",
+        "es": "almuerzo",
+        "ru": "обед"
+      },
+      "example": "Обед в полдень.",
+      "ipa": "ˈobjed",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-9",
+      "l2": "ужин",
+      "en": "dinner",
+      "gloss": {
+        "en": "dinner",
+        "es": "cena",
+        "ru": "ужин"
+      },
+      "example": "Ужинаем в семь вечера.",
+      "ipa": "ˈuʐin",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-10",
+      "l2": "кровать",
+      "en": "bed",
+      "gloss": {
+        "en": "bed",
+        "es": "cama",
+        "ru": "кровать"
+      },
+      "example": "Я ложусь спать рано.",
+      "ipa": "krˈovatʲ",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rasporyadok-a1-11",
+      "l2": "спать",
+      "en": "sleep",
+      "gloss": {
+        "en": "sleep",
+        "es": "dormir",
+        "ru": "спать"
+      },
+      "example": "Мне нужен сон.",
+      "ipa": "spˈatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-12",
+      "l2": "день",
+      "en": "day (daytime)",
+      "gloss": {
+        "en": "day (daytime)",
+        "es": "día (durante el día)",
+        "ru": "день (дневное время)"
+      },
+      "example": "Добрый день !",
+      "ipa": "djenʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-13",
+      "l2": "привычка",
+      "en": "habit",
+      "gloss": {
+        "en": "habit",
+        "es": "hábito",
+        "ru": "привычка"
+      },
+      "example": "Это хорошая привычка.",
+      "ipa": "privˈɨtɕka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rasporyadok-a1-14",
+      "l2": "друг",
+      "en": "friend (male)",
+      "gloss": {
+        "en": "friend (male)",
+        "es": "amigo (masculino)",
+        "ru": "друг (мужчина)"
+      },
+      "example": "Мой парень приходит в восемь часов.",
+      "ipa": "drˈuɡ",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-15",
+      "l2": "друг",
+      "en": "friend (female)",
+      "gloss": {
+        "en": "friend (female)",
+        "es": "amiga (mujer)",
+        "ru": "друг (женщина)"
+      },
+      "example": "Моя девушка едет на автобусе.",
+      "ipa": "drˈuɡ",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-16",
+      "l2": "сумка",
+      "en": "bag",
+      "gloss": {
+        "en": "bag",
+        "es": "bolsa",
+        "ru": "сумка"
+      },
+      "example": "Моя сумка слишком тяжелая.",
+      "ipa": "sˈumka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-rasporyadok-a1-17",
+      "l2": "ключ",
+      "en": "key",
+      "gloss": {
+        "en": "key",
+        "es": "llave",
+        "ru": "ключ"
+      },
+      "example": "Где мои ключи?",
+      "ipa": "kljˈutɕ",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-18",
+      "l2": "кошелек",
+      "en": "wallet",
+      "gloss": {
+        "en": "wallet",
+        "es": "billetera",
+        "ru": "кошелек"
+      },
+      "example": "Мой кошелек у меня в кармане.",
+      "ipa": "kˈoʂjeljek",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-19",
+      "l2": "письменный стол",
+      "en": "desk / office",
+      "gloss": {
+        "en": "desk / office",
+        "es": "escritorio / oficina",
+        "ru": "письменный стол/офис"
+      },
+      "example": "Я работаю в офисе.",
+      "ipa": "pisʲmjennˈɨj stol",
+      "article": "м"
+    },
+    {
+      "id": "remote-rasporyadok-a1-20",
+      "l2": "усталость",
+      "en": "tiredness",
+      "gloss": {
+        "en": "tiredness",
+        "es": "cansancio",
+        "ru": "усталость"
+      },
+      "example": "Я устал этим вечером.",
+      "ipa": "ustˈalostʲ",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-rasporyadok-a1-phrase-1",
+      "l2": "Я встаю в семь часов.",
+      "en": "I get up at seven o’clock.",
+      "gloss": {
+        "en": "I get up at seven o’clock.",
+        "es": "Me levanto a las siete.",
+        "ru": "Я встаю в семь часов."
+      },
+      "ipa": "jˈa vstˈaju v sjemʲ tɕˈasov"
+    },
+    {
+      "id": "remote-rasporyadok-a1-phrase-2",
+      "l2": "Я принимаю душ утром.",
+      "en": "I take a shower in the morning.",
+      "gloss": {
+        "en": "I take a shower in the morning.",
+        "es": "Me ducho por la mañana.",
+        "ru": "Я принимаю душ утром."
+      },
+      "ipa": "jˈa prinimˈaju dˈuʂ ˈutrom"
+    },
+    {
+      "id": "remote-rasporyadok-a1-phrase-3",
+      "l2": "Во сколько ты ужинаешь?",
+      "en": "What time do you have dinner?",
+      "gloss": {
+        "en": "What time do you have dinner?",
+        "es": "¿A qué hora cenas?",
+        "ru": "Во сколько ты ужинаешь?"
+      },
+      "ipa": "vˈo skˈolʲko tˈɨ uʐˈinajeʂʲ"
+    },
+    {
+      "id": "remote-rasporyadok-a1-phrase-4",
+      "l2": "Я ложусь спать рано.",
+      "en": "I go to bed early.",
+      "gloss": {
+        "en": "I go to bed early.",
+        "es": "Me acuesto temprano.",
+        "ru": "Я ложусь спать рано."
+      },
+      "ipa": "jˈa lˈoʐusʲ spˈatʲ rˈano"
+    },
+    {
+      "id": "remote-rasporyadok-a1-phrase-5",
+      "l2": "У нас перерыв в десять часов.",
+      "en": "We take a break at ten o’clock.",
+      "gloss": {
+        "en": "We take a break at ten o’clock.",
+        "es": "Hacemos una pausa a las diez en punto.",
+        "ru": "У нас перерыв в десять часов."
+      },
+      "ipa": "ˈu nˈas pjerjerˈɨv v djesjˈatʲ tɕˈasov"
+    },
+    {
+      "id": "remote-rasporyadok-a1-phrase-6",
+      "l2": "Добрый день !",
+      "en": "Have a good day!",
+      "gloss": {
+        "en": "Have a good day!",
+        "es": "¡Que tenga un buen día!",
+        "ru": "Хорошего дня!"
+      },
+      "ipa": "dˈobrɨj djenʲ"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-rasporyadok-a1-listen-1",
+      "l2": "Будильник звонит каждый день в семь часов.",
+      "en": "The alarm clock rings at seven every day.",
+      "gloss": {
+        "en": "The alarm clock rings at seven every day.",
+        "es": "El despertador suena a las siete todos los días.",
+        "ru": "Будильник звонит в семь каждый день."
+      },
+      "word": "будильник",
+      "wordEn": "alarm clock",
+      "wordGloss": {
+        "en": "alarm clock",
+        "es": "despertador",
+        "ru": "будильник"
+      },
+      "wordIpa": "budˈilʲnik",
+      "distractors": [
+        "душ",
+        "кровать",
+        "перерыв"
+      ]
+    },
+    {
+      "id": "remote-rasporyadok-a1-listen-2",
+      "l2": "Я принимаю душ после занятий спортом.",
+      "en": "I take a shower after sport.",
+      "gloss": {
+        "en": "I take a shower after sport.",
+        "es": "Me ducho después de hacer deporte.",
+        "ru": "Я принимаю душ после спорта."
+      },
+      "word": "душ",
+      "wordEn": "shower",
+      "wordGloss": {
+        "en": "shower",
+        "es": "ducha",
+        "ru": "душ"
+      },
+      "wordIpa": "dˈuʂ",
+      "distractors": [
+        "мыло",
+        "полотенце",
+        "щетка"
+      ]
+    },
+    {
+      "id": "remote-rasporyadok-a1-listen-3",
+      "l2": "Обед в полдень.",
+      "en": "Lunch is at noon.",
+      "gloss": {
+        "en": "Lunch is at noon.",
+        "es": "El almuerzo es al mediodía.",
+        "ru": "Обед в полдень."
+      },
+      "word": "обед",
+      "wordEn": "lunch",
+      "wordGloss": {
+        "en": "lunch",
+        "es": "almuerzo",
+        "ru": "обед"
+      },
+      "wordIpa": "ˈobjed",
+      "distractors": [
+        "ужин",
+        "завтрак",
+        "перерыв"
+      ]
+    },
+    {
+      "id": "remote-rasporyadok-a1-listen-4",
+      "l2": "Я сегодня лягу спать рано.",
+      "en": "I’m going to bed early tonight.",
+      "gloss": {
+        "en": "I’m going to bed early tonight.",
+        "es": "Me acostaré temprano esta noche.",
+        "ru": "Сегодня я лягу спать рано."
+      },
+      "word": "кровать",
+      "wordEn": "bed",
+      "wordGloss": {
+        "en": "bed",
+        "es": "cama",
+        "ru": "кровать"
+      },
+      "wordIpa": "krˈovatʲ",
+      "distractors": [
+        "письменный стол",
+        "сумка",
+        "спать"
+      ]
+    }
+  ],
+  "prompts": [
+    "В какое время вы встаете?",
+    "Опиши свое утро.",
+    "Что ты делаешь вечером?",
+    "Какие у тебя привычки на выходных?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-rasporyadok-a1-grammar-1",
+      "title": {
+        "fr": "Genre des noms (м / ж / ср)",
+        "en": "Noun gender (м / ж / ср)",
+        "es": "Género de los sustantivos (м / ж / ср)",
+        "ru": "Род существительных (м / ж / ср)"
+      },
+      "rule": {
+        "fr": "м — masculin ; ж — féminin ; ср — neutre.",
+        "en": "м — masculine; ж — feminine; ср — neuter.",
+        "es": "м — masculino; ж — femenino; ср — neutro.",
+        "ru": "м — мужской род; ж — женский род; ср — средний род."
+      },
+      "why": {
+        "en": "Gender affects adjectives and past-tense verbs.",
+        "es": "El género afecta a adjetivos y verbos en pasado.",
+        "ru": "Род влияет на прилагательные и глаголы в прошедшем времени."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "м",
+          "мужской род",
+          "душ"
+        ],
+        [
+          "ж",
+          "женский род",
+          "мыло"
+        ],
+        [
+          "ср",
+          "средний род",
+          "окно / молоко"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-rasporyadok-a1-gq-1-1",
+          "prompt": "Род слова «душ»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-rasporyadok-a1-gq-1-2",
+          "prompt": "Род слова «мыло»?",
+          "answer": "ср",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-rasporyadok-a1-gq-1-3",
+          "prompt": "Выберите род: душ",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-rasporyadok-a1-gq-1-4",
+          "prompt": "Свяжите с темой: душ / мыло. Род «душ»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-rasporyadok-a1-gq-1-5",
+          "prompt": "Свяжите с темой: душ / мыло. Род «душ»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-rasporyadok-a1-grammar-2",
+      "title": {
+        "fr": "Есть + nom",
+        "en": "Есть + noun",
+        "es": "Есть + sustantivo",
+        "ru": "Есть + существительное"
+      },
+      "rule": {
+        "fr": "Есть introduit ce qui existe : Есть + nom.",
+        "en": "Есть introduces what exists: Есть + noun.",
+        "es": "Есть presenta lo que existe: Есть + sustantivo.",
+        "ru": "Есть вводит то, что есть: Есть + существительное."
+      },
+      "why": {
+        "en": "Useful to say what you have or what is there.",
+        "es": "Útil para decir lo que hay o lo que tienes.",
+        "ru": "Полезно, чтобы сказать, что есть или что у вас есть."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "Есть",
+          "наличие",
+          "Есть завтрак."
+        ],
+        [
+          "Нет",
+          "отсутствие (+ род. п.)",
+          "Нет полотенце."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-rasporyadok-a1-gq-2-1",
+          "prompt": "Дополните: ___ завтрак.",
+          "answer": "Есть",
+          "options": [
+            "Есть",
+            "Это",
+            "Быть"
+          ]
+        },
+        {
+          "id": "remote-rasporyadok-a1-gq-2-2",
+          "prompt": "Дополните: ___ полотенце. (отрицание)",
+          "answer": "Нет",
+          "options": [
+            "Нет",
+            "Есть",
+            "Да"
+          ]
+        },
+        {
+          "id": "remote-rasporyadok-a1-gq-2-3",
+          "prompt": "У меня ___ завтрак.",
+          "answer": "есть",
+          "options": [
+            "есть",
+            "это",
+            "быть"
+          ]
+        },
+        {
+          "id": "remote-rasporyadok-a1-gq-2-4",
+          "prompt": "Свяжите с темой: завтрак / полотенце. Род «завтрак»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-rasporyadok-a1-gq-2-5",
+          "prompt": "Свяжите с темой: завтрак / полотенце. Род «завтрак»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-rasporyadok-a1-dict-1",
+        "l2": "Я встаю в семь часов.",
+        "en": "I get up at seven o’clock.",
+        "gloss": {
+          "en": "I get up at seven o’clock.",
+          "es": "Me levanto a las siete.",
+          "ru": "Я встаю в семь часов."
+        },
+        "ipa": "jˈa vstˈaju v sjemʲ tɕˈasov"
+      },
+      {
+        "id": "remote-rasporyadok-a1-dict-2",
+        "l2": "Я принимаю душ утром.",
+        "en": "I take a shower in the morning.",
+        "gloss": {
+          "en": "I take a shower in the morning.",
+          "es": "Me ducho por la mañana.",
+          "ru": "Я принимаю душ утром."
+        },
+        "ipa": "jˈa prinimˈaju dˈuʂ ˈutrom"
+      },
+      {
+        "id": "remote-rasporyadok-a1-dict-3",
+        "l2": "Во сколько ты ужинаешь?",
+        "en": "What time do you have dinner?",
+        "gloss": {
+          "en": "What time do you have dinner?",
+          "es": "¿A qué hora cenas?",
+          "ru": "Во сколько ты ужинаешь?"
+        },
+        "ipa": "vˈo skˈolʲko tˈɨ uʐˈinajeʂʲ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-rasporyadok-a1-mean-1",
+        "l2": "Я встаю в семь часов.",
+        "en": "I get up at seven o’clock.",
+        "gloss": {
+          "en": "I get up at seven o’clock.",
+          "es": "Me levanto a las siete.",
+          "ru": "Я встаю в семь часов."
+        }
+      },
+      {
+        "id": "remote-rasporyadok-a1-mean-2",
+        "l2": "Я принимаю душ утром.",
+        "en": "I take a shower in the morning.",
+        "gloss": {
+          "en": "I take a shower in the morning.",
+          "es": "Me ducho por la mañana.",
+          "ru": "Я принимаю душ утром."
+        }
+      },
+      {
+        "id": "remote-rasporyadok-a1-mean-3",
+        "l2": "Во сколько ты ужинаешь?",
+        "en": "What time do you have dinner?",
+        "gloss": {
+          "en": "What time do you have dinner?",
+          "es": "¿A qué hora cenas?",
+          "ru": "Во сколько ты ужинаешь?"
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-rasporyadok-a1-fren-1",
+        "l2": "будильник",
+        "en": "alarm clock",
+        "gloss": {
+          "en": "alarm clock",
+          "es": "despertador",
+          "ru": "будильник"
+        }
+      },
+      {
+        "id": "remote-rasporyadok-a1-fren-2",
+        "l2": "душ",
+        "en": "shower",
+        "gloss": {
+          "en": "shower",
+          "es": "ducha",
+          "ru": "душ"
+        }
+      },
+      {
+        "id": "remote-rasporyadok-a1-fren-3",
+        "l2": "завтрак",
+        "en": "breakfast",
+        "gloss": {
+          "en": "breakfast",
+          "es": "desayuno",
+          "ru": "завтрак"
+        }
+      },
+      {
+        "id": "remote-rasporyadok-a1-fren-4",
+        "l2": "щетка",
+        "en": "brush",
+        "gloss": {
+          "en": "brush",
+          "es": "cepillar",
+          "ru": "щетка"
+        }
+      },
+      {
+        "id": "remote-rasporyadok-a1-fren-5",
+        "l2": "мыло",
+        "en": "soap",
+        "gloss": {
+          "en": "soap",
+          "es": "jabón",
+          "ru": "мыло"
+        }
+      },
+      {
+        "id": "remote-rasporyadok-a1-fren-6",
+        "l2": "полотенце",
+        "en": "towel",
+        "gloss": {
+          "en": "towel",
+          "es": "toalla",
+          "ru": "полотенце"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-rasporyadok-a1-alou-1",
+        "l2": "Я встаю в семь часов.",
+        "en": "I get up at seven o’clock.",
+        "gloss": {
+          "en": "I get up at seven o’clock.",
+          "es": "Me levanto a las siete.",
+          "ru": "Я встаю в семь часов."
+        },
+        "ipa": "jˈa vstˈaju v sjemʲ tɕˈasov"
+      },
+      {
+        "id": "remote-rasporyadok-a1-alou-2",
+        "l2": "Во сколько ты ужинаешь?",
+        "en": "What time do you have dinner?",
+        "gloss": {
+          "en": "What time do you have dinner?",
+          "es": "¿A qué hora cenas?",
+          "ru": "Во сколько ты ужинаешь?"
+        },
+        "ipa": "vˈo skˈolʲko tˈɨ uʐˈinajeʂʲ"
+      },
+      {
+        "id": "remote-rasporyadok-a1-alou-3",
+        "l2": "У нас перерыв в десять часов.",
+        "en": "We take a break at ten o’clock.",
+        "gloss": {
+          "en": "We take a break at ten o’clock.",
+          "es": "Hacemos una pausa a las diez en punto.",
+          "ru": "У нас перерыв в десять часов."
+        },
+        "ipa": "ˈu nˈas pjerjerˈɨv v djesjˈatʲ tɕˈasov"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-rasporyadok-a1-unsc-1",
+        "l2": "Я ложусь спать рано.",
+        "en": "I go to bed early.",
+        "gloss": {
+          "en": "I go to bed early.",
+          "es": "Me acuesto temprano.",
+          "ru": "Я ложусь спать рано."
+        },
+        "words": [
+          "Я",
+          "ложусь",
+          "спать",
+          "рано."
+        ]
+      },
+      {
+        "id": "remote-rasporyadok-a1-unsc-2",
+        "l2": "У нас перерыв в десять часов.",
+        "en": "We take a break at ten o’clock.",
+        "gloss": {
+          "en": "We take a break at ten o’clock.",
+          "es": "Hacemos una pausa a las diez en punto.",
+          "ru": "У нас перерыв в десять часов."
+        },
+        "words": [
+          "У",
+          "нас",
+          "перерыв",
+          "в",
+          "десять",
+          "часов."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

@@ -1,0 +1,835 @@
+{
+  "pratiquePack": 2,
+  "id": "zhilye-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "ru",
+  "title": {
+    "fr": "Logement A2 (RU)",
+    "en": "Housing A2 (RU)",
+    "es": "Vivienda A2 (RU)",
+    "ru": "Корпус А2"
+  },
+  "description": {
+    "fr": "Louer, emménager et parler de son appartement — pack russe.",
+    "en": "Renting, moving in, and talking about your flat — Russian pack.",
+    "es": "Alquilar, mudarse y hablar de tu piso — paquete ruso.",
+    "ru": "Аренда, переезд и разговоры о вашей квартире — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-zhilye-a2-1",
+      "l2": "жилье",
+      "en": "housing / accommodation",
+      "gloss": {
+        "en": "housing / accommodation",
+        "es": "vivienda / alojamiento",
+        "ru": "жилье / размещение"
+      },
+      "example": "Ищу жилье в центре города.",
+      "ipa": "ʐˈilʲje",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zhilye-a2-2",
+      "l2": "квартира",
+      "en": "apartment / flat",
+      "gloss": {
+        "en": "apartment / flat",
+        "es": "apartamento / piso",
+        "ru": "квартира / квартира"
+      },
+      "example": "В квартире две спальни.",
+      "ipa": "kvartˈira",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zhilye-a2-3",
+      "l2": "арендовать",
+      "en": "rent",
+      "gloss": {
+        "en": "rent",
+        "es": "alquilar",
+        "ru": "арендовать"
+      },
+      "example": "Арендная плата слишком высока.",
+      "ipa": "arjendˈovatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-4",
+      "l2": "арендодатель",
+      "en": "landlord / owner",
+      "gloss": {
+        "en": "landlord / owner",
+        "es": "propietario / propietario",
+        "ru": "арендодатель/владелец"
+      },
+      "example": "Хозяин приедет завтра.",
+      "ipa": "arjendˈodatjelʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-5",
+      "l2": "жилец",
+      "en": "tenant",
+      "gloss": {
+        "en": "tenant",
+        "es": "arrendatario",
+        "ru": "жилец"
+      },
+      "example": "Я являюсь арендатором уже год.",
+      "ipa": "ʐˈiljets",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-6",
+      "l2": "арендовать",
+      "en": "lease",
+      "gloss": {
+        "en": "lease",
+        "es": "alquiler",
+        "ru": "арендовать"
+      },
+      "example": "Аренда длится один год.",
+      "ipa": "arjendˈovatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-7",
+      "l2": "плата за обслуживание",
+      "en": "service charges",
+      "gloss": {
+        "en": "service charges",
+        "es": "cargos por servicio",
+        "ru": "плата за обслуживание"
+      },
+      "example": "В стоимость входит вода.",
+      "ipa": "plata za obsluʐivˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zhilye-a2-8",
+      "l2": "депозит",
+      "en": "deposit",
+      "gloss": {
+        "en": "deposit",
+        "es": "depósito",
+        "ru": "депозит"
+      },
+      "example": "Вы должны внести залог.",
+      "ipa": "djepˈozit",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-9",
+      "l2": "объявление",
+      "en": "listing / advert",
+      "gloss": {
+        "en": "listing / advert",
+        "es": "listado / anuncio",
+        "ru": "объявление/объявление"
+      },
+      "example": "Я увидел рекламу в Интернете.",
+      "ipa": "objˈavljenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zhilye-a2-10",
+      "l2": "просмотр",
+      "en": "viewing",
+      "gloss": {
+        "en": "viewing",
+        "es": "visita",
+        "ru": "просмотр"
+      },
+      "example": "Посещение в шесть часов вечера.",
+      "ipa": "prˈosmotr",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-11",
+      "l2": "мезонин",
+      "en": "mezzanine",
+      "gloss": {
+        "en": "mezzanine",
+        "es": "entresuelo",
+        "ru": "мезонин"
+      },
+      "example": "В студии есть мезонин.",
+      "ipa": "mjezˈonin",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-12",
+      "l2": "квартира-студия",
+      "en": "studio flat",
+      "gloss": {
+        "en": "studio flat",
+        "es": "estudio",
+        "ru": "квартира-студия"
+      },
+      "example": "Студия небольшая, но светлая.",
+      "ipa": "kvartira-studˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zhilye-a2-13",
+      "l2": "сосед по квартире",
+      "en": "flatmate",
+      "gloss": {
+        "en": "flatmate",
+        "es": "compañero de piso",
+        "ru": "сосед по квартире"
+      },
+      "example": "Мой сосед по комнате готовит.",
+      "ipa": "sosjed po kvˈartirje",
+      "article": "ср"
+    },
+    {
+      "id": "remote-zhilye-a2-14",
+      "l2": "переехать",
+      "en": "move (house)",
+      "gloss": {
+        "en": "move (house)",
+        "es": "mudarse)",
+        "ru": "переехать (дом)"
+      },
+      "example": "Переезд — суббота.",
+      "ipa": "pjerjejexˈatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-15",
+      "l2": "картонная коробка",
+      "en": "cardboard box",
+      "gloss": {
+        "en": "cardboard box",
+        "es": "caja de cartón",
+        "ru": "картонная коробка"
+      },
+      "example": "Коробки стоят в коридоре.",
+      "ipa": "kartonnaja korˈobka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-zhilye-a2-16",
+      "l2": "лифт",
+      "en": "lift / elevator",
+      "gloss": {
+        "en": "lift / elevator",
+        "es": "ascensor / ascensor",
+        "ru": "лифт / лифт"
+      },
+      "example": "Лифт сломан.",
+      "ipa": "lˈift",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-17",
+      "l2": "подвал",
+      "en": "cellar",
+      "gloss": {
+        "en": "cellar",
+        "es": "bodega",
+        "ru": "подвал"
+      },
+      "example": "Подвал находится в подвале.",
+      "ipa": "pˈodval",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-18",
+      "l2": "чердак",
+      "en": "attic",
+      "gloss": {
+        "en": "attic",
+        "es": "ático",
+        "ru": "чердак"
+      },
+      "example": "Чердак пыльный.",
+      "ipa": "tɕjerdˈak",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-19",
+      "l2": "окрестности",
+      "en": "neighborhood (people)",
+      "gloss": {
+        "en": "neighborhood (people)",
+        "es": "barrio (personas)",
+        "ru": "окрестности (люди)"
+      },
+      "example": "Район тихий.",
+      "ipa": "okrjestnˈosti",
+      "article": "м"
+    },
+    {
+      "id": "remote-zhilye-a2-20",
+      "l2": "инвентарь",
+      "en": "inventory (move-in)",
+      "gloss": {
+        "en": "inventory (move-in)",
+        "es": "inventario (mudanza)",
+        "ru": "инвентарь (заезд)"
+      },
+      "example": "Сегодня мы оцениваем ситуацию.",
+      "ipa": "ˈinvjentarʲ",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-zhilye-a2-phrase-1",
+      "l2": "Я ищу квартиру в аренду.",
+      "en": "I’m looking for a flat to rent.",
+      "gloss": {
+        "en": "I’m looking for a flat to rent.",
+        "es": "Busco piso para alquilar.",
+        "ru": "Я ищу квартиру в аренду."
+      },
+      "ipa": "jˈa ˈiɕːu kvartˈiru v ˈarjendu"
+    },
+    {
+      "id": "remote-zhilye-a2-phrase-2",
+      "l2": "Арендная плата составляет восемьсот евро в месяц.",
+      "en": "The rent is eight hundred euros a month.",
+      "gloss": {
+        "en": "The rent is eight hundred euros a month.",
+        "es": "El alquiler es de ochocientos euros al mes.",
+        "ru": "Арендная плата составляет восемьсот евро в месяц."
+      },
+      "ipa": "arjendnˈaja plˈata sostˈavljajet vˈosjemʲsot jevrˈo v mjesjˈats"
+    },
+    {
+      "id": "remote-zhilye-a2-phrase-3",
+      "l2": "Включены ли сборы?",
+      "en": "Are the charges included?",
+      "gloss": {
+        "en": "Are the charges included?",
+        "es": "¿Están incluidos los cargos?",
+        "ru": "Включены ли сборы?"
+      },
+      "ipa": "vkljˈutɕjenɨ lˈi sbˈorɨ"
+    },
+    {
+      "id": "remote-zhilye-a2-phrase-4",
+      "l2": "Можем ли мы посетить сегодня днем?",
+      "en": "Can we view it this afternoon?",
+      "gloss": {
+        "en": "Can we view it this afternoon?",
+        "es": "¿Podemos verlo esta tarde?",
+        "ru": "Можем ли мы посмотреть это сегодня днем?"
+      },
+      "ipa": "mˈoʐjem lˈi mˈɨ pˈosjetitʲ sjeɡˈodnja dnjem"
+    },
+    {
+      "id": "remote-zhilye-a2-phrase-5",
+      "l2": "Лифт сломан.",
+      "en": "The lift is out of order.",
+      "gloss": {
+        "en": "The lift is out of order.",
+        "es": "El ascensor está averiado.",
+        "ru": "Лифт вышел из строя."
+      },
+      "ipa": "lˈift slˈoman"
+    },
+    {
+      "id": "remote-zhilye-a2-phrase-6",
+      "l2": "Я переезжаю в следующем месяце.",
+      "en": "I’m going to move in next month.",
+      "gloss": {
+        "en": "I’m going to move in next month.",
+        "es": "Me mudaré el próximo mes.",
+        "ru": "Я собираюсь переехать в следующем месяце."
+      },
+      "ipa": "jˈa pjerjejezʐˈaju v sljedˈujuɕːjem mjesjˈatsje"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-zhilye-a2-listen-1",
+      "l2": "Ищу квартиру в аренду в центре города.",
+      "en": "I’m looking for a flat to rent in the center.",
+      "gloss": {
+        "en": "I’m looking for a flat to rent in the center.",
+        "es": "Busco piso para alquilar en el centro.",
+        "ru": "Ищу квартиру в аренду в центре."
+      },
+      "word": "квартира",
+      "wordEn": "flat",
+      "wordGloss": {
+        "en": "flat",
+        "es": "departamento",
+        "ru": "плоский"
+      },
+      "wordIpa": "kvartˈira",
+      "distractors": [
+        "квартира-студия",
+        "подвал",
+        "чердак"
+      ]
+    },
+    {
+      "id": "remote-zhilye-a2-listen-2",
+      "l2": "Арендная плата для меня слишком высока.",
+      "en": "The rent is too high for me.",
+      "gloss": {
+        "en": "The rent is too high for me.",
+        "es": "El alquiler es demasiado alto para mí.",
+        "ru": "Арендная плата для меня слишком высока."
+      },
+      "word": "арендовать",
+      "wordEn": "rent",
+      "wordGloss": {
+        "en": "rent",
+        "es": "alquilar",
+        "ru": "арендовать"
+      },
+      "wordIpa": "arjendˈovatʲ",
+      "distractors": [
+        "депозит",
+        "плата за обслуживание",
+        "жилье"
+      ]
+    },
+    {
+      "id": "remote-zhilye-a2-listen-3",
+      "l2": "Мой сосед по комнате готовит сегодня вечером.",
+      "en": "My flatmate is cooking tonight.",
+      "gloss": {
+        "en": "My flatmate is cooking tonight.",
+        "es": "Mi compañero de piso está cocinando esta noche.",
+        "ru": "Мой сосед по квартире готовит сегодня вечером."
+      },
+      "word": "сосед по квартире",
+      "wordEn": "flatmate",
+      "wordGloss": {
+        "en": "flatmate",
+        "es": "compañero de piso",
+        "ru": "сосед по квартире"
+      },
+      "wordIpa": "sosjed po kvˈartirje",
+      "distractors": [
+        "арендодатель",
+        "жилец",
+        "окрестности"
+      ]
+    },
+    {
+      "id": "remote-zhilye-a2-listen-4",
+      "l2": "Лифт сломан со вчерашнего дня.",
+      "en": "The lift has been out of order since yesterday.",
+      "gloss": {
+        "en": "The lift has been out of order since yesterday.",
+        "es": "El ascensor está fuera de servicio desde ayer.",
+        "ru": "Лифт не работает со вчерашнего дня."
+      },
+      "word": "лифт",
+      "wordEn": "lift",
+      "wordGloss": {
+        "en": "lift",
+        "es": "elevar",
+        "ru": "поднимать"
+      },
+      "wordIpa": "lˈift",
+      "distractors": [
+        "чердак",
+        "подвал",
+        "картонная коробка"
+      ]
+    }
+  ],
+  "prompts": [
+    "Опишите свое нынешнее жилье.",
+    "Вы предпочитаете студию или квартиру? За что ?",
+    "Какие вопросы вы задаете владельцу?",
+    "Рассказывает о переезде (реальном или воображаемом)."
+  ],
+  "grammar": [
+    {
+      "id": "remote-zhilye-a2-grammar-1",
+      "title": {
+        "fr": "Accusatif après я хочу / я вижу",
+        "en": "Accusative after я хочу / я вижу",
+        "es": "Acusativo tras я хочу / я вижу",
+        "ru": "Винительный падеж после я хочу / я вижу"
+      },
+      "rule": {
+        "fr": "Après un verbe transitif, le complément est souvent à l’accusatif.",
+        "en": "After a transitive verb, the object is often in the accusative.",
+        "es": "Tras un verbo transitivo, el complemento suele ir en acusativo.",
+        "ru": "После переходного глагола дополнение часто стоит в винительном падеже."
+      },
+      "why": {
+        "en": "Lets you say what you want, see, or buy.",
+        "es": "Permite decir lo que quieres, ves o compras.",
+        "ru": "Позволяет сказать, что вы хотите, видите или покупаете."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "я вижу + Вин.",
+          "объект",
+          "Я вижу квартира."
+        ],
+        [
+          "я хочу + Вин.",
+          "желание",
+          "Я хочу жилец."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-zhilye-a2-gq-1-1",
+          "prompt": "Я вижу ___ . (квартира)",
+          "answer": "квартира",
+          "options": [
+            "квартира",
+            "жилец",
+            "нет"
+          ]
+        },
+        {
+          "id": "remote-zhilye-a2-gq-1-2",
+          "prompt": "После «я хочу» обычно нужен ___ падеж.",
+          "answer": "винительный",
+          "options": [
+            "винительный",
+            "творительный",
+            "предложный"
+          ]
+        },
+        {
+          "id": "remote-zhilye-a2-gq-1-3",
+          "prompt": "Я покупаю ___ .",
+          "answer": "жилец",
+          "options": [
+            "жилец",
+            "нет",
+            "есть"
+          ]
+        },
+        {
+          "id": "remote-zhilye-a2-gq-1-4",
+          "prompt": "Свяжите с темой: квартира / жилец. Род «квартира»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-zhilye-a2-gq-1-5",
+          "prompt": "Свяжите с темой: квартира / жилец. Род «квартира»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-zhilye-a2-grammar-2",
+      "title": {
+        "fr": "Passé : -л / -ла / -ло / -ли",
+        "en": "Past tense: -л / -ла / -ло / -ли",
+        "es": "Pasado: -л / -ла / -ло / -ли",
+        "ru": "Прошедшее время: -л / -ла / -ло / -ли"
+      },
+      "rule": {
+        "fr": "Le passé s’accorde en genre et nombre : был, была, было, были.",
+        "en": "Past tense agrees in gender and number: был, была, было, были.",
+        "es": "El pasado concuerda en género y número: был, была, было, были.",
+        "ru": "Прошедшее время согласуется по роду и числу: был, была, было, были."
+      },
+      "why": {
+        "en": "Past forms must match the subject.",
+        "es": "Las formas del pasado deben coincidir con el sujeto.",
+        "ru": "Формы прошедшего должны согласоваться с подлежащим."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "-л",
+          "м. р.",
+          "Он был дома."
+        ],
+        [
+          "-ла",
+          "ж. р.",
+          "Она была дома."
+        ],
+        [
+          "-ли",
+          "мн. ч.",
+          "Они были дома."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-zhilye-a2-gq-2-1",
+          "prompt": "Вчера он ___ дома. (быть)",
+          "answer": "был",
+          "options": [
+            "был",
+            "была",
+            "были"
+          ]
+        },
+        {
+          "id": "remote-zhilye-a2-gq-2-2",
+          "prompt": "Вчера она ___ дома. (быть)",
+          "answer": "была",
+          "options": [
+            "была",
+            "был",
+            "было"
+          ]
+        },
+        {
+          "id": "remote-zhilye-a2-gq-2-3",
+          "prompt": "Вчера они ___ дома. (быть)",
+          "answer": "были",
+          "options": [
+            "были",
+            "был",
+            "была"
+          ]
+        },
+        {
+          "id": "remote-zhilye-a2-gq-2-4",
+          "prompt": "Свяжите с темой: арендовать / арендовать. Род «арендовать»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-zhilye-a2-gq-2-5",
+          "prompt": "Свяжите с темой: арендовать / арендовать. Род «арендовать»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-zhilye-a2-dict-1",
+        "l2": "Я ищу квартиру в аренду.",
+        "en": "I’m looking for a flat to rent.",
+        "gloss": {
+          "en": "I’m looking for a flat to rent.",
+          "es": "Busco piso para alquilar.",
+          "ru": "Я ищу квартиру в аренду."
+        },
+        "ipa": "jˈa ˈiɕːu kvartˈiru v ˈarjendu"
+      },
+      {
+        "id": "remote-zhilye-a2-dict-2",
+        "l2": "Арендная плата составляет восемьсот евро в месяц.",
+        "en": "The rent is eight hundred euros a month.",
+        "gloss": {
+          "en": "The rent is eight hundred euros a month.",
+          "es": "El alquiler es de ochocientos euros al mes.",
+          "ru": "Арендная плата составляет восемьсот евро в месяц."
+        },
+        "ipa": "arjendnˈaja plˈata sostˈavljajet vˈosjemʲsot jevrˈo v mjesjˈats"
+      },
+      {
+        "id": "remote-zhilye-a2-dict-3",
+        "l2": "Включены ли сборы?",
+        "en": "Are the charges included?",
+        "gloss": {
+          "en": "Are the charges included?",
+          "es": "¿Están incluidos los cargos?",
+          "ru": "Включены ли сборы?"
+        },
+        "ipa": "vkljˈutɕjenɨ lˈi sbˈorɨ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-zhilye-a2-mean-1",
+        "l2": "Я ищу квартиру в аренду.",
+        "en": "I’m looking for a flat to rent.",
+        "gloss": {
+          "en": "I’m looking for a flat to rent.",
+          "es": "Busco piso para alquilar.",
+          "ru": "Я ищу квартиру в аренду."
+        }
+      },
+      {
+        "id": "remote-zhilye-a2-mean-2",
+        "l2": "Арендная плата составляет восемьсот евро в месяц.",
+        "en": "The rent is eight hundred euros a month.",
+        "gloss": {
+          "en": "The rent is eight hundred euros a month.",
+          "es": "El alquiler es de ochocientos euros al mes.",
+          "ru": "Арендная плата составляет восемьсот евро в месяц."
+        }
+      },
+      {
+        "id": "remote-zhilye-a2-mean-3",
+        "l2": "Включены ли сборы?",
+        "en": "Are the charges included?",
+        "gloss": {
+          "en": "Are the charges included?",
+          "es": "¿Están incluidos los cargos?",
+          "ru": "Включены ли сборы?"
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-zhilye-a2-fren-1",
+        "l2": "жилье",
+        "en": "housing",
+        "gloss": {
+          "en": "housing",
+          "es": "alojamiento",
+          "ru": "жилье"
+        }
+      },
+      {
+        "id": "remote-zhilye-a2-fren-2",
+        "l2": "квартира",
+        "en": "apartment",
+        "gloss": {
+          "en": "apartment",
+          "es": "departamento",
+          "ru": "квартира"
+        }
+      },
+      {
+        "id": "remote-zhilye-a2-fren-3",
+        "l2": "арендовать",
+        "en": "rent",
+        "gloss": {
+          "en": "rent",
+          "es": "alquilar",
+          "ru": "арендовать"
+        }
+      },
+      {
+        "id": "remote-zhilye-a2-fren-4",
+        "l2": "арендодатель",
+        "en": "landlord",
+        "gloss": {
+          "en": "landlord",
+          "es": "propietario",
+          "ru": "домовладелец"
+        }
+      },
+      {
+        "id": "remote-zhilye-a2-fren-5",
+        "l2": "жилец",
+        "en": "tenant",
+        "gloss": {
+          "en": "tenant",
+          "es": "arrendatario",
+          "ru": "жилец"
+        }
+      },
+      {
+        "id": "remote-zhilye-a2-fren-6",
+        "l2": "арендовать",
+        "en": "lease",
+        "gloss": {
+          "en": "lease",
+          "es": "alquiler",
+          "ru": "арендовать"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-zhilye-a2-alou-1",
+        "l2": "Я ищу квартиру в аренду.",
+        "en": "I’m looking for a flat to rent.",
+        "gloss": {
+          "en": "I’m looking for a flat to rent.",
+          "es": "Busco piso para alquilar.",
+          "ru": "Я ищу квартиру в аренду."
+        },
+        "ipa": "jˈa ˈiɕːu kvartˈiru v ˈarjendu"
+      },
+      {
+        "id": "remote-zhilye-a2-alou-2",
+        "l2": "Включены ли сборы?",
+        "en": "Are the charges included?",
+        "gloss": {
+          "en": "Are the charges included?",
+          "es": "¿Están incluidos los cargos?",
+          "ru": "Включены ли сборы?"
+        },
+        "ipa": "vkljˈutɕjenɨ lˈi sbˈorɨ"
+      },
+      {
+        "id": "remote-zhilye-a2-alou-3",
+        "l2": "Лифт сломан.",
+        "en": "The lift is out of order.",
+        "gloss": {
+          "en": "The lift is out of order.",
+          "es": "El ascensor está averiado.",
+          "ru": "Лифт вышел из строя."
+        },
+        "ipa": "lˈift slˈoman"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-zhilye-a2-unsc-1",
+        "l2": "Можем ли мы посетить сегодня днем?",
+        "en": "Can we view it this afternoon?",
+        "gloss": {
+          "en": "Can we view it this afternoon?",
+          "es": "¿Podemos verlo esta tarde?",
+          "ru": "Можем ли мы посмотреть это сегодня днем?"
+        },
+        "words": [
+          "Можем",
+          "ли",
+          "мы",
+          "посетить",
+          "сегодня",
+          "днем?"
+        ]
+      },
+      {
+        "id": "remote-zhilye-a2-unsc-2",
+        "l2": "Лифт сломан.",
+        "en": "The lift is out of order.",
+        "gloss": {
+          "en": "The lift is out of order.",
+          "es": "El ascensor está averiado.",
+          "ru": "Лифт вышел из строя."
+        },
+        "words": [
+          "Лифт",
+          "сломан."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

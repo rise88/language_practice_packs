@@ -1,0 +1,838 @@
+{
+  "pratiquePack": 2,
+  "id": "prazdniki-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "ru",
+  "title": {
+    "fr": "Fêtes A2 (RU)",
+    "en": "Celebrations A2 (RU)",
+    "es": "Celebraciones A2 (RU)",
+    "ru": "Торжества А2"
+  },
+  "description": {
+    "fr": "Anniversaires, fêtes et invitations pour la vie sociale — pack russe.",
+    "en": "Birthdays, holidays, and invitations for social life — Russian pack.",
+    "es": "Cumpleaños, días festivos e invitaciones para la vida social — paquete ruso.",
+    "ru": "Дни рождения, праздники и приглашения на светскую жизнь — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-prazdniki-a2-1",
+      "l2": "вечеринка",
+      "en": "party / celebration",
+      "gloss": {
+        "en": "party / celebration",
+        "es": "fiesta / celebración",
+        "ru": "вечеринка/праздник"
+      },
+      "example": "У нас вечеринка в субботу.",
+      "ipa": "vjetɕjerˈinka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-prazdniki-a2-2",
+      "l2": "день рождения",
+      "en": "birthday",
+      "gloss": {
+        "en": "birthday",
+        "es": "cumpleaños",
+        "ru": "день рождения"
+      },
+      "example": "Завтра у меня день рождения.",
+      "ipa": "djenʲ roʐdjenˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-prazdniki-a2-3",
+      "l2": "приглашение",
+      "en": "invitation",
+      "gloss": {
+        "en": "invitation",
+        "es": "invitación",
+        "ru": "приглашение"
+      },
+      "example": "Я получил приглашение.",
+      "ipa": "priɡlˈaʂjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-prazdniki-a2-4",
+      "l2": "подарок",
+      "en": "present / gift",
+      "gloss": {
+        "en": "present / gift",
+        "es": "presente / regalo",
+        "ru": "подарок / подарок"
+      },
+      "example": "Я приношу подарок.",
+      "ipa": "podˈarok",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-5",
+      "l2": "торт",
+      "en": "cake",
+      "gloss": {
+        "en": "cake",
+        "es": "pastel",
+        "ru": "торт"
+      },
+      "example": "Шоколадный торт очень вкусный.",
+      "ipa": "tˈort",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-6",
+      "l2": "свеча",
+      "en": "candle",
+      "gloss": {
+        "en": "candle",
+        "es": "vela",
+        "ru": "свеча"
+      },
+      "example": "На торте двадцать свечей.",
+      "ipa": "svjetɕˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-prazdniki-a2-7",
+      "l2": "гость",
+      "en": "guest",
+      "gloss": {
+        "en": "guest",
+        "es": "invitado",
+        "ru": "гость"
+      },
+      "example": "Гости приходят в восемь вечера.",
+      "ipa": "ɡˈostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-8",
+      "l2": "свадьба",
+      "en": "wedding",
+      "gloss": {
+        "en": "wedding",
+        "es": "boda",
+        "ru": "свадьба"
+      },
+      "example": "Свадьба состоится в июне.",
+      "ipa": "svˈadʲba",
+      "article": "ж"
+    },
+    {
+      "id": "remote-prazdniki-a2-9",
+      "l2": "рождественский",
+      "en": "Christmas / New Year’s Eve dinner",
+      "gloss": {
+        "en": "Christmas / New Year’s Eve dinner",
+        "es": "Cena de Navidad/Nochevieja",
+        "ru": "Рождественский/новогодний ужин"
+      },
+      "example": "У нас семейный новогодний ужин.",
+      "ipa": "rˈoʐdjestvjenskij",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-10",
+      "l2": "новый год",
+      "en": "New Year",
+      "gloss": {
+        "en": "New Year",
+        "es": "Año Nuevo",
+        "ru": "Новый год"
+      },
+      "example": "С Новым Годом!",
+      "ipa": "novˈɨj ɡod",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-11",
+      "l2": "праздники",
+      "en": "holidays",
+      "gloss": {
+        "en": "holidays",
+        "es": "vacaciones",
+        "ru": "праздники"
+      },
+      "example": "Каникулы начинаются в пятницу.",
+      "ipa": "prazdnˈiki",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-12",
+      "l2": "фейерверк",
+      "en": "fireworks",
+      "gloss": {
+        "en": "fireworks",
+        "es": "fuegos artificiales",
+        "ru": "фейерверк"
+      },
+      "example": "Фейерверк в полночь.",
+      "ipa": "fjejjervjerk",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-13",
+      "l2": "костюм",
+      "en": "costume",
+      "gloss": {
+        "en": "costume",
+        "es": "traje",
+        "ru": "костюм"
+      },
+      "example": "Она одета в костюм для карнавала.",
+      "ipa": "kˈostjum",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-14",
+      "l2": "тост",
+      "en": "toast (speech)",
+      "gloss": {
+        "en": "toast (speech)",
+        "es": "brindis (discurso)",
+        "ru": "тост (речь)"
+      },
+      "example": "Мы поднимаем бокалы для тоста.",
+      "ipa": "tˈost",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-15",
+      "l2": "карта",
+      "en": "card",
+      "gloss": {
+        "en": "card",
+        "es": "tarjeta",
+        "ru": "карта"
+      },
+      "example": "Я пишу поздравительную открытку.",
+      "ipa": "kˈarta",
+      "article": "ж"
+    },
+    {
+      "id": "remote-prazdniki-a2-16",
+      "l2": "сюрприз",
+      "en": "surprise",
+      "gloss": {
+        "en": "surprise",
+        "es": "sorpresa",
+        "ru": "сюрприз"
+      },
+      "example": "Это вечеринка-сюрприз.",
+      "ipa": "sjˈurpriz",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-17",
+      "l2": "танцевать",
+      "en": "dance",
+      "gloss": {
+        "en": "dance",
+        "es": "bailar",
+        "ru": "танцевать"
+      },
+      "example": "Все танцуют.",
+      "ipa": "tˈantsjevatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-18",
+      "l2": "музыка",
+      "en": "music",
+      "gloss": {
+        "en": "music",
+        "es": "música",
+        "ru": "музыка"
+      },
+      "example": "Музыка слишком громкая.",
+      "ipa": "muzˈɨka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-prazdniki-a2-19",
+      "l2": "память",
+      "en": "memory / souvenir",
+      "gloss": {
+        "en": "memory / souvenir",
+        "es": "recuerdo / recuerdo",
+        "ru": "память/сувенир"
+      },
+      "example": "Это прекрасное воспоминание.",
+      "ipa": "pˈamjatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-prazdniki-a2-20",
+      "l2": "традиция",
+      "en": "tradition",
+      "gloss": {
+        "en": "tradition",
+        "es": "tradición",
+        "ru": "традиция"
+      },
+      "example": "Это семейная традиция.",
+      "ipa": "traditsˈija",
+      "article": "ж"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-prazdniki-a2-phrase-1",
+      "l2": "Ты свободен в субботу вечером?",
+      "en": "Are you free Saturday evening?",
+      "gloss": {
+        "en": "Are you free Saturday evening?",
+        "es": "¿Estás libre el sábado por la noche?",
+        "ru": "Ты свободен в субботу вечером?"
+      },
+      "ipa": "tˈɨ svˈobodjen v subbˈotu vjetɕjerˈom"
+    },
+    {
+      "id": "remote-prazdniki-a2-phrase-2",
+      "l2": "С днем ​​рождения !",
+      "en": "Happy birthday!",
+      "gloss": {
+        "en": "Happy birthday!",
+        "es": "¡Feliz cumpleaños!",
+        "ru": "С днем ​​рождения!"
+      },
+      "ipa": "s dnjem roʐdjenˈija"
+    },
+    {
+      "id": "remote-prazdniki-a2-phrase-3",
+      "l2": "Я хотел бы пригласить вас на ужин.",
+      "en": "I’d like to invite you to dinner.",
+      "gloss": {
+        "en": "I’d like to invite you to dinner.",
+        "es": "Me gustaría invitarte a cenar.",
+        "ru": "Я хотел бы пригласить вас на ужин."
+      },
+      "ipa": "jˈa xˈotjel bˈɨ priɡlˈasitʲ vˈas nˈa ˈuʐin"
+    },
+    {
+      "id": "remote-prazdniki-a2-phrase-4",
+      "l2": "Спасибо за приглашение, с удовольствием принимаю.",
+      "en": "Thanks for the invitation, I’d love to come.",
+      "gloss": {
+        "en": "Thanks for the invitation, I’d love to come.",
+        "es": "Gracias por la invitación, me encantaría venir.",
+        "ru": "Спасибо за приглашение, я бы с радостью пришёл."
+      },
+      "ipa": "spasˈibo zˈa priɡlˈaʂjenije s udovˈolʲstvijem prinimˈaju"
+    },
+    {
+      "id": "remote-prazdniki-a2-phrase-5",
+      "l2": "Извините, я не смогу прийти.",
+      "en": "Sorry, I can’t come.",
+      "gloss": {
+        "en": "Sorry, I can’t come.",
+        "es": "Lo siento, no puedo ir.",
+        "ru": "Извините, я не смогу прийти."
+      },
+      "ipa": "izvˈinitje jˈa nje smˈoɡu prˈijti"
+    },
+    {
+      "id": "remote-prazdniki-a2-phrase-6",
+      "l2": "Мы встретимся в 8 вечера. у меня дома.",
+      "en": "We’ll meet at my place at eight o’clock.",
+      "gloss": {
+        "en": "We’ll meet at my place at eight o’clock.",
+        "es": "Nos encontraremos en mi casa a las ocho.",
+        "ru": "Мы встретимся у меня дома в восемь часов."
+      },
+      "ipa": "mˈɨ vstrjetˈimsja v vjetɕjerˈa ˈu mjenjˈa dˈoma"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-prazdniki-a2-listen-1",
+      "l2": "Завтра вечером у меня день рождения.",
+      "en": "It’s my birthday tomorrow evening.",
+      "gloss": {
+        "en": "It’s my birthday tomorrow evening.",
+        "es": "Es mi cumpleaños mañana por la tarde.",
+        "ru": "Завтра вечером у меня день рождения."
+      },
+      "word": "день рождения",
+      "wordEn": "birthday",
+      "wordGloss": {
+        "en": "birthday",
+        "es": "cumpleaños",
+        "ru": "день рождения"
+      },
+      "wordIpa": "djenʲ roʐdjenˈija",
+      "distractors": [
+        "свадьба",
+        "рождество",
+        "праздники"
+      ]
+    },
+    {
+      "id": "remote-prazdniki-a2-listen-2",
+      "l2": "Я получил приглашение на субботу.",
+      "en": "I received an invitation for Saturday.",
+      "gloss": {
+        "en": "I received an invitation for Saturday.",
+        "es": "Recibí una invitación para el sábado.",
+        "ru": "Я получил приглашение на субботу."
+      },
+      "word": "приглашение",
+      "wordEn": "invitation",
+      "wordGloss": {
+        "en": "invitation",
+        "es": "invitación",
+        "ru": "приглашение"
+      },
+      "wordIpa": "priɡlˈaʂjenije",
+      "distractors": [
+        "карта",
+        "сюрприз",
+        "традиция"
+      ]
+    },
+    {
+      "id": "remote-prazdniki-a2-listen-3",
+      "l2": "Я несу подарок и торт.",
+      "en": "I’m bringing a present and a cake.",
+      "gloss": {
+        "en": "I’m bringing a present and a cake.",
+        "es": "Traigo un regalo y una tarta.",
+        "ru": "Я несу подарок и торт."
+      },
+      "word": "подарок",
+      "wordEn": "present",
+      "wordGloss": {
+        "en": "present",
+        "es": "presente",
+        "ru": "подарок"
+      },
+      "wordIpa": "podˈarok",
+      "distractors": [
+        "тост",
+        "костюм",
+        "память"
+      ]
+    },
+    {
+      "id": "remote-prazdniki-a2-listen-4",
+      "l2": "Фейерверк начнется в полночь.",
+      "en": "The fireworks start at midnight.",
+      "gloss": {
+        "en": "The fireworks start at midnight.",
+        "es": "Los fuegos artificiales comienzan a medianoche.",
+        "ru": "Фейерверк начнется в полночь."
+      },
+      "word": "фейерверк",
+      "wordEn": "fireworks",
+      "wordGloss": {
+        "en": "fireworks",
+        "es": "fuegos artificiales",
+        "ru": "фейерверк"
+      },
+      "wordIpa": "fjejjervjerk",
+      "distractors": [
+        "свечи",
+        "танцевать",
+        "музыка"
+      ]
+    }
+  ],
+  "prompts": [
+    "Пригласите друга на вечеринку.",
+    "Опишите свой любимый праздник.",
+    "Что ты делаешь на день рождения?",
+    "Примите или отклоните приглашение (объясните почему)."
+  ],
+  "grammar": [
+    {
+      "id": "remote-prazdniki-a2-grammar-1",
+      "title": {
+        "fr": "Accusatif après я хочу / я вижу",
+        "en": "Accusative after я хочу / я вижу",
+        "es": "Acusativo tras я хочу / я вижу",
+        "ru": "Винительный падеж после я хочу / я вижу"
+      },
+      "rule": {
+        "fr": "Après un verbe transitif, le complément est souvent à l’accusatif.",
+        "en": "After a transitive verb, the object is often in the accusative.",
+        "es": "Tras un verbo transitivo, el complemento suele ir en acusativo.",
+        "ru": "После переходного глагола дополнение часто стоит в винительном падеже."
+      },
+      "why": {
+        "en": "Lets you say what you want, see, or buy.",
+        "es": "Permite decir lo que quieres, ves o compras.",
+        "ru": "Позволяет сказать, что вы хотите, видите или покупаете."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "я вижу + Вин.",
+          "объект",
+          "Я вижу день рождения."
+        ],
+        [
+          "я хочу + Вин.",
+          "желание",
+          "Я хочу торт."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-prazdniki-a2-gq-1-1",
+          "prompt": "Я вижу ___ . (день рождения)",
+          "answer": "день рождения",
+          "options": [
+            "день рождения",
+            "торт",
+            "нет"
+          ]
+        },
+        {
+          "id": "remote-prazdniki-a2-gq-1-2",
+          "prompt": "После «я хочу» обычно нужен ___ падеж.",
+          "answer": "винительный",
+          "options": [
+            "винительный",
+            "творительный",
+            "предложный"
+          ]
+        },
+        {
+          "id": "remote-prazdniki-a2-gq-1-3",
+          "prompt": "Я покупаю ___ .",
+          "answer": "торт",
+          "options": [
+            "торт",
+            "нет",
+            "есть"
+          ]
+        },
+        {
+          "id": "remote-prazdniki-a2-gq-1-4",
+          "prompt": "Свяжите с темой: день рождения / торт. Род «день рождения»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-prazdniki-a2-gq-1-5",
+          "prompt": "Свяжите с темой: день рождения / торт. Род «день рождения»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-prazdniki-a2-grammar-2",
+      "title": {
+        "fr": "Passé : -л / -ла / -ло / -ли",
+        "en": "Past tense: -л / -ла / -ло / -ли",
+        "es": "Pasado: -л / -ла / -ло / -ли",
+        "ru": "Прошедшее время: -л / -ла / -ло / -ли"
+      },
+      "rule": {
+        "fr": "Le passé s’accorde en genre et nombre : был, была, было, были.",
+        "en": "Past tense agrees in gender and number: был, была, было, были.",
+        "es": "El pasado concuerda en género y número: был, была, было, были.",
+        "ru": "Прошедшее время согласуется по роду и числу: был, была, было, были."
+      },
+      "why": {
+        "en": "Past forms must match the subject.",
+        "es": "Las formas del pasado deben coincidir con el sujeto.",
+        "ru": "Формы прошедшего должны согласоваться с подлежащим."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "-л",
+          "м. р.",
+          "Он был дома."
+        ],
+        [
+          "-ла",
+          "ж. р.",
+          "Она была дома."
+        ],
+        [
+          "-ли",
+          "мн. ч.",
+          "Они были дома."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-prazdniki-a2-gq-2-1",
+          "prompt": "Вчера он ___ дома. (быть)",
+          "answer": "был",
+          "options": [
+            "был",
+            "была",
+            "были"
+          ]
+        },
+        {
+          "id": "remote-prazdniki-a2-gq-2-2",
+          "prompt": "Вчера она ___ дома. (быть)",
+          "answer": "была",
+          "options": [
+            "была",
+            "был",
+            "было"
+          ]
+        },
+        {
+          "id": "remote-prazdniki-a2-gq-2-3",
+          "prompt": "Вчера они ___ дома. (быть)",
+          "answer": "были",
+          "options": [
+            "были",
+            "был",
+            "была"
+          ]
+        },
+        {
+          "id": "remote-prazdniki-a2-gq-2-4",
+          "prompt": "Свяжите с темой: приглашение / свеча. Род «приглашение»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-prazdniki-a2-gq-2-5",
+          "prompt": "Свяжите с темой: приглашение / свеча. Род «приглашение»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-prazdniki-a2-dict-1",
+        "l2": "Ты свободен в субботу вечером?",
+        "en": "Are you free Saturday evening?",
+        "gloss": {
+          "en": "Are you free Saturday evening?",
+          "es": "¿Estás libre el sábado por la noche?",
+          "ru": "Ты свободен в субботу вечером?"
+        },
+        "ipa": "tˈɨ svˈobodjen v subbˈotu vjetɕjerˈom"
+      },
+      {
+        "id": "remote-prazdniki-a2-dict-2",
+        "l2": "С днем ​​рождения !",
+        "en": "Happy birthday!",
+        "gloss": {
+          "en": "Happy birthday!",
+          "es": "¡Feliz cumpleaños!",
+          "ru": "С днем ​​рождения!"
+        },
+        "ipa": "s dnjem roʐdjenˈija"
+      },
+      {
+        "id": "remote-prazdniki-a2-dict-3",
+        "l2": "Я хотел бы пригласить вас на ужин.",
+        "en": "I’d like to invite you to dinner.",
+        "gloss": {
+          "en": "I’d like to invite you to dinner.",
+          "es": "Me gustaría invitarte a cenar.",
+          "ru": "Я хотел бы пригласить вас на ужин."
+        },
+        "ipa": "jˈa xˈotjel bˈɨ priɡlˈasitʲ vˈas nˈa ˈuʐin"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-prazdniki-a2-mean-1",
+        "l2": "Ты свободен в субботу вечером?",
+        "en": "Are you free Saturday evening?",
+        "gloss": {
+          "en": "Are you free Saturday evening?",
+          "es": "¿Estás libre el sábado por la noche?",
+          "ru": "Ты свободен в субботу вечером?"
+        }
+      },
+      {
+        "id": "remote-prazdniki-a2-mean-2",
+        "l2": "С днем ​​рождения !",
+        "en": "Happy birthday!",
+        "gloss": {
+          "en": "Happy birthday!",
+          "es": "¡Feliz cumpleaños!",
+          "ru": "С днем ​​рождения!"
+        }
+      },
+      {
+        "id": "remote-prazdniki-a2-mean-3",
+        "l2": "Я хотел бы пригласить вас на ужин.",
+        "en": "I’d like to invite you to dinner.",
+        "gloss": {
+          "en": "I’d like to invite you to dinner.",
+          "es": "Me gustaría invitarte a cenar.",
+          "ru": "Я хотел бы пригласить вас на ужин."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-prazdniki-a2-fren-1",
+        "l2": "вечеринка",
+        "en": "party",
+        "gloss": {
+          "en": "party",
+          "es": "fiesta",
+          "ru": "вечеринка"
+        }
+      },
+      {
+        "id": "remote-prazdniki-a2-fren-2",
+        "l2": "день рождения",
+        "en": "birthday",
+        "gloss": {
+          "en": "birthday",
+          "es": "cumpleaños",
+          "ru": "день рождения"
+        }
+      },
+      {
+        "id": "remote-prazdniki-a2-fren-3",
+        "l2": "приглашение",
+        "en": "invitation",
+        "gloss": {
+          "en": "invitation",
+          "es": "invitación",
+          "ru": "приглашение"
+        }
+      },
+      {
+        "id": "remote-prazdniki-a2-fren-4",
+        "l2": "подарок",
+        "en": "present",
+        "gloss": {
+          "en": "present",
+          "es": "presente",
+          "ru": "подарок"
+        }
+      },
+      {
+        "id": "remote-prazdniki-a2-fren-5",
+        "l2": "торт",
+        "en": "cake",
+        "gloss": {
+          "en": "cake",
+          "es": "pastel",
+          "ru": "торт"
+        }
+      },
+      {
+        "id": "remote-prazdniki-a2-fren-6",
+        "l2": "свеча",
+        "en": "candle",
+        "gloss": {
+          "en": "candle",
+          "es": "vela",
+          "ru": "свеча"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-prazdniki-a2-alou-1",
+        "l2": "Ты свободен в субботу вечером?",
+        "en": "Are you free Saturday evening?",
+        "gloss": {
+          "en": "Are you free Saturday evening?",
+          "es": "¿Estás libre el sábado por la noche?",
+          "ru": "Ты свободен в субботу вечером?"
+        },
+        "ipa": "tˈɨ svˈobodjen v subbˈotu vjetɕjerˈom"
+      },
+      {
+        "id": "remote-prazdniki-a2-alou-2",
+        "l2": "Я хотел бы пригласить вас на ужин.",
+        "en": "I’d like to invite you to dinner.",
+        "gloss": {
+          "en": "I’d like to invite you to dinner.",
+          "es": "Me gustaría invitarte a cenar.",
+          "ru": "Я хотел бы пригласить вас на ужин."
+        },
+        "ipa": "jˈa xˈotjel bˈɨ priɡlˈasitʲ vˈas nˈa ˈuʐin"
+      },
+      {
+        "id": "remote-prazdniki-a2-alou-3",
+        "l2": "Извините, я не смогу прийти.",
+        "en": "Sorry, I can’t come.",
+        "gloss": {
+          "en": "Sorry, I can’t come.",
+          "es": "Lo siento, no puedo ir.",
+          "ru": "Извините, я не смогу прийти."
+        },
+        "ipa": "izvˈinitje jˈa nje smˈoɡu prˈijti"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-prazdniki-a2-unsc-1",
+        "l2": "Спасибо за приглашение, с удовольствием принимаю.",
+        "en": "Thanks for the invitation, I’d love to come.",
+        "gloss": {
+          "en": "Thanks for the invitation, I’d love to come.",
+          "es": "Gracias por la invitación, me encantaría venir.",
+          "ru": "Спасибо за приглашение, я бы с радостью пришёл."
+        },
+        "words": [
+          "Спасибо",
+          "за",
+          "приглашение,",
+          "с",
+          "удовольствием",
+          "принимаю."
+        ]
+      },
+      {
+        "id": "remote-prazdniki-a2-unsc-2",
+        "l2": "Извините, я не смогу прийти.",
+        "en": "Sorry, I can’t come.",
+        "gloss": {
+          "en": "Sorry, I can’t come.",
+          "es": "Lo siento, no puedo ir.",
+          "ru": "Извините, я не смогу прийти."
+        },
+        "words": [
+          "Извините,",
+          "я",
+          "не",
+          "смогу",
+          "прийти."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

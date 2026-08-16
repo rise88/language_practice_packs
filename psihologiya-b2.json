@@ -1,0 +1,844 @@
+{
+  "pratiquePack": 2,
+  "id": "psihologiya-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "ru",
+  "title": {
+    "fr": "Psychologie B2 (RU)",
+    "en": "Psychology B2 (RU)",
+    "es": "Psicología B2 (RU)",
+    "ru": "Психология B2"
+  },
+  "description": {
+    "fr": "Émotions, comportement, stress, thérapie et biais cognitifs — pack russe.",
+    "en": "Emotion, behaviour, stress, therapy, and cognitive bias — Russian pack.",
+    "es": "Emoción, comportamiento, estrés, terapia y sesgo cognitivo — paquete ruso.",
+    "ru": "Эмоции, поведение, стресс, терапия и когнитивные искажения — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-psihologiya-b2-1",
+      "l2": "эмоция",
+      "en": "emotion",
+      "gloss": {
+        "en": "emotion",
+        "es": "emoción",
+        "ru": "эмоция"
+      },
+      "example": "Сильные эмоции часто предшествуют поведению, даже когда мы защищаемся от них.",
+      "ipa": "ɛmotsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-psihologiya-b2-2",
+      "l2": "поведение",
+      "en": "behaviour / behavior",
+      "gloss": {
+        "en": "behaviour / behavior",
+        "es": "comportamiento / comportamiento",
+        "ru": "поведение / поведение"
+      },
+      "example": "Такое избегающее поведение приносит облегчение в краткосрочной перспективе, но усиливает тревогу.",
+      "ipa": "pˈovjedjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-psihologiya-b2-3",
+      "l2": "стресс",
+      "en": "stress",
+      "gloss": {
+        "en": "stress",
+        "es": "estrés",
+        "ru": "стресс"
+      },
+      "example": "Хронический стресс ухудшает концентрацию внимания, хотя некоторые люди с этим справляются.",
+      "ipa": "strjess",
+      "article": "м"
+    },
+    {
+      "id": "remote-psihologiya-b2-4",
+      "l2": "терапия",
+      "en": "therapy",
+      "gloss": {
+        "en": "therapy",
+        "es": "terapia",
+        "ru": "терапия"
+      },
+      "example": "Когнитивная терапия направлена ​​на выявление автоматических мыслей, которые поддерживают расстройство.",
+      "ipa": "tjerapˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-psihologiya-b2-5",
+      "l2": "когнитивная предвзятость",
+      "en": "cognitive bias",
+      "gloss": {
+        "en": "cognitive bias",
+        "es": "sesgo cognitivo",
+        "ru": "когнитивная предвзятость"
+      },
+      "example": "Эта когнитивная предвзятость заставляет нас сохранять в основном информацию, подтверждающую наше мнение.",
+      "ipa": "koɡnitivnaja prjedvzjˈatostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-psihologiya-b2-6",
+      "l2": "беспокойство",
+      "en": "anxiety",
+      "gloss": {
+        "en": "anxiety",
+        "es": "ansiedad",
+        "ru": "беспокойство"
+      },
+      "example": "Предвосхищающая тревога появляется задолго до возникновения самой пугающей ситуации.",
+      "ipa": "bjespokˈojstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-psihologiya-b2-7",
+      "l2": "чувство собственного достоинства",
+      "en": "self-esteem",
+      "gloss": {
+        "en": "self-esteem",
+        "es": "autoestima",
+        "ru": "чувство собственного достоинства"
+      },
+      "example": "Самооценка также формируется в глазах других, что делает ее хрупкой.",
+      "ipa": "tɕuvstvo sobstvjennoɡo dostoˈinstva",
+      "article": "ж"
+    },
+    {
+      "id": "remote-psihologiya-b2-8",
+      "l2": "мотивация",
+      "en": "motivation",
+      "gloss": {
+        "en": "motivation",
+        "es": "motivación",
+        "ru": "мотивация"
+      },
+      "example": "В долгосрочной перспективе внутренняя мотивация длится дольше, чем внешние вознаграждения.",
+      "ipa": "motivatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-psihologiya-b2-9",
+      "l2": "травма",
+      "en": "trauma",
+      "gloss": {
+        "en": "trauma",
+        "es": "trauma",
+        "ru": "травма"
+      },
+      "example": "Травма — это не сам шок, а то, как он зафиксирован в памяти.",
+      "ipa": "trˈavma",
+      "article": "ж"
+    },
+    {
+      "id": "remote-psihologiya-b2-10",
+      "l2": "сочувствие",
+      "en": "empathy",
+      "gloss": {
+        "en": "empathy",
+        "es": "empatía",
+        "ru": "сочувствие"
+      },
+      "example": "Эмпатия позволяет нам понимать других, однако не предполагает одобрения их действий.",
+      "ipa": "sotɕˈuvstvije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-psihologiya-b2-11",
+      "l2": "личность",
+      "en": "personality",
+      "gloss": {
+        "en": "personality",
+        "es": "personalidad",
+        "ru": "личность"
+      },
+      "example": "Личность не фиксирована: определенные черты развиваются под влиянием опыта.",
+      "ipa": "lˈitɕnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-psihologiya-b2-12",
+      "l2": "бессознательный",
+      "en": "unconscious",
+      "gloss": {
+        "en": "unconscious",
+        "es": "inconsciente",
+        "ru": "бессознательный"
+      },
+      "example": "Бессознательное влияет на выбор, который, по нашему мнению, является полностью осознанным.",
+      "ipa": "bjessoznˈatjelʲnɨj",
+      "article": "м"
+    },
+    {
+      "id": "remote-psihologiya-b2-13",
+      "l2": "механизм",
+      "en": "mechanism (defence)",
+      "gloss": {
+        "en": "mechanism (defence)",
+        "es": "mecanismo (defensa)",
+        "ru": "механизм (защита)"
+      },
+      "example": "Этот защитный механизм защищает самооценку ценой искажения реальности.",
+      "ipa": "mjexˈanizm",
+      "article": "м"
+    },
+    {
+      "id": "remote-psihologiya-b2-14",
+      "l2": "зависимость",
+      "en": "addiction",
+      "gloss": {
+        "en": "addiction",
+        "es": "adicción",
+        "ru": "зависимость"
+      },
+      "example": "Зависимость приносит немедленное облегчение, несмотря на все более серьезные последствия.",
+      "ipa": "zavisˈimostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-psihologiya-b2-15",
+      "l2": "беспорядок",
+      "en": "disorder",
+      "gloss": {
+        "en": "disorder",
+        "es": "trastorno",
+        "ru": "беспорядок"
+      },
+      "example": "Это расстройство внимания проявляется особенно тогда, когда задаче не хватает структуры.",
+      "ipa": "bjesporjˈadok",
+      "article": "м"
+    },
+    {
+      "id": "remote-psihologiya-b2-16",
+      "l2": "восприятие",
+      "en": "perception",
+      "gloss": {
+        "en": "perception",
+        "es": "percepción",
+        "ru": "восприятие"
+      },
+      "example": "Наше восприятие опасности фильтруется тревогой, которая иногда искажает суждения.",
+      "ipa": "vosprijˈatije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-psihologiya-b2-17",
+      "l2": "память",
+      "en": "memory / recollection",
+      "gloss": {
+        "en": "memory / recollection",
+        "es": "memoria / recuerdo",
+        "ru": "память / воспоминание"
+      },
+      "example": "Воспоминание — это не точная запись, потому что оно реконструируется при каждом вызове.",
+      "ipa": "pˈamjatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-psihologiya-b2-18",
+      "l2": "вложение",
+      "en": "attachment",
+      "gloss": {
+        "en": "attachment",
+        "es": "adjunto",
+        "ru": "вложение"
+      },
+      "example": "Надежная привязанность в детстве способствует более стабильным отношениям в дальнейшем.",
+      "ipa": "vlˈoʐjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-psihologiya-b2-19",
+      "l2": "схема",
+      "en": "schema",
+      "gloss": {
+        "en": "schema",
+        "es": "esquema",
+        "ru": "схема"
+      },
+      "example": "Эта ранняя модель по-прежнему определяет его взрослую реакцию спустя годы.",
+      "ipa": "sxjemˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-psihologiya-b2-20",
+      "l2": "психолог",
+      "en": "psychologist",
+      "gloss": {
+        "en": "psychologist",
+        "es": "psicólogo",
+        "ru": "психолог"
+      },
+      "example": "Психолог предложил регулярное наблюдение, чтобы пациент мог выразить словами свой стресс.",
+      "ipa": "psixˈoloɡ",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-psihologiya-b2-phrase-1",
+      "l2": "Я боюсь, что этот хронический стресс еще больше ослабит его концентрацию.",
+      "en": "I fear this chronic stress may further exhaust her concentration.",
+      "gloss": {
+        "en": "I fear this chronic stress may further exhaust her concentration.",
+        "es": "Temo que este estrés crónico pueda agotar aún más su concentración.",
+        "ru": "Я боюсь, что этот хронический стресс может еще больше истощить ее концентрацию."
+      },
+      "ipa": "jˈa bˈojusʲ tɕtˈo ˈɛtot xronˈitɕjeskij strjess jeɕːje bˈolʲʂje oslˈabit jeɡˈo kontsjentratsˈiju"
+    },
+    {
+      "id": "remote-psihologiya-b2-phrase-2",
+      "l2": "Хотя терапия требует больших усилий, она предлагает более долгосрочные инструменты, чем избегание.",
+      "en": "Although therapy is demanding, it offers more lasting tools than avoidance.",
+      "gloss": {
+        "en": "Although therapy is demanding, it offers more lasting tools than avoidance.",
+        "es": "Aunque la terapia es exigente, ofrece herramientas más duraderas que la evitación.",
+        "ru": "Хотя терапия требует больших усилий, она предлагает более долгосрочные инструменты, чем избегание."
+      },
+      "ipa": "xˈotja tjerapˈija trjebˈujet bˈolʲʂix usˈilij ˈona prjedlˈaɡajet bˈoljeje dolɡosrˈotɕnɨje instrˈumjentɨ tɕjem izbjeɡˈanije"
+    },
+    {
+      "id": "remote-psihologiya-b2-phrase-3",
+      "l2": "Это нормально, когда тревога возрастает перед ситуацией, которой мы боимся.",
+      "en": "It is normal for anxiety to rise before a situation one dreads.",
+      "gloss": {
+        "en": "It is normal for anxiety to rise before a situation one dreads.",
+        "es": "Es normal que la ansiedad aumente ante una situación que se teme.",
+        "ru": "Это нормально, когда тревога возрастает перед ситуацией, которой боишься."
+      },
+      "ipa": "ˈɛto normˈalʲno kˈoɡda trjevˈoɡa vozrˈastajet pjerjed situˈatsijej kotˈoroj mˈɨ boˈimsja"
+    },
+    {
+      "id": "remote-psihologiya-b2-phrase-4",
+      "l2": "Если бы мы относились к когнитивным искажениям более серьезно, мы бы рассуждали более осторожно.",
+      "en": "If we took cognitive biases more seriously, we would argue more cautiously.",
+      "gloss": {
+        "en": "If we took cognitive biases more seriously, we would argue more cautiously.",
+        "es": "Si tomáramos más en serio los sesgos cognitivos, argumentaríamos con más cautela.",
+        "ru": "Если бы мы относились к когнитивным предубеждениям более серьезно, мы бы рассуждали осторожнее."
+      },
+      "ipa": "jeslˈi bˈɨ mˈɨ otnosˈilisʲ k koɡnitˈivnɨm iskaʐjenˈijam bˈoljeje sjerʲjeznˈo mˈɨ bˈɨ rassuʐdˈali"
+    },
+    {
+      "id": "remote-psihologiya-b2-phrase-5",
+      "l2": "С другой стороны, эмпатия не обходится без критического взгляда на поведение других.",
+      "en": "By contrast, empathy does not remove the need for a critical look at others’ behaviour.",
+      "gloss": {
+        "en": "By contrast, empathy does not remove the need for a critical look at others’ behaviour.",
+        "es": "Por el contrario, la empatía no elimina la necesidad de una mirada crítica al comportamiento de los demás.",
+        "ru": "Напротив, эмпатия не устраняет необходимости критического взгляда на поведение других."
+      },
+      "ipa": "s drˈuɡoj storˈonɨ ɛmpatˈija nje obxodˈitsja bjez krititɕjeskˈoɡo vzɡljˈada nˈa pˈovjedjenije drˈuɡix"
+    },
+    {
+      "id": "remote-psihologiya-b2-phrase-6",
+      "l2": "Можно возразить, что самооценку нельзя декретировать, ее конструируют.",
+      "en": "One might object that self-esteem cannot be decreed; it is built.",
+      "gloss": {
+        "en": "One might object that self-esteem cannot be decreed; it is built.",
+        "es": "Se podría objetar que la autoestima no se puede decretar; está construido.",
+        "ru": "Кто-то может возразить, что самооценка не может быть декретирована; оно построено."
+      },
+      "ipa": "mˈoʐno vozrˈazitʲ tɕtˈo samoˈotsjenku njelʲzjˈa djekrjetirˈovatʲ jeje konstruirˈujut"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-psihologiya-b2-listen-1",
+      "l2": "Хронический стресс существенно ухудшает концентрацию на работе.",
+      "en": "Chronic stress clearly impairs concentration at work.",
+      "gloss": {
+        "en": "Chronic stress clearly impairs concentration at work.",
+        "es": "El estrés crónico perjudica claramente la concentración en el trabajo.",
+        "ru": "Хронический стресс явно ухудшает концентрацию на работе."
+      },
+      "word": "стресс",
+      "wordEn": "stress",
+      "wordGloss": {
+        "en": "stress",
+        "es": "estrés",
+        "ru": "стресс"
+      },
+      "wordIpa": "strjess",
+      "distractors": [
+        "беспокойство",
+        "травма",
+        "беспорядок"
+      ]
+    },
+    {
+      "id": "remote-psihologiya-b2-listen-2",
+      "l2": "Когнитивная терапия направлена ​​на выявление автоматических мыслей.",
+      "en": "Cognitive therapy aims to identify automatic thoughts.",
+      "gloss": {
+        "en": "Cognitive therapy aims to identify automatic thoughts.",
+        "es": "La terapia cognitiva tiene como objetivo identificar pensamientos automáticos.",
+        "ru": "Когнитивная терапия направлена ​​на выявление автоматических мыслей."
+      },
+      "word": "терапия",
+      "wordEn": "therapy",
+      "wordGloss": {
+        "en": "therapy",
+        "es": "terapia",
+        "ru": "терапия"
+      },
+      "wordIpa": "tjerapˈija",
+      "distractors": [
+        "психолог",
+        "механизм",
+        "схема"
+      ]
+    },
+    {
+      "id": "remote-psihologiya-b2-listen-3",
+      "l2": "Эта когнитивная предвзятость заставляет нас сохранять то, что подтверждает наше мнение.",
+      "en": "This cognitive bias pushes us to retain what confirms our view.",
+      "gloss": {
+        "en": "This cognitive bias pushes us to retain what confirms our view.",
+        "es": "Este sesgo cognitivo nos empuja a retener lo que confirma nuestra opinión.",
+        "ru": "Эта когнитивная предвзятость заставляет нас сохранять то, что подтверждает нашу точку зрения."
+      },
+      "word": "когнитивная предвзятость",
+      "wordEn": "cognitive bias",
+      "wordGloss": {
+        "en": "cognitive bias",
+        "es": "sesgo cognitivo",
+        "ru": "когнитивная предвзятость"
+      },
+      "wordIpa": "koɡnitivnaja prjedvzjˈatostʲ",
+      "distractors": [
+        "восприятие",
+        "бессознательный",
+        "мотивация"
+      ]
+    },
+    {
+      "id": "remote-psihologiya-b2-listen-4",
+      "l2": "Эмпатия позволяет нам понимать других, не одобряя их.",
+      "en": "Empathy makes it possible to understand the other without necessarily approving.",
+      "gloss": {
+        "en": "Empathy makes it possible to understand the other without necessarily approving.",
+        "es": "La empatía permite comprender al otro sin necesariamente aprobarlo.",
+        "ru": "Эмпатия позволяет понять другого, не обязательно одобряя его."
+      },
+      "word": "сочувствие",
+      "wordEn": "empathy",
+      "wordGloss": {
+        "en": "empathy",
+        "es": "empatía",
+        "ru": "сочувствие"
+      },
+      "wordIpa": "sotɕˈuvstvije",
+      "distractors": [
+        "чувство собственного достоинства",
+        "вложение",
+        "личность"
+      ]
+    }
+  ],
+  "prompts": [
+    "Всегда ли стресс негативен? Различают полезный стресс и токсический стресс.",
+    "Сравните избегание и терапию: какой из них кажется более эффективным в долгосрочной перспективе?",
+    "По вашему мнению, наши когнитивные предубеждения мешают спокойному спору?",
+    "Если бы вам пришлось объяснить другу, что такое самооценка, как бы вы это сделали?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-psihologiya-b2-grammar-1",
+      "title": {
+        "fr": "Instrumental (кем / чем)",
+        "en": "Instrumental case (кем / чем)",
+        "es": "Caso instrumental (кем / чем)",
+        "ru": "Творительный падеж (кем / чем)"
+      },
+      "rule": {
+        "fr": "Творительный marque le moyen, l’accompagnement ou le prédicat (стать врачом).",
+        "en": "Instrumental marks means, company, or predicate nouns (стать врачом).",
+        "es": "El instrumental marca medio, compañía o predicado (стать врачом).",
+        "ru": "Творительный обозначает средство, совместность или предикатив (стать врачом)."
+      },
+      "why": {
+        "en": "Needed for professions, tools, and «with».",
+        "es": "Necesario para profesiones, herramientas y «con».",
+        "ru": "Нужен для профессий, инструментов и значения «с»."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "чем",
+          "средство",
+          "Пишу ручкой / говорю о поведение."
+        ],
+        [
+          "кем",
+          "профессия",
+          "Он стал врачом."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-psihologiya-b2-gq-1-1",
+          "prompt": "Стать врачом — ___ падеж.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "родительный",
+            "винительный"
+          ]
+        },
+        {
+          "id": "remote-psihologiya-b2-gq-1-2",
+          "prompt": "Я пишу ___ . (карандаш)",
+          "answer": "карандашом",
+          "options": [
+            "карандашом",
+            "карандаш",
+            "карандаша"
+          ]
+        },
+        {
+          "id": "remote-psihologiya-b2-gq-1-3",
+          "prompt": "Тема «поведение» часто требует предложных конструкций.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "именительный",
+            "звательный"
+          ]
+        },
+        {
+          "id": "remote-psihologiya-b2-gq-1-4",
+          "prompt": "Свяжите с темой: поведение / когнитивная предвзятость. Род «поведение»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-psihologiya-b2-gq-1-5",
+          "prompt": "Свяжите с темой: поведение / когнитивная предвзятость. Род «поведение»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-psihologiya-b2-grammar-2",
+      "title": {
+        "fr": "Aspect perfectif / imperfectif",
+        "en": "Perfective / imperfective aspect",
+        "es": "Aspecto perfectivo / imperfectivo",
+        "ru": "Вид глагола: совершенный / несовершенный"
+      },
+      "rule": {
+        "fr": "Imperfectif = processus / habitude ; perfectif = résultat achevé.",
+        "en": "Imperfective = process / habit; perfective = completed result.",
+        "es": "Imperfectivo = proceso / hábito; perfectivo = resultado terminado.",
+        "ru": "Несовершенный — процесс / привычка; совершенный — завершённый результат."
+      },
+      "why": {
+        "en": "Aspect is central to natural Russian storytelling.",
+        "es": "El aspecto es central en la narración rusa natural.",
+        "ru": "Вид — ключ к естественному русскому рассказу."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "НСВ",
+          "процесс / привычка",
+          "Я читал книгу час."
+        ],
+        [
+          "СВ",
+          "результат",
+          "Я прочитал книгу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-psihologiya-b2-gq-2-1",
+          "prompt": "Результат: я ___ книгу. (прочитать)",
+          "answer": "прочитал",
+          "options": [
+            "прочитал",
+            "читал",
+            "буду читать"
+          ]
+        },
+        {
+          "id": "remote-psihologiya-b2-gq-2-2",
+          "prompt": "Процесс: я долго ___ . (читать)",
+          "answer": "читал",
+          "options": [
+            "читал",
+            "прочитал",
+            "прочту"
+          ]
+        },
+        {
+          "id": "remote-psihologiya-b2-gq-2-3",
+          "prompt": "Привычка обычно выражается ___ видом.",
+          "answer": "несовершенным",
+          "options": [
+            "несовершенным",
+            "совершенным",
+            "будущим"
+          ]
+        },
+        {
+          "id": "remote-psihologiya-b2-gq-2-4",
+          "prompt": "Свяжите с темой: стресс / беспокойство. Род «стресс»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-psihologiya-b2-gq-2-5",
+          "prompt": "Свяжите с темой: стресс / беспокойство. Род «стресс»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ср",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-psihologiya-b2-dict-1",
+        "l2": "Я боюсь, что этот хронический стресс еще больше ослабит его концентрацию.",
+        "en": "I fear this chronic stress may further exhaust her concentration.",
+        "gloss": {
+          "en": "I fear this chronic stress may further exhaust her concentration.",
+          "es": "Temo que este estrés crónico pueda agotar aún más su concentración.",
+          "ru": "Я боюсь, что этот хронический стресс может еще больше истощить ее концентрацию."
+        },
+        "ipa": "jˈa bˈojusʲ tɕtˈo ˈɛtot xronˈitɕjeskij strjess jeɕːje bˈolʲʂje oslˈabit jeɡˈo kontsjentratsˈiju"
+      },
+      {
+        "id": "remote-psihologiya-b2-dict-2",
+        "l2": "Хотя терапия требует больших усилий, она предлагает более долгосрочные инструменты, чем избегание.",
+        "en": "Although therapy is demanding, it offers more lasting tools than avoidance.",
+        "gloss": {
+          "en": "Although therapy is demanding, it offers more lasting tools than avoidance.",
+          "es": "Aunque la terapia es exigente, ofrece herramientas más duraderas que la evitación.",
+          "ru": "Хотя терапия требует больших усилий, она предлагает более долгосрочные инструменты, чем избегание."
+        },
+        "ipa": "xˈotja tjerapˈija trjebˈujet bˈolʲʂix usˈilij ˈona prjedlˈaɡajet bˈoljeje dolɡosrˈotɕnɨje instrˈumjentɨ tɕjem izbjeɡˈanije"
+      },
+      {
+        "id": "remote-psihologiya-b2-dict-3",
+        "l2": "Это нормально, когда тревога возрастает перед ситуацией, которой мы боимся.",
+        "en": "It is normal for anxiety to rise before a situation one dreads.",
+        "gloss": {
+          "en": "It is normal for anxiety to rise before a situation one dreads.",
+          "es": "Es normal que la ansiedad aumente ante una situación que se teme.",
+          "ru": "Это нормально, когда тревога возрастает перед ситуацией, которой боишься."
+        },
+        "ipa": "ˈɛto normˈalʲno kˈoɡda trjevˈoɡa vozrˈastajet pjerjed situˈatsijej kotˈoroj mˈɨ boˈimsja"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-psihologiya-b2-mean-1",
+        "l2": "Я боюсь, что этот хронический стресс еще больше ослабит его концентрацию.",
+        "en": "I fear this chronic stress may further exhaust her concentration.",
+        "gloss": {
+          "en": "I fear this chronic stress may further exhaust her concentration.",
+          "es": "Temo que este estrés crónico pueda agotar aún más su concentración.",
+          "ru": "Я боюсь, что этот хронический стресс может еще больше истощить ее концентрацию."
+        }
+      },
+      {
+        "id": "remote-psihologiya-b2-mean-2",
+        "l2": "Хотя терапия требует больших усилий, она предлагает более долгосрочные инструменты, чем избегание.",
+        "en": "Although therapy is demanding, it offers more lasting tools than avoidance.",
+        "gloss": {
+          "en": "Although therapy is demanding, it offers more lasting tools than avoidance.",
+          "es": "Aunque la terapia es exigente, ofrece herramientas más duraderas que la evitación.",
+          "ru": "Хотя терапия требует больших усилий, она предлагает более долгосрочные инструменты, чем избегание."
+        }
+      },
+      {
+        "id": "remote-psihologiya-b2-mean-3",
+        "l2": "Это нормально, когда тревога возрастает перед ситуацией, которой мы боимся.",
+        "en": "It is normal for anxiety to rise before a situation one dreads.",
+        "gloss": {
+          "en": "It is normal for anxiety to rise before a situation one dreads.",
+          "es": "Es normal que la ansiedad aumente ante una situación que se teme.",
+          "ru": "Это нормально, когда тревога возрастает перед ситуацией, которой боишься."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-psihologiya-b2-fren-1",
+        "l2": "эмоция",
+        "en": "emotion",
+        "gloss": {
+          "en": "emotion",
+          "es": "emoción",
+          "ru": "эмоция"
+        }
+      },
+      {
+        "id": "remote-psihologiya-b2-fren-2",
+        "l2": "поведение",
+        "en": "behaviour",
+        "gloss": {
+          "en": "behaviour",
+          "es": "comportamiento",
+          "ru": "поведение"
+        }
+      },
+      {
+        "id": "remote-psihologiya-b2-fren-3",
+        "l2": "стресс",
+        "en": "stress",
+        "gloss": {
+          "en": "stress",
+          "es": "estrés",
+          "ru": "стресс"
+        }
+      },
+      {
+        "id": "remote-psihologiya-b2-fren-4",
+        "l2": "терапия",
+        "en": "therapy",
+        "gloss": {
+          "en": "therapy",
+          "es": "terapia",
+          "ru": "терапия"
+        }
+      },
+      {
+        "id": "remote-psihologiya-b2-fren-5",
+        "l2": "когнитивная предвзятость",
+        "en": "cognitive bias",
+        "gloss": {
+          "en": "cognitive bias",
+          "es": "sesgo cognitivo",
+          "ru": "когнитивная предвзятость"
+        }
+      },
+      {
+        "id": "remote-psihologiya-b2-fren-6",
+        "l2": "беспокойство",
+        "en": "anxiety",
+        "gloss": {
+          "en": "anxiety",
+          "es": "ansiedad",
+          "ru": "беспокойство"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-psihologiya-b2-alou-1",
+        "l2": "Я боюсь, что этот хронический стресс еще больше ослабит его концентрацию.",
+        "en": "I fear this chronic stress may further exhaust her concentration.",
+        "gloss": {
+          "en": "I fear this chronic stress may further exhaust her concentration.",
+          "es": "Temo que este estrés crónico pueda agotar aún más su concentración.",
+          "ru": "Я боюсь, что этот хронический стресс может еще больше истощить ее концентрацию."
+        },
+        "ipa": "jˈa bˈojusʲ tɕtˈo ˈɛtot xronˈitɕjeskij strjess jeɕːje bˈolʲʂje oslˈabit jeɡˈo kontsjentratsˈiju"
+      },
+      {
+        "id": "remote-psihologiya-b2-alou-2",
+        "l2": "Это нормально, когда тревога возрастает перед ситуацией, которой мы боимся.",
+        "en": "It is normal for anxiety to rise before a situation one dreads.",
+        "gloss": {
+          "en": "It is normal for anxiety to rise before a situation one dreads.",
+          "es": "Es normal que la ansiedad aumente ante una situación que se teme.",
+          "ru": "Это нормально, когда тревога возрастает перед ситуацией, которой боишься."
+        },
+        "ipa": "ˈɛto normˈalʲno kˈoɡda trjevˈoɡa vozrˈastajet pjerjed situˈatsijej kotˈoroj mˈɨ boˈimsja"
+      },
+      {
+        "id": "remote-psihologiya-b2-alou-3",
+        "l2": "С другой стороны, эмпатия не обходится без критического взгляда на поведение других.",
+        "en": "By contrast, empathy does not remove the need for a critical look at others’ behaviour.",
+        "gloss": {
+          "en": "By contrast, empathy does not remove the need for a critical look at others’ behaviour.",
+          "es": "Por el contrario, la empatía no elimina la necesidad de una mirada crítica al comportamiento de los demás.",
+          "ru": "Напротив, эмпатия не устраняет необходимости критического взгляда на поведение других."
+        },
+        "ipa": "s drˈuɡoj storˈonɨ ɛmpatˈija nje obxodˈitsja bjez krititɕjeskˈoɡo vzɡljˈada nˈa pˈovjedjenije drˈuɡix"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-psihologiya-b2-unsc-1",
+        "l2": "Такое избегающее поведение приносит облегчение в краткосрочной перспективе, но усиливает тревогу.",
+        "en": "Avoidance behaviour brings short-term relief; nevertheless it worsens anxiety.",
+        "gloss": {
+          "en": "Avoidance behaviour brings short-term relief; nevertheless it worsens anxiety.",
+          "es": "La conducta de evitación trae alivio a corto plazo; sin embargo empeora la ansiedad.",
+          "ru": "Поведение избегания приносит кратковременное облегчение; тем не менее, это усиливает тревогу."
+        },
+        "words": [
+          "Такое",
+          "избегающее",
+          "поведение",
+          "приносит",
+          "облегчение",
+          "в",
+          "краткосрочной",
+          "перспективе,",
+          "но",
+          "усиливает",
+          "тревогу."
+        ]
+      },
+      {
+        "id": "remote-psihologiya-b2-unsc-2",
+        "l2": "Эмпатия позволяет нам понимать других, однако не предполагает одобрения их действий.",
+        "en": "Empathy makes it possible to understand the other; however it does not mean approving their actions.",
+        "gloss": {
+          "en": "Empathy makes it possible to understand the other; however it does not mean approving their actions.",
+          "es": "La empatía permite comprender al otro; sin embargo, esto no significa aprobar sus acciones.",
+          "ru": "Эмпатия позволяет понять другого; однако это не означает одобрения их действий."
+        },
+        "words": [
+          "Эмпатия",
+          "позволяет",
+          "нам",
+          "понимать",
+          "других,",
+          "однако",
+          "не",
+          "предполагает",
+          "одобрения",
+          "их",
+          "действий."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

@@ -1,0 +1,833 @@
+{
+  "pratiquePack": 2,
+  "id": "pokupki-a2",
+  "version": 1,
+  "level": "a2",
+  "lang": "ru",
+  "title": {
+    "fr": "Courses A2 (RU)",
+    "en": "Shopping A2 (RU)",
+    "es": "Compras A2 (RU)",
+    "ru": "Шопинг А2"
+  },
+  "description": {
+    "fr": "Magasins, prix et expressions utiles pour faire les courses — pack russe.",
+    "en": "Shops, prices, and useful phrases for shopping — Russian pack.",
+    "es": "Tiendas, precios y frases útiles para comprar — paquete ruso.",
+    "ru": "Магазины, цены и полезные фразы для покупок — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-pokupki-a2-1",
+      "l2": "магазин",
+      "en": "shop / store",
+      "gloss": {
+        "en": "shop / store",
+        "es": "tienda / tienda",
+        "ru": "магазин / магазин"
+      },
+      "example": "Этот магазин открывается в девять часов.",
+      "ipa": "maɡˈazin",
+      "article": "м"
+    },
+    {
+      "id": "remote-pokupki-a2-2",
+      "l2": "супермаркет",
+      "en": "supermarket",
+      "gloss": {
+        "en": "supermarket",
+        "es": "supermercado",
+        "ru": "супермаркет"
+      },
+      "example": "Я иду в супермаркет в субботу.",
+      "ipa": "sˈupjermarkjet",
+      "article": "м"
+    },
+    {
+      "id": "remote-pokupki-a2-3",
+      "l2": "цена",
+      "en": "price",
+      "gloss": {
+        "en": "price",
+        "es": "precio",
+        "ru": "цена"
+      },
+      "example": "Сколько стоит этот свитер?",
+      "ipa": "tsjenˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pokupki-a2-4",
+      "l2": "скидка",
+      "en": "discount / sale reduction",
+      "gloss": {
+        "en": "discount / sale reduction",
+        "es": "descuento / reducción de venta",
+        "ru": "скидка/снижение продаж"
+      },
+      "example": "Есть двадцатипроцентная скидка.",
+      "ipa": "skˈidka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pokupki-a2-5",
+      "l2": "касса",
+      "en": "checkout / till",
+      "gloss": {
+        "en": "checkout / till",
+        "es": "pagar / hasta",
+        "ru": "касса / до"
+      },
+      "example": "Перейдите к оформлению заказа, пожалуйста.",
+      "ipa": "kˈassa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pokupki-a2-6",
+      "l2": "корзина",
+      "en": "basket / cart (shopping)",
+      "gloss": {
+        "en": "basket / cart (shopping)",
+        "es": "cesta / carrito (compras)",
+        "ru": "корзина/корзина (покупки)"
+      },
+      "example": "Моя корзина уже заполнена.",
+      "ipa": "korzˈina",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pokupki-a2-7",
+      "l2": "квитанция",
+      "en": "receipt",
+      "gloss": {
+        "en": "receipt",
+        "es": "recibo",
+        "ru": "квитанция"
+      },
+      "example": "Сохраните чек.",
+      "ipa": "kvitantsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pokupki-a2-8",
+      "l2": "размер",
+      "en": "size",
+      "gloss": {
+        "en": "size",
+        "es": "tamaño",
+        "ru": "размер"
+      },
+      "example": "Какой у вас размер?",
+      "ipa": "rˈazmjer",
+      "article": "м"
+    },
+    {
+      "id": "remote-pokupki-a2-9",
+      "l2": "примерка",
+      "en": "fitting / trying on",
+      "gloss": {
+        "en": "fitting / trying on",
+        "es": "probándose / probándose",
+        "ru": "примерка/примерка"
+      },
+      "example": "Примерочная там.",
+      "ipa": "prˈimjerka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pokupki-a2-10",
+      "l2": "наличные",
+      "en": "cash",
+      "gloss": {
+        "en": "cash",
+        "es": "dinero",
+        "ru": "наличные"
+      },
+      "example": "Я плачу наличными.",
+      "ipa": "nalˈitɕnɨje",
+      "article": "ср"
+    },
+    {
+      "id": "remote-pokupki-a2-11",
+      "l2": "банковская",
+      "en": "bank / debit card",
+      "gloss": {
+        "en": "bank / debit card",
+        "es": "tarjeta bancaria/débito",
+        "ru": "банковская/дебетовая карта"
+      },
+      "example": "Вы принимаете кредитные карточки?",
+      "ipa": "bankovskˈaja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pokupki-a2-12",
+      "l2": "проход",
+      "en": "aisle / department",
+      "gloss": {
+        "en": "aisle / department",
+        "es": "pasillo / departamento",
+        "ru": "проход / отдел"
+      },
+      "example": "Фруктовый отдел находится сзади.",
+      "ipa": "prˈoxod",
+      "article": "м"
+    },
+    {
+      "id": "remote-pokupki-a2-13",
+      "l2": "продажа",
+      "en": "sale (bargain sale)",
+      "gloss": {
+        "en": "sale (bargain sale)",
+        "es": "venta (venta de ganga)",
+        "ru": "продажа (выгодная продажа)"
+      },
+      "example": "Продажи начнутся в понедельник.",
+      "ipa": "prodˈaʐa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pokupki-a2-14",
+      "l2": "продавец",
+      "en": "salesperson (male)",
+      "gloss": {
+        "en": "salesperson (male)",
+        "es": "vendedor (masculino)",
+        "ru": "продавец (мужчина)"
+      },
+      "example": "Продавец помог мне выбрать.",
+      "ipa": "prˈodavjets",
+      "article": "м"
+    },
+    {
+      "id": "remote-pokupki-a2-15",
+      "l2": "продавец",
+      "en": "salesperson (female)",
+      "gloss": {
+        "en": "salesperson (female)",
+        "es": "vendedora (mujer)",
+        "ru": "продавец (женщина)"
+      },
+      "example": "Продавец хорошо знает товар.",
+      "ipa": "prˈodavjets",
+      "article": "м"
+    },
+    {
+      "id": "remote-pokupki-a2-16",
+      "l2": "обмен",
+      "en": "exchange",
+      "gloss": {
+        "en": "exchange",
+        "es": "intercambio",
+        "ru": "обмен"
+      },
+      "example": "Могу ли я произвести обмен?",
+      "ipa": "ˈobmjen",
+      "article": "м"
+    },
+    {
+      "id": "remote-pokupki-a2-17",
+      "l2": "возвращать деньги",
+      "en": "refund",
+      "gloss": {
+        "en": "refund",
+        "es": "reembolso",
+        "ru": "возвращать деньги"
+      },
+      "example": "Возврат средств осуществляется в течение семи дней.",
+      "ipa": "vozvraɕːˈatʲ djenʲɡi",
+      "article": "м"
+    },
+    {
+      "id": "remote-pokupki-a2-18",
+      "l2": "сумка",
+      "en": "bag",
+      "gloss": {
+        "en": "bag",
+        "es": "bolsa",
+        "ru": "сумка"
+      },
+      "example": "Вам нужна сумка?",
+      "ipa": "sˈumka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-pokupki-a2-19",
+      "l2": "клиент",
+      "en": "customer (male)",
+      "gloss": {
+        "en": "customer (male)",
+        "es": "cliente (masculino)",
+        "ru": "клиент (мужчина)"
+      },
+      "example": "Покупатель ждет у кассы.",
+      "ipa": "klˈijent",
+      "article": "м"
+    },
+    {
+      "id": "remote-pokupki-a2-20",
+      "l2": "специальное предложение",
+      "en": "special offer / promo",
+      "gloss": {
+        "en": "special offer / promo",
+        "es": "oferta especial / promoción",
+        "ru": "специальное предложение/акция"
+      },
+      "example": "Данная акция действительна до воскресенья.",
+      "ipa": "spjetsialʲnoje prjedlˈoʐjenije",
+      "article": "ср"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-pokupki-a2-phrase-1",
+      "l2": "Сколько это стоит?",
+      "en": "How much does it cost?",
+      "gloss": {
+        "en": "How much does it cost?",
+        "es": "¿Cuánto cuesta?",
+        "ru": "Сколько это стоит?"
+      },
+      "ipa": "skˈolʲko ˈɛto stˈoit"
+    },
+    {
+      "id": "remote-pokupki-a2-phrase-2",
+      "l2": "Могу ли я попробовать это, пожалуйста?",
+      "en": "Can I try this on, please?",
+      "gloss": {
+        "en": "Can I try this on, please?",
+        "es": "¿Puedo probarme esto, por favor?",
+        "ru": "Могу я примерить это, пожалуйста?"
+      },
+      "ipa": "mˈoɡu lˈi jˈa poprobˈovatʲ ˈɛto poʐalˈujsta"
+    },
+    {
+      "id": "remote-pokupki-a2-phrase-3",
+      "l2": "У вас есть это среднего размера?",
+      "en": "Do you have this in a medium size?",
+      "gloss": {
+        "en": "Do you have this in a medium size?",
+        "es": "¿Tienes esto en tamaño mediano?",
+        "ru": "У вас есть это среднего размера?"
+      },
+      "ipa": "ˈu vˈas jestʲ ˈɛto srjednjeɡˈo rˈazmjera"
+    },
+    {
+      "id": "remote-pokupki-a2-phrase-4",
+      "l2": "Я плачу кредитной картой.",
+      "en": "I’ll pay by card.",
+      "gloss": {
+        "en": "I’ll pay by card.",
+        "es": "Pagaré con tarjeta.",
+        "ru": "Я заплачу картой."
+      },
+      "ipa": "jˈa plˈatɕu krjedˈitnoj kˈartoj"
+    },
+    {
+      "id": "remote-pokupki-a2-phrase-5",
+      "l2": "Где находится фруктовый отдел?",
+      "en": "Where is the fruit aisle?",
+      "gloss": {
+        "en": "Where is the fruit aisle?",
+        "es": "¿Dónde está el pasillo de frutas?",
+        "ru": "Где фруктовый отдел?"
+      },
+      "ipa": "ɡdje naxodˈitsja fruktˈovɨj ˈotdjel"
+    },
+    {
+      "id": "remote-pokupki-a2-phrase-6",
+      "l2": "Могу ли я произвести обмен?",
+      "en": "Can I make an exchange?",
+      "gloss": {
+        "en": "Can I make an exchange?",
+        "es": "¿Puedo hacer un cambio?",
+        "ru": "Могу ли я произвести обмен?"
+      },
+      "ipa": "mˈoɡu lˈi jˈa proˈizvjesti ˈobmjen"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-pokupki-a2-listen-1",
+      "l2": "На этот свитер при оформлении заказа действует скидка.",
+      "en": "There is a discount at checkout on this sweater.",
+      "gloss": {
+        "en": "There is a discount at checkout on this sweater.",
+        "es": "Hay un descuento al finalizar la compra en este suéter.",
+        "ru": "На этот свитер при оформлении заказа действует скидка."
+      },
+      "word": "скидка",
+      "wordEn": "discount",
+      "wordGloss": {
+        "en": "discount",
+        "es": "descuento",
+        "ru": "скидка"
+      },
+      "wordIpa": "skˈidka",
+      "distractors": [
+        "цена",
+        "продажа",
+        "проход"
+      ]
+    },
+    {
+      "id": "remote-pokupki-a2-listen-2",
+      "l2": "Сохраните чек для возможного обмена.",
+      "en": "Keep your receipt for a possible exchange.",
+      "gloss": {
+        "en": "Keep your receipt for a possible exchange.",
+        "es": "Guarde su recibo para un posible cambio.",
+        "ru": "Сохраните чек на случай возможного обмена."
+      },
+      "word": "обмен",
+      "wordEn": "exchange",
+      "wordGloss": {
+        "en": "exchange",
+        "es": "intercambio",
+        "ru": "обмен"
+      },
+      "wordIpa": "ˈobmjen",
+      "distractors": [
+        "возвращать деньги",
+        "сумка",
+        "корзина"
+      ]
+    },
+    {
+      "id": "remote-pokupki-a2-listen-3",
+      "l2": "Я плачу наличными в кассе.",
+      "en": "I’m paying in cash at the checkout.",
+      "gloss": {
+        "en": "I’m paying in cash at the checkout.",
+        "es": "Pago en efectivo en la caja.",
+        "ru": "Я плачу наличными на кассе."
+      },
+      "word": "наличные",
+      "wordEn": "cash",
+      "wordGloss": {
+        "en": "cash",
+        "es": "dinero",
+        "ru": "наличные"
+      },
+      "wordIpa": "nalˈitɕnɨje",
+      "distractors": [
+        "банковская",
+        "цена",
+        "сумка"
+      ]
+    },
+    {
+      "id": "remote-pokupki-a2-listen-4",
+      "l2": "Примерочная находится рядом с отделением.",
+      "en": "The fitting room is near the aisle.",
+      "gloss": {
+        "en": "The fitting room is near the aisle.",
+        "es": "El probador está cerca del pasillo.",
+        "ru": "Примерочная находится рядом с проходом."
+      },
+      "word": "примерка",
+      "wordEn": "fitting",
+      "wordGloss": {
+        "en": "fitting",
+        "es": "adecuado",
+        "ru": "примерка"
+      },
+      "wordIpa": "prˈimjerka",
+      "distractors": [
+        "продажа",
+        "специальное предложение",
+        "продавец"
+      ]
+    }
+  ],
+  "prompts": [
+    "Опишите свой последний визит в супермаркет.",
+    "Как узнать цену товара?",
+    "Вы предпочитаете платить наличными или картой?",
+    "Что делать, если предмет одежды слишком велик?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-pokupki-a2-grammar-1",
+      "title": {
+        "fr": "Accusatif après я хочу / я вижу",
+        "en": "Accusative after я хочу / я вижу",
+        "es": "Acusativo tras я хочу / я вижу",
+        "ru": "Винительный падеж после я хочу / я вижу"
+      },
+      "rule": {
+        "fr": "Après un verbe transitif, le complément est souvent à l’accusatif.",
+        "en": "After a transitive verb, the object is often in the accusative.",
+        "es": "Tras un verbo transitivo, el complemento suele ir en acusativo.",
+        "ru": "После переходного глагола дополнение часто стоит в винительном падеже."
+      },
+      "why": {
+        "en": "Lets you say what you want, see, or buy.",
+        "es": "Permite decir lo que quieres, ves o compras.",
+        "ru": "Позволяет сказать, что вы хотите, видите или покупаете."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "я вижу + Вин.",
+          "объект",
+          "Я вижу супермаркет."
+        ],
+        [
+          "я хочу + Вин.",
+          "желание",
+          "Я хочу касса."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-pokupki-a2-gq-1-1",
+          "prompt": "Я вижу ___ . (супермаркет)",
+          "answer": "супермаркет",
+          "options": [
+            "супермаркет",
+            "касса",
+            "нет"
+          ]
+        },
+        {
+          "id": "remote-pokupki-a2-gq-1-2",
+          "prompt": "После «я хочу» обычно нужен ___ падеж.",
+          "answer": "винительный",
+          "options": [
+            "винительный",
+            "творительный",
+            "предложный"
+          ]
+        },
+        {
+          "id": "remote-pokupki-a2-gq-1-3",
+          "prompt": "Я покупаю ___ .",
+          "answer": "касса",
+          "options": [
+            "касса",
+            "нет",
+            "есть"
+          ]
+        },
+        {
+          "id": "remote-pokupki-a2-gq-1-4",
+          "prompt": "Свяжите с темой: супермаркет / касса. Род «супермаркет»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-pokupki-a2-gq-1-5",
+          "prompt": "Свяжите с темой: супермаркет / касса. Род «супермаркет»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-pokupki-a2-grammar-2",
+      "title": {
+        "fr": "Passé : -л / -ла / -ло / -ли",
+        "en": "Past tense: -л / -ла / -ло / -ли",
+        "es": "Pasado: -л / -ла / -ло / -ли",
+        "ru": "Прошедшее время: -л / -ла / -ло / -ли"
+      },
+      "rule": {
+        "fr": "Le passé s’accorde en genre et nombre : был, была, было, были.",
+        "en": "Past tense agrees in gender and number: был, была, было, были.",
+        "es": "El pasado concuerda en género y número: был, была, было, были.",
+        "ru": "Прошедшее время согласуется по роду и числу: был, была, было, были."
+      },
+      "why": {
+        "en": "Past forms must match the subject.",
+        "es": "Las formas del pasado deben coincidir con el sujeto.",
+        "ru": "Формы прошедшего должны согласоваться с подлежащим."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "-л",
+          "м. р.",
+          "Он был дома."
+        ],
+        [
+          "-ла",
+          "ж. р.",
+          "Она была дома."
+        ],
+        [
+          "-ли",
+          "мн. ч.",
+          "Они были дома."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-pokupki-a2-gq-2-1",
+          "prompt": "Вчера он ___ дома. (быть)",
+          "answer": "был",
+          "options": [
+            "был",
+            "была",
+            "были"
+          ]
+        },
+        {
+          "id": "remote-pokupki-a2-gq-2-2",
+          "prompt": "Вчера она ___ дома. (быть)",
+          "answer": "была",
+          "options": [
+            "была",
+            "был",
+            "было"
+          ]
+        },
+        {
+          "id": "remote-pokupki-a2-gq-2-3",
+          "prompt": "Вчера они ___ дома. (быть)",
+          "answer": "были",
+          "options": [
+            "были",
+            "был",
+            "была"
+          ]
+        },
+        {
+          "id": "remote-pokupki-a2-gq-2-4",
+          "prompt": "Свяжите с темой: цена / корзина. Род «цена»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-pokupki-a2-gq-2-5",
+          "prompt": "Свяжите с темой: цена / корзина. Род «цена»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-pokupki-a2-dict-1",
+        "l2": "Сколько это стоит?",
+        "en": "How much does it cost?",
+        "gloss": {
+          "en": "How much does it cost?",
+          "es": "¿Cuánto cuesta?",
+          "ru": "Сколько это стоит?"
+        },
+        "ipa": "skˈolʲko ˈɛto stˈoit"
+      },
+      {
+        "id": "remote-pokupki-a2-dict-2",
+        "l2": "Я плачу кредитной картой.",
+        "en": "I pay by bank card.",
+        "gloss": {
+          "en": "I pay by bank card.",
+          "es": "Pago con tarjeta bancaria.",
+          "ru": "Я плачу банковской картой."
+        },
+        "ipa": "jˈa plˈatɕu krjedˈitnoj kˈartoj"
+      },
+      {
+        "id": "remote-pokupki-a2-dict-3",
+        "l2": "Продажи начнутся в понедельник.",
+        "en": "The sales start on Monday.",
+        "gloss": {
+          "en": "The sales start on Monday.",
+          "es": "Las rebajas comienzan el lunes.",
+          "ru": "Продажи начнутся в понедельник."
+        },
+        "ipa": "prodˈaʐi natɕnˈutsja v pˈonjedjelʲnik"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-pokupki-a2-mean-1",
+        "l2": "Перейдите к оформлению заказа, пожалуйста.",
+        "en": "Please go to the checkout.",
+        "gloss": {
+          "en": "Please go to the checkout.",
+          "es": "Por favor vaya a la caja.",
+          "ru": "Пожалуйста, пройдите к кассе."
+        }
+      },
+      {
+        "id": "remote-pokupki-a2-mean-2",
+        "l2": "Какой у вас размер?",
+        "en": "What is your size?",
+        "gloss": {
+          "en": "What is your size?",
+          "es": "¿Cuál es tu talla?",
+          "ru": "Какой у вас размер?"
+        }
+      },
+      {
+        "id": "remote-pokupki-a2-mean-3",
+        "l2": "Могу ли я произвести обмен?",
+        "en": "Can I make an exchange?",
+        "gloss": {
+          "en": "Can I make an exchange?",
+          "es": "¿Puedo hacer un cambio?",
+          "ru": "Могу ли я произвести обмен?"
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-pokupki-a2-fren-1",
+        "l2": "магазин",
+        "en": "shop",
+        "gloss": {
+          "en": "shop",
+          "es": "comercio",
+          "ru": "магазин"
+        }
+      },
+      {
+        "id": "remote-pokupki-a2-fren-2",
+        "l2": "цена",
+        "en": "price",
+        "gloss": {
+          "en": "price",
+          "es": "precio",
+          "ru": "цена"
+        }
+      },
+      {
+        "id": "remote-pokupki-a2-fren-3",
+        "l2": "касса",
+        "en": "checkout",
+        "gloss": {
+          "en": "checkout",
+          "es": "verificar",
+          "ru": "проверить"
+        }
+      },
+      {
+        "id": "remote-pokupki-a2-fren-4",
+        "l2": "размер",
+        "en": "size",
+        "gloss": {
+          "en": "size",
+          "es": "tamaño",
+          "ru": "размер"
+        }
+      },
+      {
+        "id": "remote-pokupki-a2-fren-5",
+        "l2": "наличные",
+        "en": "cash",
+        "gloss": {
+          "en": "cash",
+          "es": "dinero",
+          "ru": "наличные"
+        }
+      },
+      {
+        "id": "remote-pokupki-a2-fren-6",
+        "l2": "сумка",
+        "en": "bag",
+        "gloss": {
+          "en": "bag",
+          "es": "bolsa",
+          "ru": "сумка"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-pokupki-a2-alou-1",
+        "l2": "Могу ли я попробовать это, пожалуйста?",
+        "en": "Can I try this on, please?",
+        "gloss": {
+          "en": "Can I try this on, please?",
+          "es": "¿Puedo probarme esto, por favor?",
+          "ru": "Могу я примерить это, пожалуйста?"
+        },
+        "ipa": "mˈoɡu lˈi jˈa poprobˈovatʲ ˈɛto poʐalˈujsta"
+      },
+      {
+        "id": "remote-pokupki-a2-alou-2",
+        "l2": "У вас есть это среднего размера?",
+        "en": "Do you have this in a medium size?",
+        "gloss": {
+          "en": "Do you have this in a medium size?",
+          "es": "¿Tienes esto en tamaño mediano?",
+          "ru": "У вас есть это среднего размера?"
+        },
+        "ipa": "ˈu vˈas jestʲ ˈɛto srjednjeɡˈo rˈazmjera"
+      },
+      {
+        "id": "remote-pokupki-a2-alou-3",
+        "l2": "Вы принимаете кредитные карточки?",
+        "en": "Do you accept bank cards?",
+        "gloss": {
+          "en": "Do you accept bank cards?",
+          "es": "¿Aceptas tarjetas bancarias?",
+          "ru": "Вы принимаете банковские карты?"
+        },
+        "ipa": "vˈɨ prinˈimajetje krjedˈitnɨje kartˈotɕki"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-pokupki-a2-unsc-1",
+        "l2": "Моя корзина уже заполнена.",
+        "en": "My basket is already full.",
+        "gloss": {
+          "en": "My basket is already full.",
+          "es": "Mi cesta ya está llena.",
+          "ru": "Моя корзина уже заполнена."
+        },
+        "words": [
+          "Моя",
+          "корзина",
+          "уже",
+          "заполнена."
+        ]
+      },
+      {
+        "id": "remote-pokupki-a2-unsc-2",
+        "l2": "Сохраните чек.",
+        "en": "Keep your receipt.",
+        "gloss": {
+          "en": "Keep your receipt.",
+          "es": "Guarde su recibo.",
+          "ru": "Сохраните чек."
+        },
+        "words": [
+          "Сохраните",
+          "чек."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

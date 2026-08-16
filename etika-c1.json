@@ -1,0 +1,840 @@
+{
+  "pratiquePack": 2,
+  "id": "etika-c1",
+  "version": 1,
+  "level": "c1",
+  "lang": "ru",
+  "title": {
+    "fr": "Éthique C1 (RU)",
+    "en": "Ethics C1 (RU)",
+    "es": "Ética C1 (RU)",
+    "ru": "Этика C1"
+  },
+  "description": {
+    "fr": "Consentement, dilemme, responsabilité, intégrité et lanceurs d’alerte — pack russe.",
+    "en": "Consent, dilemmas, responsibility, integrity, and whistleblowing — Russian pack.",
+    "es": "Consentimiento, dilemas, responsabilidad, integridad y denuncia de irregularidades — paquete ruso.",
+    "ru": "Согласие, дилеммы, ответственность, честность и сообщение о нарушениях — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-etika-c1-1",
+      "l2": "согласие",
+      "en": "consent",
+      "gloss": {
+        "en": "consent",
+        "es": "consentir",
+        "ru": "согласие"
+      },
+      "example": "Согласие, далеко не просто начальное, предполагает информацию, реальное значение которой остается понятным.",
+      "ipa": "soɡlˈasije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-etika-c1-2",
+      "l2": "дилемма",
+      "en": "dilemma",
+      "gloss": {
+        "en": "dilemma",
+        "es": "dilema",
+        "ru": "дилемма"
+      },
+      "example": "Эта дилемма, хотя и представляется неразрешимой, часто скрывает за собой арбитраж ответственности.",
+      "ipa": "dˈiljemma",
+      "article": "ж"
+    },
+    {
+      "id": "remote-etika-c1-3",
+      "l2": "ответственность",
+      "en": "responsibility",
+      "gloss": {
+        "en": "responsibility",
+        "es": "responsabilidad",
+        "ru": "ответственность"
+      },
+      "example": "Ответственность, даже если она означает придание большего веса наиболее заметному агенту, не может освободить от структурного соучастия.",
+      "ipa": "ˈotvjetstvjennostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-4",
+      "l2": "честность",
+      "en": "integrity",
+      "gloss": {
+        "en": "integrity",
+        "es": "integridad",
+        "ru": "честность"
+      },
+      "example": "Честность, если только она не сведена к соответствию, требует согласованности между заявленными принципами и практикой.",
+      "ipa": "tɕjestnˈostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-5",
+      "l2": "осведомитель",
+      "en": "whistleblower",
+      "gloss": {
+        "en": "whistleblower",
+        "es": "denunciante",
+        "ru": "осведомитель"
+      },
+      "example": "Информатор, уязвимость которого является следствием обязанности говорить правду, зависит от системы защиты.",
+      "ipa": "osvjedˈomitjelʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-6",
+      "l2": "беспристрастность",
+      "en": "impartiality",
+      "gloss": {
+        "en": "impartiality",
+        "es": "imparcialidad",
+        "ru": "беспристрастность"
+      },
+      "example": "Беспристрастность, а не пустой нейтралитет, состоит в том, чтобы сделать видимыми конфликты интересов, которые будут разрешены.",
+      "ipa": "bjespristrˈastnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-7",
+      "l2": "конфликт интересов",
+      "en": "conflict of interest",
+      "gloss": {
+        "en": "conflict of interest",
+        "es": "incompatibilidad",
+        "ru": "конфликт интересов"
+      },
+      "example": "Конфликт интересов, даже если он объявлен, продолжает определять арбитраж, даже если депортация не требуется.",
+      "ipa": "konflikt ˈintjerjesov",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-8",
+      "l2": "профессиональная этика",
+      "en": "professional ethics",
+      "gloss": {
+        "en": "professional ethics",
+        "es": "ética profesional",
+        "ru": "профессиональная этика"
+      },
+      "example": "Этика, даже если она кажется процедурной, предлагает структуру, которую не заменяет единственная апелляция к добродетели.",
+      "ipa": "profjessionalʲnaja ɛtˈika",
+      "article": "ж"
+    },
+    {
+      "id": "remote-etika-c1-9",
+      "l2": "подотчетность",
+      "en": "accountability",
+      "gloss": {
+        "en": "accountability",
+        "es": "responsabilidad",
+        "ru": "подотчетность"
+      },
+      "example": "Подотчетность, если она не осуществима, остается лозунгом, от которого жертвы ничего не получат.",
+      "ipa": "podˈottɕjetnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-10",
+      "l2": "благодеяние",
+      "en": "beneficence",
+      "gloss": {
+        "en": "beneficence",
+        "es": "beneficencia",
+        "ru": "благодеяние"
+      },
+      "example": "Благотворительность, следствием которой является primum non nocere, может оправдать опеку, подрывающую автономию.",
+      "ipa": "blaɡodjejˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-etika-c1-11",
+      "l2": "автономия",
+      "en": "autonomy",
+      "gloss": {
+        "en": "autonomy",
+        "es": "autonomía",
+        "ru": "автономия"
+      },
+      "example": "Автономия, далекая от изоляции личности, предполагает социальные условия информированного согласия.",
+      "ipa": "avtonomˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-etika-c1-12",
+      "l2": "вред",
+      "en": "harm",
+      "gloss": {
+        "en": "harm",
+        "es": "dañar",
+        "ru": "вред"
+      },
+      "example": "Ущерб, хотя и трудно поддающийся количественной оценке, лежит в основе обязательств по устранению и предотвращению.",
+      "ipa": "vrjed",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-13",
+      "l2": "конфиденциальность",
+      "en": "confidentiality",
+      "gloss": {
+        "en": "confidentiality",
+        "es": "confidencialidad",
+        "ru": "конфиденциальность"
+      },
+      "example": "Конфиденциальность, даже если она означает защиту учреждения, не может предотвратить соответствующее предупреждение.",
+      "ipa": "konfidjentsiˈalʲnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-14",
+      "l2": "капитал",
+      "en": "equity",
+      "gloss": {
+        "en": "equity",
+        "es": "equidad",
+        "ru": "капитал"
+      },
+      "example": "Справедливость, если ее не путать с формальным равенством, корректирует асимметрию, которую игнорирует правило.",
+      "ipa": "kapˈital",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-15",
+      "l2": "достоинство",
+      "en": "virtue",
+      "gloss": {
+        "en": "virtue",
+        "es": "virtud",
+        "ru": "достоинство"
+      },
+      "example": "Добродетель, которую мы слишком быстро подменяем, не освобождает нас от ответственности перед обществом.",
+      "ipa": "dostoˈinstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-etika-c1-16",
+      "l2": "прозрачность",
+      "en": "transparency",
+      "gloss": {
+        "en": "transparency",
+        "es": "transparencia",
+        "ru": "прозрачность"
+      },
+      "example": "Прозрачность, хотя и далека от решения всех проблем, может разоблачить уязвимых людей, если не контролировать создание рамок.",
+      "ipa": "prozrˈatɕnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-17",
+      "l2": "соучастие",
+      "en": "complicity",
+      "gloss": {
+        "en": "complicity",
+        "es": "complicidad",
+        "ru": "соучастие"
+      },
+      "example": "Соучастие по бездействию, хотя его труднее установить, касается тех, кто мог предотвратить вред.",
+      "ipa": "soutɕˈastije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-etika-c1-18",
+      "l2": "достоинство",
+      "en": "dignity",
+      "gloss": {
+        "en": "dignity",
+        "es": "dignidad",
+        "ru": "достоинство"
+      },
+      "example": "Достоинство, даже если оно остается спорным понятием, функционирует как порог, который не должна пересекать ни одна полезность.",
+      "ipa": "dostoˈinstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-etika-c1-19",
+      "l2": "уязвимость",
+      "en": "vulnerability",
+      "gloss": {
+        "en": "vulnerability",
+        "es": "vulnerabilidad",
+        "ru": "уязвимость"
+      },
+      "example": "Уязвимость, если она не эссенциализирована, обозначает ситуацию, которую учреждение обязано не усугублять.",
+      "ipa": "ujazvˈimostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-etika-c1-20",
+      "l2": "обязательство",
+      "en": "obligation",
+      "gloss": {
+        "en": "obligation",
+        "es": "obligación",
+        "ru": "обязательство"
+      },
+      "example": "Обязанность сообщать, лицом которой является информатор, вступает в противоречие с обязанностью сохранять конфиденциальность.",
+      "ipa": "objazˈatjelʲstvo",
+      "article": "ср"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-etika-c1-phrase-1",
+      "l2": "Хотя согласие было подписано, его реальные масштабы остаются под вопросом.",
+      "en": "Even though consent was signed, its real scope remains questionable.",
+      "gloss": {
+        "en": "Even though consent was signed, its real scope remains questionable.",
+        "es": "Aunque se firmó el consentimiento, su alcance real sigue siendo cuestionable.",
+        "ru": "Несмотря на то, что согласие было подписано, его реальные масштабы остаются под вопросом."
+      },
+      "ipa": "xˈotja soɡlˈasije bˈɨlo podpisˈano jeɡˈo rjeˈalʲnɨje masʂtˈabɨ ostajˈutsja pˈod voprˈosom"
+    },
+    {
+      "id": "remote-etika-c1-phrase-2",
+      "l2": "Индивидуальная честность не освобождает институт от ответственности, но не освобождает от ответственности.",
+      "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+      "gloss": {
+        "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+        "es": "Lejos de absolver a la institución, la integridad individual no cancela la rendición de cuentas.",
+        "ru": "Индивидуальная честность не только не освобождает институт, но и не отменяет ответственности."
+      },
+      "ipa": "individualʲnˈaja tɕjestnˈostʲ nje osvobˈoʐdajet instˈitut ˈot otvjetstvjennˈosti nˈo nje osvobˈoʐdajet ˈot otvjetstvjennˈosti"
+    },
+    {
+      "id": "remote-etika-c1-phrase-3",
+      "l2": "Если конфликт интересов не будет разрешен, беспристрастность останется поверхностной.",
+      "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+      "gloss": {
+        "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+        "es": "A menos que se resuelva el conflicto de intereses, la imparcialidad seguirá siendo una fachada.",
+        "ru": "Если конфликт интересов не будет разрешен, беспристрастность останется фасадом."
+      },
+      "ipa": "jeslˈi kˈonflikt ˈintjerjesov nje bˈudjet rˈazrjeʂjen bjespristrˈastnostʲ ostˈanjetsja povjerxnˈostnoj"
+    },
+    {
+      "id": "remote-etika-c1-phrase-4",
+      "l2": "Даже если это означает нарушение конфиденциальности, информатор предотвращает серьезный вред.",
+      "en": "Even at the cost of breaking confidentiality, the whistleblower prevents serious harm.",
+      "gloss": {
+        "en": "Even at the cost of breaking confidentiality, the whistleblower prevents serious harm.",
+        "es": "Incluso a costa de romper la confidencialidad, el denunciante evita daños graves.",
+        "ru": "Даже ценой нарушения конфиденциальности информатор предотвращает серьезный вред."
+      },
+      "ipa": "dˈaʐje jeslˈi ˈɛto oznˈatɕajet narˈuʂjenije konfidjentsialʲnˈosti informˈator prjedotvrˈaɕːajet sjerʲjeznˈɨj vrjed"
+    },
+    {
+      "id": "remote-etika-c1-phrase-5",
+      "l2": "Важно отличать трагическую дилемму от простого арбитража интересов.",
+      "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
+      "gloss": {
+        "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
+        "es": "Hay que distinguir un dilema trágico de una mera compensación de intereses.",
+        "ru": "Следует отличать трагическую дилемму от простого компромисса интересов."
+      },
+      "ipa": "vˈaʐno otlˈitɕatʲ traɡitɕjeskˈuju dˈiljemmu ˈot prostˈoɡo arbitrˈaʐa ˈintjerjesov"
+    },
+    {
+      "id": "remote-etika-c1-phrase-6",
+      "l2": "Хотя этика регулирует практику, она не освобождает от справедливости.",
+      "en": "Although professional ethics frames practice, it does not dispense with equity.",
+      "gloss": {
+        "en": "Although professional ethics frames practice, it does not dispense with equity.",
+        "es": "Aunque la ética profesional enmarca la práctica, no prescinde de la equidad.",
+        "ru": "Хотя профессиональная этика определяет практику, она не исключает справедливости."
+      },
+      "ipa": "xˈotja ɛtˈika rjeɡulˈirujet praktˈiku ˈona nje osvobˈoʐdajet ˈot spravjedlivˈosti"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-etika-c1-listen-1",
+      "l2": "Согласие предполагает информацию, реальное значение которой остается понятным.",
+      "en": "Consent requires information whose real implications remain graspable.",
+      "gloss": {
+        "en": "Consent requires information whose real implications remain graspable.",
+        "es": "El consentimiento requiere información cuyas implicaciones reales siguen siendo comprensibles.",
+        "ru": "Для согласия требуется информация, реальные последствия которой остаются понятными."
+      },
+      "word": "согласие",
+      "wordEn": "consent",
+      "wordGloss": {
+        "en": "consent",
+        "es": "consentir",
+        "ru": "согласие"
+      },
+      "wordIpa": "soɡlˈasije",
+      "distractors": [
+        "капитал",
+        "достоинство",
+        "достоинство"
+      ]
+    },
+    {
+      "id": "remote-etika-c1-listen-2",
+      "l2": "Информатор зависит от системы защиты от возмездия.",
+      "en": "The whistleblower depends on a protection mechanism against retaliation.",
+      "gloss": {
+        "en": "The whistleblower depends on a protection mechanism against retaliation.",
+        "es": "El denunciante depende de un mecanismo de protección contra represalias.",
+        "ru": "Информатор зависит от механизма защиты от преследований."
+      },
+      "word": "осведомитель",
+      "wordEn": "whistleblower",
+      "wordGloss": {
+        "en": "whistleblower",
+        "es": "denunciante",
+        "ru": "осведомитель"
+      },
+      "wordIpa": "osvjedˈomitjelʲ",
+      "distractors": [
+        "конфликт интересов",
+        "вред",
+        "соучастие"
+      ]
+    },
+    {
+      "id": "remote-etika-c1-listen-3",
+      "l2": "За этой дилеммой часто скрывается арбитраж обязанностей, а не апория.",
+      "en": "This dilemma often conceals a trade-off of responsibilities rather than an aporia.",
+      "gloss": {
+        "en": "This dilemma often conceals a trade-off of responsibilities rather than an aporia.",
+        "es": "Este dilema a menudo oculta una compensación de responsabilidades más que una aporía.",
+        "ru": "За этой дилеммой часто скрывается компромисс между обязанностями, а не апория."
+      },
+      "word": "дилемма",
+      "wordEn": "dilemma",
+      "wordGloss": {
+        "en": "dilemma",
+        "es": "dilema",
+        "ru": "дилемма"
+      },
+      "wordIpa": "dˈiljemma",
+      "distractors": [
+        "честность",
+        "автономия",
+        "обязательство"
+      ]
+    },
+    {
+      "id": "remote-etika-c1-listen-4",
+      "l2": "Конфиденциальность не может стать препятствием для пропорционального оповещения.",
+      "en": "Confidentiality cannot stand in the way of a proportionate alert.",
+      "gloss": {
+        "en": "Confidentiality cannot stand in the way of a proportionate alert.",
+        "es": "La confidencialidad no puede obstaculizar una alerta proporcionada.",
+        "ru": "Конфиденциальность не может помешать соразмерному предупреждению."
+      },
+      "word": "конфиденциальность",
+      "wordEn": "confidentiality",
+      "wordGloss": {
+        "en": "confidentiality",
+        "es": "confidencialidad",
+        "ru": "конфиденциальность"
+      },
+      "wordIpa": "konfidjentsiˈalʲnostʲ",
+      "distractors": [
+        "прозрачность",
+        "благодеяние",
+        "подотчетность"
+      ]
+    }
+  ],
+  "prompts": [
+    "Уточните идею о том, что подписанного согласия будет достаточно, чтобы исключить любой вред.",
+    "Признайте ценность конфиденциальности, а затем переформулируйте обязанности информатора.",
+    "В какой степени беспристрастность требует чего-то большего, чем просто декларация о конфликте интересов?",
+    "Переформулируйте оппозицию между благотворительностью и автономией, не изображая их карикатурно."
+  ],
+  "grammar": [
+    {
+      "id": "remote-etika-c1-grammar-1",
+      "title": {
+        "fr": "Nominalisation savante",
+        "en": "Academic nominalization",
+        "es": "Nominalización académica",
+        "ru": "Академическая номинализация"
+      },
+      "rule": {
+        "fr": "Préférez un nom abstrait : рассмотрение вопроса, pas рассматривать вопрос.",
+        "en": "Prefer an abstract noun: рассмотрение вопроса, not рассматривать вопрос.",
+        "es": "Prefiere un sustantivo abstracto: рассмотрение вопроса.",
+        "ru": "Предпочитайте абстрактное существительное: рассмотрение вопроса, а не рассматривать вопрос."
+      },
+      "why": {
+        "en": "Matches formal academic tone.",
+        "es": "Encaja con el tono académico formal.",
+        "ru": "Соответствует формальному академическому тону."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "глагол → имя",
+          "формальный стиль",
+          "наличие дилемма"
+        ],
+        [
+          "избегать придаточного",
+          "плотность",
+          "отсутствие осведомитель"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-etika-c1-gq-1-1",
+          "prompt": "Предпочтительнее: ___ вопроса. (рассмотреть)",
+          "answer": "рассмотрение",
+          "options": [
+            "рассмотрение",
+            "рассмотреть",
+            "рассмотренный"
+          ]
+        },
+        {
+          "id": "remote-etika-c1-gq-1-2",
+          "prompt": "Анализ дилемма — более академично, чем «анализировать».",
+          "answer": "анализ",
+          "options": [
+            "анализ",
+            "анализировать",
+            "аналитик"
+          ]
+        },
+        {
+          "id": "remote-etika-c1-gq-1-3",
+          "prompt": "Лучше существительное, а не ___ .",
+          "answer": "глагол",
+          "options": [
+            "глагол",
+            "союз",
+            "междометие"
+          ]
+        },
+        {
+          "id": "remote-etika-c1-gq-1-4",
+          "prompt": "Свяжите с темой: дилемма / осведомитель. Род «дилемма»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-etika-c1-gq-1-5",
+          "prompt": "Свяжите с темой: дилемма / осведомитель. Род «дилемма»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-etika-c1-grammar-2",
+      "title": {
+        "fr": "Participes et gerundifs",
+        "en": "Participles and verbal adverbs",
+        "es": "Participios y gerundios",
+        "ru": "Причастия и деепричастия"
+      },
+      "rule": {
+        "fr": "Причастие qualifie un nom ; деепричастие ajoute une action secondaire.",
+        "en": "A participle modifies a noun; a verbal adverb adds a secondary action.",
+        "es": "El participio modifica un sustantivo; el gerundio añade una acción secundaria.",
+        "ru": "Причастие определяет существительное; деепричастие добавляет второстепенное действие."
+      },
+      "why": {
+        "en": "Dense written Russian relies on these forms.",
+        "es": "El ruso escrito denso depende de estas formas.",
+        "ru": "Плотный письменный русский опирается на эти формы."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "причастие",
+          "определение",
+          "книга, написанная автором"
+        ],
+        [
+          "деепричастие",
+          "второе действие",
+          "Читая, он делал заметки."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-etika-c1-gq-2-1",
+          "prompt": "Форма, определяющая существительное — ___ .",
+          "answer": "причастие",
+          "options": [
+            "причастие",
+            "деепричастие",
+            "наречие"
+          ]
+        },
+        {
+          "id": "remote-etika-c1-gq-2-2",
+          "prompt": "«Читая» в «Читая, он…» — это ___ .",
+          "answer": "деепричастие",
+          "options": [
+            "деепричастие",
+            "причастие",
+            "инфинитив"
+          ]
+        },
+        {
+          "id": "remote-etika-c1-gq-2-3",
+          "prompt": "В академическом тексте часто нужны ___ .",
+          "answer": "причастия",
+          "options": [
+            "причастия",
+            "междометия",
+            "обращения"
+          ]
+        },
+        {
+          "id": "remote-etika-c1-gq-2-4",
+          "prompt": "Свяжите с темой: ответственность / беспристрастность. Род «ответственность»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-etika-c1-gq-2-5",
+          "prompt": "Свяжите с темой: ответственность / беспристрастность. Род «ответственность»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-etika-c1-dict-1",
+        "l2": "Хотя согласие было подписано, его реальные масштабы остаются под вопросом.",
+        "en": "Even though consent was signed, its real scope remains questionable.",
+        "gloss": {
+          "en": "Even though consent was signed, its real scope remains questionable.",
+          "es": "Aunque se firmó el consentimiento, su alcance real sigue siendo cuestionable.",
+          "ru": "Несмотря на то, что согласие было подписано, его реальные масштабы остаются под вопросом."
+        },
+        "ipa": "xˈotja soɡlˈasije bˈɨlo podpisˈano jeɡˈo rjeˈalʲnɨje masʂtˈabɨ ostajˈutsja pˈod voprˈosom"
+      },
+      {
+        "id": "remote-etika-c1-dict-2",
+        "l2": "Индивидуальная честность не освобождает институт от ответственности, но не освобождает от ответственности.",
+        "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+        "gloss": {
+          "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+          "es": "Lejos de absolver a la institución, la integridad individual no cancela la rendición de cuentas.",
+          "ru": "Индивидуальная честность не только не освобождает институт, но и не отменяет ответственности."
+        },
+        "ipa": "individualʲnˈaja tɕjestnˈostʲ nje osvobˈoʐdajet instˈitut ˈot otvjetstvjennˈosti nˈo nje osvobˈoʐdajet ˈot otvjetstvjennˈosti"
+      },
+      {
+        "id": "remote-etika-c1-dict-3",
+        "l2": "Если конфликт интересов не будет разрешен, беспристрастность останется поверхностной.",
+        "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+        "gloss": {
+          "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+          "es": "A menos que se resuelva el conflicto de intereses, la imparcialidad seguirá siendo una fachada.",
+          "ru": "Если конфликт интересов не будет разрешен, беспристрастность останется фасадом."
+        },
+        "ipa": "jeslˈi kˈonflikt ˈintjerjesov nje bˈudjet rˈazrjeʂjen bjespristrˈastnostʲ ostˈanjetsja povjerxnˈostnoj"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-etika-c1-mean-1",
+        "l2": "Хотя согласие было подписано, его реальные масштабы остаются под вопросом.",
+        "en": "Even though consent was signed, its real scope remains questionable.",
+        "gloss": {
+          "en": "Even though consent was signed, its real scope remains questionable.",
+          "es": "Aunque se firmó el consentimiento, su alcance real sigue siendo cuestionable.",
+          "ru": "Несмотря на то, что согласие было подписано, его реальные масштабы остаются под вопросом."
+        }
+      },
+      {
+        "id": "remote-etika-c1-mean-2",
+        "l2": "Индивидуальная честность не освобождает институт от ответственности, но не освобождает от ответственности.",
+        "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+        "gloss": {
+          "en": "Far from absolving the institution, individual integrity does not cancel accountability.",
+          "es": "Lejos de absolver a la institución, la integridad individual no cancela la rendición de cuentas.",
+          "ru": "Индивидуальная честность не только не освобождает институт, но и не отменяет ответственности."
+        }
+      },
+      {
+        "id": "remote-etika-c1-mean-3",
+        "l2": "Если конфликт интересов не будет разрешен, беспристрастность останется поверхностной.",
+        "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+        "gloss": {
+          "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+          "es": "A menos que se resuelva el conflicto de intereses, la imparcialidad seguirá siendo una fachada.",
+          "ru": "Если конфликт интересов не будет разрешен, беспристрастность останется фасадом."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-etika-c1-fren-1",
+        "l2": "согласие",
+        "en": "consent",
+        "gloss": {
+          "en": "consent",
+          "es": "consentir",
+          "ru": "согласие"
+        }
+      },
+      {
+        "id": "remote-etika-c1-fren-2",
+        "l2": "дилемма",
+        "en": "dilemma",
+        "gloss": {
+          "en": "dilemma",
+          "es": "dilema",
+          "ru": "дилемма"
+        }
+      },
+      {
+        "id": "remote-etika-c1-fren-3",
+        "l2": "ответственность",
+        "en": "responsibility",
+        "gloss": {
+          "en": "responsibility",
+          "es": "responsabilidad",
+          "ru": "ответственность"
+        }
+      },
+      {
+        "id": "remote-etika-c1-fren-4",
+        "l2": "честность",
+        "en": "integrity",
+        "gloss": {
+          "en": "integrity",
+          "es": "integridad",
+          "ru": "честность"
+        }
+      },
+      {
+        "id": "remote-etika-c1-fren-5",
+        "l2": "осведомитель",
+        "en": "whistleblower",
+        "gloss": {
+          "en": "whistleblower",
+          "es": "denunciante",
+          "ru": "осведомитель"
+        }
+      },
+      {
+        "id": "remote-etika-c1-fren-6",
+        "l2": "беспристрастность",
+        "en": "impartiality",
+        "gloss": {
+          "en": "impartiality",
+          "es": "imparcialidad",
+          "ru": "беспристрастность"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-etika-c1-alou-1",
+        "l2": "Хотя согласие было подписано, его реальные масштабы остаются под вопросом.",
+        "en": "Even though consent was signed, its real scope remains questionable.",
+        "gloss": {
+          "en": "Even though consent was signed, its real scope remains questionable.",
+          "es": "Aunque se firmó el consentimiento, su alcance real sigue siendo cuestionable.",
+          "ru": "Несмотря на то, что согласие было подписано, его реальные масштабы остаются под вопросом."
+        },
+        "ipa": "xˈotja soɡlˈasije bˈɨlo podpisˈano jeɡˈo rjeˈalʲnɨje masʂtˈabɨ ostajˈutsja pˈod voprˈosom"
+      },
+      {
+        "id": "remote-etika-c1-alou-2",
+        "l2": "Если конфликт интересов не будет разрешен, беспристрастность останется поверхностной.",
+        "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+        "gloss": {
+          "en": "Unless the conflict of interest is resolved, impartiality will remain a façade.",
+          "es": "A menos que se resuelva el conflicto de intereses, la imparcialidad seguirá siendo una fachada.",
+          "ru": "Если конфликт интересов не будет разрешен, беспристрастность останется фасадом."
+        },
+        "ipa": "jeslˈi kˈonflikt ˈintjerjesov nje bˈudjet rˈazrjeʂjen bjespristrˈastnostʲ ostˈanjetsja povjerxnˈostnoj"
+      },
+      {
+        "id": "remote-etika-c1-alou-3",
+        "l2": "Важно отличать трагическую дилемму от простого арбитража интересов.",
+        "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
+        "gloss": {
+          "en": "One should distinguish a tragic dilemma from a mere trade-off of interests.",
+          "es": "Hay que distinguir un dilema trágico de una mera compensación de intereses.",
+          "ru": "Следует отличать трагическую дилемму от простого компромисса интересов."
+        },
+        "ipa": "vˈaʐno otlˈitɕatʲ traɡitɕjeskˈuju dˈiljemmu ˈot prostˈoɡo arbitrˈaʐa ˈintjerjesov"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-etika-c1-unsc-1",
+        "l2": "Хотя согласие подписано, его объем остается под вопросом.",
+        "en": "Even though consent is signed, its scope remains questionable.",
+        "gloss": {
+          "en": "Even though consent is signed, its scope remains questionable.",
+          "es": "Aunque el consentimiento esté firmado, su alcance sigue siendo cuestionable.",
+          "ru": "Несмотря на то, что согласие подписано, его масштабы остаются под вопросом."
+        },
+        "words": [
+          "Хотя",
+          "согласие",
+          "подписано,",
+          "его",
+          "объем",
+          "остается",
+          "под",
+          "вопросом."
+        ]
+      },
+      {
+        "id": "remote-etika-c1-unsc-2",
+        "l2": "Даже если это означает нарушение конфиденциальности, предупреждение предотвращает серьезный вред.",
+        "en": "Even at the cost of breaking confidentiality, the alert prevents serious harm.",
+        "gloss": {
+          "en": "Even at the cost of breaking confidentiality, the alert prevents serious harm.",
+          "es": "Incluso a costa de romper la confidencialidad, la alerta evita daños graves.",
+          "ru": "Даже ценой нарушения конфиденциальности предупреждение предотвращает серьезный вред."
+        },
+        "words": [
+          "Даже",
+          "если",
+          "это",
+          "означает",
+          "нарушение",
+          "конфиденциальности,",
+          "предупреждение",
+          "предотвращает",
+          "серьезный",
+          "вред."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

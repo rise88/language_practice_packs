@@ -1,0 +1,834 @@
+{
+  "pratiquePack": 2,
+  "id": "kultura-b1",
+  "version": 1,
+  "level": "b1",
+  "lang": "ru",
+  "title": {
+    "fr": "Culture B1 (RU)",
+    "en": "Culture B1 (RU)",
+    "es": "Cultura B1 (RU)",
+    "ru": "Культура Б1"
+  },
+  "description": {
+    "fr": "Spectacles, musées et sorties pour parler de la vie culturelle — pack russe.",
+    "en": "Shows, museums, and nights out for talking about cultural life — Russian pack.",
+    "es": "Espectáculos, museos y salidas nocturnas para hablar de la vida cultural — paquete ruso.",
+    "ru": "Шоу, музеи и вечера для разговоров о культурной жизни — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-kultura-b1-1",
+      "l2": "шоу",
+      "en": "show / performance",
+      "gloss": {
+        "en": "show / performance",
+        "es": "espectáculo / actuación",
+        "ru": "шоу/выступление"
+      },
+      "example": "Шоу началось с опозданием на двадцать минут.",
+      "ipa": "ʂˈou",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-2",
+      "l2": "выставка",
+      "en": "exhibition",
+      "gloss": {
+        "en": "exhibition",
+        "es": "exhibición",
+        "ru": "выставка"
+      },
+      "example": "Выставка привлекает множество посетителей.",
+      "ipa": "vɨstˈavka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-kultura-b1-3",
+      "l2": "концерт",
+      "en": "concert",
+      "gloss": {
+        "en": "concert",
+        "es": "concierto",
+        "ru": "концерт"
+      },
+      "example": "Концерт под открытым небом был бесплатным.",
+      "ipa": "kˈontsjert",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-4",
+      "l2": "играть",
+      "en": "play (theatre)",
+      "gloss": {
+        "en": "play (theatre)",
+        "es": "obra de teatro (teatro)",
+        "ru": "играть (театр)"
+      },
+      "example": "Спектакль идет два часа без антракта.",
+      "ipa": "ˈiɡratʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-5",
+      "l2": "актер",
+      "en": "actor",
+      "gloss": {
+        "en": "actor",
+        "es": "actor",
+        "ru": "актер"
+      },
+      "example": "Главный актер произвел впечатление.",
+      "ipa": "ˈaktjer",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-6",
+      "l2": "режиссер",
+      "en": "director (film)",
+      "gloss": {
+        "en": "director (film)",
+        "es": "director (película)",
+        "ru": "режиссер (фильм)"
+      },
+      "example": "Директор ответил на вопросы.",
+      "ipa": "rjeʐˈissjer",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-7",
+      "l2": "обзор",
+      "en": "review / critic",
+      "gloss": {
+        "en": "review / critic",
+        "es": "reseña/crítica",
+        "ru": "обзор / критик"
+      },
+      "example": "Обзор был в основном положительным.",
+      "ipa": "ˈobzor",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-8",
+      "l2": "билет",
+      "en": "ticket",
+      "gloss": {
+        "en": "ticket",
+        "es": "boleto",
+        "ru": "билет"
+      },
+      "example": "Билеты уже распроданы.",
+      "ipa": "bˈiljet",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-9",
+      "l2": "фестиваль",
+      "en": "festival",
+      "gloss": {
+        "en": "festival",
+        "es": "festival",
+        "ru": "фестиваль"
+      },
+      "example": "Фестиваль проходит каждый год в июле.",
+      "ipa": "fjestˈivalʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-10",
+      "l2": "музей",
+      "en": "museum",
+      "gloss": {
+        "en": "museum",
+        "es": "museo",
+        "ru": "музей"
+      },
+      "example": "По понедельникам музей закрывается раньше.",
+      "ipa": "mˈuzjej",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-11",
+      "l2": "галерея",
+      "en": "gallery",
+      "gloss": {
+        "en": "gallery",
+        "es": "galería",
+        "ru": "галерея"
+      },
+      "example": "В этой галерее представлены местные художники.",
+      "ipa": "ɡˈaljerjeja",
+      "article": "ж"
+    },
+    {
+      "id": "remote-kultura-b1-12",
+      "l2": "вход",
+      "en": "admission / entrance",
+      "gloss": {
+        "en": "admission / entrance",
+        "es": "admisión / entrada",
+        "ru": "вход / вход"
+      },
+      "example": "Вход бесплатный в первое воскресенье.",
+      "ipa": "vxˈod",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-13",
+      "l2": "аудитория",
+      "en": "audience / public",
+      "gloss": {
+        "en": "audience / public",
+        "es": "audiencia / público",
+        "ru": "аудитория / общественность"
+      },
+      "example": "Публика много аплодировала.",
+      "ipa": "auditorˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-kultura-b1-14",
+      "l2": "сцена",
+      "en": "stage / scene",
+      "gloss": {
+        "en": "stage / scene",
+        "es": "escenario/escena",
+        "ru": "сцена / сцена"
+      },
+      "example": "Музыканты возвращаются на сцену.",
+      "ipa": "stsjenˈa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-kultura-b1-15",
+      "l2": "субтитры",
+      "en": "subtitle",
+      "gloss": {
+        "en": "subtitle",
+        "es": "subtitular",
+        "ru": "субтитры"
+      },
+      "example": "Я предпочитаю версию с субтитрами.",
+      "ipa": "subtˈitrɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-16",
+      "l2": "трейлер",
+      "en": "trailer",
+      "gloss": {
+        "en": "trailer",
+        "es": "tráiler",
+        "ru": "трейлер"
+      },
+      "example": "Трейлер вызывает желание туда попасть.",
+      "ipa": "trjejljer",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-17",
+      "l2": "шедевр",
+      "en": "masterpiece",
+      "gloss": {
+        "en": "masterpiece",
+        "es": "obra maestra",
+        "ru": "шедевр"
+      },
+      "example": "Этот фильм считается шедевром.",
+      "ipa": "ʂjedjevr",
+      "article": "м"
+    },
+    {
+      "id": "remote-kultura-b1-18",
+      "l2": "наследство",
+      "en": "heritage",
+      "gloss": {
+        "en": "heritage",
+        "es": "herencia",
+        "ru": "наследство"
+      },
+      "example": "Это культурное наследие привлекает туристов.",
+      "ipa": "nˈasljedstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-kultura-b1-19",
+      "l2": "открытие",
+      "en": "opening (art)",
+      "gloss": {
+        "en": "opening (art)",
+        "es": "apertura (arte)",
+        "ru": "открытие (искусство)"
+      },
+      "example": "Открытие предназначено для гостей.",
+      "ipa": "otkrˈɨtije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-kultura-b1-20",
+      "l2": "пониженная ставка",
+      "en": "reduced rate",
+      "gloss": {
+        "en": "reduced rate",
+        "es": "tarifa reducida",
+        "ru": "пониженная ставка"
+      },
+      "example": "Для студентов действуют льготные ставки.",
+      "ipa": "poniʐjennaja stˈavka",
+      "article": "ж"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-kultura-b1-phrase-1",
+      "l2": "Вы когда-нибудь видели этот фильм? Это определенно того стоит.",
+      "en": "Have you seen this film? It’s really worth it.",
+      "gloss": {
+        "en": "Have you seen this film? It’s really worth it.",
+        "es": "¿Has visto esta película? Realmente vale la pena.",
+        "ru": "Вы видели этот фильм? Это действительно того стоит."
+      },
+      "ipa": "vˈɨ kˈoɡda nˈibudʲ vˈidjeli ˈɛtot fˈilʲm ˈɛto ˈoprjedjeljenno tˈoɡo stˈoit"
+    },
+    {
+      "id": "remote-kultura-b1-phrase-2",
+      "l2": "Билеты на субботу уже распроданы.",
+      "en": "Tickets for Saturday are already sold out.",
+      "gloss": {
+        "en": "Tickets for Saturday are already sold out.",
+        "es": "Las entradas para el sábado ya están agotadas.",
+        "ru": "Билеты на субботу уже распроданы."
+      },
+      "ipa": "bˈiljetɨ nˈa subbˈotu ˈuʐje rasprodˈanɨ"
+    },
+    {
+      "id": "remote-kultura-b1-phrase-3",
+      "l2": "Я предпочитаю субтитры дублированной версии.",
+      "en": "I prefer subtitles to the dubbed version.",
+      "gloss": {
+        "en": "I prefer subtitles to the dubbed version.",
+        "es": "Prefiero los subtítulos a la versión doblada.",
+        "ru": "Я предпочитаю субтитры дублированной версии."
+      },
+      "ipa": "jˈa prjedpotɕitˈaju subtˈitrɨ dublirovˈannoj vjersˈii"
+    },
+    {
+      "id": "remote-kultura-b1-phrase-4",
+      "l2": "Выставка мне очень понравилась, особенно последний зал.",
+      "en": "I really liked the exhibition, especially the last room.",
+      "gloss": {
+        "en": "I really liked the exhibition, especially the last room.",
+        "es": "Me gustó mucho la exposición, especialmente la última sala.",
+        "ru": "Выставка мне очень понравилась, особенно последний зал."
+      },
+      "ipa": "vɨstˈavka mnje ˈotɕjenʲ ponravˈilasʲ osˈobjenno pˈosljednij zˈal"
+    },
+    {
+      "id": "remote-kultura-b1-phrase-5",
+      "l2": "Нам следует приехать немного раньше.",
+      "en": "We should arrive a bit early.",
+      "gloss": {
+        "en": "We should arrive a bit early.",
+        "es": "Deberíamos llegar un poco antes.",
+        "ru": "Нам следует приехать немного раньше."
+      },
+      "ipa": "nˈam sljedˈujet prˈijexatʲ njemnˈoɡo rˈanʲʂje"
+    },
+    {
+      "id": "remote-kultura-b1-phrase-6",
+      "l2": "Это было не дорого, и толпа была дружелюбной.",
+      "en": "It wasn’t expensive, and the audience was warm.",
+      "gloss": {
+        "en": "It wasn’t expensive, and the audience was warm.",
+        "es": "No fue caro y la audiencia fue cálida.",
+        "ru": "Это было не дорого, и публика была теплая."
+      },
+      "ipa": "ˈɛto bˈɨlo nje dorˈoɡo ˈi tˈolpa bˈɨla druʐjeljˈubnoj"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-kultura-b1-listen-1",
+      "l2": "Билеты на субботу уже распроданы.",
+      "en": "Tickets for Saturday are already sold out.",
+      "gloss": {
+        "en": "Tickets for Saturday are already sold out.",
+        "es": "Las entradas para el sábado ya están agotadas.",
+        "ru": "Билеты на субботу уже распроданы."
+      },
+      "word": "билеты",
+      "wordEn": "tickets",
+      "wordGloss": {
+        "en": "tickets",
+        "es": "entradas",
+        "ru": "билеты"
+      },
+      "wordIpa": "bˈiljetɨ",
+      "distractors": [
+        "субтитры",
+        "обзоры",
+        "записи"
+      ]
+    },
+    {
+      "id": "remote-kultura-b1-listen-2",
+      "l2": "Выставка привлекает множество посетителей.",
+      "en": "The exhibition attracts a lot of visitors.",
+      "gloss": {
+        "en": "The exhibition attracts a lot of visitors.",
+        "es": "La exposición atrae a muchos visitantes.",
+        "ru": "Выставка привлекает множество посетителей."
+      },
+      "word": "выставка",
+      "wordEn": "exhibition",
+      "wordGloss": {
+        "en": "exhibition",
+        "es": "exhibición",
+        "ru": "выставка"
+      },
+      "wordIpa": "vɨstˈavka",
+      "distractors": [
+        "галерея",
+        "фестиваль",
+        "музей"
+      ]
+    },
+    {
+      "id": "remote-kultura-b1-listen-3",
+      "l2": "Я предпочитаю версию с субтитрами.",
+      "en": "I prefer the version with subtitles.",
+      "gloss": {
+        "en": "I prefer the version with subtitles.",
+        "es": "Prefiero la versión con subtítulos.",
+        "ru": "Я предпочитаю версию с субтитрами."
+      },
+      "word": "субтитры",
+      "wordEn": "subtitles",
+      "wordGloss": {
+        "en": "subtitles",
+        "es": "subtítulos",
+        "ru": "субтитры"
+      },
+      "wordIpa": "subtˈitrɨ",
+      "distractors": [
+        "трейлер",
+        "сцена",
+        "обзор"
+      ]
+    },
+    {
+      "id": "remote-kultura-b1-listen-4",
+      "l2": "В конце зрители много аплодировали.",
+      "en": "The audience applauded a lot at the end.",
+      "gloss": {
+        "en": "The audience applauded a lot at the end.",
+        "es": "El público aplaudió mucho al final.",
+        "ru": "В конце зрители много аплодировали."
+      },
+      "word": "аудитория",
+      "wordEn": "audience",
+      "wordGloss": {
+        "en": "audience",
+        "es": "audiencia",
+        "ru": "аудитория"
+      },
+      "wordIpa": "auditorˈija",
+      "distractors": [
+        "актер",
+        "режиссер",
+        "шоу"
+      ]
+    }
+  ],
+  "prompts": [
+    "Расскажите о фильме, концерте или выставке, которые вам понравились.",
+    "Вы предпочитаете кино, театр или музеи? За что ?",
+    "Опишите недавнюю культурную экскурсию.",
+    "Как вы думаете, что делает шоу хорошим?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-kultura-b1-grammar-1",
+      "title": {
+        "fr": "Génitif après нет / много",
+        "en": "Genitive after нет / много",
+        "es": "Genitivo tras нет / много",
+        "ru": "Родительный падеж после нет / много"
+      },
+      "rule": {
+        "fr": "После нет, мало, много, без — génitif.",
+        "en": "After нет, мало, много, без — use genitive.",
+        "es": "Tras нет, мало, много, без — genitivo.",
+        "ru": "После нет, мало, много, без — родительный падеж."
+      },
+      "why": {
+        "en": "Essential for negation and quantities.",
+        "es": "Esencial para la negación y las cantidades.",
+        "ru": "Необходимо для отрицания и количеств."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "нет + Род.",
+          "отрицание",
+          "Нет выставка."
+        ],
+        [
+          "много + Род.",
+          "количество",
+          "Много актер."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-kultura-b1-gq-1-1",
+          "prompt": "После «нет» нужен ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "винительный",
+            "дательный"
+          ]
+        },
+        {
+          "id": "remote-kultura-b1-gq-1-2",
+          "prompt": "У меня нет ___ . (тема: выставка)",
+          "answer": "выставка",
+          "options": [
+            "выставка",
+            "есть",
+            "это"
+          ]
+        },
+        {
+          "id": "remote-kultura-b1-gq-1-3",
+          "prompt": "Много / мало / без → ___ падеж.",
+          "answer": "родительный",
+          "options": [
+            "родительный",
+            "творительный",
+            "именительный"
+          ]
+        },
+        {
+          "id": "remote-kultura-b1-gq-1-4",
+          "prompt": "Свяжите с темой: выставка / актер. Род «выставка»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-kultura-b1-gq-1-5",
+          "prompt": "Свяжите с темой: выставка / актер. Род «выставка»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-kultura-b1-grammar-2",
+      "title": {
+        "fr": "Verbes de mouvement (идти / ехать)",
+        "en": "Verbs of motion (идти / ехать)",
+        "es": "Verbos de movimiento (идти / ехать)",
+        "ru": "Глаголы движения (идти / ехать)"
+      },
+      "rule": {
+        "fr": "Идти — à pied ; ехать — en véhicule (direction précise).",
+        "en": "Идти — on foot; ехать — by vehicle (specific direction).",
+        "es": "Идти — a pie; ехать — en vehículo (dirección concreta).",
+        "ru": "Идти — пешком; ехать — на транспорте (конкретное направление)."
+      },
+      "why": {
+        "en": "Choosing the right motion verb sounds natural.",
+        "es": "Elegir el verbo de movimiento correcto suena natural.",
+        "ru": "Правильный глагол движения звучит естественно."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "идти",
+          "пешком",
+          "Я иду в магазин."
+        ],
+        [
+          "ехать",
+          "на транспорте",
+          "Я еду на работу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-kultura-b1-gq-2-1",
+          "prompt": "Пешком в парк: я ___ .",
+          "answer": "иду",
+          "options": [
+            "иду",
+            "еду",
+            "летаю"
+          ]
+        },
+        {
+          "id": "remote-kultura-b1-gq-2-2",
+          "prompt": "На автобусе: я ___ .",
+          "answer": "еду",
+          "options": [
+            "еду",
+            "иду",
+            "хожу"
+          ]
+        },
+        {
+          "id": "remote-kultura-b1-gq-2-3",
+          "prompt": "Конкретное направление на машине — глагол ___ .",
+          "answer": "ехать",
+          "options": [
+            "ехать",
+            "идти",
+            "быть"
+          ]
+        },
+        {
+          "id": "remote-kultura-b1-gq-2-4",
+          "prompt": "Свяжите с темой: концерт / режиссер. Род «концерт»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-kultura-b1-gq-2-5",
+          "prompt": "Свяжите с темой: концерт / режиссер. Род «концерт»?",
+          "answer": "м",
+          "options": [
+            "м",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-kultura-b1-dict-1",
+        "l2": "Вы когда-нибудь видели этот фильм? Это определенно того стоит.",
+        "en": "Have you seen this film? It’s really worth it.",
+        "gloss": {
+          "en": "Have you seen this film? It’s really worth it.",
+          "es": "¿Has visto esta película? Realmente vale la pena.",
+          "ru": "Вы видели этот фильм? Это действительно того стоит."
+        },
+        "ipa": "vˈɨ kˈoɡda nˈibudʲ vˈidjeli ˈɛtot fˈilʲm ˈɛto ˈoprjedjeljenno tˈoɡo stˈoit"
+      },
+      {
+        "id": "remote-kultura-b1-dict-2",
+        "l2": "Билеты на субботу уже распроданы.",
+        "en": "Tickets for Saturday are already sold out.",
+        "gloss": {
+          "en": "Tickets for Saturday are already sold out.",
+          "es": "Las entradas para el sábado ya están agotadas.",
+          "ru": "Билеты на субботу уже распроданы."
+        },
+        "ipa": "bˈiljetɨ nˈa subbˈotu ˈuʐje rasprodˈanɨ"
+      },
+      {
+        "id": "remote-kultura-b1-dict-3",
+        "l2": "Я предпочитаю субтитры дублированной версии.",
+        "en": "I prefer subtitles to the dubbed version.",
+        "gloss": {
+          "en": "I prefer subtitles to the dubbed version.",
+          "es": "Prefiero los subtítulos a la versión doblada.",
+          "ru": "Я предпочитаю субтитры дублированной версии."
+        },
+        "ipa": "jˈa prjedpotɕitˈaju subtˈitrɨ dublirovˈannoj vjersˈii"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-kultura-b1-mean-1",
+        "l2": "Вы когда-нибудь видели этот фильм? Это определенно того стоит.",
+        "en": "Have you seen this film? It’s really worth it.",
+        "gloss": {
+          "en": "Have you seen this film? It’s really worth it.",
+          "es": "¿Has visto esta película? Realmente vale la pena.",
+          "ru": "Вы видели этот фильм? Это действительно того стоит."
+        }
+      },
+      {
+        "id": "remote-kultura-b1-mean-2",
+        "l2": "Билеты на субботу уже распроданы.",
+        "en": "Tickets for Saturday are already sold out.",
+        "gloss": {
+          "en": "Tickets for Saturday are already sold out.",
+          "es": "Las entradas para el sábado ya están agotadas.",
+          "ru": "Билеты на субботу уже распроданы."
+        }
+      },
+      {
+        "id": "remote-kultura-b1-mean-3",
+        "l2": "Я предпочитаю субтитры дублированной версии.",
+        "en": "I prefer subtitles to the dubbed version.",
+        "gloss": {
+          "en": "I prefer subtitles to the dubbed version.",
+          "es": "Prefiero los subtítulos a la versión doblada.",
+          "ru": "Я предпочитаю субтитры дублированной версии."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-kultura-b1-fren-1",
+        "l2": "шоу",
+        "en": "show",
+        "gloss": {
+          "en": "show",
+          "es": "espectáculo",
+          "ru": "показывать"
+        }
+      },
+      {
+        "id": "remote-kultura-b1-fren-2",
+        "l2": "выставка",
+        "en": "exhibition",
+        "gloss": {
+          "en": "exhibition",
+          "es": "exhibición",
+          "ru": "выставка"
+        }
+      },
+      {
+        "id": "remote-kultura-b1-fren-3",
+        "l2": "концерт",
+        "en": "concert",
+        "gloss": {
+          "en": "concert",
+          "es": "concierto",
+          "ru": "концерт"
+        }
+      },
+      {
+        "id": "remote-kultura-b1-fren-4",
+        "l2": "играть",
+        "en": "play (theatre)",
+        "gloss": {
+          "en": "play (theatre)",
+          "es": "obra de teatro (teatro)",
+          "ru": "играть (театр)"
+        }
+      },
+      {
+        "id": "remote-kultura-b1-fren-5",
+        "l2": "актер",
+        "en": "actor",
+        "gloss": {
+          "en": "actor",
+          "es": "actor",
+          "ru": "актер"
+        }
+      },
+      {
+        "id": "remote-kultura-b1-fren-6",
+        "l2": "режиссер",
+        "en": "director (film)",
+        "gloss": {
+          "en": "director (film)",
+          "es": "director (película)",
+          "ru": "режиссер (фильм)"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-kultura-b1-alou-1",
+        "l2": "Вы когда-нибудь видели этот фильм? Это определенно того стоит.",
+        "en": "Have you seen this film? It’s really worth it.",
+        "gloss": {
+          "en": "Have you seen this film? It’s really worth it.",
+          "es": "¿Has visto esta película? Realmente vale la pena.",
+          "ru": "Вы видели этот фильм? Это действительно того стоит."
+        },
+        "ipa": "vˈɨ kˈoɡda nˈibudʲ vˈidjeli ˈɛtot fˈilʲm ˈɛto ˈoprjedjeljenno tˈoɡo stˈoit"
+      },
+      {
+        "id": "remote-kultura-b1-alou-2",
+        "l2": "Я предпочитаю субтитры дублированной версии.",
+        "en": "I prefer subtitles to the dubbed version.",
+        "gloss": {
+          "en": "I prefer subtitles to the dubbed version.",
+          "es": "Prefiero los subtítulos a la versión doblada.",
+          "ru": "Я предпочитаю субтитры дублированной версии."
+        },
+        "ipa": "jˈa prjedpotɕitˈaju subtˈitrɨ dublirovˈannoj vjersˈii"
+      },
+      {
+        "id": "remote-kultura-b1-alou-3",
+        "l2": "Нам следует приехать немного раньше.",
+        "en": "We should arrive a bit early.",
+        "gloss": {
+          "en": "We should arrive a bit early.",
+          "es": "Deberíamos llegar un poco antes.",
+          "ru": "Нам следует приехать немного раньше."
+        },
+        "ipa": "nˈam sljedˈujet prˈijexatʲ njemnˈoɡo rˈanʲʂje"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-kultura-b1-unsc-1",
+        "l2": "Выставка мне очень понравилась, особенно последний зал.",
+        "en": "I really liked the exhibition, especially the last room.",
+        "gloss": {
+          "en": "I really liked the exhibition, especially the last room.",
+          "es": "Me gustó mucho la exposición, especialmente la última sala.",
+          "ru": "Выставка мне очень понравилась, особенно последний зал."
+        },
+        "words": [
+          "Выставка",
+          "мне",
+          "очень",
+          "понравилась,",
+          "особенно",
+          "последний",
+          "зал."
+        ]
+      },
+      {
+        "id": "remote-kultura-b1-unsc-2",
+        "l2": "Нам следует приехать немного раньше.",
+        "en": "We should arrive a bit early.",
+        "gloss": {
+          "en": "We should arrive a bit early.",
+          "es": "Deberíamos llegar un poco antes.",
+          "ru": "Нам следует приехать немного раньше."
+        },
+        "words": [
+          "Нам",
+          "следует",
+          "приехать",
+          "немного",
+          "раньше."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

@@ -1,0 +1,863 @@
+{
+  "pratiquePack": 2,
+  "id": "klimat-energiya-b2",
+  "version": 1,
+  "level": "b2",
+  "lang": "ru",
+  "title": {
+    "fr": "Climat et énergie B2 (RU)",
+    "en": "Climate and energy B2 (RU)",
+    "es": "Clima y energía B2 (RU)",
+    "ru": "Климат и энергетика B2"
+  },
+  "description": {
+    "fr": "Émissions, énergies renouvelables, sécheresse et politiques climatiques — pack russe.",
+    "en": "Emissions, renewable energy, drought, and climate policy — Russian pack.",
+    "es": "Emisiones, energías renovables, sequía y política climática — paquete ruso.",
+    "ru": "Выбросы, возобновляемые источники энергии, засуха и климатическая политика — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-klimat-energiya-b2-1",
+      "l2": "выбросы",
+      "en": "emission",
+      "gloss": {
+        "en": "emission",
+        "es": "emisión",
+        "ru": "выбросы"
+      },
+      "example": "Выбросы CO₂ стагнируют, но остаются слишком высокими для Парижского соглашения.",
+      "ipa": "vɨbrˈosɨ",
+      "article": "м"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-2",
+      "l2": "возобновляемая энергия",
+      "en": "renewable energy",
+      "gloss": {
+        "en": "renewable energy",
+        "es": "energía renovable",
+        "ru": "возобновляемая энергия"
+      },
+      "example": "Возобновляемые источники энергии в настоящее время покрывают растущую долю производства электроэнергии.",
+      "ipa": "vozobnovljajemaja ɛnjerɡˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-3",
+      "l2": "засуха",
+      "en": "drought",
+      "gloss": {
+        "en": "drought",
+        "es": "sequía",
+        "ru": "засуха"
+      },
+      "example": "Засуха снижает урожайность сельскохозяйственных культур третий год подряд.",
+      "ipa": "zasˈuxa",
+      "article": "ж"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-4",
+      "l2": "климатическая политика",
+      "en": "climate policy",
+      "gloss": {
+        "en": "climate policy",
+        "es": "política climática",
+        "ru": "климатическая политика"
+      },
+      "example": "Эта климатическая политика сочетает в себе установление цен на выбросы углерода и помощь в обновлении.",
+      "ipa": "klimatitɕjeskaja politˈika",
+      "article": "ж"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-5",
+      "l2": "углерод",
+      "en": "carbon",
+      "gloss": {
+        "en": "carbon",
+        "es": "carbón",
+        "ru": "углерод"
+      },
+      "example": "Цена на углерод должна вырасти, чтобы производители ускорили переход.",
+      "ipa": "ˈuɡljerod",
+      "article": "м"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-6",
+      "l2": "парниковый газ",
+      "en": "greenhouse gas",
+      "gloss": {
+        "en": "greenhouse gas",
+        "es": "gas de efecto invernadero",
+        "ru": "парниковый газ"
+      },
+      "example": "Парниковые газы накапливаются быстрее, чем естественные поглотители углерода.",
+      "ipa": "parnikovˈɨj ɡaz",
+      "article": "м"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-7",
+      "l2": "переход",
+      "en": "transition",
+      "gloss": {
+        "en": "transition",
+        "es": "transición",
+        "ru": "переход"
+      },
+      "example": "Энергетический переход требует инвестиций, которые сам по себе рынок не обеспечивает.",
+      "ipa": "pjerjexˈod",
+      "article": "м"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-8",
+      "l2": "биоразнообразие",
+      "en": "biodiversity",
+      "gloss": {
+        "en": "biodiversity",
+        "es": "biodiversidad",
+        "ru": "биоразнообразие"
+      },
+      "example": "Биоразнообразие разрушается, однако некоторые охраняемые виды вновь заселяют окружающую среду.",
+      "ipa": "bioraznoobrˈazije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-9",
+      "l2": "волна тепла",
+      "en": "heatwave",
+      "gloss": {
+        "en": "heatwave",
+        "es": "ola de calor",
+        "ru": "волна тепла"
+      },
+      "example": "Волна тепла прошлого лета создала нагрузку на национальную электросеть.",
+      "ipa": "volnˈa tjepla",
+      "article": "ж"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-10",
+      "l2": "вырубка лесов",
+      "en": "deforestation",
+      "gloss": {
+        "en": "deforestation",
+        "es": "deforestación",
+        "ru": "вырубка лесов"
+      },
+      "example": "Вырубка лесов продолжается, хотя моратории подписаны.",
+      "ipa": "vɨrubkˈa ljesov",
+      "article": "м"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-11",
+      "l2": "след",
+      "en": "footprint",
+      "gloss": {
+        "en": "footprint",
+        "es": "huella",
+        "ru": "след"
+      },
+      "example": "Углеродный след дальнемагистральных рейсов превышает выбросы многих железнодорожных перевозок.",
+      "ipa": "sljed",
+      "article": "м"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-12",
+      "l2": "снижение",
+      "en": "reduction",
+      "gloss": {
+        "en": "reduction",
+        "es": "reducción",
+        "ru": "снижение"
+      },
+      "example": "Сокращение выбросов вдвое к 2030 году все еще кажется недостижимым.",
+      "ipa": "snˈiʐjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-13",
+      "l2": "приспособление",
+      "en": "adaptation",
+      "gloss": {
+        "en": "adaptation",
+        "es": "adaptación",
+        "ru": "приспособление"
+      },
+      "example": "Адаптация к волнам жары требует от городов большего количества растительности и лучшей вентиляции.",
+      "ipa": "prisposˈobljenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-14",
+      "l2": "ветряная турбина",
+      "en": "wind turbine",
+      "gloss": {
+        "en": "wind turbine",
+        "es": "turbina eólica",
+        "ru": "ветряная турбина"
+      },
+      "example": "Морские ветряные турбины производят больше энергии, однако они вызывают конфликты при использовании на море.",
+      "ipa": "vjetrjanaja turbˈina",
+      "article": "ж"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-15",
+      "l2": "солнечная панель",
+      "en": "solar panel",
+      "gloss": {
+        "en": "solar panel",
+        "es": "panel solar",
+        "ru": "солнечная панель"
+      },
+      "example": "Стоимость солнечных панелей снизилась, что ускоряет их внедрение.",
+      "ipa": "solnjetɕnajˈa panjelʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-16",
+      "l2": "наводнение",
+      "en": "flood",
+      "gloss": {
+        "en": "flood",
+        "es": "inundación",
+        "ru": "наводнение"
+      },
+      "example": "Наводнение вынудило тысячи семей покинуть район, который, как известно, является уязвимым.",
+      "ipa": "navˈodnjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-17",
+      "l2": "соглашение",
+      "en": "agreement",
+      "gloss": {
+        "en": "agreement",
+        "es": "acuerdo",
+        "ru": "соглашение"
+      },
+      "example": "Парижское соглашение устанавливает рамки, однако его реализация остается неравномерной.",
+      "ipa": "soɡlˈaʂjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-18",
+      "l2": "ископаемое топливо",
+      "en": "fossil fuel",
+      "gloss": {
+        "en": "fossil fuel",
+        "es": "combustible fósil",
+        "ru": "ископаемое топливо"
+      },
+      "example": "Ископаемое топливо остается доминирующим, несмотря на обязательства по поэтапному отказу от него.",
+      "ipa": "iskopajemoje toplˈivo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-19",
+      "l2": "нейтральность",
+      "en": "neutrality (carbon)",
+      "gloss": {
+        "en": "neutrality (carbon)",
+        "es": "neutralidad (carbono)",
+        "ru": "нейтральность (углерод)"
+      },
+      "example": "Углеродная нейтральность в 2050 году потребует усилий, которые пока предприняли лишь немногие страны.",
+      "ipa": "njejtrˈalʲnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-20",
+      "l2": "уязвимость",
+      "en": "vulnerability",
+      "gloss": {
+        "en": "vulnerability",
+        "es": "vulnerabilidad",
+        "ru": "уязвимость"
+      },
+      "example": "Уязвимость береговых линий возрастает по мере повышения уровня моря.",
+      "ipa": "ujazvˈimostʲ",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-klimat-energiya-b2-phrase-1",
+      "l2": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня.",
+      "en": "Emissions would need to fall much faster than they do today.",
+      "gloss": {
+        "en": "Emissions would need to fall much faster than they do today.",
+        "es": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+        "ru": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня."
+      },
+      "ipa": "vɨbrˈosɨ dˈolʐnɨ bˈudut sniʐˈatʲsja ɡorˈazdo bˈɨstrjeje tɕjem sjeɡˈodnja"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-phrase-2",
+      "l2": "Хотя возобновляемые источники энергии добиваются прогресса, ископаемое топливо остается доминирующим.",
+      "en": "Although renewables are advancing, fossil fuel remains dominant.",
+      "gloss": {
+        "en": "Although renewables are advancing, fossil fuel remains dominant.",
+        "es": "Aunque las energías renovables están avanzando, los combustibles fósiles siguen siendo dominantes.",
+        "ru": "Хотя возобновляемые источники энергии развиваются, ископаемое топливо остается доминирующим."
+      },
+      "ipa": "xˈotja vozobnovljˈajemɨje istotɕnˈiki ɛnjerɡˈii dobivajˈutsja prˈoɡrjessa iskopˈajemoje toplˈivo ostˈajetsja dominirujˈuɕːim"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-phrase-3",
+      "l2": "Если бы мы больше озеленяли города, мы бы смягчили последствия волн жары.",
+      "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+      "gloss": {
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "es": "Si plantáramos más vegetación en las ciudades, disminuiríamos el efecto de las olas de calor.",
+        "ru": "Если бы мы посадили больше зелени в городах, мы бы уменьшили воздействие волн жары."
+      },
+      "ipa": "jeslˈi bˈɨ mˈɨ bˈolʲʂje ozjeljenjˈali ɡorˈoda mˈɨ bˈɨ smjaɡtɕˈili posljedstvˈija vˈoln ʐˈarɨ"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-phrase-4",
+      "l2": "Для того чтобы соглашение было заслуживающим доверия, каждое государство должно опубликовать количественную оценку траектории.",
+      "en": "For the agreement to be credible, each state should publish a quantified pathway.",
+      "gloss": {
+        "en": "For the agreement to be credible, each state should publish a quantified pathway.",
+        "es": "Para que el acuerdo sea creíble, cada estado debería publicar una vía cuantificada.",
+        "ru": "Чтобы соглашение было заслуживающим доверия, каждое государство должно опубликовать количественный путь."
+      },
+      "ipa": "dljˈa tˈoɡo tɕtˈobɨ soɡlˈaʂjenije bˈɨlo zasluʐivajˈuɕːim dovjerˈija kˈaʐdoje ɡosudˈarstvo dˈolʐno opublikˈovatʲ kolitɕjestvjennˈuju"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-phrase-5",
+      "l2": "С другой стороны, адаптация не освобождает от быстрого сокращения выбросов.",
+      "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+      "gloss": {
+        "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+        "es": "Por el contrario, la adaptación no elimina la necesidad de una reducción rápida de las emisiones.",
+        "ru": "Напротив, адаптация не устраняет необходимости быстрого сокращения выбросов."
+      },
+      "ipa": "s drˈuɡoj storˈonɨ adaptatsˈija nje osvobˈoʐdajet ˈot bɨstrˈoɡo sokraɕːjenˈija vɨbrˈosov"
+    },
+    {
+      "id": "remote-klimat-energiya-b2-phrase-6",
+      "l2": "Можно возразить, что переходный период изначально оказывает давление на беднейшие домохозяйства.",
+      "en": "One might object that the transition first weighs on the most modest households.",
+      "gloss": {
+        "en": "One might object that the transition first weighs on the most modest households.",
+        "es": "Se podría objetar que la transición pesa primero sobre los hogares más modestos.",
+        "ru": "Можно возразить, что переходный период в первую очередь ляжет бременем на самые скромные домохозяйства."
+      },
+      "ipa": "mˈoʐno vozrˈazitʲ tɕtˈo pjerjexˈodnɨj pjerˈiod iznatɕˈalʲno okazˈɨvajet dˈavljenije nˈa bjednjejʂˈije domoxozjˈajstva"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-klimat-energiya-b2-listen-1",
+      "l2": "Засуха привела к снижению урожайности сельскохозяйственных культур три года подряд.",
+      "en": "The drought has cut agricultural yields for three years running.",
+      "gloss": {
+        "en": "The drought has cut agricultural yields for three years running.",
+        "es": "La sequía ha reducido los rendimientos agrícolas durante tres años consecutivos.",
+        "ru": "Засуха уже три года подряд приводит к снижению урожайности сельскохозяйственных культур."
+      },
+      "word": "засуха",
+      "wordEn": "drought",
+      "wordGloss": {
+        "en": "drought",
+        "es": "sequía",
+        "ru": "засуха"
+      },
+      "wordIpa": "zasˈuxa",
+      "distractors": [
+        "волна тепла",
+        "наводнение",
+        "вырубка лесов"
+      ]
+    },
+    {
+      "id": "remote-klimat-energiya-b2-listen-2",
+      "l2": "Возобновляемые источники энергии занимают все большую долю производства.",
+      "en": "Renewable energy covers a growing share of production.",
+      "gloss": {
+        "en": "Renewable energy covers a growing share of production.",
+        "es": "Las energías renovables cubren una proporción cada vez mayor de la producción.",
+        "ru": "Возобновляемые источники энергии занимают все большую долю производства."
+      },
+      "word": "возобновляемая энергия",
+      "wordEn": "renewable energy",
+      "wordGloss": {
+        "en": "renewable energy",
+        "es": "energía renovable",
+        "ru": "возобновляемая энергия"
+      },
+      "wordIpa": "vozobnovljajemaja ɛnjerɡˈija",
+      "distractors": [
+        "ископаемое топливо",
+        "ветряная турбина",
+        "солнечная панель"
+      ]
+    },
+    {
+      "id": "remote-klimat-energiya-b2-listen-3",
+      "l2": "Парниковые газы накапливаются быстрее, чем естественные поглотители.",
+      "en": "Greenhouse gases are accumulating faster than natural carbon sinks.",
+      "gloss": {
+        "en": "Greenhouse gases are accumulating faster than natural carbon sinks.",
+        "es": "Los gases de efecto invernadero se están acumulando más rápido que los sumideros naturales de carbono.",
+        "ru": "Парниковые газы накапливаются быстрее, чем естественные поглотители углерода."
+      },
+      "word": "парниковый газ",
+      "wordEn": "greenhouse gas",
+      "wordGloss": {
+        "en": "greenhouse gas",
+        "es": "gas de efecto invernadero",
+        "ru": "парниковый газ"
+      },
+      "wordIpa": "parnikovˈɨj ɡaz",
+      "distractors": [
+        "углерод",
+        "выбросы",
+        "след"
+      ]
+    },
+    {
+      "id": "remote-klimat-energiya-b2-listen-4",
+      "l2": "Волна тепла создала нагрузку на национальную электросеть.",
+      "en": "The heatwave put the national electricity grid under strain.",
+      "gloss": {
+        "en": "The heatwave put the national electricity grid under strain.",
+        "es": "La ola de calor puso a prueba la red eléctrica nacional.",
+        "ru": "Волна тепла создала нагрузку на национальную электросеть."
+      },
+      "word": "волна тепла",
+      "wordEn": "heatwave",
+      "wordGloss": {
+        "en": "heatwave",
+        "es": "ola de calor",
+        "ru": "волна тепла"
+      },
+      "wordIpa": "volnˈa tjepla",
+      "distractors": [
+        "приспособление",
+        "нейтральность",
+        "уязвимость"
+      ]
+    }
+  ],
+  "prompts": [
+    "Должен ли энергетический переход идти быстрее, даже если это будет стоить дороже? Оправдывать.",
+    "Сравните сокращение выбросов и адаптацию: почему оба необходимы?",
+    "По вашему мнению, кто должен возглавить усилия по борьбе с изменением климата: государства, бизнес или граждане?",
+    "Если бы вы разрабатывали климатическую политику, какой мере вы бы отдали приоритет и почему?"
+  ],
+  "grammar": [
+    {
+      "id": "remote-klimat-energiya-b2-grammar-1",
+      "title": {
+        "fr": "Instrumental (кем / чем)",
+        "en": "Instrumental case (кем / чем)",
+        "es": "Caso instrumental (кем / чем)",
+        "ru": "Творительный падеж (кем / чем)"
+      },
+      "rule": {
+        "fr": "Творительный marque le moyen, l’accompagnement ou le prédicat (стать врачом).",
+        "en": "Instrumental marks means, company, or predicate nouns (стать врачом).",
+        "es": "El instrumental marca medio, compañía o predicado (стать врачом).",
+        "ru": "Творительный обозначает средство, совместность или предикатив (стать врачом)."
+      },
+      "why": {
+        "en": "Needed for professions, tools, and «with».",
+        "es": "Necesario para profesiones, herramientas y «con».",
+        "ru": "Нужен для профессий, инструментов и значения «с»."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "чем",
+          "средство",
+          "Пишу ручкой / говорю о возобновляемая энергия."
+        ],
+        [
+          "кем",
+          "профессия",
+          "Он стал врачом."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-klimat-energiya-b2-gq-1-1",
+          "prompt": "Стать врачом — ___ падеж.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "родительный",
+            "винительный"
+          ]
+        },
+        {
+          "id": "remote-klimat-energiya-b2-gq-1-2",
+          "prompt": "Я пишу ___ . (карандаш)",
+          "answer": "карандашом",
+          "options": [
+            "карандашом",
+            "карандаш",
+            "карандаша"
+          ]
+        },
+        {
+          "id": "remote-klimat-energiya-b2-gq-1-3",
+          "prompt": "Тема «возобновляемая энергия» часто требует предложных конструкций.",
+          "answer": "творительный",
+          "options": [
+            "творительный",
+            "именительный",
+            "звательный"
+          ]
+        },
+        {
+          "id": "remote-klimat-energiya-b2-gq-1-4",
+          "prompt": "Свяжите с темой: возобновляемая энергия / углерод. Род «возобновляемая энергия»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-klimat-energiya-b2-gq-1-5",
+          "prompt": "Свяжите с темой: возобновляемая энергия / углерод. Род «возобновляемая энергия»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-klimat-energiya-b2-grammar-2",
+      "title": {
+        "fr": "Aspect perfectif / imperfectif",
+        "en": "Perfective / imperfective aspect",
+        "es": "Aspecto perfectivo / imperfectivo",
+        "ru": "Вид глагола: совершенный / несовершенный"
+      },
+      "rule": {
+        "fr": "Imperfectif = processus / habitude ; perfectif = résultat achevé.",
+        "en": "Imperfective = process / habit; perfective = completed result.",
+        "es": "Imperfectivo = proceso / hábito; perfectivo = resultado terminado.",
+        "ru": "Несовершенный — процесс / привычка; совершенный — завершённый результат."
+      },
+      "why": {
+        "en": "Aspect is central to natural Russian storytelling.",
+        "es": "El aspecto es central en la narración rusa natural.",
+        "ru": "Вид — ключ к естественному русскому рассказу."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "НСВ",
+          "процесс / привычка",
+          "Я читал книгу час."
+        ],
+        [
+          "СВ",
+          "результат",
+          "Я прочитал книгу."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-klimat-energiya-b2-gq-2-1",
+          "prompt": "Результат: я ___ книгу. (прочитать)",
+          "answer": "прочитал",
+          "options": [
+            "прочитал",
+            "читал",
+            "буду читать"
+          ]
+        },
+        {
+          "id": "remote-klimat-energiya-b2-gq-2-2",
+          "prompt": "Процесс: я долго ___ . (читать)",
+          "answer": "читал",
+          "options": [
+            "читал",
+            "прочитал",
+            "прочту"
+          ]
+        },
+        {
+          "id": "remote-klimat-energiya-b2-gq-2-3",
+          "prompt": "Привычка обычно выражается ___ видом.",
+          "answer": "несовершенным",
+          "options": [
+            "несовершенным",
+            "совершенным",
+            "будущим"
+          ]
+        },
+        {
+          "id": "remote-klimat-energiya-b2-gq-2-4",
+          "prompt": "Свяжите с темой: засуха / парниковый газ. Род «засуха»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-klimat-energiya-b2-gq-2-5",
+          "prompt": "Свяжите с темой: засуха / парниковый газ. Род «засуха»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-klimat-energiya-b2-dict-1",
+        "l2": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня.",
+        "en": "Emissions would need to fall much faster than they do today.",
+        "gloss": {
+          "en": "Emissions would need to fall much faster than they do today.",
+          "es": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+          "ru": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня."
+        },
+        "ipa": "vɨbrˈosɨ dˈolʐnɨ bˈudut sniʐˈatʲsja ɡorˈazdo bˈɨstrjeje tɕjem sjeɡˈodnja"
+      },
+      {
+        "id": "remote-klimat-energiya-b2-dict-2",
+        "l2": "Хотя возобновляемые источники энергии добиваются прогресса, ископаемое топливо остается доминирующим.",
+        "en": "Although renewables are advancing, fossil fuel remains dominant.",
+        "gloss": {
+          "en": "Although renewables are advancing, fossil fuel remains dominant.",
+          "es": "Aunque las energías renovables están avanzando, los combustibles fósiles siguen siendo dominantes.",
+          "ru": "Хотя возобновляемые источники энергии развиваются, ископаемое топливо остается доминирующим."
+        },
+        "ipa": "xˈotja vozobnovljˈajemɨje istotɕnˈiki ɛnjerɡˈii dobivajˈutsja prˈoɡrjessa iskopˈajemoje toplˈivo ostˈajetsja dominirujˈuɕːim"
+      },
+      {
+        "id": "remote-klimat-energiya-b2-dict-3",
+        "l2": "Если бы мы больше озеленяли города, мы бы смягчили последствия волн жары.",
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "gloss": {
+          "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+          "es": "Si plantáramos más vegetación en las ciudades, disminuiríamos el efecto de las olas de calor.",
+          "ru": "Если бы мы посадили больше зелени в городах, мы бы уменьшили воздействие волн жары."
+        },
+        "ipa": "jeslˈi bˈɨ mˈɨ bˈolʲʂje ozjeljenjˈali ɡorˈoda mˈɨ bˈɨ smjaɡtɕˈili posljedstvˈija vˈoln ʐˈarɨ"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-klimat-energiya-b2-mean-1",
+        "l2": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня.",
+        "en": "Emissions would need to fall much faster than they do today.",
+        "gloss": {
+          "en": "Emissions would need to fall much faster than they do today.",
+          "es": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+          "ru": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня."
+        }
+      },
+      {
+        "id": "remote-klimat-energiya-b2-mean-2",
+        "l2": "Хотя возобновляемые источники энергии добиваются прогресса, ископаемое топливо остается доминирующим.",
+        "en": "Although renewables are advancing, fossil fuel remains dominant.",
+        "gloss": {
+          "en": "Although renewables are advancing, fossil fuel remains dominant.",
+          "es": "Aunque las energías renovables están avanzando, los combustibles fósiles siguen siendo dominantes.",
+          "ru": "Хотя возобновляемые источники энергии развиваются, ископаемое топливо остается доминирующим."
+        }
+      },
+      {
+        "id": "remote-klimat-energiya-b2-mean-3",
+        "l2": "Если бы мы больше озеленяли города, мы бы смягчили последствия волн жары.",
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "gloss": {
+          "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+          "es": "Si plantáramos más vegetación en las ciudades, disminuiríamos el efecto de las olas de calor.",
+          "ru": "Если бы мы посадили больше зелени в городах, мы бы уменьшили воздействие волн жары."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-klimat-energiya-b2-fren-1",
+        "l2": "выбросы",
+        "en": "emission",
+        "gloss": {
+          "en": "emission",
+          "es": "emisión",
+          "ru": "выбросы"
+        }
+      },
+      {
+        "id": "remote-klimat-energiya-b2-fren-2",
+        "l2": "возобновляемая энергия",
+        "en": "renewable energy",
+        "gloss": {
+          "en": "renewable energy",
+          "es": "energía renovable",
+          "ru": "возобновляемая энергия"
+        }
+      },
+      {
+        "id": "remote-klimat-energiya-b2-fren-3",
+        "l2": "засуха",
+        "en": "drought",
+        "gloss": {
+          "en": "drought",
+          "es": "sequía",
+          "ru": "засуха"
+        }
+      },
+      {
+        "id": "remote-klimat-energiya-b2-fren-4",
+        "l2": "климатическая политика",
+        "en": "climate policy",
+        "gloss": {
+          "en": "climate policy",
+          "es": "política climática",
+          "ru": "климатическая политика"
+        }
+      },
+      {
+        "id": "remote-klimat-energiya-b2-fren-5",
+        "l2": "углерод",
+        "en": "carbon",
+        "gloss": {
+          "en": "carbon",
+          "es": "carbón",
+          "ru": "углерод"
+        }
+      },
+      {
+        "id": "remote-klimat-energiya-b2-fren-6",
+        "l2": "парниковый газ",
+        "en": "greenhouse gas",
+        "gloss": {
+          "en": "greenhouse gas",
+          "es": "gas de efecto invernadero",
+          "ru": "парниковый газ"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-klimat-energiya-b2-alou-1",
+        "l2": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня.",
+        "en": "Emissions would need to fall much faster than they do today.",
+        "gloss": {
+          "en": "Emissions would need to fall much faster than they do today.",
+          "es": "Las emisiones tendrían que caer mucho más rápido que hoy.",
+          "ru": "Выбросы должны будут снижаться гораздо быстрее, чем сегодня."
+        },
+        "ipa": "vɨbrˈosɨ dˈolʐnɨ bˈudut sniʐˈatʲsja ɡorˈazdo bˈɨstrjeje tɕjem sjeɡˈodnja"
+      },
+      {
+        "id": "remote-klimat-energiya-b2-alou-2",
+        "l2": "Если бы мы больше озеленяли города, мы бы смягчили последствия волн жары.",
+        "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+        "gloss": {
+          "en": "If we planted more greenery in cities, we would lessen the effect of heatwaves.",
+          "es": "Si plantáramos más vegetación en las ciudades, disminuiríamos el efecto de las olas de calor.",
+          "ru": "Если бы мы посадили больше зелени в городах, мы бы уменьшили воздействие волн жары."
+        },
+        "ipa": "jeslˈi bˈɨ mˈɨ bˈolʲʂje ozjeljenjˈali ɡorˈoda mˈɨ bˈɨ smjaɡtɕˈili posljedstvˈija vˈoln ʐˈarɨ"
+      },
+      {
+        "id": "remote-klimat-energiya-b2-alou-3",
+        "l2": "С другой стороны, адаптация не освобождает от быстрого сокращения выбросов.",
+        "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+        "gloss": {
+          "en": "By contrast, adaptation does not remove the need for a rapid cut in emissions.",
+          "es": "Por el contrario, la adaptación no elimina la necesidad de una reducción rápida de las emisiones.",
+          "ru": "Напротив, адаптация не устраняет необходимости быстрого сокращения выбросов."
+        },
+        "ipa": "s drˈuɡoj storˈonɨ adaptatsˈija nje osvobˈoʐdajet ˈot bɨstrˈoɡo sokraɕːjenˈija vɨbrˈosov"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-klimat-energiya-b2-unsc-1",
+        "l2": "Засуха снижает урожайность сельскохозяйственных культур третий год подряд.",
+        "en": "The drought has reduced agricultural yields for the third consecutive year.",
+        "gloss": {
+          "en": "The drought has reduced agricultural yields for the third consecutive year.",
+          "es": "La sequía ha reducido los rendimientos agrícolas por tercer año consecutivo.",
+          "ru": "Засуха снижает урожайность сельскохозяйственных культур третий год подряд."
+        },
+        "words": [
+          "Засуха",
+          "снижает",
+          "урожайность",
+          "сельскохозяйственных",
+          "культур",
+          "третий",
+          "год",
+          "подряд."
+        ]
+      },
+      {
+        "id": "remote-klimat-energiya-b2-unsc-2",
+        "l2": "Парижское соглашение устанавливает рамки, однако его реализация остается неравномерной.",
+        "en": "The Paris agreement sets a framework; nevertheless its implementation remains uneven.",
+        "gloss": {
+          "en": "The Paris agreement sets a framework; nevertheless its implementation remains uneven.",
+          "es": "El acuerdo de París establece un marco; sin embargo, su implementación sigue siendo desigual.",
+          "ru": "Парижское соглашение устанавливает рамки; тем не менее, его реализация остается неравномерной."
+        },
+        "words": [
+          "Парижское",
+          "соглашение",
+          "устанавливает",
+          "рамки,",
+          "однако",
+          "его",
+          "реализация",
+          "остается",
+          "неравномерной."
+        ]
+      }
+    ],
+    "signs": [
+      {
+        "id": "remote-klimat-energiya-b2-sign-1",
+        "l2": "зона затопления",
+        "en": "flood zone",
+        "gloss": {
+          "en": "flood zone",
+          "es": "zona de inundación",
+          "ru": "зона затопления"
+        },
+        "hint": "водная опасность, низменность"
+      },
+      {
+        "id": "remote-klimat-energiya-b2-sign-2",
+        "l2": "выборочная сортировка",
+        "en": "recycling / sorted waste",
+        "gloss": {
+          "en": "recycling / sorted waste",
+          "es": "reciclaje / residuos clasificados",
+          "ru": "переработка/сортировка отходов"
+        },
+        "hint": "цветные контейнеры, инструкции по сортировке"
+      }
+    ]
+  },
+  "sounds": []
+}

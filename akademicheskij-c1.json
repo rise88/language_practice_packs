@@ -1,0 +1,839 @@
+{
+  "pratiquePack": 2,
+  "id": "akademicheskij-c1",
+  "version": 1,
+  "level": "c1",
+  "lang": "ru",
+  "title": {
+    "fr": "Discours académique C1 (RU)",
+    "en": "Academic discourse C1 (RU)",
+    "es": "Discurso académico C1 (RU)",
+    "ru": "Академический дискурс C1"
+  },
+  "description": {
+    "fr": "Thèse, méthodologie, citation, résumé et relecture par les pairs — pack russe.",
+    "en": "Thesis, methodology, citation, abstract, and peer review — Russian pack.",
+    "es": "Tesis, metodología, citación, resumen y revisión por pares — paquete ruso.",
+    "ru": "Диссертация, методология, цитирование, аннотация и рецензия — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-akademicheskij-c1-1",
+      "l2": "диссертация",
+      "en": "thesis",
+      "gloss": {
+        "en": "thesis",
+        "es": "tesis",
+        "ru": "диссертация"
+      },
+      "example": "Диссертация, объем которой выходит за рамки дисциплинарных рамок, формулирует структуру, с которой сталкивается корпус.",
+      "ipa": "dissjertatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-akademicheskij-c1-2",
+      "l2": "методология",
+      "en": "methodology",
+      "gloss": {
+        "en": "methodology",
+        "es": "metodología",
+        "ru": "методология"
+      },
+      "example": "Методика, далекая от простого технического устройства, определяет обоснованность предлагаемых выводов.",
+      "ipa": "mjetodoloɡˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-akademicheskij-c1-3",
+      "l2": "цитирование",
+      "en": "citation",
+      "gloss": {
+        "en": "citation",
+        "es": "citación",
+        "ru": "цитирование"
+      },
+      "example": "Каждая цитата, хотя и поддерживает аргумент, должна быть перенесена в пресуппозицию цитируемого автора.",
+      "ipa": "tsitirovˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-akademicheskij-c1-4",
+      "l2": "абстрактный",
+      "en": "abstract",
+      "gloss": {
+        "en": "abstract",
+        "es": "abstracto",
+        "ru": "абстрактный"
+      },
+      "example": "Резюме, даже если оно означает схематизацию подхода, тем не менее должно освещать проблему и ее вклад.",
+      "ipa": "abstrˈaktnɨj",
+      "article": "м"
+    },
+    {
+      "id": "remote-akademicheskij-c1-5",
+      "l2": "экспертная оценка",
+      "en": "peer review",
+      "gloss": {
+        "en": "peer review",
+        "es": "revisión por pares",
+        "ru": "экспертная оценка"
+      },
+      "example": "Коллегиальное перечитывание, беспристрастность которого остается хрупким следствием, обусловливает подчинение.",
+      "ipa": "ɛkspjertnaja ˈotsjenka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-akademicheskij-c1-6",
+      "l2": "гипотеза",
+      "en": "hypothesis",
+      "gloss": {
+        "en": "hypothesis",
+        "es": "hipótesis",
+        "ru": "гипотеза"
+      },
+      "example": "Гипотеза, если она не реализована на практике, остается постулатом, эмпирический масштаб которого не определен.",
+      "ipa": "ɡipˈotjeza",
+      "article": "ж"
+    },
+    {
+      "id": "remote-akademicheskij-c1-7",
+      "l2": "проблема исследования",
+      "en": "research problem",
+      "gloss": {
+        "en": "research problem",
+        "es": "problema de investigacion",
+        "ru": "проблема исследования"
+      },
+      "example": "Проблема, переформулированная после перечитывания, переориентирует расследование на проблему, которая была скрыта в первоначальной постановке.",
+      "ipa": "probljema issljedovanˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-akademicheskij-c1-8",
+      "l2": "корпус",
+      "en": "corpus",
+      "gloss": {
+        "en": "corpus",
+        "es": "cuerpo",
+        "ru": "корпус"
+      },
+      "example": "Корпус, состав которого никогда не бывает нейтральным, включает в себя структуру, которая непосредственно направляет интерпретацию.",
+      "ipa": "kˈorpus",
+      "article": "м"
+    },
+    {
+      "id": "remote-akademicheskij-c1-9",
+      "l2": "обрамление",
+      "en": "framing",
+      "gloss": {
+        "en": "framing",
+        "es": "enmarcado",
+        "ru": "обрамление"
+      },
+      "example": "Теоретическое построение не только пассивно предшествует анализу, но и формирует выводы, считающиеся допустимыми.",
+      "ipa": "obrˈamljenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-akademicheskij-c1-10",
+      "l2": "предпосылка",
+      "en": "presupposition",
+      "gloss": {
+        "en": "presupposition",
+        "es": "presuposición",
+        "ru": "предпосылка"
+      },
+      "example": "Эта предпосылка, хотя и остается незамеченной, определяет прочтение корпуса и объем выводов.",
+      "ipa": "prjedposˈɨlka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-akademicheskij-c1-11",
+      "l2": "библиография",
+      "en": "bibliography",
+      "gloss": {
+        "en": "bibliography",
+        "es": "bibliografía",
+        "ru": "библиография"
+      },
+      "example": "Библиография, даже если она кажется исчерпывающей, раскрывает связи, на которые претендует этот аргумент.",
+      "ipa": "biblioɡrafˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-akademicheskij-c1-12",
+      "l2": "постулат",
+      "en": "postulate",
+      "gloss": {
+        "en": "postulate",
+        "es": "postulado",
+        "ru": "постулат"
+      },
+      "example": "Постулат, который никто не пытается подвергнуть сомнению, функционирует как уже признанное достижение системы.",
+      "ipa": "postˈulat",
+      "article": "м"
+    },
+    {
+      "id": "remote-akademicheskij-c1-13",
+      "l2": "следствие",
+      "en": "corollary",
+      "gloss": {
+        "en": "corollary",
+        "es": "corolario",
+        "ru": "следствие"
+      },
+      "example": "Следствием этого подхода является рассмотрение цитаты как вопроса обрамления, а не украшения.",
+      "ipa": "sljedstvˈije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-akademicheskij-c1-14",
+      "l2": "объем",
+      "en": "scope",
+      "gloss": {
+        "en": "scope",
+        "es": "alcance",
+        "ru": "объем"
+      },
+      "example": "Объем результатов, если выборка не увеличена, остается привязанной к выбранному корпусу.",
+      "ipa": "ˈobjem",
+      "article": "м"
+    },
+    {
+      "id": "remote-akademicheskij-c1-15",
+      "l2": "аппарат",
+      "en": "apparatus / setup",
+      "gloss": {
+        "en": "apparatus / setup",
+        "es": "aparato / configuración",
+        "ru": "аппарат/установка"
+      },
+      "example": "Методологическая система, прозрачность которой обусловливает оценку, формулирует гипотезы и протоколы.",
+      "ipa": "appˈarat",
+      "article": "м"
+    },
+    {
+      "id": "remote-akademicheskij-c1-16",
+      "l2": "ставка",
+      "en": "stake / issue",
+      "gloss": {
+        "en": "stake / issue",
+        "es": "estaca / problema",
+        "ru": "ставка/выпуск"
+      },
+      "example": "Вопрос подачи является не только редакционным: он затрагивает доверие ко всему процессу.",
+      "ipa": "stˈavka",
+      "article": "ж"
+    },
+    {
+      "id": "remote-akademicheskij-c1-17",
+      "l2": "подход",
+      "en": "approach",
+      "gloss": {
+        "en": "approach",
+        "es": "acercarse",
+        "ru": "подход"
+      },
+      "example": "Этот подход, далекий от индуктивного от начала до конца, основан на движении вперед и назад от постулата к полю.",
+      "ipa": "pˈodxod",
+      "article": "м"
+    },
+    {
+      "id": "remote-akademicheskij-c1-18",
+      "l2": "вклад",
+      "en": "contribution",
+      "gloss": {
+        "en": "contribution",
+        "es": "contribución",
+        "ru": "вклад"
+      },
+      "example": "Заявленный вклад, хотя и скромный, состоит в том, чтобы вывести проблему за рамки обычных рамок.",
+      "ipa": "vklˈad",
+      "article": "м"
+    },
+    {
+      "id": "remote-akademicheskij-c1-19",
+      "l2": "плагиат",
+      "en": "plagiarism",
+      "gloss": {
+        "en": "plagiarism",
+        "es": "plagio",
+        "ru": "плагиат"
+      },
+      "example": "Плагиат, преднамеренный или возникший в результате плохо контролируемого цитирования, разрушает вклад и целостность текста.",
+      "ipa": "plaɡˈiat",
+      "article": "м"
+    },
+    {
+      "id": "remote-akademicheskij-c1-20",
+      "l2": "подчинение",
+      "en": "submission",
+      "gloss": {
+        "en": "submission",
+        "es": "envío",
+        "ru": "подчинение"
+      },
+      "example": "Подача в журнал, которой предшествует внутренняя оценка, требует, чтобы в реферате были кратко изложены проблемы и ограничения.",
+      "ipa": "podtɕˈinjenije",
+      "article": "ср"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-akademicheskij-c1-phrase-1",
+      "l2": "Хотя методология надежна, объем диссертации остается спорным.",
+      "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+      "gloss": {
+        "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+        "es": "Aunque la metodología es sólida, el alcance de la tesis sigue siendo cuestionado.",
+        "ru": "Несмотря на то, что методология верна, объем диссертации остается спорным."
+      },
+      "ipa": "xˈotja mjetodoloɡˈija nˈadjeʐna ˈobjem dissjertatsˈii ostˈajetsja spˈornɨm"
+    },
+    {
+      "id": "remote-akademicheskij-c1-phrase-2",
+      "l2": "Резюме не только не завершает дискуссию, но и открывает более широкую проблему.",
+      "en": "Far from closing the debate, the abstract opens a broader research problem.",
+      "gloss": {
+        "en": "Far from closing the debate, the abstract opens a broader research problem.",
+        "es": "Lejos de cerrar el debate, el resumen abre un problema de investigación más amplio.",
+        "ru": "Аннотация не только не завершает дискуссию, но и открывает более широкую исследовательскую проблему."
+      },
+      "ipa": "rjezjˈumje nje tˈolʲko nje zˈavjerʂajet diskussˈiju nˈo ˈi otkrˈɨvajet bˈoljeje ʂirokˈuju prˈobljemu"
+    },
+    {
+      "id": "remote-akademicheskij-c1-phrase-3",
+      "l2": "Если корпус не будет расширен, гипотеза останется недоопределенной.",
+      "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+      "gloss": {
+        "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+        "es": "A menos que se amplíe el corpus, la hipótesis seguirá estando indeterminada.",
+        "ru": "Если корпус не будет расширен, гипотеза останется недоопределенной."
+      },
+      "ipa": "jeslˈi kˈorpus nje bˈudjet rˈasʂirjen ɡipˈotjeza ostˈanjetsja njedoˈoprjedjeljennoj"
+    },
+    {
+      "id": "remote-akademicheskij-c1-phrase-4",
+      "l2": "Даже если это означает утяжеление критического аппарата, желательно умножить цитаты.",
+      "en": "Even if it weighs down the critical apparatus, citations should be multiplied.",
+      "gloss": {
+        "en": "Even if it weighs down the critical apparatus, citations should be multiplied.",
+        "es": "Incluso si esto pesa sobre el aparato crítico, las citas deberían multiplicarse.",
+        "ru": "Даже если это отягощает критический аппарат, цитирования следует умножать."
+      },
+      "ipa": "dˈaʐje jeslˈi ˈɛto oznˈatɕajet utjˈaʐjeljenije krititɕjeskˈoɡo apparˈata ʐjelˈatjelʲno umnˈoʐitʲ tsitˈatɨ"
+    },
+    {
+      "id": "remote-akademicheskij-c1-phrase-5",
+      "l2": "Взаимное перечитывание, проблема которого носит эпистемический характер, уточняет структуру.",
+      "en": "Peer review, whose stake is epistemic, refines the framing.",
+      "gloss": {
+        "en": "Peer review, whose stake is epistemic, refines the framing.",
+        "es": "La revisión por pares, cuyo interés es epistémico, refina el marco.",
+        "ru": "Экспертная оценка, чья ставка носит эпистемический характер, уточняет структуру."
+      },
+      "ipa": "vzaˈimnoje pjerjetɕitɨvˈanije prˈobljema kotorˈoɡo nˈosit ɛpistjemˈitɕjeskij xˈaraktjer utˈotɕnjajet struktˈuru"
+    },
+    {
+      "id": "remote-akademicheskij-c1-phrase-6",
+      "l2": "Хотя этот постулат является спорным, его следствие проясняет подход.",
+      "en": "Although the postulate is debatable, its corollary clarifies the approach.",
+      "gloss": {
+        "en": "Although the postulate is debatable, its corollary clarifies the approach.",
+        "es": "Aunque el postulado es discutible, su corolario aclara el enfoque.",
+        "ru": "Хотя этот постулат является спорным, его следствие проясняет подход."
+      },
+      "ipa": "xˈotja ˈɛtot postˈulat javljˈajetsja spˈornɨm jeɡˈo sljedstvˈije projˈasnjajet pˈodxod"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-akademicheskij-c1-listen-1",
+      "l2": "Рецензирование уточняет теоретическую основу диссертации.",
+      "en": "Peer review refines the theoretical framing of the thesis.",
+      "gloss": {
+        "en": "Peer review refines the theoretical framing of the thesis.",
+        "es": "La revisión por pares refina el marco teórico de la tesis.",
+        "ru": "Рецензирование уточняет теоретическую основу диссертации."
+      },
+      "word": "экспертная оценка",
+      "wordEn": "peer review",
+      "wordGloss": {
+        "en": "peer review",
+        "es": "revisión por pares",
+        "ru": "экспертная оценка"
+      },
+      "wordIpa": "ɛkspjertnaja ˈotsjenka",
+      "distractors": [
+        "цитирование",
+        "подчинение",
+        "плагиат"
+      ]
+    },
+    {
+      "id": "remote-akademicheskij-c1-listen-2",
+      "l2": "Гипотеза, если ее не проверить, остается всего лишь постулатом.",
+      "en": "The hypothesis, unless it is tested, remains a mere postulate.",
+      "gloss": {
+        "en": "The hypothesis, unless it is tested, remains a mere postulate.",
+        "es": "La hipótesis, a menos que se ponga a prueba, sigue siendo un mero postulado.",
+        "ru": "Гипотеза, если она не проверена, остается всего лишь постулатом."
+      },
+      "word": "гипотеза",
+      "wordEn": "hypothesis",
+      "wordGloss": {
+        "en": "hypothesis",
+        "es": "hipótesis",
+        "ru": "гипотеза"
+      },
+      "wordIpa": "ɡipˈotjeza",
+      "distractors": [
+        "объем",
+        "корпус",
+        "абстрактный"
+      ]
+    },
+    {
+      "id": "remote-akademicheskij-c1-listen-3",
+      "l2": "В резюме должна быть освещена проблема и основной вклад.",
+      "en": "The abstract must bring out the issue and the main contribution.",
+      "gloss": {
+        "en": "The abstract must bring out the issue and the main contribution.",
+        "es": "El resumen debe resaltar el tema y la contribución principal.",
+        "ru": "Аннотация должна раскрывать проблему и основной вклад."
+      },
+      "word": "абстрактный",
+      "wordEn": "abstract",
+      "wordGloss": {
+        "en": "abstract",
+        "es": "abstracto",
+        "ru": "абстрактный"
+      },
+      "wordIpa": "abstrˈaktnɨj",
+      "distractors": [
+        "аппарат",
+        "библиография",
+        "следствие"
+      ]
+    },
+    {
+      "id": "remote-akademicheskij-c1-listen-4",
+      "l2": "Эта предпосылка, хотя и остается незамеченной, управляет всей интерпретацией.",
+      "en": "This presupposition, even though it goes unnoticed, governs the whole interpretation.",
+      "gloss": {
+        "en": "This presupposition, even though it goes unnoticed, governs the whole interpretation.",
+        "es": "Esta presuposición, aunque pase desapercibida, rige toda la interpretación.",
+        "ru": "Эта предпосылка, хотя и остается незамеченной, управляет всей интерпретацией."
+      },
+      "word": "предпосылка",
+      "wordEn": "presupposition",
+      "wordGloss": {
+        "en": "presupposition",
+        "es": "presuposición",
+        "ru": "предпосылка"
+      },
+      "wordIpa": "prjedposˈɨlka",
+      "distractors": [
+        "плагиат",
+        "подчинение",
+        "цитирование"
+      ]
+    }
+  ],
+  "prompts": [
+    "Уточните идею о том, что диссертация ценна только благодаря своей методологии.",
+    "Уступите точку зрения рецензенту, а затем переформулируйте свою проблему.",
+    "В какой степени теоретическая основа определяет масштаб результатов?",
+    "Повторите в номинальном стиле аргумент о том, что плагиат подорвет любой вклад."
+  ],
+  "grammar": [
+    {
+      "id": "remote-akademicheskij-c1-grammar-1",
+      "title": {
+        "fr": "Nominalisation savante",
+        "en": "Academic nominalization",
+        "es": "Nominalización académica",
+        "ru": "Академическая номинализация"
+      },
+      "rule": {
+        "fr": "Préférez un nom abstrait : рассмотрение вопроса, pas рассматривать вопрос.",
+        "en": "Prefer an abstract noun: рассмотрение вопроса, not рассматривать вопрос.",
+        "es": "Prefiere un sustantivo abstracto: рассмотрение вопроса.",
+        "ru": "Предпочитайте абстрактное существительное: рассмотрение вопроса, а не рассматривать вопрос."
+      },
+      "why": {
+        "en": "Matches formal academic tone.",
+        "es": "Encaja con el tono académico formal.",
+        "ru": "Соответствует формальному академическому тону."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "глагол → имя",
+          "формальный стиль",
+          "наличие методология"
+        ],
+        [
+          "избегать придаточного",
+          "плотность",
+          "отсутствие экспертная оценка"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-akademicheskij-c1-gq-1-1",
+          "prompt": "Предпочтительнее: ___ вопроса. (рассмотреть)",
+          "answer": "рассмотрение",
+          "options": [
+            "рассмотрение",
+            "рассмотреть",
+            "рассмотренный"
+          ]
+        },
+        {
+          "id": "remote-akademicheskij-c1-gq-1-2",
+          "prompt": "Анализ методология — более академично, чем «анализировать».",
+          "answer": "анализ",
+          "options": [
+            "анализ",
+            "анализировать",
+            "аналитик"
+          ]
+        },
+        {
+          "id": "remote-akademicheskij-c1-gq-1-3",
+          "prompt": "Лучше существительное, а не ___ .",
+          "answer": "глагол",
+          "options": [
+            "глагол",
+            "союз",
+            "междометие"
+          ]
+        },
+        {
+          "id": "remote-akademicheskij-c1-gq-1-4",
+          "prompt": "Свяжите с темой: методология / экспертная оценка. Род «методология»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-akademicheskij-c1-gq-1-5",
+          "prompt": "Свяжите с темой: методология / экспертная оценка. Род «методология»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-akademicheskij-c1-grammar-2",
+      "title": {
+        "fr": "Participes et gerundifs",
+        "en": "Participles and verbal adverbs",
+        "es": "Participios y gerundios",
+        "ru": "Причастия и деепричастия"
+      },
+      "rule": {
+        "fr": "Причастие qualifie un nom ; деепричастие ajoute une action secondaire.",
+        "en": "A participle modifies a noun; a verbal adverb adds a secondary action.",
+        "es": "El participio modifica un sustantivo; el gerundio añade una acción secundaria.",
+        "ru": "Причастие определяет существительное; деепричастие добавляет второстепенное действие."
+      },
+      "why": {
+        "en": "Dense written Russian relies on these forms.",
+        "es": "El ruso escrito denso depende de estas formas.",
+        "ru": "Плотный письменный русский опирается на эти формы."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "причастие",
+          "определение",
+          "книга, написанная автором"
+        ],
+        [
+          "деепричастие",
+          "второе действие",
+          "Читая, он делал заметки."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-akademicheskij-c1-gq-2-1",
+          "prompt": "Форма, определяющая существительное — ___ .",
+          "answer": "причастие",
+          "options": [
+            "причастие",
+            "деепричастие",
+            "наречие"
+          ]
+        },
+        {
+          "id": "remote-akademicheskij-c1-gq-2-2",
+          "prompt": "«Читая» в «Читая, он…» — это ___ .",
+          "answer": "деепричастие",
+          "options": [
+            "деепричастие",
+            "причастие",
+            "инфинитив"
+          ]
+        },
+        {
+          "id": "remote-akademicheskij-c1-gq-2-3",
+          "prompt": "В академическом тексте часто нужны ___ .",
+          "answer": "причастия",
+          "options": [
+            "причастия",
+            "междометия",
+            "обращения"
+          ]
+        },
+        {
+          "id": "remote-akademicheskij-c1-gq-2-4",
+          "prompt": "Свяжите с темой: цитирование / гипотеза. Род «цитирование»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "ж",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-akademicheskij-c1-gq-2-5",
+          "prompt": "Свяжите с темой: цитирование / гипотеза. Род «цитирование»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "ж",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-akademicheskij-c1-dict-1",
+        "l2": "Хотя методология надежна, объем диссертации остается спорным.",
+        "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+        "gloss": {
+          "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+          "es": "Aunque la metodología es sólida, el alcance de la tesis sigue siendo cuestionado.",
+          "ru": "Несмотря на то, что методология верна, объем диссертации остается спорным."
+        },
+        "ipa": "xˈotja mjetodoloɡˈija nˈadjeʐna ˈobjem dissjertatsˈii ostˈajetsja spˈornɨm"
+      },
+      {
+        "id": "remote-akademicheskij-c1-dict-2",
+        "l2": "Резюме не только не завершает дискуссию, но и открывает более широкую проблему.",
+        "en": "Far from closing the debate, the abstract opens a broader research problem.",
+        "gloss": {
+          "en": "Far from closing the debate, the abstract opens a broader research problem.",
+          "es": "Lejos de cerrar el debate, el resumen abre un problema de investigación más amplio.",
+          "ru": "Аннотация не только не завершает дискуссию, но и открывает более широкую исследовательскую проблему."
+        },
+        "ipa": "rjezjˈumje nje tˈolʲko nje zˈavjerʂajet diskussˈiju nˈo ˈi otkrˈɨvajet bˈoljeje ʂirokˈuju prˈobljemu"
+      },
+      {
+        "id": "remote-akademicheskij-c1-dict-3",
+        "l2": "Если корпус не будет расширен, гипотеза останется недоопределенной.",
+        "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+        "gloss": {
+          "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+          "es": "A menos que se amplíe el corpus, la hipótesis seguirá estando indeterminada.",
+          "ru": "Если корпус не будет расширен, гипотеза останется недоопределенной."
+        },
+        "ipa": "jeslˈi kˈorpus nje bˈudjet rˈasʂirjen ɡipˈotjeza ostˈanjetsja njedoˈoprjedjeljennoj"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-akademicheskij-c1-mean-1",
+        "l2": "Хотя методология надежна, объем диссертации остается спорным.",
+        "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+        "gloss": {
+          "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+          "es": "Aunque la metodología es sólida, el alcance de la tesis sigue siendo cuestionado.",
+          "ru": "Несмотря на то, что методология верна, объем диссертации остается спорным."
+        }
+      },
+      {
+        "id": "remote-akademicheskij-c1-mean-2",
+        "l2": "Резюме не только не завершает дискуссию, но и открывает более широкую проблему.",
+        "en": "Far from closing the debate, the abstract opens a broader research problem.",
+        "gloss": {
+          "en": "Far from closing the debate, the abstract opens a broader research problem.",
+          "es": "Lejos de cerrar el debate, el resumen abre un problema de investigación más amplio.",
+          "ru": "Аннотация не только не завершает дискуссию, но и открывает более широкую исследовательскую проблему."
+        }
+      },
+      {
+        "id": "remote-akademicheskij-c1-mean-3",
+        "l2": "Если корпус не будет расширен, гипотеза останется недоопределенной.",
+        "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+        "gloss": {
+          "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+          "es": "A menos que se amplíe el corpus, la hipótesis seguirá estando indeterminada.",
+          "ru": "Если корпус не будет расширен, гипотеза останется недоопределенной."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-akademicheskij-c1-fren-1",
+        "l2": "диссертация",
+        "en": "thesis",
+        "gloss": {
+          "en": "thesis",
+          "es": "tesis",
+          "ru": "диссертация"
+        }
+      },
+      {
+        "id": "remote-akademicheskij-c1-fren-2",
+        "l2": "методология",
+        "en": "methodology",
+        "gloss": {
+          "en": "methodology",
+          "es": "metodología",
+          "ru": "методология"
+        }
+      },
+      {
+        "id": "remote-akademicheskij-c1-fren-3",
+        "l2": "цитирование",
+        "en": "citation",
+        "gloss": {
+          "en": "citation",
+          "es": "citación",
+          "ru": "цитирование"
+        }
+      },
+      {
+        "id": "remote-akademicheskij-c1-fren-4",
+        "l2": "абстрактный",
+        "en": "abstract",
+        "gloss": {
+          "en": "abstract",
+          "es": "abstracto",
+          "ru": "абстрактный"
+        }
+      },
+      {
+        "id": "remote-akademicheskij-c1-fren-5",
+        "l2": "экспертная оценка",
+        "en": "peer review",
+        "gloss": {
+          "en": "peer review",
+          "es": "revisión por pares",
+          "ru": "экспертная оценка"
+        }
+      },
+      {
+        "id": "remote-akademicheskij-c1-fren-6",
+        "l2": "гипотеза",
+        "en": "hypothesis",
+        "gloss": {
+          "en": "hypothesis",
+          "es": "hipótesis",
+          "ru": "гипотеза"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-akademicheskij-c1-alou-1",
+        "l2": "Хотя методология надежна, объем диссертации остается спорным.",
+        "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+        "gloss": {
+          "en": "Even though the methodology is sound, the thesis’s scope remains contested.",
+          "es": "Aunque la metodología es sólida, el alcance de la tesis sigue siendo cuestionado.",
+          "ru": "Несмотря на то, что методология верна, объем диссертации остается спорным."
+        },
+        "ipa": "xˈotja mjetodoloɡˈija nˈadjeʐna ˈobjem dissjertatsˈii ostˈajetsja spˈornɨm"
+      },
+      {
+        "id": "remote-akademicheskij-c1-alou-2",
+        "l2": "Если корпус не будет расширен, гипотеза останется недоопределенной.",
+        "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+        "gloss": {
+          "en": "Unless the corpus is expanded, the hypothesis will remain underdetermined.",
+          "es": "A menos que se amplíe el corpus, la hipótesis seguirá estando indeterminada.",
+          "ru": "Если корпус не будет расширен, гипотеза останется недоопределенной."
+        },
+        "ipa": "jeslˈi kˈorpus nje bˈudjet rˈasʂirjen ɡipˈotjeza ostˈanjetsja njedoˈoprjedjeljennoj"
+      },
+      {
+        "id": "remote-akademicheskij-c1-alou-3",
+        "l2": "Взаимное перечитывание, проблема которого носит эпистемический характер, уточняет структуру.",
+        "en": "Peer review, whose stake is epistemic, refines the framing.",
+        "gloss": {
+          "en": "Peer review, whose stake is epistemic, refines the framing.",
+          "es": "La revisión por pares, cuyo interés es epistémico, refina el marco.",
+          "ru": "Экспертная оценка, чья ставка носит эпистемический характер, уточняет структуру."
+        },
+        "ipa": "vzaˈimnoje pjerjetɕitɨvˈanije prˈobljema kotorˈoɡo nˈosit ɛpistjemˈitɕjeskij xˈaraktjer utˈotɕnjajet struktˈuru"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-akademicheskij-c1-unsc-1",
+        "l2": "Хотя рамки сомнительны, масштабы остаются реальными.",
+        "en": "Even though the framing is debatable, the scope remains real.",
+        "gloss": {
+          "en": "Even though the framing is debatable, the scope remains real.",
+          "es": "Aunque el marco es discutible, el alcance sigue siendo real.",
+          "ru": "Несмотря на то, что рамки спорны, масштабы остаются реальными."
+        },
+        "words": [
+          "Хотя",
+          "рамки",
+          "сомнительны,",
+          "масштабы",
+          "остаются",
+          "реальными."
+        ]
+      },
+      {
+        "id": "remote-akademicheskij-c1-unsc-2",
+        "l2": "Этот тезис не только не завершает дискуссию, но и открывает проблему.",
+        "en": "Far from closing the debate, this thesis opens a research problem.",
+        "gloss": {
+          "en": "Far from closing the debate, this thesis opens a research problem.",
+          "es": "Lejos de cerrar el debate, esta tesis abre un problema de investigación.",
+          "ru": "Этот тезис не только не завершает дискуссию, но и открывает исследовательскую проблему."
+        },
+        "words": [
+          "Этот",
+          "тезис",
+          "не",
+          "только",
+          "не",
+          "завершает",
+          "дискуссию,",
+          "но",
+          "и",
+          "открывает",
+          "проблему."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}

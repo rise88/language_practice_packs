@@ -1,0 +1,843 @@
+{
+  "pratiquePack": 2,
+  "id": "obshchestvo-c1",
+  "version": 1,
+  "level": "c1",
+  "lang": "ru",
+  "title": {
+    "fr": "Enjeux sociaux C1 (RU)",
+    "en": "Social issues C1 (RU)",
+    "es": "Cuestiones sociales C1 (RU)",
+    "ru": "Социальные вопросы C1"
+  },
+  "description": {
+    "fr": "Inégalités, inclusion, polarisation, État-providence et stigmates — pack russe.",
+    "en": "Inequality, inclusion, polarization, welfare, and stigma — Russian pack.",
+    "es": "Desigualdad, inclusión, polarización, bienestar y estigma — paquete ruso.",
+    "ru": "Неравенство, инклюзивность, поляризация, благосостояние и стигма — русский пакет."
+  },
+  "seed": [
+    {
+      "id": "remote-obshchestvo-c1-1",
+      "l2": "неравенство",
+      "en": "inequality",
+      "gloss": {
+        "en": "inequality",
+        "es": "desigualdad",
+        "ru": "неравенство"
+      },
+      "example": "Неравенство, которое слишком часто измеряется только доходом, проявляется в доступе к жилью, здравоохранению и языку.",
+      "ipa": "njerˈavjenstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-obshchestvo-c1-2",
+      "l2": "включение",
+      "en": "inclusion",
+      "gloss": {
+        "en": "inclusion",
+        "es": "inclusión",
+        "ru": "включение"
+      },
+      "example": "Инклюзивность – это далеко не управленческий лозунг, а необходимость трансформации систем, порождающих изоляцию.",
+      "ipa": "vkljˈutɕjenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-obshchestvo-c1-3",
+      "l2": "поляризация",
+      "en": "polarization",
+      "gloss": {
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
+      },
+      "example": "Поляризация, хотя и усиливается платформами, коренится в разломах, которые общественные дебаты больше не проясняют.",
+      "ipa": "poljarizatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-obshchestvo-c1-4",
+      "l2": "государство всеобщего благосостояния",
+      "en": "welfare state",
+      "gloss": {
+        "en": "welfare state",
+        "es": "estado de bienestar",
+        "ru": "государство всеобщего благосостояния"
+      },
+      "example": "Государство всеобщего благосостояния, даже если его обвиняют в клиентелизме, остается основным рычагом перераспределения социальных рисков.",
+      "ipa": "ɡosudarstvo vsjeobɕːjeɡo blaɡosostojanˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-obshchestvo-c1-5",
+      "l2": "клеймо",
+      "en": "stigma",
+      "gloss": {
+        "en": "stigma",
+        "es": "estigma",
+        "ru": "клеймо"
+      },
+      "example": "Стигма, если она не названа таковой, продолжает указывать траектории, которые не исправляет никакая меритократия.",
+      "ipa": "kljejmˈo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-obshchestvo-c1-6",
+      "l2": "ненадежность",
+      "en": "precariousness",
+      "gloss": {
+        "en": "precariousness",
+        "es": "precariedad",
+        "ru": "ненадежность"
+      },
+      "example": "Неустойчивость, следствием которой является невозможность проецировать себя, подрывает гражданство так же, как и доход.",
+      "ipa": "njenˈadjeʐnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-obshchestvo-c1-7",
+      "l2": "дискриминация",
+      "en": "discrimination",
+      "gloss": {
+        "en": "discrimination",
+        "es": "discriminación",
+        "ru": "дискриминация"
+      },
+      "example": "Дискриминация, далеко не всегда преднамеренная, осуществляется посредством явно нейтральных критериев, действие которых носит избирательный характер.",
+      "ipa": "diskriminatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-obshchestvo-c1-8",
+      "l2": "сплоченность",
+      "en": "cohesion",
+      "gloss": {
+        "en": "cohesion",
+        "es": "cohesión",
+        "ru": "сплоченность"
+      },
+      "example": "Социальная сплоченность, хотя и призвана противостоять поляризации, не может быть использована для подавления структурного неравенства.",
+      "ipa": "splˈotɕjennostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-obshchestvo-c1-9",
+      "l2": "маргинализация",
+      "en": "marginalization",
+      "gloss": {
+        "en": "marginalization",
+        "es": "marginalización",
+        "ru": "маргинализация"
+      },
+      "example": "Маргинализацию, даже если она означает прикрытие себя риторической инклюзивностью, можно увидеть в неравном доступе к услугам и публичным выступлениям.",
+      "ipa": "marɡinalizatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-obshchestvo-c1-10",
+      "l2": "меритократия",
+      "en": "meritocracy",
+      "gloss": {
+        "en": "meritocracy",
+        "es": "meritocracia",
+        "ru": "меритократия"
+      },
+      "example": "Меритократия, если не подвергать сомнению отправные точки, превращает унаследованное неравенство в индивидуальную добродетель.",
+      "ipa": "mjeritokratˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-obshchestvo-c1-11",
+      "l2": "сегрегация",
+      "en": "segregation",
+      "gloss": {
+        "en": "segregation",
+        "es": "segregación",
+        "ru": "сегрегация"
+      },
+      "example": "Городская сегрегация, чье демонстрируемое разнообразие скрывает границы, порождает водонепроницаемые школы и сети.",
+      "ipa": "sjeɡrjeɡatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-obshchestvo-c1-12",
+      "l2": "солидарность",
+      "en": "solidarity",
+      "gloss": {
+        "en": "solidarity",
+        "es": "solidaridad",
+        "ru": "солидарность"
+      },
+      "example": "Солидарность, далекая от чувства, представляет собой систему объединения, которую институционализирует государство всеобщего благосостояния.",
+      "ipa": "solidˈarnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-obshchestvo-c1-13",
+      "l2": "разделять",
+      "en": "divide",
+      "gloss": {
+        "en": "divide",
+        "es": "dividir",
+        "ru": "разделять"
+      },
+      "example": "Цифровой разрыв, даже если он представлен как технический, усиливает образовательное и территориальное неравенство.",
+      "ipa": "rˈazdjeljatʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-obshchestvo-c1-14",
+      "l2": "расширение прав и возможностей",
+      "en": "empowerment",
+      "gloss": {
+        "en": "empowerment",
+        "es": "empoderamiento",
+        "ru": "расширение прав и возможностей"
+      },
+      "example": "Расширение прав и возможностей, даже если оно означает расширение прав и возможностей наиболее уязвимых слоев населения, не освобождает от перераспределения ресурсов.",
+      "ipa": "rasʂirjenije prav i vozmˈoʐnostjej",
+      "article": "м"
+    },
+    {
+      "id": "remote-obshchestvo-c1-15",
+      "l2": "интерсекциональность",
+      "en": "intersectionality",
+      "gloss": {
+        "en": "intersectionality",
+        "es": "interseccionalidad",
+        "ru": "интерсекциональность"
+      },
+      "example": "Интерсекциональность, если только она не сведена к добавлению стигм, описывает пересекающиеся механизмы дискриминации.",
+      "ipa": "intjersjektsionˈalʲnostʲ",
+      "article": "м"
+    },
+    {
+      "id": "remote-obshchestvo-c1-16",
+      "l2": "перераспределение",
+      "en": "redistribution",
+      "gloss": {
+        "en": "redistribution",
+        "es": "redistribución",
+        "ru": "перераспределение"
+      },
+      "example": "Перераспределение, эффективность которого зависит от системы налогообложения, остается спорным следствием любой политики равенства.",
+      "ipa": "pjerjerˈasprjedjeljenije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-obshchestvo-c1-17",
+      "l2": "гражданство",
+      "en": "citizenship",
+      "gloss": {
+        "en": "citizenship",
+        "es": "ciudadanía",
+        "ru": "гражданство"
+      },
+      "example": "Гражданство далеко не ограничивается правом голоса, оно предполагает материальные условия, которые разрушает нестабильность.",
+      "ipa": "ɡraʐdˈanstvo",
+      "article": "ср"
+    },
+    {
+      "id": "remote-obshchestvo-c1-18",
+      "l2": "приписывание",
+      "en": "ascription / labeling",
+      "gloss": {
+        "en": "ascription / labeling",
+        "es": "adscripción / etiquetado",
+        "ru": "приписывание/маркировка"
+      },
+      "example": "Присвоение идентичности, хотя оно и может вызвать борьбу, рискует заморозить траектории, которые должна открыть инклюзия.",
+      "ipa": "pripisɨvˈanije",
+      "article": "ср"
+    },
+    {
+      "id": "remote-obshchestvo-c1-19",
+      "l2": "геттоизация",
+      "en": "ghettoization",
+      "gloss": {
+        "en": "ghettoization",
+        "es": "guetización",
+        "ru": "геттоизация"
+      },
+      "example": "Геттоизацию, даже если ее отрицают совокупные показатели, можно увидеть в сегрегации в школах и по месту жительства.",
+      "ipa": "ɡjettoizatsˈija",
+      "article": "ж"
+    },
+    {
+      "id": "remote-obshchestvo-c1-20",
+      "l2": "социальный микс",
+      "en": "social mix",
+      "gloss": {
+        "en": "social mix",
+        "es": "mezcla social",
+        "ru": "социальный микс"
+      },
+      "example": "Разнообразие, если оно не сопровождается средствами, может быть лишь лозунгом, оставляющим нетронутыми стигмы повседневной жизни.",
+      "ipa": "sotsialʲnˈɨj miks",
+      "article": "м"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "remote-obshchestvo-c1-phrase-1",
+      "l2": "Несмотря на то, что разнообразие проявляется, школьная сегрегация остается массовой.",
+      "en": "Even though social mix is advertised, school segregation remains massive.",
+      "gloss": {
+        "en": "Even though social mix is advertised, school segregation remains massive.",
+        "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+        "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+      },
+      "ipa": "njesmˈotrja nˈa tˈo tɕtˈo raznoobrˈazije projavljˈajetsja ʂkolʲnˈaja sjeɡrjeɡatsˈija ostˈajetsja massˈovoj"
+    },
+    {
+      "id": "remote-obshchestvo-c1-phrase-2",
+      "l2": "Инклюзивность — это вовсе не лозунг, а требует трансформации систем исключения.",
+      "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+      "gloss": {
+        "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+        "es": "Lejos de ser un eslogan, la inclusión requiere transformar los mecanismos de exclusión.",
+        "ru": "Инклюзия – это не лозунг, а требует трансформации механизмов исключения."
+      },
+      "ipa": "inkljuzˈivnostʲ ˈɛto vˈovsje nje lˈozunɡ ˈa trjebˈujet transformatsˈii sˈistjem iskljutɕjenˈija"
+    },
+    {
+      "id": "remote-obshchestvo-c1-phrase-3",
+      "l2": "Пока эта стигма не будет названа, никакая меритократия не исправит траектории.",
+      "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+      "gloss": {
+        "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+        "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+        "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
+      },
+      "ipa": "pˈoka ˈɛta stˈiɡma nje bˈudjet nazvˈana nikakˈaja mjeritokratˈija nje isprˈavit trajektorˈii"
+    },
+    {
+      "id": "remote-obshchestvo-c1-phrase-4",
+      "l2": "Даже если это означает поляризацию дебатов, следует сказать, что нестабильность разрушает гражданство.",
+      "en": "Even at the cost of polarizing the debate, one must say that precariousness erodes citizenship.",
+      "gloss": {
+        "en": "Even at the cost of polarizing the debate, one must say that precariousness erodes citizenship.",
+        "es": "Incluso a costa de polarizar el debate, hay que decir que la precariedad erosiona la ciudadanía.",
+        "ru": "Даже ценой поляризации дебатов следует сказать, что нестабильность разрушает гражданство."
+      },
+      "ipa": "dˈaʐje jeslˈi ˈɛto oznˈatɕajet poljarizatsˈiju djebˈatov sljedˈujet skˈazatʲ tɕtˈo njestabˈilʲnostʲ razrˈuʂajet ɡraʐdˈanstvo"
+    },
+    {
+      "id": "remote-obshchestvo-c1-phrase-5",
+      "l2": "Именно перераспределение, а не предписание расширения прав и возможностей сокращает неравенство.",
+      "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
+      "gloss": {
+        "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
+        "es": "Es la redistribución, no el mandato de empoderarse, lo que reduce la desigualdad.",
+        "ru": "Именно перераспределение, а не предписание расширять свои возможности, уменьшает неравенство."
+      },
+      "ipa": "ˈimjenno pjerjerˈasprjedjeljenije ˈa nje prjedpisˈanije rasʂirjenˈija prˈav ˈi vozmˈoʐnostjej sokrˈaɕːajet njerˈavjenstvo"
+    },
+    {
+      "id": "remote-obshchestvo-c1-phrase-6",
+      "l2": "Поляризация, которую мы делаем злом по отношению к платформам, коренится в старых разломах.",
+      "en": "Polarization, blamed on platforms, is rooted in older divides.",
+      "gloss": {
+        "en": "Polarization, blamed on platforms, is rooted in older divides.",
+        "es": "La polarización, atribuida a las plataformas, tiene sus raíces en divisiones más antiguas.",
+        "ru": "Поляризация, в которой обвиняют платформы, коренится в старых разногласиях."
+      },
+      "ipa": "poljarizatsˈija kotorˈuju mˈɨ djelˈajem zlˈom pˈo otnoʂjenˈiju k platfˈormam korjenˈitsja v stˈarɨx"
+    }
+  ],
+  "listen": [
+    {
+      "id": "remote-obshchestvo-c1-listen-1",
+      "l2": "Государство всеобщего благосостояния остается основным рычагом перераспределения социальных рисков.",
+      "en": "The welfare state remains the main lever for redistributing social risks.",
+      "gloss": {
+        "en": "The welfare state remains the main lever for redistributing social risks.",
+        "es": "El Estado de bienestar sigue siendo la principal palanca para redistribuir los riesgos sociales.",
+        "ru": "Государство всеобщего благосостояния остается основным рычагом перераспределения социальных рисков."
+      },
+      "word": "государство всеобщего благосостояния",
+      "wordEn": "welfare state",
+      "wordGloss": {
+        "en": "welfare state",
+        "es": "estado de bienestar",
+        "ru": "государство всеобщего благосостояния"
+      },
+      "wordIpa": "ɡosudarstvo vsjeobɕːjeɡo blaɡosostojanˈija",
+      "distractors": [
+        "социальный микс",
+        "сплоченность",
+        "разделять"
+      ]
+    },
+    {
+      "id": "remote-obshchestvo-c1-listen-2",
+      "l2": "Стигма продолжает определять траектории, которые не исправляет никакая меритократия.",
+      "en": "Stigma continues to assign trajectories that no meritocracy corrects.",
+      "gloss": {
+        "en": "Stigma continues to assign trajectories that no meritocracy corrects.",
+        "es": "El estigma sigue asignando trayectorias que ninguna meritocracia corrige.",
+        "ru": "Стигма продолжает определять траектории, которые не исправляет никакая меритократия."
+      },
+      "word": "клеймо",
+      "wordEn": "stigma",
+      "wordGloss": {
+        "en": "stigma",
+        "es": "estigma",
+        "ru": "клеймо"
+      },
+      "wordIpa": "kljejmˈo",
+      "distractors": [
+        "солидарность",
+        "гражданство",
+        "включение"
+      ]
+    },
+    {
+      "id": "remote-obshchestvo-c1-listen-3",
+      "l2": "Поляризация коренится в разломах, которые общественные дебаты больше не проясняют.",
+      "en": "Polarization is rooted in divides that public debate no longer clarifies.",
+      "gloss": {
+        "en": "Polarization is rooted in divides that public debate no longer clarifies.",
+        "es": "La polarización tiene sus raíces en divisiones que el debate público ya no aclara.",
+        "ru": "Поляризация коренится в разногласиях, которые общественные дебаты больше не проясняют."
+      },
+      "word": "поляризация",
+      "wordEn": "polarization",
+      "wordGloss": {
+        "en": "polarization",
+        "es": "polarización",
+        "ru": "поляризация"
+      },
+      "wordIpa": "poljarizatsˈija",
+      "distractors": [
+        "геттоизация",
+        "приписывание",
+        "маргинализация"
+      ]
+    },
+    {
+      "id": "remote-obshchestvo-c1-listen-4",
+      "l2": "Дискриминация осуществляется посредством явно нейтральных критериев, действие которых носит избирательный характер.",
+      "en": "Discrimination operates through apparently neutral criteria whose effect is selective.",
+      "gloss": {
+        "en": "Discrimination operates through apparently neutral criteria whose effect is selective.",
+        "es": "La discriminación opera mediante criterios aparentemente neutrales cuyo efecto es selectivo.",
+        "ru": "Дискриминация осуществляется посредством явно нейтральных критериев, действие которых носит избирательный характер."
+      },
+      "word": "дискриминация",
+      "wordEn": "discrimination",
+      "wordGloss": {
+        "en": "discrimination",
+        "es": "discriminación",
+        "ru": "дискриминация"
+      },
+      "wordIpa": "diskriminatsˈija",
+      "distractors": [
+        "неравенство",
+        "ненадежность",
+        "сегрегация"
+      ]
+    }
+  ],
+  "prompts": [
+    "Уточните идею о том, что меритократии достаточно, чтобы исправить неравенство.",
+    "Признайте риск поляризации, а затем переформулируйте требование перераспределения.",
+    "В какой степени инклюзивность может быть просто лозунгом, если стигма сохраняется?",
+    "Еще раз сформулируйте аргумент о том, что государство всеобщего благосостояния подрывает расширение прав и возможностей."
+  ],
+  "grammar": [
+    {
+      "id": "remote-obshchestvo-c1-grammar-1",
+      "title": {
+        "fr": "Nominalisation savante",
+        "en": "Academic nominalization",
+        "es": "Nominalización académica",
+        "ru": "Академическая номинализация"
+      },
+      "rule": {
+        "fr": "Préférez un nom abstrait : рассмотрение вопроса, pas рассматривать вопрос.",
+        "en": "Prefer an abstract noun: рассмотрение вопроса, not рассматривать вопрос.",
+        "es": "Prefiere un sustantivo abstracto: рассмотрение вопроса.",
+        "ru": "Предпочитайте абстрактное существительное: рассмотрение вопроса, а не рассматривать вопрос."
+      },
+      "why": {
+        "en": "Matches formal academic tone.",
+        "es": "Encaja con el tono académico formal.",
+        "ru": "Соответствует формальному академическому тону."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "глагол → имя",
+          "формальный стиль",
+          "наличие включение"
+        ],
+        [
+          "избегать придаточного",
+          "плотность",
+          "отсутствие клеймо"
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-obshchestvo-c1-gq-1-1",
+          "prompt": "Предпочтительнее: ___ вопроса. (рассмотреть)",
+          "answer": "рассмотрение",
+          "options": [
+            "рассмотрение",
+            "рассмотреть",
+            "рассмотренный"
+          ]
+        },
+        {
+          "id": "remote-obshchestvo-c1-gq-1-2",
+          "prompt": "Анализ включение — более академично, чем «анализировать».",
+          "answer": "анализ",
+          "options": [
+            "анализ",
+            "анализировать",
+            "аналитик"
+          ]
+        },
+        {
+          "id": "remote-obshchestvo-c1-gq-1-3",
+          "prompt": "Лучше существительное, а не ___ .",
+          "answer": "глагол",
+          "options": [
+            "глагол",
+            "союз",
+            "междометие"
+          ]
+        },
+        {
+          "id": "remote-obshchestvo-c1-gq-1-4",
+          "prompt": "Свяжите с темой: включение / клеймо. Род «включение»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-obshchestvo-c1-gq-1-5",
+          "prompt": "Свяжите с темой: включение / клеймо. Род «включение»?",
+          "answer": "ср",
+          "options": [
+            "ср",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "remote-obshchestvo-c1-grammar-2",
+      "title": {
+        "fr": "Participes et gerundifs",
+        "en": "Participles and verbal adverbs",
+        "es": "Participios y gerundios",
+        "ru": "Причастия и деепричастия"
+      },
+      "rule": {
+        "fr": "Причастие qualifie un nom ; деепричастие ajoute une action secondaire.",
+        "en": "A participle modifies a noun; a verbal adverb adds a secondary action.",
+        "es": "El participio modifica un sustantivo; el gerundio añade una acción secundaria.",
+        "ru": "Причастие определяет существительное; деепричастие добавляет второстепенное действие."
+      },
+      "why": {
+        "en": "Dense written Russian relies on these forms.",
+        "es": "El ruso escrito denso depende de estas formas.",
+        "ru": "Плотный письменный русский опирается на эти формы."
+      },
+      "table": [
+        [
+          "Форма",
+          "Употребление",
+          "Пример"
+        ],
+        [
+          "причастие",
+          "определение",
+          "книга, написанная автором"
+        ],
+        [
+          "деепричастие",
+          "второе действие",
+          "Читая, он делал заметки."
+        ]
+      ],
+      "questions": [
+        {
+          "id": "remote-obshchestvo-c1-gq-2-1",
+          "prompt": "Форма, определяющая существительное — ___ .",
+          "answer": "причастие",
+          "options": [
+            "причастие",
+            "деепричастие",
+            "наречие"
+          ]
+        },
+        {
+          "id": "remote-obshchestvo-c1-gq-2-2",
+          "prompt": "«Читая» в «Читая, он…» — это ___ .",
+          "answer": "деепричастие",
+          "options": [
+            "деепричастие",
+            "причастие",
+            "инфинитив"
+          ]
+        },
+        {
+          "id": "remote-obshchestvo-c1-gq-2-3",
+          "prompt": "В академическом тексте часто нужны ___ .",
+          "answer": "причастия",
+          "options": [
+            "причастия",
+            "междометия",
+            "обращения"
+          ]
+        },
+        {
+          "id": "remote-obshchestvo-c1-gq-2-4",
+          "prompt": "Свяжите с темой: поляризация / ненадежность. Род «поляризация»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        },
+        {
+          "id": "remote-obshchestvo-c1-gq-2-5",
+          "prompt": "Свяжите с темой: поляризация / ненадежность. Род «поляризация»?",
+          "answer": "ж",
+          "options": [
+            "ж",
+            "м",
+            "ср"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "dictation": [
+      {
+        "id": "remote-obshchestvo-c1-dict-1",
+        "l2": "Несмотря на то, что разнообразие проявляется, школьная сегрегация остается массовой.",
+        "en": "Even though social mix is advertised, school segregation remains massive.",
+        "gloss": {
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+        },
+        "ipa": "njesmˈotrja nˈa tˈo tɕtˈo raznoobrˈazije projavljˈajetsja ʂkolʲnˈaja sjeɡrjeɡatsˈija ostˈajetsja massˈovoj"
+      },
+      {
+        "id": "remote-obshchestvo-c1-dict-2",
+        "l2": "Инклюзивность — это вовсе не лозунг, а требует трансформации систем исключения.",
+        "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+        "gloss": {
+          "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+          "es": "Lejos de ser un eslogan, la inclusión requiere transformar los mecanismos de exclusión.",
+          "ru": "Инклюзия – это не лозунг, а требует трансформации механизмов исключения."
+        },
+        "ipa": "inkljuzˈivnostʲ ˈɛto vˈovsje nje lˈozunɡ ˈa trjebˈujet transformatsˈii sˈistjem iskljutɕjenˈija"
+      },
+      {
+        "id": "remote-obshchestvo-c1-dict-3",
+        "l2": "Пока эта стигма не будет названа, никакая меритократия не исправит траектории.",
+        "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+        "gloss": {
+          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+          "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+          "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
+        },
+        "ipa": "pˈoka ˈɛta stˈiɡma nje bˈudjet nazvˈana nikakˈaja mjeritokratˈija nje isprˈavit trajektorˈii"
+      }
+    ],
+    "meaning": [
+      {
+        "id": "remote-obshchestvo-c1-mean-1",
+        "l2": "Несмотря на то, что разнообразие проявляется, школьная сегрегация остается массовой.",
+        "en": "Even though social mix is advertised, school segregation remains massive.",
+        "gloss": {
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+        }
+      },
+      {
+        "id": "remote-obshchestvo-c1-mean-2",
+        "l2": "Инклюзивность — это вовсе не лозунг, а требует трансформации систем исключения.",
+        "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+        "gloss": {
+          "en": "Far from being a slogan, inclusion requires transforming the mechanisms of exclusion.",
+          "es": "Lejos de ser un eslogan, la inclusión requiere transformar los mecanismos de exclusión.",
+          "ru": "Инклюзия – это не лозунг, а требует трансформации механизмов исключения."
+        }
+      },
+      {
+        "id": "remote-obshchestvo-c1-mean-3",
+        "l2": "Пока эта стигма не будет названа, никакая меритократия не исправит траектории.",
+        "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+        "gloss": {
+          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+          "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+          "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
+        }
+      }
+    ],
+    "fren": [
+      {
+        "id": "remote-obshchestvo-c1-fren-1",
+        "l2": "неравенство",
+        "en": "inequality",
+        "gloss": {
+          "en": "inequality",
+          "es": "desigualdad",
+          "ru": "неравенство"
+        }
+      },
+      {
+        "id": "remote-obshchestvo-c1-fren-2",
+        "l2": "включение",
+        "en": "inclusion",
+        "gloss": {
+          "en": "inclusion",
+          "es": "inclusión",
+          "ru": "включение"
+        }
+      },
+      {
+        "id": "remote-obshchestvo-c1-fren-3",
+        "l2": "поляризация",
+        "en": "polarization",
+        "gloss": {
+          "en": "polarization",
+          "es": "polarización",
+          "ru": "поляризация"
+        }
+      },
+      {
+        "id": "remote-obshchestvo-c1-fren-4",
+        "l2": "государство всеобщего благосостояния",
+        "en": "welfare state",
+        "gloss": {
+          "en": "welfare state",
+          "es": "estado de bienestar",
+          "ru": "государство всеобщего благосостояния"
+        }
+      },
+      {
+        "id": "remote-obshchestvo-c1-fren-5",
+        "l2": "клеймо",
+        "en": "stigma",
+        "gloss": {
+          "en": "stigma",
+          "es": "estigma",
+          "ru": "клеймо"
+        }
+      },
+      {
+        "id": "remote-obshchestvo-c1-fren-6",
+        "l2": "ненадежность",
+        "en": "precariousness",
+        "gloss": {
+          "en": "precariousness",
+          "es": "precariedad",
+          "ru": "ненадежность"
+        }
+      }
+    ],
+    "aloud": [
+      {
+        "id": "remote-obshchestvo-c1-alou-1",
+        "l2": "Несмотря на то, что разнообразие проявляется, школьная сегрегация остается массовой.",
+        "en": "Even though social mix is advertised, school segregation remains massive.",
+        "gloss": {
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+        },
+        "ipa": "njesmˈotrja nˈa tˈo tɕtˈo raznoobrˈazije projavljˈajetsja ʂkolʲnˈaja sjeɡrjeɡatsˈija ostˈajetsja massˈovoj"
+      },
+      {
+        "id": "remote-obshchestvo-c1-alou-2",
+        "l2": "Пока эта стигма не будет названа, никакая меритократия не исправит траектории.",
+        "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+        "gloss": {
+          "en": "Unless stigma is named as such, no meritocracy will correct these trajectories.",
+          "es": "A menos que el estigma sea nombrado como tal, ninguna meritocracia corregirá estas trayectorias.",
+          "ru": "Если стигма не будет названа таковой, никакая меритократия не исправит эту траекторию."
+        },
+        "ipa": "pˈoka ˈɛta stˈiɡma nje bˈudjet nazvˈana nikakˈaja mjeritokratˈija nje isprˈavit trajektorˈii"
+      },
+      {
+        "id": "remote-obshchestvo-c1-alou-3",
+        "l2": "Именно перераспределение, а не предписание расширения прав и возможностей сокращает неравенство.",
+        "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
+        "gloss": {
+          "en": "It is redistribution, not the injunction to empower oneself, that reduces inequality.",
+          "es": "Es la redistribución, no el mandato de empoderarse, lo que reduce la desigualdad.",
+          "ru": "Именно перераспределение, а не предписание расширять свои возможности, уменьшает неравенство."
+        },
+        "ipa": "ˈimjenno pjerjerˈasprjedjeljenije ˈa nje prjedpisˈanije rasʂirjenˈija prˈav ˈi vozmˈoʐnostjej sokrˈaɕːajet njerˈavjenstvo"
+      }
+    ],
+    "unscramble": [
+      {
+        "id": "remote-obshchestvo-c1-unsc-1",
+        "l2": "Несмотря на то, что разнообразие проявляется, школьная сегрегация остается массовой.",
+        "en": "Even though social mix is advertised, school segregation remains massive.",
+        "gloss": {
+          "en": "Even though social mix is advertised, school segregation remains massive.",
+          "es": "Aunque se anuncia la mezcla social, la segregación escolar sigue siendo masiva.",
+          "ru": "Несмотря на рекламу социального состава, школьная сегрегация остается массовой."
+        },
+        "words": [
+          "Несмотря",
+          "на",
+          "то,",
+          "что",
+          "разнообразие",
+          "проявляется,",
+          "школьная",
+          "сегрегация",
+          "остается",
+          "массовой."
+        ]
+      },
+      {
+        "id": "remote-obshchestvo-c1-unsc-2",
+        "l2": "Именно перераспределение уменьшает неравенство, а не предписание расширения прав и возможностей.",
+        "en": "It is redistribution that reduces inequality, not the injunction to empower oneself.",
+        "gloss": {
+          "en": "It is redistribution that reduces inequality, not the injunction to empower oneself.",
+          "es": "Es la redistribución lo que reduce la desigualdad, no el mandato de empoderarse.",
+          "ru": "Именно перераспределение уменьшает неравенство, а не предписание расширять свои возможности."
+        },
+        "words": [
+          "Именно",
+          "перераспределение",
+          "уменьшает",
+          "неравенство,",
+          "а",
+          "не",
+          "предписание",
+          "расширения",
+          "прав",
+          "и",
+          "возможностей."
+        ]
+      }
+    ]
+  },
+  "sounds": []
+}
